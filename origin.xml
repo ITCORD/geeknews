@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-12T21:13:02.250Z</updated>
+    <updated>2022-01-12T22:14:54.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5726</id>
-        <link href="https://news.hada.io/topic?id=5726"/>
-        <updated>2022-01-12T20:09:32.769Z</updated>
-        <content type="html"><![CDATA[(theinin.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
         <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
         <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox 96 릴리즈]]></title>
-        <id>https://www.mozilla.org/en-US/firefox/96.0/releasenotes/</id>
-        <link href="https://www.mozilla.org/en-US/firefox/96.0/releasenotes/"/>
-        <updated>2022-01-12T20:09:32.771Z</updated>
-        <content type="html"><![CDATA[(mozilla.org)]]></content>
+        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5726</id>
+        <link href="https://news.hada.io/topic?id=5726"/>
+        <updated>2022-01-12T20:09:32.769Z</updated>
+        <content type="html"><![CDATA[(theinin.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
@@ -81,6 +74,13 @@
         <link href="https://www.learndmarc.com/"/>
         <updated>2022-01-12T20:09:32.772Z</updated>
         <content type="html"><![CDATA[(learndmarc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 96 릴리즈]]></title>
+        <id>https://www.mozilla.org/en-US/firefox/96.0/releasenotes/</id>
+        <link href="https://www.mozilla.org/en-US/firefox/96.0/releasenotes/"/>
+        <updated>2022-01-12T20:09:32.771Z</updated>
+        <content type="html"><![CDATA[(mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[건강한 Postgres DB를 위한 팁]]></title>
