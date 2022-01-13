@@ -1,4 +1,8 @@
 # GeekNews
+[GeekNews 최신 글 Feed/RSS 공개](https://news.hada.io/blog/geeknews_feed)
+- 최신: https://news.hada.io/rss/news
+- 블로그: https://news.hada.io/rss/blog
+
 https://itcord.github.io/geeknews/all.xml
 - Home: https://itcord.github.io/geeknews/home.xml
   - Origin: https://itcord.github.io/geeknews/origin.xml
