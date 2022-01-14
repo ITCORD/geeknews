@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-14T08:18:07.887Z</updated>
+    <updated>2022-01-14T09:15:19.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(gist.github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
-        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
-        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
-        <updated>2022-01-14T02:06:42.791Z</updated>
-        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQIP - SVG 기반 이미지 플레이스홀더]]></title>
         <id>https://github.com/axe312ger/sqip</id>
         <link href="https://github.com/axe312ger/sqip"/>
         <updated>2022-01-14T03:16:04.254Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
+        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
+        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
+        <updated>2022-01-14T02:06:42.791Z</updated>
+        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
