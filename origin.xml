@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-14T10:16:10.274Z</updated>
+    <updated>2022-01-14T11:12:48.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(movieofthenight.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP in 2022]]></title>
-        <id>https://stitcher.io/blog/php-in-2022</id>
-        <link href="https://stitcher.io/blog/php-in-2022"/>
-        <updated>2022-01-13T02:08:07.581Z</updated>
-        <content type="html"><![CDATA[(stitcher.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
         <id>https://news.hada.io/topic?id=5726</id>
         <link href="https://news.hada.io/topic?id=5726"/>
@@ -132,11 +125,11 @@
         <content type="html"><![CDATA[(theinin.web.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넥슨그룹 첫 정년퇴직자 '백영진'의 소회]]></title>
-        <id>https://www.inven.co.kr/webzine/news/?news=266901</id>
-        <link href="https://www.inven.co.kr/webzine/news/?news=266901"/>
-        <updated>2022-01-12T20:09:32.766Z</updated>
-        <content type="html"><![CDATA[(inven.co.kr)]]></content>
+        <title type="html"><![CDATA[PHP in 2022]]></title>
+        <id>https://stitcher.io/blog/php-in-2022</id>
+        <link href="https://stitcher.io/blog/php-in-2022"/>
+        <updated>2022-01-13T02:08:07.581Z</updated>
+        <content type="html"><![CDATA[(stitcher.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[건강한 Postgres DB를 위한 팁]]></title>
@@ -144,5 +137,12 @@
         <link href="https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year"/>
         <updated>2022-01-12T20:09:32.773Z</updated>
         <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
+        <id>https://www.learndmarc.com/</id>
+        <link href="https://www.learndmarc.com/"/>
+        <updated>2022-01-14T11:12:13.090Z</updated>
+        <content type="html"><![CDATA[(learndmarc.com)]]></content>
     </entry>
 </feed>
