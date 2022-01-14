@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-14T05:15:47.676Z</updated>
+    <updated>2022-01-14T06:17:43.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ably.com/blog/introducing-the-websocket-handbook"/>
         <updated>2022-01-14T02:06:42.790Z</updated>
         <content type="html"><![CDATA[(ably.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
+        <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
+        <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
+        <updated>2022-01-14T03:16:04.254Z</updated>
+        <content type="html"><![CDATA[(gist.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
@@ -25,13 +32,6 @@
         <link href="https://github.com/axe312ger/sqip"/>
         <updated>2022-01-14T03:16:04.254Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
-        <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
-        <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
-        <updated>2022-01-14T03:16:04.254Z</updated>
-        <content type="html"><![CDATA[(gist.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP in 2022]]></title>
-        <id>https://stitcher.io/blog/php-in-2022</id>
-        <link href="https://stitcher.io/blog/php-in-2022"/>
-        <updated>2022-01-13T02:08:07.581Z</updated>
-        <content type="html"><![CDATA[(stitcher.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[딥러닝 인터뷰 북 [401P e북 PDF]]]></title>
         <id>https://github.com/BoltzmannEntropy/interviews.ai</id>
         <link href="https://github.com/BoltzmannEntropy/interviews.ai"/>
         <updated>2022-01-12T20:09:32.767Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP in 2022]]></title>
+        <id>https://stitcher.io/blog/php-in-2022</id>
+        <link href="https://stitcher.io/blog/php-in-2022"/>
+        <updated>2022-01-13T02:08:07.581Z</updated>
+        <content type="html"><![CDATA[(stitcher.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Movie of the Night - Streaming Availability API]]></title>
