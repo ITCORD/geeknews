@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-14T02:07:18.645Z</updated>
+    <updated>2022-01-14T03:16:41.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,32 @@
         <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SQIP - SVG 기반 이미지 플레이스홀더]]></title>
+        <id>https://github.com/axe312ger/sqip</id>
+        <link href="https://github.com/axe312ger/sqip"/>
+        <updated>2022-01-14T03:16:04.254Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
+        <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
+        <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
+        <updated>2022-01-14T03:16:04.254Z</updated>
+        <content type="html"><![CDATA[(gist.github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
         <id>https://parceljs.org/blog/parcel-css/</id>
         <link href="https://parceljs.org/blog/parcel-css/"/>
         <updated>2022-01-14T02:06:42.791Z</updated>
         <content type="html"><![CDATA[(parceljs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
+        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
+        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
+        <updated>2022-01-14T03:16:04.258Z</updated>
+        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["회색 데드 존" 없는 아름다운 CSS 그라데이션 만들기]]></title>
@@ -34,18 +55,18 @@
         <content type="html"><![CDATA[(joshwcomeau.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache PLC4x 개발자, 펀딩 부족으로 커뮤니티 지원은 중단하겠다고 발표]]></title>
-        <id>https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc</id>
-        <link href="https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc"/>
-        <updated>2022-01-13T02:08:07.581Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
         <id>https://ebadak.news/2022/01/09/2022-questions/</id>
         <link href="https://ebadak.news/2022/01/09/2022-questions/"/>
         <updated>2022-01-13T00:50:29.042Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache PLC4x 개발자, 펀딩 부족으로 커뮤니티 지원은 중단하겠다고 발표]]></title>
+        <id>https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc</id>
+        <link href="https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc"/>
+        <updated>2022-01-13T02:08:07.581Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dura - Git 자동 저장 유틸리티]]></title>
@@ -83,6 +104,13 @@
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[딥러닝 인터뷰 북 [401P e북 PDF]]]></title>
+        <id>https://github.com/BoltzmannEntropy/interviews.ai</id>
+        <link href="https://github.com/BoltzmannEntropy/interviews.ai"/>
+        <updated>2022-01-12T20:09:32.767Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Movie of the Night - Streaming Availability API]]></title>
         <id>https://www.movieofthenight.com/about/api</id>
         <link href="https://www.movieofthenight.com/about/api"/>
@@ -95,13 +123,6 @@
         <link href="https://www.visualcapitalist.com/prediction-consensus-what-the-experts-see-coming-in-2022/"/>
         <updated>2022-01-12T20:09:32.764Z</updated>
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥러닝 인터뷰 북 [401P e북 PDF]]]></title>
-        <id>https://github.com/BoltzmannEntropy/interviews.ai</id>
-        <link href="https://github.com/BoltzmannEntropy/interviews.ai"/>
-        <updated>2022-01-12T20:09:32.767Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
@@ -123,26 +144,5 @@
         <link href="https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year"/>
         <updated>2022-01-12T20:09:32.773Z</updated>
         <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
-        <id>https://www.learndmarc.com/</id>
-        <link href="https://www.learndmarc.com/"/>
-        <updated>2022-01-12T20:09:32.772Z</updated>
-        <content type="html"><![CDATA[(learndmarc.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이디어를 SaaS로 만들고 14개월만에 판매한 후기]]></title>
-        <id>https://masilotti.com/idea-to-sold-in-14-months/</id>
-        <link href="https://masilotti.com/idea-to-sold-in-14-months/"/>
-        <updated>2022-01-12T20:09:32.775Z</updated>
-        <content type="html"><![CDATA[(masilotti.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
-        <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
-        <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
-        <updated>2022-01-12T20:09:32.774Z</updated>
-        <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
     </entry>
 </feed>
