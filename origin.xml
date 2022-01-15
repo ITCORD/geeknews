@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-15T20:15:12.355Z</updated>
+    <updated>2022-01-15T21:12:52.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
-        <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
-        <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
-        <updated>2022-01-15T00:47:20.011Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[WebSocket 핸드북(64p 영문 PDF)]]></title>
         <id>https://ably.com/blog/introducing-the-websocket-handbook</id>
         <link href="https://ably.com/blog/introducing-the-websocket-handbook"/>
         <updated>2022-01-14T02:06:42.790Z</updated>
         <content type="html"><![CDATA[(ably.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
+        <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
+        <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
+        <updated>2022-01-15T00:47:20.011Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(비공식) Login with HN]]></title>
-        <id>https://loginwithhn.com/</id>
-        <link href="https://loginwithhn.com/"/>
-        <updated>2022-01-15T02:03:43.903Z</updated>
-        <content type="html"><![CDATA[(loginwithhn.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
         <id>https://parceljs.org/blog/parcel-css/</id>
         <link href="https://parceljs.org/blog/parcel-css/"/>
@@ -67,6 +60,13 @@
         <link href="https://quantum.country/"/>
         <updated>2022-01-14T12:22:07.170Z</updated>
         <content type="html"><![CDATA[(quantum.country)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(비공식) Login with HN]]></title>
+        <id>https://loginwithhn.com/</id>
+        <link href="https://loginwithhn.com/"/>
+        <updated>2022-01-15T02:03:43.903Z</updated>
+        <content type="html"><![CDATA[(loginwithhn.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["회색 데드 존" 없는 아름다운 CSS 그라데이션 만들기]]></title>
