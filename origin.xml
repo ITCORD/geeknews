@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-15T11:12:19.662Z</updated>
+    <updated>2022-01-15T12:22:35.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,25 +34,25 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NodeJS용 Robots.txt 파서]]></title>
+        <id>https://github.com/samclarke/robots-parser</id>
+        <link href="https://github.com/samclarke/robots-parser"/>
+        <updated>2022-01-15T02:03:43.901Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(비공식) Login with HN]]></title>
+        <id>https://loginwithhn.com/</id>
+        <link href="https://loginwithhn.com/"/>
+        <updated>2022-01-15T02:03:43.903Z</updated>
+        <content type="html"><![CDATA[(loginwithhn.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
         <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
         <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
         <updated>2022-01-14T02:06:42.791Z</updated>
         <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
-        <updated>2022-01-15T04:17:49.851Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
-        <id>https://parceljs.org/blog/parcel-css/</id>
-        <link href="https://parceljs.org/blog/parcel-css/"/>
-        <updated>2022-01-14T02:06:42.791Z</updated>
-        <content type="html"><![CDATA[(parceljs.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Country - spaced repetition 을 통해 양자컴퓨터 학습하기]]></title>
@@ -62,11 +62,25 @@
         <content type="html"><![CDATA[(quantum.country)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NodeJS용 Robots.txt 파서]]></title>
-        <id>https://github.com/samclarke/robots-parser</id>
-        <link href="https://github.com/samclarke/robots-parser"/>
-        <updated>2022-01-15T02:03:43.901Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
+        <id>https://parceljs.org/blog/parcel-css/</id>
+        <link href="https://parceljs.org/blog/parcel-css/"/>
+        <updated>2022-01-14T02:06:42.791Z</updated>
+        <content type="html"><![CDATA[(parceljs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
+        <updated>2022-01-15T04:17:49.851Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
+        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
+        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
+        <updated>2022-01-14T03:16:04.258Z</updated>
+        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["회색 데드 존" 없는 아름다운 CSS 그라데이션 만들기]]></title>
@@ -74,6 +88,13 @@
         <link href="https://www.joshwcomeau.com/css/make-beautiful-gradients/"/>
         <updated>2022-01-13T02:08:07.581Z</updated>
         <content type="html"><![CDATA[(joshwcomeau.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
+        <id>https://ebadak.news/2022/01/09/2022-questions/</id>
+        <link href="https://ebadak.news/2022/01/09/2022-questions/"/>
+        <updated>2022-01-13T00:50:29.042Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
@@ -90,11 +111,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(비공식) Login with HN]]></title>
-        <id>https://loginwithhn.com/</id>
-        <link href="https://loginwithhn.com/"/>
-        <updated>2022-01-15T02:03:43.903Z</updated>
-        <content type="html"><![CDATA[(loginwithhn.com)]]></content>
+        <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
+        <id>https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/</id>
+        <link href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/"/>
+        <updated>2022-01-12T20:09:32.767Z</updated>
+        <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인텔 11세대 이후 CPU에서는 Ultra HD 블루레이 재생 불가]]></title>
@@ -104,25 +125,11 @@
         <content type="html"><![CDATA[(cyberlink.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
-        <id>https://ebadak.news/2022/01/09/2022-questions/</id>
-        <link href="https://ebadak.news/2022/01/09/2022-questions/"/>
-        <updated>2022-01-13T00:50:29.042Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
-        <id>https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/</id>
-        <link href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/"/>
-        <updated>2022-01-12T20:09:32.767Z</updated>
-        <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
-        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
-        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
-        <updated>2022-01-14T03:16:04.258Z</updated>
-        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
+        <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
+        <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
+        <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
+        <updated>2022-01-12T20:09:32.771Z</updated>
+        <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apache PLC4x 개발자, 펀딩 부족으로 커뮤니티 지원은 중단하겠다고 발표]]></title>
@@ -130,13 +137,6 @@
         <link href="https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc"/>
         <updated>2022-01-13T02:08:07.581Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
-        <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
-        <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
-        <updated>2022-01-12T20:09:32.771Z</updated>
-        <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딥러닝 인터뷰 북 [401P e북 PDF]]]></title>
