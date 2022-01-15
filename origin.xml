@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-15T04:18:24.515Z</updated>
+    <updated>2022-01-15T05:15:39.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(ably.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
-        <updated>2022-01-15T04:17:49.851Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
         <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
         <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
@@ -34,25 +27,18 @@
         <content type="html"><![CDATA[(gist.github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
+        <updated>2022-01-15T04:17:49.851Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NodeJS용 Robots.txt 파서]]></title>
         <id>https://github.com/samclarke/robots-parser</id>
         <link href="https://github.com/samclarke/robots-parser"/>
         <updated>2022-01-15T02:03:43.901Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(비공식) Login with HN]]></title>
-        <id>https://loginwithhn.com/</id>
-        <link href="https://loginwithhn.com/"/>
-        <updated>2022-01-15T02:03:43.903Z</updated>
-        <content type="html"><![CDATA[(loginwithhn.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인텔 11세대 이후 CPU에서는 Ultra HD 블루레이 재생 불가]]></title>
-        <id>https://www.cyberlink.com/support/faq-content.do?id=26690</id>
-        <link href="https://www.cyberlink.com/support/faq-content.do?id=26690"/>
-        <updated>2022-01-15T00:47:20.009Z</updated>
-        <content type="html"><![CDATA[(cyberlink.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQIP - SVG 기반 이미지 플레이스홀더]]></title>
@@ -67,6 +53,20 @@
         <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
         <updated>2022-01-14T02:06:42.791Z</updated>
         <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(비공식) Login with HN]]></title>
+        <id>https://loginwithhn.com/</id>
+        <link href="https://loginwithhn.com/"/>
+        <updated>2022-01-15T02:03:43.903Z</updated>
+        <content type="html"><![CDATA[(loginwithhn.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인텔 11세대 이후 CPU에서는 Ultra HD 블루레이 재생 불가]]></title>
+        <id>https://www.cyberlink.com/support/faq-content.do?id=26690</id>
+        <link href="https://www.cyberlink.com/support/faq-content.do?id=26690"/>
+        <updated>2022-01-15T00:47:20.009Z</updated>
+        <content type="html"><![CDATA[(cyberlink.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Country - spaced repetition 을 통해 양자컴퓨터 학습하기]]></title>
@@ -132,16 +132,16 @@
         <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5742</id>
-        <link href="https://news.hada.io/topic?id=5742"/>
-        <updated>2022-01-14T12:22:07.178Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
         <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
         <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
         <updated>2022-01-12T20:09:32.771Z</updated>
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5742</id>
+        <link href="https://news.hada.io/topic?id=5742"/>
+        <updated>2022-01-14T12:22:07.178Z</updated>
     </entry>
 </feed>
