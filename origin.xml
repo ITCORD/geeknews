@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-15T05:15:39.178Z</updated>
+    <updated>2022-01-15T06:18:09.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NodeJS용 Robots.txt 파서]]></title>
-        <id>https://github.com/samclarke/robots-parser</id>
-        <link href="https://github.com/samclarke/robots-parser"/>
-        <updated>2022-01-15T02:03:43.901Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQIP - SVG 기반 이미지 플레이스홀더]]></title>
         <id>https://github.com/axe312ger/sqip</id>
         <link href="https://github.com/axe312ger/sqip"/>
@@ -53,6 +46,13 @@
         <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
         <updated>2022-01-14T02:06:42.791Z</updated>
         <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NodeJS용 Robots.txt 파서]]></title>
+        <id>https://github.com/samclarke/robots-parser</id>
+        <link href="https://github.com/samclarke/robots-parser"/>
+        <updated>2022-01-15T02:03:43.901Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(비공식) Login with HN]]></title>
