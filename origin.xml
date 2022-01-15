@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-15T18:16:51.247Z</updated>
+    <updated>2022-01-15T19:12:13.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,20 +76,6 @@
         <content type="html"><![CDATA[(joshwcomeau.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
-        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
-        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
-        <updated>2022-01-14T03:16:04.258Z</updated>
-        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
-        <id>https://ebadak.news/2022/01/09/2022-questions/</id>
-        <link href="https://ebadak.news/2022/01/09/2022-questions/"/>
-        <updated>2022-01-13T00:50:29.042Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dura - Git 자동 저장 유틸리티]]></title>
         <id>https://github.com/tkellogg/dura</id>
         <link href="https://github.com/tkellogg/dura"/>
@@ -109,6 +95,20 @@
         <link href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/"/>
         <updated>2022-01-12T20:09:32.767Z</updated>
         <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
+        <id>https://ebadak.news/2022/01/09/2022-questions/</id>
+        <link href="https://ebadak.news/2022/01/09/2022-questions/"/>
+        <updated>2022-01-13T00:50:29.042Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
+        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
+        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
+        <updated>2022-01-14T03:16:04.258Z</updated>
+        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
