@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-16T04:18:56.638Z</updated>
+    <updated>2022-01-16T05:15:25.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.11ty.dev/"/>
         <updated>2022-01-16T00:51:05.519Z</updated>
         <content type="html"><![CDATA[(11ty.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub, Mermaid 마크다운 다이어그램 지원 예정]]></title>
+        <id>https://github.com/github/roadmap/issues/372</id>
+        <link href="https://github.com/github/roadmap/issues/372"/>
+        <updated>2022-01-16T02:11:35.234Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
@@ -32,13 +39,6 @@
         <link href="https://looptap.vasanthv.com/"/>
         <updated>2022-01-16T02:11:35.242Z</updated>
         <content type="html"><![CDATA[(looptap.vasanthv.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub, Mermaid 마크다운 다이어그램 지원 예정]]></title>
-        <id>https://github.com/github/roadmap/issues/372</id>
-        <link href="https://github.com/github/roadmap/issues/372"/>
-        <updated>2022-01-16T02:11:35.234Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebSocket 핸드북(64p 영문 PDF)]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(tinkerstellar.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
-        <id>https://parceljs.org/blog/parcel-css/</id>
-        <link href="https://parceljs.org/blog/parcel-css/"/>
-        <updated>2022-01-14T02:06:42.791Z</updated>
-        <content type="html"><![CDATA[(parceljs.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
         <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
         <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
@@ -123,6 +116,13 @@
         <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
         <updated>2022-01-15T04:17:49.851Z</updated>
         <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
+        <id>https://parceljs.org/blog/parcel-css/</id>
+        <link href="https://parceljs.org/blog/parcel-css/"/>
+        <updated>2022-01-14T02:06:42.791Z</updated>
+        <content type="html"><![CDATA[(parceljs.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
