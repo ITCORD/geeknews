@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-16T09:14:33.377Z</updated>
+    <updated>2022-01-16T10:15:26.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(thesun.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
-        <id>https://animatize.com/</id>
-        <link href="https://animatize.com/"/>
-        <updated>2022-01-16T00:51:05.528Z</updated>
-        <content type="html"><![CDATA[(animatize.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Looptap - 시간 때우기용 미니멀 게임]]></title>
         <id>https://looptap.vasanthv.com/</id>
         <link href="https://looptap.vasanthv.com/"/>
         <updated>2022-01-16T02:11:35.242Z</updated>
         <content type="html"><![CDATA[(looptap.vasanthv.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
+        <id>https://animatize.com/</id>
+        <link href="https://animatize.com/"/>
+        <updated>2022-01-16T00:51:05.528Z</updated>
+        <content type="html"><![CDATA[(animatize.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebSocket 핸드북(64p 영문 PDF)]]></title>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(parceljs.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
-        <updated>2022-01-15T04:17:49.851Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quantum Country - spaced repetition 을 통해 양자컴퓨터 학습하기]]></title>
         <id>https://quantum.country/</id>
         <link href="https://quantum.country/"/>
@@ -144,5 +137,12 @@
         <link href="https://github.com/BoltzmannEntropy/interviews.ai"/>
         <updated>2022-01-16T08:17:02.550Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
+        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
+        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
+        <updated>2022-01-16T10:14:48.936Z</updated>
+        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
     </entry>
 </feed>
