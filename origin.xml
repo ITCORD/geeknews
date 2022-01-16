@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-16T15:14:34.198Z</updated>
+    <updated>2022-01-16T16:21:03.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(animatize.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Looptap - 시간 때우기용 미니멀 게임]]></title>
+        <id>https://looptap.vasanthv.com/</id>
+        <link href="https://looptap.vasanthv.com/"/>
+        <updated>2022-01-16T02:11:35.242Z</updated>
+        <content type="html"><![CDATA[(looptap.vasanthv.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub, Mermaid 마크다운 다이어그램 지원 예정]]></title>
         <id>https://github.com/github/roadmap/issues/372</id>
         <link href="https://github.com/github/roadmap/issues/372"/>
@@ -32,13 +39,6 @@
         <link href="https://www.thesun.co.uk/news/17245150/cows-cooped-up-for-winter-get-virtual-reality-goggles/"/>
         <updated>2022-01-16T00:51:05.519Z</updated>
         <content type="html"><![CDATA[(thesun.co.uk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looptap - 시간 때우기용 미니멀 게임]]></title>
-        <id>https://looptap.vasanthv.com/</id>
-        <link href="https://looptap.vasanthv.com/"/>
-        <updated>2022-01-16T02:11:35.242Z</updated>
-        <content type="html"><![CDATA[(looptap.vasanthv.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebSocket 핸드북(64p 영문 PDF)]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
-        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
-        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
-        <updated>2022-01-14T02:06:42.791Z</updated>
-        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
         <id>https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/</id>
         <link href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/"/>
         <updated>2022-01-12T20:09:32.767Z</updated>
         <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
+        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
+        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
+        <updated>2022-01-14T02:06:42.791Z</updated>
+        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantum Country - spaced repetition 을 통해 양자컴퓨터 학습하기]]></title>
-        <id>https://quantum.country/</id>
-        <link href="https://quantum.country/"/>
-        <updated>2022-01-14T12:22:07.170Z</updated>
-        <content type="html"><![CDATA[(quantum.country)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apache PLC4x 개발자, 펀딩 부족으로 커뮤니티 지원은 중단하겠다고 발표]]></title>
         <id>https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc</id>
         <link href="https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc"/>
         <updated>2022-01-16T12:21:22.840Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Country - spaced repetition 을 통해 양자컴퓨터 학습하기]]></title>
+        <id>https://quantum.country/</id>
+        <link href="https://quantum.country/"/>
+        <updated>2022-01-14T12:22:07.170Z</updated>
+        <content type="html"><![CDATA[(quantum.country)]]></content>
     </entry>
 </feed>
