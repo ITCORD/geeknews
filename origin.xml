@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-17T00:49:43.417Z</updated>
+    <updated>2022-01-17T02:07:08.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
+        <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
+        <link href="https://github.com/rmcelreath/stat_rethinking_2022"/>
+        <updated>2022-01-17T02:06:32.100Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Infrastructure Map - 전세계 발전소 현황]]></title>
+        <id>https://openinframap.org/#2/23.29/82.93</id>
+        <link href="https://openinframap.org/#2/23.29/82.93"/>
+        <updated>2022-01-17T02:06:32.101Z</updated>
+        <content type="html"><![CDATA[(openinframap.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instauto - Puppeteer를 이용한 인스타그램 자동화 봇]]></title>
         <id>https://github.com/mifi/instauto</id>
         <link href="https://github.com/mifi/instauto"/>
         <updated>2022-01-17T00:48:59.343Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jailer - RDB 부분집합 추출 및 데이터 브라우징 도구]]></title>
+        <id>https://wisser.github.io/Jailer/</id>
+        <link href="https://wisser.github.io/Jailer/"/>
+        <updated>2022-01-17T02:06:32.113Z</updated>
+        <content type="html"><![CDATA[(wisser.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
+        <id>https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview</id>
+        <link href="https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview"/>
+        <updated>2022-01-17T02:06:32.113Z</updated>
+        <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
@@ -83,13 +111,6 @@
         <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
-        <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
-        <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
-        <updated>2022-01-12T20:09:32.771Z</updated>
-        <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
         <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
         <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
@@ -97,18 +118,11 @@
         <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dura - Git 자동 저장 유틸리티]]></title>
-        <id>https://github.com/tkellogg/dura</id>
-        <link href="https://github.com/tkellogg/dura"/>
-        <updated>2022-01-12T20:09:32.753Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
-        <id>https://tinkerstellar.com/</id>
-        <link href="https://tinkerstellar.com/"/>
-        <updated>2022-01-12T20:09:32.753Z</updated>
-        <content type="html"><![CDATA[(tinkerstellar.com)]]></content>
+        <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
+        <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
+        <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
+        <updated>2022-01-12T20:09:32.771Z</updated>
+        <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["회색 데드 존" 없는 아름다운 CSS 그라데이션 만들기]]></title>
@@ -118,31 +132,17 @@
         <content type="html"><![CDATA[(joshwcomeau.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
-        <id>https://ebadak.news/2022/01/09/2022-questions/</id>
-        <link href="https://ebadak.news/2022/01/09/2022-questions/"/>
-        <updated>2022-01-13T00:50:29.042Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
+        <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
+        <id>https://tinkerstellar.com/</id>
+        <link href="https://tinkerstellar.com/"/>
+        <updated>2022-01-12T20:09:32.753Z</updated>
+        <content type="html"><![CDATA[(tinkerstellar.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딥러닝 인터뷰 북 [401P e북 PDF]]]></title>
-        <id>https://github.com/BoltzmannEntropy/interviews.ai</id>
-        <link href="https://github.com/BoltzmannEntropy/interviews.ai"/>
-        <updated>2022-01-16T08:17:02.550Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
-        <id>https://parceljs.org/blog/parcel-css/</id>
-        <link href="https://parceljs.org/blog/parcel-css/"/>
-        <updated>2022-01-14T02:06:42.791Z</updated>
-        <content type="html"><![CDATA[(parceljs.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache PLC4x 개발자, 펀딩 부족으로 커뮤니티 지원은 중단하겠다고 발표]]></title>
-        <id>https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc</id>
-        <link href="https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc"/>
-        <updated>2022-01-16T12:21:22.840Z</updated>
+        <title type="html"><![CDATA[Dura - Git 자동 저장 유틸리티]]></title>
+        <id>https://github.com/tkellogg/dura</id>
+        <link href="https://github.com/tkellogg/dura"/>
+        <updated>2022-01-12T20:09:32.753Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
