@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-16T23:14:23.041Z</updated>
+    <updated>2022-01-17T00:49:43.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Eleventy - 정적 사이트 생성기]]></title>
-        <id>https://www.11ty.dev/</id>
-        <link href="https://www.11ty.dev/"/>
-        <updated>2022-01-16T00:51:05.519Z</updated>
-        <content type="html"><![CDATA[(11ty.dev)]]></content>
+        <title type="html"><![CDATA[Instauto - Puppeteer를 이용한 인스타그램 자동화 봇]]></title>
+        <id>https://github.com/mifi/instauto</id>
+        <link href="https://github.com/mifi/instauto"/>
+        <updated>2022-01-17T00:48:59.343Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
@@ -18,6 +18,13 @@
         <link href="https://animatize.com/"/>
         <updated>2022-01-16T00:51:05.528Z</updated>
         <content type="html"><![CDATA[(animatize.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eleventy - 정적 사이트 생성기]]></title>
+        <id>https://www.11ty.dev/</id>
+        <link href="https://www.11ty.dev/"/>
+        <updated>2022-01-16T00:51:05.519Z</updated>
+        <content type="html"><![CDATA[(11ty.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, Mermaid 마크다운 다이어그램 지원 예정]]></title>
@@ -48,18 +55,18 @@
         <content type="html"><![CDATA[(ably.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
-        <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
-        <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
-        <updated>2022-01-14T03:16:04.254Z</updated>
-        <content type="html"><![CDATA[(gist.github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
         <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
         <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
         <updated>2022-01-15T00:47:20.011Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
+        <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
+        <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
+        <updated>2022-01-14T03:16:04.254Z</updated>
+        <content type="html"><![CDATA[(gist.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQIP - SVG 기반 이미지 플레이스홀더]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc"/>
         <updated>2022-01-16T12:21:22.840Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5726</id>
-        <link href="https://news.hada.io/topic?id=5726"/>
-        <updated>2022-01-16T22:13:32.204Z</updated>
-        <content type="html"><![CDATA[(theinin.web.app)]]></content>
     </entry>
 </feed>
