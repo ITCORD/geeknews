@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-17T07:15:08.387Z</updated>
+    <updated>2022-01-17T08:18:40.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Open Infrastructure Map - 전세계 발전소 현황]]></title>
-        <id>https://openinframap.org/#2/23.29/82.93</id>
-        <link href="https://openinframap.org/#2/23.29/82.93"/>
-        <updated>2022-01-17T02:06:32.101Z</updated>
-        <content type="html"><![CDATA[(openinframap.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pretendard 커스텀 폰트 도입기]]></title>
-        <id>https://blog.dramancompany.com/2022/01/pretendard-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%B0%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0/</id>
-        <link href="https://blog.dramancompany.com/2022/01/pretendard-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%B0%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0/"/>
-        <updated>2022-01-17T03:16:20.712Z</updated>
-        <content type="html"><![CDATA[(blog.dramancompany.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
         <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
@@ -27,11 +13,25 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Open Infrastructure Map - 전세계 발전소 현황]]></title>
+        <id>https://openinframap.org/#2/23.29/82.93</id>
+        <link href="https://openinframap.org/#2/23.29/82.93"/>
+        <updated>2022-01-17T02:06:32.101Z</updated>
+        <content type="html"><![CDATA[(openinframap.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
         <id>https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview</id>
         <link href="https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview"/>
         <updated>2022-01-17T02:06:32.113Z</updated>
         <content type="html"><![CDATA[(docs.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretendard 커스텀 폰트 도입기]]></title>
+        <id>https://blog.dramancompany.com/2022/01/pretendard-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%B0%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0/</id>
+        <link href="https://blog.dramancompany.com/2022/01/pretendard-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%B0%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0/"/>
+        <updated>2022-01-17T03:16:20.712Z</updated>
+        <content type="html"><![CDATA[(blog.dramancompany.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Instauto - Puppeteer를 이용한 인스타그램 자동화 봇]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(thesun.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
-        <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
-        <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
-        <updated>2022-01-15T00:47:20.011Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
         <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
         <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
         <updated>2022-01-14T03:16:04.254Z</updated>
         <content type="html"><![CDATA[(gist.github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
+        <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
+        <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
+        <updated>2022-01-15T00:47:20.011Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
