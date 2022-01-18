@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-18T04:19:03.532Z</updated>
+    <updated>2022-01-18T05:15:53.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신의 앱이 Google Play 정책을 준수하지 않습니다]]></title>
-        <id>https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html</id>
-        <link href="https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html"/>
-        <updated>2022-01-18T00:49:58.932Z</updated>
-        <content type="html"><![CDATA[(sylviavanos.nl)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스큐어모피즘부터 뉴모피즘까지, 스마트폰 UI의 역사]]></title>
         <id>https://yozm.wishket.com/magazine/detail/1281/</id>
         <link href="https://yozm.wishket.com/magazine/detail/1281/"/>
         <updated>2022-01-18T02:10:12.479Z</updated>
         <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 앱이 Google Play 정책을 준수하지 않습니다]]></title>
+        <id>https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html</id>
+        <link href="https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html"/>
+        <updated>2022-01-18T00:49:58.932Z</updated>
+        <content type="html"><![CDATA[(sylviavanos.nl)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faker.js 는 이제 커뮤니티가 관리하는 프로젝트입니다]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(fakerjs.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 요금이 케이블TV보다 2배 빠르게 오르고 있다]]></title>
-        <id>https://www.interneteconomist.com/netflix-and-cable-prices/</id>
-        <link href="https://www.interneteconomist.com/netflix-and-cable-prices/"/>
-        <updated>2022-01-18T00:49:58.932Z</updated>
-        <content type="html"><![CDATA[(interneteconomist.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[System76 스케쥴러 공개]]></title>
         <id>https://github.com/pop-os/system76-scheduler</id>
         <link href="https://github.com/pop-os/system76-scheduler"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
-        <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
-        <link href="https://github.com/rmcelreath/stat_rethinking_2022"/>
-        <updated>2022-01-17T02:06:32.100Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[넷플릭스 요금이 케이블TV보다 2배 빠르게 오르고 있다]]></title>
+        <id>https://www.interneteconomist.com/netflix-and-cable-prices/</id>
+        <link href="https://www.interneteconomist.com/netflix-and-cable-prices/"/>
+        <updated>2022-01-18T00:49:58.932Z</updated>
+        <content type="html"><![CDATA[(interneteconomist.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pretendard 커스텀 폰트 도입기]]></title>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[(blog.dramancompany.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Infrastructure Map - 전세계 발전소 현황]]></title>
-        <id>https://openinframap.org/#2/23.29/82.93</id>
-        <link href="https://openinframap.org/#2/23.29/82.93"/>
-        <updated>2022-01-17T02:06:32.101Z</updated>
-        <content type="html"><![CDATA[(openinframap.org)]]></content>
+        <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
+        <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
+        <link href="https://github.com/rmcelreath/stat_rethinking_2022"/>
+        <updated>2022-01-17T02:06:32.100Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
@@ -90,11 +83,25 @@
         <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Open Infrastructure Map - 전세계 발전소 현황]]></title>
+        <id>https://openinframap.org/#2/23.29/82.93</id>
+        <link href="https://openinframap.org/#2/23.29/82.93"/>
+        <updated>2022-01-17T02:06:32.101Z</updated>
+        <content type="html"><![CDATA[(openinframap.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Instauto - Puppeteer를 이용한 인스타그램 자동화 봇]]></title>
         <id>https://github.com/mifi/instauto</id>
         <link href="https://github.com/mifi/instauto"/>
         <updated>2022-01-17T00:48:59.343Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jailer - RDB 부분집합 추출 및 데이터 브라우징 도구]]></title>
+        <id>https://wisser.github.io/Jailer/</id>
+        <link href="https://wisser.github.io/Jailer/"/>
+        <updated>2022-01-17T02:06:32.113Z</updated>
+        <content type="html"><![CDATA[(wisser.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
@@ -116,13 +123,6 @@
         <link href="https://github.com/github/roadmap/issues/372"/>
         <updated>2022-01-16T02:11:35.234Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jailer - RDB 부분집합 추출 및 데이터 브라우징 도구]]></title>
-        <id>https://wisser.github.io/Jailer/</id>
-        <link href="https://wisser.github.io/Jailer/"/>
-        <updated>2022-01-17T02:06:32.113Z</updated>
-        <content type="html"><![CDATA[(wisser.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebSocket 핸드북(64p 영문 PDF)]]></title>
