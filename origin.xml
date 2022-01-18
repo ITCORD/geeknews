@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-17T23:14:38.340Z</updated>
+    <updated>2022-01-18T00:50:38.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신의 앱이 Google Play 정책을 준수하지 않습니다]]></title>
+        <id>https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html</id>
+        <link href="https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html"/>
+        <updated>2022-01-18T00:49:58.932Z</updated>
+        <content type="html"><![CDATA[(sylviavanos.nl)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 요금이 케이블TV보다 2배 빠르게 오르고 있다]]></title>
+        <id>https://www.interneteconomist.com/netflix-and-cable-prices/</id>
+        <link href="https://www.interneteconomist.com/netflix-and-cable-prices/"/>
+        <updated>2022-01-18T00:49:58.932Z</updated>
+        <content type="html"><![CDATA[(interneteconomist.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
         <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
@@ -13,18 +27,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Infrastructure Map - 전세계 발전소 현황]]></title>
-        <id>https://openinframap.org/#2/23.29/82.93</id>
-        <link href="https://openinframap.org/#2/23.29/82.93"/>
-        <updated>2022-01-17T02:06:32.101Z</updated>
-        <content type="html"><![CDATA[(openinframap.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pretendard 커스텀 폰트 도입기]]></title>
         <id>https://blog.dramancompany.com/2022/01/pretendard-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%B0%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0/</id>
         <link href="https://blog.dramancompany.com/2022/01/pretendard-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%B0%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0/"/>
         <updated>2022-01-17T03:16:20.712Z</updated>
         <content type="html"><![CDATA[(blog.dramancompany.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Infrastructure Map - 전세계 발전소 현황]]></title>
+        <id>https://openinframap.org/#2/23.29/82.93</id>
+        <link href="https://openinframap.org/#2/23.29/82.93"/>
+        <updated>2022-01-17T02:06:32.101Z</updated>
+        <content type="html"><![CDATA[(openinframap.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
@@ -83,18 +97,18 @@
         <content type="html"><![CDATA[(looptap.vasanthv.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mootrix - 소들에게 VR고글을 씌우니 하루 우유 생산량이 22에서 27리터로 증가]]></title>
-        <id>https://www.thesun.co.uk/news/17245150/cows-cooped-up-for-winter-get-virtual-reality-goggles/</id>
-        <link href="https://www.thesun.co.uk/news/17245150/cows-cooped-up-for-winter-get-virtual-reality-goggles/"/>
-        <updated>2022-01-16T00:51:05.519Z</updated>
-        <content type="html"><![CDATA[(thesun.co.uk)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
         <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
         <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
         <updated>2022-01-14T03:16:04.254Z</updated>
         <content type="html"><![CDATA[(gist.github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mootrix - 소들에게 VR고글을 씌우니 하루 우유 생산량이 22에서 27리터로 증가]]></title>
+        <id>https://www.thesun.co.uk/news/17245150/cows-cooped-up-for-winter-get-virtual-reality-goggles/</id>
+        <link href="https://www.thesun.co.uk/news/17245150/cows-cooped-up-for-winter-get-virtual-reality-goggles/"/>
+        <updated>2022-01-16T00:51:05.519Z</updated>
+        <content type="html"><![CDATA[(thesun.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.joshwcomeau.com/css/make-beautiful-gradients/"/>
         <updated>2022-01-13T02:08:07.581Z</updated>
         <content type="html"><![CDATA[(joshwcomeau.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥러닝 인터뷰 북 [401P e북 PDF]]]></title>
-        <id>https://github.com/BoltzmannEntropy/interviews.ai</id>
-        <link href="https://github.com/BoltzmannEntropy/interviews.ai"/>
-        <updated>2022-01-17T16:21:48.104Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dura - Git 자동 저장 유틸리티]]></title>
-        <id>https://github.com/tkellogg/dura</id>
-        <link href="https://github.com/tkellogg/dura"/>
-        <updated>2022-01-17T15:14:33.266Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
