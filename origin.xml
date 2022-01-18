@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-18T13:24:47.061Z</updated>
+    <updated>2022-01-18T14:14:42.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
         <updated>2022-01-18T03:16:07.289Z</updated>
         <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이크로소프트가 액티비전블리자드를 인수]]></title>
+        <id>https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming</id>
+        <link href="https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming"/>
+        <updated>2022-01-18T14:13:55.559Z</updated>
+        <content type="html"><![CDATA[(news.xbox.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Essence - 밑바닥부터 새로 만든 오픈소스 데스크탑 OS]]></title>
@@ -137,12 +144,5 @@
         <link href="https://looptap.vasanthv.com/"/>
         <updated>2022-01-16T02:11:35.242Z</updated>
         <content type="html"><![CDATA[(looptap.vasanthv.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
-        <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
-        <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
-        <updated>2022-01-18T04:18:24.516Z</updated>
-        <content type="html"><![CDATA[(gist.github.com)]]></content>
     </entry>
 </feed>
