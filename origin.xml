@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-19T02:26:09.630Z</updated>
+    <updated>2022-01-19T03:14:06.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
+        <id>https://github.com/YousefED/Matrix-CRDT</id>
+        <link href="https://github.com/YousefED/Matrix-CRDT"/>
+        <updated>2022-01-19T02:25:34.341Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이크로소프트의 액티비전 블리자드 인수 관련 투자자 컨퍼런스 콜 내용]]></title>
         <id>https://www.microsoft.com/en-us/Investor/events/FY-2022/Microsoft-and-Activision-Blizzard-Conference-Call</id>
@@ -17,13 +24,6 @@
         <id>https://github.com/ankitpokhrel/jira-cli</id>
         <link href="https://github.com/ankitpokhrel/jira-cli"/>
         <updated>2022-01-19T00:43:32.392Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
-        <id>https://github.com/YousefED/Matrix-CRDT</id>
-        <link href="https://github.com/YousefED/Matrix-CRDT"/>
-        <updated>2022-01-19T02:25:34.341Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[마이크로소프트가 액티비전블리자드를 인수]]></title>
+        <id>https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming</id>
+        <link href="https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming"/>
+        <updated>2022-01-18T14:13:55.559Z</updated>
+        <content type="html"><![CDATA[(news.xbox.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스마트하게 머신러닝 적용하는 법]]></title>
         <id>https://yozm.wishket.com/magazine/detail/1267/</id>
         <link href="https://yozm.wishket.com/magazine/detail/1267/"/>
@@ -53,13 +60,6 @@
         <link href="https://github.com/gitbrent/PptxGenJS"/>
         <updated>2022-01-19T01:53:57.922Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로소프트가 액티비전블리자드를 인수]]></title>
-        <id>https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming</id>
-        <link href="https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming"/>
-        <updated>2022-01-18T14:13:55.559Z</updated>
-        <content type="html"><![CDATA[(news.xbox.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Essence - 밑바닥부터 새로 만든 오픈소스 데스크탑 OS]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(interneteconomist.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
-        <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
-        <link href="https://github.com/rmcelreath/stat_rethinking_2022"/>
-        <updated>2022-01-17T02:06:32.100Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open Infrastructure Map - 전세계 발전소 현황]]></title>
         <id>https://openinframap.org/#2/23.29/82.93</id>
         <link href="https://openinframap.org/#2/23.29/82.93"/>
         <updated>2022-01-17T02:06:32.101Z</updated>
         <content type="html"><![CDATA[(openinframap.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
+        <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
+        <link href="https://github.com/rmcelreath/stat_rethinking_2022"/>
+        <updated>2022-01-17T02:06:32.100Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Instauto - Puppeteer를 이용한 인스타그램 자동화 봇]]></title>
