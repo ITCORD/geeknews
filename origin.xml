@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-19T07:11:15.306Z</updated>
+    <updated>2022-01-19T08:16:02.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(microsoft.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JiraCLI - 커맨드라인용 인터랙티브 JIRA 클라이언트]]></title>
-        <id>https://github.com/ankitpokhrel/jira-cli</id>
-        <link href="https://github.com/ankitpokhrel/jira-cli"/>
-        <updated>2022-01-19T00:43:32.392Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
         <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
         <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
         <updated>2022-01-18T03:16:07.289Z</updated>
         <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JiraCLI - 커맨드라인용 인터랙티브 JIRA 클라이언트]]></title>
+        <id>https://github.com/ankitpokhrel/jira-cli</id>
+        <link href="https://github.com/ankitpokhrel/jira-cli"/>
+        <updated>2022-01-19T00:43:32.392Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(interneteconomist.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
+        <id>https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview</id>
+        <link href="https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview"/>
+        <updated>2022-01-17T02:06:32.113Z</updated>
+        <content type="html"><![CDATA[(docs.google.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
         <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
         <link href="https://github.com/rmcelreath/stat_rethinking_2022"/>
@@ -130,13 +137,6 @@
         <link href="https://github.com/mifi/instauto"/>
         <updated>2022-01-17T00:48:59.343Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
-        <id>https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview</id>
-        <link href="https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview"/>
-        <updated>2022-01-17T02:06:32.113Z</updated>
-        <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[System76 스케쥴러 공개]]></title>
