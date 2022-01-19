@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-19T03:14:06.256Z</updated>
+    <updated>2022-01-19T04:17:05.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
-        <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
-        <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
-        <updated>2022-01-18T03:16:07.289Z</updated>
-        <content type="html"><![CDATA[(moxie.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
         <id>https://github.com/wonderworks-software/PyFlow</id>
         <link href="https://github.com/wonderworks-software/PyFlow"/>
@@ -41,11 +34,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마이크로소프트가 액티비전블리자드를 인수]]></title>
-        <id>https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming</id>
-        <link href="https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming"/>
-        <updated>2022-01-18T14:13:55.559Z</updated>
-        <content type="html"><![CDATA[(news.xbox.com)]]></content>
+        <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
+        <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
+        <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
+        <updated>2022-01-18T03:16:07.289Z</updated>
+        <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PptxGenJS - JS API로 파워포인트 슬라이드 생성]]></title>
+        <id>https://github.com/gitbrent/PptxGenJS</id>
+        <link href="https://github.com/gitbrent/PptxGenJS"/>
+        <updated>2022-01-19T01:53:57.922Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트하게 머신러닝 적용하는 법]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PptxGenJS - JS API로 파워포인트 슬라이드 생성]]></title>
-        <id>https://github.com/gitbrent/PptxGenJS</id>
-        <link href="https://github.com/gitbrent/PptxGenJS"/>
-        <updated>2022-01-19T01:53:57.922Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[마이크로소프트가 액티비전블리자드를 인수]]></title>
+        <id>https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming</id>
+        <link href="https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming"/>
+        <updated>2022-01-18T14:13:55.559Z</updated>
+        <content type="html"><![CDATA[(news.xbox.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Essence - 밑바닥부터 새로 만든 오픈소스 데스크탑 OS]]></title>
