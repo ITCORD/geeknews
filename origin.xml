@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-19T01:54:36.140Z</updated>
+    <updated>2022-01-19T02:26:09.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
+        <id>https://github.com/YousefED/Matrix-CRDT</id>
+        <link href="https://github.com/YousefED/Matrix-CRDT"/>
+        <updated>2022-01-19T02:25:34.341Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
         <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
         <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
         <updated>2022-01-18T03:16:07.289Z</updated>
         <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
+        <id>https://github.com/wonderworks-software/PyFlow</id>
+        <link href="https://github.com/wonderworks-software/PyFlow"/>
+        <updated>2022-01-19T01:53:57.922Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트하게 머신러닝 적용하는 법]]></title>
@@ -53,13 +67,6 @@
         <link href="https://nakst.gitlab.io/essence"/>
         <updated>2022-01-18T02:10:12.505Z</updated>
         <content type="html"><![CDATA[(nakst.gitlab.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
-        <id>https://github.com/wonderworks-software/PyFlow</id>
-        <link href="https://github.com/wonderworks-software/PyFlow"/>
-        <updated>2022-01-19T01:53:57.922Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 25 주년 타임라인]]></title>
@@ -104,13 +111,6 @@
         <content type="html"><![CDATA[(interneteconomist.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System76 스케쥴러 공개]]></title>
-        <id>https://github.com/pop-os/system76-scheduler</id>
-        <link href="https://github.com/pop-os/system76-scheduler"/>
-        <updated>2022-01-18T03:16:07.301Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
         <id>https://github.com/rmcelreath/stat_rethinking_2022</id>
         <link href="https://github.com/rmcelreath/stat_rethinking_2022"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[System76 스케쥴러 공개]]></title>
+        <id>https://github.com/pop-os/system76-scheduler</id>
+        <link href="https://github.com/pop-os/system76-scheduler"/>
+        <updated>2022-01-18T03:16:07.301Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
         <id>https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview</id>
         <link href="https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview"/>
         <updated>2022-01-17T02:06:32.113Z</updated>
         <content type="html"><![CDATA[(docs.google.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eleventy - 정적 사이트 생성기]]></title>
-        <id>https://www.11ty.dev/</id>
-        <link href="https://www.11ty.dev/"/>
-        <updated>2022-01-16T00:51:05.519Z</updated>
-        <content type="html"><![CDATA[(11ty.dev)]]></content>
     </entry>
 </feed>
