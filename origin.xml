@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-18T23:13:11.322Z</updated>
+    <updated>2022-01-19T00:44:12.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JiraCLI - 커맨드라인용 인터랙티브 JIRA 클라이언트]]></title>
+        <id>https://github.com/ankitpokhrel/jira-cli</id>
+        <link href="https://github.com/ankitpokhrel/jira-cli"/>
+        <updated>2022-01-19T00:43:32.392Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
         <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
         <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
         <updated>2022-01-18T03:16:07.289Z</updated>
         <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이크로소프트의 액티비전 블리자드 인수 관련 투자자 컨퍼런스 콜 내용]]></title>
+        <id>https://www.microsoft.com/en-us/Investor/events/FY-2022/Microsoft-and-Activision-Blizzard-Conference-Call</id>
+        <link href="https://www.microsoft.com/en-us/Investor/events/FY-2022/Microsoft-and-Activision-Blizzard-Conference-Call"/>
+        <updated>2022-01-19T00:43:32.392Z</updated>
+        <content type="html"><![CDATA[(microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마이크로소프트가 액티비전블리자드를 인수]]></title>
@@ -104,18 +118,18 @@
         <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
-        <id>https://animatize.com/</id>
-        <link href="https://animatize.com/"/>
-        <updated>2022-01-16T00:51:05.528Z</updated>
-        <content type="html"><![CDATA[(animatize.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Eleventy - 정적 사이트 생성기]]></title>
         <id>https://www.11ty.dev/</id>
         <link href="https://www.11ty.dev/"/>
         <updated>2022-01-16T00:51:05.519Z</updated>
         <content type="html"><![CDATA[(11ty.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
+        <id>https://animatize.com/</id>
+        <link href="https://animatize.com/"/>
+        <updated>2022-01-16T00:51:05.528Z</updated>
+        <content type="html"><![CDATA[(animatize.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, Mermaid 마크다운 다이어그램 지원 예정]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebSocket 핸드북(64p 영문 PDF)]]></title>
-        <id>https://ably.com/blog/introducing-the-websocket-handbook</id>
-        <link href="https://ably.com/blog/introducing-the-websocket-handbook"/>
-        <updated>2022-01-14T02:06:42.790Z</updated>
-        <content type="html"><![CDATA[(ably.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jailer - RDB 부분집합 추출 및 데이터 브라우징 도구]]></title>
         <id>https://wisser.github.io/Jailer/</id>
         <link href="https://wisser.github.io/Jailer/"/>
         <updated>2022-01-17T02:06:32.113Z</updated>
         <content type="html"><![CDATA[(wisser.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
-        <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
-        <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
-        <updated>2022-01-18T15:14:58.068Z</updated>
-        <content type="html"><![CDATA[(gist.github.com)]]></content>
     </entry>
 </feed>
