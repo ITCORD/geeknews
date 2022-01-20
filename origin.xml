@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-19T23:13:51.064Z</updated>
+    <updated>2022-01-20T00:53:59.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.com/YousefED/Matrix-CRDT"/>
         <updated>2022-01-19T02:25:34.341Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jodd - Unbearable Lightness of Java]]></title>
+        <id>https://jodd.org/</id>
+        <link href="https://jodd.org/"/>
+        <updated>2022-01-20T00:53:16.835Z</updated>
+        <content type="html"><![CDATA[(jodd.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.11ty.dev/"/>
         <updated>2022-01-19T09:13:31.322Z</updated>
         <content type="html"><![CDATA[(11ty.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
-        <id>https://animatize.com/</id>
-        <link href="https://animatize.com/"/>
-        <updated>2022-01-19T21:12:19.010Z</updated>
-        <content type="html"><![CDATA[(animatize.com)]]></content>
     </entry>
 </feed>
