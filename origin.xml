@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-20T13:17:44.263Z</updated>
+    <updated>2022-01-20T14:12:42.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ruby-on-Rails를 사용한 ViteJS]]></title>
+        <id>https://www.bootrails.com/blog/vitejs-rails-a-wonderful-combination/</id>
+        <link href="https://www.bootrails.com/blog/vitejs-rails-a-wonderful-combination/"/>
+        <updated>2022-01-20T14:12:07.295Z</updated>
+        <content type="html"><![CDATA[(bootrails.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지?]]></title>
         <id>https://news.hada.io/topic?id=5790</id>
         <link href="https://news.hada.io/topic?id=5790"/>
@@ -52,13 +59,6 @@
         <id>https://news.hada.io/topic?id=5783</id>
         <link href="https://news.hada.io/topic?id=5783"/>
         <updated>2022-01-20T07:12:57.996Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50개 디자인 시스템 레퍼런스 for 다음 내 사이드 프로젝트]]></title>
-        <id>https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702</id>
-        <link href="https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702"/>
-        <updated>2022-01-20T13:17:07.265Z</updated>
-        <content type="html"><![CDATA[(blog.prototypr.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
@@ -80,6 +80,13 @@
         <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
         <updated>2022-01-18T03:16:07.289Z</updated>
         <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50개 디자인 시스템 레퍼런스 for 다음 내 사이드 프로젝트]]></title>
+        <id>https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702</id>
+        <link href="https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702"/>
+        <updated>2022-01-20T13:17:07.265Z</updated>
+        <content type="html"><![CDATA[(blog.prototypr.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wine 7.0 릴리즈]]></title>
@@ -136,12 +143,5 @@
         <link href="https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming"/>
         <updated>2022-01-18T14:13:55.559Z</updated>
         <content type="html"><![CDATA[(news.xbox.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트하게 머신러닝 적용하는 법]]></title>
-        <id>https://yozm.wishket.com/magazine/detail/1267/</id>
-        <link href="https://yozm.wishket.com/magazine/detail/1267/"/>
-        <updated>2022-01-19T01:53:57.922Z</updated>
-        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
 </feed>
