@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-21T03:13:50.378Z</updated>
+    <updated>2022-01-21T04:19:29.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://drovp.app/"/>
         <updated>2022-01-21T00:44:11.760Z</updated>
         <content type="html"><![CDATA[(drovp.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 역사와 미래]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1289/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1289/"/>
+        <updated>2022-01-21T01:56:59.267Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50개 디자인 시스템 레퍼런스 for 다음 내 사이드 프로젝트]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 역사와 미래]]></title>
-        <id>https://yozm.wishket.com/magazine/detail/1289/</id>
-        <link href="https://yozm.wishket.com/magazine/detail/1289/"/>
-        <updated>2022-01-21T01:56:59.267Z</updated>
-        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[월 $500 이상 버는 사이드 프로젝트가 있나요?]]></title>
         <id>https://news.ycombinator.com/item?id=29995152</id>
         <link href="https://news.ycombinator.com/item?id=29995152"/>
@@ -53,6 +53,13 @@
         <link href="https://news.hada.io/topic?id=5790"/>
         <updated>2022-01-20T10:14:12.141Z</updated>
         <content type="html"><![CDATA[(agoapp.page.link)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 SaaS Insights 2022 (54p Slide)]]></title>
+        <id>https://docsend.com/view/ttm4fzuh2d9saixj</id>
+        <link href="https://docsend.com/view/ttm4fzuh2d9saixj"/>
+        <updated>2022-01-21T04:18:49.767Z</updated>
+        <content type="html"><![CDATA[(docsend.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스 분산 버전 관리 시스템 Pijul 1.0 베타 공개]]></title>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[(moxie.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nginx 개발자 Igor Sysoev 사임]]></title>
-        <id>https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/</id>
-        <link href="https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/"/>
-        <updated>2022-01-20T02:11:26.917Z</updated>
-        <content type="html"><![CDATA[(nginx.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
         <id>https://github.com/YousefED/Matrix-CRDT</id>
         <link href="https://github.com/YousefED/Matrix-CRDT"/>
         <updated>2022-01-19T02:25:34.341Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx 개발자 Igor Sysoev 사임]]></title>
+        <id>https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/</id>
+        <link href="https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/"/>
+        <updated>2022-01-20T02:11:26.917Z</updated>
+        <content type="html"><![CDATA[(nginx.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이팔: 실시간 그래프 데이터베이스 분석을 통해 사기를 방지하는 방법]]></title>
@@ -136,12 +143,5 @@
         <link href="https://github.com/wonderworks-software/PyFlow"/>
         <updated>2022-01-19T01:53:57.922Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 7.0 릴리즈]]></title>
-        <id>https://www.winehq.org/announce/7.0</id>
-        <link href="https://www.winehq.org/announce/7.0"/>
-        <updated>2022-01-20T03:12:52.270Z</updated>
-        <content type="html"><![CDATA[(winehq.org)]]></content>
     </entry>
 </feed>
