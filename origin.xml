@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-22T21:12:27.402Z</updated>
+    <updated>2022-01-22T22:13:15.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(remix.run)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 'GSuite 무료 에디션' 중단하고 7월 1일부터 비용 청구]]></title>
-        <id>https://support.google.com/a/answer/2855120?hl=ko</id>
-        <link href="https://support.google.com/a/answer/2855120?hl=ko"/>
-        <updated>2022-01-22T01:52:20.416Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[월 $500 이상 버는 사이드 프로젝트가 있나요?]]></title>
         <id>https://news.ycombinator.com/item?id=29995152</id>
         <link href="https://news.ycombinator.com/item?id=29995152"/>
         <updated>2022-01-20T03:12:52.264Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 'GSuite 무료 에디션' 중단하고 7월 1일부터 비용 청구]]></title>
+        <id>https://support.google.com/a/answer/2855120?hl=ko</id>
+        <link href="https://support.google.com/a/answer/2855120?hl=ko"/>
+        <updated>2022-01-22T01:52:20.416Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지?]]></title>
@@ -118,20 +118,6 @@
         <content type="html"><![CDATA[(docsend.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 코드명 Iris로 새로운 AR 헤드셋 개발중]]></title>
-        <id>https://www.theverge.com/2022/1/20/22892152/google-project-iris-ar-headset-2024</id>
-        <link href="https://www.theverge.com/2022/1/20/22892152/google-project-iris-ar-headset-2024"/>
-        <updated>2022-01-21T01:56:59.271Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 역사와 미래]]></title>
-        <id>https://yozm.wishket.com/magazine/detail/1289/</id>
-        <link href="https://yozm.wishket.com/magazine/detail/1289/"/>
-        <updated>2022-01-21T01:56:59.267Z</updated>
-        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
         <id>https://github.com/wonderworks-software/PyFlow</id>
         <link href="https://github.com/wonderworks-software/PyFlow"/>
@@ -144,5 +130,19 @@
         <link href="https://www.microsoft.com/en-us/Investor/events/FY-2022/Microsoft-and-Activision-Blizzard-Conference-Call"/>
         <updated>2022-01-19T00:43:32.392Z</updated>
         <content type="html"><![CDATA[(microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 코드명 Iris로 새로운 AR 헤드셋 개발중]]></title>
+        <id>https://www.theverge.com/2022/1/20/22892152/google-project-iris-ar-headset-2024</id>
+        <link href="https://www.theverge.com/2022/1/20/22892152/google-project-iris-ar-headset-2024"/>
+        <updated>2022-01-21T01:56:59.271Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 역사와 미래]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1289/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1289/"/>
+        <updated>2022-01-21T01:56:59.267Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
 </feed>
