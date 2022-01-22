@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-22T00:43:47.212Z</updated>
+    <updated>2022-01-22T01:52:55.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, 'GSuite 무료 에디션' 중단하고 7월 1일부터 비용 청구]]></title>
+        <id>https://support.google.com/a/answer/2855120?hl=ko</id>
+        <link href="https://support.google.com/a/answer/2855120?hl=ko"/>
+        <updated>2022-01-22T01:52:20.416Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drovp - 드래그&드롭 UI 기반 유틸리티]]></title>
         <id>https://drovp.app/</id>
         <link href="https://drovp.app/"/>
         <updated>2022-01-21T00:44:11.760Z</updated>
         <content type="html"><![CDATA[(drovp.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remix vs. Next.js]]></title>
+        <id>https://remix.run/blog/remix-vs-next</id>
+        <link href="https://remix.run/blog/remix-vs-next"/>
+        <updated>2022-01-22T01:52:20.416Z</updated>
+        <content type="html"><![CDATA[(remix.run)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50개 디자인 시스템 레퍼런스 for 다음 내 사이드 프로젝트]]></title>
@@ -129,19 +143,5 @@
         <link href="https://jodd.org/"/>
         <updated>2022-01-20T00:53:16.835Z</updated>
         <content type="html"><![CDATA[(jodd.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
-        <id>https://github.com/wonderworks-software/PyFlow</id>
-        <link href="https://github.com/wonderworks-software/PyFlow"/>
-        <updated>2022-01-19T01:53:57.922Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JiraCLI - 커맨드라인용 인터랙티브 JIRA 클라이언트]]></title>
-        <id>https://github.com/ankitpokhrel/jira-cli</id>
-        <link href="https://github.com/ankitpokhrel/jira-cli"/>
-        <updated>2022-01-21T16:18:20.979Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
