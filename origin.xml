@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-23T11:11:54.519Z</updated>
+    <updated>2022-01-23T12:21:19.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://fly.io/blog/free-postgres/"/>
         <updated>2022-01-22T02:27:06.101Z</updated>
         <content type="html"><![CDATA[(fly.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50개 디자인 시스템 레퍼런스 for 다음 내 사이드 프로젝트]]></title>
+        <id>https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702</id>
+        <link href="https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702"/>
+        <updated>2022-01-20T13:17:07.265Z</updated>
+        <content type="html"><![CDATA[(blog.prototypr.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hajimari - 쿠버네티스 디스커버리를 이용한 시작 페이지/대시보드]]></title>
@@ -25,13 +32,6 @@
         <link href="https://frame.work/blog/open-sourcing-our-firmware"/>
         <updated>2022-01-23T00:44:24.822Z</updated>
         <content type="html"><![CDATA[(frame.work)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50개 디자인 시스템 레퍼런스 for 다음 내 사이드 프로젝트]]></title>
-        <id>https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702</id>
-        <link href="https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702"/>
-        <updated>2022-01-20T13:17:07.265Z</updated>
-        <content type="html"><![CDATA[(blog.prototypr.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Drovp - 드래그&드롭 UI 기반 유틸리티]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스 분산 버전 관리 시스템 Pijul 1.0 베타 공개]]></title>
-        <id>https://pijul.org/posts/2022-01-08-beta/</id>
-        <link href="https://pijul.org/posts/2022-01-08-beta/"/>
-        <updated>2022-01-21T00:44:11.758Z</updated>
-        <content type="html"><![CDATA[(pijul.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마이크로소프트-액티비전 거래의 시사점]]></title>
         <id>https://www.theinformation.com/articles/eight-takeaways-from-the-microsoft-activision-deal</id>
         <link href="https://www.theinformation.com/articles/eight-takeaways-from-the-microsoft-activision-deal"/>
@@ -118,11 +111,11 @@
         <content type="html"><![CDATA[(theinformation.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Play Games 베타 시작 - 모바일 게임을 PC에서]]></title>
-        <id>https://play.google.com/googleplaygames</id>
-        <link href="https://play.google.com/googleplaygames"/>
-        <updated>2022-01-21T01:56:59.268Z</updated>
-        <content type="html"><![CDATA[(play.google.com)]]></content>
+        <title type="html"><![CDATA[오픈소스 분산 버전 관리 시스템 Pijul 1.0 베타 공개]]></title>
+        <id>https://pijul.org/posts/2022-01-08-beta/</id>
+        <link href="https://pijul.org/posts/2022-01-08-beta/"/>
+        <updated>2022-01-21T00:44:11.758Z</updated>
+        <content type="html"><![CDATA[(pijul.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nginx 개발자 Igor Sysoev 사임]]></title>
@@ -130,6 +123,13 @@
         <link href="https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/"/>
         <updated>2022-01-20T02:11:26.917Z</updated>
         <content type="html"><![CDATA[(nginx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play Games 베타 시작 - 모바일 게임을 PC에서]]></title>
+        <id>https://play.google.com/googleplaygames</id>
+        <link href="https://play.google.com/googleplaygames"/>
+        <updated>2022-01-21T01:56:59.268Z</updated>
+        <content type="html"><![CDATA[(play.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
