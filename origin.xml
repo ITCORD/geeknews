@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-22T23:13:59.315Z</updated>
+    <updated>2022-01-23T00:45:05.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모듈형 노트북 Framework, 펌웨어 오픈소스 공개]]></title>
+        <id>https://frame.work/blog/open-sourcing-our-firmware</id>
+        <link href="https://frame.work/blog/open-sourcing-our-firmware"/>
+        <updated>2022-01-23T00:44:24.822Z</updated>
+        <content type="html"><![CDATA[(frame.work)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fly.io, 소규모 프로젝트를 위한 무료 Postgres DB 제공]]></title>
         <id>https://fly.io/blog/free-postgres/</id>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[(drovp.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터, NFT를 프로필 사진에 이용하는 기능 제공]]></title>
-        <id>https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft</id>
-        <link href="https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft"/>
-        <updated>2022-01-22T03:12:57.444Z</updated>
-        <content type="html"><![CDATA[(help.twitter.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[월 $500 이상 버는 사이드 프로젝트가 있나요?]]></title>
         <id>https://news.ycombinator.com/item?id=29995152</id>
         <link href="https://news.ycombinator.com/item?id=29995152"/>
         <updated>2022-01-20T03:12:52.264Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터, NFT를 프로필 사진에 이용하는 기능 제공]]></title>
+        <id>https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft</id>
+        <link href="https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft"/>
+        <updated>2022-01-22T03:12:57.444Z</updated>
+        <content type="html"><![CDATA[(help.twitter.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remix vs. Next.js]]></title>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지?]]></title>
-        <id>https://news.hada.io/topic?id=5790</id>
-        <link href="https://news.hada.io/topic?id=5790"/>
-        <updated>2022-01-20T10:14:12.141Z</updated>
-        <content type="html"><![CDATA[(agoapp.page.link)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
         <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
         <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
         <updated>2022-01-18T03:16:07.289Z</updated>
         <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지?]]></title>
+        <id>https://news.hada.io/topic?id=5790</id>
+        <link href="https://news.hada.io/topic?id=5790"/>
+        <updated>2022-01-20T10:14:12.141Z</updated>
+        <content type="html"><![CDATA[(agoapp.page.link)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반려견 산책으로 년 1억을 버는 사람의 이야기]]></title>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[(microsoft.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 코드명 Iris로 새로운 AR 헤드셋 개발중]]></title>
-        <id>https://www.theverge.com/2022/1/20/22892152/google-project-iris-ar-headset-2024</id>
-        <link href="https://www.theverge.com/2022/1/20/22892152/google-project-iris-ar-headset-2024"/>
-        <updated>2022-01-21T01:56:59.271Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 역사와 미래]]></title>
-        <id>https://yozm.wishket.com/magazine/detail/1289/</id>
-        <link href="https://yozm.wishket.com/magazine/detail/1289/"/>
-        <updated>2022-01-21T01:56:59.267Z</updated>
+        <title type="html"><![CDATA[페이팔: 실시간 그래프 데이터베이스 분석을 통해 사기를 방지하는 방법]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1287/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1287/"/>
+        <updated>2022-01-23T00:44:24.884Z</updated>
         <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
 </feed>
