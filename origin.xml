@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-23T19:10:45.212Z</updated>
+    <updated>2022-01-23T20:14:03.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(remix.run)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반려견 산책으로 년 1억을 버는 사람의 이야기]]></title>
-        <id>https://thehustle.co/what-its-like-to-make-100k-walking-dogs/</id>
-        <link href="https://thehustle.co/what-its-like-to-make-100k-walking-dogs/"/>
-        <updated>2022-01-20T07:12:57.996Z</updated>
-        <content type="html"><![CDATA[(thehustle.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
         <id>https://github.com/YousefED/Matrix-CRDT</id>
         <link href="https://github.com/YousefED/Matrix-CRDT"/>
         <updated>2022-01-19T02:25:34.341Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반려견 산책으로 년 1억을 버는 사람의 이야기]]></title>
+        <id>https://thehustle.co/what-its-like-to-make-100k-walking-dogs/</id>
+        <link href="https://thehustle.co/what-its-like-to-make-100k-walking-dogs/"/>
+        <updated>2022-01-20T07:12:57.996Z</updated>
+        <content type="html"><![CDATA[(thehustle.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 GSuite 무료 버전 종료한 것에 대해 집단소송 당할 수도]]></title>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(nginx.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Play Games 베타 시작 - 모바일 게임을 PC에서]]></title>
-        <id>https://play.google.com/googleplaygames</id>
-        <link href="https://play.google.com/googleplaygames"/>
-        <updated>2022-01-21T01:56:59.268Z</updated>
-        <content type="html"><![CDATA[(play.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
         <id>https://github.com/wonderworks-software/PyFlow</id>
         <link href="https://github.com/wonderworks-software/PyFlow"/>
@@ -144,5 +137,12 @@
         <link href="https://www.microsoft.com/en-us/Investor/events/FY-2022/Microsoft-and-Activision-Blizzard-Conference-Call"/>
         <updated>2022-01-19T00:43:32.392Z</updated>
         <content type="html"><![CDATA[(microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play Games 베타 시작 - 모바일 게임을 PC에서]]></title>
+        <id>https://play.google.com/googleplaygames</id>
+        <link href="https://play.google.com/googleplaygames"/>
+        <updated>2022-01-21T01:56:59.268Z</updated>
+        <content type="html"><![CDATA[(play.google.com)]]></content>
     </entry>
 </feed>
