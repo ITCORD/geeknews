@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-24T02:02:38.642Z</updated>
+    <updated>2022-01-24T03:16:55.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://lwn.net/Articles/881439/"/>
         <updated>2022-01-24T02:02:02.520Z</updated>
         <content type="html"><![CDATA[(lwn.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떤 노코드 툴을 써야 하나요?]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1291/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1291/"/>
+        <updated>2022-01-24T03:16:21.000Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fly.io, 소규모 프로젝트를 위한 무료 Postgres DB 제공]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.theinformation.com/articles/eight-takeaways-from-the-microsoft-activision-deal"/>
         <updated>2022-01-20T02:11:26.917Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스 분산 버전 관리 시스템 Pijul 1.0 베타 공개]]></title>
-        <id>https://pijul.org/posts/2022-01-08-beta/</id>
-        <link href="https://pijul.org/posts/2022-01-08-beta/"/>
-        <updated>2022-01-21T00:44:11.758Z</updated>
-        <content type="html"><![CDATA[(pijul.org)]]></content>
     </entry>
 </feed>
