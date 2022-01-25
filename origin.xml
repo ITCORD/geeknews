@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-25T03:14:34.853Z</updated>
+    <updated>2022-01-25T04:17:38.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -33,13 +33,6 @@
         <content type="html"><![CDATA[(malwaredefinition.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템]]></title>
-        <id>http://skybot.cam/</id>
-        <link href="http://skybot.cam/"/>
-        <updated>2022-01-25T02:02:58.893Z</updated>
-        <content type="html"><![CDATA[(skybot.cam)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
         <id>https://jobsearch.dev/</id>
         <link href="https://jobsearch.dev/"/>
@@ -47,18 +40,25 @@
         <content type="html"><![CDATA[(jobsearch.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이스북을 떠나며]]></title>
-        <id>https://frantic.im/leaving-facebook/</id>
-        <link href="https://frantic.im/leaving-facebook/"/>
-        <updated>2022-01-24T02:02:02.519Z</updated>
-        <content type="html"><![CDATA[(frantic.im)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란]]></title>
         <id>https://yozm.wishket.com/magazine/detail/1294/</id>
         <link href="https://yozm.wishket.com/magazine/detail/1294/"/>
         <updated>2022-01-25T02:02:58.919Z</updated>
         <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템]]></title>
+        <id>http://skybot.cam/</id>
+        <link href="http://skybot.cam/"/>
+        <updated>2022-01-25T02:02:58.893Z</updated>
+        <content type="html"><![CDATA[(skybot.cam)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북을 떠나며]]></title>
+        <id>https://frantic.im/leaving-facebook/</id>
+        <link href="https://frantic.im/leaving-facebook/"/>
+        <updated>2022-01-24T02:02:02.519Z</updated>
+        <content type="html"><![CDATA[(frantic.im)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
