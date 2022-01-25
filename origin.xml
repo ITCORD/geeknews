@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-25T09:14:04.433Z</updated>
+    <updated>2022-01-25T10:15:02.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -19,6 +19,13 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
+        <id>https://jobsearch.dev/</id>
+        <link href="https://jobsearch.dev/"/>
+        <updated>2022-01-24T00:44:20.972Z</updated>
+        <content type="html"><![CDATA[(jobsearch.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[암호화폐 지갑 MetaMask의 캐주얼한 코드 리뷰]]></title>
         <id>https://malwaredefinition.com/index.php/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/</id>
         <link href="https://malwaredefinition.com/index.php/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/"/>
@@ -31,13 +38,6 @@
         <link href="https://twitter.com/mikebeckhamsm/status/1484303008943034372?s=21"/>
         <updated>2022-01-25T02:02:58.902Z</updated>
         <content type="html"><![CDATA[(twitter.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
-        <id>https://jobsearch.dev/</id>
-        <link href="https://jobsearch.dev/"/>
-        <updated>2022-01-24T00:44:20.972Z</updated>
-        <content type="html"><![CDATA[(jobsearch.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wapp - TCL을 위한 웹 어플리케이션 스택]]></title>
