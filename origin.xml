@@ -2,35 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-25T02:03:39.586Z</updated>
+    <updated>2022-01-25T03:14:34.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템]]></title>
-        <id>http://skybot.cam/</id>
-        <link href="http://skybot.cam/"/>
-        <updated>2022-01-25T02:02:58.893Z</updated>
-        <content type="html"><![CDATA[(skybot.cam)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wapp - TCL을 위한 웹 어플리케이션 스택]]></title>
-        <id>https://wapp.tcl.tk/</id>
-        <link href="https://wapp.tcl.tk/"/>
-        <updated>2022-01-25T00:50:53.198Z</updated>
-        <content type="html"><![CDATA[(wapp.tcl.tk)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5816</id>
         <link href="https://news.hada.io/topic?id=5816"/>
         <updated>2022-01-25T02:02:58.896Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암호화폐 지갑 MetaMask의 캐주얼한 코드 리뷰]]></title>
-        <id>https://malwaredefinition.com/index.php/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/</id>
-        <link href="https://malwaredefinition.com/index.php/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/"/>
-        <updated>2022-01-25T02:02:58.901Z</updated>
-        <content type="html"><![CDATA[(malwaredefinition.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신규 입사자가 "자리 좀 꾸며도 되나요?" 해서 Yes 했더니 생긴 일]]></title>
@@ -40,18 +19,32 @@
         <content type="html"><![CDATA[(twitter.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wapp - TCL을 위한 웹 어플리케이션 스택]]></title>
+        <id>https://wapp.tcl.tk/</id>
+        <link href="https://wapp.tcl.tk/"/>
+        <updated>2022-01-25T00:50:53.198Z</updated>
+        <content type="html"><![CDATA[(wapp.tcl.tk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[암호화폐 지갑 MetaMask의 캐주얼한 코드 리뷰]]></title>
+        <id>https://malwaredefinition.com/index.php/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/</id>
+        <link href="https://malwaredefinition.com/index.php/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/"/>
+        <updated>2022-01-25T02:02:58.901Z</updated>
+        <content type="html"><![CDATA[(malwaredefinition.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템]]></title>
+        <id>http://skybot.cam/</id>
+        <link href="http://skybot.cam/"/>
+        <updated>2022-01-25T02:02:58.893Z</updated>
+        <content type="html"><![CDATA[(skybot.cam)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
         <id>https://jobsearch.dev/</id>
         <link href="https://jobsearch.dev/"/>
         <updated>2022-01-24T00:44:20.972Z</updated>
         <content type="html"><![CDATA[(jobsearch.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란]]></title>
-        <id>https://yozm.wishket.com/magazine/detail/1294/</id>
-        <link href="https://yozm.wishket.com/magazine/detail/1294/"/>
-        <updated>2022-01-25T02:02:58.919Z</updated>
-        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북을 떠나며]]></title>
@@ -61,11 +54,25 @@
         <content type="html"><![CDATA[(frantic.im)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1294/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1294/"/>
+        <updated>2022-01-25T02:02:58.919Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
         <id>https://github.com/khuedoan/homelab</id>
         <link href="https://github.com/khuedoan/homelab"/>
         <updated>2022-01-24T00:44:20.972Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Annie 모바일 현황 2022 보고서 (한국어, 73P)]]></title>
+        <id>https://www.appannie.com/kr/go/state-of-mobile-2022</id>
+        <link href="https://www.appannie.com/kr/go/state-of-mobile-2022"/>
+        <updated>2022-01-25T03:13:53.636Z</updated>
+        <content type="html"><![CDATA[(appannie.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gitlab Handbook 의 HackerNews 페이지]]></title>
@@ -136,12 +143,5 @@
         <link href="https://news.ycombinator.com/item?id=29995152"/>
         <updated>2022-01-20T03:12:52.264Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지?]]></title>
-        <id>https://news.hada.io/topic?id=5790</id>
-        <link href="https://news.hada.io/topic?id=5790"/>
-        <updated>2022-01-20T10:14:12.141Z</updated>
-        <content type="html"><![CDATA[(agoapp.page.link)]]></content>
     </entry>
 </feed>
