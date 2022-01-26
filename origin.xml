@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-25T23:14:52.221Z</updated>
+    <updated>2022-01-26T00:52:00.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -19,18 +19,18 @@
         <content type="html"><![CDATA[(jobsearch.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
+        <updated>2022-01-26T00:51:20.687Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란]]></title>
         <id>https://velog.io/@teo/frontend</id>
         <link href="https://velog.io/@teo/frontend"/>
         <updated>2022-01-25T09:13:23.428Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wapp - TCL을 위한 웹 어플리케이션 스택]]></title>
-        <id>https://wapp.tcl.tk/</id>
-        <link href="https://wapp.tcl.tk/"/>
-        <updated>2022-01-25T00:50:53.198Z</updated>
-        <content type="html"><![CDATA[(wapp.tcl.tk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북을 떠나며]]></title>
@@ -45,6 +45,13 @@
         <link href="https://github.com/khuedoan/homelab"/>
         <updated>2022-01-24T00:44:20.972Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wapp - TCL을 위한 웹 어플리케이션 스택]]></title>
+        <id>https://wapp.tcl.tk/</id>
+        <link href="https://wapp.tcl.tk/"/>
+        <updated>2022-01-25T00:50:53.198Z</updated>
+        <content type="html"><![CDATA[(wapp.tcl.tk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[암호화폐 지갑 MetaMask의 캐주얼한 코드 리뷰]]></title>
@@ -89,18 +96,18 @@
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리눅스 뉴스레터&커뮤니티 LWN 10년만에 구독료 인상]]></title>
-        <id>https://lwn.net/Articles/881439/</id>
-        <link href="https://lwn.net/Articles/881439/"/>
-        <updated>2022-01-24T02:02:02.520Z</updated>
-        <content type="html"><![CDATA[(lwn.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fly.io, 소규모 프로젝트를 위한 무료 Postgres DB 제공]]></title>
         <id>https://fly.io/blog/free-postgres/</id>
         <link href="https://fly.io/blog/free-postgres/"/>
         <updated>2022-01-22T02:27:06.101Z</updated>
         <content type="html"><![CDATA[(fly.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리눅스 뉴스레터&커뮤니티 LWN 10년만에 구독료 인상]]></title>
+        <id>https://lwn.net/Articles/881439/</id>
+        <link href="https://lwn.net/Articles/881439/"/>
+        <updated>2022-01-24T02:02:02.520Z</updated>
+        <content type="html"><![CDATA[(lwn.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50개 디자인 시스템 레퍼런스 for 다음 내 사이드 프로젝트]]></title>
@@ -136,12 +143,5 @@
         <link href="https://news.ycombinator.com/item?id=29995152"/>
         <updated>2022-01-20T03:12:52.264Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
-        <id>https://github.com/YousefED/Matrix-CRDT</id>
-        <link href="https://github.com/YousefED/Matrix-CRDT"/>
-        <updated>2022-01-25T19:11:40.769Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
