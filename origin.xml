@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-27T09:14:47.760Z</updated>
+    <updated>2022-01-27T10:14:48.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 리서치(제프 딘)의 미래 ML 테마들]]></title>
-        <id>https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html</id>
-        <link href="https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html"/>
-        <updated>2022-01-27T03:13:46.249Z</updated>
-        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Actions by Example]]></title>
         <id>https://www.actionsbyexample.com/</id>
         <link href="https://www.actionsbyexample.com/"/>
         <updated>2022-01-26T04:16:47.099Z</updated>
         <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 리서치(제프 딘)의 미래 ML 테마들]]></title>
+        <id>https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html</id>
+        <link href="https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html"/>
+        <updated>2022-01-27T03:13:46.249Z</updated>
+        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
@@ -89,13 +89,6 @@
         <content type="html"><![CDATA[(isgoogleanalyticsillegal.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Castled - Reverse ETL 오픈소스]]></title>
-        <id>https://github.com/castledio/castled</id>
-        <link href="https://github.com/castledio/castled"/>
-        <updated>2022-01-27T01:56:41.344Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란]]></title>
         <id>https://velog.io/@teo/frontend</id>
         <link href="https://velog.io/@teo/frontend"/>
@@ -107,6 +100,13 @@
         <id>https://github.com/khuedoan/homelab</id>
         <link href="https://github.com/khuedoan/homelab"/>
         <updated>2022-01-24T00:44:20.972Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Castled - Reverse ETL 오픈소스]]></title>
+        <id>https://github.com/castledio/castled</id>
+        <link href="https://github.com/castledio/castled"/>
+        <updated>2022-01-27T01:56:41.344Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
