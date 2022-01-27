@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-27T12:21:35.498Z</updated>
+    <updated>2022-01-27T13:19:51.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html"/>
         <updated>2022-01-27T01:56:41.342Z</updated>
         <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 프로세서, Windows 11 및 10에서 fTPM이 활성화된 게임에서 성능 저하 확인]]></title>
+        <id>https://www.hardwaretimes.com/amd-processors-see-performance-drop-in-games-w-ftpm-enabled-in-windows-11-and-10/</id>
+        <link href="https://www.hardwaretimes.com/amd-processors-see-performance-drop-in-games-w-ftpm-enabled-in-windows-11-and-10/"/>
+        <updated>2022-01-27T13:19:08.123Z</updated>
+        <content type="html"><![CDATA[(hardwaretimes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, FLoC을 대체할 새 "토픽 API" 공개]]></title>
@@ -136,12 +143,5 @@
         <link href="https://twitter.com/mikebeckhamsm/status/1484303008943034372?s=21"/>
         <updated>2022-01-25T02:02:58.902Z</updated>
         <content type="html"><![CDATA[(twitter.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wapp - TCL을 위한 웹 어플리케이션 스택]]></title>
-        <id>https://wapp.tcl.tk/</id>
-        <link href="https://wapp.tcl.tk/"/>
-        <updated>2022-01-27T07:12:53.985Z</updated>
-        <content type="html"><![CDATA[(wapp.tcl.tk)]]></content>
     </entry>
 </feed>
