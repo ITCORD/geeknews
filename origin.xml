@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-27T16:19:48.872Z</updated>
+    <updated>2022-01-27T17:16:41.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PyKIPass - QR체크인 API 래퍼]]></title>
+        <id>https://github.com/alus20x/PyKIPass</id>
+        <link href="https://github.com/alus20x/PyKIPass"/>
+        <updated>2022-01-27T17:16:04.571Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 리서치(제프 딘)의 미래 ML 테마들]]></title>
         <id>https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html</id>
         <link href="https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html"/>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수잔의 편지 : 유튜브 CEO가 말하는 2022년 우선순위]]></title>
-        <id>https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html</id>
-        <link href="https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html"/>
-        <updated>2022-01-27T01:56:41.342Z</updated>
-        <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
         <updated>2022-01-26T00:51:20.687Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수잔의 편지 : 유튜브 CEO가 말하는 2022년 우선순위]]></title>
+        <id>https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html</id>
+        <link href="https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html"/>
+        <updated>2022-01-27T01:56:41.342Z</updated>
+        <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Actions by Example]]></title>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD 프로세서, Windows 11 및 10에서 fTPM이 활성화된 게임에서 성능 저하 확인]]></title>
-        <id>https://www.hardwaretimes.com/amd-processors-see-performance-drop-in-games-w-ftpm-enabled-in-windows-11-and-10/</id>
-        <link href="https://www.hardwaretimes.com/amd-processors-see-performance-drop-in-games-w-ftpm-enabled-in-windows-11-and-10/"/>
-        <updated>2022-01-27T13:19:08.123Z</updated>
-        <content type="html"><![CDATA[(hardwaretimes.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
         <id>https://jobsearch.dev/</id>
         <link href="https://jobsearch.dev/"/>
         <updated>2022-01-24T00:44:20.972Z</updated>
         <content type="html"><![CDATA[(jobsearch.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 프로세서, Windows 11 및 10에서 fTPM이 활성화된 게임에서 성능 저하 확인]]></title>
+        <id>https://www.hardwaretimes.com/amd-processors-see-performance-drop-in-games-w-ftpm-enabled-in-windows-11-and-10/</id>
+        <link href="https://www.hardwaretimes.com/amd-processors-see-performance-drop-in-games-w-ftpm-enabled-in-windows-11-and-10/"/>
+        <updated>2022-01-27T13:19:08.123Z</updated>
+        <content type="html"><![CDATA[(hardwaretimes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yuzu - 닌텐도 스위치 에뮬레이터]]></title>
@@ -129,13 +136,6 @@
         <link href="https://www.appannie.com/kr/go/state-of-mobile-2022"/>
         <updated>2022-01-25T03:13:53.636Z</updated>
         <content type="html"><![CDATA[(appannie.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castled - Reverse ETL 오픈소스]]></title>
-        <id>https://github.com/castledio/castled</id>
-        <link href="https://github.com/castledio/castled"/>
-        <updated>2022-01-27T01:56:41.344Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신규 입사자가 "자리 좀 꾸며도 되나요?" 해서 Yes 했더니 생긴 일]]></title>
