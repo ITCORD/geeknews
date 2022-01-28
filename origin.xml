@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-28T00:45:31.708Z</updated>
+    <updated>2022-01-28T01:57:04.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
         <updated>2022-01-28T00:44:55.671Z</updated>
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
+        <id>https://vanillalist.top/</id>
+        <link href="https://vanillalist.top/"/>
+        <updated>2022-01-28T01:56:28.423Z</updated>
+        <content type="html"><![CDATA[(vanillalist.top)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
@@ -25,6 +32,20 @@
         <link href="https://news.ycombinator.com/item?id=30053761"/>
         <updated>2022-01-27T01:56:41.320Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
+        <id>https://cleanup.pictures/</id>
+        <link href="https://cleanup.pictures/"/>
+        <updated>2022-01-28T01:56:28.423Z</updated>
+        <content type="html"><![CDATA[(cleanup.pictures)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
+        <id>https://kore.io/</id>
+        <link href="https://kore.io/"/>
+        <updated>2022-01-28T01:56:28.423Z</updated>
+        <content type="html"><![CDATA[(kore.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
@@ -69,18 +90,18 @@
         <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, FLoC을 대체할 새 "토픽 API" 공개]]></title>
-        <id>https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html</id>
-        <link href="https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html"/>
-        <updated>2022-01-27T01:56:41.321Z</updated>
-        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
         <id>https://jobsearch.dev/</id>
         <link href="https://jobsearch.dev/"/>
         <updated>2022-01-24T00:44:20.972Z</updated>
         <content type="html"><![CDATA[(jobsearch.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, FLoC을 대체할 새 "토픽 API" 공개]]></title>
+        <id>https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html</id>
+        <link href="https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html"/>
+        <updated>2022-01-27T01:56:41.321Z</updated>
+        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AMD 프로세서, Windows 11 및 10에서 fTPM이 활성화된 게임에서 성능 저하 확인]]></title>
@@ -122,26 +143,5 @@
         <link href="https://velog.io/@teo/frontend"/>
         <updated>2022-01-25T09:13:23.428Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북을 떠나며]]></title>
-        <id>https://frantic.im/leaving-facebook/</id>
-        <link href="https://frantic.im/leaving-facebook/"/>
-        <updated>2022-01-24T02:02:02.519Z</updated>
-        <content type="html"><![CDATA[(frantic.im)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 나라에서 Google Analytics는 불법인가요?]]></title>
-        <id>https://isgoogleanalyticsillegal.com/</id>
-        <link href="https://isgoogleanalyticsillegal.com/"/>
-        <updated>2022-01-26T02:03:29.781Z</updated>
-        <content type="html"><![CDATA[(isgoogleanalyticsillegal.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Annie 모바일 현황 2022 보고서 (한국어, 73P)]]></title>
-        <id>https://www.appannie.com/kr/go/state-of-mobile-2022</id>
-        <link href="https://www.appannie.com/kr/go/state-of-mobile-2022"/>
-        <updated>2022-01-25T03:13:53.636Z</updated>
-        <content type="html"><![CDATA[(appannie.com)]]></content>
     </entry>
 </feed>
