@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-28T03:13:51.763Z</updated>
+    <updated>2022-01-28T04:17:17.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wordle - 5글자 단어 맞추기]]></title>
+        <id>https://www.powerlanguage.co.uk/wordle/</id>
+        <link href="https://www.powerlanguage.co.uk/wordle/"/>
+        <updated>2022-01-28T04:16:35.670Z</updated>
+        <content type="html"><![CDATA[(powerlanguage.co.uk)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
         <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
@@ -27,6 +34,20 @@
         <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
+        <id>https://cleanup.pictures/</id>
+        <link href="https://cleanup.pictures/"/>
+        <updated>2022-01-28T01:56:28.423Z</updated>
+        <content type="html"><![CDATA[(cleanup.pictures)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
+        <id>https://kore.io/</id>
+        <link href="https://kore.io/"/>
+        <updated>2022-01-28T01:56:28.423Z</updated>
+        <content type="html"><![CDATA[(kore.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
         <id>https://news.hada.io/topic?id=5837</id>
         <link href="https://news.hada.io/topic?id=5837"/>
@@ -41,13 +62,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canonical Partner Archive, Ubuntu 22.04 LTS 에서 폐지 논의중]]></title>
-        <id>https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html</id>
-        <link href="https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html"/>
-        <updated>2022-01-28T02:30:30.007Z</updated>
-        <content type="html"><![CDATA[(lists.ubuntu.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어떤 기술이 2022년에 "Cutting Edge" 라고 생각하나요?]]></title>
         <id>https://news.ycombinator.com/item?id=30053761</id>
         <link href="https://news.ycombinator.com/item?id=30053761"/>
@@ -55,18 +69,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
-        <id>https://cleanup.pictures/</id>
-        <link href="https://cleanup.pictures/"/>
-        <updated>2022-01-28T01:56:28.423Z</updated>
-        <content type="html"><![CDATA[(cleanup.pictures)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
-        <id>https://kore.io/</id>
-        <link href="https://kore.io/"/>
-        <updated>2022-01-28T01:56:28.423Z</updated>
-        <content type="html"><![CDATA[(kore.io)]]></content>
+        <title type="html"><![CDATA[Canonical Partner Archive, Ubuntu 22.04 LTS 에서 폐지 논의중]]></title>
+        <id>https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html</id>
+        <link href="https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html"/>
+        <updated>2022-01-28T02:30:30.007Z</updated>
+        <content type="html"><![CDATA[(lists.ubuntu.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
@@ -136,12 +143,5 @@
         <id>https://news.hada.io/topic?id=5816</id>
         <link href="https://news.hada.io/topic?id=5816"/>
         <updated>2022-01-25T02:02:58.896Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마켓컬리가 적자일 수밖에 없는 이유]]></title>
-        <id>https://brunch.co.kr/@choicepark/17</id>
-        <link href="https://brunch.co.kr/@choicepark/17"/>
-        <updated>2022-01-26T02:03:29.772Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
 </feed>
