@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-28T12:20:54.818Z</updated>
+    <updated>2022-01-28T13:16:52.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(powerlanguage.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
-        <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
-        <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
-        <updated>2022-01-28T00:44:55.671Z</updated>
-        <content type="html"><![CDATA[(cbinsights.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
         <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
         <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
@@ -46,6 +39,13 @@
         <link href="https://kore.io/"/>
         <updated>2022-01-28T01:56:28.423Z</updated>
         <content type="html"><![CDATA[(kore.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
+        <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
+        <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
+        <updated>2022-01-28T00:44:55.671Z</updated>
+        <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canonical Partner Archive, Ubuntu 22.04 LTS 에서 폐지 논의중]]></title>
-        <id>https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html</id>
-        <link href="https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html"/>
-        <updated>2022-01-28T02:30:30.007Z</updated>
-        <content type="html"><![CDATA[(lists.ubuntu.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글, FLoC을 대체할 새 "토픽 API" 공개]]></title>
         <id>https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html</id>
         <link href="https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html"/>
         <updated>2022-01-27T01:56:41.321Z</updated>
         <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical Partner Archive, Ubuntu 22.04 LTS 에서 폐지 논의중]]></title>
+        <id>https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html</id>
+        <link href="https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html"/>
+        <updated>2022-01-28T02:30:30.007Z</updated>
+        <content type="html"><![CDATA[(lists.ubuntu.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
