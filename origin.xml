@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-28T01:57:04.374Z</updated>
+    <updated>2022-01-28T02:31:14.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,10 +20,24 @@
         <content type="html"><![CDATA[(vanillalist.top)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
+        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
+        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
+        <updated>2022-01-28T02:30:29.995Z</updated>
+        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
         <id>https://news.hada.io/topic?id=5837</id>
         <link href="https://news.hada.io/topic?id=5837"/>
         <updated>2022-01-28T00:44:55.679Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
+        <id>https://github.com/looker-open-source/malloy</id>
+        <link href="https://github.com/looker-open-source/malloy"/>
+        <updated>2022-01-28T00:44:55.686Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -32,6 +46,13 @@
         <link href="https://news.ycombinator.com/item?id=30053761"/>
         <updated>2022-01-27T01:56:41.320Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical Partner Archive, Ubuntu 22.04 LTS 에서 폐지 논의중]]></title>
+        <id>https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html</id>
+        <link href="https://lists.ubuntu.com/archives/ubuntu-devel/2022-January/041816.html"/>
+        <updated>2022-01-28T02:30:30.007Z</updated>
+        <content type="html"><![CDATA[(lists.ubuntu.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
@@ -46,13 +67,6 @@
         <link href="https://kore.io/"/>
         <updated>2022-01-28T01:56:28.423Z</updated>
         <content type="html"><![CDATA[(kore.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
-        <id>https://github.com/looker-open-source/malloy</id>
-        <link href="https://github.com/looker-open-source/malloy"/>
-        <updated>2022-01-28T00:44:55.686Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
@@ -129,19 +143,5 @@
         <link href="https://brunch.co.kr/@choicepark/17"/>
         <updated>2022-01-26T02:03:29.772Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
-        <id>https://github.com/khuedoan/homelab</id>
-        <link href="https://github.com/khuedoan/homelab"/>
-        <updated>2022-01-24T00:44:20.972Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란]]></title>
-        <id>https://velog.io/@teo/frontend</id>
-        <link href="https://velog.io/@teo/frontend"/>
-        <updated>2022-01-25T09:13:23.428Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
 </feed>
