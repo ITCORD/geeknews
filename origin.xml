@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T18:19:29.169Z</updated>
+    <updated>2022-01-29T19:13:17.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,6 +118,19 @@
         <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5816</id>
+        <link href="https://news.hada.io/topic?id=5816"/>
+        <updated>2022-01-25T02:02:58.896Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
+        <id>https://github.com/khuedoan/homelab</id>
+        <link href="https://github.com/khuedoan/homelab"/>
+        <updated>2022-01-29T12:19:26.443Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, macOS 12.3 베타 에서 Python 2.7 제거]]></title>
         <id>https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</id>
         <link href="https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python"/>
@@ -130,18 +143,5 @@
         <link href="https://github.com/jonathandata1/2022_beijing"/>
         <updated>2022-01-29T01:50:41.623Z</updated>
         <content type="html"><![CDATA[(github.com/jonathandata1)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5816</id>
-        <link href="https://news.hada.io/topic?id=5816"/>
-        <updated>2022-01-25T02:02:58.896Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
-        <id>https://github.com/khuedoan/homelab</id>
-        <link href="https://github.com/khuedoan/homelab"/>
-        <updated>2022-01-29T12:19:26.443Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
