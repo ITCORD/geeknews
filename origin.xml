@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T03:13:47.729Z</updated>
+    <updated>2022-01-29T04:16:47.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,20 @@
         <content type="html"><![CDATA[(powerlanguage.co.uk)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
+        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
+        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
+        <updated>2022-01-28T02:30:29.995Z</updated>
+        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
+        <id>https://kore.io/</id>
+        <link href="https://kore.io/"/>
+        <updated>2022-01-28T01:56:28.423Z</updated>
+        <content type="html"><![CDATA[(kore.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, macOS 12.3 베타 에서 Python 2.7 제거]]></title>
         <id>https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</id>
         <link href="https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python"/>
@@ -53,20 +67,6 @@
         <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
         <updated>2022-01-29T00:42:01.252Z</updated>
         <content type="html"><![CDATA[(ui.toast.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
-        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
-        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
-        <updated>2022-01-28T02:30:29.995Z</updated>
-        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
-        <id>https://kore.io/</id>
-        <link href="https://kore.io/"/>
-        <updated>2022-01-28T01:56:28.423Z</updated>
-        <content type="html"><![CDATA[(kore.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
