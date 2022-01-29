@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T09:13:33.087Z</updated>
+    <updated>2022-01-29T10:14:36.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,6 +76,20 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
+        <id>https://news.hada.io/topic?id=5837</id>
+        <link href="https://news.hada.io/topic?id=5837"/>
+        <updated>2022-01-28T00:44:55.679Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
+        <id>https://jobsearch.dev/</id>
+        <link href="https://jobsearch.dev/"/>
+        <updated>2022-01-24T00:44:20.972Z</updated>
+        <content type="html"><![CDATA[(jobsearch.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, macOS 12.3 베타 에서 Python 2.7 제거]]></title>
         <id>https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</id>
         <link href="https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python"/>
@@ -95,20 +109,6 @@
         <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
         <updated>2022-01-29T00:42:01.252Z</updated>
         <content type="html"><![CDATA[(ui.toast.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
-        <id>https://news.hada.io/topic?id=5837</id>
-        <link href="https://news.hada.io/topic?id=5837"/>
-        <updated>2022-01-28T00:44:55.679Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
-        <id>https://jobsearch.dev/</id>
-        <link href="https://jobsearch.dev/"/>
-        <updated>2022-01-24T00:44:20.972Z</updated>
-        <content type="html"><![CDATA[(jobsearch.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
