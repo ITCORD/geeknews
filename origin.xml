@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T00:42:37.295Z</updated>
+    <updated>2022-01-29T01:51:23.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,32 @@
         <content type="html"><![CDATA[(vanillalist.top)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
+        <id>https://github.com/ngneat/falso</id>
+        <link href="https://github.com/ngneat/falso"/>
+        <updated>2022-01-29T01:50:41.623Z</updated>
+        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, macOS 12.3 베타 에서 Python 2.7 제거]]></title>
+        <id>https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</id>
+        <link href="https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python"/>
+        <updated>2022-01-29T01:50:41.623Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
         <id>https://cleanup.pictures/</id>
         <link href="https://cleanup.pictures/"/>
         <updated>2022-01-28T01:56:28.423Z</updated>
         <content type="html"><![CDATA[(cleanup.pictures)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디컴파일한 2022 베이징 올림픽 App들]]></title>
+        <id>https://github.com/jonathandata1/2022_beijing</id>
+        <link href="https://github.com/jonathandata1/2022_beijing"/>
+        <updated>2022-01-29T01:50:41.623Z</updated>
+        <content type="html"><![CDATA[(github.com/jonathandata1)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[esbuild/Snowpack/Vite/wmr - 차세대 빌드 도구 비교 (번역)]]></title>
@@ -41,18 +62,18 @@
         <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
-        <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
-        <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
-        <updated>2022-01-28T00:44:55.671Z</updated>
-        <content type="html"><![CDATA[(cbinsights.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
         <id>https://kore.io/</id>
         <link href="https://kore.io/"/>
         <updated>2022-01-28T01:56:28.423Z</updated>
         <content type="html"><![CDATA[(kore.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
+        <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
+        <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
+        <updated>2022-01-28T00:44:55.671Z</updated>
+        <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
@@ -83,17 +104,17 @@
         <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
-        <id>https://github.com/plasmicapp/plasmic</id>
-        <link href="https://github.com/plasmicapp/plasmic"/>
-        <updated>2022-01-27T03:13:46.240Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
         <id>https://github.com/looker-open-source/malloy</id>
         <link href="https://github.com/looker-open-source/malloy"/>
         <updated>2022-01-28T00:44:55.686Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
+        <id>https://github.com/plasmicapp/plasmic</id>
+        <link href="https://github.com/plasmicapp/plasmic"/>
+        <updated>2022-01-27T03:13:46.240Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -122,26 +143,5 @@
         <id>https://news.hada.io/topic?id=5816</id>
         <link href="https://news.hada.io/topic?id=5816"/>
         <updated>2022-01-25T02:02:58.896Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
-        <id>https://github.com/khuedoan/homelab</id>
-        <link href="https://github.com/khuedoan/homelab"/>
-        <updated>2022-01-28T11:11:58.028Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, FLoC을 대체할 새 "토픽 API" 공개]]></title>
-        <id>https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html</id>
-        <link href="https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html"/>
-        <updated>2022-01-27T01:56:41.321Z</updated>
-        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuzu - 닌텐도 스위치 에뮬레이터]]></title>
-        <id>https://github.com/yuzu-emu/yuzu</id>
-        <link href="https://github.com/yuzu-emu/yuzu"/>
-        <updated>2022-01-26T03:13:56.177Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
