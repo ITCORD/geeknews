@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T06:16:30.583Z</updated>
+    <updated>2022-01-29T07:13:36.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
+        <updated>2022-01-26T00:51:20.687Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, macOS 12.3 베타 에서 Python 2.7 제거]]></title>
         <id>https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</id>
         <link href="https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python"/>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[(ui.toast.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
-        <updated>2022-01-26T00:51:20.687Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+        <title type="html"><![CDATA[GitHub Actions by Example]]></title>
+        <id>https://www.actionsbyexample.com/</id>
+        <link href="https://www.actionsbyexample.com/"/>
+        <updated>2022-01-26T04:16:47.099Z</updated>
+        <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어떤 기술이 2022년에 "Cutting Edge" 라고 생각하나요?]]></title>
@@ -90,24 +97,10 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Actions by Example]]></title>
-        <id>https://www.actionsbyexample.com/</id>
-        <link href="https://www.actionsbyexample.com/"/>
-        <updated>2022-01-26T04:16:47.099Z</updated>
-        <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
         <id>https://news.hada.io/topic?id=5837</id>
         <link href="https://news.hada.io/topic?id=5837"/>
         <updated>2022-01-28T00:44:55.679Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
-        <id>https://github.com/plasmicapp/plasmic</id>
-        <link href="https://github.com/plasmicapp/plasmic"/>
-        <updated>2022-01-27T03:13:46.240Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -116,6 +109,13 @@
         <link href="https://jobsearch.dev/"/>
         <updated>2022-01-24T00:44:20.972Z</updated>
         <content type="html"><![CDATA[(jobsearch.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
+        <id>https://github.com/plasmicapp/plasmic</id>
+        <link href="https://github.com/plasmicapp/plasmic"/>
+        <updated>2022-01-27T03:13:46.240Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
