@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-28T23:14:35.286Z</updated>
+    <updated>2022-01-29T00:42:37.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://cleanup.pictures/"/>
         <updated>2022-01-28T01:56:28.423Z</updated>
         <content type="html"><![CDATA[(cleanup.pictures)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[esbuild/Snowpack/Vite/wmr - 차세대 빌드 도구 비교 (번역)]]></title>
+        <id>https://ui.toast.com/weekly-pick/ko_20220127</id>
+        <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
+        <updated>2022-01-29T00:42:01.252Z</updated>
+        <content type="html"><![CDATA[(ui.toast.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wordle - 5글자 단어 맞추기]]></title>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
-        <id>https://news.hada.io/topic?id=5837</id>
-        <link href="https://news.hada.io/topic?id=5837"/>
-        <updated>2022-01-28T00:44:55.679Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어떤 기술이 2022년에 "Cutting Edge" 라고 생각하나요?]]></title>
         <id>https://news.ycombinator.com/item?id=30053761</id>
         <link href="https://news.ycombinator.com/item?id=30053761"/>
         <updated>2022-01-27T01:56:41.320Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
+        <id>https://news.hada.io/topic?id=5837</id>
+        <link href="https://news.hada.io/topic?id=5837"/>
+        <updated>2022-01-28T00:44:55.679Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Actions by Example]]></title>
@@ -76,17 +83,17 @@
         <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
-        <id>https://github.com/looker-open-source/malloy</id>
-        <link href="https://github.com/looker-open-source/malloy"/>
-        <updated>2022-01-28T00:44:55.686Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
         <id>https://github.com/plasmicapp/plasmic</id>
         <link href="https://github.com/plasmicapp/plasmic"/>
         <updated>2022-01-27T03:13:46.240Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
+        <id>https://github.com/looker-open-source/malloy</id>
+        <link href="https://github.com/looker-open-source/malloy"/>
+        <updated>2022-01-28T00:44:55.686Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -136,12 +143,5 @@
         <link href="https://github.com/yuzu-emu/yuzu"/>
         <updated>2022-01-26T03:13:56.177Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북을 떠나며]]></title>
-        <id>https://frantic.im/leaving-facebook/</id>
-        <link href="https://frantic.im/leaving-facebook/"/>
-        <updated>2022-01-28T18:15:10.447Z</updated>
-        <content type="html"><![CDATA[(frantic.im)]]></content>
     </entry>
 </feed>
