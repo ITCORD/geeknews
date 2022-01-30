@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-30T01:56:21.231Z</updated>
+    <updated>2022-01-30T02:27:15.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(ui.toast.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
-        <id>https://github.com/looker-open-source/malloy</id>
-        <link href="https://github.com/looker-open-source/malloy"/>
-        <updated>2022-01-28T00:44:55.686Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5816</id>
         <link href="https://news.hada.io/topic?id=5816"/>
@@ -143,5 +136,12 @@
         <link href="https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html"/>
         <updated>2022-01-27T03:13:46.249Z</updated>
         <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
+        <id>https://github.com/khuedoan/homelab</id>
+        <link href="https://github.com/khuedoan/homelab"/>
+        <updated>2022-01-30T02:26:36.535Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
