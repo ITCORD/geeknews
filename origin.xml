@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-30T14:11:54.456Z</updated>
+    <updated>2022-01-30T15:13:11.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Startup? - 주니어가 스타트업에 관심을 가지게된 이유]]></title>
+        <id>https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd</id>
+        <link href="https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd"/>
+        <updated>2022-01-30T15:12:30.508Z</updated>
+        <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
         <id>https://github.com/max-sixty/prql</id>
@@ -136,12 +143,5 @@
         <id>https://news.hada.io/topic?id=5816</id>
         <link href="https://news.hada.io/topic?id=5816"/>
         <updated>2022-01-25T02:02:58.896Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북을 떠나며]]></title>
-        <id>https://frantic.im/leaving-facebook/</id>
-        <link href="https://frantic.im/leaving-facebook/"/>
-        <updated>2022-01-30T07:12:57.917Z</updated>
-        <content type="html"><![CDATA[(frantic.im)]]></content>
     </entry>
 </feed>
