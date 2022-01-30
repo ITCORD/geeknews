@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T23:13:10.212Z</updated>
+    <updated>2022-01-30T00:45:57.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글의 Topics API는 프라이버시 문제 해결없이 FLoC을 리브랜딩만 한 것]]></title>
+        <id>https://brave.com/web-standards-at-brave/7-googles-topics-api/</id>
+        <link href="https://brave.com/web-standards-at-brave/7-googles-topics-api/"/>
+        <updated>2022-01-30T00:45:19.421Z</updated>
+        <content type="html"><![CDATA[(brave.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Framework V3 릴리즈]]></title>
+        <id>https://www.serverless.com//blog/serverless-framework-v3-is-live</id>
+        <link href="https://www.serverless.com//blog/serverless-framework-v3-is-live"/>
+        <updated>2022-01-30T00:45:19.448Z</updated>
+        <content type="html"><![CDATA[(serverless.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
         <id>https://github.com/ngneat/falso</id>
@@ -41,18 +55,18 @@
         <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
-        <id>https://kore.io/</id>
-        <link href="https://kore.io/"/>
-        <updated>2022-01-28T01:56:28.423Z</updated>
-        <content type="html"><![CDATA[(kore.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
         <updated>2022-01-26T00:51:20.687Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
+        <id>https://kore.io/</id>
+        <link href="https://kore.io/"/>
+        <updated>2022-01-28T01:56:28.423Z</updated>
+        <content type="html"><![CDATA[(kore.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
@@ -90,18 +104,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[esbuild/Snowpack/Vite/wmr - 차세대 빌드 도구 비교 (번역)]]></title>
-        <id>https://ui.toast.com/weekly-pick/ko_20220127</id>
-        <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
-        <updated>2022-01-29T00:42:01.252Z</updated>
-        <content type="html"><![CDATA[(ui.toast.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
         <id>https://news.hada.io/topic?id=5837</id>
         <link href="https://news.hada.io/topic?id=5837"/>
         <updated>2022-01-28T00:44:55.679Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[esbuild/Snowpack/Vite/wmr - 차세대 빌드 도구 비교 (번역)]]></title>
+        <id>https://ui.toast.com/weekly-pick/ko_20220127</id>
+        <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
+        <updated>2022-01-29T00:42:01.252Z</updated>
+        <content type="html"><![CDATA[(ui.toast.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
@@ -129,19 +143,5 @@
         <link href="https://github.com/khuedoan/homelab"/>
         <updated>2022-01-29T12:19:26.443Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북을 떠나며]]></title>
-        <id>https://frantic.im/leaving-facebook/</id>
-        <link href="https://frantic.im/leaving-facebook/"/>
-        <updated>2022-01-29T21:10:37.950Z</updated>
-        <content type="html"><![CDATA[(frantic.im)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수잔의 편지 : 유튜브 CEO가 말하는 2022년 우선순위]]></title>
-        <id>https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html</id>
-        <link href="https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html"/>
-        <updated>2022-01-29T21:10:37.950Z</updated>
-        <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
     </entry>
 </feed>
