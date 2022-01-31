@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-31T00:44:58.505Z</updated>
+    <updated>2022-01-31T01:54:34.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,34 @@
         <link href="https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime"/>
         <updated>2022-01-31T00:44:17.732Z</updated>
         <content type="html"><![CDATA[(cloud.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 웹 개발을 재정의할 오픈소스 프로젝트들]]></title>
+        <id>https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12</id>
+        <link href="https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12"/>
+        <updated>2022-01-31T01:53:54.006Z</updated>
+        <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원]]></title>
+        <id>https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types</id>
+        <link href="https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types"/>
+        <updated>2022-01-31T01:53:54.006Z</updated>
+        <content type="html"><![CDATA[(amazon.science)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Store, Unlisted 앱 배포 기능 추가]]></title>
+        <id>https://developer.apple.com/kr/support/unlisted-app-distribution/</id>
+        <link href="https://developer.apple.com/kr/support/unlisted-app-distribution/"/>
+        <updated>2022-01-31T01:53:54.006Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 2.35의 주요 변경점]]></title>
+        <id>https://github.blog/2022-01-24-highlights-from-git-2-35/</id>
+        <link href="https://github.blog/2022-01-24-highlights-from-git-2-35/"/>
+        <updated>2022-01-31T01:53:54.006Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
@@ -48,18 +76,18 @@
         <content type="html"><![CDATA[(serverless.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Startup? - 주니어가 스타트업에 관심을 가지게된 이유]]></title>
-        <id>https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd</id>
-        <link href="https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd"/>
-        <updated>2022-01-30T15:12:30.508Z</updated>
-        <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
         <id>https://vanillalist.top/</id>
         <link href="https://vanillalist.top/"/>
         <updated>2022-01-28T01:56:28.423Z</updated>
         <content type="html"><![CDATA[(vanillalist.top)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Startup? - 주니어가 스타트업에 관심을 가지게된 이유]]></title>
+        <id>https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd</id>
+        <link href="https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd"/>
+        <updated>2022-01-30T15:12:30.508Z</updated>
+        <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
@@ -116,33 +144,5 @@
         <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
         <updated>2022-01-28T00:44:55.671Z</updated>
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[esbuild/Snowpack/Vite/wmr - 차세대 빌드 도구 비교 (번역)]]></title>
-        <id>https://ui.toast.com/weekly-pick/ko_20220127</id>
-        <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
-        <updated>2022-01-29T00:42:01.252Z</updated>
-        <content type="html"><![CDATA[(ui.toast.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
-        <id>https://github.com/plasmicapp/plasmic</id>
-        <link href="https://github.com/plasmicapp/plasmic"/>
-        <updated>2022-01-27T03:13:46.240Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
-        <id>https://news.hada.io/topic?id=5837</id>
-        <link href="https://news.hada.io/topic?id=5837"/>
-        <updated>2022-01-28T00:44:55.679Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
-        <id>https://github.com/khuedoan/homelab</id>
-        <link href="https://github.com/khuedoan/homelab"/>
-        <updated>2022-01-30T02:26:36.535Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
