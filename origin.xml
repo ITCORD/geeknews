@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-31T16:19:06.033Z</updated>
+    <updated>2022-01-31T17:13:37.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(vanillalist.top)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글의 Topics API는 프라이버시 문제 해결없이 FLoC을 리브랜딩만 한 것]]></title>
-        <id>https://brave.com/web-standards-at-brave/7-googles-topics-api/</id>
-        <link href="https://brave.com/web-standards-at-brave/7-googles-topics-api/"/>
-        <updated>2022-01-30T00:45:19.421Z</updated>
-        <content type="html"><![CDATA[(brave.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
         <updated>2022-01-26T00:51:20.687Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글의 Topics API는 프라이버시 문제 해결없이 FLoC을 리브랜딩만 한 것]]></title>
+        <id>https://brave.com/web-standards-at-brave/7-googles-topics-api/</id>
+        <link href="https://brave.com/web-standards-at-brave/7-googles-topics-api/"/>
+        <updated>2022-01-30T00:45:19.421Z</updated>
+        <content type="html"><![CDATA[(brave.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wordle - 5글자 단어 맞추기]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(powerlanguage.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
-        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
-        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
-        <updated>2022-01-28T02:30:29.995Z</updated>
-        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Actions by Example]]></title>
         <id>https://www.actionsbyexample.com/</id>
         <link href="https://www.actionsbyexample.com/"/>
         <updated>2022-01-26T04:16:47.099Z</updated>
         <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
+        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
+        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
+        <updated>2022-01-28T02:30:29.995Z</updated>
+        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Serverless Framework V3 릴리즈]]></title>
