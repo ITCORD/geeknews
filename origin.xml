@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-30T23:13:47.178Z</updated>
+    <updated>2022-01-31T00:44:58.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
-        <id>https://github.com/ngneat/falso</id>
-        <link href="https://github.com/ngneat/falso"/>
-        <updated>2022-01-29T01:50:41.623Z</updated>
-        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Startup? - 주니어가 스타트업에 관심을 가지게된 이유]]></title>
-        <id>https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd</id>
-        <link href="https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd"/>
-        <updated>2022-01-30T15:12:30.508Z</updated>
-        <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
+        <title type="html"><![CDATA[구글 AppEngine 자바 런타임 오픈소스로 공개]]></title>
+        <id>https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime</id>
+        <link href="https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime"/>
+        <updated>2022-01-31T00:44:17.732Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
@@ -25,6 +18,13 @@
         <link href="https://github.com/max-sixty/prql"/>
         <updated>2022-01-30T01:55:41.539Z</updated>
         <content type="html"><![CDATA[(github.com/max-sixty)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
+        <id>https://github.com/ngneat/falso</id>
+        <link href="https://github.com/ngneat/falso"/>
+        <updated>2022-01-29T01:50:41.623Z</updated>
+        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글의 Topics API는 프라이버시 문제 해결없이 FLoC을 리브랜딩만 한 것]]></title>
@@ -41,6 +41,20 @@
         <content type="html"><![CDATA[(cleanup.pictures)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Serverless Framework V3 릴리즈]]></title>
+        <id>https://www.serverless.com//blog/serverless-framework-v3-is-live</id>
+        <link href="https://www.serverless.com//blog/serverless-framework-v3-is-live"/>
+        <updated>2022-01-30T00:45:19.448Z</updated>
+        <content type="html"><![CDATA[(serverless.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Startup? - 주니어가 스타트업에 관심을 가지게된 이유]]></title>
+        <id>https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd</id>
+        <link href="https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd"/>
+        <updated>2022-01-30T15:12:30.508Z</updated>
+        <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
         <id>https://vanillalist.top/</id>
         <link href="https://vanillalist.top/"/>
@@ -55,13 +69,6 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
-        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
-        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
-        <updated>2022-01-28T02:30:29.995Z</updated>
-        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wordle - 5글자 단어 맞추기]]></title>
         <id>https://www.powerlanguage.co.uk/wordle/</id>
         <link href="https://www.powerlanguage.co.uk/wordle/"/>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[(powerlanguage.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serverless Framework V3 릴리즈]]></title>
-        <id>https://www.serverless.com//blog/serverless-framework-v3-is-live</id>
-        <link href="https://www.serverless.com//blog/serverless-framework-v3-is-live"/>
-        <updated>2022-01-30T00:45:19.448Z</updated>
-        <content type="html"><![CDATA[(serverless.com)]]></content>
+        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
+        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
+        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
+        <updated>2022-01-28T02:30:29.995Z</updated>
+        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
@@ -111,6 +118,13 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[esbuild/Snowpack/Vite/wmr - 차세대 빌드 도구 비교 (번역)]]></title>
+        <id>https://ui.toast.com/weekly-pick/ko_20220127</id>
+        <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
+        <updated>2022-01-29T00:42:01.252Z</updated>
+        <content type="html"><![CDATA[(ui.toast.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
         <id>https://github.com/plasmicapp/plasmic</id>
         <link href="https://github.com/plasmicapp/plasmic"/>
@@ -125,23 +139,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[esbuild/Snowpack/Vite/wmr - 차세대 빌드 도구 비교 (번역)]]></title>
-        <id>https://ui.toast.com/weekly-pick/ko_20220127</id>
-        <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
-        <updated>2022-01-29T00:42:01.252Z</updated>
-        <content type="html"><![CDATA[(ui.toast.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
         <id>https://github.com/khuedoan/homelab</id>
         <link href="https://github.com/khuedoan/homelab"/>
         <updated>2022-01-30T02:26:36.535Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5816</id>
-        <link href="https://news.hada.io/topic?id=5816"/>
-        <updated>2022-01-25T02:02:58.896Z</updated>
     </entry>
 </feed>
