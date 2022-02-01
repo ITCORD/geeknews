@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-01T12:21:30.158Z</updated>
+    <updated>2022-02-01T13:17:02.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(blog.roblox.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기]]></title>
-        <id>https://news.hada.io/topic?id=5869</id>
-        <link href="https://news.hada.io/topic?id=5869"/>
-        <updated>2022-02-01T11:11:18.254Z</updated>
-        <content type="html"><![CDATA[(scon-io.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뉴욕타임스, Wordle 인수]]></title>
         <id>https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html</id>
         <link href="https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html"/>
         <updated>2022-02-01T00:47:11.031Z</updated>
         <content type="html"><![CDATA[(nytimes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기]]></title>
+        <id>https://news.hada.io/topic?id=5869</id>
+        <link href="https://news.hada.io/topic?id=5869"/>
+        <updated>2022-02-01T11:11:18.254Z</updated>
+        <content type="html"><![CDATA[(scon-io.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS 역사로 알아보는 CSS가 어려워진 이유]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(sie.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022년 웹 개발을 재정의할 오픈소스 프로젝트들]]></title>
+        <id>https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12</id>
+        <link href="https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12"/>
+        <updated>2022-01-31T01:53:54.006Z</updated>
+        <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[독일 법원, GDPR에 의거해 구글 폰트 사용시 구글에 IP가 넘어가게 된다고 벌금 부과]]></title>
         <id>https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/</id>
         <link href="https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/"/>
@@ -60,13 +67,6 @@
         <link href="https://github.com/ytdl-org/youtube-dl/issues/30568"/>
         <updated>2022-02-01T00:47:11.032Z</updated>
         <content type="html"><![CDATA[(github.com/ytdl-org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 웹 개발을 재정의할 오픈소스 프로젝트들]]></title>
-        <id>https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12</id>
-        <link href="https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12"/>
-        <updated>2022-01-31T01:53:54.006Z</updated>
-        <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 AppEngine 자바 런타임 오픈소스로 공개]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com/max-sixty)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
-        <id>https://github.com/ngneat/falso</id>
-        <link href="https://github.com/ngneat/falso"/>
-        <updated>2022-01-29T01:50:41.623Z</updated>
-        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
         <id>https://cleanup.pictures/</id>
         <link href="https://cleanup.pictures/"/>
         <updated>2022-01-28T01:56:28.423Z</updated>
         <content type="html"><![CDATA[(cleanup.pictures)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
+        <id>https://github.com/ngneat/falso</id>
+        <link href="https://github.com/ngneat/falso"/>
+        <updated>2022-01-29T01:50:41.623Z</updated>
+        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
