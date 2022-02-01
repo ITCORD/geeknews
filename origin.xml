@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-01T21:12:36.423Z</updated>
+    <updated>2022-02-01T22:13:32.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(amazon.science)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[구글 AppEngine 자바 런타임 오픈소스로 공개]]></title>
+        <id>https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime</id>
+        <link href="https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime"/>
+        <updated>2022-01-31T00:44:17.732Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[독일 법원, GDPR에 의거해 구글 폰트 사용시 구글에 IP가 넘어가게 된다고 벌금 부과]]></title>
         <id>https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/</id>
         <link href="https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/"/>
@@ -74,13 +81,6 @@
         <link href="https://github.com/ytdl-org/youtube-dl/issues/30568"/>
         <updated>2022-02-01T00:47:11.032Z</updated>
         <content type="html"><![CDATA[(github.com/ytdl-org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 AppEngine 자바 런타임 오픈소스로 공개]]></title>
-        <id>https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime</id>
-        <link href="https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime"/>
-        <updated>2022-01-31T00:44:17.732Z</updated>
-        <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[App Store, Unlisted 앱 배포 기능 추가]]></title>
