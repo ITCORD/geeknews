@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-01T06:16:29.657Z</updated>
+    <updated>2022-02-01T07:13:27.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/"/>
         <updated>2022-01-31T13:16:44.750Z</updated>
         <content type="html"><![CDATA[(blog.roblox.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Show GN: 우리말 Wordle]]></title>
+        <id>https://news.hada.io/topic?id=5866</id>
+        <link href="https://news.hada.io/topic?id=5866"/>
+        <updated>2022-02-01T07:12:52.604Z</updated>
+        <content type="html"><![CDATA[(plan9.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독일 법원, GDPR에 의거해 구글 폰트 사용시 구글에 IP가 넘어가게 된다고 벌금 부과]]></title>
@@ -137,12 +144,5 @@
         <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
         <updated>2022-02-01T04:16:21.068Z</updated>
         <content type="html"><![CDATA[(ai.facebook.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글의 Topics API는 프라이버시 문제 해결없이 FLoC을 리브랜딩만 한 것]]></title>
-        <id>https://brave.com/web-standards-at-brave/7-googles-topics-api/</id>
-        <link href="https://brave.com/web-standards-at-brave/7-googles-topics-api/"/>
-        <updated>2022-01-30T00:45:19.421Z</updated>
-        <content type="html"><![CDATA[(brave.com)]]></content>
     </entry>
 </feed>
