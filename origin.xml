@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-02T20:14:56.870Z</updated>
+    <updated>2022-02-02T21:13:05.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MariaDB 상장 계획 발표]]></title>
-        <id>https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/</id>
-        <link href="https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/"/>
-        <updated>2022-02-02T01:57:24.445Z</updated>
-        <content type="html"><![CDATA[(mariadb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 우리말 Wordle]]></title>
         <id>https://news.hada.io/topic?id=5866</id>
         <link href="https://news.hada.io/topic?id=5866"/>
         <updated>2022-02-01T07:12:52.604Z</updated>
         <content type="html"><![CDATA[(plan9.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MariaDB 상장 계획 발표]]></title>
+        <id>https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/</id>
+        <link href="https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/"/>
+        <updated>2022-02-02T01:57:24.445Z</updated>
+        <content type="html"><![CDATA[(mariadb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원]]></title>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(scon-io.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sony, Destiny 제작사 Bungie를 $3.6B(4.3조원)에 인수]]></title>
-        <id>https://www.sie.com/en/blog/bungie-to-join-the-playstation-family/</id>
-        <link href="https://www.sie.com/en/blog/bungie-to-join-the-playstation-family/"/>
-        <updated>2022-02-01T00:47:11.042Z</updated>
-        <content type="html"><![CDATA[(sie.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글 AppEngine 자바 런타임 오픈소스로 공개]]></title>
         <id>https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime</id>
         <link href="https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime"/>
@@ -104,11 +97,11 @@
         <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[youtube-dl 새로운 관리체제로]]></title>
-        <id>https://github.com/ytdl-org/youtube-dl/issues/30568</id>
-        <link href="https://github.com/ytdl-org/youtube-dl/issues/30568"/>
-        <updated>2022-02-01T00:47:11.032Z</updated>
-        <content type="html"><![CDATA[(github.com/ytdl-org)]]></content>
+        <title type="html"><![CDATA[Sony, Destiny 제작사 Bungie를 $3.6B(4.3조원)에 인수]]></title>
+        <id>https://www.sie.com/en/blog/bungie-to-join-the-playstation-family/</id>
+        <link href="https://www.sie.com/en/blog/bungie-to-join-the-playstation-family/"/>
+        <updated>2022-02-01T00:47:11.042Z</updated>
+        <content type="html"><![CDATA[(sie.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[App Store, Unlisted 앱 배포 기능 추가]]></title>
@@ -116,6 +109,13 @@
         <link href="https://developer.apple.com/kr/support/unlisted-app-distribution/"/>
         <updated>2022-01-31T01:53:54.006Z</updated>
         <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[youtube-dl 새로운 관리체제로]]></title>
+        <id>https://github.com/ytdl-org/youtube-dl/issues/30568</id>
+        <link href="https://github.com/ytdl-org/youtube-dl/issues/30568"/>
+        <updated>2022-02-01T00:47:11.032Z</updated>
+        <content type="html"><![CDATA[(github.com/ytdl-org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
