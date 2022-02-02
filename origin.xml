@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-02T08:16:21.967Z</updated>
+    <updated>2022-02-02T09:13:27.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
+        <id>https://cleanup.pictures/</id>
+        <link href="https://cleanup.pictures/"/>
+        <updated>2022-01-28T01:56:28.423Z</updated>
+        <content type="html"><![CDATA[(cleanup.pictures)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[독일 법원, GDPR에 의거해 구글 폰트 사용시 구글에 IP가 넘어가게 된다고 벌금 부과]]></title>
         <id>https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/</id>
         <link href="https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/"/>
@@ -123,13 +130,6 @@
         <link href="https://github.com/ytdl-org/youtube-dl/issues/30568"/>
         <updated>2022-02-01T00:47:11.032Z</updated>
         <content type="html"><![CDATA[(github.com/ytdl-org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
-        <id>https://cleanup.pictures/</id>
-        <link href="https://cleanup.pictures/"/>
-        <updated>2022-01-28T01:56:28.423Z</updated>
-        <content type="html"><![CDATA[(cleanup.pictures)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
