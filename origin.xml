@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-01T23:13:55.587Z</updated>
+    <updated>2022-02-02T00:47:36.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Trilium Notes - 개인 KB구축을 위한 계층적 메모 앱 오픈소스]]></title>
+        <id>https://github.com/zadam/trilium</id>
+        <link href="https://github.com/zadam/trilium"/>
+        <updated>2022-02-02T00:46:57.906Z</updated>
+        <content type="html"><![CDATA[(github.com/zadam)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 웹캠 버그를 찾아서 10만불 상금 받은 이야기]]></title>
+        <id>https://www.ryanpickren.com/safari-uxss</id>
+        <link href="https://www.ryanpickren.com/safari-uxss"/>
+        <updated>2022-02-02T00:46:57.912Z</updated>
+        <content type="html"><![CDATA[(ryanpickren.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 에 Fetch API 추가]]></title>
+        <id>https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7</id>
+        <link href="https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7"/>
+        <updated>2022-02-02T00:46:57.918Z</updated>
+        <content type="html"><![CDATA[(github.com/nodejs)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 우리말 Wordle]]></title>
         <id>https://news.hada.io/topic?id=5866</id>
@@ -34,6 +55,13 @@
         <content type="html"><![CDATA[(nytimes.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기]]></title>
+        <id>https://news.hada.io/topic?id=5869</id>
+        <link href="https://news.hada.io/topic?id=5869"/>
+        <updated>2022-02-01T11:11:18.254Z</updated>
+        <content type="html"><![CDATA[(scon-io.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년 웹 개발을 재정의할 오픈소스 프로젝트들]]></title>
         <id>https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12</id>
         <link href="https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12"/>
@@ -60,13 +88,6 @@
         <link href="https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime"/>
         <updated>2022-01-31T00:44:17.732Z</updated>
         <content type="html"><![CDATA[(cloud.google.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기]]></title>
-        <id>https://news.hada.io/topic?id=5869</id>
-        <link href="https://news.hada.io/topic?id=5869"/>
-        <updated>2022-02-01T11:11:18.254Z</updated>
-        <content type="html"><![CDATA[(scon-io.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독일 법원, GDPR에 의거해 구글 폰트 사용시 구글에 IP가 넘어가게 된다고 벌금 부과]]></title>
@@ -123,26 +144,5 @@
         <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
         <updated>2022-01-26T00:51:20.687Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
-        <id>https://vanillalist.top/</id>
-        <link href="https://vanillalist.top/"/>
-        <updated>2022-01-28T01:56:28.423Z</updated>
-        <content type="html"><![CDATA[(vanillalist.top)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions by Example]]></title>
-        <id>https://www.actionsbyexample.com/</id>
-        <link href="https://www.actionsbyexample.com/"/>
-        <updated>2022-01-26T04:16:47.099Z</updated>
-        <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle - 5글자 단어 맞추기]]></title>
-        <id>https://www.powerlanguage.co.uk/wordle/</id>
-        <link href="https://www.powerlanguage.co.uk/wordle/"/>
-        <updated>2022-01-28T04:16:35.670Z</updated>
-        <content type="html"><![CDATA[(powerlanguage.co.uk)]]></content>
     </entry>
 </feed>
