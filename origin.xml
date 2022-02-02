@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-02T00:47:36.580Z</updated>
+    <updated>2022-02-02T01:58:06.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,20 @@
         <content type="html"><![CDATA[(github.com/nodejs)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ar5iv - arXiv의 PDf를 HTML5로 보기]]></title>
+        <id>https://ar5iv.org/</id>
+        <link href="https://ar5iv.org/"/>
+        <updated>2022-02-02T01:57:24.445Z</updated>
+        <content type="html"><![CDATA[(ar5iv.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MariaDB 상장 계획 발표]]></title>
+        <id>https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/</id>
+        <link href="https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/"/>
+        <updated>2022-02-02T01:57:24.445Z</updated>
+        <content type="html"><![CDATA[(mariadb.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: 우리말 Wordle]]></title>
         <id>https://news.hada.io/topic?id=5866</id>
         <link href="https://news.hada.io/topic?id=5866"/>
@@ -41,6 +55,13 @@
         <content type="html"><![CDATA[(blog.roblox.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기]]></title>
+        <id>https://news.hada.io/topic?id=5869</id>
+        <link href="https://news.hada.io/topic?id=5869"/>
+        <updated>2022-02-01T11:11:18.254Z</updated>
+        <content type="html"><![CDATA[(scon-io.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS 역사로 알아보는 CSS가 어려워진 이유]]></title>
         <id>https://velog.io/@teo/css-history-1</id>
         <link href="https://velog.io/@teo/css-history-1"/>
@@ -53,13 +74,6 @@
         <link href="https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html"/>
         <updated>2022-02-01T00:47:11.031Z</updated>
         <content type="html"><![CDATA[(nytimes.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기]]></title>
-        <id>https://news.hada.io/topic?id=5869</id>
-        <link href="https://news.hada.io/topic?id=5869"/>
-        <updated>2022-02-01T11:11:18.254Z</updated>
-        <content type="html"><![CDATA[(scon-io.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 웹 개발을 재정의할 오픈소스 프로젝트들]]></title>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git 2.35의 주요 변경점]]></title>
-        <id>https://github.blog/2022-01-24-highlights-from-git-2-35/</id>
-        <link href="https://github.blog/2022-01-24-highlights-from-git-2-35/"/>
-        <updated>2022-01-31T01:53:54.006Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
         <id>https://cleanup.pictures/</id>
         <link href="https://cleanup.pictures/"/>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[(github.com/ngneat)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
-        <id>https://github.com/max-sixty/prql</id>
-        <link href="https://github.com/max-sixty/prql"/>
-        <updated>2022-01-30T01:55:41.539Z</updated>
-        <content type="html"><![CDATA[(github.com/max-sixty)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
-        <updated>2022-01-26T00:51:20.687Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+        <title type="html"><![CDATA[Git 2.35의 주요 변경점]]></title>
+        <id>https://github.blog/2022-01-24-highlights-from-git-2-35/</id>
+        <link href="https://github.blog/2022-01-24-highlights-from-git-2-35/"/>
+        <updated>2022-01-31T01:53:54.006Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
 </feed>
