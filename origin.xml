@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-02T10:15:08.716Z</updated>
+    <updated>2022-02-02T11:12:26.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(cleanup.pictures)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
+        <id>https://github.com/ngneat/falso</id>
+        <link href="https://github.com/ngneat/falso"/>
+        <updated>2022-01-29T01:50:41.623Z</updated>
+        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[독일 법원, GDPR에 의거해 구글 폰트 사용시 구글에 IP가 넘어가게 된다고 벌금 부과]]></title>
         <id>https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/</id>
         <link href="https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/"/>
@@ -130,13 +137,6 @@
         <link href="https://github.com/ytdl-org/youtube-dl/issues/30568"/>
         <updated>2022-02-01T00:47:11.032Z</updated>
         <content type="html"><![CDATA[(github.com/ytdl-org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
-        <id>https://github.com/ngneat/falso</id>
-        <link href="https://github.com/ngneat/falso"/>
-        <updated>2022-01-29T01:50:41.623Z</updated>
-        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
