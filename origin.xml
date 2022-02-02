@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-02T02:29:13.483Z</updated>
+    <updated>2022-02-02T03:14:05.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(ryanpickren.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js 에 Fetch API 추가]]></title>
-        <id>https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7</id>
-        <link href="https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7"/>
-        <updated>2022-02-02T00:46:57.918Z</updated>
-        <content type="html"><![CDATA[(github.com/nodejs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ar5iv - arXiv의 PDf를 HTML5로 보기]]></title>
         <id>https://ar5iv.org/</id>
         <link href="https://ar5iv.org/"/>
         <updated>2022-02-02T01:57:24.445Z</updated>
         <content type="html"><![CDATA[(ar5iv.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 에 Fetch API 추가]]></title>
+        <id>https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7</id>
+        <link href="https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7"/>
+        <updated>2022-02-02T00:46:57.918Z</updated>
+        <content type="html"><![CDATA[(github.com/nodejs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MariaDB 상장 계획 발표]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(cleanup.pictures)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git 2.35의 주요 변경점]]></title>
-        <id>https://github.blog/2022-01-24-highlights-from-git-2-35/</id>
-        <link href="https://github.blog/2022-01-24-highlights-from-git-2-35/"/>
-        <updated>2022-01-31T01:53:54.006Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
         <id>https://github.com/ngneat/falso</id>
         <link href="https://github.com/ngneat/falso"/>
         <updated>2022-01-29T01:50:41.623Z</updated>
         <content type="html"><![CDATA[(github.com/ngneat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 2.35의 주요 변경점]]></title>
+        <id>https://github.blog/2022-01-24-highlights-from-git-2-35/</id>
+        <link href="https://github.blog/2022-01-24-highlights-from-git-2-35/"/>
+        <updated>2022-01-31T01:53:54.006Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
 </feed>
