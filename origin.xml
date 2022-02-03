@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-03T01:54:05.925Z</updated>
+    <updated>2022-02-03T02:26:15.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Clean Code 라는 건 없습니다]]></title>
+        <id>https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code</id>
+        <link href="https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code"/>
+        <updated>2022-02-03T02:25:34.751Z</updated>
+        <content type="html"><![CDATA[(steveonstuff.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepMind, 프로그래밍 하는 AlphaCode AI 공개]]></title>
+        <id>https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode</id>
+        <link href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"/>
+        <updated>2022-02-03T01:53:28.893Z</updated>
+        <content type="html"><![CDATA[(deepmind.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postman, gRPC 지원]]></title>
         <id>https://blog.postman.com/postman-now-supports-grpc/</id>
@@ -18,6 +32,13 @@
         <link href="https://howoldisit.glitch.me/"/>
         <updated>2022-02-03T00:44:28.833Z</updated>
         <content type="html"><![CDATA[(howoldisit.glitch.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cruise, 운전자 없는 자율주행 차를 대중에 공개하고 승객 모집 시작]]></title>
+        <id>https://www.getcruise.com/news/welcome-riders</id>
+        <link href="https://www.getcruise.com/news/welcome-riders"/>
+        <updated>2022-02-03T00:44:28.858Z</updated>
+        <content type="html"><![CDATA[(getcruise.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trilium Notes - 개인 KB구축을 위한 계층적 메모 앱 오픈소스]]></title>
@@ -34,25 +55,11 @@
         <content type="html"><![CDATA[(tech.inflab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepMind, 프로그래밍 하는 AlphaCode AI 공개]]></title>
-        <id>https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode</id>
-        <link href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"/>
-        <updated>2022-02-03T01:53:28.893Z</updated>
-        <content type="html"><![CDATA[(deepmind.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iOS 15.4 부터 웹 푸시, WebXR, PWA 지원 확장 예정]]></title>
         <id>https://firt.dev/ios-15.4b</id>
         <link href="https://firt.dev/ios-15.4b"/>
         <updated>2022-02-03T00:44:28.857Z</updated>
         <content type="html"><![CDATA[(firt.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cruise, 운전자 없는 자율주행 차를 대중에 공개하고 승객 모집 시작]]></title>
-        <id>https://www.getcruise.com/news/welcome-riders</id>
-        <link href="https://www.getcruise.com/news/welcome-riders"/>
-        <updated>2022-02-03T00:44:28.858Z</updated>
-        <content type="html"><![CDATA[(getcruise.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 에 Fetch API 추가]]></title>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(github.com/nodejs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 웹캠 버그를 찾아서 10만불 상금 받은 이야기]]></title>
-        <id>https://www.ryanpickren.com/safari-uxss</id>
-        <link href="https://www.ryanpickren.com/safari-uxss"/>
-        <updated>2022-02-02T00:46:57.912Z</updated>
-        <content type="html"><![CDATA[(ryanpickren.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ar5iv - arXiv의 PDf를 HTML5로 보기]]></title>
         <id>https://ar5iv.org/</id>
         <link href="https://ar5iv.org/"/>
         <updated>2022-02-02T01:57:24.445Z</updated>
         <content type="html"><![CDATA[(ar5iv.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 웹캠 버그를 찾아서 10만불 상금 받은 이야기]]></title>
+        <id>https://www.ryanpickren.com/safari-uxss</id>
+        <link href="https://www.ryanpickren.com/safari-uxss"/>
+        <updated>2022-02-02T00:46:57.912Z</updated>
+        <content type="html"><![CDATA[(ryanpickren.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS 역사로 알아보는 CSS가 어려워진 이유]]></title>
@@ -111,18 +118,18 @@
         <content type="html"><![CDATA[(plan9.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MariaDB 상장 계획 발표]]></title>
-        <id>https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/</id>
-        <link href="https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/"/>
-        <updated>2022-02-02T01:57:24.445Z</updated>
-        <content type="html"><![CDATA[(mariadb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원]]></title>
         <id>https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types</id>
         <link href="https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types"/>
         <updated>2022-01-31T01:53:54.006Z</updated>
         <content type="html"><![CDATA[(amazon.science)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MariaDB 상장 계획 발표]]></title>
+        <id>https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/</id>
+        <link href="https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/"/>
+        <updated>2022-02-02T01:57:24.445Z</updated>
+        <content type="html"><![CDATA[(mariadb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 AppEngine 자바 런타임 오픈소스로 공개]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=5869"/>
         <updated>2022-02-01T11:11:18.254Z</updated>
         <content type="html"><![CDATA[(scon-io.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[youtube-dl 새로운 관리체제로]]></title>
-        <id>https://github.com/ytdl-org/youtube-dl/issues/30568</id>
-        <link href="https://github.com/ytdl-org/youtube-dl/issues/30568"/>
-        <updated>2022-02-01T00:47:11.032Z</updated>
-        <content type="html"><![CDATA[(github.com/ytdl-org)]]></content>
     </entry>
 </feed>
