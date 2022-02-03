@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-02-03T11:11:35.575Z</updated>
+    <updated>2022-02-03T12:21:20.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 만족스러운 사이드 프로젝트들의 개발 경험중, 공통점은 어떤 게 있었나요?]]></title>
+        <id>https://news.hada.io/topic?id=5886</id>
+        <link href="https://news.hada.io/topic?id=5886"/>
+        <updated>2022-02-03T12:20:58.281Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5816</id>
@@ -118,11 +124,5 @@
         <id>https://news.hada.io/topic?id=5525</id>
         <link href="https://news.hada.io/topic?id=5525"/>
         <updated>2022-01-12T20:09:51.245Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 연말에 뭐 하실 건가요?]]></title>
-        <id>https://news.hada.io/topic?id=5510</id>
-        <link href="https://news.hada.io/topic?id=5510"/>
-        <updated>2022-02-03T05:12:55.235Z</updated>
     </entry>
 </feed>
