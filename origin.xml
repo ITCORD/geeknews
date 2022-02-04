@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-04T18:13:28.285Z</updated>
+    <updated>2022-02-04T19:10:12.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(steveonstuff.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 [번역]]]></title>
-        <id>https://yozm.wishket.com/magazine/detail/969/</id>
-        <link href="https://yozm.wishket.com/magazine/detail/969/"/>
-        <updated>2022-02-04T02:14:45.505Z</updated>
-        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mess with DNS - 브라우저상에서 DNS 실험하며 배우기]]></title>
         <id>https://messwithdns.net/</id>
         <link href="https://messwithdns.net/"/>
         <updated>2022-02-03T05:12:36.999Z</updated>
         <content type="html"><![CDATA[(messwithdns.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 [번역]]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/969/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/969/"/>
+        <updated>2022-02-04T02:14:45.505Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reshape - 다운타임 없는 Postgres용 스키마 이관 도구 오픈소스]]></title>
@@ -82,13 +82,6 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firebase Summit 2021 핵심내용 정리]]></title>
-        <id>https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html</id>
-        <link href="https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html"/>
-        <updated>2022-02-04T08:13:16.084Z</updated>
-        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postman, gRPC 지원]]></title>
         <id>https://blog.postman.com/postman-now-supports-grpc/</id>
         <link href="https://blog.postman.com/postman-now-supports-grpc/"/>
@@ -103,6 +96,13 @@
         <content type="html"><![CDATA[(howoldisit.glitch.me)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Firebase Summit 2021 핵심내용 정리]]></title>
+        <id>https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html</id>
+        <link href="https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html"/>
+        <updated>2022-02-04T08:13:16.084Z</updated>
+        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pictle - Wordle 룰을 이용하여 그림을 맞추는 단어 게임]]></title>
         <id>https://pictle.web.app/</id>
         <link href="https://pictle.web.app/"/>
@@ -110,17 +110,17 @@
         <content type="html"><![CDATA[(pictle.web.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5890</id>
-        <link href="https://news.hada.io/topic?id=5890"/>
-        <updated>2022-02-04T08:13:16.085Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DeepMind, 프로그래밍 하는 AlphaCode AI 공개]]></title>
         <id>https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode</id>
         <link href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"/>
         <updated>2022-02-03T01:53:28.893Z</updated>
         <content type="html"><![CDATA[(deepmind.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5890</id>
+        <link href="https://news.hada.io/topic?id=5890"/>
+        <updated>2022-02-04T08:13:16.085Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trilium Notes - 개인 KB구축을 위한 계층적 메모 앱 오픈소스]]></title>
