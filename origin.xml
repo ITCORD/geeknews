@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-04T22:12:13.104Z</updated>
+    <updated>2022-02-04T23:12:47.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reshape - 다운타임 없는 Postgres용 스키마 이관 도구 오픈소스]]></title>
-        <id>https://github.com/fabianlindfors/reshape</id>
-        <link href="https://github.com/fabianlindfors/reshape"/>
-        <updated>2022-02-04T00:45:23.059Z</updated>
-        <content type="html"><![CDATA[(github.com/fabianlindfors)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 1월 100% 할인 이벤트 장애 부검]]></title>
         <id>https://tech.inflab.com/202201-event-postmortem/</id>
         <link href="https://tech.inflab.com/202201-event-postmortem/"/>
         <updated>2022-02-03T01:53:28.892Z</updated>
         <content type="html"><![CDATA[(tech.inflab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reshape - 다운타임 없는 Postgres용 스키마 이관 도구 오픈소스]]></title>
+        <id>https://github.com/fabianlindfors/reshape</id>
+        <link href="https://github.com/fabianlindfors/reshape"/>
+        <updated>2022-02-04T00:45:23.059Z</updated>
+        <content type="html"><![CDATA[(github.com/fabianlindfors)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 여러분은 노트/정보/일정을 관리하실 때 어떤 툴을 사용하나요?]]></title>
@@ -96,6 +96,13 @@
         <content type="html"><![CDATA[(howoldisit.glitch.me)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DeepMind, 프로그래밍 하는 AlphaCode AI 공개]]></title>
+        <id>https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode</id>
+        <link href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"/>
+        <updated>2022-02-03T01:53:28.893Z</updated>
+        <content type="html"><![CDATA[(deepmind.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Firebase Summit 2021 핵심내용 정리]]></title>
         <id>https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html</id>
         <link href="https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html"/>
@@ -108,13 +115,6 @@
         <link href="https://pictle.web.app/"/>
         <updated>2022-02-04T01:46:33.300Z</updated>
         <content type="html"><![CDATA[(pictle.web.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind, 프로그래밍 하는 AlphaCode AI 공개]]></title>
-        <id>https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode</id>
-        <link href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"/>
-        <updated>2022-02-03T01:53:28.893Z</updated>
-        <content type="html"><![CDATA[(deepmind.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trilium Notes - 개인 KB구축을 위한 계층적 메모 앱 오픈소스]]></title>
