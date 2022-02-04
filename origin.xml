@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-04T14:11:23.008Z</updated>
+    <updated>2022-02-04T15:12:32.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(systemd-by-example.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQL 팁 : 나의 SQL 작성 패턴]]></title>
-        <id>https://threadreaderapp.com/thread/1479811885377765383.html</id>
-        <link href="https://threadreaderapp.com/thread/1479811885377765383.html"/>
-        <updated>2022-02-04T02:14:45.522Z</updated>
-        <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebVM, 브라우저에서 실행하는 서버리스 x86 가상머신]]></title>
         <id>https://webvm.io/</id>
         <link href="https://webvm.io/"/>
         <updated>2022-02-04T01:46:33.287Z</updated>
         <content type="html"><![CDATA[(webvm.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL 팁 : 나의 SQL 작성 패턴]]></title>
+        <id>https://threadreaderapp.com/thread/1479811885377765383.html</id>
+        <link href="https://threadreaderapp.com/thread/1479811885377765383.html"/>
+        <updated>2022-02-04T02:14:45.522Z</updated>
+        <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Clean Code 라는 건 없습니다]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[(steveonstuff.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 [번역]]]></title>
-        <id>https://yozm.wishket.com/magazine/detail/969/</id>
-        <link href="https://yozm.wishket.com/magazine/detail/969/"/>
-        <updated>2022-02-04T02:14:45.505Z</updated>
-        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+        <title type="html"><![CDATA[Reshape - 다운타임 없는 Postgres용 스키마 이관 도구 오픈소스]]></title>
+        <id>https://github.com/fabianlindfors/reshape</id>
+        <link href="https://github.com/fabianlindfors/reshape"/>
+        <updated>2022-02-04T00:45:23.059Z</updated>
+        <content type="html"><![CDATA[(github.com/fabianlindfors)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mess with DNS - 브라우저상에서 DNS 실험하며 배우기]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(messwithdns.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 [번역]]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/969/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/969/"/>
+        <updated>2022-02-04T02:14:45.505Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[페이스북, 처음으로 사용자 감소했다는 발표 후 주가 260조원 폭락]]></title>
         <id>https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/</id>
         <link href="https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/"/>
@@ -55,18 +62,10 @@
         <content type="html"><![CDATA[(washingtonpost.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reshape - 다운타임 없는 Postgres용 스키마 이관 도구 오픈소스]]></title>
-        <id>https://github.com/fabianlindfors/reshape</id>
-        <link href="https://github.com/fabianlindfors/reshape"/>
-        <updated>2022-02-04T00:45:23.059Z</updated>
-        <content type="html"><![CDATA[(github.com/fabianlindfors)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벨로그에 다크모드 적용하기]]></title>
-        <id>https://velog.io/@velopert/velog-dark-mode</id>
-        <link href="https://velog.io/@velopert/velog-dark-mode"/>
-        <updated>2022-02-03T18:15:39.072Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
+        <title type="html"><![CDATA[Ask GN: 여러분은 노트/정보/일정을 관리하실 때 어떤 툴을 사용하나요?]]></title>
+        <id>https://news.hada.io/topic?id=5888</id>
+        <link href="https://news.hada.io/topic?id=5888"/>
+        <updated>2022-02-04T08:13:16.081Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 1월 100% 할인 이벤트 장애 부검]]></title>
@@ -76,10 +75,11 @@
         <content type="html"><![CDATA[(tech.inflab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분은 노트/정보/일정을 관리하실 때 어떤 툴을 사용하나요?]]></title>
-        <id>https://news.hada.io/topic?id=5888</id>
-        <link href="https://news.hada.io/topic?id=5888"/>
-        <updated>2022-02-04T08:13:16.081Z</updated>
+        <title type="html"><![CDATA[벨로그에 다크모드 적용하기]]></title>
+        <id>https://velog.io/@velopert/velog-dark-mode</id>
+        <link href="https://velog.io/@velopert/velog-dark-mode"/>
+        <updated>2022-02-03T18:15:39.072Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firebase Summit 2021 핵심내용 정리]]></title>
