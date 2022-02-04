@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-04T10:12:55.140Z</updated>
+    <updated>2022-02-04T11:10:07.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(messwithdns.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벨로그에 다크모드 적용하기]]></title>
-        <id>https://velog.io/@velopert/velog-dark-mode</id>
-        <link href="https://velog.io/@velopert/velog-dark-mode"/>
-        <updated>2022-02-03T18:15:39.072Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 1월 100% 할인 이벤트 장애 부검]]></title>
         <id>https://tech.inflab.com/202201-event-postmortem/</id>
         <link href="https://tech.inflab.com/202201-event-postmortem/"/>
         <updated>2022-02-03T01:53:28.892Z</updated>
         <content type="html"><![CDATA[(tech.inflab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벨로그에 다크모드 적용하기]]></title>
+        <id>https://velog.io/@velopert/velog-dark-mode</id>
+        <link href="https://velog.io/@velopert/velog-dark-mode"/>
+        <updated>2022-02-03T18:15:39.072Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 여러분은 노트/정보/일정을 관리하실 때 어떤 툴을 사용하나요?]]></title>
@@ -95,13 +95,6 @@
         <updated>2022-02-04T08:13:16.085Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firebase Summit 2021 핵심내용 정리]]></title>
-        <id>https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html</id>
-        <link href="https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html"/>
-        <updated>2022-02-04T08:13:16.084Z</updated>
-        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postman, gRPC 지원]]></title>
         <id>https://blog.postman.com/postman-now-supports-grpc/</id>
         <link href="https://blog.postman.com/postman-now-supports-grpc/"/>
@@ -114,6 +107,13 @@
         <link href="https://howoldisit.glitch.me/"/>
         <updated>2022-02-03T00:44:28.833Z</updated>
         <content type="html"><![CDATA[(howoldisit.glitch.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firebase Summit 2021 핵심내용 정리]]></title>
+        <id>https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html</id>
+        <link href="https://developers-kr.googleblog.com/2022/02/whats-new-at-Firebase-Summit-2021.html"/>
+        <updated>2022-02-04T08:13:16.084Z</updated>
+        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DeepMind, 프로그래밍 하는 AlphaCode AI 공개]]></title>
