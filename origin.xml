@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-05T14:12:49.762Z</updated>
+    <updated>2022-02-05T15:11:25.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(webvm.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wordles of the World - 전세계 언어 Wordle 모음]]></title>
+        <id>https://rwmpelstilzchen.gitlab.io/wordles/</id>
+        <link href="https://rwmpelstilzchen.gitlab.io/wordles/"/>
+        <updated>2022-02-05T00:39:44.085Z</updated>
+        <content type="html"><![CDATA[(rwmpelstilzchen.gitlab.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mess with DNS - 브라우저상에서 DNS 실험하며 배우기]]></title>
         <id>https://messwithdns.net/</id>
         <link href="https://messwithdns.net/"/>
@@ -101,13 +108,6 @@
         <link href="https://velog.io/@velopert/velog-dark-mode"/>
         <updated>2022-02-03T18:15:39.072Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordles of the World - 전세계 언어 Wordle 모음]]></title>
-        <id>https://rwmpelstilzchen.gitlab.io/wordles/</id>
-        <link href="https://rwmpelstilzchen.gitlab.io/wordles/"/>
-        <updated>2022-02-05T00:39:44.085Z</updated>
-        <content type="html"><![CDATA[(rwmpelstilzchen.gitlab.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postman, gRPC 지원]]></title>
