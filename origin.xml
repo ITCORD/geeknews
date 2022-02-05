@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-05T06:13:39.413Z</updated>
+    <updated>2022-02-05T07:14:01.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(steveonstuff.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebVM, 브라우저에서 실행하는 서버리스 x86 가상머신]]></title>
-        <id>https://webvm.io/</id>
-        <link href="https://webvm.io/"/>
-        <updated>2022-02-04T01:46:33.287Z</updated>
-        <content type="html"><![CDATA[(webvm.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQL 팁 : 나의 SQL 작성 패턴]]></title>
         <id>https://threadreaderapp.com/thread/1479811885377765383.html</id>
         <link href="https://threadreaderapp.com/thread/1479811885377765383.html"/>
         <updated>2022-02-04T02:14:45.522Z</updated>
         <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebVM, 브라우저에서 실행하는 서버리스 x86 가상머신]]></title>
+        <id>https://webvm.io/</id>
+        <link href="https://webvm.io/"/>
+        <updated>2022-02-04T01:46:33.287Z</updated>
+        <content type="html"><![CDATA[(webvm.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mess with DNS - 브라우저상에서 DNS 실험하며 배우기]]></title>
@@ -69,17 +69,17 @@
         <content type="html"><![CDATA[(tech.inflab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분은 노트/정보/일정을 관리하실 때 어떤 툴을 사용하나요?]]></title>
-        <id>https://news.hada.io/topic?id=5888</id>
-        <link href="https://news.hada.io/topic?id=5888"/>
-        <updated>2022-02-04T08:13:16.081Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 [번역]]]></title>
         <id>https://yozm.wishket.com/magazine/detail/969/</id>
         <link href="https://yozm.wishket.com/magazine/detail/969/"/>
         <updated>2022-02-04T02:14:45.505Z</updated>
         <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분은 노트/정보/일정을 관리하실 때 어떤 툴을 사용하나요?]]></title>
+        <id>https://news.hada.io/topic?id=5888</id>
+        <link href="https://news.hada.io/topic?id=5888"/>
+        <updated>2022-02-04T08:13:16.081Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reshape - 다운타임 없는 Postgres용 스키마 이관 도구 오픈소스]]></title>
