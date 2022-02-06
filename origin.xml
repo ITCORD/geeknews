@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-06T13:14:32.021Z</updated>
+    <updated>2022-02-06T14:12:36.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[FOSDEM 2022 온라인으로 진행중]]></title>
-        <id>https://fosdem.org/2022/live/</id>
-        <link href="https://fosdem.org/2022/live/"/>
-        <updated>2022-02-06T02:01:24.627Z</updated>
-        <content type="html"><![CDATA[(fosdem.org)]]></content>
+        <title type="html"><![CDATA[정보 배터리: 남는 신재생 에너지를 적시에 데이터센터에서 사용하기]]></title>
+        <id>https://techxplore.com/news/2022-02-sustainable-energy-batteries.html</id>
+        <link href="https://techxplore.com/news/2022-02-sustainable-energy-batteries.html"/>
+        <updated>2022-02-06T14:11:59.575Z</updated>
+        <content type="html"><![CDATA[(techxplore.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netlify, Quirrel을 인수하고 Scheduled Functions 베타 공개]]></title>
@@ -18,6 +18,13 @@
         <link href="https://www.netlify.com/blog/quirrel-joins-netlify-and-scheduled-functions-launches-in-beta"/>
         <updated>2022-02-06T02:01:24.629Z</updated>
         <content type="html"><![CDATA[(netlify.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOSDEM 2022 온라인으로 진행중]]></title>
+        <id>https://fosdem.org/2022/live/</id>
+        <link href="https://fosdem.org/2022/live/"/>
+        <updated>2022-02-06T02:01:24.627Z</updated>
+        <content type="html"><![CDATA[(fosdem.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
@@ -83,13 +90,6 @@
         <content type="html"><![CDATA[(messwithdns.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 1월 100% 할인 이벤트 장애 부검]]></title>
-        <id>https://tech.inflab.com/202201-event-postmortem/</id>
-        <link href="https://tech.inflab.com/202201-event-postmortem/"/>
-        <updated>2022-02-03T01:53:28.892Z</updated>
-        <content type="html"><![CDATA[(tech.inflab.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebVM, 브라우저에서 실행하는 서버리스 x86 가상머신]]></title>
         <id>https://webvm.io/</id>
         <link href="https://webvm.io/"/>
@@ -102,6 +102,13 @@
         <link href="https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed"/>
         <updated>2022-02-05T01:37:10.085Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 1월 100% 할인 이벤트 장애 부검]]></title>
+        <id>https://tech.inflab.com/202201-event-postmortem/</id>
+        <link href="https://tech.inflab.com/202201-event-postmortem/"/>
+        <updated>2022-02-03T01:53:28.892Z</updated>
+        <content type="html"><![CDATA[(tech.inflab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 여러분은 노트/정보/일정을 관리하실 때 어떤 툴을 사용하나요?]]></title>
@@ -136,12 +143,5 @@
         <link href="https://blog.postman.com/postman-now-supports-grpc/"/>
         <updated>2022-02-03T01:53:28.890Z</updated>
         <content type="html"><![CDATA[(blog.postman.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몇년 경력을 원하시나요?]]></title>
-        <id>https://howoldisit.glitch.me/</id>
-        <link href="https://howoldisit.glitch.me/"/>
-        <updated>2022-02-03T00:44:28.833Z</updated>
-        <content type="html"><![CDATA[(howoldisit.glitch.me)]]></content>
     </entry>
 </feed>
