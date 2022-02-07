@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-07T15:14:03.291Z</updated>
+    <updated>2022-02-07T16:20:16.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(linkedin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
-        <id>http://www.slackware.com/releasenotes/15.0.php</id>
-        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
-        <updated>2022-02-06T02:01:24.627Z</updated>
-        <content type="html"><![CDATA[(slackware.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[systemd by Example]]></title>
         <id>https://systemd-by-example.com/</id>
         <link href="https://systemd-by-example.com/"/>
@@ -137,6 +130,13 @@
         <link href="https://threadreaderapp.com/thread/1479811885377765383.html"/>
         <updated>2022-02-04T02:14:45.522Z</updated>
         <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
+        <id>http://www.slackware.com/releasenotes/15.0.php</id>
+        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
+        <updated>2022-02-06T02:01:24.627Z</updated>
+        <content type="html"><![CDATA[(slackware.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mess with DNS - 브라우저상에서 DNS 실험하며 배우기]]></title>
