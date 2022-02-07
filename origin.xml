@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-07T04:17:29.053Z</updated>
+    <updated>2022-02-07T05:12:36.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(github.com/WooilJeong)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omni - 크롬용 북마크/히스토리/탭관리자 확장 오픈소스]]></title>
-        <id>https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi</id>
-        <link href="https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi"/>
-        <updated>2022-02-07T01:56:17.373Z</updated>
-        <content type="html"><![CDATA[(chrome.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[First 100 Users - 첫번째 100명 사용자 구하기]]></title>
         <id>https://www.first100users.com/</id>
         <link href="https://www.first100users.com/"/>
@@ -39,6 +32,13 @@
         <link href="https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/"/>
         <updated>2022-02-07T04:16:54.201Z</updated>
         <content type="html"><![CDATA[(campaignmonitor.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omni - 크롬용 북마크/히스토리/탭관리자 확장 오픈소스]]></title>
+        <id>https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi</id>
+        <link href="https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi"/>
+        <updated>2022-02-07T01:56:17.373Z</updated>
+        <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, 네덜란드 데이팅앱의 대체결제수단에 27% 수수료 부과]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(systemd-by-example.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mess with DNS - 브라우저상에서 DNS 실험하며 배우기]]></title>
-        <id>https://messwithdns.net/</id>
-        <link href="https://messwithdns.net/"/>
-        <updated>2022-02-03T05:12:36.999Z</updated>
-        <content type="html"><![CDATA[(messwithdns.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQL 팁 : 나의 SQL 작성 패턴]]></title>
         <id>https://threadreaderapp.com/thread/1479811885377765383.html</id>
         <link href="https://threadreaderapp.com/thread/1479811885377765383.html"/>
         <updated>2022-02-04T02:14:45.522Z</updated>
         <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mess with DNS - 브라우저상에서 DNS 실험하며 배우기]]></title>
+        <id>https://messwithdns.net/</id>
+        <link href="https://messwithdns.net/"/>
+        <updated>2022-02-03T05:12:36.999Z</updated>
+        <content type="html"><![CDATA[(messwithdns.net)]]></content>
     </entry>
 </feed>
