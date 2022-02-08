@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-08T07:13:24.642Z</updated>
+    <updated>2022-02-08T08:16:02.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
+        <id>https://maxkim-j.github.io/posts/packet-travel</id>
+        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
+        <updated>2022-02-08T04:15:58.747Z</updated>
+        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[고마워, Valve]]></title>
         <id>https://kinduff.com/2022/02/06/thank-you-valve/</id>
         <link href="https://kinduff.com/2022/02/06/thank-you-valve/"/>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[(kinduff.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
-        <id>https://maxkim-j.github.io/posts/packet-travel</id>
-        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
-        <updated>2022-02-08T04:15:58.747Z</updated>
-        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
+        <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
+        <id>https://harshal.sheth.io/2022/01/31/webassembly.html</id>
+        <link href="https://harshal.sheth.io/2022/01/31/webassembly.html"/>
+        <updated>2022-02-07T01:56:17.372Z</updated>
+        <content type="html"><![CDATA[(harshal.sheth.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존, 기본급 상한을 4.2억 원으로 인상]]></title>
@@ -62,11 +69,18 @@
         <content type="html"><![CDATA[(geekwire.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
-        <id>https://harshal.sheth.io/2022/01/31/webassembly.html</id>
-        <link href="https://harshal.sheth.io/2022/01/31/webassembly.html"/>
-        <updated>2022-02-07T01:56:17.372Z</updated>
-        <content type="html"><![CDATA[(harshal.sheth.io)]]></content>
+        <title type="html"><![CDATA[웹 컴포넌트가 프론트엔드 프레임워크를 대신할까?]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1193/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1193/"/>
+        <updated>2022-02-08T08:15:27.728Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신이 NFT에 대해 알아야 할 모든 것 [번역]]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1192/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1192/"/>
+        <updated>2022-02-08T08:15:27.729Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First 100 Users - 첫번째 100명 사용자 구하기]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code"/>
         <updated>2022-02-03T02:25:34.751Z</updated>
         <content type="html"><![CDATA[(steveonstuff.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 네덜란드 데이팅앱의 대체결제수단에 27% 수수료 부과]]></title>
-        <id>https://9to5mac.com/2022/02/04/apple-will-charge-27-commission-for-purchases-made-using-alternative-payment-systems-in-the-netherlands/</id>
-        <link href="https://9to5mac.com/2022/02/04/apple-will-charge-27-commission-for-purchases-made-using-alternative-payment-systems-in-the-netherlands/"/>
-        <updated>2022-02-07T01:56:17.376Z</updated>
-        <content type="html"><![CDATA[(9to5mac.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify, Quirrel을 인수하고 Scheduled Functions 베타 공개]]></title>
-        <id>https://www.netlify.com/blog/quirrel-joins-netlify-and-scheduled-functions-launches-in-beta</id>
-        <link href="https://www.netlify.com/blog/quirrel-joins-netlify-and-scheduled-functions-launches-in-beta"/>
-        <updated>2022-02-06T02:01:24.629Z</updated>
-        <content type="html"><![CDATA[(netlify.com)]]></content>
     </entry>
 </feed>
