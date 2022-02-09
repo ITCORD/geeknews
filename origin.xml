@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-09T15:14:17.106Z</updated>
+    <updated>2022-02-09T16:19:45.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
+        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
+        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
+        <updated>2022-02-08T06:16:36.348Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ploomber - 빠르게 데이터 파이프라인을 만들어주는 오픈소스 프레임워크]]></title>
         <id>https://ploomber.io/</id>
         <link href="https://ploomber.io/"/>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(ploomber.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
-        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
-        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
-        <updated>2022-02-08T06:16:36.348Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
+        <id>https://maxkim-j.github.io/posts/packet-travel</id>
+        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
+        <updated>2022-02-08T04:15:58.747Z</updated>
+        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peloton, CEO 교체하고 2800명 해고]]></title>
@@ -46,13 +53,6 @@
         <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
         <updated>2022-02-09T06:16:12.000Z</updated>
         <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
-        <id>https://maxkim-j.github.io/posts/packet-travel</id>
-        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
-        <updated>2022-02-08T04:15:58.747Z</updated>
-        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Discord, 포럼과 비슷한 새로운 커뮤니티 기능 실험 중]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(riscv.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 아이폰에서 비접촉 결제 가능한 Tap to Pay 공개]]></title>
-        <id>https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/</id>
-        <link href="https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/"/>
-        <updated>2022-02-09T08:16:08.257Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
         <id>https://harshal.sheth.io/2022/01/31/webassembly.html</id>
         <link href="https://harshal.sheth.io/2022/01/31/webassembly.html"/>
         <updated>2022-02-07T01:56:17.372Z</updated>
         <content type="html"><![CDATA[(harshal.sheth.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 아이폰에서 비접촉 결제 가능한 Tap to Pay 공개]]></title>
+        <id>https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/</id>
+        <link href="https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/"/>
+        <updated>2022-02-09T08:16:08.257Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[펠로톤 이야기]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기계식 키보드 끝판 정리]]></title>
-        <id>https://brunch.co.kr/@ioojoo/156</id>
-        <link href="https://brunch.co.kr/@ioojoo/156"/>
-        <updated>2022-02-08T01:58:24.720Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[First 100 Users - 첫번째 100명 사용자 구하기]]></title>
         <id>https://www.first100users.com/</id>
         <link href="https://www.first100users.com/"/>
         <updated>2022-02-07T03:13:45.334Z</updated>
         <content type="html"><![CDATA[(first100users.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기계식 키보드 끝판 정리]]></title>
+        <id>https://brunch.co.kr/@ioojoo/156</id>
+        <link href="https://brunch.co.kr/@ioojoo/156"/>
+        <updated>2022-02-08T01:58:24.720Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고마워, Valve]]></title>
