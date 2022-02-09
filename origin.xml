@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-09T18:16:36.180Z</updated>
+    <updated>2022-02-09T19:11:22.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peloton, CEO 교체하고 2800명 해고]]></title>
-        <id>https://www.cbc.ca/news/business/peloton-ceo-john-foley-1.6343537</id>
-        <link href="https://www.cbc.ca/news/business/peloton-ceo-john-foley-1.6343537"/>
-        <updated>2022-02-09T04:16:38.499Z</updated>
-        <content type="html"><![CDATA[(cbc.ca)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
         <id>https://sha256algorithm.com/</id>
         <link href="https://sha256algorithm.com/"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2274659975865</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
-        <updated>2022-02-09T06:16:12.000Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+        <title type="html"><![CDATA[Peloton, CEO 교체하고 2800명 해고]]></title>
+        <id>https://www.cbc.ca/news/business/peloton-ceo-john-foley-1.6343537</id>
+        <link href="https://www.cbc.ca/news/business/peloton-ceo-john-foley-1.6343537"/>
+        <updated>2022-02-09T04:16:38.499Z</updated>
+        <content type="html"><![CDATA[(cbc.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Discord, 포럼과 비슷한 새로운 커뮤니티 기능 실험 중]]></title>
@@ -67,6 +60,13 @@
         <link href="https://discord.com/blog/a-note-on-upcoming-community-experiments"/>
         <updated>2022-02-09T00:50:34.906Z</updated>
         <content type="html"><![CDATA[(discord.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2274659975865</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
+        <updated>2022-02-09T06:16:12.000Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 리뷰의 목적은 성장이어야 한다]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서버들이 IPv6를 지원해야 할 이유]]></title>
-        <id>https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/</id>
-        <link href="https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/"/>
-        <updated>2022-02-08T01:58:24.720Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[First 100 Users - 첫번째 100명 사용자 구하기]]></title>
         <id>https://www.first100users.com/</id>
         <link href="https://www.first100users.com/"/>
@@ -118,11 +111,11 @@
         <content type="html"><![CDATA[(first100users.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[펠로톤 이야기]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2275531158327</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2275531158327"/>
-        <updated>2022-02-09T06:16:12.000Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+        <title type="html"><![CDATA[서버들이 IPv6를 지원해야 할 이유]]></title>
+        <id>https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/</id>
+        <link href="https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/"/>
+        <updated>2022-02-08T01:58:24.720Z</updated>
+        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기계식 키보드 끝판 정리]]></title>
@@ -130,6 +123,13 @@
         <link href="https://brunch.co.kr/@ioojoo/156"/>
         <updated>2022-02-08T01:58:24.720Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펠로톤 이야기]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2275531158327</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2275531158327"/>
+        <updated>2022-02-09T06:16:12.000Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고마워, Valve]]></title>
