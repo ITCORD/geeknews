@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-09T06:16:48.937Z</updated>
+    <updated>2022-02-09T07:14:01.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://threadreaderapp.com/thread/1489901640777973768.html"/>
         <updated>2022-02-09T02:03:09.381Z</updated>
         <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
+        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
+        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
+        <updated>2022-02-08T06:16:36.348Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peloton, CEO 교체하고 2800명 해고]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[(discord.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
-        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
-        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
-        <updated>2022-02-08T06:16:36.348Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인텔, RISC-V 멤버로 가입하고 1.2조원 파운드리 펀드 조성]]></title>
         <id>https://riscv.org/whats-new/2022/02/intel-corporation-makes-deep-investment-in-risc-v-community-to-accelerate-innovation-in-open-computing/</id>
         <link href="https://riscv.org/whats-new/2022/02/intel-corporation-makes-deep-investment-in-risc-v-community-to-accelerate-innovation-in-open-computing/"/>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[web3/NFT: 이게 최선입니까?]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2274495848821</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2274495848821"/>
-        <updated>2022-02-09T06:16:12.016Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코드 리뷰의 목적은 성장이어야 한다]]></title>
         <id>https://jbee.io/essay/code-review-goal/</id>
         <link href="https://jbee.io/essay/code-review-goal/"/>
@@ -104,11 +97,11 @@
         <content type="html"><![CDATA[(nvidianews.nvidia.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서버들이 IPv6를 지원해야 할 이유]]></title>
-        <id>https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/</id>
-        <link href="https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/"/>
-        <updated>2022-02-08T01:58:24.720Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
+        <title type="html"><![CDATA[web3/NFT: 이게 최선입니까?]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2274495848821</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2274495848821"/>
+        <updated>2022-02-09T06:16:12.016Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
@@ -116,6 +109,13 @@
         <link href="https://harshal.sheth.io/2022/01/31/webassembly.html"/>
         <updated>2022-02-07T01:56:17.372Z</updated>
         <content type="html"><![CDATA[(harshal.sheth.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서버들이 IPv6를 지원해야 할 이유]]></title>
+        <id>https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/</id>
+        <link href="https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/"/>
+        <updated>2022-02-08T01:58:24.720Z</updated>
+        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기계식 키보드 끝판 정리]]></title>
