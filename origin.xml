@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-10T11:11:50.692Z</updated>
+    <updated>2022-02-10T12:21:49.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
-        <id>https://gist.github.com/seonghyeonkimm/977b58387f9f4e11afeee8c7685c2e89</id>
-        <link href="https://gist.github.com/seonghyeonkimm/977b58387f9f4e11afeee8c7685c2e89"/>
-        <updated>2022-02-10T09:13:17.822Z</updated>
-        <content type="html"><![CDATA[(gist.github.com/seonghyeonkimm)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플, 인공지능 음악 스타트업 AI Music 인수]]></title>
         <id>https://www.macrumors.com/2022/02/07/apple-acquires-ai-music</id>
         <link href="https://www.macrumors.com/2022/02/07/apple-acquires-ai-music"/>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2274659975865</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
-        <updated>2022-02-09T06:16:12.000Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+        <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
+        <id>https://gist.github.com/seonghyeonkimm/977b58387f9f4e11afeee8c7685c2e89</id>
+        <link href="https://gist.github.com/seonghyeonkimm/977b58387f9f4e11afeee8c7685c2e89"/>
+        <updated>2022-02-10T09:13:17.822Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/seonghyeonkimm)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ploomber - 빠르게 데이터 파이프라인을 만들어주는 오픈소스 프레임워크]]></title>
@@ -90,18 +83,18 @@
         <content type="html"><![CDATA[(ploomber.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2274659975865</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
+        <updated>2022-02-09T06:16:12.000Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
         <id>https://sha256algorithm.com/</id>
         <link href="https://sha256algorithm.com/"/>
         <updated>2022-02-08T00:47:57.424Z</updated>
         <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성, 갤럭시 S22 시리즈 공개]]></title>
-        <id>https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C</id>
-        <link href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C"/>
-        <updated>2022-02-10T01:56:48.460Z</updated>
-        <content type="html"><![CDATA[(news.samsung.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peloton, CEO 교체하고 2800명 해고]]></title>
@@ -116,6 +109,13 @@
         <link href="https://threadreaderapp.com/thread/1489901640777973768.html"/>
         <updated>2022-02-09T02:03:09.381Z</updated>
         <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성, 갤럭시 S22 시리즈 공개]]></title>
+        <id>https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C</id>
+        <link href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C"/>
+        <updated>2022-02-10T01:56:48.460Z</updated>
+        <content type="html"><![CDATA[(news.samsung.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 리뷰의 목적은 성장이어야 한다]]></title>
