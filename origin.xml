@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-10T08:16:23.432Z</updated>
+    <updated>2022-02-10T09:13:58.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"/>
         <updated>2022-02-10T01:56:48.460Z</updated>
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라디오 방송국이 실수로 송출한 파일로 Mazda 자동차가 고장]]></title>
+        <id>https://www.geekwire.com/2022/youre-listening-to-kuow-like-it-or-not-mysterious-glitch-has-mazda-drivers-stuck-on-public-radio/amp/</id>
+        <link href="https://www.geekwire.com/2022/youre-listening-to-kuow-like-it-or-not-mysterious-glitch-has-mazda-drivers-stuck-on-public-radio/amp/"/>
+        <updated>2022-02-10T01:56:48.460Z</updated>
+        <content type="html"><![CDATA[(geekwire.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GOV.UK PaaS - 영국의 공공 서비스를 위한 클라우드]]></title>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(gist.github.com/seonghyeonkimm)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라디오 방송국이 실수로 송출한 파일로 Mazda 자동차가 고장]]></title>
-        <id>https://www.geekwire.com/2022/youre-listening-to-kuow-like-it-or-not-mysterious-glitch-has-mazda-drivers-stuck-on-public-radio/amp/</id>
-        <link href="https://www.geekwire.com/2022/youre-listening-to-kuow-like-it-or-not-mysterious-glitch-has-mazda-drivers-stuck-on-public-radio/amp/"/>
-        <updated>2022-02-10T01:56:48.460Z</updated>
-        <content type="html"><![CDATA[(geekwire.com)]]></content>
+        <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
+        <id>https://gist.github.com/seonghyeonkimm/977b58387f9f4e11afeee8c7685c2e89</id>
+        <link href="https://gist.github.com/seonghyeonkimm/977b58387f9f4e11afeee8c7685c2e89"/>
+        <updated>2022-02-10T09:13:17.822Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/seonghyeonkimm)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글에 합격했습니다]]></title>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성, 갤럭시 S22 시리즈 공개]]></title>
-        <id>https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C</id>
-        <link href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C"/>
-        <updated>2022-02-10T01:56:48.460Z</updated>
-        <content type="html"><![CDATA[(news.samsung.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
         <id>https://maxkim-j.github.io/posts/packet-travel</id>
         <link href="https://maxkim-j.github.io/posts/packet-travel"/>
         <updated>2022-02-08T04:15:58.747Z</updated>
         <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성, 갤럭시 S22 시리즈 공개]]></title>
+        <id>https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C</id>
+        <link href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C"/>
+        <updated>2022-02-10T01:56:48.460Z</updated>
+        <content type="html"><![CDATA[(news.samsung.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ploomber - 빠르게 데이터 파이프라인을 만들어주는 오픈소스 프레임워크]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.first100users.com/"/>
         <updated>2022-02-07T03:13:45.334Z</updated>
         <content type="html"><![CDATA[(first100users.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서버들이 IPv6를 지원해야 할 이유]]></title>
-        <id>https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/</id>
-        <link href="https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/"/>
-        <updated>2022-02-10T07:12:54.031Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
 </feed>
