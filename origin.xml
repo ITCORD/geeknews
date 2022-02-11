@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-11T00:53:07.781Z</updated>
+    <updated>2022-02-11T02:00:45.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,34 @@
         <link href="https://gyroflow.xyz/"/>
         <updated>2022-02-11T00:52:25.163Z</updated>
         <content type="html"><![CDATA[(gyroflow.xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeCaptcha - 개발자에게만 보이는 링크 만들기]]></title>
+        <id>https://www.codecaptcha.io/</id>
+        <link href="https://www.codecaptcha.io/"/>
+        <updated>2022-02-11T02:00:09.391Z</updated>
+        <content type="html"><![CDATA[(codecaptcha.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BeeWare - Python 크로스플랫폼 오픈소스]]></title>
+        <id>https://beeware.org/</id>
+        <link href="https://beeware.org/"/>
+        <updated>2022-02-11T02:00:09.391Z</updated>
+        <content type="html"><![CDATA[(beeware.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel 9 릴리즈]]></title>
+        <id>https://laravel-news.com/laravel-9-released</id>
+        <link href="https://laravel-news.com/laravel-9-released"/>
+        <updated>2022-02-11T02:00:09.393Z</updated>
+        <content type="html"><![CDATA[(laravel-news.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 최고의 웹 해킹 기술들]]></title>
+        <id>https://portswigger.net/research/top-10-web-hacking-techniques-of-2021</id>
+        <link href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2021"/>
+        <updated>2022-02-11T02:00:09.394Z</updated>
+        <content type="html"><![CDATA[(portswigger.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
@@ -48,6 +76,13 @@
         <content type="html"><![CDATA[(okky.kr)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
+        <id>https://maxkim-j.github.io/posts/packet-travel</id>
+        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
+        <updated>2022-02-08T04:15:58.747Z</updated>
+        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[라디오 방송국이 실수로 송출한 파일로 Mazda 자동차가 고장]]></title>
         <id>https://www.geekwire.com/2022/youre-listening-to-kuow-like-it-or-not-mysterious-glitch-has-mazda-drivers-stuck-on-public-radio/amp/</id>
         <link href="https://www.geekwire.com/2022/youre-listening-to-kuow-like-it-or-not-mysterious-glitch-has-mazda-drivers-stuck-on-public-radio/amp/"/>
@@ -60,13 +95,6 @@
         <link href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"/>
         <updated>2022-02-10T01:56:48.460Z</updated>
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
-        <id>https://maxkim-j.github.io/posts/packet-travel</id>
-        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
-        <updated>2022-02-08T04:15:58.747Z</updated>
-        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GOV.UK PaaS - 영국의 공공 서비스를 위한 클라우드]]></title>
@@ -116,33 +144,5 @@
         <link href="https://www.cbc.ca/news/business/peloton-ceo-john-foley-1.6343537"/>
         <updated>2022-02-09T04:16:38.499Z</updated>
         <content type="html"><![CDATA[(cbc.ca)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
-        <id>https://harshal.sheth.io/2022/01/31/webassembly.html</id>
-        <link href="https://harshal.sheth.io/2022/01/31/webassembly.html"/>
-        <updated>2022-02-07T01:56:17.372Z</updated>
-        <content type="html"><![CDATA[(harshal.sheth.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드 리뷰의 목적은 성장이어야 한다]]></title>
-        <id>https://jbee.io/essay/code-review-goal/</id>
-        <link href="https://jbee.io/essay/code-review-goal/"/>
-        <updated>2022-02-08T00:47:57.425Z</updated>
-        <content type="html"><![CDATA[(jbee.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 인공지능 음악 스타트업 AI Music 인수]]></title>
-        <id>https://www.macrumors.com/2022/02/07/apple-acquires-ai-music</id>
-        <link href="https://www.macrumors.com/2022/02/07/apple-acquires-ai-music"/>
-        <updated>2022-02-10T00:49:00.271Z</updated>
-        <content type="html"><![CDATA[(macrumors.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First 100 Users - 첫번째 100명 사용자 구하기]]></title>
-        <id>https://www.first100users.com/</id>
-        <link href="https://www.first100users.com/"/>
-        <updated>2022-02-07T03:13:45.334Z</updated>
-        <content type="html"><![CDATA[(first100users.com)]]></content>
     </entry>
 </feed>
