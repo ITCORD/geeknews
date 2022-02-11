@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-10T23:14:57.553Z</updated>
+    <updated>2022-02-11T00:53:07.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AWS 학습 자료 링크모음]]></title>
+        <id>https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b</id>
+        <link href="https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b"/>
+        <updated>2022-02-11T00:52:25.163Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/serithemage)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gyroflow - Gyro를 이용한 비디오 안정화 툴 오픈소스]]></title>
+        <id>https://gyroflow.xyz/</id>
+        <link href="https://gyroflow.xyz/"/>
+        <updated>2022-02-11T00:52:25.163Z</updated>
+        <content type="html"><![CDATA[(gyroflow.xyz)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
         <id>https://gist.github.com/seonghyeonkimm/977b58387f9f4e11afeee8c7685c2e89</id>
@@ -27,6 +41,13 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[구글에 합격했습니다]]></title>
+        <id>https://okky.kr/article/1155034</id>
+        <link href="https://okky.kr/article/1155034"/>
+        <updated>2022-02-09T04:16:38.497Z</updated>
+        <content type="html"><![CDATA[(okky.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[라디오 방송국이 실수로 송출한 파일로 Mazda 자동차가 고장]]></title>
         <id>https://www.geekwire.com/2022/youre-listening-to-kuow-like-it-or-not-mysterious-glitch-has-mazda-drivers-stuck-on-public-radio/amp/</id>
         <link href="https://www.geekwire.com/2022/youre-listening-to-kuow-like-it-or-not-mysterious-glitch-has-mazda-drivers-stuck-on-public-radio/amp/"/>
@@ -41,11 +62,11 @@
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글에 합격했습니다]]></title>
-        <id>https://okky.kr/article/1155034</id>
-        <link href="https://okky.kr/article/1155034"/>
-        <updated>2022-02-09T04:16:38.497Z</updated>
-        <content type="html"><![CDATA[(okky.kr)]]></content>
+        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
+        <id>https://maxkim-j.github.io/posts/packet-travel</id>
+        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
+        <updated>2022-02-08T04:15:58.747Z</updated>
+        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GOV.UK PaaS - 영국의 공공 서비스를 위한 클라우드]]></title>
@@ -62,11 +83,11 @@
         <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
-        <id>https://maxkim-j.github.io/posts/packet-travel</id>
-        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
-        <updated>2022-02-08T04:15:58.747Z</updated>
-        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
+        <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
+        <id>https://sha256algorithm.com/</id>
+        <link href="https://sha256algorithm.com/"/>
+        <updated>2022-02-08T00:47:57.424Z</updated>
+        <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
@@ -74,13 +95,6 @@
         <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
         <updated>2022-02-09T06:16:12.000Z</updated>
         <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
-        <id>https://sha256algorithm.com/</id>
-        <link href="https://sha256algorithm.com/"/>
-        <updated>2022-02-08T00:47:57.424Z</updated>
-        <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ploomber - 빠르게 데이터 파이프라인을 만들어주는 오픈소스 프레임워크]]></title>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[(harshal.sheth.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 인공지능 음악 스타트업 AI Music 인수]]></title>
-        <id>https://www.macrumors.com/2022/02/07/apple-acquires-ai-music</id>
-        <link href="https://www.macrumors.com/2022/02/07/apple-acquires-ai-music"/>
-        <updated>2022-02-10T00:49:00.271Z</updated>
-        <content type="html"><![CDATA[(macrumors.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코드 리뷰의 목적은 성장이어야 한다]]></title>
         <id>https://jbee.io/essay/code-review-goal/</id>
         <link href="https://jbee.io/essay/code-review-goal/"/>
@@ -125,24 +132,17 @@
         <content type="html"><![CDATA[(jbee.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애플, 인공지능 음악 스타트업 AI Music 인수]]></title>
+        <id>https://www.macrumors.com/2022/02/07/apple-acquires-ai-music</id>
+        <link href="https://www.macrumors.com/2022/02/07/apple-acquires-ai-music"/>
+        <updated>2022-02-10T00:49:00.271Z</updated>
+        <content type="html"><![CDATA[(macrumors.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[First 100 Users - 첫번째 100명 사용자 구하기]]></title>
         <id>https://www.first100users.com/</id>
         <link href="https://www.first100users.com/"/>
         <updated>2022-02-07T03:13:45.334Z</updated>
         <content type="html"><![CDATA[(first100users.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord, 포럼과 비슷한 새로운 커뮤니티 기능 실험 중]]></title>
-        <id>https://discord.com/blog/a-note-on-upcoming-community-experiments</id>
-        <link href="https://discord.com/blog/a-note-on-upcoming-community-experiments"/>
-        <updated>2022-02-09T00:50:34.906Z</updated>
-        <content type="html"><![CDATA[(discord.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성, 갤럭시 S22 시리즈 공개]]></title>
-        <id>https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C</id>
-        <link href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EA%B0%80%EC%9E%A5-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s22-%EA%B3%B5%EA%B0%9C"/>
-        <updated>2022-02-10T01:56:48.460Z</updated>
-        <content type="html"><![CDATA[(news.samsung.com)]]></content>
     </entry>
 </feed>
