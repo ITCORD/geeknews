@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-12T13:14:16.856Z</updated>
+    <updated>2022-02-12T14:12:25.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/"/>
         <updated>2022-02-12T05:11:52.743Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
+        <id>https://browser.engineering/</id>
+        <link href="https://browser.engineering/"/>
+        <updated>2022-02-12T14:11:48.730Z</updated>
+        <content type="html"><![CDATA[(browser.engineering)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS 학습 자료 링크모음]]></title>
@@ -83,13 +90,6 @@
         <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
-        <id>https://brunch.co.kr/@ywkim36/68</id>
-        <link href="https://brunch.co.kr/@ywkim36/68"/>
-        <updated>2022-02-12T00:51:19.164Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
         <id>https://sha256algorithm.com/</id>
         <link href="https://sha256algorithm.com/"/>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글에 합격했습니다]]></title>
-        <id>https://okky.kr/article/1155034</id>
-        <link href="https://okky.kr/article/1155034"/>
-        <updated>2022-02-09T04:16:38.497Z</updated>
-        <content type="html"><![CDATA[(okky.kr)]]></content>
+        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
+        <id>https://brunch.co.kr/@ywkim36/68</id>
+        <link href="https://brunch.co.kr/@ywkim36/68"/>
+        <updated>2022-02-12T00:51:19.164Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
@@ -109,6 +109,13 @@
         <link href="https://harshal.sheth.io/2022/01/31/webassembly.html"/>
         <updated>2022-02-11T03:13:27.500Z</updated>
         <content type="html"><![CDATA[(harshal.sheth.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글에 합격했습니다]]></title>
+        <id>https://okky.kr/article/1155034</id>
+        <link href="https://okky.kr/article/1155034"/>
+        <updated>2022-02-09T04:16:38.497Z</updated>
+        <content type="html"><![CDATA[(okky.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
@@ -136,12 +143,5 @@
         <id>https://news.hada.io/topic?id=5956</id>
         <link href="https://news.hada.io/topic?id=5956"/>
         <updated>2022-02-11T07:12:40.958Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2274659975865</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
-        <updated>2022-02-12T11:11:03.729Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
 </feed>
