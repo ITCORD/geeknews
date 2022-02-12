@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-12T09:14:14.952Z</updated>
+    <updated>2022-02-12T10:14:02.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[애플의 새로운 'realityOS' 깃헙 커밋에서 발견]]></title>
-        <id>https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/</id>
-        <link href="https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/"/>
-        <updated>2022-02-12T05:11:52.743Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1.0 릴리즈]]></title>
         <id>https://www.edgedb.com/blog/edgedb-1-0</id>
         <link href="https://www.edgedb.com/blog/edgedb-1-0"/>
         <updated>2022-02-12T02:02:24.327Z</updated>
         <content type="html"><![CDATA[(edgedb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플의 새로운 'realityOS' 깃헙 커밋에서 발견]]></title>
+        <id>https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/</id>
+        <link href="https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/"/>
+        <updated>2022-02-12T05:11:52.743Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS 학습 자료 링크모음]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(gyroflow.xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
-        <id>https://brunch.co.kr/@ywkim36/68</id>
-        <link href="https://brunch.co.kr/@ywkim36/68"/>
-        <updated>2022-02-12T00:51:19.164Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
         <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
         <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
         <updated>2022-02-08T06:16:36.348Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
+        <id>https://brunch.co.kr/@ywkim36/68</id>
+        <link href="https://brunch.co.kr/@ywkim36/68"/>
+        <updated>2022-02-12T00:51:19.164Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
@@ -111,12 +111,6 @@
         <content type="html"><![CDATA[(gist.github.com/seonghyeonkimm)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5956</id>
-        <link href="https://news.hada.io/topic?id=5956"/>
-        <updated>2022-02-11T07:12:40.958Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
         <id>https://harshal.sheth.io/2022/01/31/webassembly.html</id>
         <link href="https://harshal.sheth.io/2022/01/31/webassembly.html"/>
@@ -129,6 +123,12 @@
         <link href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"/>
         <updated>2022-02-10T01:56:48.460Z</updated>
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5956</id>
+        <link href="https://news.hada.io/topic?id=5956"/>
+        <updated>2022-02-11T07:12:40.958Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ploomber - 빠르게 데이터 파이프라인을 만들어주는 오픈소스 프레임워크]]></title>
