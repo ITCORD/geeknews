@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-12T04:17:29.884Z</updated>
+    <updated>2022-02-12T05:12:27.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.edgedb.com/blog/edgedb-1-0"/>
         <updated>2022-02-12T02:02:24.327Z</updated>
         <content type="html"><![CDATA[(edgedb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플의 새로운 'realityOS' 깃헙 커밋에서 발견]]></title>
+        <id>https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/</id>
+        <link href="https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/"/>
+        <updated>2022-02-12T05:11:52.743Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[(gist.github.com/serithemage)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
+        <id>https://pauljuliusmartinez.github.io/</id>
+        <link href="https://pauljuliusmartinez.github.io/"/>
+        <updated>2022-02-12T02:02:24.338Z</updated>
+        <content type="html"><![CDATA[(pauljuliusmartinez.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BeeWare - Python 크로스플랫폼 오픈소스]]></title>
         <id>https://beeware.org/</id>
         <link href="https://beeware.org/"/>
         <updated>2022-02-11T02:00:09.391Z</updated>
         <content type="html"><![CDATA[(beeware.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 최고의 웹 해킹 기술들]]></title>
-        <id>https://portswigger.net/research/top-10-web-hacking-techniques-of-2021</id>
-        <link href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2021"/>
-        <updated>2022-02-11T02:00:09.394Z</updated>
-        <content type="html"><![CDATA[(portswigger.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CodeCaptcha - 개발자에게만 보이는 링크 만들기]]></title>
@@ -48,18 +55,11 @@
         <content type="html"><![CDATA[(codecaptcha.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
-        <id>https://pauljuliusmartinez.github.io/</id>
-        <link href="https://pauljuliusmartinez.github.io/"/>
-        <updated>2022-02-12T02:02:24.338Z</updated>
-        <content type="html"><![CDATA[(pauljuliusmartinez.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
-        <id>https://brunch.co.kr/@ywkim36/68</id>
-        <link href="https://brunch.co.kr/@ywkim36/68"/>
-        <updated>2022-02-12T00:51:19.164Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
+        <title type="html"><![CDATA[2021년 최고의 웹 해킹 기술들]]></title>
+        <id>https://portswigger.net/research/top-10-web-hacking-techniques-of-2021</id>
+        <link href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2021"/>
+        <updated>2022-02-11T02:00:09.394Z</updated>
+        <content type="html"><![CDATA[(portswigger.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gyroflow - Gyro를 이용한 비디오 안정화 툴 오픈소스]]></title>
@@ -67,6 +67,13 @@
         <link href="https://gyroflow.xyz/"/>
         <updated>2022-02-11T00:52:25.163Z</updated>
         <content type="html"><![CDATA[(gyroflow.xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
+        <id>https://brunch.co.kr/@ywkim36/68</id>
+        <link href="https://brunch.co.kr/@ywkim36/68"/>
+        <updated>2022-02-12T00:51:19.164Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
@@ -83,17 +90,17 @@
         <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5956</id>
-        <link href="https://news.hada.io/topic?id=5956"/>
-        <updated>2022-02-11T07:12:40.958Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
         <id>https://sha256algorithm.com/</id>
         <link href="https://sha256algorithm.com/"/>
         <updated>2022-02-08T00:47:57.424Z</updated>
         <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5956</id>
+        <link href="https://news.hada.io/topic?id=5956"/>
+        <updated>2022-02-11T07:12:40.958Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
@@ -108,6 +115,13 @@
         <link href="https://okky.kr/article/1155034"/>
         <updated>2022-02-09T04:16:38.497Z</updated>
         <content type="html"><![CDATA[(okky.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오버플로우 없이 2개 unsigned int의 평균 구하기]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"/>
+        <updated>2022-02-10T01:56:48.460Z</updated>
+        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
@@ -129,19 +143,5 @@
         <link href="https://gist.github.com/seonghyeonkimm/86411e2bf274063db45731c42b271033"/>
         <updated>2022-02-10T03:13:14.487Z</updated>
         <content type="html"><![CDATA[(gist.github.com/seonghyeonkimm)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2274659975865</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
-        <updated>2022-02-09T06:16:12.000Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오버플로우 없이 2개 unsigned int의 평균 구하기]]></title>
-        <id>https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223</id>
-        <link href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"/>
-        <updated>2022-02-10T01:56:48.460Z</updated>
-        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
 </feed>
