@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-12T14:12:25.362Z</updated>
+    <updated>2022-02-12T15:12:59.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
-        <id>https://brunch.co.kr/@ywkim36/68</id>
-        <link href="https://brunch.co.kr/@ywkim36/68"/>
-        <updated>2022-02-12T00:51:19.164Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
         <id>https://harshal.sheth.io/2022/01/31/webassembly.html</id>
         <link href="https://harshal.sheth.io/2022/01/31/webassembly.html"/>
@@ -116,6 +109,13 @@
         <link href="https://okky.kr/article/1155034"/>
         <updated>2022-02-09T04:16:38.497Z</updated>
         <content type="html"><![CDATA[(okky.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 iPaaS 시장 동향]]></title>
+        <id>https://brunch.co.kr/@ywkim36/68</id>
+        <link href="https://brunch.co.kr/@ywkim36/68"/>
+        <updated>2022-02-12T00:51:19.164Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[openapi-typescript + react-query로 typesafe하게 rest api와 통신하기]]></title>
