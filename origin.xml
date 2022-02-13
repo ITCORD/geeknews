@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-13T05:12:35.567Z</updated>
+    <updated>2022-02-13T06:16:20.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[(portswigger.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
+        <id>https://pauljuliusmartinez.github.io/</id>
+        <link href="https://pauljuliusmartinez.github.io/"/>
+        <updated>2022-02-12T02:02:24.338Z</updated>
+        <content type="html"><![CDATA[(pauljuliusmartinez.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CodeCaptcha - 개발자에게만 보이는 링크 만들기]]></title>
         <id>https://www.codecaptcha.io/</id>
         <link href="https://www.codecaptcha.io/"/>
@@ -89,13 +96,6 @@
         <content type="html"><![CDATA[(gyroflow.xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
-        <id>https://twitter.com/moyix/status/1491803929801150471</id>
-        <link href="https://twitter.com/moyix/status/1491803929801150471"/>
-        <updated>2022-02-12T03:12:48.788Z</updated>
-        <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
         <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
         <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
-        <id>https://pauljuliusmartinez.github.io/</id>
-        <link href="https://pauljuliusmartinez.github.io/"/>
-        <updated>2022-02-12T02:02:24.338Z</updated>
-        <content type="html"><![CDATA[(pauljuliusmartinez.github.io)]]></content>
+        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
+        <id>https://twitter.com/moyix/status/1491803929801150471</id>
+        <link href="https://twitter.com/moyix/status/1491803929801150471"/>
+        <updated>2022-02-12T03:12:48.788Z</updated>
+        <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
