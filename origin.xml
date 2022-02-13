@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-13T00:51:40.486Z</updated>
+    <updated>2022-02-13T02:01:33.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
+        <id>https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript</id>
+        <link href="https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript"/>
+        <updated>2022-02-13T00:51:05.938Z</updated>
+        <content type="html"><![CDATA[(kubesail.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firecracker v1.0.0 릴리즈]]></title>
         <id>https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0</id>
@@ -25,13 +32,6 @@
         <link href="https://browser.engineering/"/>
         <updated>2022-02-12T14:11:48.730Z</updated>
         <content type="html"><![CDATA[(browser.engineering)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
-        <id>https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript</id>
-        <link href="https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript"/>
-        <updated>2022-02-13T00:51:05.938Z</updated>
-        <content type="html"><![CDATA[(kubesail.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1.0 릴리즈]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(codecaptcha.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
-        <id>https://twitter.com/moyix/status/1491803929801150471</id>
-        <link href="https://twitter.com/moyix/status/1491803929801150471"/>
-        <updated>2022-02-12T03:12:48.788Z</updated>
-        <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gyroflow - Gyro를 이용한 비디오 안정화 툴 오픈소스]]></title>
         <id>https://gyroflow.xyz/</id>
         <link href="https://gyroflow.xyz/"/>
         <updated>2022-02-11T00:52:25.163Z</updated>
         <content type="html"><![CDATA[(gyroflow.xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
+        <id>https://twitter.com/moyix/status/1491803929801150471</id>
+        <link href="https://twitter.com/moyix/status/1491803929801150471"/>
+        <updated>2022-02-12T03:12:48.788Z</updated>
+        <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
