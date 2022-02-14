@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-02-13T23:13:46.121Z</updated>
+    <updated>2022-02-14T00:46:42.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
+        <id>https://news.hada.io/weekly/202207</id>
+        <link href="https://news.hada.io/weekly/202207"/>
+        <updated>2022-02-14T00:46:29.953Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">136. </td><td class="fitwidth">202207</td><td width="*">&nbsp;<a href="/weekly/202207" class="u keepall"> WebAssembly에 주목해야 할 이유</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clean Code 라는 건 없습니다]]></title>
         <id>https://news.hada.io/weekly/202206</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202140"/>
         <updated>2022-01-12T20:09:57.811Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">117. </td><td class="fitwidth">202140</td><td width="*">&nbsp;<a href="/weekly/202140" class="u keepall"> 2년만에 8조원 가치가 된 스타트업에서 배운 것</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 학습 방법 : 학습은 기술이다]]></title>
-        <id>https://news.hada.io/weekly/202139</id>
-        <link href="https://news.hada.io/weekly/202139"/>
-        <updated>2022-01-12T20:09:57.812Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">116. </td><td class="fitwidth">202139</td><td width="*">&nbsp;<a href="/weekly/202139" class="u keepall"> 새로운 학습 방법 : 학습은 기술이다</a></td>]]></content>
     </entry>
 </feed>
