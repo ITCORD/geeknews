@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T05:13:26.802Z</updated>
+    <updated>2022-02-14T06:17:06.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Microsoft를 잊지 말아요]]></title>
+        <id>https://luttig.substack.com/p/dont-forget-microsoft</id>
+        <link href="https://luttig.substack.com/p/dont-forget-microsoft"/>
+        <updated>2022-02-14T06:16:28.220Z</updated>
+        <content type="html"><![CDATA[(luttig.substack.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
         <id>https://godekdls.github.io/</id>
@@ -136,12 +143,5 @@
         <link href="https://www.codecaptcha.io/"/>
         <updated>2022-02-11T02:00:09.391Z</updated>
         <content type="html"><![CDATA[(codecaptcha.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
-        <id>https://maxkim-j.github.io/posts/packet-travel</id>
-        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
-        <updated>2022-02-08T04:15:58.747Z</updated>
-        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
 </feed>
