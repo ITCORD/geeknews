@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T10:15:07.500Z</updated>
+    <updated>2022-02-14T11:12:50.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(blog.mozilla.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
+        <id>https://sci-hub.ru/databases</id>
+        <link href="https://sci-hub.ru/databases"/>
+        <updated>2022-02-14T02:24:32.180Z</updated>
+        <content type="html"><![CDATA[(sci-hub.ru)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
         <id>https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk</id>
         <link href="https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk"/>
@@ -62,13 +69,6 @@
         <content type="html"><![CDATA[(browser.engineering)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
-        <id>https://sci-hub.ru/databases</id>
-        <link href="https://sci-hub.ru/databases"/>
-        <updated>2022-02-14T02:24:32.180Z</updated>
-        <content type="html"><![CDATA[(sci-hub.ru)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
         <id>https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript</id>
         <link href="https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript"/>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(kubesail.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firecracker v1.0.0 릴리즈]]></title>
-        <id>https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0</id>
-        <link href="https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"/>
-        <updated>2022-02-13T00:51:05.935Z</updated>
-        <content type="html"><![CDATA[(github.com/firecracker-microvm)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS 학습 자료 링크모음]]></title>
         <id>https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b</id>
         <link href="https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b"/>
         <updated>2022-02-11T00:52:25.163Z</updated>
         <content type="html"><![CDATA[(gist.github.com/serithemage)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firecracker v1.0.0 릴리즈]]></title>
+        <id>https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0</id>
+        <link href="https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"/>
+        <updated>2022-02-13T00:51:05.935Z</updated>
+        <content type="html"><![CDATA[(github.com/firecracker-microvm)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1.0 릴리즈]]></title>
@@ -118,17 +118,17 @@
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=5964</id>
-        <link href="https://news.hada.io/topic?id=5964"/>
-        <updated>2022-02-13T05:11:54.010Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
         <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
         <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
         <updated>2022-02-08T06:16:36.348Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=5964</id>
+        <link href="https://news.hada.io/topic?id=5964"/>
+        <updated>2022-02-13T05:11:54.010Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년 최고의 웹 해킹 기술들]]></title>
