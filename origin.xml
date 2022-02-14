@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T13:17:13.893Z</updated>
+    <updated>2022-02-14T14:13:41.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(sci-hub.ru)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
-        <id>https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk</id>
-        <link href="https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk"/>
-        <updated>2022-02-14T01:54:41.541Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
         <id>https://browser.engineering/</id>
         <link href="https://browser.engineering/"/>
         <updated>2022-02-12T14:11:48.730Z</updated>
         <content type="html"><![CDATA[(browser.engineering)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
+        <id>https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk</id>
+        <link href="https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk"/>
+        <updated>2022-02-14T01:54:41.541Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
-        <id>https://github.com/checkly/puppeteer-to-playwright</id>
-        <link href="https://github.com/checkly/puppeteer-to-playwright"/>
-        <updated>2022-02-13T00:51:05.935Z</updated>
-        <content type="html"><![CDATA[(github.com/checkly)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년 최고의 웹 해킹 기술들]]></title>
         <id>https://portswigger.net/research/top-10-web-hacking-techniques-of-2021</id>
         <link href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2021"/>
@@ -132,10 +125,11 @@
         <content type="html"><![CDATA[(portswigger.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=5964</id>
-        <link href="https://news.hada.io/topic?id=5964"/>
-        <updated>2022-02-13T05:11:54.010Z</updated>
+        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
+        <id>https://github.com/checkly/puppeteer-to-playwright</id>
+        <link href="https://github.com/checkly/puppeteer-to-playwright"/>
+        <updated>2022-02-13T00:51:05.935Z</updated>
+        <content type="html"><![CDATA[(github.com/checkly)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
@@ -143,5 +137,11 @@
         <link href="https://maxkim-j.github.io/posts/packet-travel"/>
         <updated>2022-02-14T07:13:25.751Z</updated>
         <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=5964</id>
+        <link href="https://news.hada.io/topic?id=5964"/>
+        <updated>2022-02-13T05:11:54.010Z</updated>
     </entry>
 </feed>
