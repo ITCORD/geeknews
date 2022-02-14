@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T01:55:21.708Z</updated>
+    <updated>2022-02-14T02:25:12.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[(germano.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
-        <id>https://godekdls.github.io/</id>
-        <link href="https://godekdls.github.io/"/>
-        <updated>2022-02-14T00:46:05.786Z</updated>
-        <content type="html"><![CDATA[(godekdls.github.io)]]></content>
+        <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
+        <id>https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/</id>
+        <link href="https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/"/>
+        <updated>2022-02-14T01:54:41.541Z</updated>
+        <content type="html"><![CDATA[(blog.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS 가상 대기실 솔루션 오픈소스 공개]]></title>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
+        <id>https://godekdls.github.io/</id>
+        <link href="https://godekdls.github.io/"/>
+        <updated>2022-02-14T00:46:05.786Z</updated>
+        <content type="html"><![CDATA[(godekdls.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lurnby - 웹을 이용한 학습도구 오픈소스]]></title>
         <id>https://github.com/Roznoshchik/Lurnby</id>
         <link href="https://github.com/Roznoshchik/Lurnby"/>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/Roznoshchik)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
-        <id>https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/</id>
-        <link href="https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/"/>
-        <updated>2022-02-14T01:54:41.541Z</updated>
-        <content type="html"><![CDATA[(blog.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
         <id>https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk</id>
         <link href="https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk"/>
         <updated>2022-02-14T01:54:41.541Z</updated>
         <content type="html"><![CDATA[(dev.to)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
+        <id>https://sci-hub.ru/databases</id>
+        <link href="https://sci-hub.ru/databases"/>
+        <updated>2022-02-14T02:24:32.180Z</updated>
+        <content type="html"><![CDATA[(sci-hub.ru)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
@@ -111,13 +118,6 @@
         <content type="html"><![CDATA[(portswigger.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
-        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
-        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
-        <updated>2022-02-08T06:16:36.348Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
         <id>https://news.hada.io/topic?id=5964</id>
         <link href="https://news.hada.io/topic?id=5964"/>
@@ -131,11 +131,11 @@
         <content type="html"><![CDATA[(codecaptcha.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
-        <id>https://pauljuliusmartinez.github.io/</id>
-        <link href="https://pauljuliusmartinez.github.io/"/>
-        <updated>2022-02-12T02:02:24.338Z</updated>
-        <content type="html"><![CDATA[(pauljuliusmartinez.github.io)]]></content>
+        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
+        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
+        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
+        <updated>2022-02-08T06:16:36.348Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
