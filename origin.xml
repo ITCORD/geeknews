@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-15T22:14:22.010Z</updated>
+    <updated>2022-02-15T23:15:13.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Luniverse NFT Demo Day, 2월 25일 온라인으로 개최 및 이벤트 진행]]></title>
-        <id>https://luniverse.io/2022/02/14/luniverse-nft-demo-day-2%EC%9B%94-25%EC%9D%BC-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%B5%9C-%EB%B0%8F-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A7%84%ED%96%89/?lang=ko&amp;fbclid=IwAR2dWeeIs-x7cqPrJrjt36-G8_GhtmbVkl3WQ5N2gGubAPDGPbQtVl78whA</id>
-        <link href="https://luniverse.io/2022/02/14/luniverse-nft-demo-day-2%EC%9B%94-25%EC%9D%BC-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%B5%9C-%EB%B0%8F-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A7%84%ED%96%89/?lang=ko&amp;fbclid=IwAR2dWeeIs-x7cqPrJrjt36-G8_GhtmbVkl3WQ5N2gGubAPDGPbQtVl78whA"/>
-        <updated>2022-02-15T15:12:09.860Z</updated>
-        <content type="html"><![CDATA[(luniverse.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[.NET 20주년]]></title>
         <id>https://dotnet.microsoft.com/en-us/</id>
         <link href="https://dotnet.microsoft.com/en-us/"/>
@@ -144,5 +137,12 @@
         <link href="https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"/>
         <updated>2022-02-15T22:13:41.686Z</updated>
         <content type="html"><![CDATA[(github.com/firecracker-microvm)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB 1.0 릴리즈]]></title>
+        <id>https://www.edgedb.com/blog/edgedb-1-0</id>
+        <link href="https://www.edgedb.com/blog/edgedb-1-0"/>
+        <updated>2022-02-15T23:14:32.609Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
 </feed>
