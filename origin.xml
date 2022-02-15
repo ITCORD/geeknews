@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T23:13:59.101Z</updated>
+    <updated>2022-02-15T00:54:53.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://luttig.substack.com/p/dont-forget-microsoft"/>
         <updated>2022-02-14T06:16:28.220Z</updated>
         <content type="html"><![CDATA[(luttig.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 20주년]]></title>
+        <id>https://dotnet.microsoft.com/en-us/</id>
+        <link href="https://dotnet.microsoft.com/en-us/"/>
+        <updated>2022-02-15T00:54:18.306Z</updated>
+        <content type="html"><![CDATA[(dotnet.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
@@ -25,6 +32,20 @@
         <link href="https://godekdls.github.io/"/>
         <updated>2022-02-14T00:46:05.786Z</updated>
         <content type="html"><![CDATA[(godekdls.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[njt - npm jump to]]></title>
+        <id>https://github.com/kachkaev/njt</id>
+        <link href="https://github.com/kachkaev/njt"/>
+        <updated>2022-02-15T00:54:18.307Z</updated>
+        <content type="html"><![CDATA[(github.com/kachkaev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 13의 가상화로 Pixel 6에서 윈도우11 및 리눅스 배포판 실행 가능]]></title>
+        <id>https://www.cnx-software.com/2022/02/14/android-13-virtualization-lets-pixel-6-run-windows-11-linux-distributions/</id>
+        <link href="https://www.cnx-software.com/2022/02/14/android-13-virtualization-lets-pixel-6-run-windows-11-linux-distributions/"/>
+        <updated>2022-02-15T00:54:18.307Z</updated>
+        <content type="html"><![CDATA[(cnx-software.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lurnby - 웹을 이용한 학습도구 오픈소스]]></title>
@@ -48,18 +69,18 @@
         <content type="html"><![CDATA[(browser.engineering)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
-        <id>https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/</id>
-        <link href="https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/"/>
-        <updated>2022-02-14T01:54:41.541Z</updated>
-        <content type="html"><![CDATA[(blog.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
         <id>https://sci-hub.ru/databases</id>
         <link href="https://sci-hub.ru/databases"/>
         <updated>2022-02-14T02:24:32.180Z</updated>
         <content type="html"><![CDATA[(sci-hub.ru)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
+        <id>https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/</id>
+        <link href="https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/"/>
+        <updated>2022-02-14T01:54:41.541Z</updated>
+        <content type="html"><![CDATA[(blog.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
@@ -123,25 +144,5 @@
         <link href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2021"/>
         <updated>2022-02-11T02:00:09.394Z</updated>
         <content type="html"><![CDATA[(portswigger.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플의 새로운 'realityOS' 깃헙 커밋에서 발견]]></title>
-        <id>https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/</id>
-        <link href="https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/"/>
-        <updated>2022-02-12T05:11:52.743Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeCaptcha - 개발자에게만 보이는 링크 만들기]]></title>
-        <id>https://www.codecaptcha.io/</id>
-        <link href="https://www.codecaptcha.io/"/>
-        <updated>2022-02-14T19:11:41.537Z</updated>
-        <content type="html"><![CDATA[(codecaptcha.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=5964</id>
-        <link href="https://news.hada.io/topic?id=5964"/>
-        <updated>2022-02-13T05:11:54.010Z</updated>
     </entry>
 </feed>
