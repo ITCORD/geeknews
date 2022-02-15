@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-15T04:17:16.908Z</updated>
+    <updated>2022-02-15T05:13:25.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(dotnet.microsoft.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Notepad++ 8.3 (Boycott Beijing 2022)]]></title>
+        <id>https://notepad-plus-plus.org/downloads/v8.3/</id>
+        <link href="https://notepad-plus-plus.org/downloads/v8.3/"/>
+        <updated>2022-02-15T03:14:37.852Z</updated>
+        <content type="html"><![CDATA[(notepad-plus-plus.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
         <id>https://germano.dev/sse-websockets/</id>
         <link href="https://germano.dev/sse-websockets/"/>
@@ -60,13 +67,6 @@
         <link href="https://godekdls.github.io/"/>
         <updated>2022-02-14T00:46:05.786Z</updated>
         <content type="html"><![CDATA[(godekdls.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepad++ 8.3 (Boycott Beijing 2022)]]></title>
-        <id>https://notepad-plus-plus.org/downloads/v8.3/</id>
-        <link href="https://notepad-plus-plus.org/downloads/v8.3/"/>
-        <updated>2022-02-15T03:14:37.852Z</updated>
-        <content type="html"><![CDATA[(notepad-plus-plus.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lurnby - 웹을 이용한 학습도구 오픈소스]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[njt - npm jump to]]></title>
-        <id>https://github.com/kachkaev/njt</id>
-        <link href="https://github.com/kachkaev/njt"/>
-        <updated>2022-02-15T00:54:18.307Z</updated>
-        <content type="html"><![CDATA[(github.com/kachkaev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
         <id>https://browser.engineering/</id>
         <link href="https://browser.engineering/"/>
         <updated>2022-02-12T14:11:48.730Z</updated>
         <content type="html"><![CDATA[(browser.engineering)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[njt - npm jump to]]></title>
+        <id>https://github.com/kachkaev/njt</id>
+        <link href="https://github.com/kachkaev/njt"/>
+        <updated>2022-02-15T00:54:18.307Z</updated>
+        <content type="html"><![CDATA[(github.com/kachkaev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
