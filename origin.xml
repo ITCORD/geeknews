@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-15T06:17:21.382Z</updated>
+    <updated>2022-02-15T07:13:02.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(browser.engineering)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[njt - npm jump to]]></title>
-        <id>https://github.com/kachkaev/njt</id>
-        <link href="https://github.com/kachkaev/njt"/>
-        <updated>2022-02-15T00:54:18.307Z</updated>
-        <content type="html"><![CDATA[(github.com/kachkaev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
         <id>https://sci-hub.ru/databases</id>
         <link href="https://sci-hub.ru/databases"/>
@@ -109,6 +102,13 @@
         <link href="https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/"/>
         <updated>2022-02-14T01:54:41.541Z</updated>
         <content type="html"><![CDATA[(blog.mozilla.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[njt - npm jump to]]></title>
+        <id>https://github.com/kachkaev/njt</id>
+        <link href="https://github.com/kachkaev/njt"/>
+        <updated>2022-02-15T00:54:18.307Z</updated>
+        <content type="html"><![CDATA[(github.com/kachkaev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
