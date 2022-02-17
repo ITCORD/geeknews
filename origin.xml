@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-17T00:52:38.601Z</updated>
+    <updated>2022-02-17T01:52:39.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[수백명의 사람들과 연락을 유지하는 간단한 시스템 만들기]]></title>
-        <id>https://jakobgreenfeld.com/stay-in-touch</id>
-        <link href="https://jakobgreenfeld.com/stay-in-touch"/>
-        <updated>2022-02-16T00:49:52.161Z</updated>
-        <content type="html"><![CDATA[(jakobgreenfeld.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 웹 개발에서 고려해야 할 환경]]></title>
-        <id>https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/</id>
-        <link href="https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/"/>
-        <updated>2022-02-16T02:05:06.443Z</updated>
-        <content type="html"><![CDATA[(engineering.linecorp.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주요 국내 IT 및 개발자 컨퍼런스 다시보기 영상]]></title>
-        <id>https://github.com/hibuz/dev-conf-replay</id>
-        <link href="https://github.com/hibuz/dev-conf-replay"/>
-        <updated>2022-02-16T08:15:33.428Z</updated>
-        <content type="html"><![CDATA[(github.com/hibuz)]]></content>
+        <title type="html"><![CDATA[구글 Pixel, 안드로이드 앱을 크롬북/PC로 스트림 가능]]></title>
+        <id>https://9to5google.com/2022/02/14/exclusive-pixel-stream-android-apps-chromebook-pc-video/</id>
+        <link href="https://9to5google.com/2022/02/14/exclusive-pixel-stream-android-apps-chromebook-pc-video/"/>
+        <updated>2022-02-17T01:52:02.894Z</updated>
+        <content type="html"><![CDATA[(9to5google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
@@ -34,13 +20,6 @@
         <content type="html"><![CDATA[(scriptkit.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네덜란드, 애플의 대체결제수단 정책은 불합리하므로 5백만유로 추가 벌금 부과]]></title>
-        <id>https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers</id>
-        <link href="https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers"/>
-        <updated>2022-02-17T00:52:01.415Z</updated>
-        <content type="html"><![CDATA[(acm.nl)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[삼성 갤럭시, 미국에서 구글 메시지 앱을 기본 메시징 앱으로 탑재예정]]></title>
         <id>https://9to5google.com/2022/02/14/google-messages-samsung-galaxy-s22-us/</id>
         <link href="https://9to5google.com/2022/02/14/google-messages-samsung-galaxy-s22-us/"/>
@@ -48,11 +27,46 @@
         <content type="html"><![CDATA[(9to5google.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[수백명의 사람들과 연락을 유지하는 간단한 시스템 만들기]]></title>
+        <id>https://jakobgreenfeld.com/stay-in-touch</id>
+        <link href="https://jakobgreenfeld.com/stay-in-touch"/>
+        <updated>2022-02-16T00:49:52.161Z</updated>
+        <content type="html"><![CDATA[(jakobgreenfeld.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주요 국내 IT 및 개발자 컨퍼런스 다시보기 영상]]></title>
+        <id>https://github.com/hibuz/dev-conf-replay</id>
+        <link href="https://github.com/hibuz/dev-conf-replay"/>
+        <updated>2022-02-16T08:15:33.428Z</updated>
+        <content type="html"><![CDATA[(github.com/hibuz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 웹 개발에서 고려해야 할 환경]]></title>
+        <id>https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/</id>
+        <link href="https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/"/>
+        <updated>2022-02-16T02:05:06.443Z</updated>
+        <content type="html"><![CDATA[(engineering.linecorp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, Privacy Sandbox on Android 발표]]></title>
+        <id>https://blog.google/products/android/introducing-privacy-sandbox-android/</id>
+        <link href="https://blog.google/products/android/introducing-privacy-sandbox-android/"/>
+        <updated>2022-02-17T01:52:02.917Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[벨기에, 주4일제를 승인하고 퇴근 후에 상사의 연락을 무시할 권리 부여]]></title>
         <id>https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses</id>
         <link href="https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses"/>
         <updated>2022-02-16T03:14:05.166Z</updated>
         <content type="html"><![CDATA[(euronews.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네덜란드, 애플의 대체결제수단 정책은 불합리하므로 5백만유로 추가 벌금 부과]]></title>
+        <id>https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers</id>
+        <link href="https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers"/>
+        <updated>2022-02-17T00:52:01.415Z</updated>
+        <content type="html"><![CDATA[(acm.nl)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes 공식 다큐멘터리 [영상 1&2,총55분]]]></title>
@@ -130,19 +144,5 @@
         <link href="https://github.com/justinribeiro/lite-youtube"/>
         <updated>2022-02-16T02:05:06.447Z</updated>
         <content type="html"><![CDATA[(github.com/justinribeiro)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepad++ 8.3 (Boycott Beijing 2022)]]></title>
-        <id>https://notepad-plus-plus.org/downloads/v8.3/</id>
-        <link href="https://notepad-plus-plus.org/downloads/v8.3/"/>
-        <updated>2022-02-15T03:14:37.852Z</updated>
-        <content type="html"><![CDATA[(notepad-plus-plus.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS 가상 대기실 솔루션 오픈소스 공개]]></title>
-        <id>https://aws.amazon.com/ko/solutions/implementations/aws-virtual-waiting-room/</id>
-        <link href="https://aws.amazon.com/ko/solutions/implementations/aws-virtual-waiting-room/"/>
-        <updated>2022-02-14T00:46:05.785Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
