@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-17T22:14:21.331Z</updated>
+    <updated>2022-02-17T23:15:07.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(9to5google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, Privacy Sandbox on Android 발표]]></title>
-        <id>https://korea.googleblog.com/2022/02/introducing-privacy-sandbox-android.html</id>
-        <link href="https://korea.googleblog.com/2022/02/introducing-privacy-sandbox-android.html"/>
-        <updated>2022-02-17T07:13:37.011Z</updated>
-        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
         <id>https://godekdls.github.io/</id>
         <link href="https://godekdls.github.io/"/>
@@ -104,11 +97,11 @@
         <content type="html"><![CDATA[(godekdls.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jDeploy - Java앱을 맥/윈/리눅스에 네이티브 번들로 배포하기]]></title>
-        <id>https://www.jdeploy.com/</id>
-        <link href="https://www.jdeploy.com/"/>
-        <updated>2022-02-16T00:49:52.185Z</updated>
-        <content type="html"><![CDATA[(jdeploy.com)]]></content>
+        <title type="html"><![CDATA[구글, Privacy Sandbox on Android 발표]]></title>
+        <id>https://korea.googleblog.com/2022/02/introducing-privacy-sandbox-android.html</id>
+        <link href="https://korea.googleblog.com/2022/02/introducing-privacy-sandbox-android.html"/>
+        <updated>2022-02-17T07:13:37.011Z</updated>
+        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
@@ -116,6 +109,13 @@
         <link href="https://germano.dev/sse-websockets/"/>
         <updated>2022-02-14T01:54:41.541Z</updated>
         <content type="html"><![CDATA[(germano.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jDeploy - Java앱을 맥/윈/리눅스에 네이티브 번들로 배포하기]]></title>
+        <id>https://www.jdeploy.com/</id>
+        <link href="https://www.jdeploy.com/"/>
+        <updated>2022-02-16T00:49:52.185Z</updated>
+        <content type="html"><![CDATA[(jdeploy.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, 마크다운에 Mermaid 다이어그램 지원 시작]]></title>
