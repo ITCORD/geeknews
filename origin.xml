@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-17T05:13:15.643Z</updated>
+    <updated>2022-02-17T06:17:51.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rust Survey 2021 결과]]></title>
+        <id>https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html</id>
+        <link href="https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html"/>
+        <updated>2022-02-17T05:12:32.783Z</updated>
+        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
         <id>https://www.scriptkit.com/</id>
         <link href="https://www.scriptkit.com/"/>
         <updated>2022-02-17T00:52:01.414Z</updated>
         <content type="html"><![CDATA[(scriptkit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akamai, Linode 인수]]></title>
+        <id>https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode</id>
+        <link href="https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode"/>
+        <updated>2022-02-17T05:12:32.783Z</updated>
+        <content type="html"><![CDATA[(akamai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주요 국내 IT 및 개발자 컨퍼런스 다시보기 영상]]></title>
@@ -27,27 +41,6 @@
         <content type="html"><![CDATA[(jakobgreenfeld.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 웹 개발에서 고려해야 할 환경]]></title>
-        <id>https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/</id>
-        <link href="https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/"/>
-        <updated>2022-02-16T02:05:06.443Z</updated>
-        <content type="html"><![CDATA[(engineering.linecorp.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Survey 2021 결과]]></title>
-        <id>https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html</id>
-        <link href="https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html"/>
-        <updated>2022-02-17T05:12:32.783Z</updated>
-        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akamai, Linode 인수]]></title>
-        <id>https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode</id>
-        <link href="https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode"/>
-        <updated>2022-02-17T05:12:32.783Z</updated>
-        <content type="html"><![CDATA[(akamai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글 Pixel, 안드로이드 앱을 크롬북/PC로 스트림 가능]]></title>
         <id>https://9to5google.com/2022/02/14/exclusive-pixel-stream-android-apps-chromebook-pc-video/</id>
         <link href="https://9to5google.com/2022/02/14/exclusive-pixel-stream-android-apps-chromebook-pc-video/"/>
@@ -60,6 +53,27 @@
         <link href="https://9to5google.com/2022/02/14/google-messages-samsung-galaxy-s22-us/"/>
         <updated>2022-02-17T00:52:01.418Z</updated>
         <content type="html"><![CDATA[(9to5google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 웹 개발에서 고려해야 할 환경]]></title>
+        <id>https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/</id>
+        <link href="https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/"/>
+        <updated>2022-02-16T02:05:06.443Z</updated>
+        <content type="html"><![CDATA[(engineering.linecorp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, Privacy Sandbox on Android 발표]]></title>
+        <id>https://blog.google/products/android/introducing-privacy-sandbox-android/</id>
+        <link href="https://blog.google/products/android/introducing-privacy-sandbox-android/"/>
+        <updated>2022-02-17T01:52:02.917Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네덜란드, 애플의 대체결제수단 정책은 불합리하므로 5백만유로 추가 벌금 부과]]></title>
+        <id>https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers</id>
+        <link href="https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers"/>
+        <updated>2022-02-17T00:52:01.415Z</updated>
+        <content type="html"><![CDATA[(acm.nl)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벨기에, 주4일제를 승인하고 퇴근 후에 상사의 연락을 무시할 권리 부여]]></title>
@@ -81,20 +95,6 @@
         <link href="https://luttig.substack.com/p/dont-forget-microsoft"/>
         <updated>2022-02-14T06:16:28.220Z</updated>
         <content type="html"><![CDATA[(luttig.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, Privacy Sandbox on Android 발표]]></title>
-        <id>https://blog.google/products/android/introducing-privacy-sandbox-android/</id>
-        <link href="https://blog.google/products/android/introducing-privacy-sandbox-android/"/>
-        <updated>2022-02-17T01:52:02.917Z</updated>
-        <content type="html"><![CDATA[(blog.google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네덜란드, 애플의 대체결제수단 정책은 불합리하므로 5백만유로 추가 벌금 부과]]></title>
-        <id>https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers</id>
-        <link href="https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers"/>
-        <updated>2022-02-17T00:52:01.415Z</updated>
-        <content type="html"><![CDATA[(acm.nl)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[jDeploy - Java앱을 맥/윈/리눅스에 네이티브 번들로 배포하기]]></title>
