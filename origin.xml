@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-16T23:14:07.816Z</updated>
+    <updated>2022-02-17T00:52:38.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,27 @@
         <link href="https://github.com/hibuz/dev-conf-replay"/>
         <updated>2022-02-16T08:15:33.428Z</updated>
         <content type="html"><![CDATA[(github.com/hibuz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
+        <id>https://www.scriptkit.com/</id>
+        <link href="https://www.scriptkit.com/"/>
+        <updated>2022-02-17T00:52:01.414Z</updated>
+        <content type="html"><![CDATA[(scriptkit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네덜란드, 애플의 대체결제수단 정책은 불합리하므로 5백만유로 추가 벌금 부과]]></title>
+        <id>https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers</id>
+        <link href="https://www.acm.nl/en/publications/acm-developing-new-app-unnecessary-and-unreasonable-condition-apple-imposes-dating-app-providers"/>
+        <updated>2022-02-17T00:52:01.415Z</updated>
+        <content type="html"><![CDATA[(acm.nl)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 갤럭시, 미국에서 구글 메시지 앱을 기본 메시징 앱으로 탑재예정]]></title>
+        <id>https://9to5google.com/2022/02/14/google-messages-samsung-galaxy-s22-us/</id>
+        <link href="https://9to5google.com/2022/02/14/google-messages-samsung-galaxy-s22-us/"/>
+        <updated>2022-02-17T00:52:01.418Z</updated>
+        <content type="html"><![CDATA[(9to5google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벨기에, 주4일제를 승인하고 퇴근 후에 상사의 연락을 무시할 권리 부여]]></title>
@@ -55,18 +76,18 @@
         <content type="html"><![CDATA[(jdeploy.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub, 마크다운에 Mermaid 다이어그램 지원 시작]]></title>
-        <id>https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/</id>
-        <link href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/"/>
-        <updated>2022-02-15T02:07:30.698Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
         <id>https://godekdls.github.io/</id>
         <link href="https://godekdls.github.io/"/>
         <updated>2022-02-14T00:46:05.786Z</updated>
         <content type="html"><![CDATA[(godekdls.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub, 마크다운에 Mermaid 다이어그램 지원 시작]]></title>
+        <id>https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/</id>
+        <link href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/"/>
+        <updated>2022-02-15T02:07:30.698Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
@@ -123,26 +144,5 @@
         <link href="https://aws.amazon.com/ko/solutions/implementations/aws-virtual-waiting-room/"/>
         <updated>2022-02-14T00:46:05.785Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
-        <id>https://sci-hub.ru/databases</id>
-        <link href="https://sci-hub.ru/databases"/>
-        <updated>2022-02-14T02:24:32.180Z</updated>
-        <content type="html"><![CDATA[(sci-hub.ru)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSO Wall of Shame]]></title>
-        <id>https://sso.tax/</id>
-        <link href="https://sso.tax/"/>
-        <updated>2022-02-15T02:07:30.699Z</updated>
-        <content type="html"><![CDATA[(sso.tax)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS 학습 자료 링크모음]]></title>
-        <id>https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b</id>
-        <link href="https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b"/>
-        <updated>2022-02-16T23:13:31.134Z</updated>
-        <content type="html"><![CDATA[(gist.github.com/serithemage)]]></content>
     </entry>
 </feed>
