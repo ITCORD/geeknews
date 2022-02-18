@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-18T21:13:12.514Z</updated>
+    <updated>2022-02-18T22:14:52.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(passo.uno)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State of JavaScript 2021]]></title>
-        <id>https://2021.stateofjs.com/ko-KR/</id>
-        <link href="https://2021.stateofjs.com/ko-KR/"/>
-        <updated>2022-02-18T02:03:26.289Z</updated>
-        <content type="html"><![CDATA[(2021.stateofjs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
         <id>https://www.scriptkit.com/</id>
         <link href="https://www.scriptkit.com/"/>
@@ -39,6 +32,13 @@
         <link href="https://github.com/hibuz/dev-conf-replay"/>
         <updated>2022-02-16T08:15:33.428Z</updated>
         <content type="html"><![CDATA[(github.com/hibuz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of JavaScript 2021]]></title>
+        <id>https://2021.stateofjs.com/ko-KR/</id>
+        <link href="https://2021.stateofjs.com/ko-KR/"/>
+        <updated>2022-02-18T02:03:26.289Z</updated>
+        <content type="html"><![CDATA[(2021.stateofjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, Chrome OS Flex 공개]]></title>
