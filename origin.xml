@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-19T14:12:56.782Z</updated>
+    <updated>2022-02-19T15:14:37.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(files.gallery)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
-        <id>http://www.dial-multiscreen.org/</id>
-        <link href="http://www.dial-multiscreen.org/"/>
-        <updated>2022-02-19T00:53:44.667Z</updated>
-        <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[주요 국내 IT 및 개발자 컨퍼런스 다시보기 영상]]></title>
         <id>https://github.com/hibuz/dev-conf-replay</id>
         <link href="https://github.com/hibuz/dev-conf-replay"/>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(github.com/hibuz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
-        <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
-        <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
-        <updated>2022-02-18T03:14:17.209Z</updated>
-        <content type="html"><![CDATA[(passo.uno)]]></content>
+        <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
+        <id>http://www.dial-multiscreen.org/</id>
+        <link href="http://www.dial-multiscreen.org/"/>
+        <updated>2022-02-19T00:53:44.667Z</updated>
+        <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[(scriptkit.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT, 재미에서 일상으로 (92p PDF)]]></title>
-        <id>http://m.ibks.com/outsite/mobile/industryView.jsp?mtsyn=N&amp;seq=8755#depth01</id>
-        <link href="http://m.ibks.com/outsite/mobile/industryView.jsp?mtsyn=N&amp;seq=8755#depth01"/>
-        <updated>2022-02-18T00:54:47.211Z</updated>
-        <content type="html"><![CDATA[(m.ibks.com)]]></content>
+        <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
+        <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
+        <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
+        <updated>2022-02-18T03:14:17.209Z</updated>
+        <content type="html"><![CDATA[(passo.uno)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수백명의 사람들과 연락을 유지하는 간단한 시스템 만들기]]></title>
@@ -60,6 +53,13 @@
         <link href="https://jakobgreenfeld.com/stay-in-touch"/>
         <updated>2022-02-16T00:49:52.161Z</updated>
         <content type="html"><![CDATA[(jakobgreenfeld.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT, 재미에서 일상으로 (92p PDF)]]></title>
+        <id>http://m.ibks.com/outsite/mobile/industryView.jsp?mtsyn=N&amp;seq=8755#depth01</id>
+        <link href="http://m.ibks.com/outsite/mobile/industryView.jsp?mtsyn=N&amp;seq=8755#depth01"/>
+        <updated>2022-02-18T00:54:47.211Z</updated>
+        <content type="html"><![CDATA[(m.ibks.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[State of JavaScript 2021]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(flexboxfroggy.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로봇의 분류와 역사, 국가/분야별 로봇 시장 현황 (140p PDF)]]></title>
-        <id>http://m.ibks.com/outsite/mobile/industryView.jsp?mtsyn=N&amp;seq=3594#depth01</id>
-        <link href="http://m.ibks.com/outsite/mobile/industryView.jsp?mtsyn=N&amp;seq=3594#depth01"/>
-        <updated>2022-02-19T01:59:07.442Z</updated>
-        <content type="html"><![CDATA[(m.ibks.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kubernetes 공식 다큐멘터리 [영상 1&2,총55분]]]></title>
         <id>https://www.youtube.com/watch?v=BE77h7dmoQU</id>
         <link href="https://www.youtube.com/watch?v=BE77h7dmoQU"/>
         <updated>2022-02-15T03:14:37.825Z</updated>
         <content type="html"><![CDATA[(youtube.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로봇의 분류와 역사, 국가/분야별 로봇 시장 현황 (140p PDF)]]></title>
+        <id>http://m.ibks.com/outsite/mobile/industryView.jsp?mtsyn=N&amp;seq=3594#depth01</id>
+        <link href="http://m.ibks.com/outsite/mobile/industryView.jsp?mtsyn=N&amp;seq=3594#depth01"/>
+        <updated>2022-02-19T01:59:07.442Z</updated>
+        <content type="html"><![CDATA[(m.ibks.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, Chrome OS Flex 공개]]></title>
@@ -118,20 +118,6 @@
         <content type="html"><![CDATA[(facebook.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벨기에, 주4일제를 승인하고 퇴근 후에 상사의 연락을 무시할 권리 부여]]></title>
-        <id>https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses</id>
-        <link href="https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses"/>
-        <updated>2022-02-16T03:14:05.166Z</updated>
-        <content type="html"><![CDATA[(euronews.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
-        <id>https://browser.engineering/</id>
-        <link href="https://browser.engineering/"/>
-        <updated>2022-02-19T08:15:15.198Z</updated>
-        <content type="html"><![CDATA[(browser.engineering)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
         <id>https://germano.dev/sse-websockets/</id>
         <link href="https://germano.dev/sse-websockets/"/>
@@ -144,5 +130,19 @@
         <link href="https://godekdls.github.io/"/>
         <updated>2022-02-19T12:20:42.289Z</updated>
         <content type="html"><![CDATA[(godekdls.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벨기에, 주4일제를 승인하고 퇴근 후에 상사의 연락을 무시할 권리 부여]]></title>
+        <id>https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses</id>
+        <link href="https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses"/>
+        <updated>2022-02-16T03:14:05.166Z</updated>
+        <content type="html"><![CDATA[(euronews.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Survey 2021 결과]]></title>
+        <id>https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html</id>
+        <link href="https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html"/>
+        <updated>2022-02-19T15:13:58.627Z</updated>
+        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
 </feed>
