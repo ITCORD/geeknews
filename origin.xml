@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-19T02:35:01.057Z</updated>
+    <updated>2022-02-19T03:14:55.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Files - PHP 파일 하나로 된 파일/사진 공유 앱]]></title>
+        <id>https://www.files.gallery/</id>
+        <link href="https://www.files.gallery/"/>
+        <updated>2022-02-19T03:14:17.331Z</updated>
+        <content type="html"><![CDATA[(files.gallery)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
         <id>http://www.dial-multiscreen.org/</id>
@@ -137,12 +144,5 @@
         <link href="https://www.facebook.com/zuck/posts/10114316913387601"/>
         <updated>2022-02-18T02:03:26.289Z</updated>
         <content type="html"><![CDATA[(facebook.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebGL 2.0 모든 브라우저에서 완전히 지원 시작]]></title>
-        <id>https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers</id>
-        <link href="https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers"/>
-        <updated>2022-02-18T00:54:47.219Z</updated>
-        <content type="html"><![CDATA[(khronos.org)]]></content>
     </entry>
 </feed>
