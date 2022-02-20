@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-20T14:13:16.781Z</updated>
+    <updated>2022-02-20T15:14:53.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[크롬과 Firefox, 버전 100 도달 예정]]></title>
-        <id>https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/</id>
-        <link href="https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/"/>
-        <updated>2022-02-20T00:54:57.755Z</updated>
-        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요]]></title>
         <id>https://vitejs-kr.github.io/</id>
         <link href="https://vitejs-kr.github.io/"/>
         <updated>2022-02-19T07:12:25.886Z</updated>
         <content type="html"><![CDATA[(vitejs-kr.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크롬과 Firefox, 버전 100 도달 예정]]></title>
+        <id>https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/</id>
+        <link href="https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/"/>
+        <updated>2022-02-20T00:54:57.755Z</updated>
+        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netlify Graph 공개]]></title>
