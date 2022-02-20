@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-20T21:13:02.884Z</updated>
+    <updated>2022-02-20T22:14:02.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(m.ibks.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State of JavaScript 2021]]></title>
-        <id>https://2021.stateofjs.com/ko-KR/</id>
-        <link href="https://2021.stateofjs.com/ko-KR/"/>
-        <updated>2022-02-18T02:03:26.289Z</updated>
-        <content type="html"><![CDATA[(2021.stateofjs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
         <id>https://germano.dev/sse-websockets/</id>
         <link href="https://germano.dev/sse-websockets/"/>
@@ -130,6 +123,13 @@
         <link href="https://godekdls.github.io/"/>
         <updated>2022-02-19T12:20:42.289Z</updated>
         <content type="html"><![CDATA[(godekdls.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of JavaScript 2021]]></title>
+        <id>https://2021.stateofjs.com/ko-KR/</id>
+        <link href="https://2021.stateofjs.com/ko-KR/"/>
+        <updated>2022-02-18T02:03:26.289Z</updated>
+        <content type="html"><![CDATA[(2021.stateofjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, Chrome OS Flex 공개]]></title>
