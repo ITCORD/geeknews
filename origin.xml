@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-20T23:14:41.505Z</updated>
+    <updated>2022-02-21T00:49:49.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 Cloud Functions 2세대 공개]]></title>
+        <id>https://cloud.google.com/blog/products/serverless/introducing-the-next-generation-of-cloud-functions</id>
+        <link href="https://cloud.google.com/blog/products/serverless/introducing-the-next-generation-of-cloud-functions"/>
+        <updated>2022-02-21T00:49:12.604Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요]]></title>
         <id>https://vitejs-kr.github.io/</id>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
-        <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
-        <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
-        <updated>2022-02-18T03:14:17.209Z</updated>
-        <content type="html"><![CDATA[(passo.uno)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft를 잊지 말아요]]></title>
         <id>https://luttig.substack.com/p/dont-forget-microsoft</id>
         <link href="https://luttig.substack.com/p/dont-forget-microsoft"/>
         <updated>2022-02-14T06:16:28.220Z</updated>
         <content type="html"><![CDATA[(luttig.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
+        <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
+        <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
+        <updated>2022-02-18T03:14:17.209Z</updated>
+        <content type="html"><![CDATA[(passo.uno)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://chromeenterprise.google/os/chromeosflex/"/>
         <updated>2022-02-18T00:54:47.211Z</updated>
         <content type="html"><![CDATA[(chromeenterprise.google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벨기에, 주4일제를 승인하고 퇴근 후에 상사의 연락을 무시할 권리 부여]]></title>
-        <id>https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses</id>
-        <link href="https://www.euronews.com/next/2022/02/15/belgium-approves-four-day-week-and-gives-employees-the-right-to-ignore-their-bosses"/>
-        <updated>2022-02-16T03:14:05.166Z</updated>
-        <content type="html"><![CDATA[(euronews.com)]]></content>
     </entry>
 </feed>

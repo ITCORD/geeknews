@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-02-20T23:14:41.501Z</updated>
+    <updated>2022-02-21T00:49:49.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Microsoft를 잊지 말아요]]></title>
+        <id>https://news.hada.io/weekly/202208</id>
+        <link href="https://news.hada.io/weekly/202208"/>
+        <updated>2022-02-21T00:49:37.243Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">137. </td><td class="fitwidth">202208</td><td width="*">&nbsp;<a href="/weekly/202208" class="u keepall"> Microsoft를 잊지 말아요</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
         <id>https://news.hada.io/weekly/202207</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202141"/>
         <updated>2022-01-12T20:09:57.810Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">118. </td><td class="fitwidth">202141</td><td width="*">&nbsp;<a href="/weekly/202141" class="u keepall"> 초소형 사모펀드(Micro PE)의 등장</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2년만에 8조원 가치가 된 스타트업에서 배운 것]]></title>
-        <id>https://news.hada.io/weekly/202140</id>
-        <link href="https://news.hada.io/weekly/202140"/>
-        <updated>2022-01-12T20:09:57.811Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">117. </td><td class="fitwidth">202140</td><td width="*">&nbsp;<a href="/weekly/202140" class="u keepall"> 2년만에 8조원 가치가 된 스타트업에서 배운 것</a></td>]]></content>
     </entry>
 </feed>
