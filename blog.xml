@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/blog</id>
     <title>GeekNews ─ Blog</title>
-    <updated>2022-02-21T05:13:34.484Z</updated>
+    <updated>2022-02-21T06:18:02.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GeekNews, Markdown 지원]]></title>
+        <id>https://news.hada.io/blog/geeknews_supports_markdown</id>
+        <link href="https://news.hada.io/blog/geeknews_supports_markdown"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[11.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GeekNews 최신 글 Feed/RSS 공개]]></title>
         <id>https://news.hada.io/blog/geeknews_feed</id>
@@ -32,12 +39,5 @@
         <link href="https://news.hada.io/blog/ask"/>
         <updated>2021-07-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔디,Teams,Discord 봇 추가]]></title>
-        <id>https://news.hada.io/blog/bots</id>
-        <link href="https://news.hada.io/blog/bots"/>
-        <updated>2021-07-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[6.]]></content>
     </entry>
 </feed>
