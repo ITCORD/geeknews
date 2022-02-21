@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-21T16:19:49.836Z</updated>
+    <updated>2022-02-21T17:15:12.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,25 @@
         <content type="html"><![CDATA[(github.com/hibuz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수백명의 사람들과 연락을 유지하는 간단한 시스템 만들기]]></title>
-        <id>https://jakobgreenfeld.com/stay-in-touch</id>
-        <link href="https://jakobgreenfeld.com/stay-in-touch"/>
-        <updated>2022-02-16T00:49:52.161Z</updated>
-        <content type="html"><![CDATA[(jakobgreenfeld.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Files - PHP 파일 하나로 된 파일/사진 공유 앱]]></title>
         <id>https://www.files.gallery/</id>
         <link href="https://www.files.gallery/"/>
         <updated>2022-02-19T03:14:17.331Z</updated>
         <content type="html"><![CDATA[(files.gallery)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
+        <id>http://www.dial-multiscreen.org/</id>
+        <link href="http://www.dial-multiscreen.org/"/>
+        <updated>2022-02-19T00:53:44.667Z</updated>
+        <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수백명의 사람들과 연락을 유지하는 간단한 시스템 만들기]]></title>
+        <id>https://jakobgreenfeld.com/stay-in-touch</id>
+        <link href="https://jakobgreenfeld.com/stay-in-touch"/>
+        <updated>2022-02-16T00:49:52.161Z</updated>
+        <content type="html"><![CDATA[(jakobgreenfeld.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netlify Graph 공개]]></title>
@@ -109,13 +116,6 @@
         <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
         <updated>2022-02-18T03:14:17.209Z</updated>
         <content type="html"><![CDATA[(passo.uno)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
-        <id>http://www.dial-multiscreen.org/</id>
-        <link href="http://www.dial-multiscreen.org/"/>
-        <updated>2022-02-19T00:53:44.667Z</updated>
-        <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
