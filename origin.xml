@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-21T14:15:09.274Z</updated>
+    <updated>2022-02-21T15:16:49.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(files.gallery)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft를 잊지 말아요]]></title>
-        <id>https://luttig.substack.com/p/dont-forget-microsoft</id>
-        <link href="https://luttig.substack.com/p/dont-forget-microsoft"/>
-        <updated>2022-02-14T06:16:28.220Z</updated>
-        <content type="html"><![CDATA[(luttig.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
         <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
         <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
@@ -144,5 +137,12 @@
         <link href="https://www.netlify.com/blog/announcing-netlify-graph-a-faster-way-for-teams-to-develop-web-apps-with-apis"/>
         <updated>2022-02-20T00:54:57.751Z</updated>
         <content type="html"><![CDATA[(netlify.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 트레이드 마크, OpenJS 재단으로 이관]]></title>
+        <id>https://openjsf.org/blog/2022/02/14/node-js-trademarks-transferred-to-openjs-foundation/</id>
+        <link href="https://openjsf.org/blog/2022/02/14/node-js-trademarks-transferred-to-openjs-foundation/"/>
+        <updated>2022-02-21T15:16:08.435Z</updated>
+        <content type="html"><![CDATA[(openjsf.org)]]></content>
     </entry>
 </feed>
