@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-21T04:18:27.977Z</updated>
+    <updated>2022-02-21T05:13:34.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://github.com/martinvonz/jj"/>
         <updated>2022-02-21T01:58:12.649Z</updated>
         <content type="html"><![CDATA[(github.com/martinvonz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공식한글] 넷플릭스 문화, 가치관]]></title>
+        <id>https://jobs.netflix.com/culture?lang=%ED%95%9C%EA%B5%AD%EC%96%B4</id>
+        <link href="https://jobs.netflix.com/culture?lang=%ED%95%9C%EA%B5%AD%EC%96%B4"/>
+        <updated>2022-02-21T05:13:00.150Z</updated>
+        <content type="html"><![CDATA[(jobs.netflix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 Cloud Functions 2세대 공개]]></title>
@@ -69,6 +76,13 @@
         <content type="html"><![CDATA[(files.gallery)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
+        <id>http://www.dial-multiscreen.org/</id>
+        <link href="http://www.dial-multiscreen.org/"/>
+        <updated>2022-02-19T00:53:44.667Z</updated>
+        <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
         <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
         <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
@@ -104,13 +118,6 @@
         <content type="html"><![CDATA[(openjsf.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
-        <id>http://www.dial-multiscreen.org/</id>
-        <link href="http://www.dial-multiscreen.org/"/>
-        <updated>2022-02-19T00:53:44.667Z</updated>
-        <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
         <id>https://www.scriptkit.com/</id>
         <link href="https://www.scriptkit.com/"/>
@@ -137,12 +144,5 @@
         <link href="https://www.youtube.com/watch?v=BE77h7dmoQU"/>
         <updated>2022-02-15T03:14:37.825Z</updated>
         <content type="html"><![CDATA[(youtube.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flexbox Froggy - 개구리를 움직여서 CSS Flexbox 배우기]]></title>
-        <id>https://flexboxfroggy.com/#ko</id>
-        <link href="https://flexboxfroggy.com/#ko"/>
-        <updated>2022-02-21T04:17:52.106Z</updated>
-        <content type="html"><![CDATA[(flexboxfroggy.com)]]></content>
     </entry>
 </feed>
