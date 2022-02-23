@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-23T11:13:07.288Z</updated>
+    <updated>2022-02-23T12:25:03.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
         <updated>2022-02-23T00:57:24.632Z</updated>
         <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
-        <id>https://waifulabs.com/blog/ai-creativity</id>
-        <link href="https://waifulabs.com/blog/ai-creativity"/>
-        <updated>2022-02-23T05:13:33.799Z</updated>
-        <content type="html"><![CDATA[(waifulabs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
@@ -32,6 +25,13 @@
         <link href="https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist"/>
         <updated>2022-02-23T00:57:24.632Z</updated>
         <content type="html"><![CDATA[(biphelps.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
+        <id>https://waifulabs.com/blog/ai-creativity</id>
+        <link href="https://waifulabs.com/blog/ai-creativity"/>
+        <updated>2022-02-23T05:13:33.799Z</updated>
+        <content type="html"><![CDATA[(waifulabs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까?]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(world.hey.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Griffel - 미리 컴파일 가능한 CSS-in-JS]]></title>
-        <id>https://github.com/microsoft/griffel</id>
-        <link href="https://github.com/microsoft/griffel"/>
-        <updated>2022-02-22T01:59:02.163Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jujutsu - 간단하고 강력한 Git 호환 DVCS]]></title>
         <id>https://github.com/martinvonz/jj</id>
         <link href="https://github.com/martinvonz/jj"/>
         <updated>2022-02-21T01:58:12.649Z</updated>
         <content type="html"><![CDATA[(github.com/martinvonz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Griffel - 미리 컴파일 가능한 CSS-in-JS]]></title>
+        <id>https://github.com/microsoft/griffel</id>
+        <link href="https://github.com/microsoft/griffel"/>
+        <updated>2022-02-22T01:59:02.163Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Judyrecords - 무료 미국 법원 사건 및 소송 검색 시스템]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(judyrecords.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[물체 회전 능력 테스트 하기]]></title>
-        <id>https://0xf00ff00f.github.io/rotator/</id>
-        <link href="https://0xf00ff00f.github.io/rotator/"/>
-        <updated>2022-02-22T01:59:02.169Z</updated>
-        <content type="html"><![CDATA[(0xf00ff00f.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요]]></title>
         <id>https://vitejs-kr.github.io/</id>
         <link href="https://vitejs-kr.github.io/"/>
         <updated>2022-02-19T07:12:25.886Z</updated>
         <content type="html"><![CDATA[(vitejs-kr.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물체 회전 능력 테스트 하기]]></title>
+        <id>https://0xf00ff00f.github.io/rotator/</id>
+        <link href="https://0xf00ff00f.github.io/rotator/"/>
+        <updated>2022-02-22T01:59:02.169Z</updated>
+        <content type="html"><![CDATA[(0xf00ff00f.github.io)]]></content>
     </entry>
 </feed>
