@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-22T23:15:02.374Z</updated>
+    <updated>2022-02-23T00:58:07.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가장 빠른 GIF는 존재하지 않음]]></title>
+        <id>https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist</id>
+        <link href="https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist"/>
+        <updated>2022-02-23T00:57:24.632Z</updated>
+        <content type="html"><![CDATA[(biphelps.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
+        <id>https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/</id>
+        <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
+        <updated>2022-02-23T00:57:24.632Z</updated>
+        <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
+        <id>https://9to5google.com/2022/02/16/google-search-widgets/</id>
+        <link href="https://9to5google.com/2022/02/16/google-search-widgets/"/>
+        <updated>2022-02-23T00:57:24.632Z</updated>
+        <content type="html"><![CDATA[(9to5google.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
         <id>https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/</id>
@@ -83,18 +104,18 @@
         <content type="html"><![CDATA[(judyrecords.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[물체 회전 능력 테스트 하기]]></title>
-        <id>https://0xf00ff00f.github.io/rotator/</id>
-        <link href="https://0xf00ff00f.github.io/rotator/"/>
-        <updated>2022-02-22T01:59:02.169Z</updated>
-        <content type="html"><![CDATA[(0xf00ff00f.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요]]></title>
         <id>https://vitejs-kr.github.io/</id>
         <link href="https://vitejs-kr.github.io/"/>
         <updated>2022-02-19T07:12:25.886Z</updated>
         <content type="html"><![CDATA[(vitejs-kr.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물체 회전 능력 테스트 하기]]></title>
+        <id>https://0xf00ff00f.github.io/rotator/</id>
+        <link href="https://0xf00ff00f.github.io/rotator/"/>
+        <updated>2022-02-22T01:59:02.169Z</updated>
+        <content type="html"><![CDATA[(0xf00ff00f.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 Cloud Functions 2세대 공개]]></title>
@@ -123,26 +144,5 @@
         <link href="http://www.dial-multiscreen.org/"/>
         <updated>2022-02-19T00:53:44.667Z</updated>
         <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
-        <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
-        <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
-        <updated>2022-02-22T08:16:51.507Z</updated>
-        <content type="html"><![CDATA[(passo.uno)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Files - PHP 파일 하나로 된 파일/사진 공유 앱]]></title>
-        <id>https://www.files.gallery/</id>
-        <link href="https://www.files.gallery/"/>
-        <updated>2022-02-19T03:14:17.331Z</updated>
-        <content type="html"><![CDATA[(files.gallery)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
-        <id>https://www.scriptkit.com/</id>
-        <link href="https://www.scriptkit.com/"/>
-        <updated>2022-02-22T10:16:41.446Z</updated>
-        <content type="html"><![CDATA[(scriptkit.com)]]></content>
     </entry>
 </feed>
