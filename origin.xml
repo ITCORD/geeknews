@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-23T22:15:15.528Z</updated>
+    <updated>2022-02-23T23:15:13.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(judyrecords.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Griffel - 미리 컴파일 가능한 CSS-in-JS]]></title>
-        <id>https://github.com/microsoft/griffel</id>
-        <link href="https://github.com/microsoft/griffel"/>
-        <updated>2022-02-22T01:59:02.163Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요]]></title>
         <id>https://vitejs-kr.github.io/</id>
         <link href="https://vitejs-kr.github.io/"/>
         <updated>2022-02-19T07:12:25.886Z</updated>
         <content type="html"><![CDATA[(vitejs-kr.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Griffel - 미리 컴파일 가능한 CSS-in-JS]]></title>
+        <id>https://github.com/microsoft/griffel</id>
+        <link href="https://github.com/microsoft/griffel"/>
+        <updated>2022-02-22T01:59:02.163Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
     </entry>
 </feed>
