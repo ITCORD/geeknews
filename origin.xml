@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-23T00:58:07.967Z</updated>
+    <updated>2022-02-23T02:08:31.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
+        <id>https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/</id>
+        <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
+        <updated>2022-02-23T00:57:24.632Z</updated>
+        <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가장 빠른 GIF는 존재하지 않음]]></title>
         <id>https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist</id>
@@ -13,11 +20,18 @@
         <content type="html"><![CDATA[(biphelps.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
-        <id>https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/</id>
-        <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
-        <updated>2022-02-23T00:57:24.632Z</updated>
-        <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
+        <title type="html"><![CDATA[페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까?]]></title>
+        <id>https://www.technologyreview.kr/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%80-%EC%A0%80%EC%86%8C%EB%93%9D-%EA%B5%AD%EA%B0%80%EB%93%A4%EC%9D%98-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%A0%91%EC%86%8D%EC%9D%84-%EB%8F%95%EA%B3%A0-%EC%9E%88/</id>
+        <link href="https://www.technologyreview.kr/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%80-%EC%A0%80%EC%86%8C%EB%93%9D-%EA%B5%AD%EA%B0%80%EB%93%A4%EC%9D%98-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%A0%91%EC%86%8D%EC%9D%84-%EB%8F%95%EA%B3%A0-%EC%9E%88/"/>
+        <updated>2022-02-23T02:07:42.839Z</updated>
+        <content type="html"><![CDATA[(technologyreview.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
+        <id>https://tally.so/</id>
+        <link href="https://tally.so/"/>
+        <updated>2022-02-23T02:07:42.839Z</updated>
+        <content type="html"><![CDATA[(tally.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
@@ -76,18 +90,18 @@
         <content type="html"><![CDATA[(material.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Griffel - 미리 컴파일 가능한 CSS-in-JS]]></title>
-        <id>https://github.com/microsoft/griffel</id>
-        <link href="https://github.com/microsoft/griffel"/>
-        <updated>2022-02-22T01:59:02.163Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I was wrong, we need crypto]]></title>
         <id>https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03</id>
         <link href="https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03"/>
         <updated>2022-02-21T16:19:08.118Z</updated>
         <content type="html"><![CDATA[(world.hey.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Griffel - 미리 컴파일 가능한 CSS-in-JS]]></title>
+        <id>https://github.com/microsoft/griffel</id>
+        <link href="https://github.com/microsoft/griffel"/>
+        <updated>2022-02-22T01:59:02.163Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jujutsu - 간단하고 강력한 Git 호환 DVCS]]></title>
@@ -130,19 +144,5 @@
         <link href="https://github.com/hibuz/dev-conf-replay"/>
         <updated>2022-02-16T08:15:33.428Z</updated>
         <content type="html"><![CDATA[(github.com/hibuz)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수백명의 사람들과 연락을 유지하는 간단한 시스템 만들기]]></title>
-        <id>https://jakobgreenfeld.com/stay-in-touch</id>
-        <link href="https://jakobgreenfeld.com/stay-in-touch"/>
-        <updated>2022-02-16T00:49:52.161Z</updated>
-        <content type="html"><![CDATA[(jakobgreenfeld.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜]]></title>
-        <id>http://www.dial-multiscreen.org/</id>
-        <link href="http://www.dial-multiscreen.org/"/>
-        <updated>2022-02-19T00:53:44.667Z</updated>
-        <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
     </entry>
 </feed>
