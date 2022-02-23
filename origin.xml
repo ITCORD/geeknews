@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-23T19:12:37.646Z</updated>
+    <updated>2022-02-23T20:15:34.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tally.so/"/>
         <updated>2022-02-23T02:07:42.839Z</updated>
         <content type="html"><![CDATA[(tally.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
+        <id>https://twitter.com/dylayed/status/1496020581610778625</id>
+        <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
+        <updated>2022-02-23T18:14:33.224Z</updated>
+        <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 빠른 GIF는 존재하지 않음]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(waifulabs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
-        <id>https://twitter.com/dylayed/status/1496020581610778625</id>
-        <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
-        <updated>2022-02-23T18:14:33.224Z</updated>
-        <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
         <id>https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/</id>
         <link href="https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/"/>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(technologyreview.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grist - Airtable과 Google Sheet의 오픈소스 대체제]]></title>
-        <id>https://github.com/gristlabs/grist-core</id>
-        <link href="https://github.com/gristlabs/grist-core"/>
-        <updated>2022-02-22T00:49:56.484Z</updated>
-        <content type="html"><![CDATA[(github.com/gristlabs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글 검색이 죽어가고 있다]]></title>
         <id>https://dkb.io/post/google-search-is-dying</id>
         <link href="https://dkb.io/post/google-search-is-dying"/>
         <updated>2022-02-21T06:17:22.916Z</updated>
         <content type="html"><![CDATA[(dkb.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grist - Airtable과 Google Sheet의 오픈소스 대체제]]></title>
+        <id>https://github.com/gristlabs/grist-core</id>
+        <link href="https://github.com/gristlabs/grist-core"/>
+        <updated>2022-02-22T00:49:56.484Z</updated>
+        <content type="html"><![CDATA[(github.com/gristlabs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(material.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I was wrong, we need crypto]]></title>
-        <id>https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03</id>
-        <link href="https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03"/>
-        <updated>2022-02-21T16:19:08.118Z</updated>
-        <content type="html"><![CDATA[(world.hey.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jujutsu - 간단하고 강력한 Git 호환 DVCS]]></title>
         <id>https://github.com/martinvonz/jj</id>
         <link href="https://github.com/martinvonz/jj"/>
         <updated>2022-02-21T01:58:12.649Z</updated>
         <content type="html"><![CDATA[(github.com/martinvonz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was wrong, we need crypto]]></title>
+        <id>https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03</id>
+        <link href="https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03"/>
+        <updated>2022-02-21T16:19:08.118Z</updated>
+        <content type="html"><![CDATA[(world.hey.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Judyrecords - 무료 미국 법원 사건 및 소송 검색 시스템]]></title>
