@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-24T04:18:20.923Z</updated>
+    <updated>2022-02-24T05:14:28.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/"/>
         <updated>2022-02-24T04:17:35.361Z</updated>
         <content type="html"><![CDATA[(nginx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
+        <id>https://twitter.com/dylayed/status/1496020581610778625</id>
+        <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
+        <updated>2022-02-23T18:14:33.224Z</updated>
+        <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 인식해서 내가 슬플 때 고양이 사진 보내기]]></title>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
-        <id>https://twitter.com/dylayed/status/1496020581610778625</id>
-        <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
-        <updated>2022-02-23T18:14:33.224Z</updated>
-        <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
         <id>https://tally.so/</id>
         <link href="https://tally.so/"/>
         <updated>2022-02-23T02:07:42.839Z</updated>
         <content type="html"><![CDATA[(tally.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
+        <id>https://stylojs.com/</id>
+        <link href="https://stylojs.com/"/>
+        <updated>2022-02-24T05:13:44.548Z</updated>
+        <content type="html"><![CDATA[(stylojs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
@@ -76,18 +83,18 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
-        <id>https://news.hada.io/topic?id=6035</id>
-        <link href="https://news.hada.io/topic?id=6035"/>
-        <updated>2022-02-23T03:15:07.473Z</updated>
-        <content type="html"><![CDATA[(startup-notify.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글 검색이 죽어가고 있다]]></title>
         <id>https://dkb.io/post/google-search-is-dying</id>
         <link href="https://dkb.io/post/google-search-is-dying"/>
         <updated>2022-02-21T06:17:22.916Z</updated>
         <content type="html"><![CDATA[(dkb.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
+        <id>https://news.hada.io/topic?id=6035</id>
+        <link href="https://news.hada.io/topic?id=6035"/>
+        <updated>2022-02-23T03:15:07.473Z</updated>
+        <content type="html"><![CDATA[(startup-notify.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grist - Airtable과 Google Sheet의 오픈소스 대체제]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/martinvonz/jj"/>
         <updated>2022-02-21T01:58:12.649Z</updated>
         <content type="html"><![CDATA[(github.com/martinvonz)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
-        <id>https://9to5google.com/2022/02/16/google-search-widgets/</id>
-        <link href="https://9to5google.com/2022/02/16/google-search-widgets/"/>
-        <updated>2022-02-23T00:57:24.632Z</updated>
-        <content type="html"><![CDATA[(9to5google.com)]]></content>
     </entry>
 </feed>
