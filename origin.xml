@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-24T07:14:34.293Z</updated>
+    <updated>2022-02-24T08:17:00.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
+        <id>https://stylojs.com/</id>
+        <link href="https://stylojs.com/"/>
+        <updated>2022-02-24T05:13:44.548Z</updated>
+        <content type="html"><![CDATA[(stylojs.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
         <id>https://twitter.com/dylayed/status/1496020581610778625</id>
         <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(healeycodes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
-        <id>https://stylojs.com/</id>
-        <link href="https://stylojs.com/"/>
-        <updated>2022-02-24T05:13:44.548Z</updated>
-        <content type="html"><![CDATA[(stylojs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
         <id>https://tally.so/</id>
         <link href="https://tally.so/"/>
@@ -53,6 +53,13 @@
         <link href="https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist"/>
         <updated>2022-02-23T00:57:24.632Z</updated>
         <content type="html"><![CDATA[(biphelps.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
+        <id>https://github.com/mickael-kerjean/filestash</id>
+        <link href="https://github.com/mickael-kerjean/filestash"/>
+        <updated>2022-02-24T02:07:00.511Z</updated>
+        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
@@ -74,13 +81,6 @@
         <link href="https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/"/>
         <updated>2022-02-21T02:29:11.051Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
-        <id>https://github.com/mickael-kerjean/filestash</id>
-        <link href="https://github.com/mickael-kerjean/filestash"/>
-        <updated>2022-02-24T02:07:00.511Z</updated>
-        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
