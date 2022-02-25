@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-25T09:15:31.848Z</updated>
+    <updated>2022-02-25T10:16:30.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
-        <id>https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/</id>
-        <link href="https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"/>
-        <updated>2022-02-25T03:14:32.114Z</updated>
-        <content type="html"><![CDATA[(eng.uber.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
         <id>https://github.com/anderspitman/awesome-tunneling</id>
         <link href="https://github.com/anderspitman/awesome-tunneling"/>
         <updated>2022-02-25T00:53:54.824Z</updated>
         <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
+        <id>https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/</id>
+        <link href="https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"/>
+        <updated>2022-02-25T03:14:32.114Z</updated>
+        <content type="html"><![CDATA[(eng.uber.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
-        <id>https://news.hada.io/topic?id=6035</id>
-        <link href="https://news.hada.io/topic?id=6035"/>
-        <updated>2022-02-23T03:15:07.473Z</updated>
-        <content type="html"><![CDATA[(startup-notify.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글 검색이 죽어가고 있다]]></title>
         <id>https://dkb.io/post/google-search-is-dying</id>
         <link href="https://dkb.io/post/google-search-is-dying"/>
         <updated>2022-02-21T06:17:22.916Z</updated>
         <content type="html"><![CDATA[(dkb.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
+        <id>https://news.hada.io/topic?id=6035</id>
+        <link href="https://news.hada.io/topic?id=6035"/>
+        <updated>2022-02-23T03:15:07.473Z</updated>
+        <content type="html"><![CDATA[(startup-notify.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grist - Airtable과 Google Sheet의 오픈소스 대체제]]></title>
