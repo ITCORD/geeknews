@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-26T23:14:36.033Z</updated>
+    <updated>2022-02-27T00:55:49.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
+        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
+        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
+        <updated>2022-02-27T00:55:00.834Z</updated>
+        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.59.0 릴리즈]]></title>
+        <id>https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html</id>
+        <link href="https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html"/>
+        <updated>2022-02-27T00:55:00.834Z</updated>
+        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
         <id>https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html</id>
@@ -34,6 +48,13 @@
         <content type="html"><![CDATA[(eng.uber.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
+        <id>https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/</id>
+        <link href="https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/"/>
+        <updated>2022-02-24T04:17:35.361Z</updated>
+        <content type="html"><![CDATA[(nginx.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX]]></title>
         <id>https://meetup.toast.com/posts/311</id>
         <link href="https://meetup.toast.com/posts/311"/>
@@ -46,13 +67,6 @@
         <link href="http://channy.creation.net/blog/1530"/>
         <updated>2022-02-26T00:48:48.988Z</updated>
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
-        <id>https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/</id>
-        <link href="https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/"/>
-        <updated>2022-02-24T04:17:35.361Z</updated>
-        <content type="html"><![CDATA[(nginx.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vanced - 광고를 차단해주는 안드로이드용 유튜브앱]]></title>
@@ -76,18 +90,18 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
-        <id>https://stylojs.com/</id>
-        <link href="https://stylojs.com/"/>
-        <updated>2022-02-24T05:13:44.548Z</updated>
-        <content type="html"><![CDATA[(stylojs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
         <id>https://tally.so/</id>
         <link href="https://tally.so/"/>
         <updated>2022-02-23T02:07:42.839Z</updated>
         <content type="html"><![CDATA[(tally.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
+        <id>https://stylojs.com/</id>
+        <link href="https://stylojs.com/"/>
+        <updated>2022-02-24T05:13:44.548Z</updated>
+        <content type="html"><![CDATA[(stylojs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
@@ -130,19 +144,5 @@
         <link href="https://dkb.io/post/google-search-is-dying"/>
         <updated>2022-02-26T03:15:07.655Z</updated>
         <content type="html"><![CDATA[(dkb.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
-        <id>https://github.com/mickael-kerjean/filestash</id>
-        <link href="https://github.com/mickael-kerjean/filestash"/>
-        <updated>2022-02-24T02:07:00.511Z</updated>
-        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
-        <id>https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/</id>
-        <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
-        <updated>2022-02-26T06:16:47.077Z</updated>
-        <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
     </entry>
 </feed>
