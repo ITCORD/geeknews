@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-27T16:18:51.580Z</updated>
+    <updated>2022-02-27T17:13:48.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Rust 1.59.0 릴리즈]]></title>
-        <id>https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html</id>
-        <link href="https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html"/>
-        <updated>2022-02-27T00:55:00.834Z</updated>
-        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[LogFX - 멀티플랫폼 오픈소스 로그 뷰어]]></title>
         <id>https://renatoathaydes.github.io/LogFX/index.html</id>
         <link href="https://renatoathaydes.github.io/LogFX/index.html"/>
         <updated>2022-02-27T02:04:36.472Z</updated>
         <content type="html"><![CDATA[(renatoathaydes.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.59.0 릴리즈]]></title>
+        <id>https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html</id>
+        <link href="https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html"/>
+        <updated>2022-02-27T00:55:00.834Z</updated>
+        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
-        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
-        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
-        <updated>2022-02-27T00:55:00.834Z</updated>
-        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
         <id>https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/</id>
         <link href="https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"/>
         <updated>2022-02-25T03:14:32.114Z</updated>
         <content type="html"><![CDATA[(eng.uber.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
+        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
+        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
+        <updated>2022-02-27T00:55:00.834Z</updated>
+        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
