@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-27T11:12:48.387Z</updated>
+    <updated>2022-02-27T12:21:40.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
-        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
-        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
-        <updated>2022-02-27T00:55:00.834Z</updated>
-        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
         <id>https://github.com/anderspitman/awesome-tunneling</id>
         <link href="https://github.com/anderspitman/awesome-tunneling"/>
         <updated>2022-02-25T00:53:54.824Z</updated>
         <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
+        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
+        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
+        <updated>2022-02-27T00:55:00.834Z</updated>
+        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(meetup.toast.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla Firefox는 이대로 괜찮을까?]]></title>
-        <id>http://channy.creation.net/blog/1530</id>
-        <link href="http://channy.creation.net/blog/1530"/>
-        <updated>2022-02-26T00:48:48.988Z</updated>
-        <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
         <id>https://twitter.com/dylayed/status/1496020581610778625</id>
         <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
@@ -83,18 +76,18 @@
         <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mozilla Firefox는 이대로 괜찮을까?]]></title>
+        <id>http://channy.creation.net/blog/1530</id>
+        <link href="http://channy.creation.net/blog/1530"/>
+        <updated>2022-02-26T00:48:48.988Z</updated>
+        <content type="html"><![CDATA[(channy.creation.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Adaptive Favicon 만들기]]></title>
         <id>https://web.dev/building-an-adaptive-favicon/</id>
         <link href="https://web.dev/building-an-adaptive-favicon/"/>
         <updated>2022-02-24T02:07:00.496Z</updated>
         <content type="html"><![CDATA[(web.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanced - 광고를 차단해주는 안드로이드용 유튜브앱]]></title>
-        <id>https://vancedapp.com/</id>
-        <link href="https://vancedapp.com/"/>
-        <updated>2022-02-25T00:53:54.825Z</updated>
-        <content type="html"><![CDATA[(vancedapp.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
@@ -109,6 +102,13 @@
         <link href="https://tally.so/"/>
         <updated>2022-02-23T02:07:42.839Z</updated>
         <content type="html"><![CDATA[(tally.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanced - 광고를 차단해주는 안드로이드용 유튜브앱]]></title>
+        <id>https://vancedapp.com/</id>
+        <link href="https://vancedapp.com/"/>
+        <updated>2022-02-25T00:53:54.825Z</updated>
+        <content type="html"><![CDATA[(vancedapp.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
