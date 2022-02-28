@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-28T13:20:57.668Z</updated>
+    <updated>2022-02-28T14:13:57.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(meetup.toast.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
-        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
-        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
-        <updated>2022-02-27T00:55:00.834Z</updated>
-        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
         <id>https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/</id>
         <link href="https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/"/>
         <updated>2022-02-21T02:29:11.051Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
+        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
+        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
+        <updated>2022-02-27T00:55:00.834Z</updated>
+        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
-        <id>https://stylojs.com/</id>
-        <link href="https://stylojs.com/"/>
-        <updated>2022-02-28T13:20:15.521Z</updated>
-        <content type="html"><![CDATA[(stylojs.com)]]></content>
+        <title type="html"><![CDATA[Mozilla Firefox는 이대로 괜찮을까?]]></title>
+        <id>http://channy.creation.net/blog/1530</id>
+        <link href="http://channy.creation.net/blog/1530"/>
+        <updated>2022-02-28T14:13:12.355Z</updated>
+        <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
 </feed>
