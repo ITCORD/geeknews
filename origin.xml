@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-01T20:17:14.909Z</updated>
+    <updated>2022-03-01T21:14:08.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
+        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
+        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
+        <updated>2022-03-01T00:59:43.194Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
         <id>https://news.hada.io/topic?id=6062</id>
         <link href="https://news.hada.io/topic?id=6062"/>
@@ -32,13 +39,6 @@
         <link href="https://monorepo.tools/"/>
         <updated>2022-02-28T03:14:55.424Z</updated>
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
-        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
-        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
-        <updated>2022-03-01T00:59:43.194Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
