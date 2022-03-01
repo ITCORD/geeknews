@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-01T05:13:45.117Z</updated>
+    <updated>2022-03-01T06:18:00.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
         <updated>2022-03-01T00:59:43.194Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux From Scratch]]></title>
+        <id>https://linuxfromscratch.org/</id>
+        <link href="https://linuxfromscratch.org/"/>
+        <updated>2022-03-01T02:20:50.694Z</updated>
+        <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법]]></title>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
-        <id>https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/</id>
-        <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
-        <updated>2022-03-01T02:20:50.692Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
+        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
+        <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
+        <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
+        <updated>2022-03-01T00:59:43.200Z</updated>
+        <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
@@ -41,18 +48,18 @@
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux From Scratch]]></title>
-        <id>https://linuxfromscratch.org/</id>
-        <link href="https://linuxfromscratch.org/"/>
-        <updated>2022-03-01T02:20:50.694Z</updated>
-        <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
+        <title type="html"><![CDATA[한컴 오피스 보안 버그]]></title>
+        <id>https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html</id>
+        <link href="https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html"/>
+        <updated>2022-03-01T06:17:20.313Z</updated>
+        <content type="html"><![CDATA[(blog.talosintelligence.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
-        <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
-        <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
-        <updated>2022-03-01T00:59:43.200Z</updated>
-        <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
+        <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
+        <id>https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/</id>
+        <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
+        <updated>2022-03-01T02:20:50.692Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
@@ -137,12 +144,5 @@
         <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
         <updated>2022-02-23T18:14:33.224Z</updated>
         <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX]]></title>
-        <id>https://meetup.toast.com/posts/311</id>
-        <link href="https://meetup.toast.com/posts/311"/>
-        <updated>2022-02-26T01:57:22.565Z</updated>
-        <content type="html"><![CDATA[(meetup.toast.com)]]></content>
     </entry>
 </feed>
