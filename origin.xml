@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-01T12:24:15.493Z</updated>
+    <updated>2022-03-01T13:20:28.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
-        <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
-        <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
-        <updated>2022-03-01T00:59:43.200Z</updated>
-        <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
         <id>https://monorepo.tools/</id>
         <link href="https://monorepo.tools/"/>
         <updated>2022-02-28T03:14:55.424Z</updated>
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
+        <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
+        <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
+        <updated>2022-03-01T00:59:43.200Z</updated>
+        <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한컴 오피스 보안 버그]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(cameronmacleod.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tinder의 불투명/불공정한 가격 책정 알고리듬은 사용자에 따라 5배까지 차이가 난다]]></title>
-        <id>https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/</id>
-        <link href="https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/"/>
-        <updated>2022-02-28T02:05:49.614Z</updated>
-        <content type="html"><![CDATA[(foundation.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
         <id>https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html</id>
         <link href="https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html"/>
         <updated>2022-02-26T00:48:48.988Z</updated>
         <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinder의 불투명/불공정한 가격 책정 알고리듬은 사용자에 따라 5배까지 차이가 난다]]></title>
+        <id>https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/</id>
+        <link href="https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/"/>
+        <updated>2022-02-28T02:05:49.614Z</updated>
+        <content type="html"><![CDATA[(foundation.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
