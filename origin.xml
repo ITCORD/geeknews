@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-01T01:00:26.760Z</updated>
+    <updated>2022-03-01T02:21:31.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
-        <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
-        <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
-        <updated>2022-03-01T00:59:43.200Z</updated>
-        <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
+        <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
+        <id>https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/</id>
+        <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
+        <updated>2022-03-01T02:20:50.692Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
@@ -41,11 +41,18 @@
         <content type="html"><![CDATA[(timothygu.me)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OrioleDB - 클라우드 네이티브 스토리지 엔진]]></title>
-        <id>https://github.com/orioledb/orioledb</id>
-        <link href="https://github.com/orioledb/orioledb"/>
-        <updated>2022-02-28T02:05:49.613Z</updated>
-        <content type="html"><![CDATA[(github.com/orioledb)]]></content>
+        <title type="html"><![CDATA[Linux From Scratch]]></title>
+        <id>https://linuxfromscratch.org/</id>
+        <link href="https://linuxfromscratch.org/"/>
+        <updated>2022-03-01T02:20:50.694Z</updated>
+        <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
+        <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
+        <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
+        <updated>2022-03-01T00:59:43.200Z</updated>
+        <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
@@ -53,6 +60,13 @@
         <link href="https://news.hada.io/topic?id=6062"/>
         <updated>2022-02-28T15:14:54.305Z</updated>
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OrioleDB - 클라우드 네이티브 스토리지 엔진]]></title>
+        <id>https://github.com/orioledb/orioledb</id>
+        <link href="https://github.com/orioledb/orioledb"/>
+        <updated>2022-02-28T02:05:49.613Z</updated>
+        <content type="html"><![CDATA[(github.com/orioledb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법]]></title>
@@ -83,18 +97,18 @@
         <content type="html"><![CDATA[(cameronmacleod.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tinder의 불투명/불공정한 가격 책정 알고리듬은 사용자에 따라 5배까지 차이가 난다]]></title>
-        <id>https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/</id>
-        <link href="https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/"/>
-        <updated>2022-02-28T02:05:49.614Z</updated>
-        <content type="html"><![CDATA[(foundation.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
         <id>https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html</id>
         <link href="https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html"/>
         <updated>2022-02-26T00:48:48.988Z</updated>
         <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinder의 불투명/불공정한 가격 책정 알고리듬은 사용자에 따라 5배까지 차이가 난다]]></title>
+        <id>https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/</id>
+        <link href="https://foundation.mozilla.org/en/blog/new-research-tinders-opaque-unfair-pricing-algorithm-can-charge-users-up-to-five-times-more-for-same-service/"/>
+        <updated>2022-02-28T02:05:49.614Z</updated>
+        <content type="html"><![CDATA[(foundation.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
@@ -118,20 +132,6 @@
         <content type="html"><![CDATA[(eng.uber.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX]]></title>
-        <id>https://meetup.toast.com/posts/311</id>
-        <link href="https://meetup.toast.com/posts/311"/>
-        <updated>2022-02-26T01:57:22.565Z</updated>
-        <content type="html"><![CDATA[(meetup.toast.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
-        <id>https://tally.so/</id>
-        <link href="https://tally.so/"/>
-        <updated>2022-02-23T02:07:42.839Z</updated>
-        <content type="html"><![CDATA[(tally.so)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
         <id>https://twitter.com/dylayed/status/1496020581610778625</id>
         <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adaptive Favicon 만들기]]></title>
-        <id>https://web.dev/building-an-adaptive-favicon/</id>
-        <link href="https://web.dev/building-an-adaptive-favicon/"/>
-        <updated>2022-02-24T02:07:00.496Z</updated>
-        <content type="html"><![CDATA[(web.dev)]]></content>
+        <title type="html"><![CDATA[가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX]]></title>
+        <id>https://meetup.toast.com/posts/311</id>
+        <link href="https://meetup.toast.com/posts/311"/>
+        <updated>2022-02-26T01:57:22.565Z</updated>
+        <content type="html"><![CDATA[(meetup.toast.com)]]></content>
     </entry>
 </feed>
