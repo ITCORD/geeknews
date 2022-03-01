@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-01T02:21:31.716Z</updated>
+    <updated>2022-03-01T03:20:46.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법]]></title>
-        <id>https://css-tricks.com/send-an-http-request-on-page-exit/</id>
-        <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
-        <updated>2022-02-28T03:14:55.404Z</updated>
-        <content type="html"><![CDATA[(css-tricks.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
         <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
-        <id>https://monorepo.tools/</id>
-        <link href="https://monorepo.tools/"/>
-        <updated>2022-02-28T03:14:55.424Z</updated>
-        <content type="html"><![CDATA[(monorepo.tools)]]></content>
+        <title type="html"><![CDATA[사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법]]></title>
+        <id>https://css-tricks.com/send-an-http-request-on-page-exit/</id>
+        <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
+        <updated>2022-02-28T03:14:55.404Z</updated>
+        <content type="html"><![CDATA[(css-tricks.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
@@ -32,13 +25,6 @@
         <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
         <updated>2022-03-01T02:20:50.692Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
-        <id>https://timothygu.me/es-howto/</id>
-        <link href="https://timothygu.me/es-howto/"/>
-        <updated>2022-02-28T02:05:49.604Z</updated>
-        <content type="html"><![CDATA[(timothygu.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
@@ -55,11 +41,25 @@
         <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
+        <id>https://monorepo.tools/</id>
+        <link href="https://monorepo.tools/"/>
+        <updated>2022-02-28T03:14:55.424Z</updated>
+        <content type="html"><![CDATA[(monorepo.tools)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
         <id>https://news.hada.io/topic?id=6062</id>
         <link href="https://news.hada.io/topic?id=6062"/>
         <updated>2022-02-28T15:14:54.305Z</updated>
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
+        <id>https://timothygu.me/es-howto/</id>
+        <link href="https://timothygu.me/es-howto/"/>
+        <updated>2022-02-28T02:05:49.604Z</updated>
+        <content type="html"><![CDATA[(timothygu.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OrioleDB - 클라우드 네이티브 스토리지 엔진]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(nginx.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust 1.59.0 릴리즈]]></title>
-        <id>https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html</id>
-        <link href="https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html"/>
-        <updated>2022-02-27T00:55:00.834Z</updated>
-        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
         <id>https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/</id>
         <link href="https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"/>
         <updated>2022-02-25T03:14:32.114Z</updated>
         <content type="html"><![CDATA[(eng.uber.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.59.0 릴리즈]]></title>
+        <id>https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html</id>
+        <link href="https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html"/>
+        <updated>2022-02-27T00:55:00.834Z</updated>
+        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
