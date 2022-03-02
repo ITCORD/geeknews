@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-02T05:13:41.010Z</updated>
+    <updated>2022-03-02T06:18:25.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(css-tricks.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
-        <id>https://news.hada.io/topic?id=6062</id>
-        <link href="https://news.hada.io/topic?id=6062"/>
-        <updated>2022-02-28T15:14:54.305Z</updated>
-        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
         <id>https://linuxfromscratch.org/</id>
         <link href="https://linuxfromscratch.org/"/>
         <updated>2022-03-01T02:20:50.694Z</updated>
         <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
+        <id>https://news.hada.io/topic?id=6062</id>
+        <link href="https://news.hada.io/topic?id=6062"/>
+        <updated>2022-02-28T15:14:54.305Z</updated>
+        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[(blog.talosintelligence.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries"/>
+        <updated>2022-02-28T02:05:49.616Z</updated>
+        <content type="html"><![CDATA[(blog.twitter.com/engineering)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
         <id>https://github.com/anderspitman/awesome-tunneling</id>
         <link href="https://github.com/anderspitman/awesome-tunneling"/>
@@ -125,13 +132,6 @@
         <content type="html"><![CDATA[(renatoathaydes.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법]]></title>
-        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries</id>
-        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries"/>
-        <updated>2022-02-28T02:05:49.616Z</updated>
-        <content type="html"><![CDATA[(blog.twitter.com/engineering)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
         <id>https://www.cameronmacleod.com/blog/how-does-shazam-work</id>
         <link href="https://www.cameronmacleod.com/blog/how-does-shazam-work"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(cameronmacleod.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
-        <id>https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/</id>
-        <link href="https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/"/>
-        <updated>2022-02-24T04:17:35.361Z</updated>
-        <content type="html"><![CDATA[(nginx.com)]]></content>
+        <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
+        <id>https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html</id>
+        <link href="https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html"/>
+        <updated>2022-03-02T06:17:43.400Z</updated>
+        <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
     </entry>
 </feed>
