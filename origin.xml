@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-02T00:57:05.470Z</updated>
+    <updated>2022-03-02T02:15:15.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
+        <id>https://punkjazz.org/programming-time/</id>
+        <link href="https://punkjazz.org/programming-time/"/>
+        <updated>2022-03-02T00:56:16.385Z</updated>
+        <content type="html"><![CDATA[(punkjazz.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
         <id>https://github.com/vinodotdev/node-to-rust</id>
@@ -20,11 +27,18 @@
         <content type="html"><![CDATA[(technologyreview.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
-        <id>https://punkjazz.org/programming-time/</id>
-        <link href="https://punkjazz.org/programming-time/"/>
-        <updated>2022-03-02T00:56:16.385Z</updated>
-        <content type="html"><![CDATA[(punkjazz.org)]]></content>
+        <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
+        <id>https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/</id>
+        <link href="https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/"/>
+        <updated>2022-03-02T02:14:28.355Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
+        <id>https://tomtunguz.com/what-ive-learned-ma/</id>
+        <link href="https://tomtunguz.com/what-ive-learned-ma/"/>
+        <updated>2022-03-02T02:14:28.355Z</updated>
+        <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법]]></title>
@@ -62,18 +76,18 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
-        <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
-        <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
-        <updated>2022-03-01T00:59:43.200Z</updated>
-        <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
         <id>https://timothygu.me/es-howto/</id>
         <link href="https://timothygu.me/es-howto/"/>
         <updated>2022-02-28T02:05:49.604Z</updated>
         <content type="html"><![CDATA[(timothygu.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
+        <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
+        <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
+        <updated>2022-03-01T00:59:43.200Z</updated>
+        <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
@@ -83,18 +97,18 @@
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한컴 오피스 보안 버그]]></title>
-        <id>https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html</id>
-        <link href="https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html"/>
-        <updated>2022-03-01T06:17:20.313Z</updated>
-        <content type="html"><![CDATA[(blog.talosintelligence.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OrioleDB - 클라우드 네이티브 스토리지 엔진]]></title>
         <id>https://github.com/orioledb/orioledb</id>
         <link href="https://github.com/orioledb/orioledb"/>
         <updated>2022-02-28T02:05:49.613Z</updated>
         <content type="html"><![CDATA[(github.com/orioledb)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한컴 오피스 보안 버그]]></title>
+        <id>https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html</id>
+        <link href="https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html"/>
+        <updated>2022-03-01T06:17:20.313Z</updated>
+        <content type="html"><![CDATA[(blog.talosintelligence.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/"/>
         <updated>2022-02-24T04:17:35.361Z</updated>
         <content type="html"><![CDATA[(nginx.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
-        <id>https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html</id>
-        <link href="https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html"/>
-        <updated>2022-02-26T00:48:48.988Z</updated>
-        <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
-        <id>https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/</id>
-        <link href="https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"/>
-        <updated>2022-02-25T03:14:32.114Z</updated>
-        <content type="html"><![CDATA[(eng.uber.com)]]></content>
     </entry>
 </feed>
