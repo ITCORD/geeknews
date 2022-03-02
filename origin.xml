@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-02T22:15:54.698Z</updated>
+    <updated>2022-03-02T23:14:36.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
-        <id>https://tomtunguz.com/what-ive-learned-ma/</id>
-        <link href="https://tomtunguz.com/what-ive-learned-ma/"/>
-        <updated>2022-03-02T02:14:28.355Z</updated>
-        <content type="html"><![CDATA[(tomtunguz.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
         <id>https://punkjazz.org/programming-time/</id>
         <link href="https://punkjazz.org/programming-time/"/>
         <updated>2022-03-02T00:56:16.385Z</updated>
         <content type="html"><![CDATA[(punkjazz.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
+        <id>https://tomtunguz.com/what-ive-learned-ma/</id>
+        <link href="https://tomtunguz.com/what-ive-learned-ma/"/>
+        <updated>2022-03-02T02:14:28.355Z</updated>
+        <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(technologyreview.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
-        <id>https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/</id>
-        <link href="https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/"/>
-        <updated>2022-03-02T02:14:28.355Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
         <id>https://monorepo.tools/</id>
         <link href="https://monorepo.tools/"/>
         <updated>2022-02-28T03:14:55.424Z</updated>
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
+        <id>https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/</id>
+        <link href="https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/"/>
+        <updated>2022-03-02T02:14:28.355Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
