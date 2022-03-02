@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-02T17:15:33.927Z</updated>
+    <updated>2022-03-02T18:18:59.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
-        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
-        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
-        <updated>2022-03-01T00:59:43.194Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
         <id>https://timothygu.me/es-howto/</id>
         <link href="https://timothygu.me/es-howto/"/>
         <updated>2022-02-28T02:05:49.604Z</updated>
         <content type="html"><![CDATA[(timothygu.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
+        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
+        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
+        <updated>2022-03-01T00:59:43.194Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
