@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-02T23:14:36.426Z</updated>
+    <updated>2022-03-03T00:57:09.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
+        <id>https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world</id>
+        <link href="https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world"/>
+        <updated>2022-03-03T00:56:24.440Z</updated>
+        <content type="html"><![CDATA[(deepmind.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
         <id>https://punkjazz.org/programming-time/</id>
@@ -18,6 +25,20 @@
         <link href="https://tomtunguz.com/what-ive-learned-ma/"/>
         <updated>2022-03-02T02:14:28.355Z</updated>
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wordle 잘하는 법]]></title>
+        <id>https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb</id>
+        <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
+        <updated>2022-03-03T00:56:24.444Z</updated>
+        <content type="html"><![CDATA[(github.com/norvig)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Almost Pong]]></title>
+        <id>https://www.lessmilk.com/almost-pong/</id>
+        <link href="https://www.lessmilk.com/almost-pong/"/>
+        <updated>2022-03-03T00:56:24.446Z</updated>
+        <content type="html"><![CDATA[(lessmilk.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
@@ -48,13 +69,6 @@
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
-        <id>https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/</id>
-        <link href="https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/"/>
-        <updated>2022-03-02T02:14:28.355Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
         <id>https://linuxfromscratch.org/</id>
         <link href="https://linuxfromscratch.org/"/>
@@ -67,6 +81,13 @@
         <link href="https://news.hada.io/topic?id=6062"/>
         <updated>2022-02-28T15:14:54.305Z</updated>
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
+        <id>https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/</id>
+        <link href="https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/"/>
+        <updated>2022-03-02T02:14:28.355Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
@@ -118,31 +139,10 @@
         <content type="html"><![CDATA[(renatoathaydes.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
-        <id>https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html</id>
-        <link href="https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html"/>
-        <updated>2022-03-02T06:17:43.400Z</updated>
-        <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
         <id>https://www.cameronmacleod.com/blog/how-does-shazam-work</id>
         <link href="https://www.cameronmacleod.com/blog/how-does-shazam-work"/>
         <updated>2022-02-25T03:14:32.119Z</updated>
         <content type="html"><![CDATA[(cameronmacleod.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
-        <id>https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/</id>
-        <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
-        <updated>2022-03-01T02:20:50.692Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
-        <id>https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/</id>
-        <link href="https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/"/>
-        <updated>2022-03-02T15:14:41.954Z</updated>
-        <content type="html"><![CDATA[(nginx.com)]]></content>
     </entry>
 </feed>
