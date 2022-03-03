@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-03T07:14:19.307Z</updated>
+    <updated>2022-03-03T09:14:28.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
-        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
-        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
-        <updated>2022-03-01T00:59:43.194Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
         <id>https://timothygu.me/es-howto/</id>
         <link href="https://timothygu.me/es-howto/"/>
         <updated>2022-02-28T02:05:49.604Z</updated>
         <content type="html"><![CDATA[(timothygu.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
+        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
+        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
+        <updated>2022-03-01T00:59:43.194Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법]]></title>
-        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries</id>
-        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries"/>
-        <updated>2022-02-28T02:05:49.616Z</updated>
-        <content type="html"><![CDATA[(blog.twitter.com/engineering)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
         <id>https://github.com/anderspitman/awesome-tunneling</id>
         <link href="https://github.com/anderspitman/awesome-tunneling"/>
         <updated>2022-02-25T00:53:54.824Z</updated>
         <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries"/>
+        <updated>2022-02-28T02:05:49.616Z</updated>
+        <content type="html"><![CDATA[(blog.twitter.com/engineering)]]></content>
     </entry>
 </feed>
