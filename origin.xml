@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-03T03:16:59.456Z</updated>
+    <updated>2022-03-03T04:19:11.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(github.com/norvig)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
-        <id>https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world</id>
-        <link href="https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world"/>
-        <updated>2022-03-03T00:56:24.440Z</updated>
-        <content type="html"><![CDATA[(deepmind.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
         <id>https://open-web-advocacy.org/</id>
         <link href="https://open-web-advocacy.org/"/>
@@ -27,11 +20,32 @@
         <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
+        <id>https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world</id>
+        <link href="https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world"/>
+        <updated>2022-03-03T00:56:24.440Z</updated>
+        <content type="html"><![CDATA[(deepmind.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Almost Pong]]></title>
         <id>https://www.lessmilk.com/almost-pong/</id>
         <link href="https://www.lessmilk.com/almost-pong/"/>
         <updated>2022-03-03T00:56:24.446Z</updated>
         <content type="html"><![CDATA[(lessmilk.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
+        <updated>2022-03-03T03:16:20.661Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
+        <id>https://www.smashingmagazine.com/2022/03/new-css-features-2022/</id>
+        <link href="https://www.smashingmagazine.com/2022/03/new-css-features-2022/"/>
+        <updated>2022-03-03T02:14:57.070Z</updated>
+        <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
@@ -48,25 +62,11 @@
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
-        <updated>2022-03-03T03:16:20.661Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
         <id>https://github.com/vinodotdev/node-to-rust</id>
         <link href="https://github.com/vinodotdev/node-to-rust"/>
         <updated>2022-03-02T00:56:16.378Z</updated>
         <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
-        <id>https://www.smashingmagazine.com/2022/03/new-css-features-2022/</id>
-        <link href="https://www.smashingmagazine.com/2022/03/new-css-features-2022/"/>
-        <updated>2022-03-03T02:14:57.070Z</updated>
-        <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법]]></title>
