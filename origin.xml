@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-04T18:20:08.960Z</updated>
+    <updated>2022-03-04T19:12:50.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
-        <id>https://github.com/nodeshift/nodejs-reference-architecture</id>
-        <link href="https://github.com/nodeshift/nodejs-reference-architecture"/>
-        <updated>2022-03-04T02:21:23.723Z</updated>
-        <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
         <id>https://github.com/vinodotdev/node-to-rust</id>
         <link href="https://github.com/vinodotdev/node-to-rust"/>
         <updated>2022-03-02T00:56:16.378Z</updated>
         <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
+        <id>https://github.com/nodeshift/nodejs-reference-architecture</id>
+        <link href="https://github.com/nodeshift/nodejs-reference-architecture"/>
+        <updated>2022-03-04T02:21:23.723Z</updated>
+        <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -110,13 +110,6 @@
         <content type="html"><![CDATA[(lessmilk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
-        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
-        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
-        <updated>2022-03-04T03:17:05.289Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
         <id>https://monorepo.tools/</id>
         <link href="https://monorepo.tools/"/>
@@ -124,11 +117,18 @@
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
-        <updated>2022-03-03T03:16:20.661Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
+        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
+        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
+        <updated>2022-03-04T03:17:05.289Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
+        <id>https://news.hada.io/topic?id=6062</id>
+        <link href="https://news.hada.io/topic?id=6062"/>
+        <updated>2022-03-04T09:13:39.940Z</updated>
+        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
-        <id>https://news.hada.io/topic?id=6062</id>
-        <link href="https://news.hada.io/topic?id=6062"/>
-        <updated>2022-03-04T09:13:39.940Z</updated>
-        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
+        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
+        <updated>2022-03-03T03:16:20.661Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
 </feed>
