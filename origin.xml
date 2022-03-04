@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-04T15:15:48.178Z</updated>
+    <updated>2022-03-04T16:20:33.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,12 +69,6 @@
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6082</id>
-        <link href="https://news.hada.io/topic?id=6082"/>
-        <updated>2022-03-04T03:17:05.287Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
         <id>https://punkjazz.org/programming-time/</id>
         <link href="https://punkjazz.org/programming-time/"/>
@@ -94,6 +88,12 @@
         <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
         <updated>2022-02-28T03:14:55.404Z</updated>
         <content type="html"><![CDATA[(css-tricks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6082</id>
+        <link href="https://news.hada.io/topic?id=6082"/>
+        <updated>2022-03-04T03:17:05.287Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
