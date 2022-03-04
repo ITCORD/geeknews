@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-03T23:15:18.375Z</updated>
+    <updated>2022-03-04T01:00:11.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
+        <id>https://ahrefs.com/blog/react-seo/</id>
+        <link href="https://ahrefs.com/blog/react-seo/"/>
+        <updated>2022-03-04T00:59:32.836Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
+        <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
+        <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
+        <updated>2022-03-04T00:59:32.836Z</updated>
+        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선]]></title>
+        <id>https://web.dev/interop-2022/</id>
+        <link href="https://web.dev/interop-2022/"/>
+        <updated>2022-03-04T00:59:32.836Z</updated>
+        <content type="html"><![CDATA[(web.dev)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
         <id>https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world</id>
@@ -20,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/norvig)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
-        <id>https://open-web-advocacy.org/</id>
-        <link href="https://open-web-advocacy.org/"/>
-        <updated>2022-03-03T02:14:57.052Z</updated>
-        <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
         <id>https://www.smashingmagazine.com/2022/03/new-css-features-2022/</id>
         <link href="https://www.smashingmagazine.com/2022/03/new-css-features-2022/"/>
         <updated>2022-03-03T02:14:57.070Z</updated>
         <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
+        <id>https://open-web-advocacy.org/</id>
+        <link href="https://open-web-advocacy.org/"/>
+        <updated>2022-03-03T02:14:57.052Z</updated>
+        <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Almost Pong]]></title>
@@ -76,18 +97,18 @@
         <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MIT 테크놀로지 리뷰 ‘2022년 10대 기술’ 발표]]></title>
-        <id>https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022</id>
-        <link href="https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022"/>
-        <updated>2022-03-02T13:19:19.136Z</updated>
-        <content type="html"><![CDATA[(technologyreview.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
         <id>https://monorepo.tools/</id>
         <link href="https://monorepo.tools/"/>
         <updated>2022-02-28T03:14:55.424Z</updated>
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT 테크놀로지 리뷰 ‘2022년 10대 기술’ 발표]]></title>
+        <id>https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022</id>
+        <link href="https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022"/>
+        <updated>2022-03-02T13:19:19.136Z</updated>
+        <content type="html"><![CDATA[(technologyreview.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
@@ -118,31 +139,10 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
-        <id>https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/</id>
-        <link href="https://aws.amazon.com/ko/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/"/>
-        <updated>2022-03-02T02:14:28.355Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
         <id>https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html</id>
         <link href="https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html"/>
         <updated>2022-03-01T00:59:43.200Z</updated>
         <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
-        <id>https://github.com/anderspitman/awesome-tunneling</id>
-        <link href="https://github.com/anderspitman/awesome-tunneling"/>
-        <updated>2022-02-25T00:53:54.824Z</updated>
-        <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법]]></title>
-        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries</id>
-        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries"/>
-        <updated>2022-02-28T02:05:49.616Z</updated>
-        <content type="html"><![CDATA[(blog.twitter.com/engineering)]]></content>
     </entry>
 </feed>
