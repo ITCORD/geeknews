@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-04T22:12:24.518Z</updated>
+    <updated>2022-03-04T23:14:26.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -117,13 +117,6 @@
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
-        <id>https://news.hada.io/topic?id=6062</id>
-        <link href="https://news.hada.io/topic?id=6062"/>
-        <updated>2022-03-04T09:13:39.940Z</updated>
-        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
         <id>https://linuxfromscratch.org/</id>
         <link href="https://linuxfromscratch.org/"/>
@@ -131,11 +124,11 @@
         <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
-        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
-        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
-        <updated>2022-03-04T03:17:05.289Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
+        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
+        <id>https://news.hada.io/topic?id=6062</id>
+        <link href="https://news.hada.io/topic?id=6062"/>
+        <updated>2022-03-04T09:13:39.940Z</updated>
+        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
@@ -143,5 +136,12 @@
         <link href="https://timothygu.me/es-howto/"/>
         <updated>2022-03-04T22:11:47.018Z</updated>
         <content type="html"><![CDATA[(timothygu.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
+        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
+        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
+        <updated>2022-03-04T03:17:05.289Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
 </feed>
