@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-04T11:12:30.497Z</updated>
+    <updated>2022-03-04T12:23:54.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,12 +41,6 @@
         <content type="html"><![CDATA[(deepmind.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6082</id>
-        <link href="https://news.hada.io/topic?id=6082"/>
-        <updated>2022-03-04T03:17:05.287Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
         <id>https://www.smashingmagazine.com/2022/03/new-css-features-2022/</id>
         <link href="https://www.smashingmagazine.com/2022/03/new-css-features-2022/"/>
@@ -61,11 +55,10 @@
         <content type="html"><![CDATA[(github.com/norvig)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
-        <id>https://open-web-advocacy.org/</id>
-        <link href="https://open-web-advocacy.org/"/>
-        <updated>2022-03-03T02:14:57.052Z</updated>
-        <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6082</id>
+        <link href="https://news.hada.io/topic?id=6082"/>
+        <updated>2022-03-04T03:17:05.287Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
@@ -73,6 +66,13 @@
         <link href="https://tomtunguz.com/what-ive-learned-ma/"/>
         <updated>2022-03-02T02:14:28.355Z</updated>
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
+        <id>https://open-web-advocacy.org/</id>
+        <link href="https://open-web-advocacy.org/"/>
+        <updated>2022-03-03T02:14:57.052Z</updated>
+        <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
@@ -117,18 +117,18 @@
         <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
-        <updated>2022-03-03T03:16:20.661Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
         <id>https://monorepo.tools/</id>
         <link href="https://monorepo.tools/"/>
         <updated>2022-02-28T03:14:55.424Z</updated>
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
+        <updated>2022-03-03T03:16:20.661Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
