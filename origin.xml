@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-05T21:13:04.048Z</updated>
+    <updated>2022-03-05T22:14:07.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
-        <id>https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/</id>
-        <link href="https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/"/>
-        <updated>2022-03-05T02:07:49.790Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법]]></title>
         <id>https://css-tricks.com/send-an-http-request-on-page-exit/</id>
         <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
         <updated>2022-02-28T03:14:55.404Z</updated>
         <content type="html"><![CDATA[(css-tricks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
+        <id>https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/</id>
+        <link href="https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/"/>
+        <updated>2022-03-05T02:07:49.790Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
+        <id>https://punkjazz.org/programming-time/</id>
+        <link href="https://punkjazz.org/programming-time/"/>
+        <updated>2022-03-02T00:56:16.385Z</updated>
+        <content type="html"><![CDATA[(punkjazz.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
         <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
         <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
@@ -90,11 +97,11 @@
         <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
-        <id>https://punkjazz.org/programming-time/</id>
-        <link href="https://punkjazz.org/programming-time/"/>
-        <updated>2022-03-02T00:56:16.385Z</updated>
-        <content type="html"><![CDATA[(punkjazz.org)]]></content>
+        <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
+        <id>https://github.com/vinodotdev/node-to-rust</id>
+        <link href="https://github.com/vinodotdev/node-to-rust"/>
+        <updated>2022-03-02T00:56:16.378Z</updated>
+        <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
@@ -109,13 +116,6 @@
         <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
         <updated>2022-03-03T00:56:24.444Z</updated>
         <content type="html"><![CDATA[(github.com/norvig)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
-        <id>https://github.com/vinodotdev/node-to-rust</id>
-        <link href="https://github.com/vinodotdev/node-to-rust"/>
-        <updated>2022-03-02T00:56:16.378Z</updated>
-        <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
