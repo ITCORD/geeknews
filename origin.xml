@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-05T08:16:32.754Z</updated>
+    <updated>2022-03-05T09:14:24.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Google Docs, Pageless 모드 추가]]></title>
+        <id>https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko</id>
+        <link href="https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko"/>
+        <updated>2022-03-05T00:56:14.450Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
         <id>https://wapm.io/</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(github.com/denoland)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Docs, Pageless 모드 추가]]></title>
-        <id>https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko</id>
-        <link href="https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko"/>
-        <updated>2022-03-05T00:56:14.450Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
+        <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
+        <id>https://ahrefs.com/blog/react-seo/</id>
+        <link href="https://ahrefs.com/blog/react-seo/"/>
+        <updated>2022-03-04T00:59:32.836Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
@@ -32,13 +39,6 @@
         <link href="https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/"/>
         <updated>2022-03-05T02:07:49.790Z</updated>
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
-        <id>https://ahrefs.com/blog/react-seo/</id>
-        <link href="https://ahrefs.com/blog/react-seo/"/>
-        <updated>2022-03-04T00:59:32.836Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선]]></title>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
+        <id>https://punkjazz.org/programming-time/</id>
+        <link href="https://punkjazz.org/programming-time/"/>
+        <updated>2022-03-02T00:56:16.385Z</updated>
+        <content type="html"><![CDATA[(punkjazz.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
         <id>https://www.smashingmagazine.com/2022/03/new-css-features-2022/</id>
         <link href="https://www.smashingmagazine.com/2022/03/new-css-features-2022/"/>
@@ -95,13 +102,6 @@
         <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
         <updated>2022-03-03T00:56:24.444Z</updated>
         <content type="html"><![CDATA[(github.com/norvig)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
-        <id>https://punkjazz.org/programming-time/</id>
-        <link href="https://punkjazz.org/programming-time/"/>
-        <updated>2022-03-02T00:56:16.385Z</updated>
-        <content type="html"><![CDATA[(punkjazz.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(lessmilk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
-        <id>https://github.com/nodeshift/nodejs-reference-architecture</id>
-        <link href="https://github.com/nodeshift/nodejs-reference-architecture"/>
-        <updated>2022-03-04T02:21:23.723Z</updated>
-        <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
         <id>https://monorepo.tools/</id>
         <link href="https://monorepo.tools/"/>
         <updated>2022-02-28T03:14:55.424Z</updated>
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
+        <id>https://github.com/nodeshift/nodejs-reference-architecture</id>
+        <link href="https://github.com/nodeshift/nodejs-reference-architecture"/>
+        <updated>2022-03-04T02:21:23.723Z</updated>
+        <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
