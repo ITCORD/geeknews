@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-05T16:18:28.206Z</updated>
+    <updated>2022-03-05T17:13:27.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(github.com/denoland)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
-        <id>https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/</id>
-        <link href="https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/"/>
-        <updated>2022-03-05T02:07:49.790Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[왜 RISC-V가 성공하고 있을까]]></title>
         <id>https://semiengineering.com/why-risc-v-is-succeeding/</id>
         <link href="https://semiengineering.com/why-risc-v-is-succeeding/"/>
@@ -60,6 +53,13 @@
         <link href="https://web.dev/interop-2022/"/>
         <updated>2022-03-04T00:59:32.836Z</updated>
         <content type="html"><![CDATA[(web.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
+        <id>https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/</id>
+        <link href="https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/"/>
+        <updated>2022-03-05T02:07:49.790Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법]]></title>
