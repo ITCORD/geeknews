@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-05T07:15:04.970Z</updated>
+    <updated>2022-03-05T08:16:32.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
+        <id>https://wapm.io/</id>
+        <link href="https://wapm.io/"/>
+        <updated>2022-03-05T00:56:14.450Z</updated>
+        <content type="html"><![CDATA[(wapm.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
         <id>https://github.com/denoland/dnt</id>
@@ -18,13 +25,6 @@
         <link href="https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko"/>
         <updated>2022-03-05T00:56:14.450Z</updated>
         <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
-        <id>https://wapm.io/</id>
-        <link href="https://wapm.io/"/>
-        <updated>2022-03-05T00:56:14.450Z</updated>
-        <content type="html"><![CDATA[(wapm.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
