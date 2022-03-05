@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-05T00:56:55.377Z</updated>
+    <updated>2022-03-05T02:08:32.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://wapm.io/"/>
         <updated>2022-03-05T00:56:14.450Z</updated>
         <content type="html"><![CDATA[(wapm.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
+        <id>https://github.com/denoland/dnt</id>
+        <link href="https://github.com/denoland/dnt"/>
+        <updated>2022-03-05T02:07:49.788Z</updated>
+        <content type="html"><![CDATA[(github.com/denoland)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
+        <id>https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/</id>
+        <link href="https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/"/>
+        <updated>2022-03-05T02:07:49.790Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
@@ -129,19 +143,5 @@
         <link href="https://monorepo.tools/"/>
         <updated>2022-02-28T03:14:55.424Z</updated>
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
-        <id>https://news.hada.io/topic?id=6062</id>
-        <link href="https://news.hada.io/topic?id=6062"/>
-        <updated>2022-03-04T09:13:39.940Z</updated>
-        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux From Scratch]]></title>
-        <id>https://linuxfromscratch.org/</id>
-        <link href="https://linuxfromscratch.org/"/>
-        <updated>2022-03-01T02:20:50.694Z</updated>
-        <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
 </feed>
