@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-05T11:13:49.544Z</updated>
+    <updated>2022-03-05T12:21:31.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국제은행간통신협회(SWIFT) 결제망 아키텍처]]></title>
+        <id>https://twitter.com/alexxubyte/status/1497253012665896962</id>
+        <link href="https://twitter.com/alexxubyte/status/1497253012665896962"/>
+        <updated>2022-03-05T12:20:50.739Z</updated>
+        <content type="html"><![CDATA[(twitter.com/alexxubyte)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
         <id>https://wapm.io/</id>
@@ -137,12 +144,5 @@
         <link href="https://monorepo.tools/"/>
         <updated>2022-02-28T03:14:55.424Z</updated>
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
-        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
-        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
-        <updated>2022-03-05T10:14:17.348Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
 </feed>
