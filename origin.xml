@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-06T08:17:17.818Z</updated>
+    <updated>2022-03-06T09:14:09.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(twitter.com/alexxubyte)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
-        <id>https://www.theverge.com/22950371/valve-steam-deck-review</id>
-        <link href="https://www.theverge.com/22950371/valve-steam-deck-review"/>
-        <updated>2022-03-06T02:07:52.054Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
         <id>https://wapm.io/</id>
         <link href="https://wapm.io/"/>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(wapm.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출]]></title>
-        <id>https://twitter.com/geekbench/status/1499879198940405760</id>
-        <link href="https://twitter.com/geekbench/status/1499879198940405760"/>
+        <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
+        <id>https://www.theverge.com/22950371/valve-steam-deck-review</id>
+        <link href="https://www.theverge.com/22950371/valve-steam-deck-review"/>
         <updated>2022-03-06T02:07:52.054Z</updated>
-        <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Docs, Pageless 모드 추가]]></title>
-        <id>https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko</id>
-        <link href="https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko"/>
-        <updated>2022-03-05T00:56:14.450Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
+        <title type="html"><![CDATA[Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출]]></title>
+        <id>https://twitter.com/geekbench/status/1499879198940405760</id>
+        <link href="https://twitter.com/geekbench/status/1499879198940405760"/>
+        <updated>2022-03-06T02:07:52.054Z</updated>
+        <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
@@ -62,6 +55,13 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Docs, Pageless 모드 추가]]></title>
+        <id>https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko</id>
+        <link href="https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=ko"/>
+        <updated>2022-03-05T00:56:14.450Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[왜 RISC-V가 성공하고 있을까]]></title>
         <id>https://semiengineering.com/why-risc-v-is-succeeding/</id>
         <link href="https://semiengineering.com/why-risc-v-is-succeeding/"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(semiengineering.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
-        <id>https://github.com/denoland/dnt</id>
-        <link href="https://github.com/denoland/dnt"/>
-        <updated>2022-03-05T02:07:49.788Z</updated>
-        <content type="html"><![CDATA[(github.com/denoland)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법]]></title>
         <id>https://css-tricks.com/send-an-http-request-on-page-exit/</id>
         <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
         <updated>2022-02-28T03:14:55.404Z</updated>
         <content type="html"><![CDATA[(css-tricks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
+        <id>https://github.com/denoland/dnt</id>
+        <link href="https://github.com/denoland/dnt"/>
+        <updated>2022-03-05T02:07:49.788Z</updated>
+        <content type="html"><![CDATA[(github.com/denoland)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선]]></title>
