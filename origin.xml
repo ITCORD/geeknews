@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-06T07:14:24.305Z</updated>
+    <updated>2022-03-06T08:17:17.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
+        <id>https://wapm.io/</id>
+        <link href="https://wapm.io/"/>
+        <updated>2022-03-05T00:56:14.450Z</updated>
+        <content type="html"><![CDATA[(wapm.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출]]></title>
         <id>https://twitter.com/geekbench/status/1499879198940405760</id>
         <link href="https://twitter.com/geekbench/status/1499879198940405760"/>
@@ -34,18 +41,11 @@
         <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
-        <updated>2022-03-06T00:53:33.810Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
-        <id>https://wapm.io/</id>
-        <link href="https://wapm.io/"/>
-        <updated>2022-03-05T00:56:14.450Z</updated>
-        <content type="html"><![CDATA[(wapm.io)]]></content>
+        <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
+        <id>https://ahrefs.com/blog/react-seo/</id>
+        <link href="https://ahrefs.com/blog/react-seo/"/>
+        <updated>2022-03-04T00:59:32.836Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Docs, Pageless 모드 추가]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
-        <id>https://ahrefs.com/blog/react-seo/</id>
-        <link href="https://ahrefs.com/blog/react-seo/"/>
-        <updated>2022-03-04T00:59:32.836Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
+        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
+        <updated>2022-03-06T00:53:33.810Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 RISC-V가 성공하고 있을까]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
-        <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
-        <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
-        <updated>2022-03-04T00:59:32.836Z</updated>
-        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
         <id>https://www.smashingmagazine.com/2022/03/new-css-features-2022/</id>
         <link href="https://www.smashingmagazine.com/2022/03/new-css-features-2022/"/>
@@ -137,6 +130,13 @@
         <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
         <updated>2022-03-03T00:56:24.444Z</updated>
         <content type="html"><![CDATA[(github.com/norvig)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
+        <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
+        <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
+        <updated>2022-03-04T00:59:32.836Z</updated>
+        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
