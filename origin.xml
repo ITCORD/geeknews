@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-07T15:15:37.629Z</updated>
+    <updated>2022-03-07T16:20:04.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(onlineornot.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
-        <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
-        <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
-        <updated>2022-03-07T02:12:05.215Z</updated>
-        <content type="html"><![CDATA[(adam-p.ca)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
         <id>https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/</id>
         <link href="https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/"/>
         <updated>2022-03-07T02:12:05.215Z</updated>
         <content type="html"><![CDATA[(platformers.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
+        <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
+        <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
+        <updated>2022-03-07T02:12:05.215Z</updated>
+        <content type="html"><![CDATA[(adam-p.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
@@ -124,13 +124,6 @@
         <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
-        <updated>2022-03-07T03:15:08.472Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
         <id>https://github.com/vinodotdev/node-to-rust</id>
         <link href="https://github.com/vinodotdev/node-to-rust"/>
@@ -143,5 +136,12 @@
         <link href="https://web.dev/interop-2022/"/>
         <updated>2022-03-07T15:14:49.552Z</updated>
         <content type="html"><![CDATA[(web.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
+        <id>https://github.com/denoland/dnt</id>
+        <link href="https://github.com/denoland/dnt"/>
+        <updated>2022-03-07T16:19:24.527Z</updated>
+        <content type="html"><![CDATA[(github.com/denoland)]]></content>
     </entry>
 </feed>
