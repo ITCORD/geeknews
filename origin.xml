@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-07T18:18:09.398Z</updated>
+    <updated>2022-03-07T19:12:35.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -61,18 +61,18 @@
         <content type="html"><![CDATA[(twitter.com/alexxubyte)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
-        <id>https://wapm.io/</id>
-        <link href="https://wapm.io/"/>
-        <updated>2022-03-05T00:56:14.450Z</updated>
-        <content type="html"><![CDATA[(wapm.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React 사이트를 SEO 친화적으로 만들기]]></title>
         <id>https://ahrefs.com/blog/react-seo/</id>
         <link href="https://ahrefs.com/blog/react-seo/"/>
         <updated>2022-03-04T00:59:32.836Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAPM - WebAssembly Package Manager]]></title>
+        <id>https://wapm.io/</id>
+        <link href="https://wapm.io/"/>
+        <updated>2022-03-05T00:56:14.450Z</updated>
+        <content type="html"><![CDATA[(wapm.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Docs, Pageless 모드 추가]]></title>
@@ -124,13 +124,6 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
-        <id>https://github.com/denoland/dnt</id>
-        <link href="https://github.com/denoland/dnt"/>
-        <updated>2022-03-07T16:19:24.527Z</updated>
-        <content type="html"><![CDATA[(github.com/denoland)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
         <id>https://www.theverge.com/22950371/valve-steam-deck-review</id>
         <link href="https://www.theverge.com/22950371/valve-steam-deck-review"/>
@@ -138,10 +131,17 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출]]></title>
-        <id>https://twitter.com/geekbench/status/1499879198940405760</id>
-        <link href="https://twitter.com/geekbench/status/1499879198940405760"/>
-        <updated>2022-03-07T03:15:08.470Z</updated>
-        <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
+        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
+        <id>https://github.com/denoland/dnt</id>
+        <link href="https://github.com/denoland/dnt"/>
+        <updated>2022-03-07T16:19:24.527Z</updated>
+        <content type="html"><![CDATA[(github.com/denoland)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
+        <id>https://www.smashingmagazine.com/2022/03/new-css-features-2022/</id>
+        <link href="https://www.smashingmagazine.com/2022/03/new-css-features-2022/"/>
+        <updated>2022-03-07T19:11:53.906Z</updated>
+        <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
     </entry>
 </feed>
