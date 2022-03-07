@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-07T00:55:11.962Z</updated>
+    <updated>2022-03-07T02:13:03.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
+        <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
+        <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
+        <updated>2022-03-07T02:12:05.212Z</updated>
+        <content type="html"><![CDATA[(onlineornot.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
+        <id>https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/</id>
+        <link href="https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/"/>
+        <updated>2022-03-07T02:12:05.215Z</updated>
+        <content type="html"><![CDATA[(platformers.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
+        <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
+        <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
+        <updated>2022-03-07T02:12:05.215Z</updated>
+        <content type="html"><![CDATA[(adam-p.ca)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
         <id>https://ahrefs.com/blog/martech-stack/</id>
@@ -123,26 +144,5 @@
         <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
         <updated>2022-03-03T00:56:24.444Z</updated>
         <content type="html"><![CDATA[(github.com/norvig)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
-        <id>https://www.theverge.com/22950371/valve-steam-deck-review</id>
-        <link href="https://www.theverge.com/22950371/valve-steam-deck-review"/>
-        <updated>2022-03-06T02:07:52.054Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출]]></title>
-        <id>https://twitter.com/geekbench/status/1499879198940405760</id>
-        <link href="https://twitter.com/geekbench/status/1499879198940405760"/>
-        <updated>2022-03-06T02:07:52.054Z</updated>
-        <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
-        <updated>2022-03-06T00:53:33.810Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
