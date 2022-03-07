@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-06T23:16:04.323Z</updated>
+    <updated>2022-03-07T00:55:11.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
+        <id>https://ahrefs.com/blog/martech-stack/</id>
+        <link href="https://ahrefs.com/blog/martech-stack/"/>
+        <updated>2022-03-07T00:54:31.873Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025년의 데이터 드리븐 회사 예측]]></title>
+        <id>https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-data-driven-enterprise-of-2025</id>
+        <link href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-data-driven-enterprise-of-2025"/>
+        <updated>2022-03-07T00:54:31.875Z</updated>
+        <content type="html"><![CDATA[(mckinsey.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
         <id>https://github.com/iamadamdev/bypass-paywalls-chrome</id>
@@ -104,6 +118,13 @@
         <content type="html"><![CDATA[(github.com/denoland)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wordle 잘하는 법]]></title>
+        <id>https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb</id>
+        <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
+        <updated>2022-03-03T00:56:24.444Z</updated>
+        <content type="html"><![CDATA[(github.com/norvig)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
         <id>https://www.theverge.com/22950371/valve-steam-deck-review</id>
         <link href="https://www.theverge.com/22950371/valve-steam-deck-review"/>
@@ -123,26 +144,5 @@
         <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
         <updated>2022-03-06T00:53:33.810Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle 잘하는 법]]></title>
-        <id>https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb</id>
-        <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
-        <updated>2022-03-03T00:56:24.444Z</updated>
-        <content type="html"><![CDATA[(github.com/norvig)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
-        <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
-        <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
-        <updated>2022-03-04T00:59:32.836Z</updated>
-        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
-        <id>https://monorepo.tools/</id>
-        <link href="https://monorepo.tools/"/>
-        <updated>2022-03-06T18:16:09.019Z</updated>
-        <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
 </feed>
