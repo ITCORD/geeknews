@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-07T11:13:30.415Z</updated>
+    <updated>2022-03-07T12:24:27.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -103,6 +103,13 @@
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
+        <id>https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world</id>
+        <link href="https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world"/>
+        <updated>2022-03-03T00:56:24.440Z</updated>
+        <content type="html"><![CDATA[(deepmind.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
         <id>https://www.theverge.com/22950371/valve-steam-deck-review</id>
         <link href="https://www.theverge.com/22950371/valve-steam-deck-review"/>
@@ -117,25 +124,18 @@
         <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
-        <updated>2022-03-07T03:15:08.472Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
-        <id>https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world</id>
-        <link href="https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world"/>
-        <updated>2022-03-03T00:56:24.440Z</updated>
-        <content type="html"><![CDATA[(deepmind.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
         <id>https://punkjazz.org/programming-time/</id>
         <link href="https://punkjazz.org/programming-time/"/>
         <updated>2022-03-02T00:56:16.385Z</updated>
         <content type="html"><![CDATA[(punkjazz.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
+        <updated>2022-03-07T03:15:08.472Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
