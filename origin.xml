@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-08T21:13:54.388Z</updated>
+    <updated>2022-03-08T22:15:46.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(platformers.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
+        <id>https://ahrefs.com/blog/martech-stack/</id>
+        <link href="https://ahrefs.com/blog/martech-stack/"/>
+        <updated>2022-03-07T00:54:31.873Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유니텔 서비스 종료 예정]]></title>
         <id>http://postbox.unitel.co.kr/unibbs&amp;ps_contents_seqno=20220304000005</id>
         <link href="http://postbox.unitel.co.kr/unibbs&amp;ps_contents_seqno=20220304000005"/>
@@ -60,13 +67,6 @@
         <link href="https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight"/>
         <updated>2022-03-08T00:54:02.585Z</updated>
         <content type="html"><![CDATA[(eff.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
-        <id>https://ahrefs.com/blog/martech-stack/</id>
-        <link href="https://ahrefs.com/blog/martech-stack/"/>
-        <updated>2022-03-07T00:54:31.873Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
