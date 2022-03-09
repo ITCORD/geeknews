@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-09T10:16:02.746Z</updated>
+    <updated>2022-03-09T11:13:00.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(blog.shiren.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
-        <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
-        <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
-        <updated>2022-03-07T02:12:05.212Z</updated>
-        <content type="html"><![CDATA[(onlineornot.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플, Mac Studio 와 Studio Display 공개]]></title>
         <id>https://www.apple.com/kr/newsroom/2022/03/apple-unveils-all-new-mac-studio-and-studio-display/</id>
         <link href="https://www.apple.com/kr/newsroom/2022/03/apple-unveils-all-new-mac-studio-and-studio-display/"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make - 노코드 자동화 도구]]></title>
-        <id>https://www.make.com/</id>
-        <link href="https://www.make.com/"/>
-        <updated>2022-03-08T00:54:02.575Z</updated>
-        <content type="html"><![CDATA[(make.com)]]></content>
+        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
+        <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
+        <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
+        <updated>2022-03-07T02:12:05.212Z</updated>
+        <content type="html"><![CDATA[(onlineornot.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[말이 되는 왓챠 2.0, 하지만 그것만으로 될까]]></title>
@@ -39,13 +32,6 @@
         <link href="https://ebadak.news/2022/03/07/why-watcha2_0-why/"/>
         <updated>2022-03-09T02:14:47.054Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
-        <id>http://www.graememcc.co.uk/micropolisJS/</id>
-        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
-        <updated>2022-03-08T02:09:27.574Z</updated>
-        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, M1 Ultra 칩 공개]]></title>
@@ -60,6 +46,20 @@
         <link href="https://www.apple.com/kr/newsroom/2022/03/apple-introduces-the-most-powerful-and-versatile-ipad-air-ever/"/>
         <updated>2022-03-09T00:56:36.751Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make - 노코드 자동화 도구]]></title>
+        <id>https://www.make.com/</id>
+        <link href="https://www.make.com/"/>
+        <updated>2022-03-08T00:54:02.575Z</updated>
+        <content type="html"><![CDATA[(make.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
+        <id>http://www.graememcc.co.uk/micropolisJS/</id>
+        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
+        <updated>2022-03-08T02:09:27.574Z</updated>
+        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Just Five - 하루를 시작하는 헤드라인 뉴스 다섯개]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
+        <id>https://github.com/iamadamdev/bypass-paywalls-chrome</id>
+        <link href="https://github.com/iamadamdev/bypass-paywalls-chrome"/>
+        <updated>2022-03-06T00:53:33.799Z</updated>
+        <content type="html"><![CDATA[(github.com/iamadamdev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유니텔 서비스 종료 예정]]></title>
         <id>http://postbox.unitel.co.kr/unibbs&amp;ps_contents_seqno=20220304000005</id>
         <link href="http://postbox.unitel.co.kr/unibbs&amp;ps_contents_seqno=20220304000005"/>
@@ -102,13 +109,6 @@
         <link href="https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight"/>
         <updated>2022-03-08T00:54:02.585Z</updated>
         <content type="html"><![CDATA[(eff.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
-        <id>https://github.com/iamadamdev/bypass-paywalls-chrome</id>
-        <link href="https://github.com/iamadamdev/bypass-paywalls-chrome"/>
-        <updated>2022-03-06T00:53:33.799Z</updated>
-        <content type="html"><![CDATA[(github.com/iamadamdev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
