@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-10T04:19:01.183Z</updated>
+    <updated>2022-03-10T05:14:25.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[트위터, Tor 용 Onion 서비스 시작]]></title>
-        <id>https://twitter.com/AlecMuffett/status/1501282223009542151</id>
-        <link href="https://twitter.com/AlecMuffett/status/1501282223009542151"/>
-        <updated>2022-03-10T00:57:50.078Z</updated>
-        <content type="html"><![CDATA[(twitter.com/AlecMuffett)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ROAPI - 정적 데이터에 대한 Read Only API 생성도구]]></title>
         <id>https://github.com/roapi/roapi</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[(github.com/roapi)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
-        <id>https://www.mandiant.com/company/press-release/mgc</id>
-        <link href="https://www.mandiant.com/company/press-release/mgc"/>
-        <updated>2022-03-10T02:22:05.317Z</updated>
-        <content type="html"><![CDATA[(mandiant.com)]]></content>
+        <title type="html"><![CDATA[트위터, Tor 용 Onion 서비스 시작]]></title>
+        <id>https://twitter.com/AlecMuffett/status/1501282223009542151</id>
+        <link href="https://twitter.com/AlecMuffett/status/1501282223009542151"/>
+        <updated>2022-03-10T00:57:50.078Z</updated>
+        <content type="html"><![CDATA[(twitter.com/AlecMuffett)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
@@ -32,6 +25,13 @@
         <link href="https://blog.shiren.dev/2022-03-07/"/>
         <updated>2022-03-09T10:15:20.128Z</updated>
         <content type="html"><![CDATA[(blog.shiren.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
+        <id>https://www.mandiant.com/company/press-release/mgc</id>
+        <link href="https://www.mandiant.com/company/press-release/mgc"/>
+        <updated>2022-03-10T02:22:05.317Z</updated>
+        <content type="html"><![CDATA[(mandiant.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 태블릿용 Android 12L 출시했으나 지원하는 기기는 미출시]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(browser.geekbench.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크롬의 새로운 속도 마일스톤]]></title>
-        <id>https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html</id>
-        <link href="https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html"/>
-        <updated>2022-03-10T00:57:50.082Z</updated>
-        <content type="html"><![CDATA[(blog.chromium.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
         <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
         <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[(onlineornot.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
-        <id>https://news.hada.io/topic?id=6112</id>
-        <link href="https://news.hada.io/topic?id=6112"/>
-        <updated>2022-03-09T13:19:19.321Z</updated>
-        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
+        <title type="html"><![CDATA[크롬의 새로운 속도 마일스톤]]></title>
+        <id>https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html</id>
+        <link href="https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html"/>
+        <updated>2022-03-10T00:57:50.082Z</updated>
+        <content type="html"><![CDATA[(blog.chromium.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Make - 노코드 자동화 도구]]></title>
@@ -74,6 +67,13 @@
         <link href="https://www.make.com/"/>
         <updated>2022-03-08T00:54:02.575Z</updated>
         <content type="html"><![CDATA[(make.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
+        <id>https://news.hada.io/topic?id=6112</id>
+        <link href="https://news.hada.io/topic?id=6112"/>
+        <updated>2022-03-09T13:19:19.321Z</updated>
+        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
