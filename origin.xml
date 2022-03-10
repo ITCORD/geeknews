@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-10T00:58:32.370Z</updated>
+    <updated>2022-03-10T02:22:42.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트위터, Tor 용 Onion 서비스 시작]]></title>
+        <id>https://twitter.com/AlecMuffett/status/1501282223009542151</id>
+        <link href="https://twitter.com/AlecMuffett/status/1501282223009542151"/>
+        <updated>2022-03-10T00:57:50.078Z</updated>
+        <content type="html"><![CDATA[(twitter.com/AlecMuffett)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
         <id>https://blog.shiren.dev/2022-03-07/</id>
@@ -13,11 +20,32 @@
         <content type="html"><![CDATA[(blog.shiren.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터, Tor 용 Onion 서비스 시작]]></title>
-        <id>https://twitter.com/AlecMuffett/status/1501282223009542151</id>
-        <link href="https://twitter.com/AlecMuffett/status/1501282223009542151"/>
-        <updated>2022-03-10T00:57:50.078Z</updated>
-        <content type="html"><![CDATA[(twitter.com/AlecMuffett)]]></content>
+        <title type="html"><![CDATA[구글, 태블릿용 Android 12L 출시했으나 지원하는 기기는 미출시]]></title>
+        <id>https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/</id>
+        <link href="https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/"/>
+        <updated>2022-03-10T02:22:05.317Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 Ultra Geekbench Score 1793/24055]]></title>
+        <id>https://browser.geekbench.com/v5/cpu/13330272</id>
+        <link href="https://browser.geekbench.com/v5/cpu/13330272"/>
+        <updated>2022-03-10T02:22:05.317Z</updated>
+        <content type="html"><![CDATA[(browser.geekbench.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
+        <id>https://www.mandiant.com/company/press-release/mgc</id>
+        <link href="https://www.mandiant.com/company/press-release/mgc"/>
+        <updated>2022-03-10T02:22:05.317Z</updated>
+        <content type="html"><![CDATA[(mandiant.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROAPI - 정적 데이터에 대한 Read Only API 생성도구]]></title>
+        <id>https://github.com/roapi/roapi</id>
+        <link href="https://github.com/roapi/roapi"/>
+        <updated>2022-03-10T02:22:05.318Z</updated>
+        <content type="html"><![CDATA[(github.com/roapi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크롬의 새로운 속도 마일스톤]]></title>
@@ -62,18 +90,18 @@
         <content type="html"><![CDATA[(justfive.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
-        <id>http://www.graememcc.co.uk/micropolisJS/</id>
-        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
-        <updated>2022-03-08T02:09:27.574Z</updated>
-        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
         <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
         <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
         <updated>2022-03-07T02:12:05.215Z</updated>
         <content type="html"><![CDATA[(adam-p.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
+        <id>http://www.graememcc.co.uk/micropolisJS/</id>
+        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
+        <updated>2022-03-08T02:09:27.574Z</updated>
+        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[말이 되는 왓챠 2.0, 하지만 그것만으로 될까]]></title>
@@ -104,13 +132,6 @@
         <content type="html"><![CDATA[(platformers.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
-        <id>https://ahrefs.com/blog/martech-stack/</id>
-        <link href="https://ahrefs.com/blog/martech-stack/"/>
-        <updated>2022-03-07T00:54:31.873Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
         <id>https://github.com/iamadamdev/bypass-paywalls-chrome</id>
         <link href="https://github.com/iamadamdev/bypass-paywalls-chrome"/>
@@ -118,30 +139,10 @@
         <content type="html"><![CDATA[(github.com/iamadamdev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유니텔 서비스 종료 예정]]></title>
-        <id>http://postbox.unitel.co.kr/unibbs&amp;ps_contents_seqno=20220304000005</id>
-        <link href="http://postbox.unitel.co.kr/unibbs&amp;ps_contents_seqno=20220304000005"/>
-        <updated>2022-03-08T00:54:02.574Z</updated>
-        <content type="html"><![CDATA[(postbox.unitel.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youtube-dl을 셧다운 하려는 시도가 계속 되고 있음]]></title>
-        <id>https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight</id>
-        <link href="https://www.eff.org/deeplinks/2022/03/campaign-shut-down-crucial-documentary-tool-youtube-dl-continues-and-so-does-fight"/>
-        <updated>2022-03-08T00:54:02.585Z</updated>
-        <content type="html"><![CDATA[(eff.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
-        <id>https://news.hada.io/topic?id=6100</id>
-        <link href="https://news.hada.io/topic?id=6100"/>
-        <updated>2022-03-07T08:17:33.343Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제은행간통신협회(SWIFT) 결제망 아키텍처]]></title>
-        <id>https://twitter.com/alexxubyte/status/1497253012665896962</id>
-        <link href="https://twitter.com/alexxubyte/status/1497253012665896962"/>
-        <updated>2022-03-05T12:20:50.739Z</updated>
-        <content type="html"><![CDATA[(twitter.com/alexxubyte)]]></content>
+        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
+        <id>https://ahrefs.com/blog/martech-stack/</id>
+        <link href="https://ahrefs.com/blog/martech-stack/"/>
+        <updated>2022-03-07T00:54:31.873Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
 </feed>
