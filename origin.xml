@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-10T05:14:25.060Z</updated>
+    <updated>2022-03-10T06:18:07.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(mandiant.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
+        <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
+        <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
+        <updated>2022-03-07T02:12:05.212Z</updated>
+        <content type="html"><![CDATA[(onlineornot.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글, 태블릿용 Android 12L 출시했으나 지원하는 기기는 미출시]]></title>
         <id>https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/</id>
         <link href="https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/"/>
@@ -46,13 +53,6 @@
         <link href="https://browser.geekbench.com/v5/cpu/13330272"/>
         <updated>2022-03-10T02:22:05.317Z</updated>
         <content type="html"><![CDATA[(browser.geekbench.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
-        <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
-        <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
-        <updated>2022-03-07T02:12:05.212Z</updated>
-        <content type="html"><![CDATA[(onlineornot.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크롬의 새로운 속도 마일스톤]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(make.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
-        <id>https://news.hada.io/topic?id=6112</id>
-        <link href="https://news.hada.io/topic?id=6112"/>
-        <updated>2022-03-09T13:19:19.321Z</updated>
-        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
         <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
         <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
         <updated>2022-03-07T02:12:05.215Z</updated>
         <content type="html"><![CDATA[(adam-p.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
+        <id>https://news.hada.io/topic?id=6112</id>
+        <link href="https://news.hada.io/topic?id=6112"/>
+        <updated>2022-03-09T13:19:19.321Z</updated>
+        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, Mac Studio 와 Studio Display 공개]]></title>
