@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-10T14:14:43.641Z</updated>
+    <updated>2022-03-10T15:21:20.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[말이 되는 왓챠 2.0, 하지만 그것만으로 될까]]></title>
-        <id>https://ebadak.news/2022/03/07/why-watcha2_0-why/</id>
-        <link href="https://ebadak.news/2022/03/07/why-watcha2_0-why/"/>
-        <updated>2022-03-09T02:14:47.054Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
         <id>https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/</id>
         <link href="https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/"/>
@@ -111,11 +104,32 @@
         <content type="html"><![CDATA[(platformers.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[말이 되는 왓챠 2.0, 하지만 그것만으로 될까]]></title>
+        <id>https://ebadak.news/2022/03/07/why-watcha2_0-why/</id>
+        <link href="https://ebadak.news/2022/03/07/why-watcha2_0-why/"/>
+        <updated>2022-03-09T02:14:47.054Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, Mac Studio 와 Studio Display 공개]]></title>
         <id>https://www.apple.com/kr/newsroom/2022/03/apple-unveils-all-new-mac-studio-and-studio-display/</id>
         <link href="https://www.apple.com/kr/newsroom/2022/03/apple-unveils-all-new-mac-studio-and-studio-display/"/>
         <updated>2022-03-09T00:56:36.725Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
+        <id>https://ahrefs.com/blog/martech-stack/</id>
+        <link href="https://ahrefs.com/blog/martech-stack/"/>
+        <updated>2022-03-07T00:54:31.873Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
+        <id>https://github.com/iamadamdev/bypass-paywalls-chrome</id>
+        <link href="https://github.com/iamadamdev/bypass-paywalls-chrome"/>
+        <updated>2022-03-06T00:53:33.799Z</updated>
+        <content type="html"><![CDATA[(github.com/iamadamdev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, M1 Ultra 칩 공개]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.apple.com/kr/newsroom/2022/03/apple-introduces-the-most-powerful-and-versatile-ipad-air-ever/"/>
         <updated>2022-03-09T00:56:36.751Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
-        <id>https://github.com/iamadamdev/bypass-paywalls-chrome</id>
-        <link href="https://github.com/iamadamdev/bypass-paywalls-chrome"/>
-        <updated>2022-03-06T00:53:33.799Z</updated>
-        <content type="html"><![CDATA[(github.com/iamadamdev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
-        <id>https://ahrefs.com/blog/martech-stack/</id>
-        <link href="https://ahrefs.com/blog/martech-stack/"/>
-        <updated>2022-03-07T00:54:31.873Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
 </feed>
