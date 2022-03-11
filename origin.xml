@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-11T02:18:51.482Z</updated>
+    <updated>2022-03-11T03:16:56.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(r.bluethl.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
-        <id>https://alecmuffett.com/article/16007</id>
-        <link href="https://alecmuffett.com/article/16007"/>
-        <updated>2022-03-11T02:18:12.941Z</updated>
-        <content type="html"><![CDATA[(alecmuffett.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
         <id>https://blog.lizzie.io/linux-containers-in-500-loc.html</id>
         <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[듀얼스크린 과 폴더블용 웹 레이아웃 만들기]]></title>
-        <id>https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
-        <link href="https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
-        <updated>2022-03-11T02:18:12.944Z</updated>
-        <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
+        <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
+        <id>https://alecmuffett.com/article/16007</id>
+        <link href="https://alecmuffett.com/article/16007"/>
+        <updated>2022-03-11T02:18:12.941Z</updated>
+        <content type="html"><![CDATA[(alecmuffett.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
@@ -39,6 +32,13 @@
         <link href="https://github.com/YaoApp/yao"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[듀얼스크린 과 폴더블용 웹 레이아웃 만들기]]></title>
+        <id>https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
+        <link href="https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
+        <updated>2022-03-11T02:18:12.944Z</updated>
+        <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(mandiant.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
-        <id>https://news.hada.io/topic?id=6112</id>
-        <link href="https://news.hada.io/topic?id=6112"/>
-        <updated>2022-03-09T13:19:19.321Z</updated>
-        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
         <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
         <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
         <updated>2022-03-07T02:12:05.215Z</updated>
         <content type="html"><![CDATA[(adam-p.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
+        <id>https://news.hada.io/topic?id=6112</id>
+        <link href="https://news.hada.io/topic?id=6112"/>
+        <updated>2022-03-09T13:19:19.321Z</updated>
+        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Make - 노코드 자동화 도구]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[말이 되는 왓챠 2.0, 하지만 그것만으로 될까]]></title>
-        <id>https://ebadak.news/2022/03/07/why-watcha2_0-why/</id>
-        <link href="https://ebadak.news/2022/03/07/why-watcha2_0-why/"/>
-        <updated>2022-03-09T02:14:47.054Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
+        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
+        <id>https://ahrefs.com/blog/martech-stack/</id>
+        <link href="https://ahrefs.com/blog/martech-stack/"/>
+        <updated>2022-03-11T03:16:11.148Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
 </feed>
