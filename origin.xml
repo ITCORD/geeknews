@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-11T21:14:00.030Z</updated>
+    <updated>2022-03-11T22:16:16.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
+        <id>https://alecmuffett.com/article/16007</id>
+        <link href="https://alecmuffett.com/article/16007"/>
+        <updated>2022-03-11T02:18:12.941Z</updated>
+        <content type="html"><![CDATA[(alecmuffett.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
         <id>https://blog.lizzie.io/linux-containers-in-500-loc.html</id>
         <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
@@ -32,13 +39,6 @@
         <link href="https://github.com/YaoApp/yao"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
-        <id>https://alecmuffett.com/article/16007</id>
-        <link href="https://alecmuffett.com/article/16007"/>
-        <updated>2022-03-11T02:18:12.941Z</updated>
-        <content type="html"><![CDATA[(alecmuffett.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듀얼스크린 과 폴더블용 웹 레이아웃 만들기]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
-        <id>https://news.hada.io/topic?id=6112</id>
-        <link href="https://news.hada.io/topic?id=6112"/>
-        <updated>2022-03-09T13:19:19.321Z</updated>
-        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
         <id>https://ahrefs.com/blog/martech-stack/</id>
         <link href="https://ahrefs.com/blog/martech-stack/"/>
         <updated>2022-03-11T09:15:09.995Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
+        <id>https://news.hada.io/topic?id=6112</id>
+        <link href="https://news.hada.io/topic?id=6112"/>
+        <updated>2022-03-09T13:19:19.321Z</updated>
+        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
