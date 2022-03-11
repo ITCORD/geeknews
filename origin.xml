@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-11T07:15:18.801Z</updated>
+    <updated>2022-03-11T08:17:55.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
-        <id>https://github.com/YaoApp/yao</id>
-        <link href="https://github.com/YaoApp/yao"/>
-        <updated>2022-03-11T01:00:38.195Z</updated>
-        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
         <id>https://alecmuffett.com/article/16007</id>
         <link href="https://alecmuffett.com/article/16007"/>
         <updated>2022-03-11T02:18:12.941Z</updated>
         <content type="html"><![CDATA[(alecmuffett.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
+        <id>https://github.com/YaoApp/yao</id>
+        <link href="https://github.com/YaoApp/yao"/>
+        <updated>2022-03-11T01:00:38.195Z</updated>
+        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/roapi)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터, Tor 용 Onion 서비스 시작]]></title>
-        <id>https://twitter.com/AlecMuffett/status/1501282223009542151</id>
-        <link href="https://twitter.com/AlecMuffett/status/1501282223009542151"/>
-        <updated>2022-03-10T00:57:50.078Z</updated>
-        <content type="html"><![CDATA[(twitter.com/AlecMuffett)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
         <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
         <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
         <updated>2022-03-07T02:12:05.212Z</updated>
         <content type="html"><![CDATA[(onlineornot.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터, Tor 용 Onion 서비스 시작]]></title>
+        <id>https://twitter.com/AlecMuffett/status/1501282223009542151</id>
+        <link href="https://twitter.com/AlecMuffett/status/1501282223009542151"/>
+        <updated>2022-03-10T00:57:50.078Z</updated>
+        <content type="html"><![CDATA[(twitter.com/AlecMuffett)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(platformers.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
+        <id>http://www.graememcc.co.uk/micropolisJS/</id>
+        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
+        <updated>2022-03-08T02:09:27.574Z</updated>
+        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글, 태블릿용 Android 12L 출시했으나 지원하는 기기는 미출시]]></title>
         <id>https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/</id>
         <link href="https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/"/>
@@ -130,13 +137,6 @@
         <link href="https://browser.geekbench.com/v5/cpu/13330272"/>
         <updated>2022-03-10T02:22:05.317Z</updated>
         <content type="html"><![CDATA[(browser.geekbench.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
-        <id>http://www.graememcc.co.uk/micropolisJS/</id>
-        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
-        <updated>2022-03-08T02:09:27.574Z</updated>
-        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크롬의 새로운 속도 마일스톤]]></title>
