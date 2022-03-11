@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-11T06:19:34.429Z</updated>
+    <updated>2022-03-11T07:15:18.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://alecmuffett.com/article/16007"/>
         <updated>2022-03-11T02:18:12.941Z</updated>
         <content type="html"><![CDATA[(alecmuffett.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
+        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
+        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
+        <updated>2022-03-11T07:14:31.418Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듀얼스크린 과 폴더블용 웹 레이아웃 만들기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html"/>
         <updated>2022-03-10T00:57:50.082Z</updated>
         <content type="html"><![CDATA[(blog.chromium.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
-        <id>https://ahrefs.com/blog/martech-stack/</id>
-        <link href="https://ahrefs.com/blog/martech-stack/"/>
-        <updated>2022-03-11T03:16:11.148Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
 </feed>
