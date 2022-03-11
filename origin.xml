@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-11T09:15:53.888Z</updated>
+    <updated>2022-03-11T10:16:37.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://r.bluethl.net/how-to-design-better-apis"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(r.bluethl.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
+        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
+        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
+        <updated>2022-03-11T07:14:31.418Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
@@ -32,13 +39,6 @@
         <link href="https://alecmuffett.com/article/16007"/>
         <updated>2022-03-11T02:18:12.941Z</updated>
         <content type="html"><![CDATA[(alecmuffett.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
-        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
-        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
-        <updated>2022-03-11T07:14:31.418Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듀얼스크린 과 폴더블용 웹 레이아웃 만들기]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(twitter.com/AlecMuffett)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
-        <id>https://www.mandiant.com/company/press-release/mgc</id>
-        <link href="https://www.mandiant.com/company/press-release/mgc"/>
-        <updated>2022-03-10T02:22:05.317Z</updated>
-        <content type="html"><![CDATA[(mandiant.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Make - 노코드 자동화 도구]]></title>
         <id>https://www.make.com/</id>
         <link href="https://www.make.com/"/>
         <updated>2022-03-08T00:54:02.575Z</updated>
         <content type="html"><![CDATA[(make.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
+        <id>https://www.mandiant.com/company/press-release/mgc</id>
+        <link href="https://www.mandiant.com/company/press-release/mgc"/>
+        <updated>2022-03-10T02:22:05.317Z</updated>
+        <content type="html"><![CDATA[(mandiant.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(adam-p.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
-        <id>https://news.hada.io/topic?id=6112</id>
-        <link href="https://news.hada.io/topic?id=6112"/>
-        <updated>2022-03-09T13:19:19.321Z</updated>
-        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Just Five - 하루를 시작하는 헤드라인 뉴스 다섯개]]></title>
         <id>https://justfive.news/</id>
         <link href="https://justfive.news/"/>
         <updated>2022-03-08T02:09:27.574Z</updated>
         <content type="html"><![CDATA[(justfive.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
+        <id>https://news.hada.io/topic?id=6112</id>
+        <link href="https://news.hada.io/topic?id=6112"/>
+        <updated>2022-03-09T13:19:19.321Z</updated>
+        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
+        <id>https://ahrefs.com/blog/martech-stack/</id>
+        <link href="https://ahrefs.com/blog/martech-stack/"/>
+        <updated>2022-03-11T09:15:09.995Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글, 태블릿용 Android 12L 출시했으나 지원하는 기기는 미출시]]></title>
         <id>https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/</id>
         <link href="https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/"/>
@@ -137,12 +144,5 @@
         <link href="https://browser.geekbench.com/v5/cpu/13330272"/>
         <updated>2022-03-10T02:22:05.317Z</updated>
         <content type="html"><![CDATA[(browser.geekbench.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
-        <id>https://ahrefs.com/blog/martech-stack/</id>
-        <link href="https://ahrefs.com/blog/martech-stack/"/>
-        <updated>2022-03-11T09:15:09.995Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
 </feed>
