@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-12T02:01:51.182Z</updated>
+    <updated>2022-03-12T02:39:54.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
-        <id>https://r.bluethl.net/how-to-design-better-apis</id>
-        <link href="https://r.bluethl.net/how-to-design-better-apis"/>
-        <updated>2022-03-11T01:00:38.195Z</updated>
-        <content type="html"><![CDATA[(r.bluethl.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
         <id>https://on.substack.com/p/substackapp</id>
         <link href="https://on.substack.com/p/substackapp"/>
         <updated>2022-03-12T00:52:35.693Z</updated>
         <content type="html"><![CDATA[(on.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
+        <id>https://r.bluethl.net/how-to-design-better-apis</id>
+        <link href="https://r.bluethl.net/how-to-design-better-apis"/>
+        <updated>2022-03-11T01:00:38.195Z</updated>
+        <content type="html"><![CDATA[(r.bluethl.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
