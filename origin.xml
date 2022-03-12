@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-12T04:19:03.988Z</updated>
+    <updated>2022-03-12T05:13:45.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(a11y-automation.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
-        <id>https://on.substack.com/p/substackapp</id>
-        <link href="https://on.substack.com/p/substackapp"/>
-        <updated>2022-03-12T00:52:35.693Z</updated>
-        <content type="html"><![CDATA[(on.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
         <id>https://r.bluethl.net/how-to-design-better-apis</id>
         <link href="https://r.bluethl.net/how-to-design-better-apis"/>
@@ -34,11 +27,25 @@
         <content type="html"><![CDATA[(r.bluethl.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
+        <id>https://on.substack.com/p/substackapp</id>
+        <link href="https://on.substack.com/p/substackapp"/>
+        <updated>2022-03-12T00:52:35.693Z</updated>
+        <content type="html"><![CDATA[(on.substack.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
         <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
         <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
         <updated>2022-03-11T07:14:31.418Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
+        <id>https://github.com/YaoApp/yao</id>
+        <link href="https://github.com/YaoApp/yao"/>
+        <updated>2022-03-11T01:00:38.195Z</updated>
+        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
@@ -53,13 +60,6 @@
         <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
-        <id>https://github.com/YaoApp/yao</id>
-        <link href="https://github.com/YaoApp/yao"/>
-        <updated>2022-03-11T01:00:38.195Z</updated>
-        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(platformers.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
-        <id>https://www.mandiant.com/company/press-release/mgc</id>
-        <link href="https://www.mandiant.com/company/press-release/mgc"/>
-        <updated>2022-03-10T02:22:05.317Z</updated>
-        <content type="html"><![CDATA[(mandiant.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
         <id>https://ahrefs.com/blog/martech-stack/</id>
         <link href="https://ahrefs.com/blog/martech-stack/"/>
@@ -144,5 +137,12 @@
         <link href="http://www.graememcc.co.uk/micropolisJS/"/>
         <updated>2022-03-08T02:09:27.574Z</updated>
         <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 사이버 보안회사 Mandiant를 6.67조원에 인수]]></title>
+        <id>https://www.mandiant.com/company/press-release/mgc</id>
+        <link href="https://www.mandiant.com/company/press-release/mgc"/>
+        <updated>2022-03-10T02:22:05.317Z</updated>
+        <content type="html"><![CDATA[(mandiant.com)]]></content>
     </entry>
 </feed>
