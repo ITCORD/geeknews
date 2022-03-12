@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-12T16:18:41.677Z</updated>
+    <updated>2022-03-12T17:14:44.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(a11y-automation.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
-        <id>https://cxx.rs/</id>
-        <link href="https://cxx.rs/"/>
-        <updated>2022-03-12T02:01:08.355Z</updated>
-        <content type="html"><![CDATA[(cxx.rs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
         <id>https://r.bluethl.net/how-to-design-better-apis</id>
         <link href="https://r.bluethl.net/how-to-design-better-apis"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(r.bluethl.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
+        <id>https://cxx.rs/</id>
+        <link href="https://cxx.rs/"/>
+        <updated>2022-03-12T02:01:08.355Z</updated>
+        <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(alecmuffett.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
-        <id>https://on.substack.com/p/substackapp</id>
-        <link href="https://on.substack.com/p/substackapp"/>
-        <updated>2022-03-12T00:52:35.693Z</updated>
-        <content type="html"><![CDATA[(on.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
         <id>https://blog.lizzie.io/linux-containers-in-500-loc.html</id>
         <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
+        <id>https://on.substack.com/p/substackapp</id>
+        <link href="https://on.substack.com/p/substackapp"/>
+        <updated>2022-03-12T00:52:35.693Z</updated>
+        <content type="html"><![CDATA[(on.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(onlineornot.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROAPI - 정적 데이터에 대한 Read Only API 생성도구]]></title>
-        <id>https://github.com/roapi/roapi</id>
-        <link href="https://github.com/roapi/roapi"/>
-        <updated>2022-03-10T02:22:05.318Z</updated>
-        <content type="html"><![CDATA[(github.com/roapi)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[듀얼스크린 과 폴더블용 웹 레이아웃 만들기]]></title>
         <id>https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
         <link href="https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
         <updated>2022-03-11T02:18:12.944Z</updated>
         <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROAPI - 정적 데이터에 대한 Read Only API 생성도구]]></title>
+        <id>https://github.com/roapi/roapi</id>
+        <link href="https://github.com/roapi/roapi"/>
+        <updated>2022-03-10T02:22:05.318Z</updated>
+        <content type="html"><![CDATA[(github.com/roapi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트위터, Tor 용 Onion 서비스 시작]]></title>
@@ -132,17 +132,16 @@
         <content type="html"><![CDATA[(platformers.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6119</id>
+        <link href="https://news.hada.io/topic?id=6119"/>
+        <updated>2022-03-12T17:14:02.155Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
         <id>https://ahrefs.com/blog/martech-stack/</id>
         <link href="https://ahrefs.com/blog/martech-stack/"/>
         <updated>2022-03-11T09:15:09.995Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
-        <id>http://www.graememcc.co.uk/micropolisJS/</id>
-        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
-        <updated>2022-03-08T02:09:27.574Z</updated>
-        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
 </feed>
