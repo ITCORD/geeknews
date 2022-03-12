@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-12T19:12:20.912Z</updated>
+    <updated>2022-03-12T20:16:30.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(blog.shiren.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
-        <id>https://on.substack.com/p/substackapp</id>
-        <link href="https://on.substack.com/p/substackapp"/>
-        <updated>2022-03-12T00:52:35.693Z</updated>
-        <content type="html"><![CDATA[(on.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
         <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
         <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
         <updated>2022-03-07T02:12:05.212Z</updated>
         <content type="html"><![CDATA[(onlineornot.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
+        <id>https://on.substack.com/p/substackapp</id>
+        <link href="https://on.substack.com/p/substackapp"/>
+        <updated>2022-03-12T00:52:35.693Z</updated>
+        <content type="html"><![CDATA[(on.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듀얼스크린 과 폴더블용 웹 레이아웃 만들기]]></title>
@@ -132,16 +132,16 @@
         <content type="html"><![CDATA[(platformers.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6119</id>
-        <link href="https://news.hada.io/topic?id=6119"/>
-        <updated>2022-03-12T17:14:02.155Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
         <id>https://ahrefs.com/blog/martech-stack/</id>
         <link href="https://ahrefs.com/blog/martech-stack/"/>
         <updated>2022-03-11T09:15:09.995Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6119</id>
+        <link href="https://news.hada.io/topic?id=6119"/>
+        <updated>2022-03-12T17:14:02.155Z</updated>
     </entry>
 </feed>
