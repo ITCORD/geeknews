@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-12T00:53:16.580Z</updated>
+    <updated>2022-03-12T02:01:51.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A11y Automation Tracker]]></title>
+        <id>https://a11y-automation.dev/</id>
+        <link href="https://a11y-automation.dev/"/>
+        <updated>2022-03-12T02:01:08.355Z</updated>
+        <content type="html"><![CDATA[(a11y-automation.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
+        <id>https://cxx.rs/</id>
+        <link href="https://cxx.rs/"/>
+        <updated>2022-03-12T02:01:08.355Z</updated>
+        <content type="html"><![CDATA[(cxx.rs)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
         <id>https://r.bluethl.net/how-to-design-better-apis</id>
@@ -130,19 +144,5 @@
         <link href="https://ahrefs.com/blog/martech-stack/"/>
         <updated>2022-03-11T09:15:09.995Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
-        <id>https://news.hada.io/topic?id=6112</id>
-        <link href="https://news.hada.io/topic?id=6112"/>
-        <updated>2022-03-09T13:19:19.321Z</updated>
-        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
-        <id>https://github.com/iamadamdev/bypass-paywalls-chrome</id>
-        <link href="https://github.com/iamadamdev/bypass-paywalls-chrome"/>
-        <updated>2022-03-11T15:15:34.532Z</updated>
-        <content type="html"><![CDATA[(github.com/iamadamdev)]]></content>
     </entry>
 </feed>
