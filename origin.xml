@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-13T16:20:17.773Z</updated>
+    <updated>2022-03-13T17:15:31.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r"/>
         <updated>2022-03-13T06:20:10.634Z</updated>
         <content type="html"><![CDATA[(theupheaval.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: P2P Remote Desktop - Open Source - alternative to TeamViewer - AnyDesk ...]]></title>
+        <id>https://news.hada.io/topic?id=6136</id>
+        <link href="https://news.hada.io/topic?id=6136"/>
+        <updated>2022-03-13T17:14:52.253Z</updated>
+        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
+        <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
+        <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
+        <updated>2022-03-12T08:16:24.495Z</updated>
+        <content type="html"><![CDATA[(nautil.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k]]></title>
@@ -25,13 +39,6 @@
         <link href="https://news.hada.io/topic?id=6134"/>
         <updated>2022-03-13T16:19:39.058Z</updated>
         <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
-        <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
-        <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
-        <updated>2022-03-12T08:16:24.495Z</updated>
-        <content type="html"><![CDATA[(nautil.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://on.substack.com/p/substackapp"/>
         <updated>2022-03-12T00:52:35.693Z</updated>
         <content type="html"><![CDATA[(on.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
-        <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
-        <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
-        <updated>2022-03-07T02:12:05.215Z</updated>
-        <content type="html"><![CDATA[(adam-p.ca)]]></content>
     </entry>
 </feed>
