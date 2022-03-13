@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-13T20:15:49.528Z</updated>
+    <updated>2022-03-13T21:12:43.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(theupheaval.substack.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k]]></title>
+        <id>https://news.hada.io/topic?id=6135</id>
+        <link href="https://news.hada.io/topic?id=6135"/>
+        <updated>2022-03-13T16:19:39.058Z</updated>
+        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
         <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
         <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
         <updated>2022-03-12T08:16:24.495Z</updated>
         <content type="html"><![CDATA[(nautil.us)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: P2P Remote Desktop - Open Source - alternative to TeamViewer - AnyDesk ...]]></title>
-        <id>https://news.hada.io/topic?id=6136</id>
-        <link href="https://news.hada.io/topic?id=6136"/>
-        <updated>2022-03-13T17:14:52.253Z</updated>
-        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
@@ -34,17 +34,10 @@
         <content type="html"><![CDATA[(github.com/bradleyboy)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k]]></title>
-        <id>https://news.hada.io/topic?id=6135</id>
-        <link href="https://news.hada.io/topic?id=6135"/>
-        <updated>2022-03-13T16:19:39.058Z</updated>
-        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps]]></title>
-        <id>https://news.hada.io/topic?id=6134</id>
-        <link href="https://news.hada.io/topic?id=6134"/>
-        <updated>2022-03-13T16:19:39.058Z</updated>
+        <title type="html"><![CDATA[Show GN: P2P Remote Desktop - Open Source - alternative to TeamViewer - AnyDesk ...]]></title>
+        <id>https://news.hada.io/topic?id=6136</id>
+        <link href="https://news.hada.io/topic?id=6136"/>
+        <updated>2022-03-13T17:14:52.253Z</updated>
         <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
     <entry>
@@ -53,6 +46,13 @@
         <link href="https://github.com/gzuidhof/tygo"/>
         <updated>2022-03-13T00:53:50.271Z</updated>
         <content type="html"><![CDATA[(github.com/gzuidhof)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps]]></title>
+        <id>https://news.hada.io/topic?id=6134</id>
+        <link href="https://news.hada.io/topic?id=6134"/>
+        <updated>2022-03-13T16:19:39.058Z</updated>
+        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(blog.twitter.com/en_us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
-        <id>https://cxx.rs/</id>
-        <link href="https://cxx.rs/"/>
-        <updated>2022-03-12T02:01:08.355Z</updated>
-        <content type="html"><![CDATA[(cxx.rs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
         <id>https://github.com/YaoApp/yao</id>
         <link href="https://github.com/YaoApp/yao"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
+        <id>https://cxx.rs/</id>
+        <link href="https://cxx.rs/"/>
+        <updated>2022-03-12T02:01:08.355Z</updated>
+        <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
-        <id>https://blog.lizzie.io/linux-containers-in-500-loc.html</id>
-        <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
-        <updated>2022-03-11T01:00:38.195Z</updated>
-        <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
         <id>https://blog.shiren.dev/2022-03-07/</id>
         <link href="https://blog.shiren.dev/2022-03-07/"/>
         <updated>2022-03-09T10:15:20.128Z</updated>
         <content type="html"><![CDATA[(blog.shiren.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
+        <id>https://blog.lizzie.io/linux-containers-in-500-loc.html</id>
+        <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
+        <updated>2022-03-11T01:00:38.195Z</updated>
+        <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
