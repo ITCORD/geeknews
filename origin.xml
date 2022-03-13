@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-13T00:54:31.408Z</updated>
+    <updated>2022-03-13T02:04:56.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
-        <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
-        <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
-        <updated>2022-03-12T08:16:24.495Z</updated>
-        <content type="html"><![CDATA[(nautil.us)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Tygo - Go 소스에서 Typescript 타입들 생성하는 도구]]></title>
         <id>https://github.com/gzuidhof/tygo</id>
@@ -20,18 +13,25 @@
         <content type="html"><![CDATA[(github.com/gzuidhof)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter, Shops 기능 공개]]></title>
-        <id>https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop</id>
-        <link href="https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop"/>
-        <updated>2022-03-13T00:53:50.272Z</updated>
-        <content type="html"><![CDATA[(blog.twitter.com/en_us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
         <id>https://github.com/bradleyboy/tuql</id>
         <link href="https://github.com/bradleyboy/tuql"/>
         <updated>2022-03-13T00:53:50.301Z</updated>
         <content type="html"><![CDATA[(github.com/bradleyboy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
+        <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
+        <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
+        <updated>2022-03-12T08:16:24.495Z</updated>
+        <content type="html"><![CDATA[(nautil.us)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter, Shops 기능 공개]]></title>
+        <id>https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop</id>
+        <link href="https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop"/>
+        <updated>2022-03-13T00:53:50.272Z</updated>
+        <content type="html"><![CDATA[(blog.twitter.com/en_us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
-        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
-        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
-        <updated>2022-03-11T07:14:31.418Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
         <id>https://github.com/YaoApp/yao</id>
         <link href="https://github.com/YaoApp/yao"/>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
-        <id>https://alecmuffett.com/article/16007</id>
-        <link href="https://alecmuffett.com/article/16007"/>
-        <updated>2022-03-11T02:18:12.941Z</updated>
-        <content type="html"><![CDATA[(alecmuffett.com)]]></content>
+        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
+        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
+        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
+        <updated>2022-03-11T07:14:31.418Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
@@ -81,6 +74,13 @@
         <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
+        <id>https://alecmuffett.com/article/16007</id>
+        <link href="https://alecmuffett.com/article/16007"/>
+        <updated>2022-03-11T02:18:12.941Z</updated>
+        <content type="html"><![CDATA[(alecmuffett.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(make.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Just Five - 하루를 시작하는 헤드라인 뉴스 다섯개]]></title>
-        <id>https://justfive.news/</id>
-        <link href="https://justfive.news/"/>
-        <updated>2022-03-08T02:09:27.574Z</updated>
-        <content type="html"><![CDATA[(justfive.news)]]></content>
+        <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
+        <id>https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/</id>
+        <link href="https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/"/>
+        <updated>2022-03-13T02:04:20.126Z</updated>
+        <content type="html"><![CDATA[(platformers.dev)]]></content>
     </entry>
 </feed>
