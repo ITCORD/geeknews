@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-13T21:12:43.828Z</updated>
+    <updated>2022-03-13T22:14:19.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
-        <id>https://cxx.rs/</id>
-        <link href="https://cxx.rs/"/>
-        <updated>2022-03-12T02:01:08.355Z</updated>
-        <content type="html"><![CDATA[(cxx.rs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
         <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
         <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
         <updated>2022-03-07T02:12:05.212Z</updated>
         <content type="html"><![CDATA[(onlineornot.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
+        <id>https://cxx.rs/</id>
+        <link href="https://cxx.rs/"/>
+        <updated>2022-03-12T02:01:08.355Z</updated>
+        <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
