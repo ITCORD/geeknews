@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-13T03:16:16.850Z</updated>
+    <updated>2022-03-13T04:19:27.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
-        <id>https://github.com/YaoApp/yao</id>
-        <link href="https://github.com/YaoApp/yao"/>
-        <updated>2022-03-11T01:00:38.195Z</updated>
-        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
         <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
         <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
         <updated>2022-03-11T07:14:31.418Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
+        <id>https://github.com/YaoApp/yao</id>
+        <link href="https://github.com/YaoApp/yao"/>
+        <updated>2022-03-11T01:00:38.195Z</updated>
+        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(onlineornot.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
-        <id>https://on.substack.com/p/substackapp</id>
-        <link href="https://on.substack.com/p/substackapp"/>
-        <updated>2022-03-12T00:52:35.693Z</updated>
-        <content type="html"><![CDATA[(on.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[듀얼스크린 과 폴더블용 웹 레이아웃 만들기]]></title>
         <id>https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
         <link href="https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
         <updated>2022-03-11T02:18:12.944Z</updated>
         <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack iOS앱 공개]]></title>
+        <id>https://on.substack.com/p/substackapp</id>
+        <link href="https://on.substack.com/p/substackapp"/>
+        <updated>2022-03-12T00:52:35.693Z</updated>
+        <content type="html"><![CDATA[(on.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ROAPI - 정적 데이터에 대한 Read Only API 생성도구]]></title>
