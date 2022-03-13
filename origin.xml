@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-12T23:15:24.404Z</updated>
+    <updated>2022-03-13T00:54:31.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
         <updated>2022-03-12T08:16:24.495Z</updated>
         <content type="html"><![CDATA[(nautil.us)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tygo - Go 소스에서 Typescript 타입들 생성하는 도구]]></title>
+        <id>https://github.com/gzuidhof/tygo</id>
+        <link href="https://github.com/gzuidhof/tygo"/>
+        <updated>2022-03-13T00:53:50.271Z</updated>
+        <content type="html"><![CDATA[(github.com/gzuidhof)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter, Shops 기능 공개]]></title>
+        <id>https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop</id>
+        <link href="https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop"/>
+        <updated>2022-03-13T00:53:50.272Z</updated>
+        <content type="html"><![CDATA[(blog.twitter.com/en_us)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
+        <id>https://github.com/bradleyboy/tuql</id>
+        <link href="https://github.com/bradleyboy/tuql"/>
+        <updated>2022-03-13T00:53:50.301Z</updated>
+        <content type="html"><![CDATA[(github.com/bradleyboy)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
@@ -123,26 +144,5 @@
         <link href="https://justfive.news/"/>
         <updated>2022-03-08T02:09:27.574Z</updated>
         <content type="html"><![CDATA[(justfive.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
-        <id>https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/</id>
-        <link href="https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/"/>
-        <updated>2022-03-07T02:12:05.215Z</updated>
-        <content type="html"><![CDATA[(platformers.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
-        <id>https://ahrefs.com/blog/martech-stack/</id>
-        <link href="https://ahrefs.com/blog/martech-stack/"/>
-        <updated>2022-03-11T09:15:09.995Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
-        <id>http://www.graememcc.co.uk/micropolisJS/</id>
-        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
-        <updated>2022-03-12T23:14:38.129Z</updated>
-        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
 </feed>
