@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-03-13T23:15:27.130Z</updated>
+    <updated>2022-03-14T00:58:16.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
+        <id>https://news.hada.io/weekly/202211</id>
+        <link href="https://news.hada.io/weekly/202211"/>
+        <updated>2022-03-14T00:58:02.295Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">140. </td><td class="fitwidth">202211</td><td width="*">&nbsp;<a href="/weekly/202211" class="u keepall"> SaaS를 1년 운영해보고 배운 것</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5조 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
         <id>https://news.hada.io/weekly/202210</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202144"/>
         <updated>2022-01-12T20:09:57.807Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">121. </td><td class="fitwidth">202144</td><td width="*">&nbsp;<a href="/weekly/202144" class="u keepall"> 질문에 대한 유용한 답변을 얻는 방법</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notion 이 Postgres 샤딩하면서 배운 것들]]></title>
-        <id>https://news.hada.io/weekly/202143</id>
-        <link href="https://news.hada.io/weekly/202143"/>
-        <updated>2022-01-12T20:09:57.808Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">120. </td><td class="fitwidth">202143</td><td width="*">&nbsp;<a href="/weekly/202143" class="u keepall"> Notion 이 Postgres 샤딩하면서 배운 것들 </a></td>]]></content>
     </entry>
 </feed>
