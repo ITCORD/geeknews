@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-14T18:30:40.635Z</updated>
+    <updated>2022-03-14T20:16:13.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(blog.shiren.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
-        <id>https://cxx.rs/</id>
-        <link href="https://cxx.rs/"/>
-        <updated>2022-03-12T02:01:08.355Z</updated>
-        <content type="html"><![CDATA[(cxx.rs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
         <id>https://github.com/YaoApp/yao</id>
         <link href="https://github.com/YaoApp/yao"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
+        <id>https://cxx.rs/</id>
+        <link href="https://cxx.rs/"/>
+        <updated>2022-03-12T02:01:08.355Z</updated>
+        <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
