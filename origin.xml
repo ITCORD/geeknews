@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-14T05:35:10.430Z</updated>
+    <updated>2022-03-14T06:19:36.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A11y Automation Tracker]]></title>
-        <id>https://a11y-automation.dev/</id>
-        <link href="https://a11y-automation.dev/"/>
-        <updated>2022-03-12T02:01:08.355Z</updated>
-        <content type="html"><![CDATA[(a11y-automation.dev)]]></content>
+        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
+        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
+        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
+        <updated>2022-03-14T04:21:56.243Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
@@ -116,6 +116,13 @@
         <link href="https://news.hada.io/topic?id=6134"/>
         <updated>2022-03-13T16:19:39.058Z</updated>
         <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A11y Automation Tracker]]></title>
+        <id>https://a11y-automation.dev/</id>
+        <link href="https://a11y-automation.dev/"/>
+        <updated>2022-03-12T02:01:08.355Z</updated>
+        <content type="html"><![CDATA[(a11y-automation.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://cxx.rs/"/>
         <updated>2022-03-12T02:01:08.355Z</updated>
         <content type="html"><![CDATA[(cxx.rs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
-        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
-        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
-        <updated>2022-03-14T04:21:56.243Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
 </feed>
