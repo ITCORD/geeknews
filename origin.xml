@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-14T14:14:38.095Z</updated>
+    <updated>2022-03-14T15:16:42.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physically-based GPU Raytracer from Scratch]]></title>
-        <id>https://github.com/jan-van-bergen/GPU-Raytracer</id>
-        <link href="https://github.com/jan-van-bergen/GPU-Raytracer"/>
-        <updated>2022-03-14T13:20:43.836Z</updated>
-        <content type="html"><![CDATA[(github.com/jan-van-bergen)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼!]]></title>
         <id>https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r</id>
         <link href="https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r"/>
         <updated>2022-03-13T06:20:10.634Z</updated>
         <content type="html"><![CDATA[(theupheaval.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physically-based GPU Raytracer from Scratch]]></title>
+        <id>https://github.com/jan-van-bergen/GPU-Raytracer</id>
+        <link href="https://github.com/jan-van-bergen/GPU-Raytracer"/>
+        <updated>2022-03-14T13:20:43.836Z</updated>
+        <content type="html"><![CDATA[(github.com/jan-van-bergen)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
-        <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
-        <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
-        <updated>2022-03-07T02:12:05.212Z</updated>
-        <content type="html"><![CDATA[(onlineornot.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
         <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
         <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
@@ -144,5 +137,12 @@
         <link href="https://github.com/YaoApp/yao"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
+        <id>https://blog.lizzie.io/linux-containers-in-500-loc.html</id>
+        <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
+        <updated>2022-03-14T15:16:02.049Z</updated>
+        <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
     </entry>
 </feed>
