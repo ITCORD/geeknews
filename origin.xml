@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-14T00:58:16.704Z</updated>
+    <updated>2022-03-14T02:14:12.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,6 +13,27 @@
         <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PDF 번역 프로그램]]></title>
+        <id>http://www.blueai.co.kr/pdf</id>
+        <link href="http://www.blueai.co.kr/pdf"/>
+        <updated>2022-03-14T02:13:32.139Z</updated>
+        <content type="html"><![CDATA[(blueai.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escape from the Office | Apple at Work]]></title>
+        <id>https://www.youtube.com/watch?v=GC5Gmkn92Bg</id>
+        <link href="https://www.youtube.com/watch?v=GC5Gmkn92Bg"/>
+        <updated>2022-03-14T02:13:32.139Z</updated>
+        <content type="html"><![CDATA[(youtube.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
+        <id>https://tuple.app/pair-programming-guide/antipatterns</id>
+        <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
+        <updated>2022-03-14T02:13:32.146Z</updated>
+        <content type="html"><![CDATA[(tuple.app)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Undocumented Web API 사용하는 법]]></title>
         <id>https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/</id>
         <link href="https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/"/>
@@ -20,18 +41,18 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개]]></title>
-        <id>https://us.soundon.global/</id>
-        <link href="https://us.soundon.global/"/>
-        <updated>2022-03-14T00:57:35.895Z</updated>
-        <content type="html"><![CDATA[(us.soundon.global)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼!]]></title>
         <id>https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r</id>
         <link href="https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r"/>
         <updated>2022-03-13T06:20:10.634Z</updated>
         <content type="html"><![CDATA[(theupheaval.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개]]></title>
+        <id>https://us.soundon.global/</id>
+        <link href="https://us.soundon.global/"/>
+        <updated>2022-03-14T00:57:35.895Z</updated>
+        <content type="html"><![CDATA[(us.soundon.global)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
@@ -90,13 +111,6 @@
         <content type="html"><![CDATA[(a11y-automation.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter, Shops 기능 공개]]></title>
-        <id>https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop</id>
-        <link href="https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop"/>
-        <updated>2022-03-13T00:53:50.272Z</updated>
-        <content type="html"><![CDATA[(blog.twitter.com/en_us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
         <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
         <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
-        <id>https://cxx.rs/</id>
-        <link href="https://cxx.rs/"/>
-        <updated>2022-03-12T02:01:08.355Z</updated>
-        <content type="html"><![CDATA[(cxx.rs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
         <id>https://blog.shiren.dev/2022-03-07/</id>
         <link href="https://blog.shiren.dev/2022-03-07/"/>
@@ -125,24 +132,17 @@
         <content type="html"><![CDATA[(blog.shiren.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
-        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
-        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
-        <updated>2022-03-11T07:14:31.418Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+        <title type="html"><![CDATA[Twitter, Shops 기능 공개]]></title>
+        <id>https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop</id>
+        <link href="https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop"/>
+        <updated>2022-03-13T00:53:50.272Z</updated>
+        <content type="html"><![CDATA[(blog.twitter.com/en_us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
-        <id>https://blog.lizzie.io/linux-containers-in-500-loc.html</id>
-        <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
-        <updated>2022-03-11T01:00:38.195Z</updated>
-        <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
-        <id>https://alecmuffett.com/article/16007</id>
-        <link href="https://alecmuffett.com/article/16007"/>
-        <updated>2022-03-11T02:18:12.941Z</updated>
-        <content type="html"><![CDATA[(alecmuffett.com)]]></content>
+        <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
+        <id>https://cxx.rs/</id>
+        <link href="https://cxx.rs/"/>
+        <updated>2022-03-12T02:01:08.355Z</updated>
+        <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
 </feed>
