@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-15T07:15:17.845Z</updated>
+    <updated>2022-03-15T08:19:04.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
         <updated>2022-03-15T00:57:44.949Z</updated>
         <content type="html"><![CDATA[(auth0.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
+        <id>https://ngrok.com/</id>
+        <link href="https://ngrok.com/"/>
+        <updated>2022-03-15T07:14:39.319Z</updated>
+        <content type="html"><![CDATA[(ngrok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 스프레드 시트, 최대 셀수를 1천만개로 확장]]></title>
@@ -27,6 +34,13 @@
         <content type="html"><![CDATA[(github.com/proofrock)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Roland 50 Studio]]></title>
+        <id>https://roland50.studio/</id>
+        <link href="https://roland50.studio/"/>
+        <updated>2022-03-15T00:57:44.958Z</updated>
+        <content type="html"><![CDATA[(roland50.studio)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
         <id>https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing</id>
         <link href="https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing"/>
@@ -39,20 +53,6 @@
         <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
         <updated>2022-03-14T02:13:32.146Z</updated>
         <content type="html"><![CDATA[(tuple.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roland 50 Studio]]></title>
-        <id>https://roland50.studio/</id>
-        <link href="https://roland50.studio/"/>
-        <updated>2022-03-15T00:57:44.958Z</updated>
-        <content type="html"><![CDATA[(roland50.studio)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
-        <id>https://ngrok.com/</id>
-        <link href="https://ngrok.com/"/>
-        <updated>2022-03-15T07:14:39.319Z</updated>
-        <content type="html"><![CDATA[(ngrok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광고차단 유튜브앱 Vanced 개발 중단]]></title>
