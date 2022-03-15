@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-15T22:17:03.454Z</updated>
+    <updated>2022-03-15T23:15:45.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(tuple.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roland 50 Studio]]></title>
-        <id>https://roland50.studio/</id>
-        <link href="https://roland50.studio/"/>
-        <updated>2022-03-15T00:57:44.958Z</updated>
-        <content type="html"><![CDATA[(roland50.studio)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[macOS가 사용하는 웹뷰 Inspect 하기]]></title>
         <id>https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/</id>
         <link href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/"/>
         <updated>2022-03-14T00:57:35.895Z</updated>
         <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roland 50 Studio]]></title>
+        <id>https://roland50.studio/</id>
+        <link href="https://roland50.studio/"/>
+        <updated>2022-03-15T00:57:44.958Z</updated>
+        <content type="html"><![CDATA[(roland50.studio)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com/gzuidhof)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개]]></title>
-        <id>https://us.soundon.global/</id>
-        <link href="https://us.soundon.global/"/>
-        <updated>2022-03-14T00:57:35.895Z</updated>
-        <content type="html"><![CDATA[(us.soundon.global)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
         <id>https://github.com/bradleyboy/tuql</id>
         <link href="https://github.com/bradleyboy/tuql"/>
         <updated>2022-03-13T00:53:50.301Z</updated>
         <content type="html"><![CDATA[(github.com/bradleyboy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개]]></title>
+        <id>https://us.soundon.global/</id>
+        <link href="https://us.soundon.global/"/>
+        <updated>2022-03-14T00:57:35.895Z</updated>
+        <content type="html"><![CDATA[(us.soundon.global)]]></content>
     </entry>
 </feed>
