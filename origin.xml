@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-14T23:15:27.855Z</updated>
+    <updated>2022-03-15T00:58:31.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
+        <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
+        <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
+        <updated>2022-03-15T00:57:44.949Z</updated>
+        <content type="html"><![CDATA[(auth0.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
         <id>https://tuple.app/pair-programming-guide/antipatterns</id>
@@ -18,6 +25,13 @@
         <link href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/"/>
         <updated>2022-03-14T00:57:35.895Z</updated>
         <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roland 50 Studio]]></title>
+        <id>https://roland50.studio/</id>
+        <link href="https://roland50.studio/"/>
+        <updated>2022-03-15T00:57:44.958Z</updated>
+        <content type="html"><![CDATA[(roland50.studio)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Escape from the Office | Apple at Work]]></title>
@@ -76,18 +90,18 @@
         <content type="html"><![CDATA[(github.com/bradleyboy)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physically-based GPU Raytracer from Scratch]]></title>
-        <id>https://github.com/jan-van-bergen/GPU-Raytracer</id>
-        <link href="https://github.com/jan-van-bergen/GPU-Raytracer"/>
-        <updated>2022-03-14T13:20:43.836Z</updated>
-        <content type="html"><![CDATA[(github.com/jan-van-bergen)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
         <id>https://r.bluethl.net/how-to-design-better-apis</id>
         <link href="https://r.bluethl.net/how-to-design-better-apis"/>
         <updated>2022-03-11T01:00:38.195Z</updated>
         <content type="html"><![CDATA[(r.bluethl.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physically-based GPU Raytracer from Scratch]]></title>
+        <id>https://github.com/jan-van-bergen/GPU-Raytracer</id>
+        <link href="https://github.com/jan-van-bergen/GPU-Raytracer"/>
+        <updated>2022-03-14T13:20:43.836Z</updated>
+        <content type="html"><![CDATA[(github.com/jan-van-bergen)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: P2P Remote Desktop - Open Source - alternative to TeamViewer - AnyDesk ...]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(blog.shiren.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
-        <id>https://github.com/YaoApp/yao</id>
-        <link href="https://github.com/YaoApp/yao"/>
-        <updated>2022-03-11T01:00:38.195Z</updated>
-        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
         <id>https://cxx.rs/</id>
         <link href="https://cxx.rs/"/>
         <updated>2022-03-12T02:01:08.355Z</updated>
         <content type="html"><![CDATA[(cxx.rs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500라인으로 만드는 리눅스 컨테이너 (2016)]]></title>
-        <id>https://blog.lizzie.io/linux-containers-in-500-loc.html</id>
-        <link href="https://blog.lizzie.io/linux-containers-in-500-loc.html"/>
-        <updated>2022-03-14T15:16:02.049Z</updated>
-        <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
     </entry>
 </feed>
