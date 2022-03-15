@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-15T08:19:04.003Z</updated>
+    <updated>2022-03-15T09:15:59.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(ngrok.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Roland 50 Studio]]></title>
+        <id>https://roland50.studio/</id>
+        <link href="https://roland50.studio/"/>
+        <updated>2022-03-15T00:57:44.958Z</updated>
+        <content type="html"><![CDATA[(roland50.studio)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 스프레드 시트, 최대 셀수를 1천만개로 확장]]></title>
         <id>https://zapier.com/blog/google-sheets-cell-limit/</id>
         <link href="https://zapier.com/blog/google-sheets-cell-limit/"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(github.com/proofrock)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roland 50 Studio]]></title>
-        <id>https://roland50.studio/</id>
-        <link href="https://roland50.studio/"/>
-        <updated>2022-03-15T00:57:44.958Z</updated>
-        <content type="html"><![CDATA[(roland50.studio)]]></content>
+        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
+        <id>https://tuple.app/pair-programming-guide/antipatterns</id>
+        <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
+        <updated>2022-03-14T02:13:32.146Z</updated>
+        <content type="html"><![CDATA[(tuple.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
-        <id>https://tuple.app/pair-programming-guide/antipatterns</id>
-        <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
-        <updated>2022-03-14T02:13:32.146Z</updated>
-        <content type="html"><![CDATA[(tuple.app)]]></content>
+        <title type="html"><![CDATA[macOS가 사용하는 웹뷰 Inspect 하기]]></title>
+        <id>https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/</id>
+        <link href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/"/>
+        <updated>2022-03-14T00:57:35.895Z</updated>
+        <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광고차단 유튜브앱 Vanced 개발 중단]]></title>
@@ -60,13 +67,6 @@
         <link href="https://twitter.com/YTVanced/status/1503052250268286980"/>
         <updated>2022-03-15T03:16:00.350Z</updated>
         <content type="html"><![CDATA[(twitter.com/YTVanced)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS가 사용하는 웹뷰 Inspect 하기]]></title>
-        <id>https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/</id>
-        <link href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/"/>
-        <updated>2022-03-14T00:57:35.895Z</updated>
-        <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 가장 비싼 광고 키워드들]]></title>
