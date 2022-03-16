@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-16T08:19:44.646Z</updated>
+    <updated>2022-03-16T09:14:52.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
-        <id>https://brunch.co.kr/@cleancode/43</id>
-        <link href="https://brunch.co.kr/@cleancode/43"/>
-        <updated>2022-03-16T02:22:31.563Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
         <id>https://www.veloren.net/</id>
         <link href="https://www.veloren.net/"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(veloren.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
-        <id>https://0ut3r.space/2022/03/06/windows-defender/</id>
-        <link href="https://0ut3r.space/2022/03/06/windows-defender/"/>
-        <updated>2022-03-16T00:58:07.330Z</updated>
-        <content type="html"><![CDATA[(0ut3r.space)]]></content>
+        <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
+        <id>https://brunch.co.kr/@cleancode/43</id>
+        <link href="https://brunch.co.kr/@cleancode/43"/>
+        <updated>2022-03-16T02:22:31.563Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
@@ -41,6 +34,13 @@
         <content type="html"><![CDATA[(domains.google)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
+        <id>https://0ut3r.space/2022/03/06/windows-defender/</id>
+        <link href="https://0ut3r.space/2022/03/06/windows-defender/"/>
+        <updated>2022-03-16T00:58:07.330Z</updated>
+        <content type="html"><![CDATA[(0ut3r.space)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Class Central - 온라인 강의 검색엔진]]></title>
         <id>https://www.classcentral.com/</id>
         <link href="https://www.classcentral.com/"/>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(classcentral.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
-        <id>https://css-tricks.com/css-tricks-is-joining-digitalocean/</id>
-        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
-        <updated>2022-03-16T03:18:33.061Z</updated>
-        <content type="html"><![CDATA[(css-tricks.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최고의 머신러닝 알고리듬들]]></title>
         <id>https://www.unite.ai/ten-best-machine-learning-algorithms/</id>
         <link href="https://www.unite.ai/ten-best-machine-learning-algorithms/"/>
         <updated>2022-03-16T00:58:07.364Z</updated>
         <content type="html"><![CDATA[(unite.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
+        <id>https://css-tricks.com/css-tricks-is-joining-digitalocean/</id>
+        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
+        <updated>2022-03-16T03:18:33.061Z</updated>
+        <content type="html"><![CDATA[(css-tricks.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3의 새 기능 : 편집과 삽입]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(ngrok.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARM, 직원의 최대 15%(약1000명)를 감원 예정]]></title>
-        <id>https://www.theregister.com/2022/03/15/arm_job_cuts/</id>
-        <link href="https://www.theregister.com/2022/03/15/arm_job_cuts/"/>
-        <updated>2022-03-16T05:14:17.244Z</updated>
-        <content type="html"><![CDATA[(theregister.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
         <id>https://tuple.app/pair-programming-guide/antipatterns</id>
         <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
         <updated>2022-03-14T02:13:32.146Z</updated>
         <content type="html"><![CDATA[(tuple.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARM, 직원의 최대 15%(약1000명)를 감원 예정]]></title>
+        <id>https://www.theregister.com/2022/03/15/arm_job_cuts/</id>
+        <link href="https://www.theregister.com/2022/03/15/arm_job_cuts/"/>
+        <updated>2022-03-16T05:14:17.244Z</updated>
+        <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[macOS가 사용하는 웹뷰 Inspect 하기]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
-        <id>https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing</id>
-        <link href="https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing"/>
-        <updated>2022-03-15T03:16:00.349Z</updated>
-        <content type="html"><![CDATA[(cloud.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PDF 번역 프로그램]]></title>
         <id>http://www.blueai.co.kr/pdf</id>
         <link href="http://www.blueai.co.kr/pdf"/>
         <updated>2022-03-16T07:15:37.593Z</updated>
         <content type="html"><![CDATA[(blueai.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
+        <id>https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing</id>
+        <link href="https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing"/>
+        <updated>2022-03-15T03:16:00.349Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
 </feed>
