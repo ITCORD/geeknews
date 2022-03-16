@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-15T23:15:45.776Z</updated>
+    <updated>2022-03-16T00:58:47.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
+        <id>https://0ut3r.space/2022/03/06/windows-defender/</id>
+        <link href="https://0ut3r.space/2022/03/06/windows-defender/"/>
+        <updated>2022-03-16T00:58:07.330Z</updated>
+        <content type="html"><![CDATA[(0ut3r.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
+        <id>https://domains.google/learn/out-of-beta/</id>
+        <link href="https://domains.google/learn/out-of-beta/"/>
+        <updated>2022-03-16T00:58:07.364Z</updated>
+        <content type="html"><![CDATA[(domains.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Class Central - 온라인 강의 검색엔진]]></title>
+        <id>https://www.classcentral.com/</id>
+        <link href="https://www.classcentral.com/"/>
+        <updated>2022-03-16T00:58:07.364Z</updated>
+        <content type="html"><![CDATA[(classcentral.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
         <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
@@ -18,6 +39,13 @@
         <link href="https://github.com/RamonUnch/AltSnap/releases"/>
         <updated>2022-03-15T12:23:40.926Z</updated>
         <content type="html"><![CDATA[(github.com/RamonUnch)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 머신러닝 알고리듬들]]></title>
+        <id>https://www.unite.ai/ten-best-machine-learning-algorithms/</id>
+        <link href="https://www.unite.ai/ten-best-machine-learning-algorithms/"/>
+        <updated>2022-03-16T00:58:07.364Z</updated>
+        <content type="html"><![CDATA[(unite.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
@@ -83,6 +111,13 @@
         <content type="html"><![CDATA[(blueai.co.kr)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
+        <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
+        <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
+        <updated>2022-03-12T08:16:24.495Z</updated>
+        <content type="html"><![CDATA[(nautil.us)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼!]]></title>
         <id>https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r</id>
         <link href="https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r"/>
@@ -97,13 +132,6 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
-        <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
-        <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
-        <updated>2022-03-12T08:16:24.495Z</updated>
-        <content type="html"><![CDATA[(nautil.us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[광고차단 유튜브앱 Vanced 개발 중단]]></title>
         <id>https://twitter.com/YTVanced/status/1503052250268286980</id>
         <link href="https://twitter.com/YTVanced/status/1503052250268286980"/>
@@ -116,33 +144,5 @@
         <link href="https://www.ppchero.com/the-most-expensive-keywords-for-2022"/>
         <updated>2022-03-15T02:17:16.273Z</updated>
         <content type="html"><![CDATA[(ppchero.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
-        <id>https://r.bluethl.net/how-to-design-better-apis</id>
-        <link href="https://r.bluethl.net/how-to-design-better-apis"/>
-        <updated>2022-03-11T01:00:38.195Z</updated>
-        <content type="html"><![CDATA[(r.bluethl.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tygo - Go 소스에서 Typescript 타입들 생성하는 도구]]></title>
-        <id>https://github.com/gzuidhof/tygo</id>
-        <link href="https://github.com/gzuidhof/tygo"/>
-        <updated>2022-03-13T00:53:50.271Z</updated>
-        <content type="html"><![CDATA[(github.com/gzuidhof)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
-        <id>https://github.com/bradleyboy/tuql</id>
-        <link href="https://github.com/bradleyboy/tuql"/>
-        <updated>2022-03-13T00:53:50.301Z</updated>
-        <content type="html"><![CDATA[(github.com/bradleyboy)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개]]></title>
-        <id>https://us.soundon.global/</id>
-        <link href="https://us.soundon.global/"/>
-        <updated>2022-03-14T00:57:35.895Z</updated>
-        <content type="html"><![CDATA[(us.soundon.global)]]></content>
     </entry>
 </feed>
