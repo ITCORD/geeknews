@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-16T02:23:10.903Z</updated>
+    <updated>2022-03-16T03:19:17.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(0ut3r.space)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
-        <id>https://domains.google/learn/out-of-beta/</id>
-        <link href="https://domains.google/learn/out-of-beta/"/>
-        <updated>2022-03-16T00:58:07.364Z</updated>
-        <content type="html"><![CDATA[(domains.google)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
         <id>https://brunch.co.kr/@cleancode/43</id>
         <link href="https://brunch.co.kr/@cleancode/43"/>
         <updated>2022-03-16T02:22:31.563Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
+        <id>https://domains.google/learn/out-of-beta/</id>
+        <link href="https://domains.google/learn/out-of-beta/"/>
+        <updated>2022-03-16T00:58:07.364Z</updated>
+        <content type="html"><![CDATA[(domains.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Class Central - 온라인 강의 검색엔진]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(classcentral.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최고의 머신러닝 알고리듬들]]></title>
-        <id>https://www.unite.ai/ten-best-machine-learning-algorithms/</id>
-        <link href="https://www.unite.ai/ten-best-machine-learning-algorithms/"/>
-        <updated>2022-03-16T00:58:07.364Z</updated>
-        <content type="html"><![CDATA[(unite.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
         <id>https://www.veloren.net/</id>
         <link href="https://www.veloren.net/"/>
         <updated>2022-03-16T02:22:31.564Z</updated>
         <content type="html"><![CDATA[(veloren.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 머신러닝 알고리듬들]]></title>
+        <id>https://www.unite.ai/ten-best-machine-learning-algorithms/</id>
+        <link href="https://www.unite.ai/ten-best-machine-learning-algorithms/"/>
+        <updated>2022-03-16T00:58:07.364Z</updated>
+        <content type="html"><![CDATA[(unite.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
@@ -60,6 +60,20 @@
         <link href="https://github.com/RamonUnch/AltSnap/releases"/>
         <updated>2022-03-15T12:23:40.926Z</updated>
         <content type="html"><![CDATA[(github.com/RamonUnch)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-3의 새 기능 : 편집과 삽입]]></title>
+        <id>https://openai.com/blog/gpt-3-edit-insert/</id>
+        <link href="https://openai.com/blog/gpt-3-edit-insert/"/>
+        <updated>2022-03-16T03:18:33.059Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
+        <id>https://css-tricks.com/css-tricks-is-joining-digitalocean/</id>
+        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
+        <updated>2022-03-16T03:18:33.061Z</updated>
+        <content type="html"><![CDATA[(css-tricks.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
@@ -130,19 +144,5 @@
         <link href="https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r"/>
         <updated>2022-03-13T06:20:10.634Z</updated>
         <content type="html"><![CDATA[(theupheaval.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
-        <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
-        <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
-        <updated>2022-03-12T08:16:24.495Z</updated>
-        <content type="html"><![CDATA[(nautil.us)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undocumented Web API 사용하는 법]]></title>
-        <id>https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/</id>
-        <link href="https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/"/>
-        <updated>2022-03-14T00:57:35.895Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
 </feed>
