@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-16T05:15:05.232Z</updated>
+    <updated>2022-03-16T06:18:50.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
-        <id>https://brunch.co.kr/@cleancode/43</id>
-        <link href="https://brunch.co.kr/@cleancode/43"/>
-        <updated>2022-03-16T02:22:31.563Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
-        <id>https://0ut3r.space/2022/03/06/windows-defender/</id>
-        <link href="https://0ut3r.space/2022/03/06/windows-defender/"/>
-        <updated>2022-03-16T00:58:07.330Z</updated>
-        <content type="html"><![CDATA[(0ut3r.space)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
@@ -27,11 +13,25 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
+        <id>https://brunch.co.kr/@cleancode/43</id>
+        <link href="https://brunch.co.kr/@cleancode/43"/>
+        <updated>2022-03-16T02:22:31.563Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
         <id>https://www.veloren.net/</id>
         <link href="https://www.veloren.net/"/>
         <updated>2022-03-16T02:22:31.564Z</updated>
         <content type="html"><![CDATA[(veloren.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
+        <id>https://0ut3r.space/2022/03/06/windows-defender/</id>
+        <link href="https://0ut3r.space/2022/03/06/windows-defender/"/>
+        <updated>2022-03-16T00:58:07.330Z</updated>
+        <content type="html"><![CDATA[(0ut3r.space)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(classcentral.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최고의 머신러닝 알고리듬들]]></title>
-        <id>https://www.unite.ai/ten-best-machine-learning-algorithms/</id>
-        <link href="https://www.unite.ai/ten-best-machine-learning-algorithms/"/>
-        <updated>2022-03-16T00:58:07.364Z</updated>
-        <content type="html"><![CDATA[(unite.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
         <id>https://css-tricks.com/css-tricks-is-joining-digitalocean/</id>
         <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
         <updated>2022-03-16T03:18:33.061Z</updated>
         <content type="html"><![CDATA[(css-tricks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 머신러닝 알고리듬들]]></title>
+        <id>https://www.unite.ai/ten-best-machine-learning-algorithms/</id>
+        <link href="https://www.unite.ai/ten-best-machine-learning-algorithms/"/>
+        <updated>2022-03-16T00:58:07.364Z</updated>
+        <content type="html"><![CDATA[(unite.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3의 새 기능 : 편집과 삽입]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(roland50.studio)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
-        <id>https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing</id>
-        <link href="https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing"/>
-        <updated>2022-03-15T03:16:00.349Z</updated>
-        <content type="html"><![CDATA[(cloud.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Escape from the Office | Apple at Work]]></title>
         <id>https://www.youtube.com/watch?v=GC5Gmkn92Bg</id>
         <link href="https://www.youtube.com/watch?v=GC5Gmkn92Bg"/>
         <updated>2022-03-14T02:13:32.139Z</updated>
         <content type="html"><![CDATA[(youtube.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
+        <id>https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing</id>
+        <link href="https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing"/>
+        <updated>2022-03-15T03:16:00.349Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 스프레드 시트, 최대 셀수를 1천만개로 확장]]></title>
