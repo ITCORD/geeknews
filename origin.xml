@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-17T22:15:40.714Z</updated>
+    <updated>2022-03-17T23:15:00.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(tailscale.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
-        <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
-        <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
-        <updated>2022-03-17T02:16:59.914Z</updated>
-        <content type="html"><![CDATA[(getfilteroff.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
         <updated>2022-03-16T05:14:17.232Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
+        <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
+        <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
+        <updated>2022-03-17T02:16:59.914Z</updated>
+        <content type="html"><![CDATA[(getfilteroff.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(io.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
-        <id>https://ngrok.com/</id>
-        <link href="https://ngrok.com/"/>
-        <updated>2022-03-15T07:14:39.319Z</updated>
-        <content type="html"><![CDATA[(ngrok.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
         <id>https://tuple.app/pair-programming-guide/antipatterns</id>
         <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
         <updated>2022-03-14T02:13:32.146Z</updated>
         <content type="html"><![CDATA[(tuple.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
+        <id>https://ngrok.com/</id>
+        <link href="https://ngrok.com/"/>
+        <updated>2022-03-15T07:14:39.319Z</updated>
+        <content type="html"><![CDATA[(ngrok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AltDrag의 대체제 AltSnap]]></title>
