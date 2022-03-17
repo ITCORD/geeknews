@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-17T15:18:17.048Z</updated>
+    <updated>2022-03-17T16:21:02.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(classcentral.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google IO 2022]]></title>
-        <id>https://io.google/2022/intl/ko/</id>
-        <link href="https://io.google/2022/intl/ko/"/>
-        <updated>2022-03-17T08:18:32.368Z</updated>
-        <content type="html"><![CDATA[(io.google)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
         <id>https://0ut3r.space/2022/03/06/windows-defender/</id>
         <link href="https://0ut3r.space/2022/03/06/windows-defender/"/>
         <updated>2022-03-16T00:58:07.330Z</updated>
         <content type="html"><![CDATA[(0ut3r.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google IO 2022]]></title>
+        <id>https://io.google/2022/intl/ko/</id>
+        <link href="https://io.google/2022/intl/ko/"/>
+        <updated>2022-03-17T08:18:32.368Z</updated>
+        <content type="html"><![CDATA[(io.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[(domains.google)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
+        <id>https://ngrok.com/</id>
+        <link href="https://ngrok.com/"/>
+        <updated>2022-03-15T07:14:39.319Z</updated>
+        <content type="html"><![CDATA[(ngrok.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KDE의 PDF 리더 Okular가 세계 최초로 "환경 인증"을 받음]]></title>
         <id>https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/</id>
         <link href="https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/"/>
@@ -111,11 +118,11 @@
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
-        <id>https://ngrok.com/</id>
-        <link href="https://ngrok.com/"/>
-        <updated>2022-03-15T07:14:39.319Z</updated>
-        <content type="html"><![CDATA[(ngrok.com)]]></content>
+        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
+        <id>https://tuple.app/pair-programming-guide/antipatterns</id>
+        <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
+        <updated>2022-03-14T02:13:32.146Z</updated>
+        <content type="html"><![CDATA[(tuple.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TikTok은 새로운 음악플랫폼이다]]></title>
@@ -125,13 +132,6 @@
         <content type="html"><![CDATA[(musicbusinessworldwide.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
-        <id>https://tuple.app/pair-programming-guide/antipatterns</id>
-        <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
-        <updated>2022-03-14T02:13:32.146Z</updated>
-        <content type="html"><![CDATA[(tuple.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AltDrag의 대체제 AltSnap]]></title>
         <id>https://github.com/RamonUnch/AltSnap/releases</id>
         <link href="https://github.com/RamonUnch/AltSnap/releases"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com/RamonUnch)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 "Immersive Stream for Games" 공개]]></title>
-        <id>https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/</id>
-        <link href="https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/"/>
-        <updated>2022-03-17T04:19:07.644Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
+        <title type="html"><![CDATA[macOS가 사용하는 웹뷰 Inspect 하기]]></title>
+        <id>https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/</id>
+        <link href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/"/>
+        <updated>2022-03-17T16:20:17.136Z</updated>
+        <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
     </entry>
 </feed>
