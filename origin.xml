@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-17T00:57:49.463Z</updated>
+    <updated>2022-03-17T02:17:44.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
         <updated>2022-03-16T05:14:17.232Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
+        <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
+        <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
+        <updated>2022-03-17T02:16:59.914Z</updated>
+        <content type="html"><![CDATA[(getfilteroff.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KDE의 PDF 리더 Okular가 세계 최초로 "환경 인증"을 받음]]></title>
@@ -104,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/RamonUnch)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
-        <id>https://css-tricks.com/css-tricks-is-joining-digitalocean/</id>
-        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
-        <updated>2022-03-16T03:18:33.061Z</updated>
-        <content type="html"><![CDATA[(css-tricks.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
         <id>https://ngrok.com/</id>
         <link href="https://ngrok.com/"/>
         <updated>2022-03-15T07:14:39.319Z</updated>
         <content type="html"><![CDATA[(ngrok.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
+        <id>https://css-tricks.com/css-tricks-is-joining-digitalocean/</id>
+        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
+        <updated>2022-03-16T03:18:33.061Z</updated>
+        <content type="html"><![CDATA[(css-tricks.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
@@ -137,12 +144,5 @@
         <link href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/"/>
         <updated>2022-03-14T00:57:35.895Z</updated>
         <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF 번역 프로그램]]></title>
-        <id>http://www.blueai.co.kr/pdf</id>
-        <link href="http://www.blueai.co.kr/pdf"/>
-        <updated>2022-03-16T07:15:37.593Z</updated>
-        <content type="html"><![CDATA[(blueai.co.kr)]]></content>
     </entry>
 </feed>
