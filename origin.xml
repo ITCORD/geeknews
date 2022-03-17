@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-17T06:18:15.010Z</updated>
+    <updated>2022-03-17T07:15:38.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://go.dev/blog/go1.18"/>
         <updated>2022-03-17T00:57:04.983Z</updated>
         <content type="html"><![CDATA[(go.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google IO 2022]]></title>
+        <id>https://io.google/2022/intl/ko/</id>
+        <link href="https://io.google/2022/intl/ko/"/>
+        <updated>2022-03-17T07:14:56.794Z</updated>
+        <content type="html"><![CDATA[(io.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
@@ -97,13 +104,6 @@
         <content type="html"><![CDATA[(musicbusinessworldwide.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 "Immersive Stream for Games" 공개]]></title>
-        <id>https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/</id>
-        <link href="https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/"/>
-        <updated>2022-03-17T04:19:07.644Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
         <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
         <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
@@ -116,6 +116,13 @@
         <link href="https://domains.google/learn/out-of-beta/"/>
         <updated>2022-03-16T00:58:07.364Z</updated>
         <content type="html"><![CDATA[(domains.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 "Immersive Stream for Games" 공개]]></title>
+        <id>https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/</id>
+        <link href="https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/"/>
+        <updated>2022-03-17T04:19:07.644Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/RamonUnch/AltSnap/releases"/>
         <updated>2022-03-15T12:23:40.926Z</updated>
         <content type="html"><![CDATA[(github.com/RamonUnch)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
-        <id>https://css-tricks.com/css-tricks-is-joining-digitalocean/</id>
-        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
-        <updated>2022-03-16T03:18:33.061Z</updated>
-        <content type="html"><![CDATA[(css-tricks.com)]]></content>
     </entry>
 </feed>
