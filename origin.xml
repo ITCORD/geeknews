@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-18T01:13:13.991Z</updated>
+    <updated>2022-03-18T02:31:34.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Podman, Registry 없이 컨테이너 이미지 전송 가능]]></title>
-        <id>https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry</id>
-        <link href="https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry"/>
-        <updated>2022-03-18T01:12:30.195Z</updated>
-        <content type="html"><![CDATA[(redhat.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
-        <id>https://tailscale.com/blog/free-plan/</id>
-        <link href="https://tailscale.com/blog/free-plan/"/>
-        <updated>2022-03-17T03:16:27.396Z</updated>
-        <content type="html"><![CDATA[(tailscale.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
         <id>https://simonwillison.net/2022/Mar/14/shot-scraper-template/</id>
@@ -27,11 +13,11 @@
         <content type="html"><![CDATA[(simonwillison.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
-        <id>https://www.monotype.com/type-trends</id>
-        <link href="https://www.monotype.com/type-trends"/>
-        <updated>2022-03-18T01:12:30.201Z</updated>
-        <content type="html"><![CDATA[(monotype.com)]]></content>
+        <title type="html"><![CDATA[Podman, Registry 없이 컨테이너 이미지 전송 가능]]></title>
+        <id>https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry</id>
+        <link href="https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry"/>
+        <updated>2022-03-18T01:12:30.195Z</updated>
+        <content type="html"><![CDATA[(redhat.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevTerm R-01 : 첫번째 RISC-V 기반 포터블 컴퓨터]]></title>
@@ -41,6 +27,47 @@
         <content type="html"><![CDATA[(clockworkpi.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6174</id>
+        <link href="https://news.hada.io/topic?id=6174"/>
+        <updated>2022-03-18T02:30:53.498Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 Universal Analytics 내년부터 지원 중단, Google Analytics 4로 전환하세요]]></title>
+        <id>https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/</id>
+        <link href="https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/"/>
+        <updated>2022-03-18T02:30:53.498Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, 윈도우11 파일 탐색기에서 광고를 테스트중]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/"/>
+        <updated>2022-03-18T02:30:53.498Z</updated>
+        <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
+        <id>https://tailscale.com/blog/free-plan/</id>
+        <link href="https://tailscale.com/blog/free-plan/"/>
+        <updated>2022-03-17T03:16:27.396Z</updated>
+        <content type="html"><![CDATA[(tailscale.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solito : React Native + Next.js Unified]]></title>
+        <id>https://solito.dev/</id>
+        <link href="https://solito.dev/"/>
+        <updated>2022-03-18T02:30:53.499Z</updated>
+        <content type="html"><![CDATA[(solito.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
+        <id>https://www.monotype.com/type-trends</id>
+        <link href="https://www.monotype.com/type-trends"/>
+        <updated>2022-03-18T01:12:30.201Z</updated>
+        <content type="html"><![CDATA[(monotype.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
@@ -48,18 +75,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
-        <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
-        <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
-        <updated>2022-03-17T02:16:59.914Z</updated>
-        <content type="html"><![CDATA[(getfilteroff.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
         <id>https://go.dev/blog/go1.18</id>
         <link href="https://go.dev/blog/go1.18"/>
         <updated>2022-03-17T00:57:04.983Z</updated>
         <content type="html"><![CDATA[(go.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
+        <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
+        <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
+        <updated>2022-03-17T02:16:59.914Z</updated>
+        <content type="html"><![CDATA[(getfilteroff.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
@@ -104,27 +131,6 @@
         <content type="html"><![CDATA[(auth0.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존 실시간 오디오 앱 Amp 공개]]></title>
-        <id>https://www.onamp.com/</id>
-        <link href="https://www.onamp.com/"/>
-        <updated>2022-03-17T00:57:05.000Z</updated>
-        <content type="html"><![CDATA[(onamp.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
-        <id>https://domains.google/learn/out-of-beta/</id>
-        <link href="https://domains.google/learn/out-of-beta/"/>
-        <updated>2022-03-16T00:58:07.364Z</updated>
-        <content type="html"><![CDATA[(domains.google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
-        <id>https://tuple.app/pair-programming-guide/antipatterns</id>
-        <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
-        <updated>2022-03-14T02:13:32.146Z</updated>
-        <content type="html"><![CDATA[(tuple.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google IO 2022]]></title>
         <id>https://io.google/2022/intl/ko/</id>
         <link href="https://io.google/2022/intl/ko/"/>
@@ -132,17 +138,10 @@
         <content type="html"><![CDATA[(io.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
-        <id>https://ngrok.com/</id>
-        <link href="https://ngrok.com/"/>
-        <updated>2022-03-15T07:14:39.319Z</updated>
-        <content type="html"><![CDATA[(ngrok.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 "Immersive Stream for Games" 공개]]></title>
-        <id>https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/</id>
-        <link href="https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/"/>
-        <updated>2022-03-18T01:12:30.235Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
+        <title type="html"><![CDATA[아마존 실시간 오디오 앱 Amp 공개]]></title>
+        <id>https://www.onamp.com/</id>
+        <link href="https://www.onamp.com/"/>
+        <updated>2022-03-17T00:57:05.000Z</updated>
+        <content type="html"><![CDATA[(onamp.com)]]></content>
     </entry>
 </feed>
