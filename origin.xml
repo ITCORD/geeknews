@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-18T06:18:48.458Z</updated>
+    <updated>2022-03-18T07:14:37.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,12 +62,6 @@
         <content type="html"><![CDATA[(monotype.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6174</id>
-        <link href="https://news.hada.io/topic?id=6174"/>
-        <updated>2022-03-18T02:30:53.498Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
         <id>https://go.dev/blog/go1.18</id>
         <link href="https://go.dev/blog/go1.18"/>
@@ -82,18 +76,17 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6174</id>
+        <link href="https://news.hada.io/topic?id=6174"/>
+        <updated>2022-03-18T02:30:53.498Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
         <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
         <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
         <updated>2022-03-17T02:16:59.914Z</updated>
         <content type="html"><![CDATA[(getfilteroff.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solito : React Native + Next.js Unified]]></title>
-        <id>https://solito.dev/</id>
-        <link href="https://solito.dev/"/>
-        <updated>2022-03-18T02:30:53.499Z</updated>
-        <content type="html"><![CDATA[(solito.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
@@ -110,6 +103,13 @@
         <content type="html"><![CDATA[(unite.ai)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Solito : React Native + Next.js Unified]]></title>
+        <id>https://solito.dev/</id>
+        <link href="https://solito.dev/"/>
+        <updated>2022-03-18T02:30:53.499Z</updated>
+        <content type="html"><![CDATA[(solito.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
         <id>https://brunch.co.kr/@cleancode/43</id>
         <link href="https://brunch.co.kr/@cleancode/43"/>
@@ -117,18 +117,18 @@
         <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Class Central - 온라인 강의 검색엔진]]></title>
-        <id>https://www.classcentral.com/</id>
-        <link href="https://www.classcentral.com/"/>
-        <updated>2022-03-16T00:58:07.364Z</updated>
-        <content type="html"><![CDATA[(classcentral.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
         <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
         <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
         <updated>2022-03-15T00:57:44.949Z</updated>
         <content type="html"><![CDATA[(auth0.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Class Central - 온라인 강의 검색엔진]]></title>
+        <id>https://www.classcentral.com/</id>
+        <link href="https://www.classcentral.com/"/>
+        <updated>2022-03-16T00:58:07.364Z</updated>
+        <content type="html"><![CDATA[(classcentral.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
