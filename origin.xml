@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-18T14:25:39.077Z</updated>
+    <updated>2022-03-18T15:26:39.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
-        <id>https://go.dev/blog/go1.18</id>
-        <link href="https://go.dev/blog/go1.18"/>
-        <updated>2022-03-17T00:57:04.983Z</updated>
-        <content type="html"><![CDATA[(go.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
         <updated>2022-03-16T05:14:17.232Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
+        <id>https://go.dev/blog/go1.18</id>
+        <link href="https://go.dev/blog/go1.18"/>
+        <updated>2022-03-17T00:57:04.983Z</updated>
+        <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amazon, 10조원($8.5b)에 MGM 인수 완료]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
-        <id>https://www.monotype.com/type-trends</id>
-        <link href="https://www.monotype.com/type-trends"/>
-        <updated>2022-03-18T01:12:30.201Z</updated>
-        <content type="html"><![CDATA[(monotype.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
         <id>https://www.veloren.net/</id>
         <link href="https://www.veloren.net/"/>
@@ -109,6 +102,13 @@
         <link href="https://brunch.co.kr/@cleancode/43"/>
         <updated>2022-03-16T02:22:31.563Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
+        <id>https://www.monotype.com/type-trends</id>
+        <link href="https://www.monotype.com/type-trends"/>
+        <updated>2022-03-18T01:12:30.201Z</updated>
+        <content type="html"><![CDATA[(monotype.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
