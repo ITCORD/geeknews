@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-18T11:23:41.375Z</updated>
+    <updated>2022-03-18T12:36:57.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(clockworkpi.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뉴비 PO 첫 2달간 뭐했니?]]></title>
+        <id>https://blog.visiodeibc.dev/%EB%89%B4%EB%B9%84-po-%EC%B2%AB-2%EB%8B%AC%EA%B0%84-%EB%AD%90%ED%96%88%EB%8B%88-df299279e44f</id>
+        <link href="https://blog.visiodeibc.dev/%EB%89%B4%EB%B9%84-po-%EC%B2%AB-2%EB%8B%AC%EA%B0%84-%EB%AD%90%ED%96%88%EB%8B%88-df299279e44f"/>
+        <updated>2022-03-18T12:36:19.555Z</updated>
+        <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Podman, Registry 없이 컨테이너 이미지 전송 가능]]></title>
         <id>https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry</id>
         <link href="https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry"/>
         <updated>2022-03-18T01:12:30.195Z</updated>
         <content type="html"><![CDATA[(redhat.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft, 윈도우11 파일 탐색기에서 광고를 테스트중]]></title>
-        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/</id>
-        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/"/>
-        <updated>2022-03-18T02:30:53.498Z</updated>
-        <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
@@ -41,18 +41,11 @@
         <content type="html"><![CDATA[(tailscale.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon, 10조원($8.5b)에 MGM 인수 완료]]></title>
-        <id>https://techcrunch.com/2022/03/17/amazon-completes-its-8-5-billion-acquisition-of-mgm/</id>
-        <link href="https://techcrunch.com/2022/03/17/amazon-completes-its-8-5-billion-acquisition-of-mgm/"/>
-        <updated>2022-03-18T04:27:44.583Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
-        <id>https://go.dev/blog/go1.18</id>
-        <link href="https://go.dev/blog/go1.18"/>
-        <updated>2022-03-17T00:57:04.983Z</updated>
-        <content type="html"><![CDATA[(go.dev)]]></content>
+        <title type="html"><![CDATA[Microsoft, 윈도우11 파일 탐색기에서 광고를 테스트중]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/"/>
+        <updated>2022-03-18T02:30:53.498Z</updated>
+        <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
@@ -62,6 +55,20 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
+        <id>https://go.dev/blog/go1.18</id>
+        <link href="https://go.dev/blog/go1.18"/>
+        <updated>2022-03-17T00:57:04.983Z</updated>
+        <content type="html"><![CDATA[(go.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon, 10조원($8.5b)에 MGM 인수 완료]]></title>
+        <id>https://techcrunch.com/2022/03/17/amazon-completes-its-8-5-billion-acquisition-of-mgm/</id>
+        <link href="https://techcrunch.com/2022/03/17/amazon-completes-its-8-5-billion-acquisition-of-mgm/"/>
+        <updated>2022-03-18T04:27:44.583Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 Universal Analytics 내년부터 지원 중단, Google Analytics 4로 전환하세요]]></title>
         <id>https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/</id>
         <link href="https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/"/>
@@ -69,18 +76,18 @@
         <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
-        <id>https://www.monotype.com/type-trends</id>
-        <link href="https://www.monotype.com/type-trends"/>
-        <updated>2022-03-18T01:12:30.201Z</updated>
-        <content type="html"><![CDATA[(monotype.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
         <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
         <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
         <updated>2022-03-17T02:16:59.914Z</updated>
         <content type="html"><![CDATA[(getfilteroff.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
+        <id>https://www.monotype.com/type-trends</id>
+        <link href="https://www.monotype.com/type-trends"/>
+        <updated>2022-03-18T01:12:30.201Z</updated>
+        <content type="html"><![CDATA[(monotype.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -136,12 +143,5 @@
         <link href="https://io.google/2022/intl/ko/"/>
         <updated>2022-03-17T08:18:32.368Z</updated>
         <content type="html"><![CDATA[(io.google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solito : React Native + Next.js Unified]]></title>
-        <id>https://solito.dev/</id>
-        <link href="https://solito.dev/"/>
-        <updated>2022-03-18T02:30:53.499Z</updated>
-        <content type="html"><![CDATA[(solito.dev)]]></content>
     </entry>
 </feed>
