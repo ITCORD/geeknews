@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-03-17T23:15:00.509Z</updated>
+    <updated>2022-03-18T01:13:13.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6174</id>
+        <link href="https://news.hada.io/topic?id=6174"/>
+        <updated>2022-03-18T01:12:51.599Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
         <id>https://news.hada.io/topic?id=6100</id>
@@ -118,11 +124,5 @@
         <id>https://news.hada.io/topic?id=5742</id>
         <link href="https://news.hada.io/topic?id=5742"/>
         <updated>2022-03-16T15:16:14.614Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 교류, 직류를 혼용하는 회로에서 접지는 분리해야 하나요??]]></title>
-        <id>https://news.hada.io/topic?id=5950</id>
-        <link href="https://news.hada.io/topic?id=5950"/>
-        <updated>2022-03-17T16:20:39.693Z</updated>
     </entry>
 </feed>
