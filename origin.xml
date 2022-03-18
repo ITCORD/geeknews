@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-18T20:17:38.555Z</updated>
+    <updated>2022-03-18T21:14:23.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,12 +76,6 @@
         <content type="html"><![CDATA[(getfilteroff.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6174</id>
-        <link href="https://news.hada.io/topic?id=6174"/>
-        <updated>2022-03-18T02:30:53.498Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
         <id>https://www.veloren.net/</id>
         <link href="https://www.veloren.net/"/>
@@ -96,11 +90,10 @@
         <content type="html"><![CDATA[(unite.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
-        <id>https://brunch.co.kr/@cleancode/43</id>
-        <link href="https://brunch.co.kr/@cleancode/43"/>
-        <updated>2022-03-16T02:22:31.563Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6174</id>
+        <link href="https://news.hada.io/topic?id=6174"/>
+        <updated>2022-03-18T02:30:53.498Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
@@ -108,6 +101,13 @@
         <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
         <updated>2022-03-15T00:57:44.949Z</updated>
         <content type="html"><![CDATA[(auth0.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
+        <id>https://brunch.co.kr/@cleancode/43</id>
+        <link href="https://brunch.co.kr/@cleancode/43"/>
+        <updated>2022-03-16T02:22:31.563Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amazon, 10조원($8.5b)에 MGM 인수 완료]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google IO 2022]]></title>
-        <id>https://io.google/2022/intl/ko/</id>
-        <link href="https://io.google/2022/intl/ko/"/>
-        <updated>2022-03-17T08:18:32.368Z</updated>
-        <content type="html"><![CDATA[(io.google)]]></content>
+        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
+        <id>https://tuple.app/pair-programming-guide/antipatterns</id>
+        <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
+        <updated>2022-03-18T21:13:36.153Z</updated>
+        <content type="html"><![CDATA[(tuple.app)]]></content>
     </entry>
 </feed>
