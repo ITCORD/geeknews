@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-19T03:15:39.318Z</updated>
+    <updated>2022-03-19T04:18:45.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mage - AI로 데이터에서 예측 해주는 도구]]></title>
+        <id>https://www.mage.ai/</id>
+        <link href="https://www.mage.ai/"/>
+        <updated>2022-03-19T00:53:50.459Z</updated>
+        <content type="html"><![CDATA[(mage.ai)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arti 0.1.0 릴리즈 - Rust로 작성한 Tor 클라이언트]]></title>
         <id>https://blog.torproject.org/arti_010_released/</id>
@@ -18,13 +25,6 @@
         <link href="https://github.com/rothgar/awesome-tuis"/>
         <updated>2022-03-19T02:10:37.101Z</updated>
         <content type="html"><![CDATA[(github.com/rothgar)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mage - AI로 데이터에서 예측 해주는 도구]]></title>
-        <id>https://www.mage.ai/</id>
-        <link href="https://www.mage.ai/"/>
-        <updated>2022-03-19T00:53:50.459Z</updated>
-        <content type="html"><![CDATA[(mage.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
