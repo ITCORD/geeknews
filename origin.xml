@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-19T07:14:46.860Z</updated>
+    <updated>2022-03-19T08:17:50.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com/rothgar)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safari 15.4에 추가된 새 WebKit 기능들]]></title>
-        <id>https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/</id>
-        <link href="https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/"/>
-        <updated>2022-03-19T00:53:50.461Z</updated>
-        <content type="html"><![CDATA[(webkit.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
         <id>https://simonwillison.net/2022/Mar/14/shot-scraper-template/</id>
         <link href="https://simonwillison.net/2022/Mar/14/shot-scraper-template/"/>
         <updated>2022-03-18T01:12:30.197Z</updated>
         <content type="html"><![CDATA[(simonwillison.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15.4에 추가된 새 WebKit 기능들]]></title>
+        <id>https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/</id>
+        <link href="https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/"/>
+        <updated>2022-03-19T00:53:50.461Z</updated>
+        <content type="html"><![CDATA[(webkit.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevTerm R-01 : 첫번째 RISC-V 기반 포터블 컴퓨터]]></title>
@@ -83,25 +83,11 @@
         <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
-        <id>https://www.monotype.com/type-trends</id>
-        <link href="https://www.monotype.com/type-trends"/>
-        <updated>2022-03-18T01:12:30.201Z</updated>
-        <content type="html"><![CDATA[(monotype.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
         <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
         <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
         <updated>2022-03-15T00:57:44.949Z</updated>
         <content type="html"><![CDATA[(auth0.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴비 PO 첫 2달간 뭐했니?]]></title>
-        <id>https://blog.visiodeibc.dev/%EB%89%B4%EB%B9%84-po-%EC%B2%AB-2%EB%8B%AC%EA%B0%84-%EB%AD%90%ED%96%88%EB%8B%88-df299279e44f</id>
-        <link href="https://blog.visiodeibc.dev/%EB%89%B4%EB%B9%84-po-%EC%B2%AB-2%EB%8B%AC%EA%B0%84-%EB%AD%90%ED%96%88%EB%8B%88-df299279e44f"/>
-        <updated>2022-03-18T12:36:19.555Z</updated>
-        <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
@@ -116,6 +102,20 @@
         <link href="https://www.unite.ai/ten-best-machine-learning-algorithms/"/>
         <updated>2022-03-16T00:58:07.364Z</updated>
         <content type="html"><![CDATA[(unite.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
+        <id>https://www.monotype.com/type-trends</id>
+        <link href="https://www.monotype.com/type-trends"/>
+        <updated>2022-03-18T01:12:30.201Z</updated>
+        <content type="html"><![CDATA[(monotype.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴비 PO 첫 2달간 뭐했니?]]></title>
+        <id>https://blog.visiodeibc.dev/%EB%89%B4%EB%B9%84-po-%EC%B2%AB-2%EB%8B%AC%EA%B0%84-%EB%AD%90%ED%96%88%EB%8B%88-df299279e44f</id>
+        <link href="https://blog.visiodeibc.dev/%EB%89%B4%EB%B9%84-po-%EC%B2%AB-2%EB%8B%AC%EA%B0%84-%EB%AD%90%ED%96%88%EB%8B%88-df299279e44f"/>
+        <updated>2022-03-18T12:36:19.555Z</updated>
+        <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
