@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-19T20:15:33.370Z</updated>
+    <updated>2022-03-19T21:13:12.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://somedaycode.tistory.com/m/5"/>
         <updated>2022-03-19T11:12:47.908Z</updated>
         <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
+        <id>https://pockit.ai/</id>
+        <link href="https://pockit.ai/"/>
+        <updated>2022-03-19T21:12:32.079Z</updated>
+        <content type="html"><![CDATA[(pockit.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arti 0.1.0 릴리즈 - Rust로 작성한 Tor 클라이언트]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/"/>
         <updated>2022-03-18T02:30:53.498Z</updated>
         <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
-        <id>https://www.monotype.com/type-trends</id>
-        <link href="https://www.monotype.com/type-trends"/>
-        <updated>2022-03-18T01:12:30.201Z</updated>
-        <content type="html"><![CDATA[(monotype.com)]]></content>
     </entry>
 </feed>
