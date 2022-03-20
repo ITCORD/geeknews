@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-20T22:15:05.934Z</updated>
+    <updated>2022-03-20T23:15:05.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/rothgar)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
-        <id>https://github.com/faker-js/faker/releases/tag/v6.0.0</id>
-        <link href="https://github.com/faker-js/faker/releases/tag/v6.0.0"/>
-        <updated>2022-03-20T00:57:02.146Z</updated>
-        <content type="html"><![CDATA[(github.com/faker-js)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
         <updated>2022-03-16T05:14:17.232Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
+        <id>https://github.com/faker-js/faker/releases/tag/v6.0.0</id>
+        <link href="https://github.com/faker-js/faker/releases/tag/v6.0.0"/>
+        <updated>2022-03-20T00:57:02.146Z</updated>
+        <content type="html"><![CDATA[(github.com/faker-js)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
