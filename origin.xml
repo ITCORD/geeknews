@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-20T02:14:33.715Z</updated>
+    <updated>2022-03-20T03:15:24.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
+        <id>https://somedaycode.tistory.com/m/5</id>
+        <link href="https://somedaycode.tistory.com/m/5"/>
+        <updated>2022-03-19T11:12:47.908Z</updated>
+        <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
         <id>https://github.com/faker-js/faker/releases/tag/v6.0.0</id>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[(avvvatars.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
-        <id>https://somedaycode.tistory.com/m/5</id>
-        <link href="https://somedaycode.tistory.com/m/5"/>
-        <updated>2022-03-19T11:12:47.908Z</updated>
-        <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
         <id>https://www.scanofthemonth.com/scans/food-packaging</id>
         <link href="https://www.scanofthemonth.com/scans/food-packaging"/>
@@ -39,6 +39,13 @@
         <link href="https://pockit.ai/"/>
         <updated>2022-03-19T21:12:32.079Z</updated>
         <content type="html"><![CDATA[(pockit.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 1.20 릴리즈]]></title>
+        <id>https://deno.com/blog/v1.20</id>
+        <link href="https://deno.com/blog/v1.20"/>
+        <updated>2022-03-20T03:14:43.710Z</updated>
+        <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mage - AI로 데이터에서 예측 해주는 도구]]></title>
@@ -104,18 +111,18 @@
         <content type="html"><![CDATA[(auth0.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
-        <id>https://www.veloren.net/</id>
-        <link href="https://www.veloren.net/"/>
-        <updated>2022-03-16T02:22:31.564Z</updated>
-        <content type="html"><![CDATA[(veloren.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최고의 머신러닝 알고리듬들]]></title>
         <id>https://www.unite.ai/ten-best-machine-learning-algorithms/</id>
         <link href="https://www.unite.ai/ten-best-machine-learning-algorithms/"/>
         <updated>2022-03-16T00:58:07.364Z</updated>
         <content type="html"><![CDATA[(unite.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
+        <id>https://www.veloren.net/</id>
+        <link href="https://www.veloren.net/"/>
+        <updated>2022-03-16T02:22:31.564Z</updated>
+        <content type="html"><![CDATA[(veloren.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
@@ -125,13 +132,6 @@
         <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safari 15.4에 추가된 새 WebKit 기능들]]></title>
-        <id>https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/</id>
-        <link href="https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/"/>
-        <updated>2022-03-19T00:53:50.461Z</updated>
-        <content type="html"><![CDATA[(webkit.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Class Central - 온라인 강의 검색엔진]]></title>
         <id>https://www.classcentral.com/</id>
         <link href="https://www.classcentral.com/"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(classcentral.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podman, Registry 없이 컨테이너 이미지 전송 가능]]></title>
-        <id>https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry</id>
-        <link href="https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry"/>
-        <updated>2022-03-18T01:12:30.195Z</updated>
-        <content type="html"><![CDATA[(redhat.com)]]></content>
+        <title type="html"><![CDATA[Safari 15.4에 추가된 새 WebKit 기능들]]></title>
+        <id>https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/</id>
+        <link href="https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/"/>
+        <updated>2022-03-19T00:53:50.461Z</updated>
+        <content type="html"><![CDATA[(webkit.org)]]></content>
     </entry>
 </feed>
