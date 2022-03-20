@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-20T11:18:09.439Z</updated>
+    <updated>2022-03-20T12:24:01.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
-        <id>https://somedaycode.tistory.com/m/5</id>
-        <link href="https://somedaycode.tistory.com/m/5"/>
-        <updated>2022-03-19T11:12:47.908Z</updated>
-        <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
         <id>https://pockit.ai/</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[(pockit.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
-        <id>https://avvvatars.com/</id>
-        <link href="https://avvvatars.com/"/>
-        <updated>2022-03-20T00:57:02.146Z</updated>
-        <content type="html"><![CDATA[(avvvatars.com)]]></content>
+        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
+        <id>https://somedaycode.tistory.com/m/5</id>
+        <link href="https://somedaycode.tistory.com/m/5"/>
+        <updated>2022-03-19T11:12:47.908Z</updated>
+        <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.20 릴리즈]]></title>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
-        <id>https://github.com/faker-js/faker/releases/tag/v6.0.0</id>
-        <link href="https://github.com/faker-js/faker/releases/tag/v6.0.0"/>
+        <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
+        <id>https://avvvatars.com/</id>
+        <link href="https://avvvatars.com/"/>
         <updated>2022-03-20T00:57:02.146Z</updated>
-        <content type="html"><![CDATA[(github.com/faker-js)]]></content>
+        <content type="html"><![CDATA[(avvvatars.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
@@ -46,6 +39,13 @@
         <link href="https://www.scanofthemonth.com/scans/food-packaging"/>
         <updated>2022-03-20T00:57:02.163Z</updated>
         <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
+        <id>https://github.com/faker-js/faker/releases/tag/v6.0.0</id>
+        <link href="https://github.com/faker-js/faker/releases/tag/v6.0.0"/>
+        <updated>2022-03-20T00:57:02.146Z</updated>
+        <content type="html"><![CDATA[(github.com/faker-js)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mage - AI로 데이터에서 예측 해주는 도구]]></title>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(github.com/rothgar)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
-        <id>https://simonwillison.net/2022/Mar/14/shot-scraper-template/</id>
-        <link href="https://simonwillison.net/2022/Mar/14/shot-scraper-template/"/>
-        <updated>2022-03-18T01:12:30.197Z</updated>
-        <content type="html"><![CDATA[(simonwillison.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
@@ -83,11 +76,25 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
+        <id>https://simonwillison.net/2022/Mar/14/shot-scraper-template/</id>
+        <link href="https://simonwillison.net/2022/Mar/14/shot-scraper-template/"/>
+        <updated>2022-03-18T01:12:30.197Z</updated>
+        <content type="html"><![CDATA[(simonwillison.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
         <id>https://tailscale.com/blog/free-plan/</id>
         <link href="https://tailscale.com/blog/free-plan/"/>
         <updated>2022-03-17T03:16:27.396Z</updated>
         <content type="html"><![CDATA[(tailscale.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
+        <id>https://go.dev/blog/go1.18</id>
+        <link href="https://go.dev/blog/go1.18"/>
+        <updated>2022-03-17T00:57:04.983Z</updated>
+        <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
@@ -102,13 +109,6 @@
         <link href="https://www.clockworkpi.com/product-page/devterm-kit-r01"/>
         <updated>2022-03-18T01:12:30.201Z</updated>
         <content type="html"><![CDATA[(clockworkpi.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
-        <id>https://go.dev/blog/go1.18</id>
-        <link href="https://go.dev/blog/go1.18"/>
-        <updated>2022-03-17T00:57:04.983Z</updated>
-        <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최고의 머신러닝 알고리듬들]]></title>
