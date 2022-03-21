@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-21T16:29:48.774Z</updated>
+    <updated>2022-03-21T17:18:38.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(cjchilvers.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
-        <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
-        <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
-        <updated>2022-03-21T02:27:05.876Z</updated>
-        <content type="html"><![CDATA[(beny23.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
         <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
         <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
         <updated>2022-03-21T02:27:05.888Z</updated>
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
+        <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
+        <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
+        <updated>2022-03-21T02:27:05.876Z</updated>
+        <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
@@ -61,18 +61,18 @@
         <content type="html"><![CDATA[(asahilinux.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
-        <id>https://pockit.ai/</id>
-        <link href="https://pockit.ai/"/>
-        <updated>2022-03-19T21:12:32.079Z</updated>
-        <content type="html"><![CDATA[(pockit.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
         <id>https://avvvatars.com/</id>
         <link href="https://avvvatars.com/"/>
         <updated>2022-03-20T00:57:02.146Z</updated>
         <content type="html"><![CDATA[(avvvatars.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
+        <id>https://pockit.ai/</id>
+        <link href="https://pockit.ai/"/>
+        <updated>2022-03-19T21:12:32.079Z</updated>
+        <content type="html"><![CDATA[(pockit.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
@@ -117,13 +117,6 @@
         <content type="html"><![CDATA[(blog.torproject.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
-        <id>https://simonwillison.net/2022/Mar/14/shot-scraper-template/</id>
-        <link href="https://simonwillison.net/2022/Mar/14/shot-scraper-template/"/>
-        <updated>2022-03-18T01:12:30.197Z</updated>
-        <content type="html"><![CDATA[(simonwillison.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
         <id>https://tailscale.com/blog/free-plan/</id>
         <link href="https://tailscale.com/blog/free-plan/"/>
@@ -131,11 +124,11 @@
         <content type="html"><![CDATA[(tailscale.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
-        <id>https://www.scanofthemonth.com/scans/food-packaging</id>
-        <link href="https://www.scanofthemonth.com/scans/food-packaging"/>
-        <updated>2022-03-20T00:57:02.163Z</updated>
-        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
+        <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
+        <id>https://simonwillison.net/2022/Mar/14/shot-scraper-template/</id>
+        <link href="https://simonwillison.net/2022/Mar/14/shot-scraper-template/"/>
+        <updated>2022-03-18T01:12:30.197Z</updated>
+        <content type="html"><![CDATA[(simonwillison.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
@@ -143,5 +136,12 @@
         <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
         <updated>2022-03-21T06:18:35.329Z</updated>
         <content type="html"><![CDATA[(auth0.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
+        <id>https://www.scanofthemonth.com/scans/food-packaging</id>
+        <link href="https://www.scanofthemonth.com/scans/food-packaging"/>
+        <updated>2022-03-20T00:57:02.163Z</updated>
+        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
 </feed>
