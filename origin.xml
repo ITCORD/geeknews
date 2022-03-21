@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-21T03:24:11.187Z</updated>
+    <updated>2022-03-21T04:20:46.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(simonwillison.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
-        <id>https://github.com/faker-js/faker/releases/tag/v6.0.0</id>
-        <link href="https://github.com/faker-js/faker/releases/tag/v6.0.0"/>
-        <updated>2022-03-20T00:57:02.146Z</updated>
-        <content type="html"><![CDATA[(github.com/faker-js)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
         <id>https://tailscale.com/blog/free-plan/</id>
         <link href="https://tailscale.com/blog/free-plan/"/>
         <updated>2022-03-17T03:16:27.396Z</updated>
         <content type="html"><![CDATA[(tailscale.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
+        <id>https://github.com/faker-js/faker/releases/tag/v6.0.0</id>
+        <link href="https://github.com/faker-js/faker/releases/tag/v6.0.0"/>
+        <updated>2022-03-20T00:57:02.146Z</updated>
+        <content type="html"><![CDATA[(github.com/faker-js)]]></content>
     </entry>
 </feed>
