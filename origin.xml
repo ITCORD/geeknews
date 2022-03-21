@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-21T22:16:02.278Z</updated>
+    <updated>2022-03-21T23:16:39.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -47,6 +47,13 @@
         <updated>2022-03-21T03:23:31.870Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
+        <id>https://pockit.ai/</id>
+        <link href="https://pockit.ai/"/>
+        <updated>2022-03-19T21:12:32.079Z</updated>
+        <content type="html"><![CDATA[(pockit.ai)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI의 code-davici 모델 이용해서 자연어로 게임 만들기]]></title>
         <id>https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/</id>
         <link href="https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/"/>
@@ -59,13 +66,6 @@
         <link href="https://asahilinux.org/2022/03/asahi-linux-alpha-release/"/>
         <updated>2022-03-21T00:57:40.352Z</updated>
         <content type="html"><![CDATA[(asahilinux.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
-        <id>https://pockit.ai/</id>
-        <link href="https://pockit.ai/"/>
-        <updated>2022-03-19T21:12:32.079Z</updated>
-        <content type="html"><![CDATA[(pockit.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
