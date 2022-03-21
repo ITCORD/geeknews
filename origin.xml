@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-21T04:20:46.016Z</updated>
+    <updated>2022-03-21T05:17:02.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Asahi Linux 알파 릴리즈 - 애플 M1칩용 리눅스]]></title>
-        <id>https://asahilinux.org/2022/03/asahi-linux-alpha-release/</id>
-        <link href="https://asahilinux.org/2022/03/asahi-linux-alpha-release/"/>
-        <updated>2022-03-21T00:57:40.352Z</updated>
-        <content type="html"><![CDATA[(asahilinux.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[네이버, 카카오, 엔씨소프트 임원은 연봉을 얼마나 받을까?]]></title>
         <id>https://channy.creation.net/blog/1551</id>
         <link href="https://channy.creation.net/blog/1551"/>
@@ -48,17 +41,24 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 사무실에서 쓰기에 좋았던 물건이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=6196</id>
-        <link href="https://news.hada.io/topic?id=6196"/>
-        <updated>2022-03-21T03:23:31.870Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI의 code-davici 모델 이용해서 자연어로 게임 만들기]]></title>
         <id>https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/</id>
         <link href="https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/"/>
         <updated>2022-03-21T00:57:40.354Z</updated>
         <content type="html"><![CDATA[(andrewmayneblog.wordpress.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux 알파 릴리즈 - 애플 M1칩용 리눅스]]></title>
+        <id>https://asahilinux.org/2022/03/asahi-linux-alpha-release/</id>
+        <link href="https://asahilinux.org/2022/03/asahi-linux-alpha-release/"/>
+        <updated>2022-03-21T00:57:40.352Z</updated>
+        <content type="html"><![CDATA[(asahilinux.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 사무실에서 쓰기에 좋았던 물건이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6196</id>
+        <link href="https://news.hada.io/topic?id=6196"/>
+        <updated>2022-03-21T03:23:31.870Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
