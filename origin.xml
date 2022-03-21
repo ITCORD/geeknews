@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-21T11:18:55.003Z</updated>
+    <updated>2022-03-21T12:25:18.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
-        <id>https://nextjs.org/learn/foundations/about-nextjs</id>
-        <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
-        <updated>2022-03-21T02:27:05.883Z</updated>
-        <content type="html"><![CDATA[(nextjs.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
         <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
         <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
         <updated>2022-03-21T02:27:05.888Z</updated>
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
+        <id>https://nextjs.org/learn/foundations/about-nextjs</id>
+        <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
+        <updated>2022-03-21T02:27:05.883Z</updated>
+        <content type="html"><![CDATA[(nextjs.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 카카오, 엔씨소프트 임원은 연봉을 얼마나 받을까?]]></title>
@@ -96,6 +96,13 @@
         <content type="html"><![CDATA[(mage.ai)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
+        <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
+        <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
+        <updated>2022-03-16T05:14:17.232Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Awesome TUIs]]></title>
         <id>https://github.com/rothgar/awesome-tuis</id>
         <link href="https://github.com/rothgar/awesome-tuis"/>
@@ -108,13 +115,6 @@
         <link href="https://blog.torproject.org/arti_010_released/"/>
         <updated>2022-03-19T00:53:50.461Z</updated>
         <content type="html"><![CDATA[(blog.torproject.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
-        <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
-        <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
-        <updated>2022-03-16T05:14:17.232Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
