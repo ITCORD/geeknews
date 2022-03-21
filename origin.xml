@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-21T08:23:20.728Z</updated>
+    <updated>2022-03-21T09:18:20.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
-        <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
-        <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
-        <updated>2022-03-21T02:27:05.876Z</updated>
-        <content type="html"><![CDATA[(beny23.github.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
         <id>https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing</id>
         <link href="https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing"/>
         <updated>2022-03-21T02:27:05.889Z</updated>
         <content type="html"><![CDATA[(cjchilvers.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
+        <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
+        <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
+        <updated>2022-03-21T02:27:05.876Z</updated>
+        <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
@@ -41,6 +41,12 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 사무실에서 쓰기에 좋았던 물건이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6196</id>
+        <link href="https://news.hada.io/topic?id=6196"/>
+        <updated>2022-03-21T03:23:31.870Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI의 code-davici 모델 이용해서 자연어로 게임 만들기]]></title>
         <id>https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/</id>
         <link href="https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/"/>
@@ -53,12 +59,6 @@
         <link href="https://asahilinux.org/2022/03/asahi-linux-alpha-release/"/>
         <updated>2022-03-21T00:57:40.352Z</updated>
         <content type="html"><![CDATA[(asahilinux.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 사무실에서 쓰기에 좋았던 물건이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=6196</id>
-        <link href="https://news.hada.io/topic?id=6196"/>
-        <updated>2022-03-21T03:23:31.870Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
@@ -110,18 +110,18 @@
         <content type="html"><![CDATA[(blog.torproject.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
-        <id>https://www.scanofthemonth.com/scans/food-packaging</id>
-        <link href="https://www.scanofthemonth.com/scans/food-packaging"/>
-        <updated>2022-03-20T00:57:02.163Z</updated>
-        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
         <updated>2022-03-16T05:14:17.232Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
+        <id>https://www.scanofthemonth.com/scans/food-packaging</id>
+        <link href="https://www.scanofthemonth.com/scans/food-packaging"/>
+        <updated>2022-03-20T00:57:02.163Z</updated>
+        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
