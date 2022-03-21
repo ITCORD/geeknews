@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-03-20T23:15:05.341Z</updated>
+    <updated>2022-03-21T00:58:20.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
+        <id>https://news.hada.io/weekly/202212</id>
+        <link href="https://news.hada.io/weekly/202212"/>
+        <updated>2022-03-21T00:58:04.968Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">141. </td><td class="fitwidth">202212</td><td width="*">&nbsp;<a href="/weekly/202212" class="u keepall"> 페어 프로그래밍 안티 패턴들</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
         <id>https://news.hada.io/weekly/202211</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202145"/>
         <updated>2022-01-12T20:09:57.806Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">122. </td><td class="fitwidth">202145</td><td width="*">&nbsp;<a href="/weekly/202145" class="u keepall"> 2021년 데이터/ML/AI 업계 지도와 최신 트렌드</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
-        <id>https://news.hada.io/weekly/202144</id>
-        <link href="https://news.hada.io/weekly/202144"/>
-        <updated>2022-01-12T20:09:57.807Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">121. </td><td class="fitwidth">202144</td><td width="*">&nbsp;<a href="/weekly/202144" class="u keepall"> 질문에 대한 유용한 답변을 얻는 방법</a></td>]]></content>
     </entry>
 </feed>
