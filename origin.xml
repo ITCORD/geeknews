@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-22T10:17:37.013Z</updated>
+    <updated>2022-03-22T11:22:36.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CotEditor - macOS용 오픈소스 텍스트 에디터]]></title>
-        <id>https://coteditor.com/</id>
-        <link href="https://coteditor.com/"/>
-        <updated>2022-03-22T02:33:37.905Z</updated>
-        <content type="html"><![CDATA[(coteditor.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더]]></title>
         <id>https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS</id>
         <link href="https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS"/>
         <updated>2022-03-22T00:59:36.895Z</updated>
         <content type="html"><![CDATA[(code.videolan.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CotEditor - macOS용 오픈소스 텍스트 에디터]]></title>
+        <id>https://coteditor.com/</id>
+        <link href="https://coteditor.com/"/>
+        <updated>2022-03-22T02:33:37.905Z</updated>
+        <content type="html"><![CDATA[(coteditor.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
-        <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
-        <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
-        <updated>2022-03-22T00:59:36.877Z</updated>
-        <content type="html"><![CDATA[(ymcinema.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
         <id>https://nextjs.org/learn/foundations/about-nextjs</id>
         <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
         <updated>2022-03-21T02:27:05.883Z</updated>
         <content type="html"><![CDATA[(nextjs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
+        <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
+        <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
+        <updated>2022-03-22T00:59:36.877Z</updated>
+        <content type="html"><![CDATA[(ymcinema.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple Studio Display엔 64GB가 있지만 2GB만 사용함]]></title>
@@ -88,6 +88,13 @@
         <link href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1647846029"/>
         <updated>2022-03-22T02:33:37.915Z</updated>
         <content type="html"><![CDATA[(flatpanelshd.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
+        <id>https://somedaycode.tistory.com/m/5</id>
+        <link href="https://somedaycode.tistory.com/m/5"/>
+        <updated>2022-03-19T11:12:47.908Z</updated>
+        <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
@@ -108,13 +115,6 @@
         <id>https://news.hada.io/topic?id=6196</id>
         <link href="https://news.hada.io/topic?id=6196"/>
         <updated>2022-03-21T03:23:31.870Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
-        <id>https://somedaycode.tistory.com/m/5</id>
-        <link href="https://somedaycode.tistory.com/m/5"/>
-        <updated>2022-03-19T11:12:47.908Z</updated>
-        <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
@@ -141,7 +141,7 @@
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
-        <updated>2022-03-22T10:16:55.638Z</updated>
+        <updated>2022-03-22T11:21:50.860Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
 </feed>
