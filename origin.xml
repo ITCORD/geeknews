@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-22T14:14:15.954Z</updated>
+    <updated>2022-03-22T15:17:11.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(skillbuilder.aws)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CotEditor - macOS용 오픈소스 텍스트 에디터]]></title>
+        <id>https://coteditor.com/</id>
+        <link href="https://coteditor.com/"/>
+        <updated>2022-03-22T02:33:37.905Z</updated>
+        <content type="html"><![CDATA[(coteditor.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
         <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
         <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
@@ -39,13 +46,6 @@
         <link href="https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing"/>
         <updated>2022-03-21T02:27:05.889Z</updated>
         <content type="html"><![CDATA[(cjchilvers.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CotEditor - macOS용 오픈소스 텍스트 에디터]]></title>
-        <id>https://coteditor.com/</id>
-        <link href="https://coteditor.com/"/>
-        <updated>2022-03-22T02:33:37.905Z</updated>
-        <content type="html"><![CDATA[(coteditor.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더]]></title>
