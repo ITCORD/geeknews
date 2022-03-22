@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-22T09:17:16.423Z</updated>
+    <updated>2022-03-22T10:17:37.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(examples.deno.land)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Cloud Quest 공개 - 클라우드 기술 교육용 온라인 RPG]]></title>
-        <id>https://skillbuilder.aws/cloudquest</id>
-        <link href="https://skillbuilder.aws/cloudquest"/>
-        <updated>2022-03-22T05:13:32.806Z</updated>
-        <content type="html"><![CDATA[(skillbuilder.aws)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
         <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
         <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
         <updated>2022-03-22T00:59:36.889Z</updated>
         <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cloud Quest 공개 - 클라우드 기술 교육용 온라인 RPG]]></title>
+        <id>https://skillbuilder.aws/cloudquest</id>
+        <link href="https://skillbuilder.aws/cloudquest"/>
+        <updated>2022-03-22T05:13:32.806Z</updated>
+        <content type="html"><![CDATA[(skillbuilder.aws)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더]]></title>
-        <id>https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS</id>
-        <link href="https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS"/>
-        <updated>2022-03-22T00:59:36.895Z</updated>
-        <content type="html"><![CDATA[(code.videolan.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CotEditor - macOS용 오픈소스 텍스트 에디터]]></title>
         <id>https://coteditor.com/</id>
         <link href="https://coteditor.com/"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(coteditor.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
-        <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
-        <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
-        <updated>2022-03-22T00:59:36.877Z</updated>
-        <content type="html"><![CDATA[(ymcinema.com)]]></content>
+        <title type="html"><![CDATA[dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더]]></title>
+        <id>https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS</id>
+        <link href="https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS"/>
+        <updated>2022-03-22T00:59:36.895Z</updated>
+        <content type="html"><![CDATA[(code.videolan.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
@@ -67,6 +60,13 @@
         <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
         <updated>2022-03-21T02:27:05.876Z</updated>
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
+        <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
+        <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
+        <updated>2022-03-22T00:59:36.877Z</updated>
+        <content type="html"><![CDATA[(ymcinema.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(flatpanelshd.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
+        <id>https://pockit.ai/</id>
+        <link href="https://pockit.ai/"/>
+        <updated>2022-03-19T21:12:32.079Z</updated>
+        <content type="html"><![CDATA[(pockit.ai)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[네이버, 카카오, 엔씨소프트 임원은 연봉을 얼마나 받을까?]]></title>
         <id>https://channy.creation.net/blog/1551</id>
         <link href="https://channy.creation.net/blog/1551"/>
@@ -108,13 +115,6 @@
         <link href="https://somedaycode.tistory.com/m/5"/>
         <updated>2022-03-19T11:12:47.908Z</updated>
         <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
-        <id>https://pockit.ai/</id>
-        <link href="https://pockit.ai/"/>
-        <updated>2022-03-19T21:12:32.079Z</updated>
-        <content type="html"><![CDATA[(pockit.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(asahilinux.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deno 1.20 릴리즈]]></title>
-        <id>https://deno.com/blog/v1.20</id>
-        <link href="https://deno.com/blog/v1.20"/>
-        <updated>2022-03-20T03:14:43.710Z</updated>
-        <content type="html"><![CDATA[(deno.com)]]></content>
+        <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
+        <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
+        <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
+        <updated>2022-03-22T10:16:55.638Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
 </feed>
