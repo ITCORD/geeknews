@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-22T19:19:33.735Z</updated>
+    <updated>2022-03-22T20:16:32.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,6 +124,13 @@
         <content type="html"><![CDATA[(avvvatars.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
+        <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
+        <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
+        <updated>2022-03-22T11:21:50.860Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI의 code-davici 모델 이용해서 자연어로 게임 만들기]]></title>
         <id>https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/</id>
         <link href="https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/"/>
@@ -136,12 +143,5 @@
         <link href="https://asahilinux.org/2022/03/asahi-linux-alpha-release/"/>
         <updated>2022-03-21T00:57:40.352Z</updated>
         <content type="html"><![CDATA[(asahilinux.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
-        <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
-        <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
-        <updated>2022-03-22T11:21:50.860Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
 </feed>
