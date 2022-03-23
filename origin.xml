@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-23T17:18:15.156Z</updated>
+    <updated>2022-03-23T18:28:48.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀]]></title>
-        <id>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</id>
-        <link href="https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/"/>
-        <updated>2022-03-23T02:54:07.983Z</updated>
-        <content type="html"><![CDATA[(roadandtrack.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
         <id>https://examples.deno.land/</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[(examples.deno.land)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
-        <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
-        <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
-        <updated>2022-03-22T00:59:36.889Z</updated>
-        <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
+        <title type="html"><![CDATA[벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀]]></title>
+        <id>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</id>
+        <link href="https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/"/>
+        <updated>2022-03-23T02:54:07.983Z</updated>
+        <content type="html"><![CDATA[(roadandtrack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
@@ -32,6 +25,13 @@
         <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
         <updated>2022-03-21T02:27:05.888Z</updated>
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
+        <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
+        <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
+        <updated>2022-03-22T00:59:36.889Z</updated>
+        <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
+        <id>https://nextjs.org/learn/foundations/about-nextjs</id>
+        <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
+        <updated>2022-03-21T02:27:05.883Z</updated>
+        <content type="html"><![CDATA[(nextjs.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lapsus$, Microsoft의 소스코드와 LG 계정 해쉬 덤프도 훔쳤다고 밝혀]]></title>
         <id>https://www.pcgamer.com/hacking-group-lapsusdollar-leaks-microsoft-source-code-and-lg-accounts/</id>
         <link href="https://www.pcgamer.com/hacking-group-lapsusdollar-leaks-microsoft-source-code-and-lg-accounts/"/>
@@ -95,13 +102,6 @@
         <link href="https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2"/>
         <updated>2022-03-23T01:04:49.361Z</updated>
         <content type="html"><![CDATA[(marc.info)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
-        <id>https://nextjs.org/learn/foundations/about-nextjs</id>
-        <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
-        <updated>2022-03-21T02:27:05.883Z</updated>
-        <content type="html"><![CDATA[(nextjs.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더]]></title>
