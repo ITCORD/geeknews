@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-23T11:12:42.379Z</updated>
+    <updated>2022-03-23T12:25:43.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com/MoonbaseOtago)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lapsus$ 해킹그룹, Okta를 해킹했다고 주장]]></title>
-        <id>https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group</id>
-        <link href="https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group"/>
-        <updated>2022-03-23T01:04:49.359Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
         <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
         <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
         <updated>2022-03-22T00:59:36.889Z</updated>
         <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lapsus$ 해킹그룹, Okta를 해킹했다고 주장]]></title>
+        <id>https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group</id>
+        <link href="https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group"/>
+        <updated>2022-03-23T01:04:49.359Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(pcgamer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenBSD/Arm64를 애플 M1 에서 동작 성공]]></title>
-        <id>https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2</id>
-        <link href="https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2"/>
-        <updated>2022-03-23T01:04:49.361Z</updated>
-        <content type="html"><![CDATA[(marc.info)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Cloud Quest 공개 - 클라우드 기술 교육용 온라인 RPG]]></title>
         <id>https://skillbuilder.aws/cloudquest</id>
         <link href="https://skillbuilder.aws/cloudquest"/>
         <updated>2022-03-22T05:13:32.806Z</updated>
         <content type="html"><![CDATA[(skillbuilder.aws)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD/Arm64를 애플 M1 에서 동작 성공]]></title>
+        <id>https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2</id>
+        <link href="https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2"/>
+        <updated>2022-03-23T01:04:49.361Z</updated>
+        <content type="html"><![CDATA[(marc.info)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(code.videolan.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
-        <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
-        <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
-        <updated>2022-03-22T00:59:36.877Z</updated>
-        <content type="html"><![CDATA[(ymcinema.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
         <id>https://somedaycode.tistory.com/m/5</id>
         <link href="https://somedaycode.tistory.com/m/5"/>
@@ -130,6 +123,13 @@
         <link href="https://pockit.ai/"/>
         <updated>2022-03-19T21:12:32.079Z</updated>
         <content type="html"><![CDATA[(pockit.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
+        <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
+        <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
+        <updated>2022-03-22T00:59:36.877Z</updated>
+        <content type="html"><![CDATA[(ymcinema.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple Studio Display엔 64GB가 있지만 2GB만 사용함]]></title>
