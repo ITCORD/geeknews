@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-23T03:29:48.418Z</updated>
+    <updated>2022-03-23T04:20:23.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.com/MoonbaseOtago/vroom"/>
         <updated>2022-03-23T02:54:07.971Z</updated>
         <content type="html"><![CDATA[(github.com/MoonbaseOtago)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀]]></title>
+        <id>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</id>
+        <link href="https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/"/>
+        <updated>2022-03-23T02:54:07.983Z</updated>
+        <content type="html"><![CDATA[(roadandtrack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lapsus$ 해킹그룹, Okta를 해킹했다고 주장]]></title>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(nvidianews.nvidia.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀]]></title>
-        <id>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</id>
-        <link href="https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/"/>
-        <updated>2022-03-23T02:54:07.983Z</updated>
-        <content type="html"><![CDATA[(roadandtrack.com)]]></content>
+        <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
+        <id>https://examples.deno.land/</id>
+        <link href="https://examples.deno.land/"/>
+        <updated>2022-03-22T02:33:37.901Z</updated>
+        <content type="html"><![CDATA[(examples.deno.land)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lapsus$, Microsoft의 소스코드와 LG 계정 해쉬 덤프도 훔쳤다고 밝혀]]></title>
@@ -39,13 +46,6 @@
         <link href="https://www.pcgamer.com/hacking-group-lapsusdollar-leaks-microsoft-source-code-and-lg-accounts/"/>
         <updated>2022-03-23T01:04:49.359Z</updated>
         <content type="html"><![CDATA[(pcgamer.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
-        <id>https://examples.deno.land/</id>
-        <link href="https://examples.deno.land/"/>
-        <updated>2022-03-22T02:33:37.901Z</updated>
-        <content type="html"><![CDATA[(examples.deno.land)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenBSD/Arm64를 애플 M1 에서 동작 성공]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
+        <id>https://pockit.ai/</id>
+        <link href="https://pockit.ai/"/>
+        <updated>2022-03-19T21:12:32.079Z</updated>
+        <content type="html"><![CDATA[(pockit.ai)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple Studio Display엔 64GB가 있지만 2GB만 사용함]]></title>
         <id>https://www.macrumors.com/2022/03/21/studio-display-contains-64gb-storage/</id>
         <link href="https://www.macrumors.com/2022/03/21/studio-display-contains-64gb-storage/"/>
@@ -137,12 +144,5 @@
         <link href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1647846029"/>
         <updated>2022-03-22T02:33:37.915Z</updated>
         <content type="html"><![CDATA[(flatpanelshd.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
-        <id>https://pockit.ai/</id>
-        <link href="https://pockit.ai/"/>
-        <updated>2022-03-19T21:12:32.079Z</updated>
-        <content type="html"><![CDATA[(pockit.ai)]]></content>
     </entry>
 </feed>
