@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-24T04:20:29.570Z</updated>
+    <updated>2022-03-24T05:15:52.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,25 @@
         <content type="html"><![CDATA[(mitmproxy.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify와 구글, 결제 방식을 선택할 수 있는 User Choice Billing 발표]]></title>
-        <id>https://newsroom.spotify.com/2022-03-23/spotify-and-google-announce-user-choice-billing/</id>
-        <link href="https://newsroom.spotify.com/2022-03-23/spotify-and-google-announce-user-choice-billing/"/>
-        <updated>2022-03-24T00:59:52.536Z</updated>
-        <content type="html"><![CDATA[(newsroom.spotify.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022 AI Index Report]]></title>
         <id>https://aiindex.stanford.edu/report/</id>
         <link href="https://aiindex.stanford.edu/report/"/>
         <updated>2022-03-24T00:59:52.564Z</updated>
         <content type="html"><![CDATA[(aiindex.stanford.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPAA 2021 테마 보고서]]></title>
+        <id>https://www.motionpictures.org/research-docs/2021-theme-report/</id>
+        <link href="https://www.motionpictures.org/research-docs/2021-theme-report/"/>
+        <updated>2022-03-24T05:14:59.920Z</updated>
+        <content type="html"><![CDATA[(motionpictures.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify와 구글, 결제 방식을 선택할 수 있는 User Choice Billing 발표]]></title>
+        <id>https://newsroom.spotify.com/2022-03-23/spotify-and-google-announce-user-choice-billing/</id>
+        <link href="https://newsroom.spotify.com/2022-03-23/spotify-and-google-announce-user-choice-billing/"/>
+        <updated>2022-03-24T00:59:52.536Z</updated>
+        <content type="html"><![CDATA[(newsroom.spotify.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java 18 / JDK 18 : General Availability]]></title>
@@ -97,13 +104,6 @@
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VRoom - 하이엔드 RISC-V 구현체 오픈소스]]></title>
-        <id>https://github.com/MoonbaseOtago/vroom</id>
-        <link href="https://github.com/MoonbaseOtago/vroom"/>
-        <updated>2022-03-23T02:54:07.971Z</updated>
-        <content type="html"><![CDATA[(github.com/MoonbaseOtago)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Cloud Quest 공개 - 클라우드 기술 교육용 온라인 RPG]]></title>
         <id>https://skillbuilder.aws/cloudquest</id>
         <link href="https://skillbuilder.aws/cloudquest"/>
@@ -111,11 +111,11 @@
         <content type="html"><![CDATA[(skillbuilder.aws)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lapsus$ 해킹그룹, Okta를 해킹했다고 주장]]></title>
-        <id>https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group</id>
-        <link href="https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group"/>
-        <updated>2022-03-23T01:04:49.359Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
+        <title type="html"><![CDATA[VRoom - 하이엔드 RISC-V 구현체 오픈소스]]></title>
+        <id>https://github.com/MoonbaseOtago/vroom</id>
+        <link href="https://github.com/MoonbaseOtago/vroom"/>
+        <updated>2022-03-23T02:54:07.971Z</updated>
+        <content type="html"><![CDATA[(github.com/MoonbaseOtago)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
@@ -123,6 +123,13 @@
         <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
         <updated>2022-03-21T02:27:05.883Z</updated>
         <content type="html"><![CDATA[(nextjs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lapsus$ 해킹그룹, Okta를 해킹했다고 주장]]></title>
+        <id>https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group</id>
+        <link href="https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group"/>
+        <updated>2022-03-23T01:04:49.359Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더]]></title>
@@ -137,12 +144,5 @@
         <link href="https://nvidianews.nvidia.com/news/nvidia-announces-hopper-architecture-the-next-generation-of-accelerated-computing"/>
         <updated>2022-03-23T03:28:59.442Z</updated>
         <content type="html"><![CDATA[(nvidianews.nvidia.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapsus$, Microsoft의 소스코드와 LG 계정 해쉬 덤프도 훔쳤다고 밝혀]]></title>
-        <id>https://www.pcgamer.com/hacking-group-lapsusdollar-leaks-microsoft-source-code-and-lg-accounts/</id>
-        <link href="https://www.pcgamer.com/hacking-group-lapsusdollar-leaks-microsoft-source-code-and-lg-accounts/"/>
-        <updated>2022-03-23T01:04:49.359Z</updated>
-        <content type="html"><![CDATA[(pcgamer.com)]]></content>
     </entry>
 </feed>
