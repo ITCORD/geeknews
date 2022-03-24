@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-24T06:19:27.047Z</updated>
+    <updated>2022-03-24T07:15:31.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(mitmproxy.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MPAA 2021 테마 보고서]]></title>
+        <id>https://www.motionpictures.org/research-docs/2021-theme-report/</id>
+        <link href="https://www.motionpictures.org/research-docs/2021-theme-report/"/>
+        <updated>2022-03-24T05:14:59.920Z</updated>
+        <content type="html"><![CDATA[(motionpictures.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 AI Index Report]]></title>
         <id>https://aiindex.stanford.edu/report/</id>
         <link href="https://aiindex.stanford.edu/report/"/>
@@ -46,13 +53,6 @@
         <link href="https://mail.openjdk.java.net/pipermail/jdk-dev/2022-March/006458.html"/>
         <updated>2022-03-24T00:59:52.564Z</updated>
         <content type="html"><![CDATA[(mail.openjdk.java.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPAA 2021 테마 보고서]]></title>
-        <id>https://www.motionpictures.org/research-docs/2021-theme-report/</id>
-        <link href="https://www.motionpictures.org/research-docs/2021-theme-report/"/>
-        <updated>2022-03-24T05:14:59.920Z</updated>
-        <content type="html"><![CDATA[(motionpictures.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(skillbuilder.aws)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VRoom - 하이엔드 RISC-V 구현체 오픈소스]]></title>
-        <id>https://github.com/MoonbaseOtago/vroom</id>
-        <link href="https://github.com/MoonbaseOtago/vroom"/>
-        <updated>2022-03-23T02:54:07.971Z</updated>
-        <content type="html"><![CDATA[(github.com/MoonbaseOtago)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
         <id>https://nextjs.org/learn/foundations/about-nextjs</id>
         <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
         <updated>2022-03-21T02:27:05.883Z</updated>
         <content type="html"><![CDATA[(nextjs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRoom - 하이엔드 RISC-V 구현체 오픈소스]]></title>
+        <id>https://github.com/MoonbaseOtago/vroom</id>
+        <link href="https://github.com/MoonbaseOtago/vroom"/>
+        <updated>2022-03-23T02:54:07.971Z</updated>
+        <content type="html"><![CDATA[(github.com/MoonbaseOtago)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lapsus$ 해킹그룹, Okta를 해킹했다고 주장]]></title>
