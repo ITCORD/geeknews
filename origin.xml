@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-26T05:14:31.728Z</updated>
+    <updated>2022-03-26T06:17:47.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
-        <id>https://librewolf.net/</id>
-        <link href="https://librewolf.net/"/>
-        <updated>2022-03-26T02:22:19.836Z</updated>
-        <content type="html"><![CDATA[(librewolf.net)]]></content>
+        <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
+        <id>https://planb.hashnode.dev/fastapi-flask</id>
+        <link href="https://planb.hashnode.dev/fastapi-flask"/>
+        <updated>2022-03-26T06:17:09.898Z</updated>
+        <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
@@ -18,6 +18,13 @@
         <link href="https://www.agnosticui.com/"/>
         <updated>2022-03-26T00:58:57.131Z</updated>
         <content type="html"><![CDATA[(agnosticui.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
+        <id>https://librewolf.net/</id>
+        <link href="https://librewolf.net/"/>
+        <updated>2022-03-26T02:22:19.836Z</updated>
+        <content type="html"><![CDATA[(librewolf.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
@@ -136,12 +143,5 @@
         <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
         <updated>2022-03-21T02:27:05.876Z</updated>
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CotEditor - macOS용 오픈소스 텍스트 에디터]]></title>
-        <id>https://coteditor.com/</id>
-        <link href="https://coteditor.com/"/>
-        <updated>2022-03-22T02:33:37.905Z</updated>
-        <content type="html"><![CDATA[(coteditor.com)]]></content>
     </entry>
 </feed>
