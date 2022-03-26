@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-25T23:15:56.395Z</updated>
+    <updated>2022-03-26T00:59:42.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
+        <id>https://www.agnosticui.com/</id>
+        <link href="https://www.agnosticui.com/"/>
+        <updated>2022-03-26T00:58:57.131Z</updated>
+        <content type="html"><![CDATA[(agnosticui.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
+        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
+        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
+        <updated>2022-03-26T00:58:57.131Z</updated>
+        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제]]></title>
         <id>https://boxyhq.com/</id>
@@ -110,6 +124,13 @@
         <content type="html"><![CDATA[(aiindex.stanford.edu)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
+        <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
+        <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
+        <updated>2022-03-21T02:27:05.876Z</updated>
+        <content type="html"><![CDATA[(beny23.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MPAA 2021 테마 보고서]]></title>
         <id>https://www.motionpictures.org/research-docs/2021-theme-report/</id>
         <link href="https://www.motionpictures.org/research-docs/2021-theme-report/"/>
@@ -122,26 +143,5 @@
         <link href="https://coteditor.com/"/>
         <updated>2022-03-22T02:33:37.905Z</updated>
         <content type="html"><![CDATA[(coteditor.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
-        <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
-        <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
-        <updated>2022-03-21T02:27:05.876Z</updated>
-        <content type="html"><![CDATA[(beny23.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀]]></title>
-        <id>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</id>
-        <link href="https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/"/>
-        <updated>2022-03-23T02:54:07.983Z</updated>
-        <content type="html"><![CDATA[(roadandtrack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
-        <id>https://nextjs.org/learn/foundations/about-nextjs</id>
-        <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
-        <updated>2022-03-25T06:19:09.759Z</updated>
-        <content type="html"><![CDATA[(nextjs.org)]]></content>
     </entry>
 </feed>
