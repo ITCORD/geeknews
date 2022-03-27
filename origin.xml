@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-27T15:16:23.970Z</updated>
+    <updated>2022-03-27T16:21:22.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(aschmelyun.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
-        <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
-        <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
-        <updated>2022-03-27T01:01:58.737Z</updated>
-        <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
         <id>https://planb.hashnode.dev/fastapi-flask</id>
         <link href="https://planb.hashnode.dev/fastapi-flask"/>
         <updated>2022-03-26T06:17:09.898Z</updated>
         <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
+        <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
+        <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
+        <updated>2022-03-27T01:01:58.737Z</updated>
+        <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XDM - Xtreme Download Manager]]></title>
@@ -39,6 +39,13 @@
         <link href="https://overtone.github.io/"/>
         <updated>2022-03-27T01:01:58.735Z</updated>
         <content type="html"><![CDATA[(overtone.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
+        <id>https://www.agnosticui.com/</id>
+        <link href="https://www.agnosticui.com/"/>
+        <updated>2022-03-26T00:58:57.131Z</updated>
+        <content type="html"><![CDATA[(agnosticui.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
@@ -69,18 +76,11 @@
         <content type="html"><![CDATA[(librewolf.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
-        <id>https://www.agnosticui.com/</id>
-        <link href="https://www.agnosticui.com/"/>
-        <updated>2022-03-26T00:58:57.131Z</updated>
-        <content type="html"><![CDATA[(agnosticui.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReVanced - 광고차단 유튜브 앱 Vanced를 이어서 개발]]></title>
-        <id>https://github.com/ReVancedTeam</id>
-        <link href="https://github.com/ReVancedTeam"/>
-        <updated>2022-03-27T01:01:58.736Z</updated>
-        <content type="html"><![CDATA[(github.com/ReVancedTeam)]]></content>
+        <title type="html"><![CDATA[Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리]]></title>
+        <id>https://github.com/nebuly-ai/nebullvm</id>
+        <link href="https://github.com/nebuly-ai/nebullvm"/>
+        <updated>2022-03-25T00:57:43.412Z</updated>
+        <content type="html"><![CDATA[(github.com/nebuly-ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Qubes OS - 가장 안전한 운영체제]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(qubes-os.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ReVanced - 광고차단 유튜브 앱 Vanced를 이어서 개발]]></title>
+        <id>https://github.com/ReVancedTeam</id>
+        <link href="https://github.com/ReVancedTeam"/>
+        <updated>2022-03-27T01:01:58.736Z</updated>
+        <content type="html"><![CDATA[(github.com/ReVancedTeam)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fastcompany 선정 2022년 가장 혁신적인 회사 50]]></title>
         <id>https://www.fastcompany.com/most-innovative-companies/2022</id>
         <link href="https://www.fastcompany.com/most-innovative-companies/2022"/>
@@ -97,11 +104,11 @@
         <content type="html"><![CDATA[(fastcompany.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리]]></title>
-        <id>https://github.com/nebuly-ai/nebullvm</id>
-        <link href="https://github.com/nebuly-ai/nebullvm"/>
-        <updated>2022-03-25T00:57:43.412Z</updated>
-        <content type="html"><![CDATA[(github.com/nebuly-ai)]]></content>
+        <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
+        <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
+        <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
+        <updated>2022-03-21T02:27:05.888Z</updated>
+        <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI로 가짜뉴스, 딥페이크, 이를 전파하는 소셜 미디어 봇 판별하는 방식]]></title>
@@ -109,13 +116,6 @@
         <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222682482444&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1"/>
         <updated>2022-03-25T09:15:28.636Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
-        <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
-        <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
-        <updated>2022-03-21T02:27:05.888Z</updated>
-        <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모질라 개발자 사이트 MDN Plus 공개]]></title>
