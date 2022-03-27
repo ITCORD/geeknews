@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-27T02:27:27.480Z</updated>
+    <updated>2022-03-27T03:19:54.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/"/>
         <updated>2022-03-27T02:26:45.215Z</updated>
         <content type="html"><![CDATA[(aschmelyun.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
+        <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
+        <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
+        <updated>2022-03-27T01:01:58.737Z</updated>
+        <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
@@ -39,13 +46,6 @@
         <link href="https://github.com/ReVancedTeam"/>
         <updated>2022-03-27T01:01:58.736Z</updated>
         <content type="html"><![CDATA[(github.com/ReVancedTeam)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
-        <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
-        <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
-        <updated>2022-03-27T01:01:58.737Z</updated>
-        <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
