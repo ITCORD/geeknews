@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-27T03:19:54.809Z</updated>
+    <updated>2022-03-27T04:19:33.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(github.com/ReVancedTeam)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
+        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
+        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
+        <updated>2022-03-26T00:58:57.131Z</updated>
+        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
         <id>https://librewolf.net/</id>
         <link href="https://librewolf.net/"/>
@@ -60,13 +67,6 @@
         <link href="https://www.agnosticui.com/"/>
         <updated>2022-03-26T00:58:57.131Z</updated>
         <content type="html"><![CDATA[(agnosticui.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
-        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
-        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
-        <updated>2022-03-26T00:58:57.131Z</updated>
-        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(kagi.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastcompany 선정 2022년 가장 혁신적인 회사 50]]></title>
-        <id>https://www.fastcompany.com/most-innovative-companies/2022</id>
-        <link href="https://www.fastcompany.com/most-innovative-companies/2022"/>
-        <updated>2022-03-24T03:21:20.119Z</updated>
-        <content type="html"><![CDATA[(fastcompany.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Qubes OS - 가장 안전한 운영체제]]></title>
         <id>https://www.qubes-os.org/</id>
         <link href="https://www.qubes-os.org/"/>
         <updated>2022-03-24T02:28:00.049Z</updated>
         <content type="html"><![CDATA[(qubes-os.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastcompany 선정 2022년 가장 혁신적인 회사 50]]></title>
+        <id>https://www.fastcompany.com/most-innovative-companies/2022</id>
+        <link href="https://www.fastcompany.com/most-innovative-companies/2022"/>
+        <updated>2022-03-24T03:21:20.119Z</updated>
+        <content type="html"><![CDATA[(fastcompany.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN Plus 공개]]></title>
+        <id>https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/</id>
+        <link href="https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/"/>
+        <updated>2022-03-27T04:18:45.879Z</updated>
+        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mitmproxy 8 릴리즈]]></title>
         <id>https://mitmproxy.org/posts/releases/mitmproxy8/</id>
         <link href="https://mitmproxy.org/posts/releases/mitmproxy8/"/>
@@ -137,12 +144,5 @@
         <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
         <updated>2022-03-22T00:59:36.889Z</updated>
         <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
-        <id>https://examples.deno.land/</id>
-        <link href="https://examples.deno.land/"/>
-        <updated>2022-03-22T02:33:37.901Z</updated>
-        <content type="html"><![CDATA[(examples.deno.land)]]></content>
     </entry>
 </feed>
