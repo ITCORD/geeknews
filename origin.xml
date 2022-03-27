@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-27T20:17:27.891Z</updated>
+    <updated>2022-03-27T21:16:07.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(overtone.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
-        <id>https://www.agnosticui.com/</id>
-        <link href="https://www.agnosticui.com/"/>
-        <updated>2022-03-26T00:58:57.131Z</updated>
-        <content type="html"><![CDATA[(agnosticui.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제]]></title>
         <id>https://boxyhq.com/</id>
         <link href="https://boxyhq.com/"/>
         <updated>2022-03-25T02:21:35.313Z</updated>
         <content type="html"><![CDATA[(boxyhq.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
+        <id>https://www.agnosticui.com/</id>
+        <link href="https://www.agnosticui.com/"/>
+        <updated>2022-03-26T00:58:57.131Z</updated>
+        <content type="html"><![CDATA[(agnosticui.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(qubes-os.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
-        <id>https://librewolf.net/</id>
-        <link href="https://librewolf.net/"/>
-        <updated>2022-03-26T02:22:19.836Z</updated>
-        <content type="html"><![CDATA[(librewolf.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리]]></title>
         <id>https://github.com/nebuly-ai/nebullvm</id>
         <link href="https://github.com/nebuly-ai/nebullvm"/>
         <updated>2022-03-25T00:57:43.412Z</updated>
         <content type="html"><![CDATA[(github.com/nebuly-ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
+        <id>https://librewolf.net/</id>
+        <link href="https://librewolf.net/"/>
+        <updated>2022-03-26T02:22:19.836Z</updated>
+        <content type="html"><![CDATA[(librewolf.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fastcompany 선정 2022년 가장 혁신적인 회사 50]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ReVanced - 광고차단 유튜브 앱 Vanced를 이어서 개발]]></title>
-        <id>https://github.com/ReVancedTeam</id>
-        <link href="https://github.com/ReVancedTeam"/>
-        <updated>2022-03-27T01:01:58.736Z</updated>
-        <content type="html"><![CDATA[(github.com/ReVancedTeam)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
         <id>https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing</id>
         <link href="https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing"/>
@@ -125,11 +118,11 @@
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모질라 개발자 사이트 MDN Plus 공개]]></title>
-        <id>https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/</id>
-        <link href="https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/"/>
-        <updated>2022-03-27T04:18:45.879Z</updated>
-        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
+        <title type="html"><![CDATA[ReVanced - 광고차단 유튜브 앱 Vanced를 이어서 개발]]></title>
+        <id>https://github.com/ReVancedTeam</id>
+        <link href="https://github.com/ReVancedTeam"/>
+        <updated>2022-03-27T01:01:58.736Z</updated>
+        <content type="html"><![CDATA[(github.com/ReVancedTeam)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
@@ -137,6 +130,13 @@
         <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
         <updated>2022-03-22T00:59:36.889Z</updated>
         <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN Plus 공개]]></title>
+        <id>https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/</id>
+        <link href="https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/"/>
+        <updated>2022-03-27T04:18:45.879Z</updated>
+        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mitmproxy 8 릴리즈]]></title>
