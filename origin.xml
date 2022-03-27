@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-27T11:14:01.343Z</updated>
+    <updated>2022-03-27T12:24:29.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(aschmelyun.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
-        <id>https://planb.hashnode.dev/fastapi-flask</id>
-        <link href="https://planb.hashnode.dev/fastapi-flask"/>
-        <updated>2022-03-26T06:17:09.898Z</updated>
-        <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
         <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
         <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
         <updated>2022-03-27T01:01:58.737Z</updated>
         <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
+        <id>https://planb.hashnode.dev/fastapi-flask</id>
+        <link href="https://planb.hashnode.dev/fastapi-flask"/>
+        <updated>2022-03-26T06:17:09.898Z</updated>
+        <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XDM - Xtreme Download Manager]]></title>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(github.com/subhra74)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
-        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
-        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
-        <updated>2022-03-26T00:58:57.131Z</updated>
-        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Overtone - 오픈소스 협업 프로그래머블 음악 환경]]></title>
         <id>https://overtone.github.io/</id>
         <link href="https://overtone.github.io/"/>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[(overtone.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ReVanced - 광고차단 유튜브 앱 Vanced를 이어서 개발]]></title>
-        <id>https://github.com/ReVancedTeam</id>
-        <link href="https://github.com/ReVancedTeam"/>
-        <updated>2022-03-27T01:01:58.736Z</updated>
-        <content type="html"><![CDATA[(github.com/ReVancedTeam)]]></content>
+        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
+        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
+        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
+        <updated>2022-03-26T00:58:57.131Z</updated>
+        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제]]></title>
@@ -74,6 +67,13 @@
         <link href="https://www.agnosticui.com/"/>
         <updated>2022-03-26T00:58:57.131Z</updated>
         <content type="html"><![CDATA[(agnosticui.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReVanced - 광고차단 유튜브 앱 Vanced를 이어서 개발]]></title>
+        <id>https://github.com/ReVancedTeam</id>
+        <link href="https://github.com/ReVancedTeam"/>
+        <updated>2022-03-27T01:01:58.736Z</updated>
+        <content type="html"><![CDATA[(github.com/ReVancedTeam)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kagi Search - 빠르고 사용자 중심적인 검색 엔진]]></title>
