@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-28T05:14:32.525Z</updated>
+    <updated>2022-03-28T06:19:11.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(getconvoy.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Issue 실물 티켓 프린터를 만들었어요]]></title>
-        <id>https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/</id>
-        <link href="https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/"/>
-        <updated>2022-03-27T02:26:45.215Z</updated>
-        <content type="html"><![CDATA[(aschmelyun.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
         <id>https://planb.hashnode.dev/fastapi-flask</id>
         <link href="https://planb.hashnode.dev/fastapi-flask"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
-        <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
-        <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
-        <updated>2022-03-27T01:01:58.737Z</updated>
-        <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
+        <title type="html"><![CDATA[GitHub Issue 실물 티켓 프린터를 만들었어요]]></title>
+        <id>https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/</id>
+        <link href="https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/"/>
+        <updated>2022-03-27T02:26:45.215Z</updated>
+        <content type="html"><![CDATA[(aschmelyun.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XDM - Xtreme Download Manager]]></title>
@@ -67,6 +60,13 @@
         <link href="https://github.com/subhra74/xdm"/>
         <updated>2022-03-27T02:26:45.215Z</updated>
         <content type="html"><![CDATA[(github.com/subhra74)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
+        <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
+        <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
+        <updated>2022-03-27T01:01:58.737Z</updated>
+        <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Overtone - 오픈소스 협업 프로그래머블 음악 환경]]></title>
