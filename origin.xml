@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-29T13:25:32.598Z</updated>
+    <updated>2022-03-29T14:18:42.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern PHP]]></title>
-        <id>https://dnlytras.com/blog/modern-php/</id>
-        <link href="https://dnlytras.com/blog/modern-php/"/>
-        <updated>2022-03-29T01:04:06.574Z</updated>
-        <content type="html"><![CDATA[(dnlytras.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gefyra - 빠르고 안정적인 쿠버네티스 기반 로컬 개발환경]]></title>
         <id>https://gefyra.dev/</id>
         <link href="https://gefyra.dev/"/>
         <updated>2022-03-28T01:06:27.744Z</updated>
         <content type="html"><![CDATA[(gefyra.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern PHP]]></title>
+        <id>https://dnlytras.com/blog/modern-php/</id>
+        <link href="https://dnlytras.com/blog/modern-php/"/>
+        <updated>2022-03-29T01:04:06.574Z</updated>
+        <content type="html"><![CDATA[(dnlytras.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Killed by Microsoft]]></title>
