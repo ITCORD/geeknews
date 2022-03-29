@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-28T23:17:06.117Z</updated>
+    <updated>2022-03-29T01:04:48.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cli2Cloud - 터미널 아웃풋을 실시간 공유하기]]></title>
+        <id>https://cli2cloud.com/</id>
+        <link href="https://cli2cloud.com/"/>
+        <updated>2022-03-29T01:04:06.562Z</updated>
+        <content type="html"><![CDATA[(cli2cloud.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
         <id>https://brunch.co.kr/@eugenekimpsah/14</id>
         <link href="https://brunch.co.kr/@eugenekimpsah/14"/>
         <updated>2022-03-28T02:58:05.558Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가]]></title>
+        <id>https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies</id>
+        <link href="https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies"/>
+        <updated>2022-03-28T02:58:05.558Z</updated>
+        <content type="html"><![CDATA[(shomik.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요?]]></title>
@@ -20,11 +34,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가]]></title>
-        <id>https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies</id>
-        <link href="https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies"/>
-        <updated>2022-03-28T02:58:05.558Z</updated>
-        <content type="html"><![CDATA[(shomik.substack.com)]]></content>
+        <title type="html"><![CDATA[AltTab - 윈도우의 Alt-Tab을 macOS에]]></title>
+        <id>https://alt-tab-macos.netlify.app/</id>
+        <link href="https://alt-tab-macos.netlify.app/"/>
+        <updated>2022-03-29T01:04:06.568Z</updated>
+        <content type="html"><![CDATA[(alt-tab-macos.netlify.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern PHP]]></title>
+        <id>https://dnlytras.com/blog/modern-php/</id>
+        <link href="https://dnlytras.com/blog/modern-php/"/>
+        <updated>2022-03-29T01:04:06.574Z</updated>
+        <content type="html"><![CDATA[(dnlytras.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gefyra - 빠르고 안정적인 쿠버네티스 기반 로컬 개발환경]]></title>
@@ -123,26 +144,5 @@
         <link href="https://librewolf.net/"/>
         <updated>2022-03-26T02:22:19.836Z</updated>
         <content type="html"><![CDATA[(librewolf.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
-        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
-        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
-        <updated>2022-03-26T00:58:57.131Z</updated>
-        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
-        <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
-        <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
-        <updated>2022-03-28T16:21:39.397Z</updated>
-        <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
-        <id>https://examples.deno.land/</id>
-        <link href="https://examples.deno.land/"/>
-        <updated>2022-03-28T16:21:39.397Z</updated>
-        <content type="html"><![CDATA[(examples.deno.land)]]></content>
     </entry>
 </feed>
