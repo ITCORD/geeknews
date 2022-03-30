@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-30T15:16:04.130Z</updated>
+    <updated>2022-03-30T16:21:05.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
+        <id>https://fluenticons.co/</id>
+        <link href="https://fluenticons.co/"/>
+        <updated>2022-03-29T02:57:30.018Z</updated>
+        <content type="html"><![CDATA[(fluenticons.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 문서, 마크다운 편집 지원 기능 추가]]></title>
         <id>https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1</id>
         <link href="https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1"/>
@@ -39,13 +46,6 @@
         <link href="https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/"/>
         <updated>2022-03-30T01:03:18.950Z</updated>
         <content type="html"><![CDATA[(caffeinatedwonders.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
-        <id>https://fluenticons.co/</id>
-        <link href="https://fluenticons.co/"/>
-        <updated>2022-03-29T02:57:30.018Z</updated>
-        <content type="html"><![CDATA[(fluenticons.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위대한 비즈니스에서 배우는 교훈]]></title>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(cli2cloud.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React v18 정식 릴리즈]]></title>
-        <id>https://reactjs.org/blog/2022/03/29/react-v18.html</id>
-        <link href="https://reactjs.org/blog/2022/03/29/react-v18.html"/>
-        <updated>2022-03-29T20:15:17.026Z</updated>
-        <content type="html"><![CDATA[(reactjs.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
         <id>https://brunch.co.kr/@eugenekimpsah/14</id>
         <link href="https://brunch.co.kr/@eugenekimpsah/14"/>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딥/머신러닝에 관심 있다면? 구름IDE GPU 인스턴스 베타 오픈]]></title>
-        <id>https://blog.goorm.io/%eb%94%a5-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%ec%97%90-%ea%b4%80%ec%8b%ac-%ec%9e%88%eb%8b%a4%eb%a9%b4-%ea%b5%ac%eb%a6%84ide-gpu-%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%eb%b2%a0%ed%83%80-%ec%98%a4/</id>
-        <link href="https://blog.goorm.io/%eb%94%a5-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%ec%97%90-%ea%b4%80%ec%8b%ac-%ec%9e%88%eb%8b%a4%eb%a9%b4-%ea%b5%ac%eb%a6%84ide-gpu-%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%eb%b2%a0%ed%83%80-%ec%98%a4/"/>
-        <updated>2022-03-30T02:54:29.332Z</updated>
-        <content type="html"><![CDATA[(blog.goorm.io)]]></content>
+        <title type="html"><![CDATA[React v18 정식 릴리즈]]></title>
+        <id>https://reactjs.org/blog/2022/03/29/react-v18.html</id>
+        <link href="https://reactjs.org/blog/2022/03/29/react-v18.html"/>
+        <updated>2022-03-29T20:15:17.026Z</updated>
+        <content type="html"><![CDATA[(reactjs.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가]]></title>
@@ -88,6 +81,13 @@
         <link href="https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies"/>
         <updated>2022-03-28T02:58:05.558Z</updated>
         <content type="html"><![CDATA[(shomik.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딥/머신러닝에 관심 있다면? 구름IDE GPU 인스턴스 베타 오픈]]></title>
+        <id>https://blog.goorm.io/%eb%94%a5-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%ec%97%90-%ea%b4%80%ec%8b%ac-%ec%9e%88%eb%8b%a4%eb%a9%b4-%ea%b5%ac%eb%a6%84ide-gpu-%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%eb%b2%a0%ed%83%80-%ec%98%a4/</id>
+        <link href="https://blog.goorm.io/%eb%94%a5-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%ec%97%90-%ea%b4%80%ec%8b%ac-%ec%9e%88%eb%8b%a4%eb%a9%b4-%ea%b5%ac%eb%a6%84ide-gpu-%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%eb%b2%a0%ed%83%80-%ec%98%a4/"/>
+        <updated>2022-03-30T02:54:29.332Z</updated>
+        <content type="html"><![CDATA[(blog.goorm.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검색 랭킹 흐름 만들기: 검색은 처음 인디요]]></title>
