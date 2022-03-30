@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-30T03:30:20.481Z</updated>
+    <updated>2022-03-30T04:19:19.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(blog.goorm.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
+        <id>https://fluenticons.co/</id>
+        <link href="https://fluenticons.co/"/>
+        <updated>2022-03-29T02:57:30.018Z</updated>
+        <content type="html"><![CDATA[(fluenticons.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[검색 랭킹 흐름 만들기: 검색은 처음 인디요]]></title>
         <id>https://medium.com/@daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7</id>
         <link href="https://medium.com/@daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7"/>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[(medium.com/@daangn)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
-        <id>https://fluenticons.co/</id>
-        <link href="https://fluenticons.co/"/>
-        <updated>2022-03-29T02:57:30.018Z</updated>
-        <content type="html"><![CDATA[(fluenticons.co)]]></content>
+        <title type="html"><![CDATA[Sony, PS Plus와 PS Now를 통합한 정기 구독 서비스 리뉴얼]]></title>
+        <id>https://blog.ko.playstation.com/2022/03/29/20220329-psplus/</id>
+        <link href="https://blog.ko.playstation.com/2022/03/29/20220329-psplus/"/>
+        <updated>2022-03-30T04:18:36.294Z</updated>
+        <content type="html"><![CDATA[(blog.ko.playstation.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[React v18 정식 릴리즈]]></title>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[(gefyra.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Killed by Microsoft]]></title>
-        <id>https://killedbymicrosoft.info/</id>
-        <link href="https://killedbymicrosoft.info/"/>
-        <updated>2022-03-29T02:57:30.019Z</updated>
-        <content type="html"><![CDATA[(killedbymicrosoft.info)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
         <id>https://planb.hashnode.dev/fastapi-flask</id>
         <link href="https://planb.hashnode.dev/fastapi-flask"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Killed by Microsoft]]></title>
+        <id>https://killedbymicrosoft.info/</id>
+        <link href="https://killedbymicrosoft.info/"/>
+        <updated>2022-03-29T02:57:30.019Z</updated>
+        <content type="html"><![CDATA[(killedbymicrosoft.info)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Modern PHP]]></title>
         <id>https://dnlytras.com/blog/modern-php/</id>
         <link href="https://dnlytras.com/blog/modern-php/"/>
         <updated>2022-03-29T01:04:06.574Z</updated>
         <content type="html"><![CDATA[(dnlytras.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convoy - 빠르고 안전한 Cloud Native 웹훅 서비스]]></title>
-        <id>https://getconvoy.io/</id>
-        <link href="https://getconvoy.io/"/>
-        <updated>2022-03-28T01:06:27.747Z</updated>
-        <content type="html"><![CDATA[(getconvoy.io)]]></content>
     </entry>
 </feed>
