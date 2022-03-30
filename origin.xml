@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-30T09:15:13.048Z</updated>
+    <updated>2022-03-30T10:17:24.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/"/>
-        <updated>2022-03-30T01:03:18.917Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
         <id>https://github.com/Wilfred/difftastic</id>
         <link href="https://github.com/Wilfred/difftastic"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 문서, 마크다운 편집 지원 기능 추가]]></title>
-        <id>https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1</id>
-        <link href="https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1"/>
-        <updated>2022-03-30T01:03:18.950Z</updated>
-        <content type="html"><![CDATA[(workspaceupdates.googleblog.com)]]></content>
+        <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/"/>
+        <updated>2022-03-30T01:03:18.917Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Caddy-SSH 를 소개합니다]]></title>
@@ -39,6 +32,13 @@
         <link href="https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/"/>
         <updated>2022-03-30T01:03:18.950Z</updated>
         <content type="html"><![CDATA[(caffeinatedwonders.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 문서, 마크다운 편집 지원 기능 추가]]></title>
+        <id>https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1</id>
+        <link href="https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1"/>
+        <updated>2022-03-30T01:03:18.950Z</updated>
+        <content type="html"><![CDATA[(workspaceupdates.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sony, PS Plus와 PS Now를 통합한 정기 구독 서비스 리뉴얼]]></title>
-        <id>https://blog.ko.playstation.com/2022/03/29/20220329-psplus/</id>
-        <link href="https://blog.ko.playstation.com/2022/03/29/20220329-psplus/"/>
-        <updated>2022-03-30T04:18:36.294Z</updated>
-        <content type="html"><![CDATA[(blog.ko.playstation.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가]]></title>
         <id>https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies</id>
         <link href="https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies"/>
         <updated>2022-03-28T02:58:05.558Z</updated>
         <content type="html"><![CDATA[(shomik.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony, PS Plus와 PS Now를 통합한 정기 구독 서비스 리뉴얼]]></title>
+        <id>https://blog.ko.playstation.com/2022/03/29/20220329-psplus/</id>
+        <link href="https://blog.ko.playstation.com/2022/03/29/20220329-psplus/"/>
+        <updated>2022-03-30T04:18:36.294Z</updated>
+        <content type="html"><![CDATA[(blog.ko.playstation.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요?]]></title>
