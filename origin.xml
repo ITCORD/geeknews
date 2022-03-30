@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-30T07:16:00.354Z</updated>
+    <updated>2022-03-30T08:19:19.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
-        <id>https://github.com/Wilfred/difftastic</id>
-        <link href="https://github.com/Wilfred/difftastic"/>
-        <updated>2022-03-30T02:54:29.326Z</updated>
-        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/"/>
         <updated>2022-03-30T01:03:18.917Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
+        <id>https://github.com/Wilfred/difftastic</id>
+        <link href="https://github.com/Wilfred/difftastic"/>
+        <updated>2022-03-30T02:54:29.326Z</updated>
+        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 문서, 마크다운 편집 지원 기능 추가]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(fluenticons.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[React v18 정식 릴리즈]]></title>
+        <id>https://reactjs.org/blog/2022/03/29/react-v18.html</id>
+        <link href="https://reactjs.org/blog/2022/03/29/react-v18.html"/>
+        <updated>2022-03-29T20:15:17.026Z</updated>
+        <content type="html"><![CDATA[(reactjs.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[딥/머신러닝에 관심 있다면? 구름IDE GPU 인스턴스 베타 오픈]]></title>
         <id>https://blog.goorm.io/%eb%94%a5-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%ec%97%90-%ea%b4%80%ec%8b%ac-%ec%9e%88%eb%8b%a4%eb%a9%b4-%ea%b5%ac%eb%a6%84ide-gpu-%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%eb%b2%a0%ed%83%80-%ec%98%a4/</id>
         <link href="https://blog.goorm.io/%eb%94%a5-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%ec%97%90-%ea%b4%80%ec%8b%ac-%ec%9e%88%eb%8b%a4%eb%a9%b4-%ea%b5%ac%eb%a6%84ide-gpu-%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%eb%b2%a0%ed%83%80-%ec%98%a4/"/>
         <updated>2022-03-30T02:54:29.332Z</updated>
         <content type="html"><![CDATA[(blog.goorm.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검색 랭킹 흐름 만들기: 검색은 처음 인디요]]></title>
-        <id>https://medium.com/@daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7</id>
-        <link href="https://medium.com/@daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7"/>
-        <updated>2022-03-30T01:03:18.949Z</updated>
-        <content type="html"><![CDATA[(medium.com/@daangn)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위대한 비즈니스에서 배우는 교훈]]></title>
@@ -69,25 +69,18 @@
         <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[검색 랭킹 흐름 만들기: 검색은 처음 인디요]]></title>
+        <id>https://medium.com/@daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7</id>
+        <link href="https://medium.com/@daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7"/>
+        <updated>2022-03-30T01:03:18.949Z</updated>
+        <content type="html"><![CDATA[(medium.com/@daangn)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cli2Cloud - 터미널 아웃풋을 실시간 공유하기]]></title>
         <id>https://cli2cloud.com/</id>
         <link href="https://cli2cloud.com/"/>
         <updated>2022-03-29T01:04:06.562Z</updated>
         <content type="html"><![CDATA[(cli2cloud.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React v18 정식 릴리즈]]></title>
-        <id>https://reactjs.org/blog/2022/03/29/react-v18.html</id>
-        <link href="https://reactjs.org/blog/2022/03/29/react-v18.html"/>
-        <updated>2022-03-29T20:15:17.026Z</updated>
-        <content type="html"><![CDATA[(reactjs.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony, PS Plus와 PS Now를 통합한 정기 구독 서비스 리뉴얼]]></title>
-        <id>https://blog.ko.playstation.com/2022/03/29/20220329-psplus/</id>
-        <link href="https://blog.ko.playstation.com/2022/03/29/20220329-psplus/"/>
-        <updated>2022-03-30T04:18:36.294Z</updated>
-        <content type="html"><![CDATA[(blog.ko.playstation.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
@@ -97,18 +90,18 @@
         <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sony, PS Plus와 PS Now를 통합한 정기 구독 서비스 리뉴얼]]></title>
+        <id>https://blog.ko.playstation.com/2022/03/29/20220329-psplus/</id>
+        <link href="https://blog.ko.playstation.com/2022/03/29/20220329-psplus/"/>
+        <updated>2022-03-30T04:18:36.294Z</updated>
+        <content type="html"><![CDATA[(blog.ko.playstation.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가]]></title>
         <id>https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies</id>
         <link href="https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies"/>
         <updated>2022-03-28T02:58:05.558Z</updated>
         <content type="html"><![CDATA[(shomik.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 위협분석그룹(TAG), 북한의 위협에 대응]]></title>
-        <id>https://blog.google/threat-analysis-group/countering-threats-north-korea/</id>
-        <link href="https://blog.google/threat-analysis-group/countering-threats-north-korea/"/>
-        <updated>2022-03-30T01:03:18.961Z</updated>
-        <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요?]]></title>
@@ -123,6 +116,13 @@
         <link href="https://gefyra.dev/"/>
         <updated>2022-03-28T01:06:27.744Z</updated>
         <content type="html"><![CDATA[(gefyra.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 위협분석그룹(TAG), 북한의 위협에 대응]]></title>
+        <id>https://blog.google/threat-analysis-group/countering-threats-north-korea/</id>
+        <link href="https://blog.google/threat-analysis-group/countering-threats-north-korea/"/>
+        <updated>2022-03-30T01:03:18.961Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
