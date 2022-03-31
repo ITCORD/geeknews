@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-31T01:01:00.621Z</updated>
+    <updated>2022-03-31T02:38:08.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
-        <id>https://designsystem.digital.gov/</id>
-        <link href="https://designsystem.digital.gov/"/>
-        <updated>2022-03-31T01:00:20.940Z</updated>
-        <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
         <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
@@ -20,11 +13,25 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
-        <id>https://help.stibee.com/ko/collections/3158402-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85</id>
-        <link href="https://help.stibee.com/ko/collections/3158402-%EC%9C%A0%EB%A3%8C-%EA%B5%AC%EB%8F%85"/>
-        <updated>2022-03-31T01:00:20.941Z</updated>
-        <content type="html"><![CDATA[(help.stibee.com)]]></content>
+        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
+        <id>https://mirage.io/blog/announcing-mirage-40</id>
+        <link href="https://mirage.io/blog/announcing-mirage-40"/>
+        <updated>2022-03-31T01:00:20.952Z</updated>
+        <content type="html"><![CDATA[(mirage.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
+        <id>https://designsystem.digital.gov/</id>
+        <link href="https://designsystem.digital.gov/"/>
+        <updated>2022-03-31T01:00:20.940Z</updated>
+        <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo, SF에서 운전자 없는 자율주행차 운행 시작]]></title>
+        <id>https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html</id>
+        <link href="https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html"/>
+        <updated>2022-03-31T02:37:30.177Z</updated>
+        <content type="html"><![CDATA[(blog.waymo.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
@@ -34,11 +41,32 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
-        <id>https://mirage.io/blog/announcing-mirage-40</id>
-        <link href="https://mirage.io/blog/announcing-mirage-40"/>
-        <updated>2022-03-31T01:00:20.952Z</updated>
-        <content type="html"><![CDATA[(mirage.io)]]></content>
+        <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
+        <id>https://promotion.stibee.com/</id>
+        <link href="https://promotion.stibee.com/"/>
+        <updated>2022-03-31T02:37:30.177Z</updated>
+        <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
+        <id>https://grafana.com/oss/mimir/</id>
+        <link href="https://grafana.com/oss/mimir/"/>
+        <updated>2022-03-31T02:37:30.189Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaspersky, FCC에 의해 미국안보를 위협하는 회사목록에 등재]]></title>
+        <id>https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc</id>
+        <link href="https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc"/>
+        <updated>2022-03-31T02:37:30.190Z</updated>
+        <content type="html"><![CDATA[(hothardware.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dagger - CI/CD 파이프라인 개발킷]]></title>
+        <id>https://dagger.io/blog/public-launch-announcement</id>
+        <link href="https://dagger.io/blog/public-launch-announcement"/>
+        <updated>2022-03-31T02:37:30.190Z</updated>
+        <content type="html"><![CDATA[(dagger.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
@@ -116,33 +144,5 @@
         <link href="https://reactjs.org/blog/2022/03/29/react-v18.html"/>
         <updated>2022-03-29T20:15:17.026Z</updated>
         <content type="html"><![CDATA[(reactjs.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요?]]></title>
-        <id>https://news.ycombinator.com/item?id=30767393</id>
-        <link href="https://news.ycombinator.com/item?id=30767393"/>
-        <updated>2022-03-28T01:06:27.744Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gefyra - 빠르고 안정적인 쿠버네티스 기반 로컬 개발환경]]></title>
-        <id>https://gefyra.dev/</id>
-        <link href="https://gefyra.dev/"/>
-        <updated>2022-03-28T01:06:27.744Z</updated>
-        <content type="html"><![CDATA[(gefyra.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검색 랭킹 흐름 만들기: 검색은 처음 인디요]]></title>
-        <id>https://medium.com/@daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7</id>
-        <link href="https://medium.com/@daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7"/>
-        <updated>2022-03-30T01:03:18.949Z</updated>
-        <content type="html"><![CDATA[(medium.com/@daangn)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
-        <id>https://planb.hashnode.dev/fastapi-flask</id>
-        <link href="https://planb.hashnode.dev/fastapi-flask"/>
-        <updated>2022-03-26T06:17:09.898Z</updated>
-        <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
     </entry>
 </feed>
