@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-31T03:27:33.052Z</updated>
+    <updated>2022-03-31T04:18:40.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,11 +34,25 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dagger - CI/CD 파이프라인 개발킷]]></title>
+        <id>https://dagger.io/blog/public-launch-announcement</id>
+        <link href="https://dagger.io/blog/public-launch-announcement"/>
+        <updated>2022-03-31T02:37:30.190Z</updated>
+        <content type="html"><![CDATA[(dagger.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Waymo, SF에서 운전자 없는 자율주행차 운행 시작]]></title>
         <id>https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html</id>
         <link href="https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html"/>
         <updated>2022-03-31T02:37:30.177Z</updated>
         <content type="html"><![CDATA[(blog.waymo.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaspersky, FCC에 의해 미국안보를 위협하는 회사목록에 등재]]></title>
+        <id>https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc</id>
+        <link href="https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc"/>
+        <updated>2022-03-31T02:37:30.190Z</updated>
+        <content type="html"><![CDATA[(hothardware.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
@@ -53,13 +67,6 @@
         <link href="https://promotion.stibee.com/"/>
         <updated>2022-03-31T02:37:30.177Z</updated>
         <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaspersky, FCC에 의해 미국안보를 위협하는 회사목록에 등재]]></title>
-        <id>https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc</id>
-        <link href="https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc"/>
-        <updated>2022-03-31T02:37:30.190Z</updated>
-        <content type="html"><![CDATA[(hothardware.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 크롬 100 릴리즈]]></title>
@@ -81,13 +88,6 @@
         <link href="https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/"/>
         <updated>2022-03-30T01:03:18.917Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dagger - CI/CD 파이프라인 개발킷]]></title>
-        <id>https://dagger.io/blog/public-launch-announcement</id>
-        <link href="https://dagger.io/blog/public-launch-announcement"/>
-        <updated>2022-03-31T02:37:30.190Z</updated>
-        <content type="html"><![CDATA[(dagger.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(cli2cloud.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 문서, 마크다운 편집 지원 기능 추가]]></title>
-        <id>https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1</id>
-        <link href="https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1"/>
-        <updated>2022-03-30T01:03:18.950Z</updated>
-        <content type="html"><![CDATA[(workspaceupdates.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[위대한 비즈니스에서 배우는 교훈]]></title>
         <id>https://www.readthegeneralist.com/briefing/10-lessons</id>
         <link href="https://www.readthegeneralist.com/briefing/10-lessons"/>
         <updated>2022-03-29T02:57:30.013Z</updated>
         <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 문서, 마크다운 편집 지원 기능 추가]]></title>
+        <id>https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1</id>
+        <link href="https://workspaceupdates.googleblog.com/2022/03/compose-with-markdown-in-google-docs-on.html?m=1"/>
+        <updated>2022-03-30T01:03:18.950Z</updated>
+        <content type="html"><![CDATA[(workspaceupdates.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
