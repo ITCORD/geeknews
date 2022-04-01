@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-01T07:16:17.649Z</updated>
+    <updated>2022-04-01T08:20:36.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
-        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
-        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
-        <updated>2022-04-01T01:08:31.313Z</updated>
-        <content type="html"><![CDATA[(stripe.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
         <id>https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product</id>
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
         <updated>2022-03-31T09:16:16.008Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
+        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
+        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
+        <updated>2022-04-01T01:08:31.313Z</updated>
+        <content type="html"><![CDATA[(stripe.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS for Games 공개]]></title>
-        <id>https://aws.amazon.com/ko/blogs/gametech/aws-for-games-announcement/</id>
-        <link href="https://aws.amazon.com/ko/blogs/gametech/aws-for-games-announcement/"/>
-        <updated>2022-04-01T03:14:09.526Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
         <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
         <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
@@ -88,6 +81,13 @@
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:54:29.326Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS for Games 공개]]></title>
+        <id>https://aws.amazon.com/ko/blogs/gametech/aws-for-games-announcement/</id>
+        <link href="https://aws.amazon.com/ko/blogs/gametech/aws-for-games-announcement/"/>
+        <updated>2022-04-01T03:14:09.526Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
