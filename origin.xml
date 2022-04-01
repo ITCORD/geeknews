@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-01T12:28:21.874Z</updated>
+    <updated>2022-04-01T13:31:31.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
+        <id>https://grafana.com/oss/mimir/</id>
+        <link href="https://grafana.com/oss/mimir/"/>
+        <updated>2022-03-31T02:37:30.189Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
         <id>https://supabase.com/blog/2022/03/29/graphql-now-available</id>
         <link href="https://supabase.com/blog/2022/03/29/graphql-now-available"/>
@@ -81,13 +88,6 @@
         <link href="https://flower.dev/"/>
         <updated>2022-04-01T01:08:31.314Z</updated>
         <content type="html"><![CDATA[(flower.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
-        <id>https://grafana.com/oss/mimir/</id>
-        <link href="https://grafana.com/oss/mimir/"/>
-        <updated>2022-03-31T02:37:30.189Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
