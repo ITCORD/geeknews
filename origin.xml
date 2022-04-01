@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-01T01:09:16.338Z</updated>
+    <updated>2022-04-01T03:14:52.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
-        <id>https://supabase.com/blog/2022/03/29/graphql-now-available</id>
-        <link href="https://supabase.com/blog/2022/03/29/graphql-now-available"/>
-        <updated>2022-04-01T01:08:31.313Z</updated>
-        <content type="html"><![CDATA[(supabase.com)]]></content>
+        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
+        <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
+        <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
+        <updated>2022-04-01T01:08:31.314Z</updated>
+        <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Stack 공개]]></title>
+        <id>https://redis.com/blog/introducing-redis-stack/</id>
+        <link href="https://redis.com/blog/introducing-redis-stack/"/>
+        <updated>2022-04-01T03:14:09.524Z</updated>
+        <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
@@ -20,39 +27,25 @@
         <content type="html"><![CDATA[(stripe.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
+        <id>https://supabase.com/blog/2022/03/29/graphql-now-available</id>
+        <link href="https://supabase.com/blog/2022/03/29/graphql-now-available"/>
+        <updated>2022-04-01T01:08:31.313Z</updated>
+        <content type="html"><![CDATA[(supabase.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS for Games 공개]]></title>
+        <id>https://aws.amazon.com/ko/blogs/gametech/aws-for-games-announcement/</id>
+        <link href="https://aws.amazon.com/ko/blogs/gametech/aws-for-games-announcement/"/>
+        <updated>2022-04-01T03:14:09.526Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
         <id>https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product</id>
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
         <updated>2022-03-31T09:16:16.008Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
-        <id>https://mirage.io/blog/announcing-mirage-40</id>
-        <link href="https://mirage.io/blog/announcing-mirage-40"/>
-        <updated>2022-03-31T01:00:20.952Z</updated>
-        <content type="html"><![CDATA[(mirage.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
-        <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
-        <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
-        <updated>2022-03-31T01:00:20.941Z</updated>
-        <content type="html"><![CDATA[(about.netflix.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
-        <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
-        <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring 프레임워크 RCE 패치 릴리즈 (CVE-2022-22965)]]></title>
-        <id>https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement</id>
-        <link href="https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(spring.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flower - 연합 학습(Federated Learning) 프레임워크]]></title>
@@ -69,11 +62,32 @@
         <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
+        <id>https://mirage.io/blog/announcing-mirage-40</id>
+        <link href="https://mirage.io/blog/announcing-mirage-40"/>
+        <updated>2022-03-31T01:00:20.952Z</updated>
+        <content type="html"><![CDATA[(mirage.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
+        <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
+        <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
+        <updated>2022-03-31T01:00:20.941Z</updated>
+        <content type="html"><![CDATA[(about.netflix.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:54:29.326Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
+        <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
+        <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
+        <updated>2022-03-31T05:13:50.111Z</updated>
+        <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
@@ -83,18 +97,18 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Spring 프레임워크 RCE 패치 릴리즈 (CVE-2022-22965)]]></title>
+        <id>https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement</id>
+        <link href="https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement"/>
+        <updated>2022-04-01T01:08:31.314Z</updated>
+        <content type="html"><![CDATA[(spring.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
         <id>https://designsystem.digital.gov/</id>
         <link href="https://designsystem.digital.gov/"/>
         <updated>2022-03-31T01:00:20.940Z</updated>
         <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
-        <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
-        <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
-        <updated>2022-03-31T05:13:50.111Z</updated>
-        <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waymo, SF에서 운전자 없는 자율주행차 운행 시작]]></title>
-        <id>https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html</id>
-        <link href="https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html"/>
-        <updated>2022-03-31T02:37:30.177Z</updated>
-        <content type="html"><![CDATA[(blog.waymo.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
         <id>https://fluenticons.co/</id>
         <link href="https://fluenticons.co/"/>
         <updated>2022-03-29T02:57:30.018Z</updated>
         <content type="html"><![CDATA[(fluenticons.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaspersky, FCC에 의해 미국안보를 위협하는 회사목록에 등재]]></title>
-        <id>https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc</id>
-        <link href="https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc"/>
-        <updated>2022-03-31T02:37:30.190Z</updated>
-        <content type="html"><![CDATA[(hothardware.com)]]></content>
     </entry>
 </feed>
