@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-01T09:15:06.546Z</updated>
+    <updated>2022-04-01T10:17:31.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
+        <id>https://mirage.io/blog/announcing-mirage-40</id>
+        <link href="https://mirage.io/blog/announcing-mirage-40"/>
+        <updated>2022-03-31T01:00:20.952Z</updated>
+        <content type="html"><![CDATA[(mirage.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
         <id>https://supabase.com/blog/2022/03/29/graphql-now-available</id>
         <link href="https://supabase.com/blog/2022/03/29/graphql-now-available"/>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[(flower.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
-        <id>https://mirage.io/blog/announcing-mirage-40</id>
-        <link href="https://mirage.io/blog/announcing-mirage-40"/>
-        <updated>2022-03-31T01:00:20.952Z</updated>
-        <content type="html"><![CDATA[(mirage.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
         <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
         <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
-        <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
-        <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
-        <updated>2022-03-31T05:13:50.111Z</updated>
-        <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:54:29.326Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
+        <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
+        <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
+        <updated>2022-03-31T05:13:50.111Z</updated>
+        <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spring 프레임워크 RCE 패치 릴리즈 (CVE-2022-22965)]]></title>
-        <id>https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement</id>
-        <link href="https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(spring.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
         <id>https://designsystem.digital.gov/</id>
         <link href="https://designsystem.digital.gov/"/>
         <updated>2022-03-31T01:00:20.940Z</updated>
         <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring 프레임워크 RCE 패치 릴리즈 (CVE-2022-22965)]]></title>
+        <id>https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement</id>
+        <link href="https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement"/>
+        <updated>2022-04-01T01:08:31.314Z</updated>
+        <content type="html"><![CDATA[(spring.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
