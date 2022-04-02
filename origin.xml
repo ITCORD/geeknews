@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T03:27:08.753Z</updated>
+    <updated>2022-04-02T04:19:19.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
-        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
-        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(community.wacom.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
         <id>https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product</id>
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
@@ -39,6 +32,13 @@
         <link href="https://redis.com/blog/introducing-redis-stack/"/>
         <updated>2022-04-01T03:14:09.524Z</updated>
         <content type="html"><![CDATA[(redis.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
+        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
+        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(community.wacom.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
+        <id>https://promotion.stibee.com/</id>
+        <link href="https://promotion.stibee.com/"/>
+        <updated>2022-03-31T02:37:30.177Z</updated>
+        <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
         <id>https://supabase.com/blog/2022/03/29/graphql-now-available</id>
         <link href="https://supabase.com/blog/2022/03/29/graphql-now-available"/>
@@ -130,13 +137,6 @@
         <link href="https://flower.dev/"/>
         <updated>2022-04-01T01:08:31.314Z</updated>
         <content type="html"><![CDATA[(flower.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
-        <id>https://promotion.stibee.com/</id>
-        <link href="https://promotion.stibee.com/"/>
-        <updated>2022-03-31T02:37:30.177Z</updated>
-        <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
