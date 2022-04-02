@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T00:59:33.097Z</updated>
+    <updated>2022-04-02T02:35:46.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
+        <id>https://www.fermyon.com/blog/introducing-spin</id>
+        <link href="https://www.fermyon.com/blog/introducing-spin"/>
+        <updated>2022-04-02T02:35:08.714Z</updated>
+        <content type="html"><![CDATA[(fermyon.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
         <id>https://github.com/benbjohnson/postlite</id>
@@ -20,18 +27,18 @@
         <content type="html"><![CDATA[(community.wacom.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
-        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
-        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
         <id>https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product</id>
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
         <updated>2022-03-31T09:16:16.008Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
+        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
+        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Redis Stack 공개]]></title>
@@ -41,18 +48,18 @@
         <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
-        <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
-        <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:54:29.326Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
+        <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
+        <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
+        <updated>2022-04-01T01:08:31.314Z</updated>
+        <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
-        <id>https://futuretodayinstitute.com/trends/</id>
-        <link href="https://futuretodayinstitute.com/trends/"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
         <id>https://designsystem.digital.gov/</id>
         <link href="https://designsystem.digital.gov/"/>
         <updated>2022-03-31T01:00:20.940Z</updated>
         <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
+        <id>https://futuretodayinstitute.com/trends/</id>
+        <link href="https://futuretodayinstitute.com/trends/"/>
+        <updated>2022-04-01T01:08:31.314Z</updated>
+        <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
@@ -111,25 +118,11 @@
         <content type="html"><![CDATA[(supabase.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flower - 연합 학습(Federated Learning) 프레임워크]]></title>
-        <id>https://flower.dev/</id>
-        <link href="https://flower.dev/"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(flower.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/"/>
         <updated>2022-03-30T01:03:18.917Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
-        <id>https://fluenticons.co/</id>
-        <link href="https://fluenticons.co/"/>
-        <updated>2022-03-29T02:57:30.018Z</updated>
-        <content type="html"><![CDATA[(fluenticons.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
@@ -139,10 +132,17 @@
         <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
-        <id>https://github.com/Wilfred/difftastic</id>
-        <link href="https://github.com/Wilfred/difftastic"/>
-        <updated>2022-03-30T02:54:29.326Z</updated>
-        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
+        <title type="html"><![CDATA[Flower - 연합 학습(Federated Learning) 프레임워크]]></title>
+        <id>https://flower.dev/</id>
+        <link href="https://flower.dev/"/>
+        <updated>2022-04-01T01:08:31.314Z</updated>
+        <content type="html"><![CDATA[(flower.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
+        <id>https://fluenticons.co/</id>
+        <link href="https://fluenticons.co/"/>
+        <updated>2022-03-29T02:57:30.018Z</updated>
+        <content type="html"><![CDATA[(fluenticons.co)]]></content>
     </entry>
 </feed>
