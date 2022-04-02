@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T02:35:46.122Z</updated>
+    <updated>2022-04-02T03:27:08.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
-        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
-        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Redis Stack 공개]]></title>
         <id>https://redis.com/blog/introducing-redis-stack/</id>
         <link href="https://redis.com/blog/introducing-redis-stack/"/>
         <updated>2022-04-01T03:14:09.524Z</updated>
         <content type="html"><![CDATA[(redis.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
+        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
+        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
-        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
-        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
-        <updated>2022-04-01T01:08:31.313Z</updated>
-        <content type="html"><![CDATA[(stripe.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
         <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
         <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
         <updated>2022-03-31T05:13:50.111Z</updated>
         <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
+        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
+        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
+        <updated>2022-04-01T01:08:31.313Z</updated>
+        <content type="html"><![CDATA[(stripe.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
-        <id>https://supabase.com/blog/2022/03/29/graphql-now-available</id>
-        <link href="https://supabase.com/blog/2022/03/29/graphql-now-available"/>
-        <updated>2022-04-01T01:08:31.313Z</updated>
-        <content type="html"><![CDATA[(supabase.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/"/>
@@ -125,11 +118,11 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
-        <id>https://promotion.stibee.com/</id>
-        <link href="https://promotion.stibee.com/"/>
-        <updated>2022-03-31T02:37:30.177Z</updated>
-        <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
+        <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
+        <id>https://supabase.com/blog/2022/03/29/graphql-now-available</id>
+        <link href="https://supabase.com/blog/2022/03/29/graphql-now-available"/>
+        <updated>2022-04-01T01:08:31.313Z</updated>
+        <content type="html"><![CDATA[(supabase.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flower - 연합 학습(Federated Learning) 프레임워크]]></title>
@@ -137,6 +130,13 @@
         <link href="https://flower.dev/"/>
         <updated>2022-04-01T01:08:31.314Z</updated>
         <content type="html"><![CDATA[(flower.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
+        <id>https://promotion.stibee.com/</id>
+        <link href="https://promotion.stibee.com/"/>
+        <updated>2022-03-31T02:37:30.177Z</updated>
+        <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
