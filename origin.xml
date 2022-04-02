@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T09:14:14.613Z</updated>
+    <updated>2022-04-02T10:16:50.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
-        <id>https://www.fermyon.com/blog/introducing-spin</id>
-        <link href="https://www.fermyon.com/blog/introducing-spin"/>
-        <updated>2022-04-02T02:35:08.714Z</updated>
-        <content type="html"><![CDATA[(fermyon.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
         <id>https://github.com/benbjohnson/postlite</id>
         <link href="https://github.com/benbjohnson/postlite"/>
         <updated>2022-04-02T00:58:51.623Z</updated>
         <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
+        <id>https://www.fermyon.com/blog/introducing-spin</id>
+        <link href="https://www.fermyon.com/blog/introducing-spin"/>
+        <updated>2022-04-02T02:35:08.714Z</updated>
+        <content type="html"><![CDATA[(fermyon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(community.wacom.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
-        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
-        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
-        <updated>2022-04-01T01:08:31.313Z</updated>
-        <content type="html"><![CDATA[(stripe.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
         <id>https://designsystem.digital.gov/</id>
         <link href="https://designsystem.digital.gov/"/>
         <updated>2022-03-31T01:00:20.940Z</updated>
         <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
+        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
+        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
+        <updated>2022-04-01T01:08:31.313Z</updated>
+        <content type="html"><![CDATA[(stripe.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
