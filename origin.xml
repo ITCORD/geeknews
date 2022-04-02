@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T15:14:54.282Z</updated>
+    <updated>2022-04-02T16:19:19.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Redis Stack 공개]]></title>
-        <id>https://redis.com/blog/introducing-redis-stack/</id>
-        <link href="https://redis.com/blog/introducing-redis-stack/"/>
-        <updated>2022-04-01T03:14:09.524Z</updated>
-        <content type="html"><![CDATA[(redis.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:54:29.326Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Stack 공개]]></title>
+        <id>https://redis.com/blog/introducing-redis-stack/</id>
+        <link href="https://redis.com/blog/introducing-redis-stack/"/>
+        <updated>2022-04-01T03:14:09.524Z</updated>
+        <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
-        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
-        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
         <id>https://grafana.com/oss/mimir/</id>
         <link href="https://grafana.com/oss/mimir/"/>
         <updated>2022-03-31T02:37:30.189Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
+        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
+        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
@@ -118,11 +118,11 @@
         <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
-        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
-        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(community.wacom.com)]]></content>
+        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
+        <id>https://github.com/Wilfred/difftastic</id>
+        <link href="https://github.com/Wilfred/difftastic"/>
+        <updated>2022-04-02T07:14:37.567Z</updated>
+        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
@@ -132,11 +132,11 @@
         <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
-        <id>https://github.com/Wilfred/difftastic</id>
-        <link href="https://github.com/Wilfred/difftastic"/>
-        <updated>2022-04-02T07:14:37.567Z</updated>
-        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
+        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
+        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
+        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(community.wacom.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
