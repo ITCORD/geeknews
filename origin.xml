@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T12:22:55.121Z</updated>
+    <updated>2022-04-02T13:20:16.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
-        <id>https://mirage.io/blog/announcing-mirage-40</id>
-        <link href="https://mirage.io/blog/announcing-mirage-40"/>
-        <updated>2022-03-31T01:00:20.952Z</updated>
-        <content type="html"><![CDATA[(mirage.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
         <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
         <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
@@ -62,18 +55,25 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
-        <id>https://grafana.com/oss/mimir/</id>
-        <link href="https://grafana.com/oss/mimir/"/>
-        <updated>2022-03-31T02:37:30.189Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
         <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
         <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
         <updated>2022-04-01T01:08:31.314Z</updated>
         <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
+        <id>https://mirage.io/blog/announcing-mirage-40</id>
+        <link href="https://mirage.io/blog/announcing-mirage-40"/>
+        <updated>2022-03-31T01:00:20.952Z</updated>
+        <content type="html"><![CDATA[(mirage.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
+        <id>https://grafana.com/oss/mimir/</id>
+        <link href="https://grafana.com/oss/mimir/"/>
+        <updated>2022-03-31T02:37:30.189Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
@@ -97,20 +97,6 @@
         <content type="html"><![CDATA[(stripe.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
-        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
-        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(community.wacom.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
-        <id>https://futuretodayinstitute.com/trends/</id>
-        <link href="https://futuretodayinstitute.com/trends/"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/"/>
@@ -118,11 +104,25 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
+        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
+        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(community.wacom.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
         <id>https://fluenticons.co/</id>
         <link href="https://fluenticons.co/"/>
         <updated>2022-03-29T02:57:30.018Z</updated>
         <content type="html"><![CDATA[(fluenticons.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
+        <id>https://futuretodayinstitute.com/trends/</id>
+        <link href="https://futuretodayinstitute.com/trends/"/>
+        <updated>2022-04-01T01:08:31.314Z</updated>
+        <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
-        <id>https://supabase.com/blog/2022/03/29/graphql-now-available</id>
-        <link href="https://supabase.com/blog/2022/03/29/graphql-now-available"/>
-        <updated>2022-04-01T01:08:31.313Z</updated>
-        <content type="html"><![CDATA[(supabase.com)]]></content>
+        <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
+        <id>https://brunch.co.kr/@eugenekimpsah/14</id>
+        <link href="https://brunch.co.kr/@eugenekimpsah/14"/>
+        <updated>2022-04-02T13:19:39.611Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
     </entry>
 </feed>
