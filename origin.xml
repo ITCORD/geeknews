@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T13:20:16.691Z</updated>
+    <updated>2022-04-02T14:14:32.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
-        <id>https://github.com/benbjohnson/postlite</id>
-        <link href="https://github.com/benbjohnson/postlite"/>
-        <updated>2022-04-02T00:58:51.623Z</updated>
-        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
         <id>https://www.fermyon.com/blog/introducing-spin</id>
         <link href="https://www.fermyon.com/blog/introducing-spin"/>
         <updated>2022-04-02T02:35:08.714Z</updated>
         <content type="html"><![CDATA[(fermyon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
+        <id>https://github.com/benbjohnson/postlite</id>
+        <link href="https://github.com/benbjohnson/postlite"/>
+        <updated>2022-04-02T00:58:51.623Z</updated>
+        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
-        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
-        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
         <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
         <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
         <updated>2022-03-31T01:00:20.941Z</updated>
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
+        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
+        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
-        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
-        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(community.wacom.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
         <id>https://fluenticons.co/</id>
         <link href="https://fluenticons.co/"/>
@@ -123,6 +116,13 @@
         <link href="https://futuretodayinstitute.com/trends/"/>
         <updated>2022-04-01T01:08:31.314Z</updated>
         <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
+        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
+        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(community.wacom.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
