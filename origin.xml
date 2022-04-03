@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-03T20:16:44.161Z</updated>
+    <updated>2022-04-03T21:13:41.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
+        <id>https://github.com/jcubic/sysend.js</id>
+        <link href="https://github.com/jcubic/sysend.js"/>
+        <updated>2022-04-03T01:04:00.375Z</updated>
+        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
         <id>https://build-system.fman.io/</id>
@@ -25,13 +32,6 @@
         <link href="https://news.hada.io/topic?id=6290"/>
         <updated>2022-04-03T15:14:39.259Z</updated>
         <content type="html"><![CDATA[(github.com/mrchypark)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
-        <id>https://github.com/jcubic/sysend.js</id>
-        <link href="https://github.com/jcubic/sysend.js"/>
-        <updated>2022-04-03T01:04:00.375Z</updated>
-        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
