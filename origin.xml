@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-03T05:14:18.039Z</updated>
+    <updated>2022-04-03T06:17:46.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
-        <id>https://github.com/dlvhdr/gh-dash</id>
-        <link href="https://github.com/dlvhdr/gh-dash"/>
-        <updated>2022-04-03T01:04:00.376Z</updated>
-        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
         <id>https://github.com/jcubic/sysend.js</id>
@@ -27,6 +20,13 @@
         <content type="html"><![CDATA[(build-system.fman.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
+        <id>https://github.com/dlvhdr/gh-dash</id>
+        <link href="https://github.com/dlvhdr/gh-dash"/>
+        <updated>2022-04-03T01:04:00.376Z</updated>
+        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
         <id>https://www.fermyon.com/blog/introducing-spin</id>
         <link href="https://www.fermyon.com/blog/introducing-spin"/>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(fermyon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
-        <id>https://github.com/benbjohnson/postlite</id>
-        <link href="https://github.com/benbjohnson/postlite"/>
-        <updated>2022-04-02T00:58:51.623Z</updated>
-        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:54:29.326Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
+        <id>https://github.com/benbjohnson/postlite</id>
+        <link href="https://github.com/benbjohnson/postlite"/>
+        <updated>2022-04-02T00:58:51.623Z</updated>
+        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
-        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
-        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
         <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
         <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
         <updated>2022-03-31T05:13:50.111Z</updated>
         <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
+        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
+        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
