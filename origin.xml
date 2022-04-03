@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-03T07:14:22.369Z</updated>
+    <updated>2022-04-03T08:18:12.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
-        <id>https://github.com/benbjohnson/postlite</id>
-        <link href="https://github.com/benbjohnson/postlite"/>
-        <updated>2022-04-02T00:58:51.623Z</updated>
-        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
         <id>https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product</id>
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
         <updated>2022-03-31T09:16:16.008Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
+        <id>https://github.com/benbjohnson/postlite</id>
+        <link href="https://github.com/benbjohnson/postlite"/>
+        <updated>2022-04-02T00:58:51.623Z</updated>
+        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Redis Stack 공개]]></title>
