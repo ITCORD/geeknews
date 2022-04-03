@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-03T15:15:17.678Z</updated>
+    <updated>2022-04-03T16:19:52.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(build-system.fman.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
-        <id>https://github.com/jcubic/sysend.js</id>
-        <link href="https://github.com/jcubic/sysend.js"/>
-        <updated>2022-04-03T01:04:00.375Z</updated>
-        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
         <id>https://github.com/dlvhdr/gh-dash</id>
         <link href="https://github.com/dlvhdr/gh-dash"/>
         <updated>2022-04-03T01:04:00.376Z</updated>
         <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
+        <id>https://github.com/jcubic/sysend.js</id>
+        <link href="https://github.com/jcubic/sysend.js"/>
+        <updated>2022-04-03T01:04:00.375Z</updated>
+        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
-        <id>https://github.com/Wilfred/difftastic</id>
-        <link href="https://github.com/Wilfred/difftastic"/>
-        <updated>2022-04-02T07:14:37.567Z</updated>
-        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
         <id>https://brunch.co.kr/@eugenekimpsah/14</id>
         <link href="https://brunch.co.kr/@eugenekimpsah/14"/>
         <updated>2022-04-03T04:18:01.606Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
+        <id>https://github.com/Wilfred/difftastic</id>
+        <link href="https://github.com/Wilfred/difftastic"/>
+        <updated>2022-04-02T07:14:37.567Z</updated>
+        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
 </feed>
