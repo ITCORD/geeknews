@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T23:14:32.179Z</updated>
+    <updated>2022-04-03T01:04:37.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
+        <id>https://github.com/jcubic/sysend.js</id>
+        <link href="https://github.com/jcubic/sysend.js"/>
+        <updated>2022-04-03T01:04:00.375Z</updated>
+        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
+        <id>https://build-system.fman.io/</id>
+        <link href="https://build-system.fman.io/"/>
+        <updated>2022-04-03T01:04:00.376Z</updated>
+        <content type="html"><![CDATA[(build-system.fman.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
+        <id>https://github.com/dlvhdr/gh-dash</id>
+        <link href="https://github.com/dlvhdr/gh-dash"/>
+        <updated>2022-04-03T01:04:00.376Z</updated>
+        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
         <id>https://www.fermyon.com/blog/introducing-spin</id>
@@ -55,6 +76,13 @@
         <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
+        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
+        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
+        <updated>2022-04-02T00:58:51.627Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
         <id>https://mirage.io/blog/announcing-mirage-40</id>
         <link href="https://mirage.io/blog/announcing-mirage-40"/>
@@ -81,13 +109,6 @@
         <link href="https://designsystem.digital.gov/"/>
         <updated>2022-03-31T01:00:20.940Z</updated>
         <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
-        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
-        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
@@ -123,26 +144,5 @@
         <link href="https://promotion.stibee.com/"/>
         <updated>2022-03-31T02:37:30.177Z</updated>
         <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
-        <id>https://futuretodayinstitute.com/trends/</id>
-        <link href="https://futuretodayinstitute.com/trends/"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
-        <id>https://brunch.co.kr/@eugenekimpsah/14</id>
-        <link href="https://brunch.co.kr/@eugenekimpsah/14"/>
-        <updated>2022-04-02T13:19:39.611Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위대한 비즈니스에서 배우는 교훈]]></title>
-        <id>https://www.readthegeneralist.com/briefing/10-lessons</id>
-        <link href="https://www.readthegeneralist.com/briefing/10-lessons"/>
-        <updated>2022-04-02T19:12:09.838Z</updated>
-        <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
     </entry>
 </feed>
