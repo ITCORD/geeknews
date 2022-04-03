@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-03T16:19:52.861Z</updated>
+    <updated>2022-04-03T17:15:26.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
-        <id>https://www.fermyon.com/blog/introducing-spin</id>
-        <link href="https://www.fermyon.com/blog/introducing-spin"/>
-        <updated>2022-04-02T02:35:08.714Z</updated>
-        <content type="html"><![CDATA[(fermyon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
         <id>https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product</id>
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
         <updated>2022-03-31T09:16:16.008Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
+        <id>https://www.fermyon.com/blog/introducing-spin</id>
+        <link href="https://www.fermyon.com/blog/introducing-spin"/>
+        <updated>2022-04-02T02:35:08.714Z</updated>
+        <content type="html"><![CDATA[(fermyon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
