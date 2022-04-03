@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-03T11:13:16.035Z</updated>
+    <updated>2022-04-03T12:23:30.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
-        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
-        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
-        <updated>2022-04-01T01:08:31.313Z</updated>
-        <content type="html"><![CDATA[(stripe.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
         <id>https://brunch.co.kr/@eugenekimpsah/14</id>
         <link href="https://brunch.co.kr/@eugenekimpsah/14"/>
         <updated>2022-04-03T04:18:01.606Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
+        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
+        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
+        <updated>2022-04-01T01:08:31.313Z</updated>
+        <content type="html"><![CDATA[(stripe.com)]]></content>
     </entry>
 </feed>
