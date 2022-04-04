@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-03T23:14:34.562Z</updated>
+    <updated>2022-04-04T01:03:18.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nitric - 클라우드/서버리스 앱용 프레임워크]]></title>
+        <id>https://github.com/nitrictech/nitric</id>
+        <link href="https://github.com/nitrictech/nitric"/>
+        <updated>2022-04-04T01:02:38.852Z</updated>
+        <content type="html"><![CDATA[(github.com/nitrictech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
+        <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
+        <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
+        <updated>2022-04-04T01:02:38.852Z</updated>
+        <content type="html"><![CDATA[(venturebeat.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBC Online의 Serverless 전환 1주년 회고]]></title>
+        <id>https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277</id>
+        <link href="https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277"/>
+        <updated>2022-04-04T01:02:38.852Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
         <id>https://build-system.fman.io/</id>
         <link href="https://build-system.fman.io/"/>
         <updated>2022-04-03T01:04:00.376Z</updated>
         <content type="html"><![CDATA[(build-system.fman.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
-        <id>https://github.com/jcubic/sysend.js</id>
-        <link href="https://github.com/jcubic/sysend.js"/>
-        <updated>2022-04-03T01:04:00.375Z</updated>
-        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
@@ -27,11 +41,11 @@
         <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: elbird - 한글 형태소 분석기인 kiwi의 R wrapping package (github.com)]]></title>
-        <id>https://news.hada.io/topic?id=6290</id>
-        <link href="https://news.hada.io/topic?id=6290"/>
-        <updated>2022-04-03T15:14:39.259Z</updated>
-        <content type="html"><![CDATA[(github.com/mrchypark)]]></content>
+        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
+        <id>https://github.com/jcubic/sysend.js</id>
+        <link href="https://github.com/jcubic/sysend.js"/>
+        <updated>2022-04-03T01:04:00.375Z</updated>
+        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
@@ -39,6 +53,13 @@
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:54:29.326Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: elbird - 한글 형태소 분석기인 kiwi의 R wrapping package (github.com)]]></title>
+        <id>https://news.hada.io/topic?id=6290</id>
+        <link href="https://news.hada.io/topic?id=6290"/>
+        <updated>2022-04-03T15:14:39.259Z</updated>
+        <content type="html"><![CDATA[(github.com/mrchypark)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
@@ -55,20 +76,6 @@
         <content type="html"><![CDATA[(fermyon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
-        <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
-        <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
-        <updated>2022-03-31T01:00:20.941Z</updated>
-        <content type="html"><![CDATA[(about.netflix.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
-        <id>https://github.com/benbjohnson/postlite</id>
-        <link href="https://github.com/benbjohnson/postlite"/>
-        <updated>2022-04-02T00:58:51.623Z</updated>
-        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
         <id>https://grafana.com/oss/mimir/</id>
         <link href="https://grafana.com/oss/mimir/"/>
@@ -81,6 +88,20 @@
         <link href="https://mirage.io/blog/announcing-mirage-40"/>
         <updated>2022-03-31T01:00:20.952Z</updated>
         <content type="html"><![CDATA[(mirage.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
+        <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
+        <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
+        <updated>2022-03-31T01:00:20.941Z</updated>
+        <content type="html"><![CDATA[(about.netflix.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
+        <id>https://github.com/benbjohnson/postlite</id>
+        <link href="https://github.com/benbjohnson/postlite"/>
+        <updated>2022-04-02T00:58:51.623Z</updated>
+        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Redis Stack 공개]]></title>
@@ -111,13 +132,6 @@
         <content type="html"><![CDATA[(fluenticons.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
-        <id>https://designsystem.digital.gov/</id>
-        <link href="https://designsystem.digital.gov/"/>
-        <updated>2022-03-31T01:00:20.940Z</updated>
-        <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/"/>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
-        <id>https://brunch.co.kr/@eugenekimpsah/14</id>
-        <link href="https://brunch.co.kr/@eugenekimpsah/14"/>
-        <updated>2022-04-03T04:18:01.606Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
-        <id>https://grafana.com/blog/2022/03/31/can-grafana-run-doom/</id>
-        <link href="https://grafana.com/blog/2022/03/31/can-grafana-run-doom/"/>
-        <updated>2022-04-02T00:58:51.627Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
-        <id>https://github.com/Wilfred/difftastic</id>
-        <link href="https://github.com/Wilfred/difftastic"/>
-        <updated>2022-04-02T07:14:37.567Z</updated>
-        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
+        <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
+        <id>https://designsystem.digital.gov/</id>
+        <link href="https://designsystem.digital.gov/"/>
+        <updated>2022-03-31T01:00:20.940Z</updated>
+        <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
     </entry>
 </feed>
