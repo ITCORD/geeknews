@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-04T13:26:01.311Z</updated>
+    <updated>2022-04-04T14:14:55.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Redis Stack 공개]]></title>
-        <id>https://redis.com/blog/introducing-redis-stack/</id>
-        <link href="https://redis.com/blog/introducing-redis-stack/"/>
-        <updated>2022-04-01T03:14:09.524Z</updated>
-        <content type="html"><![CDATA[(redis.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
         <id>https://github.com/benbjohnson/postlite</id>
         <link href="https://github.com/benbjohnson/postlite"/>
         <updated>2022-04-02T00:58:51.623Z</updated>
         <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Stack 공개]]></title>
+        <id>https://redis.com/blog/introducing-redis-stack/</id>
+        <link href="https://redis.com/blog/introducing-redis-stack/"/>
+        <updated>2022-04-01T03:14:09.524Z</updated>
+        <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
-        <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
-        <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
-        <updated>2022-04-01T01:08:31.314Z</updated>
-        <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
         <id>https://fluenticons.co/</id>
         <link href="https://fluenticons.co/"/>
         <updated>2022-03-29T02:57:30.018Z</updated>
         <content type="html"><![CDATA[(fluenticons.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
+        <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
+        <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
+        <updated>2022-04-01T01:08:31.314Z</updated>
+        <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
     </entry>
 </feed>
