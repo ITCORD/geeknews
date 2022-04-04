@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-04T03:01:47.371Z</updated>
+    <updated>2022-04-04T03:40:26.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
+        <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
+        <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
+        <updated>2022-04-04T01:02:38.852Z</updated>
+        <content type="html"><![CDATA[(venturebeat.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
         <id>https://www.thoughtworks.com/radar</id>
@@ -18,13 +25,6 @@
         <link href="https://github.com/nitrictech/nitric"/>
         <updated>2022-04-04T01:02:38.852Z</updated>
         <content type="html"><![CDATA[(github.com/nitrictech)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
-        <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
-        <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
-        <updated>2022-04-04T01:02:38.852Z</updated>
-        <content type="html"><![CDATA[(venturebeat.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Startpack - 셀프호스트 스타터 팩]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(fermyon.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
+        <id>https://github.com/benbjohnson/postlite</id>
+        <link href="https://github.com/benbjohnson/postlite"/>
+        <updated>2022-04-02T00:58:51.623Z</updated>
+        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
         <id>https://grafana.com/oss/mimir/</id>
         <link href="https://grafana.com/oss/mimir/"/>
         <updated>2022-03-31T02:37:30.189Z</updated>
         <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis Stack 공개]]></title>
-        <id>https://redis.com/blog/introducing-redis-stack/</id>
-        <link href="https://redis.com/blog/introducing-redis-stack/"/>
-        <updated>2022-04-01T03:14:09.524Z</updated>
-        <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(mirage.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Redis Stack 공개]]></title>
+        <id>https://redis.com/blog/introducing-redis-stack/</id>
+        <link href="https://redis.com/blog/introducing-redis-stack/"/>
+        <updated>2022-04-01T03:14:09.524Z</updated>
+        <content type="html"><![CDATA[(redis.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
         <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
         <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
         <updated>2022-03-31T01:00:20.941Z</updated>
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postlite - Postgres Wire 호환 SQLite Proxy]]></title>
-        <id>https://github.com/benbjohnson/postlite</id>
-        <link href="https://github.com/benbjohnson/postlite"/>
-        <updated>2022-04-02T00:58:51.623Z</updated>
-        <content type="html"><![CDATA[(github.com/benbjohnson)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
