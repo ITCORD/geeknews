@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T01:00:07.766Z</updated>
+    <updated>2022-04-05T02:37:47.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
+        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
+        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
+        <id>https://github.com/quackduck/devzat</id>
+        <link href="https://github.com/quackduck/devzat"/>
+        <updated>2022-04-05T02:37:00.210Z</updated>
+        <content type="html"><![CDATA[(github.com/quackduck)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
         <id>https://github.com/octeep/wireproxy</id>
@@ -20,18 +34,25 @@
         <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
-        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
-        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
         <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
         <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
         <updated>2022-04-04T01:02:38.852Z</updated>
         <content type="html"><![CDATA[(venturebeat.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플이 iOS 자동완성에 사용하는 화이트리스트 도메인 25만개]]></title>
+        <id>https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url</id>
+        <link href="https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url"/>
+        <updated>2022-04-05T02:37:00.221Z</updated>
+        <content type="html"><![CDATA[(cdn.smoot.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘런 머스크, 트위터 지분 9.2% 취득하며 최대주주가 됨]]></title>
+        <id>https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm</id>
+        <link href="https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm"/>
+        <updated>2022-04-05T02:37:00.223Z</updated>
+        <content type="html"><![CDATA[(sec.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
@@ -123,26 +144,5 @@
         <link href="https://grafana.com/oss/mimir/"/>
         <updated>2022-03-31T02:37:30.189Z</updated>
         <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
-        <id>https://mirage.io/blog/announcing-mirage-40</id>
-        <link href="https://mirage.io/blog/announcing-mirage-40"/>
-        <updated>2022-03-31T01:00:20.952Z</updated>
-        <content type="html"><![CDATA[(mirage.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix, Skip Intro(오프닝 건너뛰기) 버튼 5년 회고]]></title>
-        <id>https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later</id>
-        <link href="https://about.netflix.com/ko/news/looking-back-on-the-origin-of-skip-intro-five-years-later"/>
-        <updated>2022-03-31T01:00:20.941Z</updated>
-        <content type="html"><![CDATA[(about.netflix.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
-        <id>https://fluenticons.co/</id>
-        <link href="https://fluenticons.co/"/>
-        <updated>2022-03-29T02:57:30.018Z</updated>
-        <content type="html"><![CDATA[(fluenticons.co)]]></content>
     </entry>
 </feed>
