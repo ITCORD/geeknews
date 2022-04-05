@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T08:18:42.329Z</updated>
+    <updated>2022-04-05T09:14:58.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,20 @@
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
+        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
+        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
+        <id>https://github.com/octeep/wireproxy</id>
+        <link href="https://github.com/octeep/wireproxy"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(github.com/octeep)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FinRL - 금융투자를 위한 심층 강화 학습 오픈소스]]></title>
         <id>https://github.com/AI4Finance-Foundation/FinRL</id>
         <link href="https://github.com/AI4Finance-Foundation/FinRL"/>
@@ -41,18 +55,11 @@
         <content type="html"><![CDATA[(squeaky.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
-        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
-        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
-        <id>https://github.com/octeep/wireproxy</id>
-        <link href="https://github.com/octeep/wireproxy"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(github.com/octeep)]]></content>
+        <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
+        <id>https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html</id>
+        <link href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html"/>
+        <updated>2022-04-05T09:14:17.745Z</updated>
+        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
@@ -104,18 +111,18 @@
         <content type="html"><![CDATA[(sec.gov)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
-        <id>https://github.com/jcubic/sysend.js</id>
-        <link href="https://github.com/jcubic/sysend.js"/>
-        <updated>2022-04-03T01:04:00.375Z</updated>
-        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BBC Online의 Serverless 전환 1주년 회고]]></title>
         <id>https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277</id>
         <link href="https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277"/>
         <updated>2022-04-04T01:02:38.852Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
+        <id>https://github.com/jcubic/sysend.js</id>
+        <link href="https://github.com/jcubic/sysend.js"/>
+        <updated>2022-04-03T01:04:00.375Z</updated>
+        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
@@ -137,12 +144,5 @@
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
         <updated>2022-03-31T09:16:16.008Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
-        <id>https://github.com/dlvhdr/gh-dash</id>
-        <link href="https://github.com/dlvhdr/gh-dash"/>
-        <updated>2022-04-03T01:04:00.376Z</updated>
-        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
     </entry>
 </feed>
