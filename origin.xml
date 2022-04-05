@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T11:13:28.675Z</updated>
+    <updated>2022-04-05T12:24:22.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(jacobian.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
-        <id>https://programmers.co.kr/pages/2022-dev-survey</id>
-        <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
-        <updated>2022-04-05T05:14:12.536Z</updated>
-        <content type="html"><![CDATA[(programmers.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
         <id>https://github.com/quackduck/devzat</id>
         <link href="https://github.com/quackduck/devzat"/>
         <updated>2022-04-05T02:37:00.210Z</updated>
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
+        <id>https://programmers.co.kr/pages/2022-dev-survey</id>
+        <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
+        <updated>2022-04-05T05:14:12.536Z</updated>
+        <content type="html"><![CDATA[(programmers.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
@@ -104,6 +104,13 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
+        <id>https://github.com/jcubic/sysend.js</id>
+        <link href="https://github.com/jcubic/sysend.js"/>
+        <updated>2022-04-03T01:04:00.375Z</updated>
+        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플이 iOS 자동완성에 사용하는 화이트리스트 도메인 25만개]]></title>
         <id>https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url</id>
         <link href="https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url"/>
@@ -116,13 +123,6 @@
         <link href="https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm"/>
         <updated>2022-04-05T02:37:00.223Z</updated>
         <content type="html"><![CDATA[(sec.gov)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
-        <id>https://github.com/jcubic/sysend.js</id>
-        <link href="https://github.com/jcubic/sysend.js"/>
-        <updated>2022-04-03T01:04:00.375Z</updated>
-        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
