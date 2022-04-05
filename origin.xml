@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T05:14:56.520Z</updated>
+    <updated>2022-04-05T06:19:25.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com/mrchypark)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BBC Online의 Serverless 전환 1주년 회고]]></title>
-        <id>https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277</id>
-        <link href="https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277"/>
-        <updated>2022-04-04T01:02:38.852Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
         <id>https://github.com/jcubic/sysend.js</id>
         <link href="https://github.com/jcubic/sysend.js"/>
         <updated>2022-04-03T01:04:00.375Z</updated>
         <content type="html"><![CDATA[(github.com/jcubic)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBC Online의 Serverless 전환 1주년 회고]]></title>
+        <id>https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277</id>
+        <link href="https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277"/>
+        <updated>2022-04-04T01:02:38.852Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
