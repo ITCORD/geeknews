@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T06:19:25.837Z</updated>
+    <updated>2022-04-05T07:15:13.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
-        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
-        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
-        <updated>2022-04-05T03:27:00.859Z</updated>
-        <content type="html"><![CDATA[(squeaky.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FinRL - 금융투자를 위한 심층 강화 학습 오픈소스]]></title>
         <id>https://github.com/AI4Finance-Foundation/FinRL</id>
         <link href="https://github.com/AI4Finance-Foundation/FinRL"/>
         <updated>2022-04-05T00:59:26.120Z</updated>
         <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
+        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
+        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
+        <updated>2022-04-05T03:27:00.859Z</updated>
+        <content type="html"><![CDATA[(squeaky.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
