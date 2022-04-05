@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T02:37:47.600Z</updated>
+    <updated>2022-04-05T03:27:38.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
-        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
-        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
         <id>https://github.com/quackduck/devzat</id>
         <link href="https://github.com/quackduck/devzat"/>
         <updated>2022-04-05T02:37:00.210Z</updated>
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FinRL - 금융투자를 위한 심층 강화 학습 오픈소스]]></title>
+        <id>https://github.com/AI4Finance-Foundation/FinRL</id>
+        <link href="https://github.com/AI4Finance-Foundation/FinRL"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
+        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
+        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(github.com/octeep)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FinRL - 금융투자를 위한 심층 강화 학습 오픈소스]]></title>
-        <id>https://github.com/AI4Finance-Foundation/FinRL</id>
-        <link href="https://github.com/AI4Finance-Foundation/FinRL"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
+        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
+        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
+        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
+        <updated>2022-04-05T03:27:00.859Z</updated>
+        <content type="html"><![CDATA[(squeaky.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
@@ -137,12 +144,5 @@
         <link href="https://redis.com/blog/introducing-redis-stack/"/>
         <updated>2022-04-01T03:14:09.524Z</updated>
         <content type="html"><![CDATA[(redis.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
-        <id>https://grafana.com/oss/mimir/</id>
-        <link href="https://grafana.com/oss/mimir/"/>
-        <updated>2022-03-31T02:37:30.189Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
 </feed>
