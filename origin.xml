@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T09:14:58.328Z</updated>
+    <updated>2022-04-05T10:15:34.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
-        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
-        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
+        <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
+        <id>https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html</id>
+        <link href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html"/>
+        <updated>2022-04-05T09:14:17.745Z</updated>
+        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
@@ -39,6 +39,13 @@
         <link href="https://github.com/octeep/wireproxy"/>
         <updated>2022-04-05T00:59:26.120Z</updated>
         <content type="html"><![CDATA[(github.com/octeep)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
+        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
+        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FinRL - 금융투자를 위한 심층 강화 학습 오픈소스]]></title>
@@ -53,13 +60,6 @@
         <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
         <updated>2022-04-05T03:27:00.859Z</updated>
         <content type="html"><![CDATA[(squeaky.ai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
-        <id>https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html</id>
-        <link href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html"/>
-        <updated>2022-04-05T09:14:17.745Z</updated>
-        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[(github.com/mrchypark)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BBC Online의 Serverless 전환 1주년 회고]]></title>
+        <id>https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277</id>
+        <link href="https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277"/>
+        <updated>2022-04-04T01:02:38.852Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플이 iOS 자동완성에 사용하는 화이트리스트 도메인 25만개]]></title>
         <id>https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url</id>
         <link href="https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url"/>
@@ -109,13 +116,6 @@
         <link href="https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm"/>
         <updated>2022-04-05T02:37:00.223Z</updated>
         <content type="html"><![CDATA[(sec.gov)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC Online의 Serverless 전환 1주년 회고]]></title>
-        <id>https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277</id>
-        <link href="https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277"/>
-        <updated>2022-04-04T01:02:38.852Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
