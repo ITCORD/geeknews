@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T03:27:38.037Z</updated>
+    <updated>2022-04-05T04:18:36.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
+        <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
+        <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
+        <updated>2022-04-05T04:17:57.024Z</updated>
+        <content type="html"><![CDATA[(jacobian.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
         <id>https://github.com/quackduck/devzat</id>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(github.com/octeep)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
-        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
-        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
-        <updated>2022-04-05T03:27:00.859Z</updated>
-        <content type="html"><![CDATA[(squeaky.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
         <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
         <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
@@ -48,18 +48,11 @@
         <content type="html"><![CDATA[(venturebeat.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플이 iOS 자동완성에 사용하는 화이트리스트 도메인 25만개]]></title>
-        <id>https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url</id>
-        <link href="https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url"/>
-        <updated>2022-04-05T02:37:00.221Z</updated>
-        <content type="html"><![CDATA[(cdn.smoot.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘런 머스크, 트위터 지분 9.2% 취득하며 최대주주가 됨]]></title>
-        <id>https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm</id>
-        <link href="https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm"/>
-        <updated>2022-04-05T02:37:00.223Z</updated>
-        <content type="html"><![CDATA[(sec.gov)]]></content>
+        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
+        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
+        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
+        <updated>2022-04-05T03:27:00.859Z</updated>
+        <content type="html"><![CDATA[(squeaky.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
@@ -74,6 +67,20 @@
         <link href="https://github.com/tldr-devops/startpack"/>
         <updated>2022-04-04T03:01:09.269Z</updated>
         <content type="html"><![CDATA[(github.com/tldr-devops)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플이 iOS 자동완성에 사용하는 화이트리스트 도메인 25만개]]></title>
+        <id>https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url</id>
+        <link href="https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url"/>
+        <updated>2022-04-05T02:37:00.221Z</updated>
+        <content type="html"><![CDATA[(cdn.smoot.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘런 머스크, 트위터 지분 9.2% 취득하며 최대주주가 됨]]></title>
+        <id>https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm</id>
+        <link href="https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm"/>
+        <updated>2022-04-05T02:37:00.223Z</updated>
+        <content type="html"><![CDATA[(sec.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nitric - 클라우드/서버리스 앱용 프레임워크]]></title>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
-        <id>https://github.com/dlvhdr/gh-dash</id>
-        <link href="https://github.com/dlvhdr/gh-dash"/>
-        <updated>2022-04-03T01:04:00.376Z</updated>
-        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
         <id>https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product</id>
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
+        <id>https://github.com/dlvhdr/gh-dash</id>
+        <link href="https://github.com/dlvhdr/gh-dash"/>
+        <updated>2022-04-03T01:04:00.376Z</updated>
+        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Spin - 오픈소스 WebAssembly 프레임워크]]></title>
         <id>https://www.fermyon.com/blog/introducing-spin</id>
         <link href="https://www.fermyon.com/blog/introducing-spin"/>
         <updated>2022-04-02T02:35:08.714Z</updated>
         <content type="html"><![CDATA[(fermyon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis Stack 공개]]></title>
-        <id>https://redis.com/blog/introducing-redis-stack/</id>
-        <link href="https://redis.com/blog/introducing-redis-stack/"/>
-        <updated>2022-04-01T03:14:09.524Z</updated>
-        <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
 </feed>
