@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T21:13:03.529Z</updated>
+    <updated>2022-04-05T22:14:12.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(venturebeat.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
-        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
-        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
-        <updated>2022-04-05T03:27:00.859Z</updated>
-        <content type="html"><![CDATA[(squeaky.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
         <id>https://www.thoughtworks.com/radar</id>
         <link href="https://www.thoughtworks.com/radar"/>
         <updated>2022-04-04T03:01:09.267Z</updated>
         <content type="html"><![CDATA[(thoughtworks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
+        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
+        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
+        <updated>2022-04-05T03:27:00.859Z</updated>
+        <content type="html"><![CDATA[(squeaky.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Startpack - 셀프호스트 스타터 팩]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
+        <id>https://github.com/dlvhdr/gh-dash</id>
+        <link href="https://github.com/dlvhdr/gh-dash"/>
+        <updated>2022-04-05T22:13:33.445Z</updated>
+        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플이 iOS 자동완성에 사용하는 화이트리스트 도메인 25만개]]></title>
         <id>https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url</id>
         <link href="https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url"/>
         <updated>2022-04-05T02:37:00.221Z</updated>
         <content type="html"><![CDATA[(cdn.smoot.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘런 머스크, 트위터 지분 9.2% 취득하며 최대주주가 됨]]></title>
-        <id>https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm</id>
-        <link href="https://www.sec.gov/Archives/edgar/data/0001494730/000110465922041911/tm2211482d1_sc13g.htm"/>
-        <updated>2022-04-05T02:37:00.223Z</updated>
-        <content type="html"><![CDATA[(sec.gov)]]></content>
     </entry>
 </feed>
