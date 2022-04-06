@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T01:03:38.015Z</updated>
+    <updated>2022-04-06T02:54:18.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하나의 앱 - 두개의 세계 : 러시아와 우크라이나의 TikTok]]></title>
+        <id>https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522</id>
+        <link href="https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522"/>
+        <updated>2022-04-06T02:53:32.159Z</updated>
+        <content type="html"><![CDATA[(nrk.no)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
         <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
         <updated>2022-04-05T04:17:57.024Z</updated>
         <content type="html"><![CDATA[(jacobian.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
-        <id>https://developer.apple.com/wwdc22/</id>
-        <link href="https://developer.apple.com/wwdc22/"/>
-        <updated>2022-04-06T01:03:00.737Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
+        <id>https://warp.dev/</id>
+        <link href="https://warp.dev/"/>
+        <updated>2022-04-06T02:53:32.168Z</updated>
+        <content type="html"><![CDATA[(warp.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
         <id>https://github.com/quackduck/devzat</id>
         <link href="https://github.com/quackduck/devzat"/>
@@ -34,11 +41,25 @@
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
+        <id>https://blog.fidelramos.net/photography/photography-workflow</id>
+        <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
+        <updated>2022-04-06T02:53:32.177Z</updated>
+        <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
         <id>https://programmers.co.kr/pages/2022-dev-survey</id>
         <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
         <updated>2022-04-05T05:14:12.536Z</updated>
         <content type="html"><![CDATA[(programmers.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
+        <id>https://developer.apple.com/wwdc22/</id>
+        <link href="https://developer.apple.com/wwdc22/"/>
+        <updated>2022-04-06T01:03:00.737Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
@@ -83,18 +104,18 @@
         <content type="html"><![CDATA[(thoughtworks.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
-        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
-        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
-        <updated>2022-04-05T03:27:00.859Z</updated>
-        <content type="html"><![CDATA[(squeaky.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Startpack - 셀프호스트 스타터 팩]]></title>
         <id>https://github.com/tldr-devops/startpack</id>
         <link href="https://github.com/tldr-devops/startpack"/>
         <updated>2022-04-04T03:01:09.269Z</updated>
         <content type="html"><![CDATA[(github.com/tldr-devops)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
+        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
+        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
+        <updated>2022-04-05T03:27:00.859Z</updated>
+        <content type="html"><![CDATA[(squeaky.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nitric - 클라우드/서버리스 앱용 프레임워크]]></title>
@@ -118,31 +139,10 @@
         <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BBC Online의 Serverless 전환 1주년 회고]]></title>
-        <id>https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277</id>
-        <link href="https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277"/>
-        <updated>2022-04-04T01:02:38.852Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:54:29.326Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
-        <id>https://build-system.fman.io/</id>
-        <link href="https://build-system.fman.io/"/>
-        <updated>2022-04-03T01:04:00.376Z</updated>
-        <content type="html"><![CDATA[(build-system.fman.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스]]></title>
-        <id>https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product</id>
-        <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
-        <updated>2022-03-31T09:16:16.008Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
 </feed>
