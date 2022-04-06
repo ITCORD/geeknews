@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T23:16:11.872Z</updated>
+    <updated>2022-04-06T01:03:38.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
         <updated>2022-04-05T04:17:57.024Z</updated>
         <content type="html"><![CDATA[(jacobian.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
+        <id>https://developer.apple.com/wwdc22/</id>
+        <link href="https://developer.apple.com/wwdc22/"/>
+        <updated>2022-04-06T01:03:00.737Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
+        <id>https://github.com/mcobzarenco/zee</id>
+        <link href="https://github.com/mcobzarenco/zee"/>
+        <updated>2022-04-06T01:03:00.737Z</updated>
+        <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
@@ -48,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
-        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
-        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
         <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
         <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
         <updated>2022-04-04T01:02:38.852Z</updated>
         <content type="html"><![CDATA[(venturebeat.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
+        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
+        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
@@ -130,19 +144,5 @@
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
         <updated>2022-03-31T09:16:16.008Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
-        <id>https://github.com/dlvhdr/gh-dash</id>
-        <link href="https://github.com/dlvhdr/gh-dash"/>
-        <updated>2022-04-05T22:13:33.445Z</updated>
-        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플이 iOS 자동완성에 사용하는 화이트리스트 도메인 25만개]]></title>
-        <id>https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url</id>
-        <link href="https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url"/>
-        <updated>2022-04-05T02:37:00.221Z</updated>
-        <content type="html"><![CDATA[(cdn.smoot.apple.com)]]></content>
     </entry>
 </feed>
