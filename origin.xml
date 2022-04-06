@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T16:20:17.291Z</updated>
+    <updated>2022-04-06T17:16:34.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[(ns.nl)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
-        <id>https://github.com/quackduck/devzat</id>
-        <link href="https://github.com/quackduck/devzat"/>
-        <updated>2022-04-05T02:37:00.210Z</updated>
-        <content type="html"><![CDATA[(github.com/quackduck)]]></content>
+        <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
+        <id>https://news.hada.io/topic?id=6315</id>
+        <link href="https://news.hada.io/topic?id=6315"/>
+        <updated>2022-04-06T06:17:56.393Z</updated>
+        <content type="html"><![CDATA[(linktr.ee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
@@ -69,11 +69,18 @@
         <content type="html"><![CDATA[(programmers.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
-        <id>https://news.hada.io/topic?id=6315</id>
-        <link href="https://news.hada.io/topic?id=6315"/>
-        <updated>2022-04-06T06:17:56.393Z</updated>
-        <content type="html"><![CDATA[(linktr.ee)]]></content>
+        <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
+        <id>https://github.com/quackduck/devzat</id>
+        <link href="https://github.com/quackduck/devzat"/>
+        <updated>2022-04-05T02:37:00.210Z</updated>
+        <content type="html"><![CDATA[(github.com/quackduck)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
+        <id>https://github.com/octeep/wireproxy</id>
+        <link href="https://github.com/octeep/wireproxy"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(github.com/octeep)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
@@ -97,13 +104,6 @@
         <content type="html"><![CDATA[(venturebeat.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
-        <id>https://github.com/octeep/wireproxy</id>
-        <link href="https://github.com/octeep/wireproxy"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(github.com/octeep)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FinRL - 금융투자를 위한 심층 강화 학습 오픈소스]]></title>
         <id>https://github.com/AI4Finance-Foundation/FinRL</id>
         <link href="https://github.com/AI4Finance-Foundation/FinRL"/>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
-        <id>https://www.thoughtworks.com/radar</id>
-        <link href="https://www.thoughtworks.com/radar"/>
-        <updated>2022-04-04T03:01:09.267Z</updated>
-        <content type="html"><![CDATA[(thoughtworks.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
         <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
         <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
         <updated>2022-04-05T00:59:26.120Z</updated>
         <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
+        <id>https://www.thoughtworks.com/radar</id>
+        <link href="https://www.thoughtworks.com/radar"/>
+        <updated>2022-04-04T03:01:09.267Z</updated>
+        <content type="html"><![CDATA[(thoughtworks.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Startpack - 셀프호스트 스타터 팩]]></title>
