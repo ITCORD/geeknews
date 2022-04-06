@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T02:54:18.488Z</updated>
+    <updated>2022-04-06T03:29:12.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
+        <id>https://warp.dev/</id>
+        <link href="https://warp.dev/"/>
+        <updated>2022-04-06T02:53:32.168Z</updated>
+        <content type="html"><![CDATA[(warp.dev)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하나의 앱 - 두개의 세계 : 러시아와 우크라이나의 TikTok]]></title>
         <id>https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522</id>
         <link href="https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522"/>
         <updated>2022-04-06T02:53:32.159Z</updated>
         <content type="html"><![CDATA[(nrk.no)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
+        <id>https://blog.fidelramos.net/photography/photography-workflow</id>
+        <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
+        <updated>2022-04-06T02:53:32.177Z</updated>
+        <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
@@ -27,25 +41,11 @@
         <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
-        <id>https://warp.dev/</id>
-        <link href="https://warp.dev/"/>
-        <updated>2022-04-06T02:53:32.168Z</updated>
-        <content type="html"><![CDATA[(warp.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
         <id>https://github.com/quackduck/devzat</id>
         <link href="https://github.com/quackduck/devzat"/>
         <updated>2022-04-05T02:37:00.210Z</updated>
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
-        <id>https://blog.fidelramos.net/photography/photography-workflow</id>
-        <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
-        <updated>2022-04-06T02:53:32.177Z</updated>
-        <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
@@ -118,6 +118,12 @@
         <content type="html"><![CDATA[(squeaky.ai)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분은 어떻게 다른 회사의 개발자분들과 소통하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6307</id>
+        <link href="https://news.hada.io/topic?id=6307"/>
+        <updated>2022-04-06T03:28:29.642Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nitric - 클라우드/서버리스 앱용 프레임워크]]></title>
         <id>https://github.com/nitrictech/nitric</id>
         <link href="https://github.com/nitrictech/nitric"/>
@@ -137,12 +143,5 @@
         <link href="https://github.com/jcubic/sysend.js"/>
         <updated>2022-04-03T01:04:00.375Z</updated>
         <content type="html"><![CDATA[(github.com/jcubic)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
-        <id>https://news.ycombinator.com/item?id=30822339</id>
-        <link href="https://news.ycombinator.com/item?id=30822339"/>
-        <updated>2022-03-30T02:54:29.326Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
 </feed>
