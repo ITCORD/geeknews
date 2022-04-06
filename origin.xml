@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T06:18:45.061Z</updated>
+    <updated>2022-04-06T07:15:12.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
+        <id>https://news.hada.io/topic?id=6316</id>
+        <link href="https://news.hada.io/topic?id=6316"/>
+        <updated>2022-04-06T07:14:32.622Z</updated>
+        <content type="html"><![CDATA[(pbkit.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
+        <id>https://blog.fidelramos.net/photography/photography-workflow</id>
+        <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
+        <updated>2022-04-06T02:53:32.177Z</updated>
+        <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
         <id>https://warp.dev/</id>
@@ -20,11 +34,11 @@
         <content type="html"><![CDATA[(nrk.no)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
-        <id>https://blog.fidelramos.net/photography/photography-workflow</id>
-        <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
-        <updated>2022-04-06T02:53:32.177Z</updated>
-        <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
+        <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
+        <id>https://news.hada.io/topic?id=6315</id>
+        <link href="https://news.hada.io/topic?id=6315"/>
+        <updated>2022-04-06T06:17:56.393Z</updated>
+        <content type="html"><![CDATA[(linktr.ee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
@@ -41,25 +55,11 @@
         <content type="html"><![CDATA[(ns.nl)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
-        <id>https://news.hada.io/topic?id=6315</id>
-        <link href="https://news.hada.io/topic?id=6315"/>
-        <updated>2022-04-06T06:17:56.393Z</updated>
-        <content type="html"><![CDATA[(linktr.ee)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
         <id>https://github.com/mcobzarenco/zee</id>
         <link href="https://github.com/mcobzarenco/zee"/>
         <updated>2022-04-06T01:03:00.737Z</updated>
         <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
-        <id>https://programmers.co.kr/pages/2022-dev-survey</id>
-        <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
-        <updated>2022-04-05T05:14:12.536Z</updated>
-        <content type="html"><![CDATA[(programmers.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
-        <id>https://developer.apple.com/wwdc22/</id>
-        <link href="https://developer.apple.com/wwdc22/"/>
-        <updated>2022-04-06T01:03:00.737Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+        <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
+        <id>https://programmers.co.kr/pages/2022-dev-survey</id>
+        <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
+        <updated>2022-04-05T05:14:12.536Z</updated>
+        <content type="html"><![CDATA[(programmers.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
@@ -81,6 +81,13 @@
         <link href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html"/>
         <updated>2022-04-05T09:14:17.745Z</updated>
         <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
+        <id>https://developer.apple.com/wwdc22/</id>
+        <link href="https://developer.apple.com/wwdc22/"/>
+        <updated>2022-04-06T01:03:00.737Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
@@ -130,12 +137,6 @@
         <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
         <updated>2022-04-05T03:27:00.859Z</updated>
         <content type="html"><![CDATA[(squeaky.ai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분은 어떻게 다른 회사의 개발자분들과 소통하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6307</id>
-        <link href="https://news.hada.io/topic?id=6307"/>
-        <updated>2022-04-06T03:28:29.642Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nitric - 클라우드/서버리스 앱용 프레임워크]]></title>
