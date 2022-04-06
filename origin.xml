@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T15:15:52.555Z</updated>
+    <updated>2022-04-06T16:20:17.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
-        <id>https://warp.dev/</id>
-        <link href="https://warp.dev/"/>
-        <updated>2022-04-06T02:53:32.168Z</updated>
-        <content type="html"><![CDATA[(warp.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
         <id>https://blog.fidelramos.net/photography/photography-workflow</id>
         <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
         <updated>2022-04-06T02:53:32.177Z</updated>
         <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
+        <id>https://warp.dev/</id>
+        <link href="https://warp.dev/"/>
+        <updated>2022-04-06T02:53:32.168Z</updated>
+        <content type="html"><![CDATA[(warp.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하나의 앱 - 두개의 세계 : 러시아와 우크라이나의 TikTok]]></title>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(nrk.no)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
-        <id>https://github.com/mcobzarenco/zee</id>
-        <link href="https://github.com/mcobzarenco/zee"/>
-        <updated>2022-04-06T01:03:00.737Z</updated>
-        <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
         <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
@@ -48,18 +41,18 @@
         <content type="html"><![CDATA[(jacobian.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
+        <id>https://github.com/mcobzarenco/zee</id>
+        <link href="https://github.com/mcobzarenco/zee"/>
+        <updated>2022-04-06T01:03:00.737Z</updated>
+        <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IT 시스템이 고장나 있는동안, 오늘은(4월 3일) 어떤 열차도 운행하지 못합니다]]></title>
         <id>https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html</id>
         <link href="https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html"/>
         <updated>2022-04-06T04:17:48.881Z</updated>
         <content type="html"><![CDATA[(ns.nl)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
-        <id>https://news.hada.io/topic?id=6315</id>
-        <link href="https://news.hada.io/topic?id=6315"/>
-        <updated>2022-04-06T06:17:56.393Z</updated>
-        <content type="html"><![CDATA[(linktr.ee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
@@ -74,6 +67,13 @@
         <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
         <updated>2022-04-05T05:14:12.536Z</updated>
         <content type="html"><![CDATA[(programmers.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
+        <id>https://news.hada.io/topic?id=6315</id>
+        <link href="https://news.hada.io/topic?id=6315"/>
+        <updated>2022-04-06T06:17:56.393Z</updated>
+        <content type="html"><![CDATA[(linktr.ee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
-        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
-        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
         <id>https://www.thoughtworks.com/radar</id>
         <link href="https://www.thoughtworks.com/radar"/>
         <updated>2022-04-04T03:01:09.267Z</updated>
         <content type="html"><![CDATA[(thoughtworks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
+        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
+        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
+        <updated>2022-04-05T00:59:26.120Z</updated>
+        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Startpack - 셀프호스트 스타터 팩]]></title>
