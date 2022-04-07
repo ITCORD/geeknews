@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T23:15:38.376Z</updated>
+    <updated>2022-04-07T01:02:18.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DataGridXL2.js - 엑셀과 비슷한 데이터 테이블 라이브러리]]></title>
+        <id>https://www.datagridxl.com/</id>
+        <link href="https://www.datagridxl.com/"/>
+        <updated>2022-04-07T01:01:38.936Z</updated>
+        <content type="html"><![CDATA[(datagridxl.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
         <id>https://news.hada.io/topic?id=6316</id>
         <link href="https://news.hada.io/topic?id=6316"/>
         <updated>2022-04-06T07:14:32.622Z</updated>
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5 정식 릴리즈]]></title>
+        <id>https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available</id>
+        <link href="https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available"/>
+        <updated>2022-04-07T01:01:38.936Z</updated>
+        <content type="html"><![CDATA[(unrealengine.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
@@ -41,6 +55,13 @@
         <content type="html"><![CDATA[(jacobian.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
+        <id>https://news.hada.io/topic?id=6315</id>
+        <link href="https://news.hada.io/topic?id=6315"/>
+        <updated>2022-04-06T06:17:56.393Z</updated>
+        <content type="html"><![CDATA[(linktr.ee)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
         <id>https://github.com/mcobzarenco/zee</id>
         <link href="https://github.com/mcobzarenco/zee"/>
@@ -69,13 +90,6 @@
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
-        <id>https://news.hada.io/topic?id=6315</id>
-        <link href="https://news.hada.io/topic?id=6315"/>
-        <updated>2022-04-06T06:17:56.393Z</updated>
-        <content type="html"><![CDATA[(linktr.ee)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
         <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
         <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
@@ -90,18 +104,18 @@
         <content type="html"><![CDATA[(github.com/octeep)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
-        <id>https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html</id>
-        <link href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html"/>
-        <updated>2022-04-05T09:14:17.745Z</updated>
-        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FinRL - 금융투자를 위한 심층 강화 학습 오픈소스]]></title>
         <id>https://github.com/AI4Finance-Foundation/FinRL</id>
         <link href="https://github.com/AI4Finance-Foundation/FinRL"/>
         <updated>2022-04-05T00:59:26.120Z</updated>
         <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
+        <id>https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html</id>
+        <link href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html"/>
+        <updated>2022-04-05T09:14:17.745Z</updated>
+        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
@@ -130,19 +144,5 @@
         <link href="https://github.com/tldr-devops/startpack"/>
         <updated>2022-04-04T03:01:09.269Z</updated>
         <content type="html"><![CDATA[(github.com/tldr-devops)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: elbird - 한글 형태소 분석기인 kiwi의 R wrapping package (github.com)]]></title>
-        <id>https://news.hada.io/topic?id=6290</id>
-        <link href="https://news.hada.io/topic?id=6290"/>
-        <updated>2022-04-06T12:26:12.256Z</updated>
-        <content type="html"><![CDATA[(github.com/mrchypark)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nitric - 클라우드/서버리스 앱용 프레임워크]]></title>
-        <id>https://github.com/nitrictech/nitric</id>
-        <link href="https://github.com/nitrictech/nitric"/>
-        <updated>2022-04-06T15:15:12.885Z</updated>
-        <content type="html"><![CDATA[(github.com/nitrictech)]]></content>
     </entry>
 </feed>
