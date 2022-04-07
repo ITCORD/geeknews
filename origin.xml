@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-07T08:19:24.878Z</updated>
+    <updated>2022-04-07T09:15:27.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.youtube.com/watch?v=c6LlMe6xBjQ"/>
         <updated>2022-04-07T02:51:37.761Z</updated>
         <content type="html"><![CDATA[(youtube.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악을 다룰 때 고려해야 할 엣지케이스들]]></title>
+        <id>https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html</id>
+        <link href="https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"/>
+        <updated>2022-04-07T02:51:37.762Z</updated>
+        <content type="html"><![CDATA[(dustri.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DataGridXL2.js - 엑셀과 비슷한 데이터 테이블 라이브러리]]></title>
@@ -25,13 +32,6 @@
         <link href="https://news.hada.io/topic?id=6316"/>
         <updated>2022-04-06T07:14:32.622Z</updated>
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악을 다룰 때 고려해야 할 엣지케이스들]]></title>
-        <id>https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html</id>
-        <link href="https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"/>
-        <updated>2022-04-07T02:51:37.762Z</updated>
-        <content type="html"><![CDATA[(dustri.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[geohot/tinygrad - 미니멀한 딥러닝 프레임워크]]></title>
