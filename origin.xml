@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-07T16:21:00.463Z</updated>
+    <updated>2022-04-07T17:17:26.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unreal Engine 5 정식 릴리즈]]></title>
-        <id>https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available</id>
-        <link href="https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available"/>
-        <updated>2022-04-07T01:01:38.936Z</updated>
-        <content type="html"><![CDATA[(unrealengine.com)]]></content>
+        <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
+        <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
+        <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
+        <updated>2022-04-05T04:17:57.024Z</updated>
+        <content type="html"><![CDATA[(jacobian.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[(warp.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
-        <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
-        <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
-        <updated>2022-04-05T04:17:57.024Z</updated>
-        <content type="html"><![CDATA[(jacobian.org)]]></content>
+        <title type="html"><![CDATA[Unreal Engine 5 정식 릴리즈]]></title>
+        <id>https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available</id>
+        <link href="https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available"/>
+        <updated>2022-04-07T01:01:38.936Z</updated>
+        <content type="html"><![CDATA[(unrealengine.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하나의 앱 - 두개의 세계 : 러시아와 우크라이나의 TikTok]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
-        <id>https://github.com/quackduck/devzat</id>
-        <link href="https://github.com/quackduck/devzat"/>
-        <updated>2022-04-05T02:37:00.210Z</updated>
-        <content type="html"><![CDATA[(github.com/quackduck)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
         <id>https://programmers.co.kr/pages/2022-dev-survey</id>
         <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
         <updated>2022-04-05T05:14:12.536Z</updated>
         <content type="html"><![CDATA[(programmers.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
+        <id>https://github.com/quackduck/devzat</id>
+        <link href="https://github.com/quackduck/devzat"/>
+        <updated>2022-04-05T02:37:00.210Z</updated>
+        <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
