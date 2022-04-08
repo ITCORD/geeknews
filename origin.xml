@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-08T01:02:03.542Z</updated>
+    <updated>2022-04-08T03:00:03.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[(github.com/eth0izzle)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
-        <id>https://openai.com/dall-e-2/</id>
-        <link href="https://openai.com/dall-e-2/"/>
-        <updated>2022-04-08T01:01:24.805Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
+        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
+        <id>https://pspdfkit.com/api/</id>
+        <link href="https://pspdfkit.com/api/"/>
+        <updated>2022-04-08T02:59:24.656Z</updated>
+        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GenieFramework - Julia용 웹 개발 프레임워크]]></title>
+        <id>https://genieframework.com/</id>
+        <link href="https://genieframework.com/"/>
+        <updated>2022-04-08T02:59:24.657Z</updated>
+        <content type="html"><![CDATA[(genieframework.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구]]></title>
@@ -25,6 +32,13 @@
         <link href="https://github.com/ThioJoe/YT-Spammer-Purge"/>
         <updated>2022-04-08T01:01:24.806Z</updated>
         <content type="html"><![CDATA[(github.com/ThioJoe)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
+        <id>https://openai.com/dall-e-2/</id>
+        <link href="https://openai.com/dall-e-2/"/>
+        <updated>2022-04-08T01:01:24.805Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["내 트리를 꾸며줘" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html"/>
         <updated>2022-04-06T04:17:48.881Z</updated>
         <content type="html"><![CDATA[(ns.nl)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
-        <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
-        <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
-        <updated>2022-04-04T01:02:38.852Z</updated>
-        <content type="html"><![CDATA[(venturebeat.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
-        <id>https://github.com/octeep/wireproxy</id>
-        <link href="https://github.com/octeep/wireproxy"/>
-        <updated>2022-04-05T00:59:26.120Z</updated>
-        <content type="html"><![CDATA[(github.com/octeep)]]></content>
     </entry>
 </feed>
