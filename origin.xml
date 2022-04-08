@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-08T05:14:19.457Z</updated>
+    <updated>2022-04-08T06:19:33.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,12 +34,6 @@
         <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6327</id>
-        <link href="https://news.hada.io/topic?id=6327"/>
-        <updated>2022-04-08T03:37:12.232Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GenieFramework - Julia용 웹 개발 프레임워크]]></title>
         <id>https://genieframework.com/</id>
         <link href="https://genieframework.com/"/>
@@ -52,6 +46,12 @@
         <link href="https://github.com/ThioJoe/YT-Spammer-Purge"/>
         <updated>2022-04-08T01:01:24.806Z</updated>
         <content type="html"><![CDATA[(github.com/ThioJoe)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6327</id>
+        <link href="https://news.hada.io/topic?id=6327"/>
+        <updated>2022-04-08T03:37:12.232Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA["내 트리를 꾸며줘" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]]]></title>
