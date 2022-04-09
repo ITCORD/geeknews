@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-09T16:19:24.725Z</updated>
+    <updated>2022-04-09T17:17:17.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(pspdfkit.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
-        <id>https://github.com/eth0izzle/shhgit</id>
-        <link href="https://github.com/eth0izzle/shhgit"/>
-        <updated>2022-04-08T01:01:24.805Z</updated>
-        <content type="html"><![CDATA[(github.com/eth0izzle)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
         <id>https://news.hada.io/topic?id=6316</id>
         <link href="https://news.hada.io/topic?id=6316"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
-        <id>https://openai.com/dall-e-2/</id>
-        <link href="https://openai.com/dall-e-2/"/>
+        <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
+        <id>https://github.com/eth0izzle/shhgit</id>
+        <link href="https://github.com/eth0izzle/shhgit"/>
         <updated>2022-04-08T01:01:24.805Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
+        <content type="html"><![CDATA[(github.com/eth0izzle)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
@@ -74,6 +67,13 @@
         <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
         <updated>2022-04-09T01:00:13.077Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
+        <id>https://openai.com/dall-e-2/</id>
+        <link href="https://openai.com/dall-e-2/"/>
+        <updated>2022-04-08T01:01:24.805Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["내 트리를 꾸며줘" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]]]></title>
