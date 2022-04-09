@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-09T05:15:37.674Z</updated>
+    <updated>2022-04-09T06:18:09.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(apps.apple.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
+        <updated>2022-04-09T01:00:13.077Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
         <id>https://pspdfkit.com/api/</id>
         <link href="https://pspdfkit.com/api/"/>
@@ -46,13 +53,6 @@
         <link href="https://github.com/eth0izzle/shhgit"/>
         <updated>2022-04-08T01:01:24.805Z</updated>
         <content type="html"><![CDATA[(github.com/eth0izzle)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
-        <updated>2022-04-09T01:00:13.077Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DALL·E 2 공개]]></title>
