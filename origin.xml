@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-09T06:18:09.537Z</updated>
+    <updated>2022-04-09T07:14:38.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://hr.wanted.co.kr/insights/wcms3"/>
         <updated>2022-04-09T01:00:13.071Z</updated>
         <content type="html"><![CDATA[(hr.wanted.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중세 도시 지도 생성기]]></title>
-        <id>https://watabou.github.io/city-generator/</id>
-        <link href="https://watabou.github.io/city-generator/"/>
-        <updated>2022-04-08T04:17:44.582Z</updated>
-        <content type="html"><![CDATA[(watabou.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
@@ -32,6 +25,13 @@
         <link href="https://apps.apple.com/us/app/roam-mobile/id1609277273"/>
         <updated>2022-04-09T01:00:13.076Z</updated>
         <content type="html"><![CDATA[(apps.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중세 도시 지도 생성기]]></title>
+        <id>https://watabou.github.io/city-generator/</id>
+        <link href="https://watabou.github.io/city-generator/"/>
+        <updated>2022-04-08T04:17:44.582Z</updated>
+        <content type="html"><![CDATA[(watabou.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(genieframework.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[음악을 다룰 때 고려해야 할 엣지케이스들]]></title>
-        <id>https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html</id>
-        <link href="https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"/>
-        <updated>2022-04-07T02:51:37.762Z</updated>
-        <content type="html"><![CDATA[(dustri.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
         <id>https://blog.fidelramos.net/photography/photography-workflow</id>
         <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
         <updated>2022-04-06T02:53:32.177Z</updated>
         <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악을 다룰 때 고려해야 할 엣지케이스들]]></title>
+        <id>https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html</id>
+        <link href="https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"/>
+        <updated>2022-04-07T02:51:37.762Z</updated>
+        <content type="html"><![CDATA[(dustri.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
