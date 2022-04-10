@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-10T10:15:44.040Z</updated>
+    <updated>2022-04-10T11:13:56.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(hr.wanted.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
-        <id>https://pspdfkit.com/api/</id>
-        <link href="https://pspdfkit.com/api/"/>
-        <updated>2022-04-08T02:59:24.656Z</updated>
-        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
         <id>https://news.hada.io/topic?id=6316</id>
         <link href="https://news.hada.io/topic?id=6316"/>
         <updated>2022-04-06T07:14:32.622Z</updated>
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
+        <id>https://pspdfkit.com/api/</id>
+        <link href="https://pspdfkit.com/api/"/>
+        <updated>2022-04-08T02:59:24.656Z</updated>
+        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(genieframework.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
-        <updated>2022-04-09T01:00:13.077Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
         <id>https://warp.dev/</id>
         <link href="https://warp.dev/"/>
         <updated>2022-04-06T02:53:32.168Z</updated>
         <content type="html"><![CDATA[(warp.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
+        <updated>2022-04-09T01:00:13.077Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
