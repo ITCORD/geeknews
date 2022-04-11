@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-11T03:07:09.619Z</updated>
+    <updated>2022-04-11T04:19:54.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(9to5google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
-        <id>https://github.com/eth0izzle/shhgit</id>
-        <link href="https://github.com/eth0izzle/shhgit"/>
-        <updated>2022-04-08T01:01:24.805Z</updated>
-        <content type="html"><![CDATA[(github.com/eth0izzle)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["내 트리를 꾸며줘" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]]]></title>
         <id>https://www.youtube.com/watch?v=c6LlMe6xBjQ</id>
         <link href="https://www.youtube.com/watch?v=c6LlMe6xBjQ"/>
@@ -118,11 +111,11 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
-        <id>https://openai.com/dall-e-2/</id>
-        <link href="https://openai.com/dall-e-2/"/>
+        <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
+        <id>https://github.com/eth0izzle/shhgit</id>
+        <link href="https://github.com/eth0izzle/shhgit"/>
         <updated>2022-04-08T01:01:24.805Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
+        <content type="html"><![CDATA[(github.com/eth0izzle)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
@@ -130,6 +123,13 @@
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
         <updated>2022-04-05T04:17:57.024Z</updated>
         <content type="html"><![CDATA[(jacobian.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
+        <id>https://openai.com/dall-e-2/</id>
+        <link href="https://openai.com/dall-e-2/"/>
+        <updated>2022-04-08T01:01:24.805Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DataGridXL2.js - 엑셀과 비슷한 데이터 테이블 라이브러리]]></title>
