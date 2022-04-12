@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-12T12:28:42.162Z</updated>
+    <updated>2022-04-12T13:28:10.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com/symkat)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talos Linux - Kubernetes OS]]></title>
-        <id>https://www.talos.dev/</id>
-        <link href="https://www.talos.dev/"/>
-        <updated>2022-04-12T01:00:54.102Z</updated>
-        <content type="html"><![CDATA[(talos.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
         <id>https://news.ycombinator.com/item?id=23349707</id>
         <link href="https://news.ycombinator.com/item?id=23349707"/>
         <updated>2022-04-12T05:13:47.230Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talos Linux - Kubernetes OS]]></title>
+        <id>https://www.talos.dev/</id>
+        <link href="https://www.talos.dev/"/>
+        <updated>2022-04-12T01:00:54.102Z</updated>
+        <content type="html"><![CDATA[(talos.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TruffleHog - Credential 검색 도구]]></title>
