@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-12T06:19:18.769Z</updated>
+    <updated>2022-04-12T07:15:57.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.talos.dev/"/>
         <updated>2022-04-12T01:00:54.102Z</updated>
         <content type="html"><![CDATA[(talos.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
+        <id>https://news.ycombinator.com/item?id=23349707</id>
+        <link href="https://news.ycombinator.com/item?id=23349707"/>
+        <updated>2022-04-12T05:13:47.230Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TruffleHog - Credential 검색 도구]]></title>
@@ -52,13 +59,6 @@
         <id>https://news.ycombinator.com/item?id=30942698</id>
         <link href="https://news.ycombinator.com/item?id=30942698"/>
         <updated>2022-04-11T03:06:30.014Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
-        <id>https://news.ycombinator.com/item?id=23349707</id>
-        <link href="https://news.ycombinator.com/item?id=23349707"/>
-        <updated>2022-04-12T05:13:47.230Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(hr.wanted.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RedwoodJS 1.0 공개 및 $1M 펀드 조성]]></title>
-        <id>https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html</id>
-        <link href="https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html"/>
-        <updated>2022-04-11T03:06:30.024Z</updated>
-        <content type="html"><![CDATA[(tom.preston-werner.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shepherd - 미팅 노트/아젠다/태스크 관리도구]]></title>
         <id>https://www.meetshepherd.com/</id>
         <link href="https://www.meetshepherd.com/"/>
         <updated>2022-04-10T02:53:50.430Z</updated>
         <content type="html"><![CDATA[(meetshepherd.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedwoodJS 1.0 공개 및 $1M 펀드 조성]]></title>
+        <id>https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html</id>
+        <link href="https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html"/>
+        <updated>2022-04-11T03:06:30.024Z</updated>
+        <content type="html"><![CDATA[(tom.preston-werner.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
