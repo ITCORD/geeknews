@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-13T04:19:45.600Z</updated>
+    <updated>2022-04-13T05:14:32.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[(morling.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
+        <id>https://heaps.io/index.html</id>
+        <link href="https://heaps.io/index.html"/>
+        <updated>2022-04-13T03:01:36.143Z</updated>
+        <content type="html"><![CDATA[(heaps.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[맥을 처음 사용한 유저가 느낀점]]></title>
         <id>https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/</id>
         <link href="https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/"/>
         <updated>2022-04-13T03:01:36.143Z</updated>
         <content type="html"><![CDATA[(loganmarchione.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RisingWave - 클라우드 네이티브 차세대 스트리밍 DB]]></title>
+        <id>https://github.com/singularity-data/risingwave</id>
+        <link href="https://github.com/singularity-data/risingwave"/>
+        <updated>2022-04-13T03:01:36.143Z</updated>
+        <content type="html"><![CDATA[(github.com/singularity-data)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rectangle - macOS에서 키보드로 창 이동/크기 조정]]></title>
@@ -27,20 +41,6 @@
         <content type="html"><![CDATA[(rectangleapp.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
-        <id>https://heaps.io/index.html</id>
-        <link href="https://heaps.io/index.html"/>
-        <updated>2022-04-13T03:01:36.143Z</updated>
-        <content type="html"><![CDATA[(heaps.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스]]></title>
-        <id>https://github.com/Zaplib/zaplib</id>
-        <link href="https://github.com/Zaplib/zaplib"/>
-        <updated>2022-04-12T01:00:54.102Z</updated>
-        <content type="html"><![CDATA[(github.com/Zaplib)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(미국계가 아닌) 글로벌 기술 회사들 이름 읽는 법]]></title>
         <id>https://restofworld.org/2022/global-tech-company-pronunciation-guide/</id>
         <link href="https://restofworld.org/2022/global-tech-company-pronunciation-guide/"/>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(restofworld.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RisingWave - 클라우드 네이티브 차세대 스트리밍 DB]]></title>
-        <id>https://github.com/singularity-data/risingwave</id>
-        <link href="https://github.com/singularity-data/risingwave"/>
-        <updated>2022-04-13T03:01:36.143Z</updated>
-        <content type="html"><![CDATA[(github.com/singularity-data)]]></content>
+        <title type="html"><![CDATA[Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스]]></title>
+        <id>https://github.com/Zaplib/zaplib</id>
+        <link href="https://github.com/Zaplib/zaplib"/>
+        <updated>2022-04-12T01:00:54.102Z</updated>
+        <content type="html"><![CDATA[(github.com/Zaplib)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
