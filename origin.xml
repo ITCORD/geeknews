@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-13T08:19:55.804Z</updated>
+    <updated>2022-04-13T09:15:49.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(heaps.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맥을 처음 사용한 유저가 느낀점]]></title>
-        <id>https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/</id>
-        <link href="https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/"/>
-        <updated>2022-04-13T03:01:36.143Z</updated>
-        <content type="html"><![CDATA[(loganmarchione.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RisingWave - 클라우드 네이티브 차세대 스트리밍 DB]]></title>
         <id>https://github.com/singularity-data/risingwave</id>
         <link href="https://github.com/singularity-data/risingwave"/>
         <updated>2022-04-13T03:01:36.143Z</updated>
         <content type="html"><![CDATA[(github.com/singularity-data)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥을 처음 사용한 유저가 느낀점]]></title>
+        <id>https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/</id>
+        <link href="https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/"/>
+        <updated>2022-04-13T03:01:36.143Z</updated>
+        <content type="html"><![CDATA[(loganmarchione.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rectangle - macOS에서 키보드로 창 이동/크기 조정]]></title>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(github.com/Zaplib)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
-        <id>https://www.explordle.com/map/wor</id>
-        <link href="https://www.explordle.com/map/wor"/>
-        <updated>2022-04-13T01:07:41.888Z</updated>
-        <content type="html"><![CDATA[(explordle.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
         <id>https://news.ycombinator.com/item?id=23349707</id>
         <link href="https://news.ycombinator.com/item?id=23349707"/>
@@ -74,6 +67,13 @@
         <link href="https://github.com/symkat/MarkdownSite"/>
         <updated>2022-04-12T02:44:26.144Z</updated>
         <content type="html"><![CDATA[(github.com/symkat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
+        <id>https://www.explordle.com/map/wor</id>
+        <link href="https://www.explordle.com/map/wor"/>
+        <updated>2022-04-13T01:07:41.888Z</updated>
+        <content type="html"><![CDATA[(explordle.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 현재 React로 앱 개발할 때 추천 라이브러리들]]></title>
