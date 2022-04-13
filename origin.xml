@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-13T12:25:06.990Z</updated>
+    <updated>2022-04-13T13:26:02.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(미국계가 아닌) 글로벌 기술 회사들 이름 읽는 법]]></title>
-        <id>https://restofworld.org/2022/global-tech-company-pronunciation-guide/</id>
-        <link href="https://restofworld.org/2022/global-tech-company-pronunciation-guide/"/>
-        <updated>2022-04-13T04:19:10.034Z</updated>
-        <content type="html"><![CDATA[(restofworld.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MarkdownSite - 정적 웹사이트 호스팅 플랫폼 오픈소스]]></title>
         <id>https://github.com/symkat/MarkdownSite</id>
         <link href="https://github.com/symkat/MarkdownSite"/>
@@ -81,6 +74,13 @@
         <link href="https://www.robinwieruch.de/react-libraries/"/>
         <updated>2022-04-11T01:01:48.773Z</updated>
         <content type="html"><![CDATA[(robinwieruch.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(미국계가 아닌) 글로벌 기술 회사들 이름 읽는 법]]></title>
+        <id>https://restofworld.org/2022/global-tech-company-pronunciation-guide/</id>
+        <link href="https://restofworld.org/2022/global-tech-company-pronunciation-guide/"/>
+        <updated>2022-04-13T04:19:10.034Z</updated>
+        <content type="html"><![CDATA[(restofworld.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Talos Linux - Kubernetes OS]]></title>
