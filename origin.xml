@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-13T05:14:32.290Z</updated>
+    <updated>2022-04-13T06:19:08.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(restofworld.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
+        <id>https://www.explordle.com/map/wor</id>
+        <link href="https://www.explordle.com/map/wor"/>
+        <updated>2022-04-13T01:07:41.888Z</updated>
+        <content type="html"><![CDATA[(explordle.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스]]></title>
         <id>https://github.com/Zaplib/zaplib</id>
         <link href="https://github.com/Zaplib/zaplib"/>
@@ -81,13 +88,6 @@
         <link href="https://www.robinwieruch.de/react-libraries/"/>
         <updated>2022-04-11T01:01:48.773Z</updated>
         <content type="html"><![CDATA[(robinwieruch.de)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
-        <id>https://www.explordle.com/map/wor</id>
-        <link href="https://www.explordle.com/map/wor"/>
-        <updated>2022-04-13T01:07:41.888Z</updated>
-        <content type="html"><![CDATA[(explordle.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용중인 클라우드를 바꿔보신 분 ?]]></title>
