@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-13T23:14:26.668Z</updated>
+    <updated>2022-04-14T01:12:49.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스 산업 지도]]></title>
+        <id>https://www.cbinsights.com/research/metaverse-market-map/</id>
+        <link href="https://www.cbinsights.com/research/metaverse-market-map/"/>
+        <updated>2022-04-14T01:12:13.902Z</updated>
+        <content type="html"><![CDATA[(cbinsights.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
+        <id>https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html</id>
+        <link href="https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html"/>
+        <updated>2022-04-14T01:12:13.902Z</updated>
+        <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
         <id>https://www.morling.dev/blog/the-code-review-pyramid/</id>
         <link href="https://www.morling.dev/blog/the-code-review-pyramid/"/>
         <updated>2022-04-13T01:07:41.887Z</updated>
         <content type="html"><![CDATA[(morling.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creator Economy 유니콘 회사들]]></title>
+        <id>https://www.theinformation.com/articles/an-updated-chart-of-creator-economy-unicorns-q-a-with-kids-podcast-creator-mr-jim?rc=ayiwls</id>
+        <link href="https://www.theinformation.com/articles/an-updated-chart-of-creator-economy-unicorns-q-a-with-kids-podcast-creator-mr-jim?rc=ayiwls"/>
+        <updated>2022-04-14T01:12:13.911Z</updated>
+        <content type="html"><![CDATA[(theinformation.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 10대들의 기업 선호도 조사 - 2022년 봄]]></title>
+        <id>https://www.pipersandler.com/1col.aspx?id=6216</id>
+        <link href="https://www.pipersandler.com/1col.aspx?id=6216"/>
+        <updated>2022-04-14T01:12:13.911Z</updated>
+        <content type="html"><![CDATA[(pipersandler.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
@@ -39,6 +67,13 @@
         <link href="https://rectangleapp.com/"/>
         <updated>2022-04-13T01:07:41.887Z</updated>
         <content type="html"><![CDATA[(rectangleapp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
+        <id>https://www.explordle.com/map/wor</id>
+        <link href="https://www.explordle.com/map/wor"/>
+        <updated>2022-04-13T01:07:41.888Z</updated>
+        <content type="html"><![CDATA[(explordle.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스]]></title>
@@ -76,13 +111,6 @@
         <content type="html"><![CDATA[(talos.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
-        <id>https://www.explordle.com/map/wor</id>
-        <link href="https://www.explordle.com/map/wor"/>
-        <updated>2022-04-13T01:07:41.888Z</updated>
-        <content type="html"><![CDATA[(explordle.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사용중인 클라우드를 바꿔보신 분 ?]]></title>
         <id>https://news.ycombinator.com/item?id=30942698</id>
         <link href="https://news.ycombinator.com/item?id=30942698"/>
@@ -90,18 +118,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(미국계가 아닌) 글로벌 기술 회사들 이름 읽는 법]]></title>
-        <id>https://restofworld.org/2022/global-tech-company-pronunciation-guide/</id>
-        <link href="https://restofworld.org/2022/global-tech-company-pronunciation-guide/"/>
-        <updated>2022-04-13T04:19:10.034Z</updated>
-        <content type="html"><![CDATA[(restofworld.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[InfoQ의 소프트웨어 아키텍처 & 설계 트렌드 리포트 2022]]></title>
         <id>https://www.infoq.com/articles/architecture-trends-2022/</id>
         <link href="https://www.infoq.com/articles/architecture-trends-2022/"/>
         <updated>2022-04-11T01:01:48.773Z</updated>
         <content type="html"><![CDATA[(infoq.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(미국계가 아닌) 글로벌 기술 회사들 이름 읽는 법]]></title>
+        <id>https://restofworld.org/2022/global-tech-company-pronunciation-guide/</id>
+        <link href="https://restofworld.org/2022/global-tech-company-pronunciation-guide/"/>
+        <updated>2022-04-13T04:19:10.034Z</updated>
+        <content type="html"><![CDATA[(restofworld.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TruffleHog - Credential 검색 도구]]></title>
@@ -116,33 +144,5 @@
         <link href="https://github.com/EsperoTech/yaade"/>
         <updated>2022-04-10T01:03:46.745Z</updated>
         <content type="html"><![CDATA[(github.com/EsperoTech)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rome Formatter 릴리즈]]></title>
-        <id>https://rome.tools/blog/2022/04/05/rome-formatter-release</id>
-        <link href="https://rome.tools/blog/2022/04/05/rome-formatter-release"/>
-        <updated>2022-04-11T03:06:30.024Z</updated>
-        <content type="html"><![CDATA[(rome.tools)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트]]></title>
-        <id>https://news.hada.io/topic?id=6333</id>
-        <link href="https://news.hada.io/topic?id=6333"/>
-        <updated>2022-04-09T09:13:35.519Z</updated>
-        <content type="html"><![CDATA[(tilnote.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중세 도시 지도 생성기]]></title>
-        <id>https://watabou.github.io/city-generator/</id>
-        <link href="https://watabou.github.io/city-generator/"/>
-        <updated>2022-04-08T04:17:44.582Z</updated>
-        <content type="html"><![CDATA[(watabou.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zas Editor - Go/Rust를 위한 빠른 맥용 코드 에디터]]></title>
-        <id>https://www.zeditor.app/</id>
-        <link href="https://www.zeditor.app/"/>
-        <updated>2022-04-12T02:44:26.147Z</updated>
-        <content type="html"><![CDATA[(zeditor.app)]]></content>
     </entry>
 </feed>
