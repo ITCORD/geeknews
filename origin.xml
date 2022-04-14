@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-14T18:18:36.661Z</updated>
+    <updated>2022-04-14T19:13:53.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(desktop.flint.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메타버스 산업 지도]]></title>
-        <id>https://www.cbinsights.com/research/metaverse-market-map/</id>
-        <link href="https://www.cbinsights.com/research/metaverse-market-map/"/>
-        <updated>2022-04-14T01:12:13.902Z</updated>
-        <content type="html"><![CDATA[(cbinsights.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
         <id>https://www.morling.dev/blog/the-code-review-pyramid/</id>
         <link href="https://www.morling.dev/blog/the-code-review-pyramid/"/>
         <updated>2022-04-13T01:07:41.887Z</updated>
         <content type="html"><![CDATA[(morling.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 산업 지도]]></title>
+        <id>https://www.cbinsights.com/research/metaverse-market-map/</id>
+        <link href="https://www.cbinsights.com/research/metaverse-market-map/"/>
+        <updated>2022-04-14T01:12:13.902Z</updated>
+        <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ngrok next generation]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(github.com/symkat)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
-        <id>https://news.ycombinator.com/item?id=23349707</id>
-        <link href="https://news.ycombinator.com/item?id=23349707"/>
-        <updated>2022-04-14T12:29:25.941Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사용중인 클라우드를 바꿔보신 분 ?]]></title>
         <id>https://news.ycombinator.com/item?id=30942698</id>
         <link href="https://news.ycombinator.com/item?id=30942698"/>
@@ -132,11 +125,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 적은 죽음이 더 많은 킬을 얻는 것보다 더 높은 승률로 이어집니다 (League of Legends)]]></title>
-        <id>https://www.reddit.com/r/leagueoflegends/comments/twees6/having_less_deaths_leads_to_a_higher_win_rate/</id>
-        <link href="https://www.reddit.com/r/leagueoflegends/comments/twees6/having_less_deaths_leads_to_a_higher_win_rate/"/>
-        <updated>2022-04-14T06:19:18.519Z</updated>
-        <content type="html"><![CDATA[(reddit.com)]]></content>
+        <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
+        <id>https://news.ycombinator.com/item?id=23349707</id>
+        <link href="https://news.ycombinator.com/item?id=23349707"/>
+        <updated>2022-04-14T12:29:25.941Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Explordle - 1인칭 시점으로 전세계 여행하며 장소 맞추기]]></title>
@@ -144,5 +137,12 @@
         <link href="https://www.explordle.com/map/wor"/>
         <updated>2022-04-13T01:07:41.888Z</updated>
         <content type="html"><![CDATA[(explordle.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talos Linux - Kubernetes OS]]></title>
+        <id>https://www.talos.dev/</id>
+        <link href="https://www.talos.dev/"/>
+        <updated>2022-04-14T19:13:17.556Z</updated>
+        <content type="html"><![CDATA[(talos.dev)]]></content>
     </entry>
 </feed>
