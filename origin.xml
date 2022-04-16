@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-16T14:13:58.947Z</updated>
+    <updated>2022-04-16T15:15:30.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구]]></title>
-        <id>https://github.com/TomWright/dasel</id>
-        <link href="https://github.com/TomWright/dasel"/>
-        <updated>2022-04-16T01:01:53.045Z</updated>
-        <content type="html"><![CDATA[(github.com/TomWright)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DuckDuckGo for Mac 공개 - 안전하고 빠른 브라우저]]></title>
         <id>https://spreadprivacy.com/introducing-duckduckgo-for-mac/</id>
         <link href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"/>
@@ -90,11 +83,11 @@
         <content type="html"><![CDATA[(spreadprivacy.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
-        <id>https://github.com/merico-dev/stream</id>
-        <link href="https://github.com/merico-dev/stream"/>
+        <title type="html"><![CDATA[dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구]]></title>
+        <id>https://github.com/TomWright/dasel</id>
+        <link href="https://github.com/TomWright/dasel"/>
         <updated>2022-04-16T01:01:53.045Z</updated>
-        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
+        <content type="html"><![CDATA[(github.com/TomWright)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 산업 지도]]></title>
@@ -102,6 +95,13 @@
         <link href="https://www.cbinsights.com/research/metaverse-market-map/"/>
         <updated>2022-04-14T01:12:13.902Z</updated>
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
+        <id>https://github.com/merico-dev/stream</id>
+        <link href="https://github.com/merico-dev/stream"/>
+        <updated>2022-04-16T01:01:53.045Z</updated>
+        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
