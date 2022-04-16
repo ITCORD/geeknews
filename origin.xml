@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-16T07:14:34.672Z</updated>
+    <updated>2022-04-16T08:17:59.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
-        <id>https://lexical.dev/</id>
-        <link href="https://lexical.dev/"/>
-        <updated>2022-04-15T11:12:28.332Z</updated>
-        <content type="html"><![CDATA[(lexical.dev)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스타트업을 떠나며...]]></title>
         <id>https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4</id>
         <link href="https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4"/>
         <updated>2022-04-16T07:13:56.748Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
+        <id>https://lexical.dev/</id>
+        <link href="https://lexical.dev/"/>
+        <updated>2022-04-15T11:12:28.332Z</updated>
+        <content type="html"><![CDATA[(lexical.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구]]></title>
-        <id>https://github.com/TomWright/dasel</id>
-        <link href="https://github.com/TomWright/dasel"/>
-        <updated>2022-04-16T01:01:53.045Z</updated>
-        <content type="html"><![CDATA[(github.com/TomWright)]]></content>
+        <title type="html"><![CDATA[PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능]]></title>
+        <id>https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/</id>
+        <link href="https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/"/>
+        <updated>2022-04-15T01:04:15.207Z</updated>
+        <content type="html"><![CDATA[(cybertec-postgresql.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(morling.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구]]></title>
+        <id>https://github.com/TomWright/dasel</id>
+        <link href="https://github.com/TomWright/dasel"/>
+        <updated>2022-04-16T01:01:53.045Z</updated>
+        <content type="html"><![CDATA[(github.com/TomWright)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
         <id>https://github.com/merico-dev/stream</id>
         <link href="https://github.com/merico-dev/stream"/>
         <updated>2022-04-16T01:01:53.045Z</updated>
         <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능]]></title>
-        <id>https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/</id>
-        <link href="https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/"/>
-        <updated>2022-04-15T01:04:15.207Z</updated>
-        <content type="html"><![CDATA[(cybertec-postgresql.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장.]]></title>
