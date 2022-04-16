@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-16T03:25:46.115Z</updated>
+    <updated>2022-04-16T04:19:00.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/TomWright)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
-        <id>https://github.com/merico-dev/stream</id>
-        <link href="https://github.com/merico-dev/stream"/>
-        <updated>2022-04-16T01:01:53.045Z</updated>
-        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
         <id>https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html</id>
         <link href="https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html"/>
         <updated>2022-04-14T01:12:13.902Z</updated>
         <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
+        <id>https://github.com/merico-dev/stream</id>
+        <link href="https://github.com/merico-dev/stream"/>
+        <updated>2022-04-16T01:01:53.045Z</updated>
+        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(pipersandler.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abandoned Rails - 미국의 버려진 철도들]]></title>
-        <id>https://www.abandonedrails.com/</id>
-        <link href="https://www.abandonedrails.com/"/>
-        <updated>2022-04-15T03:26:06.740Z</updated>
-        <content type="html"><![CDATA[(abandonedrails.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ngrok next generation]]></title>
         <id>https://ngrok.com/next-generation</id>
         <link href="https://ngrok.com/next-generation"/>
@@ -144,5 +137,12 @@
         <link href="https://www.robinwieruch.de/react-libraries/"/>
         <updated>2022-04-11T01:01:48.773Z</updated>
         <content type="html"><![CDATA[(robinwieruch.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abandoned Rails - 미국의 버려진 철도들]]></title>
+        <id>https://www.abandonedrails.com/</id>
+        <link href="https://www.abandonedrails.com/"/>
+        <updated>2022-04-15T03:26:06.740Z</updated>
+        <content type="html"><![CDATA[(abandonedrails.com)]]></content>
     </entry>
 </feed>
