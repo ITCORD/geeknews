@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-17T16:19:45.924Z</updated>
+    <updated>2022-04-17T17:16:04.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오버엔지니어링 된 일본의 기계식 샤프들 [영상]]]></title>
-        <id>https://www.youtube.com/watch?v=PESa3Du3udY</id>
-        <link href="https://www.youtube.com/watch?v=PESa3Du3udY"/>
-        <updated>2022-04-17T02:53:30.947Z</updated>
-        <content type="html"><![CDATA[(youtube.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
         <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
         <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[(github.com/LuanRT)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit, 댓글 검색 및 검색 기능 향상]]></title>
-        <id>https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design</id>
-        <link href="https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"/>
-        <updated>2022-04-17T02:53:30.957Z</updated>
-        <content type="html"><![CDATA[(redditinc.com)]]></content>
+        <title type="html"><![CDATA[오버엔지니어링 된 일본의 기계식 샤프들 [영상]]]></title>
+        <id>https://www.youtube.com/watch?v=PESa3Du3udY</id>
+        <link href="https://www.youtube.com/watch?v=PESa3Du3udY"/>
+        <updated>2022-04-17T02:53:30.947Z</updated>
+        <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
@@ -60,6 +53,13 @@
         <link href="https://lexical.dev/"/>
         <updated>2022-04-15T11:12:28.332Z</updated>
         <content type="html"><![CDATA[(lexical.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit, 댓글 검색 및 검색 기능 향상]]></title>
+        <id>https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design</id>
+        <link href="https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"/>
+        <updated>2022-04-17T02:53:30.957Z</updated>
+        <content type="html"><![CDATA[(redditinc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(cybertec-postgresql.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
-        <id>https://github.com/merico-dev/stream</id>
-        <link href="https://github.com/merico-dev/stream"/>
-        <updated>2022-04-17T02:53:30.971Z</updated>
-        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장.]]></title>
         <id>https://news.hada.io/topic?id=6362</id>
         <link href="https://news.hada.io/topic?id=6362"/>
@@ -118,11 +111,11 @@
         <content type="html"><![CDATA[(desktop.flint.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
-        <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
-        <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
-        <updated>2022-04-15T01:04:15.214Z</updated>
-        <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
+        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
+        <id>https://github.com/merico-dev/stream</id>
+        <link href="https://github.com/merico-dev/stream"/>
+        <updated>2022-04-17T02:53:30.971Z</updated>
+        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 현재 React로 앱 개발할 때 추천 라이브러리들]]></title>
@@ -130,6 +123,13 @@
         <link href="https://www.robinwieruch.de/react-libraries/"/>
         <updated>2022-04-11T01:01:48.773Z</updated>
         <content type="html"><![CDATA[(robinwieruch.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
+        <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
+        <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
+        <updated>2022-04-15T01:04:15.214Z</updated>
+        <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
