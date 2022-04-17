@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2022-04-17T03:28:49.872Z</updated>
+    <updated>2022-04-17T04:18:10.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(desktop.flint.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트]]></title>
-        <id>https://news.hada.io/topic?id=6333</id>
-        <link href="https://news.hada.io/topic?id=6333"/>
-        <updated>2022-04-09T09:13:49.048Z</updated>
-        <content type="html"><![CDATA[(tilnote.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
         <id>https://news.hada.io/topic?id=6316</id>
         <link href="https://news.hada.io/topic?id=6316"/>
         <updated>2022-04-06T07:14:45.524Z</updated>
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트]]></title>
+        <id>https://news.hada.io/topic?id=6333</id>
+        <link href="https://news.hada.io/topic?id=6333"/>
+        <updated>2022-04-09T09:13:49.048Z</updated>
+        <content type="html"><![CDATA[(tilnote.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요.]]></title>
