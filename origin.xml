@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-17T04:18:10.121Z</updated>
+    <updated>2022-04-17T05:13:56.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(joeyh.name)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
+        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
+        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
+        <updated>2022-04-14T03:03:04.929Z</updated>
+        <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
         <id>https://lexical.dev/</id>
         <link href="https://lexical.dev/"/>
@@ -53,13 +60,6 @@
         <link href="https://github.com/LuanRT/YouTube.js"/>
         <updated>2022-04-15T01:04:15.208Z</updated>
         <content type="html"><![CDATA[(github.com/LuanRT)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
-        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
-        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
-        <updated>2022-04-14T03:03:04.929Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
