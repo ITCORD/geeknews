@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-17T02:54:09.074Z</updated>
+    <updated>2022-04-17T03:28:49.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(redditinc.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업을 떠나며...]]></title>
-        <id>https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4</id>
-        <link href="https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4"/>
-        <updated>2022-04-16T07:13:56.748Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DuckDuckGo, 검색결과에서 해적사이트 및 Youtube-DL 제거]]></title>
         <id>https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/</id>
         <link href="https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/"/>
         <updated>2022-04-17T01:05:50.946Z</updated>
         <content type="html"><![CDATA[(torrentfreak.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업을 떠나며...]]></title>
+        <id>https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4</id>
+        <link href="https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4"/>
+        <updated>2022-04-16T07:13:56.748Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(lexical.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
+        <id>https://github.com/merico-dev/stream</id>
+        <link href="https://github.com/merico-dev/stream"/>
+        <updated>2022-04-17T02:53:30.971Z</updated>
+        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능]]></title>
         <id>https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/</id>
         <link href="https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/"/>
@@ -104,11 +111,11 @@
         <content type="html"><![CDATA[(desktop.flint.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
-        <id>https://github.com/merico-dev/stream</id>
-        <link href="https://github.com/merico-dev/stream"/>
-        <updated>2022-04-17T02:53:30.971Z</updated>
-        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
+        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
+        <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
+        <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
+        <updated>2022-04-15T01:04:15.214Z</updated>
+        <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 산업 지도]]></title>
@@ -125,11 +132,11 @@
         <content type="html"><![CDATA[(heaps.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
-        <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
-        <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
-        <updated>2022-04-15T01:04:15.214Z</updated>
-        <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
+        <title type="html"><![CDATA[2022년 현재 React로 앱 개발할 때 추천 라이브러리들]]></title>
+        <id>https://www.robinwieruch.de/react-libraries/</id>
+        <link href="https://www.robinwieruch.de/react-libraries/"/>
+        <updated>2022-04-11T01:01:48.773Z</updated>
+        <content type="html"><![CDATA[(robinwieruch.de)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DuckDuckGo for Mac 공개 - 안전하고 빠른 브라우저]]></title>
@@ -137,12 +144,5 @@
         <link href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"/>
         <updated>2022-04-15T01:04:15.216Z</updated>
         <content type="html"><![CDATA[(spreadprivacy.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 현재 React로 앱 개발할 때 추천 라이브러리들]]></title>
-        <id>https://www.robinwieruch.de/react-libraries/</id>
-        <link href="https://www.robinwieruch.de/react-libraries/"/>
-        <updated>2022-04-11T01:01:48.773Z</updated>
-        <content type="html"><![CDATA[(robinwieruch.de)]]></content>
     </entry>
 </feed>
