@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-16T23:15:47.460Z</updated>
+    <updated>2022-04-17T01:06:34.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo, 검색결과에서 해적사이트 및 Youtube-DL 제거]]></title>
+        <id>https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/</id>
+        <link href="https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/"/>
+        <updated>2022-04-17T01:05:50.946Z</updated>
+        <content type="html"><![CDATA[(torrentfreak.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음]]></title>
+        <id>https://joeyh.name/code/moreutils/</id>
+        <link href="https://joeyh.name/code/moreutils/"/>
+        <updated>2022-04-17T01:05:50.946Z</updated>
+        <content type="html"><![CDATA[(joeyh.name)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타트업을 떠나며...]]></title>
         <id>https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4</id>
@@ -48,6 +62,13 @@
         <content type="html"><![CDATA[(lexical.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구]]></title>
+        <id>https://github.com/TomWright/dasel</id>
+        <link href="https://github.com/TomWright/dasel"/>
+        <updated>2022-04-16T01:01:53.045Z</updated>
+        <content type="html"><![CDATA[(github.com/TomWright)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
         <id>https://www.morling.dev/blog/the-code-review-pyramid/</id>
         <link href="https://www.morling.dev/blog/the-code-review-pyramid/"/>
@@ -60,13 +81,6 @@
         <link href="https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/"/>
         <updated>2022-04-15T01:04:15.207Z</updated>
         <content type="html"><![CDATA[(cybertec-postgresql.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구]]></title>
-        <id>https://github.com/TomWright/dasel</id>
-        <link href="https://github.com/TomWright/dasel"/>
-        <updated>2022-04-16T01:01:53.045Z</updated>
-        <content type="html"><![CDATA[(github.com/TomWright)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장.]]></title>
@@ -83,18 +97,18 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
-        <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
-        <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
-        <updated>2022-04-15T01:04:15.214Z</updated>
-        <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
         <id>https://heaps.io/index.html</id>
         <link href="https://heaps.io/index.html"/>
         <updated>2022-04-13T03:01:36.143Z</updated>
         <content type="html"><![CDATA[(heaps.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
+        <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
+        <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
+        <updated>2022-04-15T01:04:15.214Z</updated>
+        <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DuckDuckGo for Mac 공개 - 안전하고 빠른 브라우저]]></title>
@@ -111,25 +125,11 @@
         <content type="html"><![CDATA[(robinwieruch.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breath - 크롬북용 Linux]]></title>
-        <id>https://cb-linux.github.io/breath/</id>
-        <link href="https://cb-linux.github.io/breath/"/>
-        <updated>2022-04-15T03:26:06.740Z</updated>
-        <content type="html"><![CDATA[(cb-linux.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creator Economy 유니콘 회사들]]></title>
         <id>https://www.theinformation.com/articles/an-updated-chart-of-creator-economy-unicorns-q-a-with-kids-podcast-creator-mr-jim?rc=ayiwls</id>
         <link href="https://www.theinformation.com/articles/an-updated-chart-of-creator-economy-unicorns-q-a-with-kids-podcast-creator-mr-jim?rc=ayiwls"/>
         <updated>2022-04-16T16:19:18.872Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 10대들의 기업 선호도 조사 - 2022년 봄]]></title>
-        <id>https://www.pipersandler.com/1col.aspx?id=6216</id>
-        <link href="https://www.pipersandler.com/1col.aspx?id=6216"/>
-        <updated>2022-04-14T01:12:13.911Z</updated>
-        <content type="html"><![CDATA[(pipersandler.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com/Zaplib)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RisingWave - 클라우드 네이티브 차세대 스트리밍 DB]]></title>
-        <id>https://github.com/singularity-data/risingwave</id>
-        <link href="https://github.com/singularity-data/risingwave"/>
-        <updated>2022-04-16T21:12:58.008Z</updated>
-        <content type="html"><![CDATA[(github.com/singularity-data)]]></content>
+        <title type="html"><![CDATA[미국 10대들의 기업 선호도 조사 - 2022년 봄]]></title>
+        <id>https://www.pipersandler.com/1col.aspx?id=6216</id>
+        <link href="https://www.pipersandler.com/1col.aspx?id=6216"/>
+        <updated>2022-04-14T01:12:13.911Z</updated>
+        <content type="html"><![CDATA[(pipersandler.com)]]></content>
     </entry>
 </feed>
