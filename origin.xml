@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-17T13:21:53.708Z</updated>
+    <updated>2022-04-17T14:14:15.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup"/>
         <updated>2022-04-17T12:23:36.371Z</updated>
         <content type="html"><![CDATA[(github.com/kafkakru)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo, 검색결과에서 해적사이트 및 Youtube-DL 제거]]></title>
+        <id>https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/</id>
+        <link href="https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/"/>
+        <updated>2022-04-17T01:05:50.946Z</updated>
+        <content type="html"><![CDATA[(torrentfreak.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업을 떠나며...]]></title>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(redditinc.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DuckDuckGo, 검색결과에서 해적사이트 및 Youtube-DL 제거]]></title>
-        <id>https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/</id>
-        <link href="https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/"/>
-        <updated>2022-04-17T01:05:50.946Z</updated>
-        <content type="html"><![CDATA[(torrentfreak.com)]]></content>
+        <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
+        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
+        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
+        <updated>2022-04-14T03:03:04.929Z</updated>
+        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리]]></title>
@@ -46,13 +53,6 @@
         <link href="https://github.com/LuanRT/YouTube.js"/>
         <updated>2022-04-15T01:04:15.208Z</updated>
         <content type="html"><![CDATA[(github.com/LuanRT)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
-        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
-        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
-        <updated>2022-04-14T03:03:04.929Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
