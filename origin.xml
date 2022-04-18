@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-18T03:13:13.990Z</updated>
+    <updated>2022-04-18T04:22:48.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음]]></title>
+        <id>https://joeyh.name/code/moreutils/</id>
+        <link href="https://joeyh.name/code/moreutils/"/>
+        <updated>2022-04-17T01:05:50.946Z</updated>
+        <content type="html"><![CDATA[(joeyh.name)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리]]></title>
         <id>https://github.com/LuanRT/YouTube.js</id>
         <link href="https://github.com/LuanRT/YouTube.js"/>
@@ -90,25 +97,18 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit, 댓글 검색 및 검색 기능 향상]]></title>
-        <id>https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design</id>
-        <link href="https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"/>
-        <updated>2022-04-17T02:53:30.957Z</updated>
-        <content type="html"><![CDATA[(redditinc.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음]]></title>
-        <id>https://joeyh.name/code/moreutils/</id>
-        <link href="https://joeyh.name/code/moreutils/"/>
-        <updated>2022-04-17T01:05:50.946Z</updated>
-        <content type="html"><![CDATA[(joeyh.name)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
         <id>https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html</id>
         <link href="https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html"/>
         <updated>2022-04-14T01:12:13.902Z</updated>
         <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit, 댓글 검색 및 검색 기능 향상]]></title>
+        <id>https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design</id>
+        <link href="https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"/>
+        <updated>2022-04-17T02:53:30.957Z</updated>
+        <content type="html"><![CDATA[(redditinc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
