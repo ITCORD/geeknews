@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-18T08:18:57.986Z</updated>
+    <updated>2022-04-18T09:15:34.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.surgehq.ai//blog/google-search-is-falling-behind"/>
         <updated>2022-04-18T03:12:35.055Z</updated>
         <content type="html"><![CDATA[(surgehq.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 개발자 데스크 셋업 모음]]></title>
+        <id>https://news.hada.io/topic?id=6394</id>
+        <link href="https://news.hada.io/topic?id=6394"/>
+        <updated>2022-04-18T09:14:58.552Z</updated>
+        <content type="html"><![CDATA[(nomadcoders.oopy.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"/>
         <updated>2022-04-17T02:53:30.957Z</updated>
         <content type="html"><![CDATA[(redditinc.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
-        <id>https://github.com/merico-dev/stream</id>
-        <link href="https://github.com/merico-dev/stream"/>
-        <updated>2022-04-17T02:53:30.971Z</updated>
-        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
     </entry>
 </feed>
