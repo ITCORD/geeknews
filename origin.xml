@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-18T14:14:27.869Z</updated>
+    <updated>2022-04-18T16:22:14.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(nomadcoders.oopy.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유]]></title>
+        <id>https://httpie.io/blog/stardust</id>
+        <link href="https://httpie.io/blog/stardust"/>
+        <updated>2022-04-18T01:14:27.337Z</updated>
+        <content type="html"><![CDATA[(httpie.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
         <id>https://blog.banksalad.com/tech/test-in-banksalad-ios-1/</id>
         <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
@@ -41,18 +48,18 @@
         <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[자바스크립트 프레임워크 전쟁은 끝났다]]></title>
+        <id>https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732</id>
+        <link href="https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732"/>
+        <updated>2022-04-18T16:21:35.599Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KAFKA 한국 사용자모임 4월 14일 밋업 발표자료]]></title>
         <id>https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup</id>
         <link href="https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup"/>
         <updated>2022-04-17T12:23:36.371Z</updated>
         <content type="html"><![CDATA[(github.com/kafkakru)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유]]></title>
-        <id>https://httpie.io/blog/stardust</id>
-        <link href="https://httpie.io/blog/stardust"/>
-        <updated>2022-04-18T01:14:27.337Z</updated>
-        <content type="html"><![CDATA[(httpie.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Marketplace 100: 2022]]></title>
@@ -69,6 +76,13 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
+        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
+        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
+        <updated>2022-04-14T03:03:04.929Z</updated>
+        <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다]]></title>
         <id>https://twitter.com/MrSollozzo/status/1515324097223225345</id>
         <link href="https://twitter.com/MrSollozzo/status/1515324097223225345"/>
@@ -76,11 +90,11 @@
         <content type="html"><![CDATA[(twitter.com/MrSollozzo)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
-        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
-        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
-        <updated>2022-04-14T03:03:04.929Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
+        <title type="html"><![CDATA[Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리]]></title>
+        <id>https://github.com/LuanRT/YouTube.js</id>
+        <link href="https://github.com/LuanRT/YouTube.js"/>
+        <updated>2022-04-15T01:04:15.208Z</updated>
+        <content type="html"><![CDATA[(github.com/LuanRT)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DuckDuckGo, 검색결과에서 해적사이트 및 Youtube-DL 제거]]></title>
@@ -95,13 +109,6 @@
         <link href="https://joeyh.name/code/moreutils/"/>
         <updated>2022-04-17T01:05:50.946Z</updated>
         <content type="html"><![CDATA[(joeyh.name)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리]]></title>
-        <id>https://github.com/LuanRT/YouTube.js</id>
-        <link href="https://github.com/LuanRT/YouTube.js"/>
-        <updated>2022-04-15T01:04:15.208Z</updated>
-        <content type="html"><![CDATA[(github.com/LuanRT)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/merico-dev/stream"/>
         <updated>2022-04-18T11:12:49.238Z</updated>
         <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오버엔지니어링 된 일본의 기계식 샤프들 [영상]]]></title>
-        <id>https://www.youtube.com/watch?v=PESa3Du3udY</id>
-        <link href="https://www.youtube.com/watch?v=PESa3Du3udY"/>
-        <updated>2022-04-17T02:53:30.947Z</updated>
-        <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
 </feed>
