@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-18T06:19:50.990Z</updated>
+    <updated>2022-04-18T07:16:07.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,20 @@
         <content type="html"><![CDATA[(surgehq.ai)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
+        <id>https://blog.banksalad.com/tech/test-in-banksalad-ios-1/</id>
+        <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
+        <updated>2022-04-18T06:19:16.235Z</updated>
+        <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAFKA 한국 사용자모임 4월 14일 밋업 발표자료]]></title>
+        <id>https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup</id>
+        <link href="https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup"/>
+        <updated>2022-04-17T12:23:36.371Z</updated>
+        <content type="html"><![CDATA[(github.com/kafkakru)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유]]></title>
         <id>https://httpie.io/blog/stardust</id>
         <link href="https://httpie.io/blog/stardust"/>
@@ -39,20 +53,6 @@
         <link href="https://future.a16z.com/marketplace-100/"/>
         <updated>2022-04-18T01:14:27.339Z</updated>
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAFKA 한국 사용자모임 4월 14일 밋업 발표자료]]></title>
-        <id>https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup</id>
-        <link href="https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup"/>
-        <updated>2022-04-17T12:23:36.371Z</updated>
-        <content type="html"><![CDATA[(github.com/kafkakru)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
-        <id>https://blog.banksalad.com/tech/test-in-banksalad-ios-1/</id>
-        <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
-        <updated>2022-04-18T06:19:16.235Z</updated>
-        <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit, 댓글 검색 및 검색 기능 향상]]></title>
-        <id>https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design</id>
-        <link href="https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"/>
-        <updated>2022-04-17T02:53:30.957Z</updated>
-        <content type="html"><![CDATA[(redditinc.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
         <id>https://www.morling.dev/blog/the-code-review-pyramid/</id>
         <link href="https://www.morling.dev/blog/the-code-review-pyramid/"/>
         <updated>2022-04-13T01:07:41.887Z</updated>
         <content type="html"><![CDATA[(morling.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit, 댓글 검색 및 검색 기능 향상]]></title>
+        <id>https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design</id>
+        <link href="https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"/>
+        <updated>2022-04-17T02:53:30.957Z</updated>
+        <content type="html"><![CDATA[(redditinc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
