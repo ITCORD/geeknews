@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-18T18:19:52.149Z</updated>
+    <updated>2022-04-18T19:12:36.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(surgehq.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 개발자 데스크 셋업 모음]]></title>
-        <id>https://news.hada.io/topic?id=6394</id>
-        <link href="https://news.hada.io/topic?id=6394"/>
-        <updated>2022-04-18T09:14:58.552Z</updated>
-        <content type="html"><![CDATA[(nomadcoders.oopy.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유]]></title>
         <id>https://httpie.io/blog/stardust</id>
         <link href="https://httpie.io/blog/stardust"/>
@@ -41,18 +34,25 @@
         <content type="html"><![CDATA[(httpie.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KAFKA 한국 사용자모임 4월 14일 밋업 발표자료]]></title>
-        <id>https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup</id>
-        <link href="https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup"/>
-        <updated>2022-04-17T12:23:36.371Z</updated>
-        <content type="html"><![CDATA[(github.com/kafkakru)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
         <id>https://blog.banksalad.com/tech/test-in-banksalad-ios-1/</id>
         <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
         <updated>2022-04-18T06:19:16.235Z</updated>
         <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 개발자 데스크 셋업 모음]]></title>
+        <id>https://news.hada.io/topic?id=6394</id>
+        <link href="https://news.hada.io/topic?id=6394"/>
+        <updated>2022-04-18T09:14:58.552Z</updated>
+        <content type="html"><![CDATA[(nomadcoders.oopy.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAFKA 한국 사용자모임 4월 14일 밋업 발표자료]]></title>
+        <id>https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup</id>
+        <link href="https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup"/>
+        <updated>2022-04-17T12:23:36.371Z</updated>
+        <content type="html"><![CDATA[(github.com/kafkakru)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자바스크립트 프레임워크 전쟁은 끝났다]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(torrentfreak.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
-        <id>https://lexical.dev/</id>
-        <link href="https://lexical.dev/"/>
-        <updated>2022-04-15T11:12:28.332Z</updated>
-        <content type="html"><![CDATA[(lexical.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음]]></title>
         <id>https://joeyh.name/code/moreutils/</id>
         <link href="https://joeyh.name/code/moreutils/"/>
         <updated>2022-04-17T01:05:50.946Z</updated>
         <content type="html"><![CDATA[(joeyh.name)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
+        <id>https://lexical.dev/</id>
+        <link href="https://lexical.dev/"/>
+        <updated>2022-04-15T11:12:28.332Z</updated>
+        <content type="html"><![CDATA[(lexical.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다]]></title>
-        <id>https://twitter.com/MrSollozzo/status/1515324097223225345</id>
-        <link href="https://twitter.com/MrSollozzo/status/1515324097223225345"/>
-        <updated>2022-04-18T05:15:07.969Z</updated>
-        <content type="html"><![CDATA[(twitter.com/MrSollozzo)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구]]></title>
         <id>https://github.com/TomWright/dasel</id>
         <link href="https://github.com/TomWright/dasel"/>
         <updated>2022-04-16T01:01:53.045Z</updated>
         <content type="html"><![CDATA[(github.com/TomWright)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다]]></title>
+        <id>https://twitter.com/MrSollozzo/status/1515324097223225345</id>
+        <link href="https://twitter.com/MrSollozzo/status/1515324097223225345"/>
+        <updated>2022-04-18T05:15:07.969Z</updated>
+        <content type="html"><![CDATA[(twitter.com/MrSollozzo)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
