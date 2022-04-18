@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-04-17T23:15:44.770Z</updated>
+    <updated>2022-04-18T01:15:09.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소프트웨어 아키텍처 & 설계 트렌드 리포트 2022]]></title>
+        <id>https://news.hada.io/weekly/202216</id>
+        <link href="https://news.hada.io/weekly/202216"/>
+        <updated>2022-04-18T01:14:53.689Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">145. </td><td class="fitwidth">202216</td><td width="*">&nbsp;<a href="/weekly/202216" class="u keepall"> 소프트웨어 아키텍처 &amp; 설계 트렌드 리포트 2022</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
         <id>https://news.hada.io/weekly/202215</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202149"/>
         <updated>2022-01-12T20:09:57.801Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">126. </td><td class="fitwidth">202149</td><td width="*">&nbsp;<a href="/weekly/202149" class="u keepall"> 대규모로 웹 스크래핑하기</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
-        <id>https://news.hada.io/weekly/202148</id>
-        <link href="https://news.hada.io/weekly/202148"/>
-        <updated>2022-01-12T20:09:57.802Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">125. </td><td class="fitwidth">202148</td><td width="*">&nbsp;<a href="/weekly/202148" class="u keepall"> 1인 SaaS 개발자를 위한 도구 추천</a></td>]]></content>
     </entry>
 </feed>
