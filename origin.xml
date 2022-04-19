@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-19T05:23:40.399Z</updated>
+    <updated>2022-04-19T06:19:10.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(hired.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 개발자 데스크 셋업 모음]]></title>
-        <id>https://news.hada.io/topic?id=6394</id>
-        <link href="https://news.hada.io/topic?id=6394"/>
-        <updated>2022-04-18T09:14:58.552Z</updated>
-        <content type="html"><![CDATA[(nomadcoders.oopy.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
         <id>https://blog.banksalad.com/tech/test-in-banksalad-ios-1/</id>
         <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
         <updated>2022-04-18T06:19:16.235Z</updated>
         <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 개발자 데스크 셋업 모음]]></title>
+        <id>https://news.hada.io/topic?id=6394</id>
+        <link href="https://news.hada.io/topic?id=6394"/>
+        <updated>2022-04-18T09:14:58.552Z</updated>
+        <content type="html"><![CDATA[(nomadcoders.oopy.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAFKA 한국 사용자모임 4월 14일 밋업 발표자료]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다]]></title>
+        <id>https://twitter.com/MrSollozzo/status/1515324097223225345</id>
+        <link href="https://twitter.com/MrSollozzo/status/1515324097223225345"/>
+        <updated>2022-04-19T06:18:35.608Z</updated>
+        <content type="html"><![CDATA[(twitter.com/MrSollozzo)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
         <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
         <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
@@ -137,12 +144,5 @@
         <link href="https://github.com/LuanRT/YouTube.js"/>
         <updated>2022-04-15T01:04:15.208Z</updated>
         <content type="html"><![CDATA[(github.com/LuanRT)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lexical - 페이스북이 공개한 텍스트 에디터 라이브러리]]></title>
-        <id>https://lexical.dev/</id>
-        <link href="https://lexical.dev/"/>
-        <updated>2022-04-15T11:12:28.332Z</updated>
-        <content type="html"><![CDATA[(lexical.dev)]]></content>
     </entry>
 </feed>
