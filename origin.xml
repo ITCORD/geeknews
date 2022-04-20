@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-20T03:38:50.645Z</updated>
+    <updated>2022-04-20T04:43:21.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(netlify.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
-        <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
-        <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
-        <updated>2022-04-19T01:14:48.124Z</updated>
-        <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 테크 업계 번아웃 실태 보고 (번역글)]]></title>
         <id>https://soojin.ro/blog/burnout</id>
         <link href="https://soojin.ro/blog/burnout"/>
@@ -41,11 +34,25 @@
         <content type="html"><![CDATA[(brunch.co.kr/@goodvc78)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
+        <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
+        <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
+        <updated>2022-04-19T01:14:48.124Z</updated>
+        <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
         <id>https://ydb.tech/</id>
         <link href="https://ydb.tech/"/>
         <updated>2022-04-20T01:19:14.412Z</updated>
         <content type="html"><![CDATA[(ydb.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원격 근무를 위한 조엘 테스트]]></title>
+        <id>https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/</id>
+        <link href="https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/"/>
+        <updated>2022-04-19T03:22:12.076Z</updated>
+        <content type="html"><![CDATA[(andreschweighofer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 M1 기기의 썬더볼트 포트는 USB 3.1 Gen 2를 완전히 지원하지 않음]]></title>
@@ -60,13 +67,6 @@
         <link href="https://semianalysis.substack.com/p/samsung-electronics-cultural-issues"/>
         <updated>2022-04-19T03:22:12.076Z</updated>
         <content type="html"><![CDATA[(semianalysis.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원격 근무를 위한 조엘 테스트]]></title>
-        <id>https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/</id>
-        <link href="https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/"/>
-        <updated>2022-04-19T03:22:12.076Z</updated>
-        <content type="html"><![CDATA[(andreschweighofer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
