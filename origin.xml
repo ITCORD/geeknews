@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-20T12:29:23.093Z</updated>
+    <updated>2022-04-20T13:33:49.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
         <updated>2022-04-20T01:19:14.410Z</updated>
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고]]></title>
+        <id>https://newatlas.com/new-atlas-20/fails-biggest-technology-flops/</id>
+        <link href="https://newatlas.com/new-atlas-20/fails-biggest-technology-flops/"/>
+        <updated>2022-04-20T12:28:42.826Z</updated>
+        <content type="html"><![CDATA[(newatlas.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 테크 업계 번아웃 실태 보고 (번역글)]]></title>
@@ -41,20 +48,6 @@
         <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고]]></title>
-        <id>https://newatlas.com/new-atlas-20/fails-biggest-technology-flops/</id>
-        <link href="https://newatlas.com/new-atlas-20/fails-biggest-technology-flops/"/>
-        <updated>2022-04-20T12:28:42.826Z</updated>
-        <content type="html"><![CDATA[(newatlas.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
-        <id>https://ydb.tech/</id>
-        <link href="https://ydb.tech/"/>
-        <updated>2022-04-20T01:19:14.412Z</updated>
-        <content type="html"><![CDATA[(ydb.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
         <id>https://newsletter.pragmaticengineer.com/p/the-scoop-fast</id>
         <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
@@ -67,6 +60,13 @@
         <link href="https://semianalysis.substack.com/p/samsung-electronics-cultural-issues"/>
         <updated>2022-04-19T03:22:12.076Z</updated>
         <content type="html"><![CDATA[(semianalysis.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
+        <id>https://ydb.tech/</id>
+        <link href="https://ydb.tech/"/>
+        <updated>2022-04-20T01:19:14.412Z</updated>
+        <content type="html"><![CDATA[(ydb.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원격 근무를 위한 조엘 테스트]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(brunch.co.kr/@godrm77)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 M1 기기의 썬더볼트 포트는 USB 3.1 Gen 2를 완전히 지원하지 않음]]></title>
-        <id>https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/</id>
-        <link href="https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/"/>
-        <updated>2022-04-20T01:19:14.415Z</updated>
-        <content type="html"><![CDATA[(eclecticlight.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아마존 앤디 재시의 2021년 첫 연례 주주 서한 (번역)]]></title>
         <id>https://ebadak.news/2022/04/15/andy-jassy-letter-2021/</id>
         <link href="https://ebadak.news/2022/04/15/andy-jassy-letter-2021/"/>
         <updated>2022-04-19T03:22:12.076Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 M1 기기의 썬더볼트 포트는 USB 3.1 Gen 2를 완전히 지원하지 않음]]></title>
+        <id>https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/</id>
+        <link href="https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/"/>
+        <updated>2022-04-20T01:19:14.415Z</updated>
+        <content type="html"><![CDATA[(eclecticlight.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자바스크립트 프레임워크 전쟁은 끝났다]]></title>
