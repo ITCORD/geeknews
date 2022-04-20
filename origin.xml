@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-19T23:13:57.470Z</updated>
+    <updated>2022-04-20T01:19:55.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
+        <id>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</id>
+        <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
+        <updated>2022-04-20T01:19:14.410Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
+        <id>https://ydb.tech/</id>
+        <link href="https://ydb.tech/"/>
+        <updated>2022-04-20T01:19:14.412Z</updated>
+        <content type="html"><![CDATA[(ydb.tech)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
         <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
         <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
         <updated>2022-04-19T01:14:48.124Z</updated>
         <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 M1 기기의 썬더볼트 포트는 USB 3.1 Gen 2를 완전히 지원하지 않음]]></title>
+        <id>https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/</id>
+        <link href="https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/"/>
+        <updated>2022-04-20T01:19:14.415Z</updated>
+        <content type="html"><![CDATA[(eclecticlight.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원격 근무를 위한 조엘 테스트]]></title>
@@ -27,11 +48,11 @@
         <content type="html"><![CDATA[(semianalysis.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존 앤디 재시의 2021년 첫 연례 주주 서한 (번역)]]></title>
-        <id>https://ebadak.news/2022/04/15/andy-jassy-letter-2021/</id>
-        <link href="https://ebadak.news/2022/04/15/andy-jassy-letter-2021/"/>
-        <updated>2022-04-19T03:22:12.076Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
+        <title type="html"><![CDATA[데이터 분석가 대디가 유소년 축구 플렉스 하기]]></title>
+        <id>https://brunch.co.kr/@goodvc78/21</id>
+        <link href="https://brunch.co.kr/@goodvc78/21"/>
+        <updated>2022-04-20T01:19:14.426Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@goodvc78)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
@@ -39,6 +60,13 @@
         <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
         <updated>2022-04-18T03:12:35.049Z</updated>
         <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존 앤디 재시의 2021년 첫 연례 주주 서한 (번역)]]></title>
+        <id>https://ebadak.news/2022/04/15/andy-jassy-letter-2021/</id>
+        <link href="https://ebadak.news/2022/04/15/andy-jassy-letter-2021/"/>
+        <updated>2022-04-19T03:22:12.076Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이제는 달라져야 하는 코딩 테스트]]></title>
@@ -116,33 +144,5 @@
         <link href="https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4"/>
         <updated>2022-04-16T07:13:56.748Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다]]></title>
-        <id>https://twitter.com/MrSollozzo/status/1515324097223225345</id>
-        <link href="https://twitter.com/MrSollozzo/status/1515324097223225345"/>
-        <updated>2022-04-19T06:18:35.608Z</updated>
-        <content type="html"><![CDATA[(twitter.com/MrSollozzo)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Marketplace 100: 2022]]></title>
-        <id>https://future.a16z.com/marketplace-100/</id>
-        <link href="https://future.a16z.com/marketplace-100/"/>
-        <updated>2022-04-18T01:14:27.339Z</updated>
-        <content type="html"><![CDATA[(future.a16z.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로 나온 커맨드라인 툴들]]></title>
-        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
-        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
-        <updated>2022-04-14T03:03:04.929Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리]]></title>
-        <id>https://github.com/LuanRT/YouTube.js</id>
-        <link href="https://github.com/LuanRT/YouTube.js"/>
-        <updated>2022-04-15T01:04:15.208Z</updated>
-        <content type="html"><![CDATA[(github.com/LuanRT)]]></content>
     </entry>
 </feed>
