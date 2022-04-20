@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-20T14:15:10.540Z</updated>
+    <updated>2022-04-20T15:18:45.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(soojin.ro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netlify Edge Functions 공개 : Deno 기반 서버리스 런타임]]></title>
-        <id>https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions</id>
-        <link href="https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions"/>
-        <updated>2022-04-20T03:38:12.256Z</updated>
-        <content type="html"><![CDATA[(netlify.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[데이터 분석가 대디가 유소년 축구 플렉스 하기]]></title>
         <id>https://brunch.co.kr/@goodvc78/21</id>
         <link href="https://brunch.co.kr/@goodvc78/21"/>
         <updated>2022-04-20T01:19:14.426Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@goodvc78)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify Edge Functions 공개 : Deno 기반 서버리스 런타임]]></title>
+        <id>https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions</id>
+        <link href="https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions"/>
+        <updated>2022-04-20T03:38:12.256Z</updated>
+        <content type="html"><![CDATA[(netlify.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
-        <id>https://ydb.tech/</id>
-        <link href="https://ydb.tech/"/>
-        <updated>2022-04-20T01:19:14.412Z</updated>
-        <content type="html"><![CDATA[(ydb.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[원격 근무를 위한 조엘 테스트]]></title>
         <id>https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/</id>
         <link href="https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/"/>
@@ -74,6 +67,13 @@
         <link href="https://semianalysis.substack.com/p/samsung-electronics-cultural-issues"/>
         <updated>2022-04-19T03:22:12.076Z</updated>
         <content type="html"><![CDATA[(semianalysis.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
+        <id>https://ydb.tech/</id>
+        <link href="https://ydb.tech/"/>
+        <updated>2022-04-20T01:19:14.412Z</updated>
+        <content type="html"><![CDATA[(ydb.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이제는 달라져야 하는 코딩 테스트]]></title>
