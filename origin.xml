@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-21T09:16:03.290Z</updated>
+    <updated>2022-04-21T10:18:04.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(emacs.amodernist.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feathr - 머신러닝을 위한 엔터프라이즈급 고성능 피쳐 스토어]]></title>
-        <id>https://github.com/linkedin/feathr</id>
-        <link href="https://github.com/linkedin/feathr"/>
-        <updated>2022-04-21T01:10:13.427Z</updated>
-        <content type="html"><![CDATA[(github.com/linkedin)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
         <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
         <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
         <updated>2022-04-19T01:14:48.124Z</updated>
         <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feathr - 머신러닝을 위한 엔터프라이즈급 고성능 피쳐 스토어]]></title>
+        <id>https://github.com/linkedin/feathr</id>
+        <link href="https://github.com/linkedin/feathr"/>
+        <updated>2022-04-21T01:10:13.427Z</updated>
+        <content type="html"><![CDATA[(github.com/linkedin)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 테크 업계 번아웃 실태 보고 (번역글)]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
-        <id>https://ydb.tech/</id>
-        <link href="https://ydb.tech/"/>
-        <updated>2022-04-20T01:19:14.412Z</updated>
-        <content type="html"><![CDATA[(ydb.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글 검색이 뒤지고 있는 분야 : 코드, 요리, 여행]]></title>
         <id>https://www.surgehq.ai//blog/google-search-is-falling-behind</id>
         <link href="https://www.surgehq.ai//blog/google-search-is-falling-behind"/>
         <updated>2022-04-18T03:12:35.055Z</updated>
         <content type="html"><![CDATA[(surgehq.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
+        <id>https://ydb.tech/</id>
+        <link href="https://ydb.tech/"/>
+        <updated>2022-04-20T01:19:14.412Z</updated>
+        <content type="html"><![CDATA[(ydb.tech)]]></content>
     </entry>
 </feed>
