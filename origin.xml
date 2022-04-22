@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-22T11:13:51.524Z</updated>
+    <updated>2022-04-22T12:29:08.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
+        <id>https://c-rocket.net/steve_jobs_3s_meeting_rule/</id>
+        <link href="https://c-rocket.net/steve_jobs_3s_meeting_rule/"/>
+        <updated>2022-04-22T03:43:48.350Z</updated>
+        <content type="html"><![CDATA[(c-rocket.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Column - 개발자를 위한 은행]]></title>
         <id>https://column.com/</id>
@@ -18,13 +25,6 @@
         <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
         <updated>2022-04-22T01:10:42.610Z</updated>
         <content type="html"><![CDATA[(github.com/golang)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
-        <id>https://c-rocket.net/steve_jobs_3s_meeting_rule/</id>
-        <link href="https://c-rocket.net/steve_jobs_3s_meeting_rule/"/>
-        <updated>2022-04-22T03:43:48.350Z</updated>
-        <content type="html"><![CDATA[(c-rocket.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
-        <id>https://newsletter.pragmaticengineer.com/p/the-scoop-fast</id>
-        <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
-        <updated>2022-04-18T03:12:35.049Z</updated>
-        <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
         <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
         <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
         <updated>2022-04-19T01:14:48.124Z</updated>
         <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
+        <id>https://newsletter.pragmaticengineer.com/p/the-scoop-fast</id>
+        <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
+        <updated>2022-04-18T03:12:35.049Z</updated>
+        <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 테크 업계 번아웃 실태 보고 (번역글)]]></title>
@@ -118,11 +118,11 @@
         <content type="html"><![CDATA[(semianalysis.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emacs Configuration Generator]]></title>
-        <id>https://emacs.amodernist.com/</id>
-        <link href="https://emacs.amodernist.com/"/>
-        <updated>2022-04-21T01:10:13.415Z</updated>
-        <content type="html"><![CDATA[(emacs.amodernist.com)]]></content>
+        <title type="html"><![CDATA[이제는 달라져야 하는 코딩 테스트]]></title>
+        <id>https://brunch.co.kr/@godrm77/20</id>
+        <link href="https://brunch.co.kr/@godrm77/20"/>
+        <updated>2022-04-19T01:14:48.136Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@godrm77)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데이터 분석가 대디가 유소년 축구 플렉스 하기]]></title>
@@ -132,11 +132,11 @@
         <content type="html"><![CDATA[(brunch.co.kr/@goodvc78)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이제는 달라져야 하는 코딩 테스트]]></title>
-        <id>https://brunch.co.kr/@godrm77/20</id>
-        <link href="https://brunch.co.kr/@godrm77/20"/>
-        <updated>2022-04-19T01:14:48.136Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@godrm77)]]></content>
+        <title type="html"><![CDATA[Emacs Configuration Generator]]></title>
+        <id>https://emacs.amodernist.com/</id>
+        <link href="https://emacs.amodernist.com/"/>
+        <updated>2022-04-21T01:10:13.415Z</updated>
+        <content type="html"><![CDATA[(emacs.amodernist.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원격 근무를 위한 조엘 테스트]]></title>
