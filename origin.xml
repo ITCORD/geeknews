@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-22T13:34:48.418Z</updated>
+    <updated>2022-04-22T14:15:06.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
-        <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
-        <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
-        <updated>2022-04-22T01:10:42.610Z</updated>
-        <content type="html"><![CDATA[(github.com/golang)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Column - 개발자를 위한 은행]]></title>
         <id>https://column.com/</id>
         <link href="https://column.com/"/>
         <updated>2022-04-22T03:43:48.319Z</updated>
         <content type="html"><![CDATA[(column.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
+        <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
+        <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
+        <updated>2022-04-22T01:10:42.610Z</updated>
+        <content type="html"><![CDATA[(github.com/golang)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(c-rocket.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
-        <id>https://github.com/bloomberg/memray</id>
-        <link href="https://github.com/bloomberg/memray"/>
-        <updated>2022-04-22T01:10:42.610Z</updated>
-        <content type="html"><![CDATA[(github.com/bloomberg)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[귀도 반 로섬 : Web3는 불타서 죽어버리게 두세요]]></title>
         <id>https://twitter.com/gvanrossum/status/1508959260905918465</id>
         <link href="https://twitter.com/gvanrossum/status/1508959260905918465"/>
         <updated>2022-04-22T05:33:29.642Z</updated>
         <content type="html"><![CDATA[(twitter.com/gvanrossum)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
+        <id>https://github.com/bloomberg/memray</id>
+        <link href="https://github.com/bloomberg/memray"/>
+        <updated>2022-04-22T01:10:42.610Z</updated>
+        <content type="html"><![CDATA[(github.com/bloomberg)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(brunch.co.kr/@goodvc78)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emacs Configuration Generator]]></title>
-        <id>https://emacs.amodernist.com/</id>
-        <link href="https://emacs.amodernist.com/"/>
-        <updated>2022-04-21T01:10:13.415Z</updated>
-        <content type="html"><![CDATA[(emacs.amodernist.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[원격 근무를 위한 조엘 테스트]]></title>
         <id>https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/</id>
         <link href="https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/"/>
         <updated>2022-04-22T11:13:10.892Z</updated>
         <content type="html"><![CDATA[(andreschweighofer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs Configuration Generator]]></title>
+        <id>https://emacs.amodernist.com/</id>
+        <link href="https://emacs.amodernist.com/"/>
+        <updated>2022-04-21T01:10:13.415Z</updated>
+        <content type="html"><![CDATA[(emacs.amodernist.com)]]></content>
     </entry>
 </feed>
