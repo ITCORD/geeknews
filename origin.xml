@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-22T14:15:06.482Z</updated>
+    <updated>2022-04-22T15:16:21.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Column - 개발자를 위한 은행]]></title>
-        <id>https://column.com/</id>
-        <link href="https://column.com/"/>
-        <updated>2022-04-22T03:43:48.319Z</updated>
-        <content type="html"><![CDATA[(column.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
         <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
         <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
         <updated>2022-04-22T01:10:42.610Z</updated>
         <content type="html"><![CDATA[(github.com/golang)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Column - 개발자를 위한 은행]]></title>
+        <id>https://column.com/</id>
+        <link href="https://column.com/"/>
+        <updated>2022-04-22T03:43:48.319Z</updated>
+        <content type="html"><![CDATA[(column.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
