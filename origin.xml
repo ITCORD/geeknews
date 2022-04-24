@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-24T12:24:05.721Z</updated>
+    <updated>2022-04-24T13:24:06.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Podman Desktop Companion]]></title>
-        <id>https://iongion.github.io/podman-desktop-companion/</id>
-        <link href="https://iongion.github.io/podman-desktop-companion/"/>
-        <updated>2022-04-23T01:04:54.010Z</updated>
-        <content type="html"><![CDATA[(iongion.github.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[애플 macOS 서버 단종]]></title>
         <id>https://support.apple.com/en-us/HT208312</id>
         <link href="https://support.apple.com/en-us/HT208312"/>
         <updated>2022-04-24T01:02:50.993Z</updated>
         <content type="html"><![CDATA[(support.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podman Desktop Companion]]></title>
+        <id>https://iongion.github.io/podman-desktop-companion/</id>
+        <link href="https://iongion.github.io/podman-desktop-companion/"/>
+        <updated>2022-04-23T01:04:54.010Z</updated>
+        <content type="html"><![CDATA[(iongion.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[(seri.tools)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
+        <id>https://github.com/bloomberg/memray</id>
+        <link href="https://github.com/bloomberg/memray"/>
+        <updated>2022-04-22T01:10:42.610Z</updated>
+        <content type="html"><![CDATA[(github.com/bloomberg)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Github Private Profiles 기능 베타 시작]]></title>
         <id>https://github.blog/changelog/2022-04-21-private-profiles/</id>
         <link href="https://github.blog/changelog/2022-04-21-private-profiles/"/>
@@ -88,13 +95,6 @@
         <link href="https://spectrum.ieee.org/software-engineer-salary-2657117801"/>
         <updated>2022-04-21T01:10:13.425Z</updated>
         <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
-        <id>https://github.com/bloomberg/memray</id>
-        <link href="https://github.com/bloomberg/memray"/>
-        <updated>2022-04-22T01:10:42.610Z</updated>
-        <content type="html"><![CDATA[(github.com/bloomberg)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
