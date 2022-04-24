@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-24T06:19:00.074Z</updated>
+    <updated>2022-04-24T07:15:25.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(seri.tools)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
+        <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
+        <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
+        <updated>2022-04-22T01:10:42.610Z</updated>
+        <content type="html"><![CDATA[(github.com/golang)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Github Private Profiles 기능 베타 시작]]></title>
         <id>https://github.blog/changelog/2022-04-21-private-profiles/</id>
         <link href="https://github.blog/changelog/2022-04-21-private-profiles/"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
-        <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
-        <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
-        <updated>2022-04-22T01:10:42.610Z</updated>
-        <content type="html"><![CDATA[(github.com/golang)]]></content>
+        <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
+        <id>https://brunch.co.kr/@fbrudtjr1/44</id>
+        <link href="https://brunch.co.kr/@fbrudtjr1/44"/>
+        <updated>2022-04-21T03:25:06.143Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
@@ -60,13 +67,6 @@
         <link href="https://github.com/replicate/cog"/>
         <updated>2022-04-23T01:04:54.010Z</updated>
         <content type="html"><![CDATA[(github.com/replicate)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
-        <id>https://brunch.co.kr/@fbrudtjr1/44</id>
-        <link href="https://brunch.co.kr/@fbrudtjr1/44"/>
-        <updated>2022-04-21T03:25:06.143Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
