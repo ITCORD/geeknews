@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-24T15:15:43.231Z</updated>
+    <updated>2022-04-24T16:20:28.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(column.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
-        <id>https://github.com/replicate/cog</id>
-        <link href="https://github.com/replicate/cog"/>
-        <updated>2022-04-23T01:04:54.010Z</updated>
-        <content type="html"><![CDATA[(github.com/replicate)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
         <id>https://joshpigford.com/projects</id>
         <link href="https://joshpigford.com/projects"/>
         <updated>2022-04-21T01:10:13.415Z</updated>
         <content type="html"><![CDATA[(joshpigford.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
+        <id>https://github.com/replicate/cog</id>
+        <link href="https://github.com/replicate/cog"/>
+        <updated>2022-04-23T01:04:54.010Z</updated>
+        <content type="html"><![CDATA[(github.com/replicate)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust9x: Rust를 윈95/NT용으로 컴파일 하기]]></title>
-        <id>https://seri.tools/blog/announcing-rust9x/</id>
-        <link href="https://seri.tools/blog/announcing-rust9x/"/>
-        <updated>2022-04-24T01:02:51.001Z</updated>
-        <content type="html"><![CDATA[(seri.tools)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
         <id>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</id>
         <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
@@ -102,6 +95,13 @@
         <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
         <updated>2022-04-18T03:12:35.049Z</updated>
         <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust9x: Rust를 윈95/NT용으로 컴파일 하기]]></title>
+        <id>https://seri.tools/blog/announcing-rust9x/</id>
+        <link href="https://seri.tools/blog/announcing-rust9x/"/>
+        <updated>2022-04-24T01:02:51.001Z</updated>
+        <content type="html"><![CDATA[(seri.tools)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Github Private Profiles 기능 베타 시작]]></title>
