@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-24T07:15:25.845Z</updated>
+    <updated>2022-04-24T08:18:35.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(iongion.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust9x: Rust를 윈95/NT용으로 컴파일 하기]]></title>
-        <id>https://seri.tools/blog/announcing-rust9x/</id>
-        <link href="https://seri.tools/blog/announcing-rust9x/"/>
-        <updated>2022-04-24T01:02:51.001Z</updated>
-        <content type="html"><![CDATA[(seri.tools)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
         <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
         <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
@@ -34,18 +27,11 @@
         <content type="html"><![CDATA[(github.com/golang)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Github Private Profiles 기능 베타 시작]]></title>
-        <id>https://github.blog/changelog/2022-04-21-private-profiles/</id>
-        <link href="https://github.blog/changelog/2022-04-21-private-profiles/"/>
-        <updated>2022-04-24T01:02:51.002Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
-        <id>https://brunch.co.kr/@fbrudtjr1/44</id>
-        <link href="https://brunch.co.kr/@fbrudtjr1/44"/>
-        <updated>2022-04-21T03:25:06.143Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
+        <title type="html"><![CDATA[Rust9x: Rust를 윈95/NT용으로 컴파일 하기]]></title>
+        <id>https://seri.tools/blog/announcing-rust9x/</id>
+        <link href="https://seri.tools/blog/announcing-rust9x/"/>
+        <updated>2022-04-24T01:02:51.001Z</updated>
+        <content type="html"><![CDATA[(seri.tools)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
@@ -62,11 +48,25 @@
         <content type="html"><![CDATA[(column.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
+        <id>https://brunch.co.kr/@fbrudtjr1/44</id>
+        <link href="https://brunch.co.kr/@fbrudtjr1/44"/>
+        <updated>2022-04-21T03:25:06.143Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
         <id>https://github.com/replicate/cog</id>
         <link href="https://github.com/replicate/cog"/>
         <updated>2022-04-23T01:04:54.010Z</updated>
         <content type="html"><![CDATA[(github.com/replicate)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github Private Profiles 기능 베타 시작]]></title>
+        <id>https://github.blog/changelog/2022-04-21-private-profiles/</id>
+        <link href="https://github.blog/changelog/2022-04-21-private-profiles/"/>
+        <updated>2022-04-24T01:02:51.002Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[귀도 반 로섬 : Web3는 불타서 죽어버리게 두세요]]></title>
-        <id>https://twitter.com/gvanrossum/status/1508959260905918465</id>
-        <link href="https://twitter.com/gvanrossum/status/1508959260905918465"/>
-        <updated>2022-04-22T05:33:29.642Z</updated>
-        <content type="html"><![CDATA[(twitter.com/gvanrossum)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
         <id>https://newsletter.pragmaticengineer.com/p/the-scoop-fast</id>
         <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
         <updated>2022-04-18T03:12:35.049Z</updated>
         <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀도 반 로섬 : Web3는 불타서 죽어버리게 두세요]]></title>
+        <id>https://twitter.com/gvanrossum/status/1508959260905918465</id>
+        <link href="https://twitter.com/gvanrossum/status/1508959260905918465"/>
+        <updated>2022-04-22T05:33:29.642Z</updated>
+        <content type="html"><![CDATA[(twitter.com/gvanrossum)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고]]></title>
