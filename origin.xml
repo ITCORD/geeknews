@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-24T04:19:05.893Z</updated>
+    <updated>2022-04-24T05:14:07.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(support.apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust9x: Rust를 윈95/NT용으로 컴파일 하기]]></title>
-        <id>https://seri.tools/blog/announcing-rust9x/</id>
-        <link href="https://seri.tools/blog/announcing-rust9x/"/>
-        <updated>2022-04-24T01:02:51.001Z</updated>
-        <content type="html"><![CDATA[(seri.tools)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Podman Desktop Companion]]></title>
         <id>https://iongion.github.io/podman-desktop-companion/</id>
         <link href="https://iongion.github.io/podman-desktop-companion/"/>
         <updated>2022-04-23T01:04:54.010Z</updated>
         <content type="html"><![CDATA[(iongion.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust9x: Rust를 윈95/NT용으로 컴파일 하기]]></title>
+        <id>https://seri.tools/blog/announcing-rust9x/</id>
+        <link href="https://seri.tools/blog/announcing-rust9x/"/>
+        <updated>2022-04-24T01:02:51.001Z</updated>
+        <content type="html"><![CDATA[(seri.tools)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Github Private Profiles 기능 베타 시작]]></title>
@@ -39,6 +39,13 @@
         <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
         <updated>2022-04-22T01:10:42.610Z</updated>
         <content type="html"><![CDATA[(github.com/golang)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
+        <id>https://github.com/replicate/cog</id>
+        <link href="https://github.com/replicate/cog"/>
+        <updated>2022-04-23T01:04:54.010Z</updated>
+        <content type="html"><![CDATA[(github.com/replicate)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
@@ -60,13 +67,6 @@
         <link href="https://brunch.co.kr/@fbrudtjr1/44"/>
         <updated>2022-04-21T03:25:06.143Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
-        <id>https://github.com/replicate/cog</id>
-        <link href="https://github.com/replicate/cog"/>
-        <updated>2022-04-23T01:04:54.010Z</updated>
-        <content type="html"><![CDATA[(github.com/replicate)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화/게임/컨셉 디자인등에서 본 HUDs + GUIs 모음]]></title>
