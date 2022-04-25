@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-25T03:14:14.121Z</updated>
+    <updated>2022-04-25T04:22:56.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
-        <id>https://www.coursera.org/articles/data-analytics-books-for-beginners</id>
-        <link href="https://www.coursera.org/articles/data-analytics-books-for-beginners"/>
-        <updated>2022-04-25T01:02:39.546Z</updated>
-        <content type="html"><![CDATA[(coursera.org)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
         <updated>2022-04-25T03:13:27.811Z</updated>
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
+        <id>https://www.coursera.org/articles/data-analytics-books-for-beginners</id>
+        <link href="https://www.coursera.org/articles/data-analytics-books-for-beginners"/>
+        <updated>2022-04-25T01:02:39.546Z</updated>
+        <content type="html"><![CDATA[(coursera.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호텔에서 남겨진 비누는 어디로 가는가]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(mjt.me.uk)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[테슬라 스마트 호출 기능 사용중에 43억원짜리 개인용 제트기에 충돌]]></title>
+        <id>https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon</id>
+        <link href="https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon"/>
+        <updated>2022-04-25T04:22:21.470Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Podman Desktop Companion]]></title>
         <id>https://iongion.github.io/podman-desktop-companion/</id>
         <link href="https://iongion.github.io/podman-desktop-companion/"/>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(hudsandguis.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
-        <id>https://brunch.co.kr/@fbrudtjr1/44</id>
-        <link href="https://brunch.co.kr/@fbrudtjr1/44"/>
-        <updated>2022-04-21T03:25:06.143Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
         <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
         <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
         <updated>2022-04-22T01:10:42.610Z</updated>
         <content type="html"><![CDATA[(github.com/golang)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
+        <id>https://brunch.co.kr/@fbrudtjr1/44</id>
+        <link href="https://brunch.co.kr/@fbrudtjr1/44"/>
+        <updated>2022-04-21T03:25:06.143Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Column - 개발자를 위한 은행]]></title>
@@ -137,12 +144,5 @@
         <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
         <updated>2022-04-20T01:19:14.410Z</updated>
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
-        <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
-        <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
-        <updated>2022-04-19T01:14:48.124Z</updated>
-        <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
     </entry>
 </feed>
