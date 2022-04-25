@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-25T06:20:40.541Z</updated>
+    <updated>2022-04-25T07:15:38.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(coursera.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[호텔에서 남겨진 비누는 어디로 가는가]]></title>
-        <id>https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/</id>
-        <link href="https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/"/>
-        <updated>2022-04-25T01:02:39.551Z</updated>
-        <content type="html"><![CDATA[(thehustle.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
         <id>https://future.a16z.com/emerging-architectures-modern-data-infrastructure/</id>
         <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
         <updated>2022-04-25T03:13:27.814Z</updated>
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호텔에서 남겨진 비누는 어디로 가는가]]></title>
+        <id>https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/</id>
+        <link href="https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/"/>
+        <updated>2022-04-25T01:02:39.551Z</updated>
+        <content type="html"><![CDATA[(thehustle.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 작은 크기의 단색 256x256 PNG파일, 어디서 봤을까? (2015)]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(column.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
+        <id>https://github.com/replicate/cog</id>
+        <link href="https://github.com/replicate/cog"/>
+        <updated>2022-04-23T01:04:54.010Z</updated>
+        <content type="html"><![CDATA[(github.com/replicate)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
         <id>https://c-rocket.net/steve_jobs_3s_meeting_rule/</id>
         <link href="https://c-rocket.net/steve_jobs_3s_meeting_rule/"/>
@@ -111,18 +118,18 @@
         <content type="html"><![CDATA[(github.com/bloomberg)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
-        <id>https://github.com/replicate/cog</id>
-        <link href="https://github.com/replicate/cog"/>
-        <updated>2022-04-23T01:04:54.010Z</updated>
-        <content type="html"><![CDATA[(github.com/replicate)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
         <id>https://newsletter.pragmaticengineer.com/p/the-scoop-fast</id>
         <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
         <updated>2022-04-18T03:12:35.049Z</updated>
         <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
+        <id>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</id>
+        <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
+        <updated>2022-04-20T01:19:14.410Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5장의 차트로 2022년 소프트웨어 엔지니어 연봉 이해하기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://seri.tools/blog/announcing-rust9x/"/>
         <updated>2022-04-25T03:13:27.838Z</updated>
         <content type="html"><![CDATA[(seri.tools)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
-        <id>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</id>
-        <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
-        <updated>2022-04-20T01:19:14.410Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
 </feed>
