@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-26T15:16:40.892Z</updated>
+    <updated>2022-04-26T16:21:48.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
-        <id>https://avc.com/2015/02/the-40-rule/</id>
-        <link href="https://avc.com/2015/02/the-40-rule/"/>
-        <updated>2022-04-26T01:11:28.421Z</updated>
-        <content type="html"><![CDATA[(avc.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
         <id>https://github.com/ekzhang/bore</id>
         <link href="https://github.com/ekzhang/bore"/>
         <updated>2022-04-26T03:20:11.267Z</updated>
         <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
+        <id>https://avc.com/2015/02/the-40-rule/</id>
+        <link href="https://avc.com/2015/02/the-40-rule/"/>
+        <updated>2022-04-26T01:11:28.421Z</updated>
+        <content type="html"><![CDATA[(avc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Litestream - SQLite 스트리밍 복제 도구]]></title>
