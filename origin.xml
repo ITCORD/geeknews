@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-25T23:16:17.247Z</updated>
+    <updated>2022-04-26T01:12:12.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
+        <id>https://avc.com/2015/02/the-40-rule/</id>
+        <link href="https://avc.com/2015/02/the-40-rule/"/>
+        <updated>2022-04-26T01:11:28.421Z</updated>
+        <content type="html"><![CDATA[(avc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Litestream - SQLite 스트리밍 복제 도구]]></title>
+        <id>https://litestream.io/</id>
+        <link href="https://litestream.io/"/>
+        <updated>2022-04-26T01:11:28.421Z</updated>
+        <content type="html"><![CDATA[(litestream.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS의 미래 : CSS Toggles]]></title>
+        <id>https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/</id>
+        <link href="https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/"/>
+        <updated>2022-04-26T01:11:28.421Z</updated>
+        <content type="html"><![CDATA[(bram.us)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터, 일론 머스크의 55조원 인수 제안을 수락]]></title>
+        <id>https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/</id>
+        <link href="https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/"/>
+        <updated>2022-04-26T01:11:28.421Z</updated>
+        <content type="html"><![CDATA[(reuters.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
@@ -62,11 +90,11 @@
         <content type="html"><![CDATA[(hudsandguis.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 macOS 서버 단종]]></title>
-        <id>https://support.apple.com/en-us/HT208312</id>
-        <link href="https://support.apple.com/en-us/HT208312"/>
-        <updated>2022-04-24T01:02:50.993Z</updated>
-        <content type="html"><![CDATA[(support.apple.com)]]></content>
+        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
+        <id>https://github.com/replicate/cog</id>
+        <link href="https://github.com/replicate/cog"/>
+        <updated>2022-04-23T01:04:54.010Z</updated>
+        <content type="html"><![CDATA[(github.com/replicate)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
@@ -76,11 +104,11 @@
         <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cog : 머신러닝을 위한 컨테이너 도구]]></title>
-        <id>https://github.com/replicate/cog</id>
-        <link href="https://github.com/replicate/cog"/>
-        <updated>2022-04-23T01:04:54.010Z</updated>
-        <content type="html"><![CDATA[(github.com/replicate)]]></content>
+        <title type="html"><![CDATA[애플 macOS 서버 단종]]></title>
+        <id>https://support.apple.com/en-us/HT208312</id>
+        <link href="https://support.apple.com/en-us/HT208312"/>
+        <updated>2022-04-24T01:02:50.993Z</updated>
+        <content type="html"><![CDATA[(support.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
@@ -97,6 +125,13 @@
         <content type="html"><![CDATA[(column.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
+        <id>https://github.com/bloomberg/memray</id>
+        <link href="https://github.com/bloomberg/memray"/>
+        <updated>2022-04-22T01:10:42.610Z</updated>
+        <content type="html"><![CDATA[(github.com/bloomberg)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
         <id>https://joshpigford.com/projects</id>
         <link href="https://joshpigford.com/projects"/>
@@ -109,40 +144,5 @@
         <link href="https://c-rocket.net/steve_jobs_3s_meeting_rule/"/>
         <updated>2022-04-22T03:43:48.350Z</updated>
         <content type="html"><![CDATA[(c-rocket.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
-        <id>https://github.com/bloomberg/memray</id>
-        <link href="https://github.com/bloomberg/memray"/>
-        <updated>2022-04-22T01:10:42.610Z</updated>
-        <content type="html"><![CDATA[(github.com/bloomberg)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
-        <id>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</id>
-        <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
-        <updated>2022-04-20T01:19:14.410Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5장의 차트로 2022년 소프트웨어 엔지니어 연봉 이해하기]]></title>
-        <id>https://spectrum.ieee.org/software-engineer-salary-2657117801</id>
-        <link href="https://spectrum.ieee.org/software-engineer-salary-2657117801"/>
-        <updated>2022-04-21T01:10:13.425Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
-        <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
-        <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
-        <updated>2022-04-25T11:13:34.618Z</updated>
-        <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고]]></title>
-        <id>https://newatlas.com/new-atlas-20/fails-biggest-technology-flops/</id>
-        <link href="https://newatlas.com/new-atlas-20/fails-biggest-technology-flops/"/>
-        <updated>2022-04-25T15:17:16.316Z</updated>
-        <content type="html"><![CDATA[(newatlas.com)]]></content>
     </entry>
 </feed>
