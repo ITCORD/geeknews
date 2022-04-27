@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-27T07:15:23.052Z</updated>
+    <updated>2022-04-27T08:19:37.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
+        <id>https://github.com/naver/fe-news</id>
+        <link href="https://github.com/naver/fe-news"/>
+        <updated>2022-04-27T07:14:45.938Z</updated>
+        <content type="html"><![CDATA[(github.com/naver)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 현재 SHA1 충돌은 얼마나 찾기 쉬운가요?]]></title>
         <id>https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision</id>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
-        <id>https://github.com/naver/fe-news</id>
-        <link href="https://github.com/naver/fe-news"/>
-        <updated>2022-04-27T07:14:45.938Z</updated>
-        <content type="html"><![CDATA[(github.com/naver)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
         <id>https://github.com/ekzhang/bore</id>
         <link href="https://github.com/ekzhang/bore"/>
@@ -53,6 +53,20 @@
         <link href="https://avc.com/2015/02/the-40-rule/"/>
         <updated>2022-04-26T01:11:28.421Z</updated>
         <content type="html"><![CDATA[(avc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub, 짧은 URL용 Git.io 서비스 운영 중단]]></title>
+        <id>https://github.blog/changelog/2022-04-25-git-io-deprecation/</id>
+        <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/"/>
+        <updated>2022-04-27T01:21:35.438Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-3 같은 대규모 언어 모델의 API사용에 관한 정리]]></title>
+        <id>https://unzip.dev/0x006-large-language-models/</id>
+        <link href="https://unzip.dev/0x006-large-language-models/"/>
+        <updated>2022-04-27T01:21:35.438Z</updated>
+        <content type="html"><![CDATA[(unzip.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Litestream - SQLite 스트리밍 복제 도구]]></title>
@@ -81,20 +95,6 @@
         <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
         <updated>2022-04-25T03:13:27.814Z</updated>
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub, 짧은 URL용 Git.io 서비스 운영 중단]]></title>
-        <id>https://github.blog/changelog/2022-04-25-git-io-deprecation/</id>
-        <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/"/>
-        <updated>2022-04-27T01:21:35.438Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3 같은 대규모 언어 모델의 API사용에 관한 정리]]></title>
-        <id>https://unzip.dev/0x006-large-language-models/</id>
-        <link href="https://unzip.dev/0x006-large-language-models/"/>
-        <updated>2022-04-27T01:21:35.438Z</updated>
-        <content type="html"><![CDATA[(unzip.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS의 미래 : CSS Toggles]]></title>
