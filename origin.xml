@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-28T05:39:23.960Z</updated>
+    <updated>2022-04-28T06:22:03.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
-        <id>https://blog.relate.kr/shape-up-relate/</id>
-        <link href="https://blog.relate.kr/shape-up-relate/"/>
-        <updated>2022-04-27T23:17:15.357Z</updated>
-        <content type="html"><![CDATA[(blog.relate.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
         <id>https://datasette.io/</id>
         <link href="https://datasette.io/"/>
         <updated>2022-04-28T01:42:54.326Z</updated>
         <content type="html"><![CDATA[(datasette.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
+        <id>https://blog.relate.kr/shape-up-relate/</id>
+        <link href="https://blog.relate.kr/shape-up-relate/"/>
+        <updated>2022-04-27T23:17:15.357Z</updated>
+        <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(textsynth.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
+        <id>https://engineering.ab180.co/stories/productive-review-culture</id>
+        <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
+        <updated>2022-04-26T08:18:52.061Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NFT 커뮤니티, 재미를 디자인하라.]]></title>
         <id>https://ansubin.com/fun-design-nft-community-2/</id>
         <link href="https://ansubin.com/fun-design-nft-community-2/"/>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[(thin.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
-        <id>https://engineering.ab180.co/stories/productive-review-culture</id>
-        <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
-        <updated>2022-04-26T08:18:52.061Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+        <title type="html"><![CDATA[PixelExperience - AOSP 기반 안드로이드 ROM]]></title>
+        <id>https://pixelexperience.org/</id>
+        <link href="https://pixelexperience.org/"/>
+        <updated>2022-04-27T01:21:35.409Z</updated>
+        <content type="html"><![CDATA[(pixelexperience.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 현재 SHA1 충돌은 얼마나 찾기 쉬운가요?]]></title>
@@ -81,13 +88,6 @@
         <link href="https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision"/>
         <updated>2022-04-27T01:21:35.409Z</updated>
         <content type="html"><![CDATA[(crypto.stackexchange.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PixelExperience - AOSP 기반 안드로이드 ROM]]></title>
-        <id>https://pixelexperience.org/</id>
-        <link href="https://pixelexperience.org/"/>
-        <updated>2022-04-27T01:21:35.409Z</updated>
-        <content type="html"><![CDATA[(pixelexperience.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
