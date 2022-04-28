@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-28T06:22:03.830Z</updated>
+    <updated>2022-04-28T07:14:00.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
-        <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
-        <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
-        <updated>2022-04-28T01:42:54.315Z</updated>
-        <content type="html"><![CDATA[(news.mit.edu)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
         <id>https://datasette.io/</id>
@@ -27,6 +20,13 @@
         <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
+        <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
+        <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
+        <updated>2022-04-28T01:42:54.315Z</updated>
+        <content type="html"><![CDATA[(news.mit.edu)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
         <id>https://asuprep.asu.edu/khan-world-school/</id>
         <link href="https://asuprep.asu.edu/khan-world-school/"/>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원]]></title>
-        <id>https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066</id>
-        <link href="https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066"/>
-        <updated>2022-04-28T01:42:54.322Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
         <id>https://github.com/naver/fe-news</id>
         <link href="https://github.com/naver/fe-news"/>
         <updated>2022-04-27T07:14:45.938Z</updated>
         <content type="html"><![CDATA[(github.com/naver)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원]]></title>
+        <id>https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066</id>
+        <link href="https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066"/>
+        <updated>2022-04-28T01:42:54.322Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
