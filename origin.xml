@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-28T11:14:36.165Z</updated>
+    <updated>2022-04-28T12:30:26.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
+        <id>https://textsynth.com/playground.html</id>
+        <link href="https://textsynth.com/playground.html"/>
+        <updated>2022-04-28T01:42:54.323Z</updated>
+        <content type="html"><![CDATA[(textsynth.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
         <id>https://asuprep.asu.edu/khan-world-school/</id>
         <link href="https://asuprep.asu.edu/khan-world-school/"/>
@@ -46,13 +53,6 @@
         <link href="https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066"/>
         <updated>2022-04-28T01:42:54.322Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
-        <id>https://textsynth.com/playground.html</id>
-        <link href="https://textsynth.com/playground.html"/>
-        <updated>2022-04-28T01:42:54.323Z</updated>
-        <content type="html"><![CDATA[(textsynth.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(coursera.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
-        <id>https://avc.com/2015/02/the-40-rule/</id>
-        <link href="https://avc.com/2015/02/the-40-rule/"/>
-        <updated>2022-04-26T01:11:28.421Z</updated>
-        <content type="html"><![CDATA[(avc.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
         <id>https://future.a16z.com/emerging-architectures-modern-data-infrastructure/</id>
         <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
         <updated>2022-04-25T03:13:27.814Z</updated>
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
+        <id>https://avc.com/2015/02/the-40-rule/</id>
+        <link href="https://avc.com/2015/02/the-40-rule/"/>
+        <updated>2022-04-26T01:11:28.421Z</updated>
+        <content type="html"><![CDATA[(avc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3 같은 대규모 언어 모델의 API사용에 관한 정리]]></title>
