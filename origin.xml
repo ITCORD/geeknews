@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-29T11:13:32.290Z</updated>
+    <updated>2022-04-29T12:29:10.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(blog.porter.run)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
+        <id>https://blog.relate.kr/shape-up-relate/</id>
+        <link href="https://blog.relate.kr/shape-up-relate/"/>
+        <updated>2022-04-27T23:17:15.357Z</updated>
+        <content type="html"><![CDATA[(blog.relate.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
         <id>https://lineageos.org/Changelog-26/</id>
         <link href="https://lineageos.org/Changelog-26/"/>
@@ -53,13 +60,6 @@
         <link href="https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"/>
         <updated>2022-04-29T01:09:16.134Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
-        <id>https://blog.relate.kr/shape-up-relate/</id>
-        <link href="https://blog.relate.kr/shape-up-relate/"/>
-        <updated>2022-04-27T23:17:15.357Z</updated>
-        <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
-        <id>https://textsynth.com/playground.html</id>
-        <link href="https://textsynth.com/playground.html"/>
-        <updated>2022-04-28T01:42:54.323Z</updated>
-        <content type="html"><![CDATA[(textsynth.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
         <id>https://github.com/ekzhang/bore</id>
         <link href="https://github.com/ekzhang/bore"/>
@@ -130,6 +123,13 @@
         <link href="https://www.coursera.org/articles/data-analytics-books-for-beginners"/>
         <updated>2022-04-25T01:02:39.546Z</updated>
         <content type="html"><![CDATA[(coursera.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
+        <id>https://textsynth.com/playground.html</id>
+        <link href="https://textsynth.com/playground.html"/>
+        <updated>2022-04-28T01:42:54.323Z</updated>
+        <content type="html"><![CDATA[(textsynth.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
