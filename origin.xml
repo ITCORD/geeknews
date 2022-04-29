@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-29T10:16:14.376Z</updated>
+    <updated>2022-04-29T11:13:32.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(pixy.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 회사들이 Heroku를 떠나는가(비용 제외)]]></title>
-        <id>https://blog.porter.run/why-companies-move-off-heroku/</id>
-        <link href="https://blog.porter.run/why-companies-move-off-heroku/"/>
-        <updated>2022-04-29T03:23:46.468Z</updated>
-        <content type="html"><![CDATA[(blog.porter.run)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
         <id>https://datasette.io/</id>
         <link href="https://datasette.io/"/>
         <updated>2022-04-28T01:42:54.326Z</updated>
         <content type="html"><![CDATA[(datasette.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 회사들이 Heroku를 떠나는가(비용 제외)]]></title>
+        <id>https://blog.porter.run/why-companies-move-off-heroku/</id>
+        <link href="https://blog.porter.run/why-companies-move-off-heroku/"/>
+        <updated>2022-04-29T03:23:46.468Z</updated>
+        <content type="html"><![CDATA[(blog.porter.run)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
-        <id>https://asuprep.asu.edu/khan-world-school/</id>
-        <link href="https://asuprep.asu.edu/khan-world-school/"/>
-        <updated>2022-04-28T01:42:54.318Z</updated>
-        <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
         <id>https://engineering.ab180.co/stories/productive-review-culture</id>
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
         <updated>2022-04-26T08:18:52.061Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
+        <id>https://asuprep.asu.edu/khan-world-school/</id>
+        <link href="https://asuprep.asu.edu/khan-world-school/"/>
+        <updated>2022-04-28T01:42:54.318Z</updated>
+        <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT 커뮤니티, 재미를 디자인하라.]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
-        <id>https://github.com/ekzhang/bore</id>
-        <link href="https://github.com/ekzhang/bore"/>
-        <updated>2022-04-26T03:20:11.267Z</updated>
-        <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
         <id>https://textsynth.com/playground.html</id>
         <link href="https://textsynth.com/playground.html"/>
         <updated>2022-04-28T01:42:54.323Z</updated>
         <content type="html"><![CDATA[(textsynth.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
+        <id>https://github.com/ekzhang/bore</id>
+        <link href="https://github.com/ekzhang/bore"/>
+        <updated>2022-04-26T03:20:11.267Z</updated>
+        <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(coursera.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원]]></title>
-        <id>https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066</id>
-        <link href="https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066"/>
-        <updated>2022-04-28T01:42:54.322Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
         <id>https://future.a16z.com/emerging-architectures-modern-data-infrastructure/</id>
         <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
         <updated>2022-04-25T03:13:27.814Z</updated>
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원]]></title>
+        <id>https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066</id>
+        <link href="https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066"/>
+        <updated>2022-04-28T01:42:54.322Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
 </feed>
