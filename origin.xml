@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-28T23:16:15.113Z</updated>
+    <updated>2022-04-29T01:09:52.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 미국내에서 수리 셀프 서비스 시작]]></title>
+        <id>https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/</id>
+        <link href="https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"/>
+        <updated>2022-04-29T01:09:16.134Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
+        <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
+        <link href="https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"/>
+        <updated>2022-04-29T01:09:16.134Z</updated>
+        <content type="html"><![CDATA[(krausefx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
+        <id>https://lineageos.org/Changelog-26/</id>
+        <link href="https://lineageos.org/Changelog-26/"/>
+        <updated>2022-04-29T01:09:16.134Z</updated>
+        <content type="html"><![CDATA[(lineageos.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
         <id>https://datasette.io/</id>
         <link href="https://datasette.io/"/>
         <updated>2022-04-28T01:42:54.326Z</updated>
         <content type="html"><![CDATA[(datasette.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
+        <id>https://pixy.com/</id>
+        <link href="https://pixy.com/"/>
+        <updated>2022-04-29T01:09:16.138Z</updated>
+        <content type="html"><![CDATA[(pixy.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
@@ -20,13 +48,6 @@
         <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
-        <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
-        <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
-        <updated>2022-04-28T01:42:54.315Z</updated>
-        <content type="html"><![CDATA[(news.mit.edu)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
         <id>https://github.com/naver/fe-news</id>
         <link href="https://github.com/naver/fe-news"/>
@@ -34,11 +55,11 @@
         <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
-        <id>https://asuprep.asu.edu/khan-world-school/</id>
-        <link href="https://asuprep.asu.edu/khan-world-school/"/>
-        <updated>2022-04-28T01:42:54.318Z</updated>
-        <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
+        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
+        <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
+        <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
+        <updated>2022-04-28T01:42:54.315Z</updated>
+        <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
@@ -46,6 +67,13 @@
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
         <updated>2022-04-26T08:18:52.061Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
+        <id>https://asuprep.asu.edu/khan-world-school/</id>
+        <link href="https://asuprep.asu.edu/khan-world-school/"/>
+        <updated>2022-04-28T01:42:54.318Z</updated>
+        <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TextSynth - 무료 GPT-NeoX-20B 플레이그라운드]]></title>
@@ -83,6 +111,13 @@
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
+        <id>https://github.com/ekzhang/bore</id>
+        <link href="https://github.com/ekzhang/bore"/>
+        <updated>2022-04-26T03:20:11.267Z</updated>
+        <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PixelExperience - AOSP 기반 안드로이드 ROM]]></title>
         <id>https://pixelexperience.org/</id>
         <link href="https://pixelexperience.org/"/>
@@ -104,45 +139,10 @@
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
-        <id>https://github.com/ekzhang/bore</id>
-        <link href="https://github.com/ekzhang/bore"/>
-        <updated>2022-04-26T03:20:11.267Z</updated>
-        <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 현재 SHA1 충돌은 얼마나 찾기 쉬운가요?]]></title>
-        <id>https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision</id>
-        <link href="https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision"/>
-        <updated>2022-04-27T01:21:35.409Z</updated>
-        <content type="html"><![CDATA[(crypto.stackexchange.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
         <id>https://avc.com/2015/02/the-40-rule/</id>
         <link href="https://avc.com/2015/02/the-40-rule/"/>
         <updated>2022-04-26T01:11:28.421Z</updated>
         <content type="html"><![CDATA[(avc.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Litestream - SQLite 스트리밍 복제 도구]]></title>
-        <id>https://litestream.io/</id>
-        <link href="https://litestream.io/"/>
-        <updated>2022-04-26T01:11:28.421Z</updated>
-        <content type="html"><![CDATA[(litestream.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3 같은 대규모 언어 모델의 API사용에 관한 정리]]></title>
-        <id>https://unzip.dev/0x006-large-language-models/</id>
-        <link href="https://unzip.dev/0x006-large-language-models/"/>
-        <updated>2022-04-27T01:21:35.438Z</updated>
-        <content type="html"><![CDATA[(unzip.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호텔에서 남겨진 비누는 어디로 가는가]]></title>
-        <id>https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/</id>
-        <link href="https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/"/>
-        <updated>2022-04-25T01:02:39.551Z</updated>
-        <content type="html"><![CDATA[(thehustle.co)]]></content>
     </entry>
 </feed>
