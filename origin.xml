@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-30T06:19:11.259Z</updated>
+    <updated>2022-04-30T08:18:35.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
-        <id>https://github.com/azure/azurite</id>
-        <link href="https://github.com/azure/azurite"/>
-        <updated>2022-04-30T01:17:30.857Z</updated>
-        <content type="html"><![CDATA[(github.com/azure)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
         <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
         <link href="https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"/>
         <updated>2022-04-29T01:09:16.134Z</updated>
         <content type="html"><![CDATA[(krausefx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
+        <id>https://github.com/azure/azurite</id>
+        <link href="https://github.com/azure/azurite"/>
+        <updated>2022-04-30T01:17:30.857Z</updated>
+        <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(datasette.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
-        <id>https://pixy.com/</id>
-        <link href="https://pixy.com/"/>
-        <updated>2022-04-29T01:09:16.138Z</updated>
-        <content type="html"><![CDATA[(pixy.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
         <id>https://blog.relate.kr/shape-up-relate/</id>
         <link href="https://blog.relate.kr/shape-up-relate/"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
-        <updated>2022-04-29T09:16:10.830Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
+        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
+        <id>https://pixy.com/</id>
+        <link href="https://pixy.com/"/>
+        <updated>2022-04-29T01:09:16.138Z</updated>
+        <content type="html"><![CDATA[(pixy.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
@@ -67,6 +60,13 @@
         <link href="https://github.com/naver/fe-news"/>
         <updated>2022-04-27T07:14:45.938Z</updated>
         <content type="html"><![CDATA[(github.com/naver)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
+        <updated>2022-04-29T09:16:10.830Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(lineageos.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 미국내에서 수리 셀프 서비스 시작]]></title>
-        <id>https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/</id>
-        <link href="https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"/>
-        <updated>2022-04-29T01:09:16.134Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
         <id>https://asuprep.asu.edu/khan-world-school/</id>
         <link href="https://asuprep.asu.edu/khan-world-school/"/>
         <updated>2022-04-28T01:42:54.318Z</updated>
         <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 미국내에서 수리 셀프 서비스 시작]]></title>
+        <id>https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/</id>
+        <link href="https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"/>
+        <updated>2022-04-29T01:09:16.134Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
