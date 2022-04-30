@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-30T15:15:59.696Z</updated>
+    <updated>2022-04-30T16:20:21.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
-        <id>https://pixy.com/</id>
-        <link href="https://pixy.com/"/>
-        <updated>2022-04-29T01:09:16.138Z</updated>
-        <content type="html"><![CDATA[(pixy.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
         <id>https://github.com/naver/fe-news</id>
         <link href="https://github.com/naver/fe-news"/>
         <updated>2022-04-27T07:14:45.938Z</updated>
         <content type="html"><![CDATA[(github.com/naver)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
+        <id>https://pixy.com/</id>
+        <link href="https://pixy.com/"/>
+        <updated>2022-04-29T01:09:16.138Z</updated>
+        <content type="html"><![CDATA[(pixy.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(coursera.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 회사들이 Heroku를 떠나는가(비용 제외)]]></title>
-        <id>https://blog.porter.run/why-companies-move-off-heroku/</id>
-        <link href="https://blog.porter.run/why-companies-move-off-heroku/"/>
-        <updated>2022-04-29T03:23:46.468Z</updated>
-        <content type="html"><![CDATA[(blog.porter.run)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thin - React앱을 위한 실시간, TypeSafe 백엔드]]></title>
         <id>https://thin.dev/</id>
         <link href="https://thin.dev/"/>
@@ -139,10 +132,17 @@
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
-        <id>https://lineageos.org/Changelog-26/</id>
-        <link href="https://lineageos.org/Changelog-26/"/>
-        <updated>2022-04-29T01:09:16.134Z</updated>
-        <content type="html"><![CDATA[(lineageos.org)]]></content>
+        <title type="html"><![CDATA[왜 회사들이 Heroku를 떠나는가(비용 제외)]]></title>
+        <id>https://blog.porter.run/why-companies-move-off-heroku/</id>
+        <link href="https://blog.porter.run/why-companies-move-off-heroku/"/>
+        <updated>2022-04-29T03:23:46.468Z</updated>
+        <content type="html"><![CDATA[(blog.porter.run)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
+        <id>https://github.com/ekzhang/bore</id>
+        <link href="https://github.com/ekzhang/bore"/>
+        <updated>2022-04-30T16:19:41.498Z</updated>
+        <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
     </entry>
 </feed>
