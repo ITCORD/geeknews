@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-30T22:15:25.208Z</updated>
+    <updated>2022-04-30T23:15:49.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
+        <id>https://github.com/samizdatco/skia-canvas</id>
+        <link href="https://github.com/samizdatco/skia-canvas"/>
+        <updated>2022-04-30T01:17:30.850Z</updated>
+        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
         <id>https://velog.io/@dlwocks31/translation-project-management-at-big-tech</id>
@@ -18,13 +25,6 @@
         <link href="https://github.com/avajs/ava-docs/pull/75"/>
         <updated>2022-04-30T15:15:19.009Z</updated>
         <content type="html"><![CDATA[(github.com/avajs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
-        <id>https://github.com/samizdatco/skia-canvas</id>
-        <link href="https://github.com/samizdatco/skia-canvas"/>
-        <updated>2022-04-30T01:17:30.850Z</updated>
-        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
+        <updated>2022-04-29T09:16:10.830Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
         <id>https://engineering.ab180.co/stories/productive-review-culture</id>
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
@@ -81,13 +88,6 @@
         <link href="https://pixy.com/"/>
         <updated>2022-04-29T01:09:16.138Z</updated>
         <content type="html"><![CDATA[(pixy.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
-        <updated>2022-04-29T09:16:10.830Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
