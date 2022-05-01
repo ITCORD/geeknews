@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T12:25:57.012Z</updated>
+    <updated>2022-05-01T13:24:59.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
         <updated>2022-05-01T01:28:29.504Z</updated>
         <content type="html"><![CDATA[(istio.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
+        <id>https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536</id>
+        <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
+        <updated>2022-05-01T01:28:29.505Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[(datasette.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
-        <id>https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536</id>
-        <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
-        <updated>2022-05-01T01:28:29.505Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
         <id>https://blog.relate.kr/shape-up-relate/</id>
         <link href="https://blog.relate.kr/shape-up-relate/"/>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
-        <id>https://github.com/naver/fe-news</id>
-        <link href="https://github.com/naver/fe-news"/>
-        <updated>2022-04-27T07:14:45.938Z</updated>
-        <content type="html"><![CDATA[(github.com/naver)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
         <id>https://engineering.ab180.co/stories/productive-review-culture</id>
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
         <updated>2022-04-26T08:18:52.061Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
+        <id>https://github.com/naver/fe-news</id>
+        <link href="https://github.com/naver/fe-news"/>
+        <updated>2022-04-27T07:14:45.938Z</updated>
+        <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(coursera.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
-        <id>https://github.com/ekzhang/bore</id>
-        <link href="https://github.com/ekzhang/bore"/>
-        <updated>2022-05-01T08:18:07.357Z</updated>
-        <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
+        <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
+        <id>https://future.a16z.com/emerging-architectures-modern-data-infrastructure/</id>
+        <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
+        <updated>2022-05-01T13:24:19.254Z</updated>
+        <content type="html"><![CDATA[(future.a16z.com)]]></content>
     </entry>
 </feed>
