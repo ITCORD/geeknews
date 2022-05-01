@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T18:17:40.774Z</updated>
+    <updated>2022-05-01T19:13:56.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
+        <id>https://datasette.io/</id>
+        <link href="https://datasette.io/"/>
+        <updated>2022-04-28T01:42:54.326Z</updated>
+        <content type="html"><![CDATA[(datasette.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
         <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
         <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
@@ -46,13 +53,6 @@
         <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
         <updated>2022-05-01T01:28:29.505Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
-        <id>https://datasette.io/</id>
-        <link href="https://datasette.io/"/>
-        <updated>2022-04-28T01:42:54.326Z</updated>
-        <content type="html"><![CDATA[(datasette.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
+        <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
+        <updated>2022-04-25T03:13:27.811Z</updated>
+        <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
         <id>https://github.com/azure/azurite</id>
         <link href="https://github.com/azure/azurite"/>
         <updated>2022-04-30T01:17:30.857Z</updated>
         <content type="html"><![CDATA[(github.com/azure)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
-        <id>https://pixy.com/</id>
-        <link href="https://pixy.com/"/>
-        <updated>2022-04-29T01:09:16.138Z</updated>
-        <content type="html"><![CDATA[(pixy.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
@@ -118,11 +118,11 @@
         <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
-        <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
-        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
-        <updated>2022-04-25T03:13:27.811Z</updated>
-        <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
+        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
+        <id>https://pixy.com/</id>
+        <link href="https://pixy.com/"/>
+        <updated>2022-04-29T01:09:16.138Z</updated>
+        <content type="html"><![CDATA[(pixy.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
