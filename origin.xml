@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-30T23:15:49.840Z</updated>
+    <updated>2022-05-01T01:29:05.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
-        <id>https://github.com/samizdatco/skia-canvas</id>
-        <link href="https://github.com/samizdatco/skia-canvas"/>
-        <updated>2022-04-30T01:17:30.850Z</updated>
-        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
+        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
+        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
+        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
+        <updated>2022-05-01T01:28:29.504Z</updated>
+        <content type="html"><![CDATA[(istio.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
+        <id>https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536</id>
+        <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
+        <updated>2022-05-01T01:28:29.505Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
+        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
+        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
+        <updated>2022-05-01T01:28:29.505Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
@@ -18,6 +32,13 @@
         <link href="https://velog.io/@dlwocks31/translation-project-management-at-big-tech"/>
         <updated>2022-04-30T15:15:18.991Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
+        <id>https://github.com/samizdatco/skia-canvas</id>
+        <link href="https://github.com/samizdatco/skia-canvas"/>
+        <updated>2022-04-30T01:17:30.850Z</updated>
+        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
@@ -69,18 +90,18 @@
         <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
-        <updated>2022-04-29T09:16:10.830Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
         <id>https://engineering.ab180.co/stories/productive-review-culture</id>
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
         <updated>2022-04-26T08:18:52.061Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
+        <updated>2022-04-29T09:16:10.830Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
@@ -123,26 +144,5 @@
         <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
         <updated>2022-04-30T04:21:25.093Z</updated>
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
-        <id>https://asuprep.asu.edu/khan-world-school/</id>
-        <link href="https://asuprep.asu.edu/khan-world-school/"/>
-        <updated>2022-04-28T01:42:54.318Z</updated>
-        <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thin - React앱을 위한 실시간, TypeSafe 백엔드]]></title>
-        <id>https://thin.dev/</id>
-        <link href="https://thin.dev/"/>
-        <updated>2022-04-30T12:24:14.380Z</updated>
-        <content type="html"><![CDATA[(thin.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 커뮤니티, 재미를 디자인하라.]]></title>
-        <id>https://ansubin.com/fun-design-nft-community-2/</id>
-        <link href="https://ansubin.com/fun-design-nft-community-2/"/>
-        <updated>2022-04-30T18:18:28.462Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
 </feed>
