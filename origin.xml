@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T21:14:46.960Z</updated>
+    <updated>2022-05-01T22:15:02.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
+        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
+        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
+        <updated>2022-05-01T01:28:29.504Z</updated>
+        <content type="html"><![CDATA[(istio.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
         <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
         <link href="https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"/>
         <updated>2022-04-29T01:09:16.134Z</updated>
         <content type="html"><![CDATA[(krausefx.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
-        <id>https://github.com/samizdatco/skia-canvas</id>
-        <link href="https://github.com/samizdatco/skia-canvas"/>
-        <updated>2022-04-30T01:17:30.850Z</updated>
-        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[(datasette.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
-        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
-        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
-        <updated>2022-05-01T01:28:29.504Z</updated>
-        <content type="html"><![CDATA[(istio.io)]]></content>
+        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
+        <id>https://github.com/samizdatco/skia-canvas</id>
+        <link href="https://github.com/samizdatco/skia-canvas"/>
+        <updated>2022-04-30T01:17:30.850Z</updated>
+        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
-        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
-        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
-        <updated>2022-05-01T01:28:29.505Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
         <id>https://pixy.com/</id>
         <link href="https://pixy.com/"/>
@@ -130,6 +123,13 @@
         <link href="https://www.coursera.org/articles/data-analytics-books-for-beginners"/>
         <updated>2022-05-01T10:16:19.741Z</updated>
         <content type="html"><![CDATA[(coursera.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
+        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
+        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
+        <updated>2022-05-01T01:28:29.505Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
