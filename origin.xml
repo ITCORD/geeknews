@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T08:18:43.898Z</updated>
+    <updated>2022-05-01T09:15:10.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
-        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
-        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
-        <updated>2022-05-01T01:28:29.504Z</updated>
-        <content type="html"><![CDATA[(istio.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
         <id>https://velog.io/@dlwocks31/translation-project-management-at-big-tech</id>
         <link href="https://velog.io/@dlwocks31/translation-project-management-at-big-tech"/>
         <updated>2022-04-30T15:15:18.991Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
+        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
+        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
+        <updated>2022-05-01T01:28:29.504Z</updated>
+        <content type="html"><![CDATA[(istio.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
