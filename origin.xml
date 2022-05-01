@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T04:34:37.795Z</updated>
+    <updated>2022-05-01T05:20:43.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://ansubin.com/kakaotalk-emoticon-and-pfp-nft-future/"/>
         <updated>2022-05-01T03:41:24.893Z</updated>
         <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
-        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
-        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
-        <updated>2022-05-01T01:28:29.504Z</updated>
-        <content type="html"><![CDATA[(istio.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
@@ -32,6 +25,13 @@
         <link href="https://github.com/avajs/ava-docs/pull/75"/>
         <updated>2022-04-30T15:15:19.009Z</updated>
         <content type="html"><![CDATA[(github.com/avajs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
+        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
+        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
+        <updated>2022-05-01T01:28:29.504Z</updated>
+        <content type="html"><![CDATA[(istio.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
-        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
-        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
-        <updated>2022-04-30T01:17:30.857Z</updated>
-        <content type="html"><![CDATA[(opensource.google)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
         <id>https://github.com/naver/fe-news</id>
         <link href="https://github.com/naver/fe-news"/>
         <updated>2022-04-27T07:14:45.938Z</updated>
         <content type="html"><![CDATA[(github.com/naver)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
+        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
+        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
+        <updated>2022-04-30T01:17:30.857Z</updated>
+        <content type="html"><![CDATA[(opensource.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
