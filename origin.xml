@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T16:21:58.550Z</updated>
+    <updated>2022-05-01T17:18:09.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(krausefx.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
+        <id>https://github.com/samizdatco/skia-canvas</id>
+        <link href="https://github.com/samizdatco/skia-canvas"/>
+        <updated>2022-04-30T01:17:30.850Z</updated>
+        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
         <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
         <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
@@ -39,13 +46,6 @@
         <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
         <updated>2022-05-01T01:28:29.505Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
-        <id>https://github.com/samizdatco/skia-canvas</id>
-        <link href="https://github.com/samizdatco/skia-canvas"/>
-        <updated>2022-04-30T01:17:30.850Z</updated>
-        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
-        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
-        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
-        <updated>2022-05-01T01:28:29.505Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
         <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
         <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
         <updated>2022-04-29T09:16:10.830Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
+        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
+        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
+        <updated>2022-05-01T01:28:29.505Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
-        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
-        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
-        <updated>2022-04-30T01:17:30.857Z</updated>
-        <content type="html"><![CDATA[(opensource.google)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
         <id>https://pixy.com/</id>
         <link href="https://pixy.com/"/>
         <updated>2022-04-29T01:09:16.138Z</updated>
         <content type="html"><![CDATA[(pixy.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
+        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
+        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
+        <updated>2022-04-30T01:17:30.857Z</updated>
+        <content type="html"><![CDATA[(opensource.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
