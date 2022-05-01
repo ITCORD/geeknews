@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T01:29:05.818Z</updated>
+    <updated>2022-05-01T03:42:04.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카톡 이모티콘을 통해 바라본 PFP NFT의 미래]]></title>
+        <id>https://ansubin.com/kakaotalk-emoticon-and-pfp-nft-future/</id>
+        <link href="https://ansubin.com/kakaotalk-emoticon-and-pfp-nft-future/"/>
+        <updated>2022-05-01T03:41:24.893Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
         <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
         <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
         <updated>2022-05-01T01:28:29.504Z</updated>
         <content type="html"><![CDATA[(istio.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
+        <id>https://velog.io/@dlwocks31/translation-project-management-at-big-tech</id>
+        <link href="https://velog.io/@dlwocks31/translation-project-management-at-big-tech"/>
+        <updated>2022-04-30T15:15:18.991Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
@@ -27,11 +41,11 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
-        <id>https://velog.io/@dlwocks31/translation-project-management-at-big-tech</id>
-        <link href="https://velog.io/@dlwocks31/translation-project-management-at-big-tech"/>
-        <updated>2022-04-30T15:15:18.991Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
+        <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
+        <id>https://github.com/avajs/ava-docs/pull/75</id>
+        <link href="https://github.com/avajs/ava-docs/pull/75"/>
+        <updated>2022-04-30T15:15:19.009Z</updated>
+        <content type="html"><![CDATA[(github.com/avajs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
@@ -39,13 +53,6 @@
         <link href="https://github.com/samizdatco/skia-canvas"/>
         <updated>2022-04-30T01:17:30.850Z</updated>
         <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
-        <id>https://github.com/avajs/ava-docs/pull/75</id>
-        <link href="https://github.com/avajs/ava-docs/pull/75"/>
-        <updated>2022-04-30T15:15:19.009Z</updated>
-        <content type="html"><![CDATA[(github.com/avajs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
@@ -69,18 +76,18 @@
         <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
-        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
-        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
-        <updated>2022-04-30T01:17:30.857Z</updated>
-        <content type="html"><![CDATA[(opensource.google)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
         <id>https://blog.relate.kr/shape-up-relate/</id>
         <link href="https://blog.relate.kr/shape-up-relate/"/>
         <updated>2022-04-27T23:17:15.357Z</updated>
         <content type="html"><![CDATA[(blog.relate.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
+        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
+        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
+        <updated>2022-04-30T01:17:30.857Z</updated>
+        <content type="html"><![CDATA[(opensource.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/ekzhang/bore"/>
         <updated>2022-04-30T16:19:41.498Z</updated>
         <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
-        <id>https://future.a16z.com/emerging-architectures-modern-data-infrastructure/</id>
-        <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
-        <updated>2022-04-30T04:21:25.093Z</updated>
-        <content type="html"><![CDATA[(future.a16z.com)]]></content>
     </entry>
 </feed>
