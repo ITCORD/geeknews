@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T20:16:21.636Z</updated>
+    <updated>2022-05-01T21:14:46.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
-        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
-        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
-        <updated>2022-05-01T01:28:29.505Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
@@ -111,11 +104,11 @@
         <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
-        <id>https://github.com/azure/azurite</id>
-        <link href="https://github.com/azure/azurite"/>
-        <updated>2022-04-30T01:17:30.857Z</updated>
-        <content type="html"><![CDATA[(github.com/azure)]]></content>
+        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
+        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
+        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
+        <updated>2022-05-01T01:28:29.505Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
@@ -125,11 +118,11 @@
         <content type="html"><![CDATA[(pixy.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
-        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
-        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
+        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
+        <id>https://github.com/azure/azurite</id>
+        <link href="https://github.com/azure/azurite"/>
         <updated>2022-04-30T01:17:30.857Z</updated>
-        <content type="html"><![CDATA[(opensource.google)]]></content>
+        <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
@@ -137,6 +130,13 @@
         <link href="https://www.coursera.org/articles/data-analytics-books-for-beginners"/>
         <updated>2022-05-01T10:16:19.741Z</updated>
         <content type="html"><![CDATA[(coursera.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
+        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
+        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
+        <updated>2022-04-30T01:17:30.857Z</updated>
+        <content type="html"><![CDATA[(opensource.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
