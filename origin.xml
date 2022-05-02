@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-02T11:14:00.136Z</updated>
+    <updated>2022-05-02T12:28:45.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[(datasette.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
+        <id>https://github.com/avajs/ava-docs/pull/75</id>
+        <link href="https://github.com/avajs/ava-docs/pull/75"/>
+        <updated>2022-04-30T15:15:19.009Z</updated>
+        <content type="html"><![CDATA[(github.com/avajs)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
         <id>https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536</id>
         <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
@@ -95,13 +102,6 @@
         <link href="https://blog.relate.kr/shape-up-relate/"/>
         <updated>2022-04-27T23:17:15.357Z</updated>
         <content type="html"><![CDATA[(blog.relate.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
-        <id>https://github.com/avajs/ava-docs/pull/75</id>
-        <link href="https://github.com/avajs/ava-docs/pull/75"/>
-        <updated>2022-04-30T15:15:19.009Z</updated>
-        <content type="html"><![CDATA[(github.com/avajs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
