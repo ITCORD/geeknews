@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-02T05:29:02.389Z</updated>
+    <updated>2022-05-02T06:20:38.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
-        <id>https://pyscript.net/</id>
-        <link href="https://pyscript.net/"/>
-        <updated>2022-05-02T03:52:53.558Z</updated>
-        <content type="html"><![CDATA[(pyscript.net)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
         <id>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</id>
@@ -25,6 +18,13 @@
         <link href="https://news.ycombinator.com/item?id=31218268"/>
         <updated>2022-05-02T03:52:53.558Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
+        <id>https://pyscript.net/</id>
+        <link href="https://pyscript.net/"/>
+        <updated>2022-05-02T03:52:53.558Z</updated>
+        <content type="html"><![CDATA[(pyscript.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투자자들이 기대하는 훌륭한 성장률은 얼마일까]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
-        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
-        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
-        <updated>2022-05-02T03:52:53.577Z</updated>
-        <content type="html"><![CDATA[(opensource.google)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
         <updated>2022-04-25T03:13:27.811Z</updated>
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
+        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
+        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
+        <updated>2022-05-02T03:52:53.577Z</updated>
+        <content type="html"><![CDATA[(opensource.google)]]></content>
     </entry>
 </feed>
