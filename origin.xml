@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-02T06:20:38.648Z</updated>
+    <updated>2022-05-02T07:15:44.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
-        <id>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</id>
-        <link href="https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html"/>
-        <updated>2022-05-02T01:10:39.106Z</updated>
-        <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
         <id>https://news.ycombinator.com/item?id=31218268</id>
         <link href="https://news.ycombinator.com/item?id=31218268"/>
         <updated>2022-05-02T03:52:53.558Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
+        <id>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</id>
+        <link href="https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html"/>
+        <updated>2022-05-02T01:10:39.106Z</updated>
+        <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
-        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
-        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
-        <updated>2022-05-01T01:28:29.504Z</updated>
-        <content type="html"><![CDATA[(istio.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
         <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
         <link href="https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"/>
         <updated>2022-04-29T01:09:16.134Z</updated>
         <content type="html"><![CDATA[(krausefx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
+        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
+        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
+        <updated>2022-05-01T01:28:29.504Z</updated>
+        <content type="html"><![CDATA[(istio.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
-        <id>https://github.com/azure/azurite</id>
-        <link href="https://github.com/azure/azurite"/>
-        <updated>2022-05-02T03:52:53.576Z</updated>
-        <content type="html"><![CDATA[(github.com/azure)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
         <updated>2022-04-25T03:13:27.811Z</updated>
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
+        <id>https://github.com/azure/azurite</id>
+        <link href="https://github.com/azure/azurite"/>
+        <updated>2022-05-02T03:52:53.576Z</updated>
+        <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
