@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-02T08:20:29.954Z</updated>
+    <updated>2022-05-02T09:16:38.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
-        <id>https://github.com/azure/azurite</id>
-        <link href="https://github.com/azure/azurite"/>
-        <updated>2022-05-02T03:52:53.576Z</updated>
-        <content type="html"><![CDATA[(github.com/azure)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
         <id>https://www.coursera.org/articles/data-analytics-books-for-beginners</id>
         <link href="https://www.coursera.org/articles/data-analytics-books-for-beginners"/>
         <updated>2022-05-02T08:19:52.760Z</updated>
         <content type="html"><![CDATA[(coursera.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
+        <id>https://github.com/azure/azurite</id>
+        <link href="https://github.com/azure/azurite"/>
+        <updated>2022-05-02T03:52:53.576Z</updated>
+        <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
 </feed>
