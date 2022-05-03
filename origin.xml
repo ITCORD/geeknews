@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-03T13:37:00.045Z</updated>
+    <updated>2022-05-03T14:13:26.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 새로운 것 하나만 알려주세요]]></title>
-        <id>https://news.hada.io/topic?id=6480</id>
-        <link href="https://news.hada.io/topic?id=6480"/>
-        <updated>2022-05-03T08:19:11.486Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
         <id>https://pyscript.net/</id>
         <link href="https://pyscript.net/"/>
         <updated>2022-05-02T03:52:53.558Z</updated>
         <content type="html"><![CDATA[(pyscript.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 새로운 것 하나만 알려주세요]]></title>
+        <id>https://news.hada.io/topic?id=6480</id>
+        <link href="https://news.hada.io/topic?id=6480"/>
+        <updated>2022-05-03T08:19:11.486Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (2022년 5월)]]></title>
@@ -130,17 +130,17 @@
         <content type="html"><![CDATA[(datasette.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
-        <id>https://blog.relate.kr/shape-up-relate/</id>
-        <link href="https://blog.relate.kr/shape-up-relate/"/>
-        <updated>2022-04-27T23:17:15.357Z</updated>
-        <content type="html"><![CDATA[(blog.relate.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
         <id>https://engineering.ab180.co/stories/productive-review-culture</id>
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
         <updated>2022-04-26T08:18:52.061Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
+        <id>https://blog.relate.kr/shape-up-relate/</id>
+        <link href="https://blog.relate.kr/shape-up-relate/"/>
+        <updated>2022-04-27T23:17:15.357Z</updated>
+        <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
 </feed>
