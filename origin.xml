@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-02T23:16:15.665Z</updated>
+    <updated>2022-05-03T01:15:21.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fleet - Rust용 빠른 빌드 도구]]></title>
+        <id>https://github.com/dimensionhq/fleet</id>
+        <link href="https://github.com/dimensionhq/fleet"/>
+        <updated>2022-05-03T01:14:46.524Z</updated>
+        <content type="html"><![CDATA[(github.com/dimensionhq)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reloadium - Advanced Hot Reloading for Python]]></title>
+        <id>https://github.com/reloadware/reloadium</id>
+        <link href="https://github.com/reloadware/reloadium"/>
+        <updated>2022-05-03T01:14:46.524Z</updated>
+        <content type="html"><![CDATA[(github.com/reloadware)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
         <id>https://news.ycombinator.com/item?id=31218268</id>
         <link href="https://news.ycombinator.com/item?id=31218268"/>
         <updated>2022-05-02T03:52:53.558Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luckysheet - JS 스프레드시트 라이브러리 오픈소스]]></title>
+        <id>https://github.com/mengshukeji/Luckysheet</id>
+        <link href="https://github.com/mengshukeji/Luckysheet"/>
+        <updated>2022-05-03T01:14:46.524Z</updated>
+        <content type="html"><![CDATA[(github.com/mengshukeji)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
@@ -90,18 +111,18 @@
         <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
-        <id>https://github.com/avajs/ava-docs/pull/75</id>
-        <link href="https://github.com/avajs/ava-docs/pull/75"/>
-        <updated>2022-04-30T15:15:19.009Z</updated>
-        <content type="html"><![CDATA[(github.com/avajs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
         <id>https://engineering.ab180.co/stories/productive-review-culture</id>
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
         <updated>2022-04-26T08:18:52.061Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
+        <id>https://github.com/avajs/ava-docs/pull/75</id>
+        <link href="https://github.com/avajs/ava-docs/pull/75"/>
+        <updated>2022-04-30T15:15:19.009Z</updated>
+        <content type="html"><![CDATA[(github.com/avajs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
@@ -123,26 +144,5 @@
         <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
         <updated>2022-04-29T09:16:10.830Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
-        <id>https://pixy.com/</id>
-        <link href="https://pixy.com/"/>
-        <updated>2022-05-02T15:16:40.096Z</updated>
-        <content type="html"><![CDATA[(pixy.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bore - 로컬호스트와 서버간에 TCP터널을 연결해주는 CLI 도구]]></title>
-        <id>https://github.com/ekzhang/bore</id>
-        <link href="https://github.com/ekzhang/bore"/>
-        <updated>2022-05-02T15:16:40.097Z</updated>
-        <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
-        <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
-        <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
-        <updated>2022-05-02T18:18:25.486Z</updated>
-        <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
 </feed>
