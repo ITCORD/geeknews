@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-04T11:13:37.675Z</updated>
+    <updated>2022-05-04T12:31:24.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(blog.indentcorp.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OPT - Meta가 공개한 GPT-3 규모(175B)의 언어 모델]]></title>
+        <id>https://arxiv.org/abs/2205.01068</id>
+        <link href="https://arxiv.org/abs/2205.01068"/>
+        <updated>2022-05-04T04:28:28.463Z</updated>
+        <content type="html"><![CDATA[(arxiv.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다.]]></title>
         <id>https://zaplib.com/docs/blog_post_mortem.html</id>
         <link href="https://zaplib.com/docs/blog_post_mortem.html"/>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[(technologyreview.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OPT - Meta가 공개한 GPT-3 규모(175B)의 언어 모델]]></title>
-        <id>https://arxiv.org/abs/2205.01068</id>
-        <link href="https://arxiv.org/abs/2205.01068"/>
-        <updated>2022-05-04T04:28:28.463Z</updated>
-        <content type="html"><![CDATA[(arxiv.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reloadium - Advanced Hot Reloading for Python]]></title>
         <id>https://github.com/reloadware/reloadium</id>
         <link href="https://github.com/reloadware/reloadium"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(github.com/reloadware)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인도, RISC-V CPU 로드맵 발표 및 2023년 제품 출시 예정]]></title>
-        <id>https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621</id>
-        <link href="https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621"/>
-        <updated>2022-05-04T03:23:11.457Z</updated>
-        <content type="html"><![CDATA[(pib.gov.in)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Luckysheet - JS 스프레드시트 라이브러리 오픈소스]]></title>
         <id>https://github.com/mengshukeji/Luckysheet</id>
         <link href="https://github.com/mengshukeji/Luckysheet"/>
         <updated>2022-05-03T01:14:46.524Z</updated>
         <content type="html"><![CDATA[(github.com/mengshukeji)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도, RISC-V CPU 로드맵 발표 및 2023년 제품 출시 예정]]></title>
+        <id>https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621</id>
+        <link href="https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621"/>
+        <updated>2022-05-04T03:23:11.457Z</updated>
+        <content type="html"><![CDATA[(pib.gov.in)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
