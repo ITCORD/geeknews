@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-05T10:17:43.641Z</updated>
+    <updated>2022-05-05T11:14:02.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[magic-trace - 프로세스 동작을 고해상도로 추적하는 도구]]></title>
-        <id>https://github.com/janestreet/magic-trace</id>
-        <link href="https://github.com/janestreet/magic-trace"/>
-        <updated>2022-05-05T01:12:25.765Z</updated>
-        <content type="html"><![CDATA[(github.com/janestreet)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Luckysheet - JS 스프레드시트 라이브러리 오픈소스]]></title>
         <id>https://github.com/mengshukeji/Luckysheet</id>
         <link href="https://github.com/mengshukeji/Luckysheet"/>
@@ -81,6 +74,13 @@
         <link href="https://github.com/reloadware/reloadium"/>
         <updated>2022-05-03T01:14:46.524Z</updated>
         <content type="html"><![CDATA[(github.com/reloadware)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[magic-trace - 프로세스 동작을 고해상도로 추적하는 도구]]></title>
+        <id>https://github.com/janestreet/magic-trace</id>
+        <link href="https://github.com/janestreet/magic-trace"/>
+        <updated>2022-05-05T01:12:25.765Z</updated>
+        <content type="html"><![CDATA[(github.com/janestreet)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wireit - npm 스크립트를 더 똑똑하고 효율적으로 업그레이드]]></title>
