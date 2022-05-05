@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-05T01:13:02.381Z</updated>
+    <updated>2022-05-05T03:20:25.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
+        <id>https://github.com/qovery/replibyte</id>
+        <link href="https://github.com/qovery/replibyte"/>
+        <updated>2022-05-04T03:23:11.450Z</updated>
+        <content type="html"><![CDATA[(github.com/qovery)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[magic-trace - 프로세스 동작을 고해상도로 추적하는 도구]]></title>
         <id>https://github.com/janestreet/magic-trace</id>
         <link href="https://github.com/janestreet/magic-trace"/>
@@ -32,13 +39,6 @@
         <link href="https://github.com/google/wireit"/>
         <updated>2022-05-05T01:12:25.765Z</updated>
         <content type="html"><![CDATA[(github.com/google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
-        <id>https://github.com/qovery/replibyte</id>
-        <link href="https://github.com/qovery/replibyte"/>
-        <updated>2022-05-04T03:23:11.450Z</updated>
-        <content type="html"><![CDATA[(github.com/qovery)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머 이력서와 코딩 과제, 검토자는 무얼볼까?]]></title>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
+        <id>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</id>
+        <link href="https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html"/>
+        <updated>2022-05-02T01:10:39.106Z</updated>
+        <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reloadium - Advanced Hot Reloading for Python]]></title>
         <id>https://github.com/reloadware/reloadium</id>
         <link href="https://github.com/reloadware/reloadium"/>
@@ -81,13 +88,6 @@
         <link href="https://github.com/mengshukeji/Luckysheet"/>
         <updated>2022-05-03T01:14:46.524Z</updated>
         <content type="html"><![CDATA[(github.com/mengshukeji)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
-        <id>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</id>
-        <link href="https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html"/>
-        <updated>2022-05-02T01:10:39.106Z</updated>
-        <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OPT - Meta가 공개한 GPT-3 규모(175B)의 언어 모델]]></title>
@@ -138,10 +138,10 @@
         <updated>2022-05-03T08:19:11.486Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인도, RISC-V CPU 로드맵 발표 및 2023년 제품 출시 예정]]></title>
-        <id>https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621</id>
-        <link href="https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621"/>
-        <updated>2022-05-04T03:23:11.457Z</updated>
-        <content type="html"><![CDATA[(pib.gov.in)]]></content>
+        <title type="html"><![CDATA[투자자들이 기대하는 훌륭한 성장률은 얼마일까]]></title>
+        <id>https://www.lennysnewsletter.com/p/what-is-a-good-growth-rate</id>
+        <link href="https://www.lennysnewsletter.com/p/what-is-a-good-growth-rate"/>
+        <updated>2022-05-05T03:19:49.370Z</updated>
+        <content type="html"><![CDATA[(lennysnewsletter.com)]]></content>
     </entry>
 </feed>
