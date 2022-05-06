@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-06T13:32:18.782Z</updated>
+    <updated>2022-05-06T14:16:12.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(meticulous.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft 3D Movie Maker 소스코드]]></title>
-        <id>https://github.com/microsoft/Microsoft-3D-Movie-Maker</id>
-        <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
-        <updated>2022-05-06T03:03:36.468Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[번아웃 예방하기 : 관리자를 위한 툴킷]]></title>
         <id>https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/</id>
         <link href="https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/"/>
         <updated>2022-05-04T03:23:11.450Z</updated>
         <content type="html"><![CDATA[(about.gitlab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 3D Movie Maker 소스코드]]></title>
+        <id>https://github.com/microsoft/Microsoft-3D-Movie-Maker</id>
+        <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
+        <updated>2022-05-06T03:03:36.468Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(github.com/Nozbe)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다.]]></title>
-        <id>https://zaplib.com/docs/blog_post_mortem.html</id>
-        <link href="https://zaplib.com/docs/blog_post_mortem.html"/>
-        <updated>2022-05-03T08:19:11.457Z</updated>
-        <content type="html"><![CDATA[(zaplib.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
         <id>https://news.ycombinator.com/item?id=31218268</id>
         <link href="https://news.ycombinator.com/item?id=31218268"/>
@@ -116,6 +109,13 @@
         <link href="https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html"/>
         <updated>2022-05-02T01:10:39.106Z</updated>
         <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다.]]></title>
+        <id>https://zaplib.com/docs/blog_post_mortem.html</id>
+        <link href="https://zaplib.com/docs/blog_post_mortem.html"/>
+        <updated>2022-05-03T08:19:11.457Z</updated>
+        <content type="html"><![CDATA[(zaplib.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
