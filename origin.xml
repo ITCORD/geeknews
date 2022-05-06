@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-06T14:16:12.261Z</updated>
+    <updated>2022-05-06T15:16:54.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,12 @@
         <content type="html"><![CDATA[(meticulous.ai)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6502</id>
+        <link href="https://news.hada.io/topic?id=6502"/>
+        <updated>2022-05-06T15:16:14.077Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[번아웃 예방하기 : 관리자를 위한 툴킷]]></title>
         <id>https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/</id>
         <link href="https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/"/>
@@ -55,18 +61,18 @@
         <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft 3D Movie Maker 소스코드]]></title>
-        <id>https://github.com/microsoft/Microsoft-3D-Movie-Maker</id>
-        <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
-        <updated>2022-05-06T03:03:36.468Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
         <id>https://github.com/qovery/replibyte</id>
         <link href="https://github.com/qovery/replibyte"/>
         <updated>2022-05-04T03:23:11.450Z</updated>
         <content type="html"><![CDATA[(github.com/qovery)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 3D Movie Maker 소스코드]]></title>
+        <id>https://github.com/microsoft/Microsoft-3D-Movie-Maker</id>
+        <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
+        <updated>2022-05-06T03:03:36.468Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[magic-trace - 프로세스 동작을 고해상도로 추적하는 도구]]></title>
@@ -137,12 +143,5 @@
         <link href="https://github.com/reloadware/reloadium"/>
         <updated>2022-05-03T01:14:46.524Z</updated>
         <content type="html"><![CDATA[(github.com/reloadware)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPT - Meta가 공개한 GPT-3 규모(175B)의 언어 모델]]></title>
-        <id>https://arxiv.org/abs/2205.01068</id>
-        <link href="https://arxiv.org/abs/2205.01068"/>
-        <updated>2022-05-04T04:28:28.463Z</updated>
-        <content type="html"><![CDATA[(arxiv.org)]]></content>
     </entry>
 </feed>
