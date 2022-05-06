@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-06T21:14:05.057Z</updated>
+    <updated>2022-05-06T22:15:17.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(atlassian.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haskell을 Production에서 사용중인 회사들]]></title>
-        <id>https://serokell.io/blog/top-software-written-in-haskell</id>
-        <link href="https://serokell.io/blog/top-software-written-in-haskell"/>
-        <updated>2022-05-06T01:04:28.567Z</updated>
-        <content type="html"><![CDATA[(serokell.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[초보자를 위한 Axios vs Fetch]]></title>
         <id>https://meticulous.ai/blog/fetch-vs-axios/</id>
         <link href="https://meticulous.ai/blog/fetch-vs-axios/"/>
         <updated>2022-05-05T01:12:25.765Z</updated>
         <content type="html"><![CDATA[(meticulous.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell을 Production에서 사용중인 회사들]]></title>
+        <id>https://serokell.io/blog/top-software-written-in-haskell</id>
+        <link href="https://serokell.io/blog/top-software-written-in-haskell"/>
+        <updated>2022-05-06T01:04:28.567Z</updated>
+        <content type="html"><![CDATA[(serokell.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[번아웃 예방하기 : 관리자를 위한 툴킷]]></title>
