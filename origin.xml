@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-06T23:15:53.087Z</updated>
+    <updated>2022-05-07T01:07:26.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://news.ycombinator.com/item?id=31230903"/>
         <updated>2022-05-06T03:03:36.465Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젤다 클래식을 웹으로 포팅하기]]></title>
+        <id>https://hoten.cc/blog/porting-zelda-classic-to-the-web/</id>
+        <link href="https://hoten.cc/blog/porting-zelda-classic-to-the-web/"/>
+        <updated>2022-05-07T01:06:47.814Z</updated>
+        <content type="html"><![CDATA[(hoten.cc)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frappe - 인터랙티브 Gantt 차트 오픈소스]]></title>
+        <id>https://frappe.io/gantt</id>
+        <link href="https://frappe.io/gantt"/>
+        <updated>2022-05-07T01:06:47.830Z</updated>
+        <content type="html"><![CDATA[(frappe.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knex.js - 멀티DB용 SQL 쿼리 빌더 for Node.js]]></title>
+        <id>https://github.com/knex/knex</id>
+        <link href="https://github.com/knex/knex"/>
+        <updated>2022-05-07T01:06:47.830Z</updated>
+        <content type="html"><![CDATA[(github.com/knex)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite를 Primary DB로 사용해보신 분?]]></title>
@@ -122,26 +143,5 @@
         <link href="https://zaplib.com/docs/blog_post_mortem.html"/>
         <updated>2022-05-03T08:19:11.457Z</updated>
         <content type="html"><![CDATA[(zaplib.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
-        <id>https://pyscript.net/</id>
-        <link href="https://pyscript.net/"/>
-        <updated>2022-05-02T03:52:53.558Z</updated>
-        <content type="html"><![CDATA[(pyscript.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luckysheet - JS 스프레드시트 라이브러리 오픈소스]]></title>
-        <id>https://github.com/mengshukeji/Luckysheet</id>
-        <link href="https://github.com/mengshukeji/Luckysheet"/>
-        <updated>2022-05-03T01:14:46.524Z</updated>
-        <content type="html"><![CDATA[(github.com/mengshukeji)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reloadium - Advanced Hot Reloading for Python]]></title>
-        <id>https://github.com/reloadware/reloadium</id>
-        <link href="https://github.com/reloadware/reloadium"/>
-        <updated>2022-05-03T01:14:46.524Z</updated>
-        <content type="html"><![CDATA[(github.com/reloadware)]]></content>
     </entry>
 </feed>
