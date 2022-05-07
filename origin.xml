@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-07T01:07:26.552Z</updated>
+    <updated>2022-05-07T02:59:10.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[우아한 소프트웨어를 예로 들때 가장 좋아하는 것은 ?]]></title>
-        <id>https://news.ycombinator.com/item?id=31230903</id>
-        <link href="https://news.ycombinator.com/item?id=31230903"/>
-        <updated>2022-05-06T03:03:36.465Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[젤다 클래식을 웹으로 포팅하기]]></title>
         <id>https://hoten.cc/blog/porting-zelda-classic-to-the-web/</id>
@@ -32,6 +25,13 @@
         <link href="https://github.com/knex/knex"/>
         <updated>2022-05-07T01:06:47.830Z</updated>
         <content type="html"><![CDATA[(github.com/knex)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우아한 소프트웨어를 예로 들때 가장 좋아하는 것은 ?]]></title>
+        <id>https://news.ycombinator.com/item?id=31230903</id>
+        <link href="https://news.ycombinator.com/item?id=31230903"/>
+        <updated>2022-05-06T03:03:36.465Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite를 Primary DB로 사용해보신 분?]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(blog.indentcorp.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[magic-trace - 프로세스 동작을 고해상도로 추적하는 도구]]></title>
+        <id>https://github.com/janestreet/magic-trace</id>
+        <link href="https://github.com/janestreet/magic-trace"/>
+        <updated>2022-05-05T01:12:25.765Z</updated>
+        <content type="html"><![CDATA[(github.com/janestreet)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=6502</id>
         <link href="https://news.hada.io/topic?id=6502"/>
@@ -101,13 +108,6 @@
         <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
         <updated>2022-05-06T03:03:36.468Z</updated>
         <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[magic-trace - 프로세스 동작을 고해상도로 추적하는 도구]]></title>
-        <id>https://github.com/janestreet/magic-trace</id>
-        <link href="https://github.com/janestreet/magic-trace"/>
-        <updated>2022-05-05T01:12:25.765Z</updated>
-        <content type="html"><![CDATA[(github.com/janestreet)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wireit - npm 스크립트를 더 똑똑하고 효율적으로 업그레이드]]></title>
