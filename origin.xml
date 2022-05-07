@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-07T04:19:01.412Z</updated>
+    <updated>2022-05-07T05:13:51.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haskell을 Production에서 사용중인 회사들]]></title>
-        <id>https://serokell.io/blog/top-software-written-in-haskell</id>
-        <link href="https://serokell.io/blog/top-software-written-in-haskell"/>
-        <updated>2022-05-06T01:04:28.567Z</updated>
-        <content type="html"><![CDATA[(serokell.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
         <id>https://github.com/qovery/replibyte</id>
         <link href="https://github.com/qovery/replibyte"/>
         <updated>2022-05-04T03:23:11.450Z</updated>
         <content type="html"><![CDATA[(github.com/qovery)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell을 Production에서 사용중인 회사들]]></title>
+        <id>https://serokell.io/blog/top-software-written-in-haskell</id>
+        <link href="https://serokell.io/blog/top-software-written-in-haskell"/>
+        <updated>2022-05-06T01:04:28.567Z</updated>
+        <content type="html"><![CDATA[(serokell.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머 이력서와 코딩 과제, 검토자는 무얼볼까?]]></title>
