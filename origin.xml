@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-07T10:17:19.243Z</updated>
+    <updated>2022-05-07T11:13:18.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,12 +118,6 @@
         <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6502</id>
-        <link href="https://news.hada.io/topic?id=6502"/>
-        <updated>2022-05-06T15:16:14.077Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크]]></title>
         <id>https://github.com/Nozbe/WatermelonDB</id>
         <link href="https://github.com/Nozbe/WatermelonDB"/>
@@ -143,5 +137,11 @@
         <link href="https://github.com/google/wireit"/>
         <updated>2022-05-07T09:14:08.821Z</updated>
         <content type="html"><![CDATA[(github.com/google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6502</id>
+        <link href="https://news.hada.io/topic?id=6502"/>
+        <updated>2022-05-06T15:16:14.077Z</updated>
     </entry>
 </feed>
