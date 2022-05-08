@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-07T23:15:19.381Z</updated>
+    <updated>2022-05-08T01:07:02.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 회사에 84년간 근무해서 세계 기록을 세운 100세의 브라질인]]></title>
+        <id>https://www.guinnessworldrecords.com/news/2022/4/100-year-old-brazilian-breaks-record-after-84-years-at-same-company-701664</id>
+        <link href="https://www.guinnessworldrecords.com/news/2022/4/100-year-old-brazilian-breaks-record-after-84-years-at-same-company-701664"/>
+        <updated>2022-05-08T01:06:24.129Z</updated>
+        <content type="html"><![CDATA[(guinnessworldrecords.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFlex - 모든 JS프레임워크를 위한 Drag-n-Drop 라이브러리]]></title>
+        <id>https://github.com/dflex-js/dflex</id>
+        <link href="https://github.com/dflex-js/dflex"/>
+        <updated>2022-05-08T01:06:24.129Z</updated>
+        <content type="html"><![CDATA[(github.com/dflex-js)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSPyBridge - Node.js와 Python의 상호운용을 위한 브릿지]]></title>
+        <id>https://github.com/extremeheat/JSPyBridge</id>
+        <link href="https://github.com/extremeheat/JSPyBridge"/>
+        <updated>2022-05-08T01:06:24.129Z</updated>
+        <content type="html"><![CDATA[(github.com/extremeheat)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젤다 클래식을 웹으로 포팅하기]]></title>
         <id>https://hoten.cc/blog/porting-zelda-classic-to-the-web/</id>
@@ -69,18 +90,18 @@
         <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초보자를 위한 Axios vs Fetch]]></title>
-        <id>https://meticulous.ai/blog/fetch-vs-axios/</id>
-        <link href="https://meticulous.ai/blog/fetch-vs-axios/"/>
-        <updated>2022-05-05T01:12:25.765Z</updated>
-        <content type="html"><![CDATA[(meticulous.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
         <id>https://github.com/qovery/replibyte</id>
         <link href="https://github.com/qovery/replibyte"/>
         <updated>2022-05-04T03:23:11.450Z</updated>
         <content type="html"><![CDATA[(github.com/qovery)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초보자를 위한 Axios vs Fetch]]></title>
+        <id>https://meticulous.ai/blog/fetch-vs-axios/</id>
+        <link href="https://meticulous.ai/blog/fetch-vs-axios/"/>
+        <updated>2022-05-05T01:12:25.765Z</updated>
+        <content type="html"><![CDATA[(meticulous.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머 이력서와 코딩 과제, 검토자는 무얼볼까?]]></title>
@@ -123,26 +144,5 @@
         <link href="https://zaplib.com/docs/blog_post_mortem.html"/>
         <updated>2022-05-03T08:19:11.457Z</updated>
         <content type="html"><![CDATA[(zaplib.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크]]></title>
-        <id>https://github.com/Nozbe/WatermelonDB</id>
-        <link href="https://github.com/Nozbe/WatermelonDB"/>
-        <updated>2022-05-04T01:11:50.748Z</updated>
-        <content type="html"><![CDATA[(github.com/Nozbe)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
-        <id>https://pyscript.net/</id>
-        <link href="https://pyscript.net/"/>
-        <updated>2022-05-07T14:13:40.870Z</updated>
-        <content type="html"><![CDATA[(pyscript.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wireit - npm 스크립트를 더 똑똑하고 효율적으로 업그레이드]]></title>
-        <id>https://github.com/google/wireit</id>
-        <link href="https://github.com/google/wireit"/>
-        <updated>2022-05-07T09:14:08.821Z</updated>
-        <content type="html"><![CDATA[(github.com/google)]]></content>
     </entry>
 </feed>
