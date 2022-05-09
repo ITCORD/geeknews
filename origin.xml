@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-09T07:16:37.189Z</updated>
+    <updated>2022-05-09T08:20:03.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
+        <id>https://news.hada.io/topic?id=6516</id>
+        <link href="https://news.hada.io/topic?id=6516"/>
+        <updated>2022-05-09T06:22:25.498Z</updated>
+        <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패스워드 없는 미래가 오고 있다]]></title>
         <id>https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/</id>
@@ -18,6 +25,12 @@
         <link href="https://noted.lol/what-are-your-most-used-self-hosted-applications/"/>
         <updated>2022-05-09T01:09:51.632Z</updated>
         <content type="html"><![CDATA[(noted.lol)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 1년 이상 지난 GN News 중 가장 인상깊었던 뉴스는 무엇인가요?]]></title>
+        <id>https://news.hada.io/topic?id=6517</id>
+        <link href="https://news.hada.io/topic?id=6517"/>
+        <updated>2022-05-09T08:19:25.647Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[GAN을 만들었던 애플 머신러닝 디렉터, 사무실 출근 정책에 반발하여 퇴사]]></title>
@@ -41,25 +54,11 @@
         <content type="html"><![CDATA[(material.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
-        <id>https://news.hada.io/topic?id=6516</id>
-        <link href="https://news.hada.io/topic?id=6516"/>
-        <updated>2022-05-09T06:22:25.498Z</updated>
-        <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DFlex - 모든 JS프레임워크를 위한 Drag-n-Drop 라이브러리]]></title>
         <id>https://github.com/dflex-js/dflex</id>
         <link href="https://github.com/dflex-js/dflex"/>
         <updated>2022-05-08T01:06:24.129Z</updated>
         <content type="html"><![CDATA[(github.com/dflex-js)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 프로젝트의 Cash Flow]]></title>
-        <id>https://ansubin.com/nft-tokenomics-2/</id>
-        <link href="https://ansubin.com/nft-tokenomics-2/"/>
-        <updated>2022-05-09T03:19:09.016Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JSPyBridge - Node.js와 Python의 상호운용을 위한 브릿지]]></title>
@@ -74,6 +73,13 @@
         <link href="https://hoten.cc/blog/porting-zelda-classic-to-the-web/"/>
         <updated>2022-05-07T01:06:47.814Z</updated>
         <content type="html"><![CDATA[(hoten.cc)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 프로젝트의 Cash Flow]]></title>
+        <id>https://ansubin.com/nft-tokenomics-2/</id>
+        <link href="https://ansubin.com/nft-tokenomics-2/"/>
+        <updated>2022-05-09T03:19:09.016Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우아한 소프트웨어를 예로 들때 가장 좋아하는 것은 ?]]></title>
@@ -137,12 +143,5 @@
         <link href="https://meticulous.ai/blog/fetch-vs-axios/"/>
         <updated>2022-05-05T01:12:25.765Z</updated>
         <content type="html"><![CDATA[(meticulous.ai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knex.js - 멀티DB용 SQL 쿼리 빌더 for Node.js]]></title>
-        <id>https://github.com/knex/knex</id>
-        <link href="https://github.com/knex/knex"/>
-        <updated>2022-05-09T04:28:16.637Z</updated>
-        <content type="html"><![CDATA[(github.com/knex)]]></content>
     </entry>
 </feed>
