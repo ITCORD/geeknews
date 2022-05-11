@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-11T08:21:47.783Z</updated>
+    <updated>2022-05-11T09:16:07.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(dji.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 클라우드, Cloud TPU VM을 일반 공급(GA)]]></title>
-        <id>https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available</id>
-        <link href="https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available"/>
-        <updated>2022-05-11T01:20:17.583Z</updated>
-        <content type="html"><![CDATA[(cloud.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
         <id>https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html</id>
         <link href="https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"/>
@@ -60,6 +53,13 @@
         <link href="https://news.hada.io/topic?id=6516"/>
         <updated>2022-05-09T06:22:25.498Z</updated>
         <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 클라우드, Cloud TPU VM을 일반 공급(GA)]]></title>
+        <id>https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available</id>
+        <link href="https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available"/>
+        <updated>2022-05-11T01:20:17.583Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
