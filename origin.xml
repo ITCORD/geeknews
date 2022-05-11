@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-11T06:23:32.254Z</updated>
+    <updated>2022-05-11T07:17:16.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(thehustle.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DJI, Mini 3 Pro 출시]]></title>
+        <id>https://www.dji.com/kr/mini-3-pro</id>
+        <link href="https://www.dji.com/kr/mini-3-pro"/>
+        <updated>2022-05-11T03:22:35.577Z</updated>
+        <content type="html"><![CDATA[(dji.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 클라우드, Cloud TPU VM을 일반 공급(GA)]]></title>
         <id>https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available</id>
         <link href="https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available"/>
@@ -62,13 +69,6 @@
         <content type="html"><![CDATA[(noted.lol)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DJI, Mini 3 Pro 출시]]></title>
-        <id>https://www.dji.com/kr/mini-3-pro</id>
-        <link href="https://www.dji.com/kr/mini-3-pro"/>
-        <updated>2022-05-11T03:22:35.577Z</updated>
-        <content type="html"><![CDATA[(dji.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
         <id>https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/</id>
         <link href="https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/"/>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
-        <id>https://github.com/charmbracelet/bubbletea</id>
-        <link href="https://github.com/charmbracelet/bubbletea"/>
-        <updated>2022-05-11T01:20:17.581Z</updated>
-        <content type="html"><![CDATA[(github.com/charmbracelet)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[패스워드 없는 미래가 오고 있다]]></title>
         <id>https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/</id>
         <link href="https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/"/>
         <updated>2022-05-09T01:09:51.616Z</updated>
         <content type="html"><![CDATA[(fidoalliance.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
+        <id>https://github.com/charmbracelet/bubbletea</id>
+        <link href="https://github.com/charmbracelet/bubbletea"/>
+        <updated>2022-05-11T01:20:17.581Z</updated>
+        <content type="html"><![CDATA[(github.com/charmbracelet)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 1년 이상 지난 GN News 중 가장 인상깊었던 뉴스는 무엇인가요?]]></title>
