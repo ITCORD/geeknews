@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-11T13:38:31.867Z</updated>
+    <updated>2022-05-11T14:15:44.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
-        <id>https://news.hada.io/topic?id=6516</id>
-        <link href="https://news.hada.io/topic?id=6516"/>
-        <updated>2022-05-09T06:22:25.498Z</updated>
-        <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
         <id>https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html</id>
         <link href="https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"/>
         <updated>2022-05-10T02:47:16.292Z</updated>
         <content type="html"><![CDATA[(raphlinus.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
+        <id>https://news.hada.io/topic?id=6516</id>
+        <link href="https://news.hada.io/topic?id=6516"/>
+        <updated>2022-05-09T06:22:25.498Z</updated>
+        <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[(noted.lol)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SGTS - 싱가폴 정부 테크 스택]]></title>
+        <id>https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html</id>
+        <link href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html"/>
+        <updated>2022-05-10T02:47:16.293Z</updated>
+        <content type="html"><![CDATA[(developer.tech.gov.sg)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플 iPod 단종 - The music lives on]]></title>
         <id>https://www.apple.com/newsroom/2022/05/the-music-lives-on/</id>
         <link href="https://www.apple.com/newsroom/2022/05/the-music-lives-on/"/>
@@ -83,11 +90,10 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SGTS - 싱가폴 정부 테크 스택]]></title>
-        <id>https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html</id>
-        <link href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html"/>
-        <updated>2022-05-10T02:47:16.293Z</updated>
-        <content type="html"><![CDATA[(developer.tech.gov.sg)]]></content>
+        <title type="html"><![CDATA[Ask GN: 1년 이상 지난 GN News 중 가장 인상깊었던 뉴스는 무엇인가요?]]></title>
+        <id>https://news.hada.io/topic?id=6517</id>
+        <link href="https://news.hada.io/topic?id=6517"/>
+        <updated>2022-05-09T08:19:25.647Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
@@ -102,12 +108,6 @@
         <link href="https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/"/>
         <updated>2022-05-09T01:09:51.616Z</updated>
         <content type="html"><![CDATA[(fidoalliance.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 1년 이상 지난 GN News 중 가장 인상깊었던 뉴스는 무엇인가요?]]></title>
-        <id>https://news.hada.io/topic?id=6517</id>
-        <link href="https://news.hada.io/topic?id=6517"/>
-        <updated>2022-05-09T08:19:25.647Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windmill - 파이썬 기반 회사 내부용 앱 작성 및 자동화 플랫폼 오픈소스]]></title>
