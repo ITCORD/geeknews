@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-11T15:17:17.947Z</updated>
+    <updated>2022-05-11T16:23:34.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,11 +48,25 @@
         <content type="html"><![CDATA[(github.com/charmbracelet)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
+        <id>https://news.hada.io/topic?id=6516</id>
+        <link href="https://news.hada.io/topic?id=6516"/>
+        <updated>2022-05-09T06:22:25.498Z</updated>
+        <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
         <id>https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html</id>
         <link href="https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"/>
         <updated>2022-05-10T02:47:16.292Z</updated>
         <content type="html"><![CDATA[(raphlinus.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
+        <id>https://noted.lol/what-are-your-most-used-self-hosted-applications/</id>
+        <link href="https://noted.lol/what-are-your-most-used-self-hosted-applications/"/>
+        <updated>2022-05-09T01:09:51.632Z</updated>
+        <content type="html"><![CDATA[(noted.lol)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 클라우드, Cloud TPU VM을 일반 공급(GA)]]></title>
@@ -62,18 +76,25 @@
         <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
-        <id>https://news.hada.io/topic?id=6516</id>
-        <link href="https://news.hada.io/topic?id=6516"/>
-        <updated>2022-05-09T06:22:25.498Z</updated>
-        <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
+        <title type="html"><![CDATA[애플 iPod 단종 - The music lives on]]></title>
+        <id>https://www.apple.com/newsroom/2022/05/the-music-lives-on/</id>
+        <link href="https://www.apple.com/newsroom/2022/05/the-music-lives-on/"/>
+        <updated>2022-05-11T01:20:17.586Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
-        <id>https://noted.lol/what-are-your-most-used-self-hosted-applications/</id>
-        <link href="https://noted.lol/what-are-your-most-used-self-hosted-applications/"/>
-        <updated>2022-05-09T01:09:51.632Z</updated>
-        <content type="html"><![CDATA[(noted.lol)]]></content>
+        <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
+        <id>https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/</id>
+        <link href="https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/"/>
+        <updated>2022-05-10T02:47:16.308Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패스워드 없는 미래가 오고 있다]]></title>
+        <id>https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/</id>
+        <link href="https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/"/>
+        <updated>2022-05-09T01:09:51.616Z</updated>
+        <content type="html"><![CDATA[(fidoalliance.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SGTS - 싱가폴 정부 테크 스택]]></title>
@@ -87,27 +108,6 @@
         <id>https://news.hada.io/topic?id=6517</id>
         <link href="https://news.hada.io/topic?id=6517"/>
         <updated>2022-05-09T08:19:25.647Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패스워드 없는 미래가 오고 있다]]></title>
-        <id>https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/</id>
-        <link href="https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/"/>
-        <updated>2022-05-09T01:09:51.616Z</updated>
-        <content type="html"><![CDATA[(fidoalliance.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
-        <id>https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/</id>
-        <link href="https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/"/>
-        <updated>2022-05-10T02:47:16.308Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 iPod 단종 - The music lives on]]></title>
-        <id>https://www.apple.com/newsroom/2022/05/the-music-lives-on/</id>
-        <link href="https://www.apple.com/newsroom/2022/05/the-music-lives-on/"/>
-        <updated>2022-05-11T01:20:17.586Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windmill - 파이썬 기반 회사 내부용 앱 작성 및 자동화 플랫폼 오픈소스]]></title>
@@ -124,18 +124,18 @@
         <content type="html"><![CDATA[(github.com/dflex-js)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젤다 클래식을 웹으로 포팅하기]]></title>
-        <id>https://hoten.cc/blog/porting-zelda-classic-to-the-web/</id>
-        <link href="https://hoten.cc/blog/porting-zelda-classic-to-the-web/"/>
-        <updated>2022-05-07T01:06:47.814Z</updated>
-        <content type="html"><![CDATA[(hoten.cc)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글, 커스터마이징 가능한 Roboto Flex 폰트 공개]]></title>
         <id>https://material.io/blog/roboto-flex</id>
         <link href="https://material.io/blog/roboto-flex"/>
         <updated>2022-05-11T13:37:48.837Z</updated>
         <content type="html"><![CDATA[(material.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젤다 클래식을 웹으로 포팅하기]]></title>
+        <id>https://hoten.cc/blog/porting-zelda-classic-to-the-web/</id>
+        <link href="https://hoten.cc/blog/porting-zelda-classic-to-the-web/"/>
+        <updated>2022-05-07T01:06:47.814Z</updated>
+        <content type="html"><![CDATA[(hoten.cc)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우아한 소프트웨어를 예로 들때 가장 좋아하는 것은 ?]]></title>
