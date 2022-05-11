@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-11T21:14:15.712Z</updated>
+    <updated>2022-05-11T22:15:22.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about"/>
         <updated>2022-05-11T01:20:17.568Z</updated>
         <content type="html"><![CDATA[(fourth-wall.co.uk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></title>
+        <id>https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/</id>
+        <link href="https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"/>
+        <updated>2022-05-11T22:14:45.599Z</updated>
+        <content type="html"><![CDATA[(developer.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple, Google 및 Microsoft와 함께 FIDO 표준 지원 확대 가속화]]></title>
@@ -41,18 +48,18 @@
         <content type="html"><![CDATA[(dji.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
-        <id>https://github.com/charmbracelet/bubbletea</id>
-        <link href="https://github.com/charmbracelet/bubbletea"/>
-        <updated>2022-05-11T01:20:17.581Z</updated>
-        <content type="html"><![CDATA[(github.com/charmbracelet)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
         <id>https://news.hada.io/topic?id=6516</id>
         <link href="https://news.hada.io/topic?id=6516"/>
         <updated>2022-05-09T06:22:25.498Z</updated>
         <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
+        <id>https://github.com/charmbracelet/bubbletea</id>
+        <link href="https://github.com/charmbracelet/bubbletea"/>
+        <updated>2022-05-11T01:20:17.581Z</updated>
+        <content type="html"><![CDATA[(github.com/charmbracelet)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
@@ -136,12 +143,5 @@
         <link href="https://material.io/blog/roboto-flex"/>
         <updated>2022-05-11T13:37:48.837Z</updated>
         <content type="html"><![CDATA[(material.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아한 소프트웨어를 예로 들때 가장 좋아하는 것은 ?]]></title>
-        <id>https://news.ycombinator.com/item?id=31230903</id>
-        <link href="https://news.ycombinator.com/item?id=31230903"/>
-        <updated>2022-05-11T15:16:41.808Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
 </feed>
