@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-12T07:31:18.241Z</updated>
+    <updated>2022-05-12T08:19:36.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(postgresml.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ryan Dahl의 JavaScript Containers에 대한 생각]]></title>
+        <id>https://tinyclouds.org/javascript_containers</id>
+        <link href="https://tinyclouds.org/javascript_containers"/>
+        <updated>2022-05-10T02:47:16.292Z</updated>
+        <content type="html"><![CDATA[(tinyclouds.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></title>
         <id>https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/</id>
         <link href="https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"/>
@@ -60,13 +67,6 @@
         <link href="https://www.apple.com/kr/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/"/>
         <updated>2022-05-11T01:20:17.562Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryan Dahl의 JavaScript Containers에 대한 생각]]></title>
-        <id>https://tinyclouds.org/javascript_containers</id>
-        <link href="https://tinyclouds.org/javascript_containers"/>
-        <updated>2022-05-10T02:47:16.292Z</updated>
-        <content type="html"><![CDATA[(tinyclouds.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기묘한 홀인원 보험 비즈니스의 세계]]></title>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 클라우드, Cloud TPU VM을 일반 공급(GA)]]></title>
-        <id>https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available</id>
-        <link href="https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available"/>
-        <updated>2022-05-11T01:20:17.583Z</updated>
-        <content type="html"><![CDATA[(cloud.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SGTS - 싱가폴 정부 테크 스택]]></title>
         <id>https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html</id>
         <link href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html"/>
         <updated>2022-05-12T05:21:34.938Z</updated>
         <content type="html"><![CDATA[(developer.tech.gov.sg)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 클라우드, Cloud TPU VM을 일반 공급(GA)]]></title>
+        <id>https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available</id>
+        <link href="https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available"/>
+        <updated>2022-05-11T01:20:17.583Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
 </feed>
