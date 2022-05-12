@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-12T18:23:41.024Z</updated>
+    <updated>2022-05-12T19:12:55.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(thehustle.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스]]></title>
-        <id>https://postgresml.org/</id>
-        <link href="https://postgresml.org/"/>
-        <updated>2022-05-12T03:12:29.987Z</updated>
-        <content type="html"><![CDATA[(postgresml.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
         <id>https://news.hada.io/topic?id=6516</id>
         <link href="https://news.hada.io/topic?id=6516"/>
@@ -83,6 +76,13 @@
         <content type="html"><![CDATA[(github.com/charmbracelet)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스]]></title>
+        <id>https://postgresml.org/</id>
+        <link href="https://postgresml.org/"/>
+        <updated>2022-05-12T03:12:29.987Z</updated>
+        <content type="html"><![CDATA[(postgresml.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
         <id>https://noted.lol/what-are-your-most-used-self-hosted-applications/</id>
         <link href="https://noted.lol/what-are-your-most-used-self-hosted-applications/"/>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(noted.lol)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></title>
-        <id>https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/</id>
-        <link href="https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"/>
-        <updated>2022-05-11T22:14:45.599Z</updated>
-        <content type="html"><![CDATA[(developer.nvidia.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
         <id>https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html</id>
         <link href="https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"/>
         <updated>2022-05-10T02:47:16.292Z</updated>
         <content type="html"><![CDATA[(raphlinus.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></title>
+        <id>https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/</id>
+        <link href="https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"/>
+        <updated>2022-05-11T22:14:45.599Z</updated>
+        <content type="html"><![CDATA[(developer.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[패스워드 없는 미래가 오고 있다]]></title>
