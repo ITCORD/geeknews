@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-12T12:30:25.390Z</updated>
+    <updated>2022-05-12T13:42:15.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[(fourth-wall.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스]]></title>
-        <id>https://postgresml.org/</id>
-        <link href="https://postgresml.org/"/>
-        <updated>2022-05-12T03:12:29.987Z</updated>
-        <content type="html"><![CDATA[(postgresml.org)]]></content>
+        <title type="html"><![CDATA[Apple, Google 및 Microsoft와 함께 FIDO 표준 지원 확대 가속화]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/"/>
+        <updated>2022-05-11T01:20:17.562Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ryan Dahl의 JavaScript Containers에 대한 생각]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[(tinyclouds.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, Google 및 Microsoft와 함께 FIDO 표준 지원 확대 가속화]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/"/>
-        <updated>2022-05-11T01:20:17.562Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
+        <title type="html"><![CDATA[PostgresML - ML 모델 훈련 및 예측을 SQL만으로 가능하게 해주는 오픈소스]]></title>
+        <id>https://postgresml.org/</id>
+        <link href="https://postgresml.org/"/>
+        <updated>2022-05-12T03:12:29.987Z</updated>
+        <content type="html"><![CDATA[(postgresml.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기묘한 홀인원 보험 비즈니스의 세계]]></title>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(thehustle.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></title>
-        <id>https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/</id>
-        <link href="https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"/>
-        <updated>2022-05-11T22:14:45.599Z</updated>
-        <content type="html"><![CDATA[(developer.nvidia.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
         <id>https://news.hada.io/topic?id=6516</id>
         <link href="https://news.hada.io/topic?id=6516"/>
@@ -83,11 +76,11 @@
         <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
-        <id>https://github.com/charmbracelet/bubbletea</id>
-        <link href="https://github.com/charmbracelet/bubbletea"/>
-        <updated>2022-05-11T01:20:17.581Z</updated>
-        <content type="html"><![CDATA[(github.com/charmbracelet)]]></content>
+        <title type="html"><![CDATA[Nvidia open source 커널 모듈 드라이버 공개]]></title>
+        <id>https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/</id>
+        <link href="https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"/>
+        <updated>2022-05-11T22:14:45.599Z</updated>
+        <content type="html"><![CDATA[(developer.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
@@ -95,6 +88,13 @@
         <link href="https://noted.lol/what-are-your-most-used-self-hosted-applications/"/>
         <updated>2022-05-09T01:09:51.632Z</updated>
         <content type="html"><![CDATA[(noted.lol)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble Tea - 강력한 TUI 프레임워크]]></title>
+        <id>https://github.com/charmbracelet/bubbletea</id>
+        <link href="https://github.com/charmbracelet/bubbletea"/>
+        <updated>2022-05-11T01:20:17.581Z</updated>
+        <content type="html"><![CDATA[(github.com/charmbracelet)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
