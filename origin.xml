@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-12T22:17:56.571Z</updated>
+    <updated>2022-05-12T23:17:23.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[State of CSS 2022]]></title>
+        <id>https://web.dev/state-of-css-2022/</id>
+        <link href="https://web.dev/state-of-css-2022/"/>
+        <updated>2022-05-12T23:16:44.760Z</updated>
+        <content type="html"><![CDATA[(web.dev)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스를 수익화 하는 법 - Awesome OSS Monetization]]></title>
         <id>https://github.com/PayDevs/awesome-oss-monetization</id>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[trdsql - CSV/JSON 등에 SQL로 쿼리하는 CLI도구]]></title>
-        <id>https://github.com/noborus/trdsql</id>
-        <link href="https://github.com/noborus/trdsql"/>
-        <updated>2022-05-12T01:14:22.853Z</updated>
-        <content type="html"><![CDATA[(github.com/noborus)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[맥 Preview 앱의 잘 안 알려진 기능들]]></title>
         <id>https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about</id>
         <link href="https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about"/>
         <updated>2022-05-11T01:20:17.568Z</updated>
         <content type="html"><![CDATA[(fourth-wall.co.uk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[trdsql - CSV/JSON 등에 SQL로 쿼리하는 CLI도구]]></title>
+        <id>https://github.com/noborus/trdsql</id>
+        <link href="https://github.com/noborus/trdsql"/>
+        <updated>2022-05-12T01:14:22.853Z</updated>
+        <content type="html"><![CDATA[(github.com/noborus)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ryan Dahl의 JavaScript Containers에 대한 생각]]></title>
@@ -136,12 +143,5 @@
         <link href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html"/>
         <updated>2022-05-12T05:21:34.938Z</updated>
         <content type="html"><![CDATA[(developer.tech.gov.sg)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windmill - 파이썬 기반 회사 내부용 앱 작성 및 자동화 플랫폼 오픈소스]]></title>
-        <id>https://windmill.dev/</id>
-        <link href="https://windmill.dev/"/>
-        <updated>2022-05-12T15:16:04.853Z</updated>
-        <content type="html"><![CDATA[(windmill.dev)]]></content>
     </entry>
 </feed>
