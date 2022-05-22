@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-22T17:09:49.075Z</updated>
+    <updated>2022-05-22T17:18:38.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -89,13 +89,6 @@
         <content type="html"><![CDATA[(twitter.com/girdley)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spring for GraphQL 1.0 릴리즈]]></title>
-        <id>https://spring.io/blog/2022/05/19/spring-for-graphql-1-0-release</id>
-        <link href="https://spring.io/blog/2022/05/19/spring-for-graphql-1-0-release"/>
-        <updated>2022-05-22T17:09:06.468Z</updated>
-        <content type="html"><![CDATA[(spring.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[새롭게 업그레이드 된 Framework Laptop 발표]]></title>
         <id>https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646</id>
         <link href="https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646"/>
@@ -108,6 +101,13 @@
         <link href="https://antonz.org/temp-tables/"/>
         <updated>2022-05-22T17:09:06.471Z</updated>
         <content type="html"><![CDATA[(antonz.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring for GraphQL 1.0 릴리즈]]></title>
+        <id>https://spring.io/blog/2022/05/19/spring-for-graphql-1-0-release</id>
+        <link href="https://spring.io/blog/2022/05/19/spring-for-graphql-1-0-release"/>
+        <updated>2022-05-22T17:09:06.468Z</updated>
+        <content type="html"><![CDATA[(spring.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것]]></title>
