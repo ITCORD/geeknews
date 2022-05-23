@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-23T06:21:35.247Z</updated>
+    <updated>2022-05-23T07:17:55.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불경기에 스타트업을 한다는 것 (번역)]]></title>
-        <id>https://ebadak.news/2022/05/21/badeconomy/</id>
-        <link href="https://ebadak.news/2022/05/21/badeconomy/"/>
-        <updated>2022-05-23T01:05:48.197Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub, 마크다운으로 수학식 작성 가능]]></title>
         <id>https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/</id>
         <link href="https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/"/>
@@ -41,11 +34,11 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fontkit - Node & 브라우저용 고급 폰트 엔진]]></title>
-        <id>https://github.com/foliojs/fontkit</id>
-        <link href="https://github.com/foliojs/fontkit"/>
-        <updated>2022-05-22T17:09:06.439Z</updated>
-        <content type="html"><![CDATA[(github.com/foliojs)]]></content>
+        <title type="html"><![CDATA[불경기에 스타트업을 한다는 것 (번역)]]></title>
+        <id>https://ebadak.news/2022/05/21/badeconomy/</id>
+        <link href="https://ebadak.news/2022/05/21/badeconomy/"/>
+        <updated>2022-05-23T01:05:48.197Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kakaotalk Matrix Bridge]]></title>
@@ -53,6 +46,13 @@
         <link href="https://matrix.org/bridges/#kakaotalk"/>
         <updated>2022-05-22T17:09:06.448Z</updated>
         <content type="html"><![CDATA[(matrix.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fontkit - Node & 브라우저용 고급 폰트 엔진]]></title>
+        <id>https://github.com/foliojs/fontkit</id>
+        <link href="https://github.com/foliojs/fontkit"/>
+        <updated>2022-05-22T17:09:06.439Z</updated>
+        <content type="html"><![CDATA[(github.com/foliojs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Playwright 1.22.0, React/Vue/Svelte 컴포넌트 테스트 가능]]></title>
