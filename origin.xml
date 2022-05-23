@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-23T12:28:43.289Z</updated>
+    <updated>2022-05-23T13:37:01.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(helloinbox.email)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[웹문서 요약 서비스]]></title>
+        <id>https://www.summari.com/</id>
+        <link href="https://www.summari.com/"/>
+        <updated>2022-05-23T11:14:03.632Z</updated>
+        <content type="html"><![CDATA[(summari.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[최악을 대비하세요 (번역)]]></title>
         <id>https://ebadak.news/2022/05/21/plan-for-the-worst/</id>
         <link href="https://ebadak.news/2022/05/21/plan-for-the-worst/"/>
@@ -32,13 +39,6 @@
         <link href="https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/"/>
         <updated>2022-05-23T03:18:23.604Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹문서 요약 서비스]]></title>
-        <id>https://www.summari.com/</id>
-        <link href="https://www.summari.com/"/>
-        <updated>2022-05-23T11:14:03.632Z</updated>
-        <content type="html"><![CDATA[(summari.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불경기에 스타트업을 한다는 것 (번역)]]></title>
@@ -110,18 +110,18 @@
         <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코인에 대해 우리가 잘 몰랐던 여섯 가지]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/PXXy_c9QSeW7Ysc9pqUCmuulQuKTrRY=</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/PXXy_c9QSeW7Ysc9pqUCmuulQuKTrRY="/>
-        <updated>2022-05-22T17:09:06.464Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[데이터 엔지니어란 무엇인가?]]></title>
         <id>https://nephtyws.github.io/story/what-is-data-engineer/</id>
         <link href="https://nephtyws.github.io/story/what-is-data-engineer/"/>
         <updated>2022-05-22T17:09:06.474Z</updated>
         <content type="html"><![CDATA[(nephtyws.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코인에 대해 우리가 잘 몰랐던 여섯 가지]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/PXXy_c9QSeW7Ysc9pqUCmuulQuKTrRY=</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/PXXy_c9QSeW7Ysc9pqUCmuulQuKTrRY="/>
+        <updated>2022-05-22T17:09:06.464Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LetsMarkdown - 마크다운 동시 편집 협업도구 오픈소스]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(cloud.redhat.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spring for GraphQL 1.0 릴리즈]]></title>
-        <id>https://spring.io/blog/2022/05/19/spring-for-graphql-1-0-release</id>
-        <link href="https://spring.io/blog/2022/05/19/spring-for-graphql-1-0-release"/>
-        <updated>2022-05-23T04:31:31.890Z</updated>
-        <content type="html"><![CDATA[(spring.io)]]></content>
+        <title type="html"><![CDATA[내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것]]></title>
+        <id>https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1</id>
+        <link href="https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1"/>
+        <updated>2022-05-23T13:36:18.936Z</updated>
+        <content type="html"><![CDATA[(medium.com/@katelyngadd)]]></content>
     </entry>
 </feed>
