@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-24T14:15:55.980Z</updated>
+    <updated>2022-05-24T15:16:57.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(blog.hjaem.info)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playwright 1.22.0, React/Vue/Svelte 컴포넌트 테스트 가능]]></title>
-        <id>https://github.com/microsoft/playwright/releases/tag/v1.22.0</id>
-        <link href="https://github.com/microsoft/playwright/releases/tag/v1.22.0"/>
-        <updated>2022-05-22T17:09:06.439Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스탠포드 온라인 철학 백과사전의 작동모델(번역)]]></title>
         <id>https://starlakim.wordpress.com/2016/08/16/quartz-sep/</id>
         <link href="https://starlakim.wordpress.com/2016/08/16/quartz-sep/"/>
@@ -118,17 +111,17 @@
         <content type="html"><![CDATA[(starlakim.wordpress.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Playwright 1.22.0, React/Vue/Svelte 컴포넌트 테스트 가능]]></title>
+        <id>https://github.com/microsoft/playwright/releases/tag/v1.22.0</id>
+        <link href="https://github.com/microsoft/playwright/releases/tag/v1.22.0"/>
+        <updated>2022-05-22T17:09:06.439Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: xx 의 open source 찾아주는 사이트]]></title>
         <id>https://news.hada.io/topic?id=6579</id>
         <link href="https://news.hada.io/topic?id=6579"/>
         <updated>2022-05-22T17:09:06.454Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 엔지니어란 무엇인가?]]></title>
-        <id>https://nephtyws.github.io/story/what-is-data-engineer/</id>
-        <link href="https://nephtyws.github.io/story/what-is-data-engineer/"/>
-        <updated>2022-05-22T17:09:06.474Z</updated>
-        <content type="html"><![CDATA[(nephtyws.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PyTorch, 맥(애플실리콘 M1)에서 GPU 가속 지원]]></title>
@@ -143,5 +136,12 @@
         <link href="https://github.com/Cveinnt/LetsMarkdown.com"/>
         <updated>2022-05-22T17:09:06.466Z</updated>
         <content type="html"><![CDATA[(github.com/Cveinnt)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코인에 대해 우리가 잘 몰랐던 여섯 가지]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/PXXy_c9QSeW7Ysc9pqUCmuulQuKTrRY=</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/PXXy_c9QSeW7Ysc9pqUCmuulQuKTrRY="/>
+        <updated>2022-05-24T15:16:22.847Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
 </feed>
