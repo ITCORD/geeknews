@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-24T11:13:51.705Z</updated>
+    <updated>2022-05-24T12:30:23.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(helloinbox.email)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불경기에 스타트업을 한다는 것 (번역)]]></title>
-        <id>https://ebadak.news/2022/05/21/badeconomy/</id>
-        <link href="https://ebadak.news/2022/05/21/badeconomy/"/>
-        <updated>2022-05-23T01:05:48.197Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub, 마크다운으로 수학식 작성 가능]]></title>
         <id>https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/</id>
         <link href="https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/"/>
         <updated>2022-05-23T03:18:23.604Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불경기에 스타트업을 한다는 것 (번역)]]></title>
+        <id>https://ebadak.news/2022/05/21/badeconomy/</id>
+        <link href="https://ebadak.news/2022/05/21/badeconomy/"/>
+        <updated>2022-05-23T01:05:48.197Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kakaotalk Matrix Bridge]]></title>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(github.com/foliojs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playwright 1.22.0, React/Vue/Svelte 컴포넌트 테스트 가능]]></title>
-        <id>https://github.com/microsoft/playwright/releases/tag/v1.22.0</id>
-        <link href="https://github.com/microsoft/playwright/releases/tag/v1.22.0"/>
-        <updated>2022-05-22T17:09:06.439Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[『프로그래밍 언어 속 타입』 책 소개]]></title>
         <id>https://blog.hjaem.info/2</id>
         <link href="https://blog.hjaem.info/2"/>
@@ -116,6 +109,13 @@
         <link href="https://starlakim.wordpress.com/2016/08/16/quartz-sep/"/>
         <updated>2022-05-22T17:09:06.450Z</updated>
         <content type="html"><![CDATA[(starlakim.wordpress.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright 1.22.0, React/Vue/Svelte 컴포넌트 테스트 가능]]></title>
+        <id>https://github.com/microsoft/playwright/releases/tag/v1.22.0</id>
+        <link href="https://github.com/microsoft/playwright/releases/tag/v1.22.0"/>
+        <updated>2022-05-22T17:09:06.439Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: xx 의 open source 찾아주는 사이트]]></title>
