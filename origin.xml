@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-25T11:14:41.647Z</updated>
+    <updated>2022-05-25T12:29:47.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,39 +34,11 @@
         <content type="html"><![CDATA[(starlink.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 WWDC22, 6월 6일~10일 온라인 개최]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/"/>
-        <updated>2022-05-25T01:13:30.136Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
         <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
         <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
         <updated>2022-05-24T01:16:56.356Z</updated>
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudFlare 2022년 1분기 DDoS 공격 동향 보고서]]></title>
-        <id>https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw</id>
-        <link href="https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw"/>
-        <updated>2022-05-25T03:18:13.644Z</updated>
-        <content type="html"><![CDATA[(info.cloudflare.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
-        <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
-        <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
-        <updated>2022-05-23T03:18:23.580Z</updated>
-        <content type="html"><![CDATA[(kk.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
-        <id>https://github.com/pkolaczk/fclones</id>
-        <link href="https://github.com/pkolaczk/fclones"/>
-        <updated>2022-05-24T03:22:15.353Z</updated>
-        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SLASH 22 - TOSS 개발자 컨퍼런스 6월8일~10일 개최]]></title>
@@ -76,11 +48,39 @@
         <content type="html"><![CDATA[(toss.im)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애플 WWDC22, 6월 6일~10일 온라인 개최]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/"/>
+        <updated>2022-05-25T01:13:30.136Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
+        <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
+        <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
+        <updated>2022-05-23T03:18:23.580Z</updated>
+        <content type="html"><![CDATA[(kk.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudFlare 2022년 1분기 DDoS 공격 동향 보고서]]></title>
+        <id>https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw</id>
+        <link href="https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw"/>
+        <updated>2022-05-25T03:18:13.644Z</updated>
+        <content type="html"><![CDATA[(info.cloudflare.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nvidia - 컴퓨팅 파워의 미래]]></title>
         <id>https://now.rememberapp.co.kr/2022/05/18/18315/</id>
         <link href="https://now.rememberapp.co.kr/2022/05/18/18315/"/>
         <updated>2022-05-25T03:18:13.655Z</updated>
         <content type="html"><![CDATA[(now.rememberapp.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
+        <id>https://github.com/pkolaczk/fclones</id>
+        <link href="https://github.com/pkolaczk/fclones"/>
+        <updated>2022-05-24T03:22:15.353Z</updated>
+        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컬리의 흑자는 과연 결정의 문제일까?]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(summari.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년의 크립토씬, 어디까지 왔는가?]]></title>
-        <id>https://ebadak.news/2022/05/18/state-of-crypto-report-a16z-2022/</id>
-        <link href="https://ebadak.news/2022/05/18/state-of-crypto-report-a16z-2022/"/>
-        <updated>2022-05-24T01:16:56.368Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터를 위한 이메일 전달 가능성 체크리스트]]></title>
         <id>https://www.helloinbox.email/</id>
         <link href="https://www.helloinbox.email/"/>
         <updated>2022-05-23T01:05:48.197Z</updated>
         <content type="html"><![CDATA[(helloinbox.email)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년의 크립토씬, 어디까지 왔는가?]]></title>
+        <id>https://ebadak.news/2022/05/18/state-of-crypto-report-a16z-2022/</id>
+        <link href="https://ebadak.news/2022/05/18/state-of-crypto-report-a16z-2022/"/>
+        <updated>2022-05-24T01:16:56.368Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, 마크다운으로 수학식 작성 가능]]></title>
