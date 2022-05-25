@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-25T21:16:01.638Z</updated>
+    <updated>2022-05-25T22:16:37.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(starlink.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 WWDC22, 6월 6일~10일 온라인 개최]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/"/>
-        <updated>2022-05-25T01:13:30.136Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
         <id>https://github.com/pkolaczk/fclones</id>
         <link href="https://github.com/pkolaczk/fclones"/>
@@ -69,11 +62,25 @@
         <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애플 WWDC22, 6월 6일~10일 온라인 개최]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/"/>
+        <updated>2022-05-25T01:13:30.136Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SLASH 22 - TOSS 개발자 컨퍼런스 6월8일~10일 개최]]></title>
         <id>https://toss.im/slash-22</id>
         <link href="https://toss.im/slash-22"/>
         <updated>2022-05-25T03:18:13.652Z</updated>
         <content type="html"><![CDATA[(toss.im)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컬리의 흑자는 과연 결정의 문제일까?]]></title>
+        <id>https://brunch.co.kr/@fbrudtjr1/50</id>
+        <link href="https://brunch.co.kr/@fbrudtjr1/50"/>
+        <updated>2022-05-24T01:16:56.369Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CloudFlare 2022년 1분기 DDoS 공격 동향 보고서]]></title>
@@ -90,13 +97,6 @@
         <content type="html"><![CDATA[(now.rememberapp.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컬리의 흑자는 과연 결정의 문제일까?]]></title>
-        <id>https://brunch.co.kr/@fbrudtjr1/50</id>
-        <link href="https://brunch.co.kr/@fbrudtjr1/50"/>
-        <updated>2022-05-24T01:16:56.369Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최악을 대비하세요 (번역)]]></title>
         <id>https://ebadak.news/2022/05/21/plan-for-the-worst/</id>
         <link href="https://ebadak.news/2022/05/21/plan-for-the-worst/"/>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Summari - 웹문서 요약 서비스]]></title>
-        <id>https://www.summari.com/</id>
-        <link href="https://www.summari.com/"/>
-        <updated>2022-05-23T11:14:03.632Z</updated>
-        <content type="html"><![CDATA[(summari.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터를 위한 이메일 전달 가능성 체크리스트]]></title>
         <id>https://www.helloinbox.email/</id>
         <link href="https://www.helloinbox.email/"/>
         <updated>2022-05-23T01:05:48.197Z</updated>
         <content type="html"><![CDATA[(helloinbox.email)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summari - 웹문서 요약 서비스]]></title>
+        <id>https://www.summari.com/</id>
+        <link href="https://www.summari.com/"/>
+        <updated>2022-05-23T11:14:03.632Z</updated>
+        <content type="html"><![CDATA[(summari.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, 마크다운으로 수학식 작성 가능]]></title>
