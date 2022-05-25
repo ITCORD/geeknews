@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-25T15:19:37.607Z</updated>
+    <updated>2022-05-25T16:22:48.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
+        <id>https://github.com/blaze-init/blaze</id>
+        <link href="https://github.com/blaze-init/blaze"/>
+        <updated>2022-05-25T16:22:07.069Z</updated>
+        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
@@ -137,12 +144,5 @@
         <link href="https://ebadak.news/2022/05/21/badeconomy/"/>
         <updated>2022-05-23T01:05:48.197Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakaotalk Matrix Bridge]]></title>
-        <id>https://matrix.org/bridges/#kakaotalk</id>
-        <link href="https://matrix.org/bridges/#kakaotalk"/>
-        <updated>2022-05-22T17:09:06.448Z</updated>
-        <content type="html"><![CDATA[(matrix.org)]]></content>
     </entry>
 </feed>
