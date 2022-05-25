@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-24T23:16:45.980Z</updated>
+    <updated>2022-05-25T01:14:08.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
+        <id>https://imagen.research.google/</id>
+        <link href="https://imagen.research.google/"/>
+        <updated>2022-05-25T01:13:30.127Z</updated>
+        <content type="html"><![CDATA[(imagen.research.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airflow를 대규모로 운영하며 배운 교훈]]></title>
+        <id>https://shopify.engineering/lessons-learned-apache-airflow-scale</id>
+        <link href="https://shopify.engineering/lessons-learned-apache-airflow-scale"/>
+        <updated>2022-05-25T01:13:30.130Z</updated>
+        <content type="html"><![CDATA[(shopify.engineering)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
+        <id>https://lock.cmpxchg8b.com/linux123.html</id>
+        <link href="https://lock.cmpxchg8b.com/linux123.html"/>
+        <updated>2022-05-25T01:13:30.133Z</updated>
+        <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 WWDC22, 6월 6일~10일 온라인 개최]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/"/>
+        <updated>2022-05-25T01:13:30.136Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
         <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
         <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
         <updated>2022-05-24T01:16:56.356Z</updated>
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink for RVs]]></title>
+        <id>https://www.starlink.com/rv</id>
+        <link href="https://www.starlink.com/rv"/>
+        <updated>2022-05-25T01:13:30.140Z</updated>
+        <content type="html"><![CDATA[(starlink.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
@@ -90,13 +125,6 @@
         <content type="html"><![CDATA[(matrix.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fontkit - Node & 브라우저용 고급 폰트 엔진]]></title>
-        <id>https://github.com/foliojs/fontkit</id>
-        <link href="https://github.com/foliojs/fontkit"/>
-        <updated>2022-05-22T17:09:06.439Z</updated>
-        <content type="html"><![CDATA[(github.com/foliojs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[『프로그래밍 언어 속 타입』 책 소개]]></title>
         <id>https://blog.hjaem.info/2</id>
         <link href="https://blog.hjaem.info/2"/>
@@ -104,44 +132,17 @@
         <content type="html"><![CDATA[(blog.hjaem.info)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fontkit - Node & 브라우저용 고급 폰트 엔진]]></title>
+        <id>https://github.com/foliojs/fontkit</id>
+        <link href="https://github.com/foliojs/fontkit"/>
+        <updated>2022-05-22T17:09:06.439Z</updated>
+        <content type="html"><![CDATA[(github.com/foliojs)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스탠포드 온라인 철학 백과사전의 작동모델(번역)]]></title>
         <id>https://starlakim.wordpress.com/2016/08/16/quartz-sep/</id>
         <link href="https://starlakim.wordpress.com/2016/08/16/quartz-sep/"/>
         <updated>2022-05-22T17:09:06.450Z</updated>
         <content type="html"><![CDATA[(starlakim.wordpress.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: xx 의 open source 찾아주는 사이트]]></title>
-        <id>https://news.hada.io/topic?id=6579</id>
-        <link href="https://news.hada.io/topic?id=6579"/>
-        <updated>2022-05-22T17:09:06.454Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playwright 1.22.0, React/Vue/Svelte 컴포넌트 테스트 가능]]></title>
-        <id>https://github.com/microsoft/playwright/releases/tag/v1.22.0</id>
-        <link href="https://github.com/microsoft/playwright/releases/tag/v1.22.0"/>
-        <updated>2022-05-22T17:09:06.439Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch, 맥(애플실리콘 M1)에서 GPU 가속 지원]]></title>
-        <id>https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/</id>
-        <link href="https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/"/>
-        <updated>2022-05-22T17:09:06.456Z</updated>
-        <content type="html"><![CDATA[(pytorch.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LetsMarkdown - 마크다운 동시 편집 협업도구 오픈소스]]></title>
-        <id>https://github.com/Cveinnt/LetsMarkdown.com</id>
-        <link href="https://github.com/Cveinnt/LetsMarkdown.com"/>
-        <updated>2022-05-22T17:09:06.466Z</updated>
-        <content type="html"><![CDATA[(github.com/Cveinnt)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코인에 대해 우리가 잘 몰랐던 여섯 가지]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/PXXy_c9QSeW7Ysc9pqUCmuulQuKTrRY=</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/PXXy_c9QSeW7Ysc9pqUCmuulQuKTrRY="/>
-        <updated>2022-05-24T15:16:22.847Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
 </feed>
