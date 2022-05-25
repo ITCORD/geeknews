@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-25T16:22:48.612Z</updated>
+    <updated>2022-05-25T17:25:48.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
-        <id>https://github.com/blaze-init/blaze</id>
-        <link href="https://github.com/blaze-init/blaze"/>
-        <updated>2022-05-25T16:22:07.069Z</updated>
-        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
         <link href="https://lock.cmpxchg8b.com/linux123.html"/>
         <updated>2022-05-25T01:13:30.133Z</updated>
         <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
+        <id>https://github.com/blaze-init/blaze</id>
+        <link href="https://github.com/blaze-init/blaze"/>
+        <updated>2022-05-25T16:22:07.069Z</updated>
+        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(toss.im)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
+        <id>https://github.com/pkolaczk/fclones</id>
+        <link href="https://github.com/pkolaczk/fclones"/>
+        <updated>2022-05-24T03:22:15.353Z</updated>
+        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CloudFlare 2022년 1분기 DDoS 공격 동향 보고서]]></title>
         <id>https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw</id>
         <link href="https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw"/>
@@ -81,13 +88,6 @@
         <link href="https://now.rememberapp.co.kr/2022/05/18/18315/"/>
         <updated>2022-05-25T03:18:13.655Z</updated>
         <content type="html"><![CDATA[(now.rememberapp.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
-        <id>https://github.com/pkolaczk/fclones</id>
-        <link href="https://github.com/pkolaczk/fclones"/>
-        <updated>2022-05-24T03:22:15.353Z</updated>
-        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컬리의 흑자는 과연 결정의 문제일까?]]></title>
