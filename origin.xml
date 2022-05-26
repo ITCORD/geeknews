@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-26T06:20:21.791Z</updated>
+    <updated>2022-05-26T07:16:01.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(toss.im)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[최악을 대비하세요 (번역)]]></title>
+        <id>https://ebadak.news/2022/05/21/plan-for-the-worst/</id>
+        <link href="https://ebadak.news/2022/05/21/plan-for-the-worst/"/>
+        <updated>2022-05-26T04:29:15.621Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CloudFlare 2022년 1분기 DDoS 공격 동향 보고서]]></title>
         <id>https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw</id>
         <link href="https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw"/>
@@ -137,12 +144,5 @@
         <link href="https://now.rememberapp.co.kr/2022/05/18/18315/"/>
         <updated>2022-05-25T03:18:13.655Z</updated>
         <content type="html"><![CDATA[(now.rememberapp.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최악을 대비하세요 (번역)]]></title>
-        <id>https://ebadak.news/2022/05/21/plan-for-the-worst/</id>
-        <link href="https://ebadak.news/2022/05/21/plan-for-the-worst/"/>
-        <updated>2022-05-26T04:29:15.621Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
 </feed>
