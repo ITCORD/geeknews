@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-26T15:18:38.991Z</updated>
+    <updated>2022-05-26T16:23:27.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
-        <id>https://github.com/blaze-init/blaze</id>
-        <link href="https://github.com/blaze-init/blaze"/>
-        <updated>2022-05-25T16:22:07.069Z</updated>
-        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최악을 대비하세요 (번역)]]></title>
         <id>https://ebadak.news/2022/05/21/plan-for-the-worst/</id>
         <link href="https://ebadak.news/2022/05/21/plan-for-the-worst/"/>
@@ -123,6 +116,13 @@
         <link href="https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/"/>
         <updated>2022-05-25T01:13:30.136Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
+        <id>https://github.com/blaze-init/blaze</id>
+        <link href="https://github.com/blaze-init/blaze"/>
+        <updated>2022-05-25T16:22:07.069Z</updated>
+        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 아이폰 셀프 서비스 수리 키트 리뷰]]></title>
