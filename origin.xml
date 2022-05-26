@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-26T09:17:03.932Z</updated>
+    <updated>2022-05-26T10:18:19.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(starlink.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Airflow를 대규모로 운영하며 배운 교훈]]></title>
-        <id>https://shopify.engineering/lessons-learned-apache-airflow-scale</id>
-        <link href="https://shopify.engineering/lessons-learned-apache-airflow-scale"/>
-        <updated>2022-05-25T01:13:30.130Z</updated>
-        <content type="html"><![CDATA[(shopify.engineering)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
         <id>https://github.com/pkolaczk/fclones</id>
         <link href="https://github.com/pkolaczk/fclones"/>
         <updated>2022-05-24T03:22:15.353Z</updated>
         <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airflow를 대규모로 운영하며 배운 교훈]]></title>
+        <id>https://shopify.engineering/lessons-learned-apache-airflow-scale</id>
+        <link href="https://shopify.engineering/lessons-learned-apache-airflow-scale"/>
+        <updated>2022-05-25T01:13:30.130Z</updated>
+        <content type="html"><![CDATA[(shopify.engineering)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컬리의 흑자는 과연 결정의 문제일까?]]></title>
