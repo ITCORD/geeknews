@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-05-26T16:23:26.944Z</updated>
+    <updated>2022-05-26T17:23:34.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 좋은 VC란 어떤 걸까요?]]></title>
+        <id>https://news.hada.io/topic?id=6622</id>
+        <link href="https://news.hada.io/topic?id=6622"/>
+        <updated>2022-05-26T17:23:12.558Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: xx 의 open source 찾아주는 사이트]]></title>
         <id>https://news.hada.io/topic?id=6579</id>
@@ -118,11 +124,5 @@
         <id>https://news.hada.io/topic?id=6196</id>
         <link href="https://news.hada.io/topic?id=6196"/>
         <updated>2022-03-21T00:57:56.456Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분은 어떻게 다른 회사의 개발자분들과 소통하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6307</id>
-        <link href="https://news.hada.io/topic?id=6307"/>
-        <updated>2022-04-05T08:18:20.612Z</updated>
     </entry>
 </feed>
