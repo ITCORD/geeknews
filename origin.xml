@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-27T17:21:30.964Z</updated>
+    <updated>2022-05-27T18:19:51.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(falstad.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
-        <id>https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</id>
-        <link href="https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"/>
-        <updated>2022-05-27T04:31:18.474Z</updated>
-        <content type="html"><![CDATA[(a13xp0p0v.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
         <id>https://ciechanow.ski/mechanical-watch/</id>
         <link href="https://ciechanow.ski/mechanical-watch/"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
+        <id>https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</id>
+        <link href="https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"/>
+        <updated>2022-05-27T04:31:18.474Z</updated>
+        <content type="html"><![CDATA[(a13xp0p0v.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
