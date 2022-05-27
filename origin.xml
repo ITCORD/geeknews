@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-26T23:15:05.491Z</updated>
+    <updated>2022-05-27T04:32:01.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
+        <id>https://fly.io/blog/fly-machines/</id>
+        <link href="https://fly.io/blog/fly-machines/"/>
+        <updated>2022-05-27T04:31:18.472Z</updated>
+        <content type="html"><![CDATA[(fly.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1972년도 오리지널 Pong 게임은 소스코드 없이 하드웨어 회로로 만들어짐]]></title>
+        <id>https://www.falstad.com/pong/</id>
+        <link href="https://www.falstad.com/pong/"/>
+        <updated>2022-05-27T04:31:18.474Z</updated>
+        <content type="html"><![CDATA[(falstad.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
         <id>https://rustdesk.com/</id>
@@ -13,11 +27,46 @@
         <content type="html"><![CDATA[(rustdesk.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
+        <id>https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</id>
+        <link href="https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"/>
+        <updated>2022-05-27T04:31:18.474Z</updated>
+        <content type="html"><![CDATA[(a13xp0p0v.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
         <id>https://ciechanow.ski/mechanical-watch/</id>
         <link href="https://ciechanow.ski/mechanical-watch/"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broadcom이 VMWare를 77조원($61b)에 인수]]></title>
+        <id>https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/</id>
+        <link href="https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/"/>
+        <updated>2022-05-27T04:31:18.487Z</updated>
+        <content type="html"><![CDATA[(reuters.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Dorsey, 트위터 이사회에서 사임]]></title>
+        <id>https://www.axios.com/2022/05/25/jack-dorsey-twitter-board</id>
+        <link href="https://www.axios.com/2022/05/25/jack-dorsey-twitter-board"/>
+        <updated>2022-05-27T04:31:18.488Z</updated>
+        <content type="html"><![CDATA[(axios.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
+        <id>https://github.com/lucidrains/imagen-pytorch</id>
+        <link href="https://github.com/lucidrains/imagen-pytorch"/>
+        <updated>2022-05-27T04:31:18.489Z</updated>
+        <content type="html"><![CDATA[(github.com/lucidrains)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 6.0 "Arturo" 릴리즈]]></title>
+        <id>https://wordpress.org/news/2022/05/arturo/</id>
+        <link href="https://wordpress.org/news/2022/05/arturo/"/>
+        <updated>2022-05-27T04:31:18.490Z</updated>
+        <content type="html"><![CDATA[(wordpress.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YouTubeDrive - 파일을 유튜브에 저장하기 (2018)]]></title>
@@ -34,13 +83,6 @@
         <content type="html"><![CDATA[(ghost.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들]]></title>
-        <id>https://brunch.co.kr/@delight412/472</id>
-        <link href="https://brunch.co.kr/@delight412/472"/>
-        <updated>2022-05-26T01:16:52.921Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@delight412)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
         <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
         <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
@@ -55,6 +97,13 @@
         <content type="html"><![CDATA[(kk.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들]]></title>
+        <id>https://brunch.co.kr/@delight412/472</id>
+        <link href="https://brunch.co.kr/@delight412/472"/>
+        <updated>2022-05-26T01:16:52.921Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@delight412)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
         <link href="https://lock.cmpxchg8b.com/linux123.html"/>
@@ -62,18 +111,18 @@
         <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
-        <id>https://imagen.research.google/</id>
-        <link href="https://imagen.research.google/"/>
-        <updated>2022-05-25T01:13:30.127Z</updated>
-        <content type="html"><![CDATA[(imagen.research.google)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
         <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
         <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
         <updated>2022-05-24T01:16:56.356Z</updated>
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
+        <id>https://imagen.research.google/</id>
+        <link href="https://imagen.research.google/"/>
+        <updated>2022-05-25T01:13:30.127Z</updated>
+        <content type="html"><![CDATA[(imagen.research.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
@@ -95,54 +144,5 @@
         <link href="https://www.starlink.com/rv"/>
         <updated>2022-05-25T01:13:30.140Z</updated>
         <content type="html"><![CDATA[(starlink.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airflow를 대규모로 운영하며 배운 교훈]]></title>
-        <id>https://shopify.engineering/lessons-learned-apache-airflow-scale</id>
-        <link href="https://shopify.engineering/lessons-learned-apache-airflow-scale"/>
-        <updated>2022-05-25T01:13:30.130Z</updated>
-        <content type="html"><![CDATA[(shopify.engineering)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최악을 대비하세요 (번역)]]></title>
-        <id>https://ebadak.news/2022/05/21/plan-for-the-worst/</id>
-        <link href="https://ebadak.news/2022/05/21/plan-for-the-worst/"/>
-        <updated>2022-05-26T04:29:15.621Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 WWDC22, 6월 6일~10일 온라인 개최]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/"/>
-        <updated>2022-05-25T01:13:30.136Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 아이폰 셀프 서비스 수리 키트 리뷰]]></title>
-        <id>https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on</id>
-        <link href="https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on"/>
-        <updated>2022-05-26T12:29:51.048Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
-        <id>https://github.com/blaze-init/blaze</id>
-        <link href="https://github.com/blaze-init/blaze"/>
-        <updated>2022-05-25T16:22:07.069Z</updated>
-        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLASH 22 - TOSS 개발자 컨퍼런스 6월8일~10일 개최]]></title>
-        <id>https://toss.im/slash-22</id>
-        <link href="https://toss.im/slash-22"/>
-        <updated>2022-05-25T03:18:13.652Z</updated>
-        <content type="html"><![CDATA[(toss.im)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudFlare 2022년 1분기 DDoS 공격 동향 보고서]]></title>
-        <id>https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw</id>
-        <link href="https://info.cloudflare.com/rs/713-XSC-918/images/Whitepaper_DDoS-Trends-Report-Q1-22_Korean_20220506.pdf?mkt_tok=NzEzLVhTQy05MTgAAAGEl50ZwMnSVqqPk4MisjrhkWhz0Sog046l_JknoRTTGGP4JkJ1eKP9rQ8knVi-YrHsZ9VR7IR9Yxee2oeiwV16glZsr7LRA9sO0aNgz9gD1IUE36vUCw"/>
-        <updated>2022-05-25T03:18:13.644Z</updated>
-        <content type="html"><![CDATA[(info.cloudflare.com)]]></content>
     </entry>
 </feed>
