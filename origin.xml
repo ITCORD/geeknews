@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-27T23:16:02.107Z</updated>
+    <updated>2022-05-28T01:10:29.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
+        <id>https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063</id>
+        <link href="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063"/>
+        <updated>2022-05-28T01:09:53.011Z</updated>
+        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
         <id>https://rustdesk.com/</id>
         <link href="https://rustdesk.com/"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(rustdesk.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
+        <id>https://www.wired.com/story/proton-mail-calendar-drive-vpn/</id>
+        <link href="https://www.wired.com/story/proton-mail-calendar-drive-vpn/"/>
+        <updated>2022-05-28T01:09:53.013Z</updated>
+        <content type="html"><![CDATA[(wired.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
+        <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
+        <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
+        <updated>2022-05-28T01:09:53.013Z</updated>
+        <content type="html"><![CDATA[(cloudsek.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
@@ -41,18 +62,18 @@
         <content type="html"><![CDATA[(a13xp0p0v.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
-        <id>https://github.com/lucidrains/imagen-pytorch</id>
-        <link href="https://github.com/lucidrains/imagen-pytorch"/>
-        <updated>2022-05-27T04:31:18.489Z</updated>
-        <content type="html"><![CDATA[(github.com/lucidrains)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[YouTubeDrive - 파일을 유튜브에 저장하기 (2018)]]></title>
         <id>https://github.com/dzhang314/YouTubeDrive</id>
         <link href="https://github.com/dzhang314/YouTubeDrive"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
+        <id>https://github.com/lucidrains/imagen-pytorch</id>
+        <link href="https://github.com/lucidrains/imagen-pytorch"/>
+        <updated>2022-05-27T04:31:18.489Z</updated>
+        <content type="html"><![CDATA[(github.com/lucidrains)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Broadcom이 VMWare를 77조원($61b)에 인수]]></title>
@@ -82,13 +103,6 @@
         <content type="html"><![CDATA[(kk.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jack Dorsey, 트위터 이사회에서 사임]]></title>
-        <id>https://www.axios.com/2022/05/25/jack-dorsey-twitter-board</id>
-        <link href="https://www.axios.com/2022/05/25/jack-dorsey-twitter-board"/>
-        <updated>2022-05-27T04:31:18.488Z</updated>
-        <content type="html"><![CDATA[(axios.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
         <link href="https://lock.cmpxchg8b.com/linux123.html"/>
@@ -96,11 +110,11 @@
         <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
-        <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
-        <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
-        <updated>2022-05-26T01:16:52.925Z</updated>
-        <content type="html"><![CDATA[(jakstys.lt)]]></content>
+        <title type="html"><![CDATA[Jack Dorsey, 트위터 이사회에서 사임]]></title>
+        <id>https://www.axios.com/2022/05/25/jack-dorsey-twitter-board</id>
+        <link href="https://www.axios.com/2022/05/25/jack-dorsey-twitter-board"/>
+        <updated>2022-05-27T04:31:18.488Z</updated>
+        <content type="html"><![CDATA[(axios.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
@@ -108,6 +122,13 @@
         <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
         <updated>2022-05-24T01:16:56.356Z</updated>
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
+        <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
+        <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
+        <updated>2022-05-26T01:16:52.925Z</updated>
+        <content type="html"><![CDATA[(jakstys.lt)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WordPress 6.0 "Arturo" 릴리즈]]></title>
@@ -122,26 +143,5 @@
         <link href="https://brunch.co.kr/@delight412/472"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@delight412)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
-        <id>https://imagen.research.google/</id>
-        <link href="https://imagen.research.google/"/>
-        <updated>2022-05-25T01:13:30.127Z</updated>
-        <content type="html"><![CDATA[(imagen.research.google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
-        <id>https://github.com/pkolaczk/fclones</id>
-        <link href="https://github.com/pkolaczk/fclones"/>
-        <updated>2022-05-24T03:22:15.353Z</updated>
-        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬리의 흑자는 과연 결정의 문제일까?]]></title>
-        <id>https://brunch.co.kr/@fbrudtjr1/50</id>
-        <link href="https://brunch.co.kr/@fbrudtjr1/50"/>
-        <updated>2022-05-24T01:16:56.369Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
     </entry>
 </feed>
