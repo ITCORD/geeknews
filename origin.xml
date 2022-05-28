@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-28T07:14:57.891Z</updated>
+    <updated>2022-05-28T08:23:01.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(rustdesk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
-        <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
-        <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
-        <updated>2022-05-28T01:09:53.013Z</updated>
-        <content type="html"><![CDATA[(cloudsek.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
         <id>https://ciechanow.ski/mechanical-watch/</id>
         <link href="https://ciechanow.ski/mechanical-watch/"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
+        <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
+        <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
+        <updated>2022-05-28T01:09:53.013Z</updated>
+        <content type="html"><![CDATA[(cloudsek.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
+        <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
+        <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
+        <updated>2022-05-23T03:18:23.580Z</updated>
+        <content type="html"><![CDATA[(kk.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
         <id>https://github.com/lucidrains/imagen-pytorch</id>
         <link href="https://github.com/lucidrains/imagen-pytorch"/>
@@ -81,13 +88,6 @@
         <link href="https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/"/>
         <updated>2022-05-27T04:31:18.487Z</updated>
         <content type="html"><![CDATA[(reuters.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
-        <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
-        <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
-        <updated>2022-05-23T03:18:23.580Z</updated>
-        <content type="html"><![CDATA[(kk.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ghost 5.0 출시]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들]]></title>
-        <id>https://brunch.co.kr/@delight412/472</id>
-        <link href="https://brunch.co.kr/@delight412/472"/>
-        <updated>2022-05-26T01:16:52.921Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@delight412)]]></content>
+        <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
+        <id>https://imagen.research.google/</id>
+        <link href="https://imagen.research.google/"/>
+        <updated>2022-05-28T08:22:25.688Z</updated>
+        <content type="html"><![CDATA[(imagen.research.google)]]></content>
     </entry>
 </feed>
