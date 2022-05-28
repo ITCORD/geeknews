@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-28T03:08:15.989Z</updated>
+    <updated>2022-05-28T04:20:47.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1972년도 오리지널 Pong 게임은 소스코드 없이 하드웨어 회로로 만들어짐]]></title>
+        <id>https://www.falstad.com/pong/</id>
+        <link href="https://www.falstad.com/pong/"/>
+        <updated>2022-05-27T04:31:18.474Z</updated>
+        <content type="html"><![CDATA[(falstad.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
         <id>https://www.wired.com/story/proton-mail-calendar-drive-vpn/</id>
         <link href="https://www.wired.com/story/proton-mail-calendar-drive-vpn/"/>
@@ -46,13 +53,6 @@
         <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
         <updated>2022-05-28T01:09:53.013Z</updated>
         <content type="html"><![CDATA[(cloudsek.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1972년도 오리지널 Pong 게임은 소스코드 없이 하드웨어 회로로 만들어짐]]></title>
-        <id>https://www.falstad.com/pong/</id>
-        <link href="https://www.falstad.com/pong/"/>
-        <updated>2022-05-27T04:31:18.474Z</updated>
-        <content type="html"><![CDATA[(falstad.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
@@ -117,13 +117,6 @@
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jack Dorsey, 트위터 이사회에서 사임]]></title>
-        <id>https://www.axios.com/2022/05/25/jack-dorsey-twitter-board</id>
-        <link href="https://www.axios.com/2022/05/25/jack-dorsey-twitter-board"/>
-        <updated>2022-05-27T04:31:18.488Z</updated>
-        <content type="html"><![CDATA[(axios.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
         <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
         <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
@@ -131,11 +124,11 @@
         <content type="html"><![CDATA[(jakstys.lt)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress 6.0 "Arturo" 릴리즈]]></title>
-        <id>https://wordpress.org/news/2022/05/arturo/</id>
-        <link href="https://wordpress.org/news/2022/05/arturo/"/>
-        <updated>2022-05-27T04:31:18.490Z</updated>
-        <content type="html"><![CDATA[(wordpress.org)]]></content>
+        <title type="html"><![CDATA[Jack Dorsey, 트위터 이사회에서 사임]]></title>
+        <id>https://www.axios.com/2022/05/25/jack-dorsey-twitter-board</id>
+        <link href="https://www.axios.com/2022/05/25/jack-dorsey-twitter-board"/>
+        <updated>2022-05-27T04:31:18.488Z</updated>
+        <content type="html"><![CDATA[(axios.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들]]></title>
@@ -143,5 +136,12 @@
         <link href="https://brunch.co.kr/@delight412/472"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@delight412)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
+        <id>https://github.com/pkolaczk/fclones</id>
+        <link href="https://github.com/pkolaczk/fclones"/>
+        <updated>2022-05-28T04:20:05.791Z</updated>
+        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
     </entry>
 </feed>
