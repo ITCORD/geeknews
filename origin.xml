@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-29T18:18:41.263Z</updated>
+    <updated>2022-05-29T19:14:13.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(serpapi.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
-        <id>https://github.com/remult/remult</id>
-        <link href="https://github.com/remult/remult"/>
-        <updated>2022-05-29T01:14:51.052Z</updated>
-        <content type="html"><![CDATA[(github.com/remult)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
         <id>https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24</id>
         <link href="https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24"/>
         <updated>2022-05-29T01:14:51.048Z</updated>
         <content type="html"><![CDATA[(euncho.medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
+        <id>https://github.com/remult/remult</id>
+        <link href="https://github.com/remult/remult"/>
+        <updated>2022-05-29T01:14:51.052Z</updated>
+        <content type="html"><![CDATA[(github.com/remult)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
-        <id>https://fly.io/blog/fly-machines/</id>
-        <link href="https://fly.io/blog/fly-machines/"/>
-        <updated>2022-05-27T04:31:18.472Z</updated>
-        <content type="html"><![CDATA[(fly.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
         <id>https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063</id>
         <link href="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063"/>
         <updated>2022-05-28T01:09:53.011Z</updated>
         <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
+        <id>https://fly.io/blog/fly-machines/</id>
+        <link href="https://fly.io/blog/fly-machines/"/>
+        <updated>2022-05-27T04:31:18.472Z</updated>
+        <content type="html"><![CDATA[(fly.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
@@ -117,6 +117,13 @@
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
+        <id>https://github.com/lucidrains/imagen-pytorch</id>
+        <link href="https://github.com/lucidrains/imagen-pytorch"/>
+        <updated>2022-05-29T19:13:32.369Z</updated>
+        <content type="html"><![CDATA[(github.com/lucidrains)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
         <link href="https://lock.cmpxchg8b.com/linux123.html"/>
@@ -136,12 +143,5 @@
         <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
         <updated>2022-05-29T14:14:16.151Z</updated>
         <content type="html"><![CDATA[(jakstys.lt)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
-        <id>https://www.wired.com/story/proton-mail-calendar-drive-vpn/</id>
-        <link href="https://www.wired.com/story/proton-mail-calendar-drive-vpn/"/>
-        <updated>2022-05-28T01:09:53.013Z</updated>
-        <content type="html"><![CDATA[(wired.com)]]></content>
     </entry>
 </feed>
