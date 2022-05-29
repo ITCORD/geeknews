@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-29T15:16:25.007Z</updated>
+    <updated>2022-05-29T16:20:24.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(wired.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
-        <id>https://github.com/lucidrains/imagen-pytorch</id>
-        <link href="https://github.com/lucidrains/imagen-pytorch"/>
-        <updated>2022-05-27T04:31:18.489Z</updated>
-        <content type="html"><![CDATA[(github.com/lucidrains)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
         <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
         <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
         <updated>2022-05-29T14:14:16.151Z</updated>
         <content type="html"><![CDATA[(jakstys.lt)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
+        <id>https://github.com/pkolaczk/fclones</id>
+        <link href="https://github.com/pkolaczk/fclones"/>
+        <updated>2022-05-29T16:19:49.872Z</updated>
+        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
     </entry>
 </feed>
