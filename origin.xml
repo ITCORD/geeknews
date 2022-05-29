@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-29T11:13:25.153Z</updated>
+    <updated>2022-05-29T12:26:08.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com/remult)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
-        <id>https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24</id>
-        <link href="https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24"/>
-        <updated>2022-05-29T01:14:51.048Z</updated>
-        <content type="html"><![CDATA[(euncho.medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
         <id>https://rustdesk.com/</id>
         <link href="https://rustdesk.com/"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(rustdesk.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
+        <id>https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24</id>
+        <link href="https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24"/>
+        <updated>2022-05-29T01:14:51.048Z</updated>
+        <content type="html"><![CDATA[(euncho.medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
@@ -117,18 +117,18 @@
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
-        <id>https://www.wired.com/story/proton-mail-calendar-drive-vpn/</id>
-        <link href="https://www.wired.com/story/proton-mail-calendar-drive-vpn/"/>
-        <updated>2022-05-28T01:09:53.013Z</updated>
-        <content type="html"><![CDATA[(wired.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
         <link href="https://lock.cmpxchg8b.com/linux123.html"/>
         <updated>2022-05-25T01:13:30.133Z</updated>
         <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
+        <id>https://www.wired.com/story/proton-mail-calendar-drive-vpn/</id>
+        <link href="https://www.wired.com/story/proton-mail-calendar-drive-vpn/"/>
+        <updated>2022-05-28T01:09:53.013Z</updated>
+        <content type="html"><![CDATA[(wired.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
