@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-29T07:14:47.776Z</updated>
+    <updated>2022-05-29T08:19:22.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
+        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
+        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
+        <updated>2022-05-29T01:14:51.050Z</updated>
+        <content type="html"><![CDATA[(serpapi.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
         <id>https://github.com/remult/remult</id>
@@ -18,13 +25,6 @@
         <link href="https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24"/>
         <updated>2022-05-29T01:14:51.048Z</updated>
         <content type="html"><![CDATA[(euncho.medium.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
-        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
-        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
-        <updated>2022-05-29T01:14:51.050Z</updated>
-        <content type="html"><![CDATA[(serpapi.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
@@ -83,17 +83,17 @@
         <content type="html"><![CDATA[(kk.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 좋은 VC란 어떤 걸까요?]]></title>
+        <id>https://news.hada.io/topic?id=6622</id>
+        <link href="https://news.hada.io/topic?id=6622"/>
+        <updated>2022-05-27T08:25:24.708Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
         <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
         <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
         <updated>2022-05-28T01:09:53.013Z</updated>
         <content type="html"><![CDATA[(cloudsek.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 좋은 VC란 어떤 걸까요?]]></title>
-        <id>https://news.hada.io/topic?id=6622</id>
-        <link href="https://news.hada.io/topic?id=6622"/>
-        <updated>2022-05-27T08:25:24.708Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[YouTubeDrive - 파일을 유튜브에 저장하기 (2018)]]></title>
