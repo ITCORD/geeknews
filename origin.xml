@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-29T05:18:43.174Z</updated>
+    <updated>2022-05-29T06:21:25.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(rustdesk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
-        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
-        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
-        <updated>2022-05-29T01:14:51.050Z</updated>
-        <content type="html"><![CDATA[(serpapi.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
         <id>https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063</id>
         <link href="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063"/>
@@ -41,11 +34,11 @@
         <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
-        <id>https://github.com/payloadcms/payload</id>
-        <link href="https://github.com/payloadcms/payload"/>
-        <updated>2022-05-29T01:14:51.059Z</updated>
-        <content type="html"><![CDATA[(github.com/payloadcms)]]></content>
+        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
+        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
+        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
+        <updated>2022-05-29T01:14:51.050Z</updated>
+        <content type="html"><![CDATA[(serpapi.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
@@ -55,6 +48,13 @@
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
+        <id>https://github.com/payloadcms/payload</id>
+        <link href="https://github.com/payloadcms/payload"/>
+        <updated>2022-05-29T01:14:51.059Z</updated>
+        <content type="html"><![CDATA[(github.com/payloadcms)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
         <id>https://fly.io/blog/fly-machines/</id>
         <link href="https://fly.io/blog/fly-machines/"/>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(fly.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1972년도 오리지널 Pong 게임은 소스코드 없이 하드웨어 회로로 만들어짐]]></title>
-        <id>https://www.falstad.com/pong/</id>
-        <link href="https://www.falstad.com/pong/"/>
-        <updated>2022-05-27T04:31:18.474Z</updated>
-        <content type="html"><![CDATA[(falstad.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
         <id>https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</id>
         <link href="https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"/>
         <updated>2022-05-27T04:31:18.474Z</updated>
         <content type="html"><![CDATA[(a13xp0p0v.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1972년도 오리지널 Pong 게임은 소스코드 없이 하드웨어 회로로 만들어짐]]></title>
+        <id>https://www.falstad.com/pong/</id>
+        <link href="https://www.falstad.com/pong/"/>
+        <updated>2022-05-27T04:31:18.474Z</updated>
+        <content type="html"><![CDATA[(falstad.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
@@ -103,18 +103,18 @@
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
-        <id>https://www.wired.com/story/proton-mail-calendar-drive-vpn/</id>
-        <link href="https://www.wired.com/story/proton-mail-calendar-drive-vpn/"/>
-        <updated>2022-05-28T01:09:53.013Z</updated>
-        <content type="html"><![CDATA[(wired.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ghost 5.0 출시]]></title>
         <id>https://ghost.org/changelog/5/</id>
         <link href="https://ghost.org/changelog/5/"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(ghost.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
+        <id>https://www.wired.com/story/proton-mail-calendar-drive-vpn/</id>
+        <link href="https://www.wired.com/story/proton-mail-calendar-drive-vpn/"/>
+        <updated>2022-05-28T01:09:53.013Z</updated>
+        <content type="html"><![CDATA[(wired.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
