@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-30T07:17:44.823Z</updated>
+    <updated>2022-05-30T08:22:04.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/"/>
         <updated>2022-05-30T03:29:27.137Z</updated>
         <content type="html"><![CDATA[(blog.healthchecks.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POAP, NFT를 활용한 출석 인증 프로토콜]]></title>
+        <id>https://ansubin.com/understanding-soulboundtoken-poap/</id>
+        <link href="https://ansubin.com/understanding-soulboundtoken-poap/"/>
+        <updated>2022-05-30T07:17:09.402Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ultra - 스트리밍 SSR React 프레임워크]]></title>
@@ -41,11 +48,10 @@
         <content type="html"><![CDATA[(sqlite.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POAP, NFT를 활용한 출석 인증 프로토콜]]></title>
-        <id>https://ansubin.com/understanding-soulboundtoken-poap/</id>
-        <link href="https://ansubin.com/understanding-soulboundtoken-poap/"/>
-        <updated>2022-05-30T07:17:09.402Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
+        <title type="html"><![CDATA[Ask GN: 코딩할 때 어떤 폰트를 사용하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6643</id>
+        <link href="https://news.hada.io/topic?id=6643"/>
+        <updated>2022-05-30T08:21:26.368Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
@@ -136,12 +142,5 @@
         <link href="https://github.com/dzhang314/YouTubeDrive"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
-        <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
-        <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
-        <updated>2022-05-24T01:16:56.356Z</updated>
-        <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
 </feed>
