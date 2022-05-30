@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-30T05:25:06.597Z</updated>
+    <updated>2022-05-30T06:24:25.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com/exhibitionist-digital)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
-        <id>https://architecturenotes.co/datasette-simon-willison/</id>
-        <link href="https://architecturenotes.co/datasette-simon-willison/"/>
-        <updated>2022-05-30T01:18:08.104Z</updated>
-        <content type="html"><![CDATA[(architecturenotes.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQLite3 Fiddle]]></title>
         <id>https://sqlite.org/fiddle/</id>
         <link href="https://sqlite.org/fiddle/"/>
         <updated>2022-05-30T01:18:08.104Z</updated>
         <content type="html"><![CDATA[(sqlite.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
+        <id>https://architecturenotes.co/datasette-simon-willison/</id>
+        <link href="https://architecturenotes.co/datasette-simon-willison/"/>
+        <updated>2022-05-30T01:18:08.104Z</updated>
+        <content type="html"><![CDATA[(architecturenotes.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
