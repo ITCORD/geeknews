@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-29T23:15:59.318Z</updated>
+    <updated>2022-05-30T01:18:51.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
-        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
-        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
-        <updated>2022-05-29T01:14:51.050Z</updated>
-        <content type="html"><![CDATA[(serpapi.com)]]></content>
+        <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
+        <id>https://architecturenotes.co/datasette-simon-willison/</id>
+        <link href="https://architecturenotes.co/datasette-simon-willison/"/>
+        <updated>2022-05-30T01:18:08.104Z</updated>
+        <content type="html"><![CDATA[(architecturenotes.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite3 Fiddle]]></title>
+        <id>https://sqlite.org/fiddle/</id>
+        <link href="https://sqlite.org/fiddle/"/>
+        <updated>2022-05-30T01:18:08.104Z</updated>
+        <content type="html"><![CDATA[(sqlite.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra - 스트리밍 SSR React 프레임워크]]></title>
+        <id>https://github.com/exhibitionist-digital/ultra</id>
+        <link href="https://github.com/exhibitionist-digital/ultra"/>
+        <updated>2022-05-30T01:18:08.104Z</updated>
+        <content type="html"><![CDATA[(github.com/exhibitionist-digital)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
@@ -18,6 +32,13 @@
         <link href="https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24"/>
         <updated>2022-05-29T01:14:51.048Z</updated>
         <content type="html"><![CDATA[(euncho.medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
+        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
+        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
+        <updated>2022-05-29T01:14:51.050Z</updated>
+        <content type="html"><![CDATA[(serpapi.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
@@ -48,18 +69,18 @@
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
-        <id>https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063</id>
-        <link href="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063"/>
-        <updated>2022-05-28T01:09:53.011Z</updated>
-        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
         <id>https://fly.io/blog/fly-machines/</id>
         <link href="https://fly.io/blog/fly-machines/"/>
         <updated>2022-05-27T04:31:18.472Z</updated>
         <content type="html"><![CDATA[(fly.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
+        <id>https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063</id>
+        <link href="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063"/>
+        <updated>2022-05-28T01:09:53.011Z</updated>
+        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
@@ -103,13 +124,6 @@
         <content type="html"><![CDATA[(cloudsek.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ghost 5.0 출시]]></title>
-        <id>https://ghost.org/changelog/5/</id>
-        <link href="https://ghost.org/changelog/5/"/>
-        <updated>2022-05-26T01:16:52.921Z</updated>
-        <content type="html"><![CDATA[(ghost.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
         <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
         <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
@@ -117,11 +131,11 @@
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
-        <id>https://github.com/lucidrains/imagen-pytorch</id>
-        <link href="https://github.com/lucidrains/imagen-pytorch"/>
-        <updated>2022-05-29T19:13:32.369Z</updated>
-        <content type="html"><![CDATA[(github.com/lucidrains)]]></content>
+        <title type="html"><![CDATA[Ghost 5.0 출시]]></title>
+        <id>https://ghost.org/changelog/5/</id>
+        <link href="https://ghost.org/changelog/5/"/>
+        <updated>2022-05-26T01:16:52.921Z</updated>
+        <content type="html"><![CDATA[(ghost.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
@@ -129,19 +143,5 @@
         <link href="https://lock.cmpxchg8b.com/linux123.html"/>
         <updated>2022-05-25T01:13:30.133Z</updated>
         <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
-        <id>https://github.com/pkolaczk/fclones</id>
-        <link href="https://github.com/pkolaczk/fclones"/>
-        <updated>2022-05-29T16:19:49.872Z</updated>
-        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
-        <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
-        <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
-        <updated>2022-05-29T14:14:16.151Z</updated>
-        <content type="html"><![CDATA[(jakstys.lt)]]></content>
     </entry>
 </feed>
