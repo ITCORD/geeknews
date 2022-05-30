@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-30T01:18:51.517Z</updated>
+    <updated>2022-05-30T03:30:00.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
+        <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
+        <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
+        <updated>2022-05-30T03:29:27.134Z</updated>
+        <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1인 SaaS인 Healthchecks.io의 기술 스택]]></title>
+        <id>https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/</id>
+        <link href="https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/"/>
+        <updated>2022-05-30T03:29:27.137Z</updated>
+        <content type="html"><![CDATA[(blog.healthchecks.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra - 스트리밍 SSR React 프레임워크]]></title>
+        <id>https://github.com/exhibitionist-digital/ultra</id>
+        <link href="https://github.com/exhibitionist-digital/ultra"/>
+        <updated>2022-05-30T01:18:08.104Z</updated>
+        <content type="html"><![CDATA[(github.com/exhibitionist-digital)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
         <id>https://architecturenotes.co/datasette-simon-willison/</id>
@@ -18,13 +39,6 @@
         <link href="https://sqlite.org/fiddle/"/>
         <updated>2022-05-30T01:18:08.104Z</updated>
         <content type="html"><![CDATA[(sqlite.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultra - 스트리밍 SSR React 프레임워크]]></title>
-        <id>https://github.com/exhibitionist-digital/ultra</id>
-        <link href="https://github.com/exhibitionist-digital/ultra"/>
-        <updated>2022-05-30T01:18:08.104Z</updated>
-        <content type="html"><![CDATA[(github.com/exhibitionist-digital)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
@@ -41,6 +55,13 @@
         <content type="html"><![CDATA[(serpapi.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
+        <id>https://rustdesk.com/</id>
+        <link href="https://rustdesk.com/"/>
+        <updated>2022-05-26T01:16:52.921Z</updated>
+        <content type="html"><![CDATA[(rustdesk.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
         <id>https://github.com/remult/remult</id>
         <link href="https://github.com/remult/remult"/>
@@ -55,13 +76,6 @@
         <content type="html"><![CDATA[(github.com/payloadcms)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
-        <id>https://rustdesk.com/</id>
-        <link href="https://rustdesk.com/"/>
-        <updated>2022-05-26T01:16:52.921Z</updated>
-        <content type="html"><![CDATA[(rustdesk.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
         <id>https://ciechanow.ski/mechanical-watch/</id>
         <link href="https://ciechanow.ski/mechanical-watch/"/>
@@ -69,18 +83,18 @@
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
-        <id>https://fly.io/blog/fly-machines/</id>
-        <link href="https://fly.io/blog/fly-machines/"/>
-        <updated>2022-05-27T04:31:18.472Z</updated>
-        <content type="html"><![CDATA[(fly.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
         <id>https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063</id>
         <link href="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063"/>
         <updated>2022-05-28T01:09:53.011Z</updated>
         <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
+        <id>https://fly.io/blog/fly-machines/</id>
+        <link href="https://fly.io/blog/fly-machines/"/>
+        <updated>2022-05-27T04:31:18.472Z</updated>
+        <content type="html"><![CDATA[(fly.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
@@ -117,13 +131,6 @@
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
-        <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
-        <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
-        <updated>2022-05-28T01:09:53.013Z</updated>
-        <content type="html"><![CDATA[(cloudsek.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
         <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
         <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
@@ -136,12 +143,5 @@
         <link href="https://ghost.org/changelog/5/"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(ghost.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
-        <id>https://lock.cmpxchg8b.com/linux123.html</id>
-        <link href="https://lock.cmpxchg8b.com/linux123.html"/>
-        <updated>2022-05-25T01:13:30.133Z</updated>
-        <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
     </entry>
 </feed>
