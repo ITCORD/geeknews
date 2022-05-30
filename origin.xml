@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-30T14:16:41.344Z</updated>
+    <updated>2022-05-30T15:18:21.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(blog.healthchecks.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POAP, NFT를 활용한 출석 인증 프로토콜]]></title>
-        <id>https://ansubin.com/understanding-soulboundtoken-poap/</id>
-        <link href="https://ansubin.com/understanding-soulboundtoken-poap/"/>
-        <updated>2022-05-30T07:17:09.402Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ultra - 스트리밍 SSR React 프레임워크]]></title>
         <id>https://github.com/exhibitionist-digital/ultra</id>
         <link href="https://github.com/exhibitionist-digital/ultra"/>
         <updated>2022-05-30T01:18:08.104Z</updated>
         <content type="html"><![CDATA[(github.com/exhibitionist-digital)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POAP, NFT를 활용한 출석 인증 프로토콜]]></title>
+        <id>https://ansubin.com/understanding-soulboundtoken-poap/</id>
+        <link href="https://ansubin.com/understanding-soulboundtoken-poap/"/>
+        <updated>2022-05-30T07:17:09.402Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
@@ -75,18 +75,18 @@
         <content type="html"><![CDATA[(github.com/payloadcms)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
-        <id>https://github.com/remult/remult</id>
-        <link href="https://github.com/remult/remult"/>
-        <updated>2022-05-29T01:14:51.052Z</updated>
-        <content type="html"><![CDATA[(github.com/remult)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
         <id>https://rustdesk.com/</id>
         <link href="https://rustdesk.com/"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(rustdesk.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
+        <id>https://github.com/remult/remult</id>
+        <link href="https://github.com/remult/remult"/>
+        <updated>2022-05-29T01:14:51.052Z</updated>
+        <content type="html"><![CDATA[(github.com/remult)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
@@ -96,13 +96,6 @@
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
-        <id>https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063</id>
-        <link href="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063"/>
-        <updated>2022-05-28T01:09:53.011Z</updated>
-        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fly Machines - 빠른 부팅 VM을 위한 API]]></title>
         <id>https://fly.io/blog/fly-machines/</id>
         <link href="https://fly.io/blog/fly-machines/"/>
@@ -110,11 +103,11 @@
         <content type="html"><![CDATA[(fly.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
-        <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
-        <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
-        <updated>2022-05-23T03:18:23.580Z</updated>
-        <content type="html"><![CDATA[(kk.org)]]></content>
+        <title type="html"><![CDATA[Microsoft Dev Box 공개]]></title>
+        <id>https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063</id>
+        <link href="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063"/>
+        <updated>2022-05-28T01:09:53.011Z</updated>
+        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
@@ -142,5 +135,12 @@
         <link href="https://github.com/dzhang314/YouTubeDrive"/>
         <updated>2022-05-26T01:16:52.921Z</updated>
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
+        <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
+        <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
+        <updated>2022-05-30T15:17:44.713Z</updated>
+        <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
 </feed>
