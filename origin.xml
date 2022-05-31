@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-31T15:20:54.387Z</updated>
+    <updated>2022-05-31T16:24:40.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/adalkiran)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
-        <id>https://github.com/dragonflydb/dragonfly</id>
-        <link href="https://github.com/dragonflydb/dragonfly"/>
-        <updated>2022-05-31T01:15:48.362Z</updated>
-        <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
         <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
         <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
         <updated>2022-05-30T03:29:27.134Z</updated>
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
+        <id>https://github.com/dragonflydb/dragonfly</id>
+        <link href="https://github.com/dragonflydb/dragonfly"/>
+        <updated>2022-05-31T01:15:48.362Z</updated>
+        <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Xournal++ - 오픈소스 손글씨 노트 작성 도구]]></title>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 코딩할 때 어떤 폰트를 사용하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6643</id>
+        <link href="https://news.hada.io/topic?id=6643"/>
+        <updated>2022-05-30T08:21:26.368Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
         <id>https://architecturenotes.co/datasette-simon-willison/</id>
         <link href="https://architecturenotes.co/datasette-simon-willison/"/>
         <updated>2022-05-30T01:18:08.104Z</updated>
         <content type="html"><![CDATA[(architecturenotes.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 코딩할 때 어떤 폰트를 사용하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6643</id>
-        <link href="https://news.hada.io/topic?id=6643"/>
-        <updated>2022-05-30T08:21:26.368Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ultra - 스트리밍 SSR React 프레임워크]]></title>
