@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-30T23:16:37.012Z</updated>
+    <updated>2022-05-31T01:16:28.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
         <updated>2022-05-30T03:29:27.134Z</updated>
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xournal++ - 오픈소스 손글씨 노트 작성 도구]]></title>
+        <id>https://xournalpp.github.io/</id>
+        <link href="https://xournalpp.github.io/"/>
+        <updated>2022-05-31T01:15:48.362Z</updated>
+        <content type="html"><![CDATA[(xournalpp.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebRTC Nuts & Bolts]]></title>
+        <id>https://github.com/adalkiran/webrtc-nuts-and-bolts</id>
+        <link href="https://github.com/adalkiran/webrtc-nuts-and-bolts"/>
+        <updated>2022-05-31T01:15:48.362Z</updated>
+        <content type="html"><![CDATA[(github.com/adalkiran)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
+        <id>https://github.com/dragonflydb/dragonfly</id>
+        <link href="https://github.com/dragonflydb/dragonfly"/>
+        <updated>2022-05-31T01:15:48.362Z</updated>
+        <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1인 SaaS인 Healthchecks.io의 기술 스택]]></title>
@@ -41,17 +62,17 @@
         <content type="html"><![CDATA[(architecturenotes.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 코딩할 때 어떤 폰트를 사용하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6643</id>
+        <link href="https://news.hada.io/topic?id=6643"/>
+        <updated>2022-05-30T08:21:26.368Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SQLite3 Fiddle]]></title>
         <id>https://sqlite.org/fiddle/</id>
         <link href="https://sqlite.org/fiddle/"/>
         <updated>2022-05-30T01:18:08.104Z</updated>
         <content type="html"><![CDATA[(sqlite.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 코딩할 때 어떤 폰트를 사용하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6643</id>
-        <link href="https://news.hada.io/topic?id=6643"/>
-        <updated>2022-05-30T08:21:26.368Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
@@ -122,25 +143,5 @@
         <link href="https://www.falstad.com/pong/"/>
         <updated>2022-05-27T04:31:18.474Z</updated>
         <content type="html"><![CDATA[(falstad.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 좋은 VC란 어떤 걸까요?]]></title>
-        <id>https://news.hada.io/topic?id=6622</id>
-        <link href="https://news.hada.io/topic?id=6622"/>
-        <updated>2022-05-27T08:25:24.708Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTubeDrive - 파일을 유튜브에 저장하기 (2018)]]></title>
-        <id>https://github.com/dzhang314/YouTubeDrive</id>
-        <link href="https://github.com/dzhang314/YouTubeDrive"/>
-        <updated>2022-05-26T01:16:52.921Z</updated>
-        <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
-        <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
-        <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
-        <updated>2022-05-30T15:17:44.713Z</updated>
-        <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
 </feed>
