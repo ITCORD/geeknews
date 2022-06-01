@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-01T09:25:55.579Z</updated>
+    <updated>2022-06-01T10:21:09.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(github.com/adalkiran)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
+        <id>https://github.com/dragonflydb/dragonfly</id>
+        <link href="https://github.com/dragonflydb/dragonfly"/>
+        <updated>2022-05-31T01:15:48.362Z</updated>
+        <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LiveTerm - 터미널 스타일의 웹사이트 템플릿]]></title>
         <id>https://github.com/Cveinnt/LiveTerm</id>
         <link href="https://github.com/Cveinnt/LiveTerm"/>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[(github.com/Cveinnt)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
-        <id>https://github.com/dragonflydb/dragonfly</id>
-        <link href="https://github.com/dragonflydb/dragonfly"/>
-        <updated>2022-05-31T01:15:48.362Z</updated>
-        <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
+        <title type="html"><![CDATA[DALLE-2 내부에서 쓰이는 언어]]></title>
+        <id>https://twitter.com/youknowone_/status/1531808887493763073</id>
+        <link href="https://twitter.com/youknowone_/status/1531808887493763073"/>
+        <updated>2022-06-01T04:01:20.549Z</updated>
+        <content type="html"><![CDATA[(twitter.com/youknowone_)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[a16z, Web3를 위한 5.5조원 펀드 결성]]></title>
@@ -88,13 +95,6 @@
         <link href="https://www.windowscentral.com/gaming/xbox/exclusive-microsoft-continues-to-iterate-on-an-xbox-cloud-streaming-stick-codenamed-keystone"/>
         <updated>2022-06-01T04:01:20.544Z</updated>
         <content type="html"><![CDATA[(windowscentral.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALLE-2 내부에서 쓰이는 언어]]></title>
-        <id>https://twitter.com/youknowone_/status/1531808887493763073</id>
-        <link href="https://twitter.com/youknowone_/status/1531808887493763073"/>
-        <updated>2022-06-01T04:01:20.549Z</updated>
-        <content type="html"><![CDATA[(twitter.com/youknowone_)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[POAP, NFT를 활용한 출석 인증 프로토콜]]></title>
