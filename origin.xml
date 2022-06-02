@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-02T04:43:53.813Z</updated>
+    <updated>2022-06-02T05:29:32.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Neon - 서버리스 Postgres 오픈소스]]></title>
+        <id>https://github.com/neondatabase/neon</id>
+        <link href="https://github.com/neondatabase/neon"/>
+        <updated>2022-06-02T01:17:01.487Z</updated>
+        <content type="html"><![CDATA[(github.com/neondatabase)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System Font Stack]]></title>
         <id>https://systemfontstack.com/</id>
@@ -18,13 +25,6 @@
         <link href="https://twitter.com/TechEmails/status/1531994582669348864"/>
         <updated>2022-06-02T01:17:01.504Z</updated>
         <content type="html"><![CDATA[(twitter.com/TechEmails)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neon - 서버리스 Postgres 오픈소스]]></title>
-        <id>https://github.com/neondatabase/neon</id>
-        <link href="https://github.com/neondatabase/neon"/>
-        <updated>2022-06-02T01:17:01.487Z</updated>
-        <content type="html"><![CDATA[(github.com/neondatabase)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음파를 사용하는 새로운 형태의 3D 프린팅]]></title>
@@ -46,6 +46,13 @@
         <link href="https://jasonette.com/"/>
         <updated>2022-06-01T01:23:36.928Z</updated>
         <content type="html"><![CDATA[(jasonette.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학생 때 알았더라면 좋았을 것들]]></title>
+        <id>https://www.slideshare.net/utilforever/ss-251900268</id>
+        <link href="https://www.slideshare.net/utilforever/ss-251900268"/>
+        <updated>2022-06-02T05:28:58.703Z</updated>
+        <content type="html"><![CDATA[(slideshare.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Codeball - AI가 수행하는 코드 리뷰]]></title>
@@ -124,13 +131,6 @@
         <updated>2022-05-30T08:21:26.368Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POAP, NFT를 활용한 출석 인증 프로토콜]]></title>
-        <id>https://ansubin.com/understanding-soulboundtoken-poap/</id>
-        <link href="https://ansubin.com/understanding-soulboundtoken-poap/"/>
-        <updated>2022-05-30T07:17:09.402Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
         <id>https://architecturenotes.co/datasette-simon-willison/</id>
         <link href="https://architecturenotes.co/datasette-simon-willison/"/>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(architecturenotes.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
-        <id>https://rustdesk.com/</id>
-        <link href="https://rustdesk.com/"/>
-        <updated>2022-06-02T03:44:50.123Z</updated>
-        <content type="html"><![CDATA[(rustdesk.com)]]></content>
+        <title type="html"><![CDATA[POAP, NFT를 활용한 출석 인증 프로토콜]]></title>
+        <id>https://ansubin.com/understanding-soulboundtoken-poap/</id>
+        <link href="https://ansubin.com/understanding-soulboundtoken-poap/"/>
+        <updated>2022-05-30T07:17:09.402Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
 </feed>
