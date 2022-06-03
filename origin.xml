@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-03T11:13:14.064Z</updated>
+    <updated>2022-06-03T12:27:12.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(faircode.eu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[터키 국호 '튀르키예'로 변경…영어 터키는 '칠면조·겁쟁이' 뜻]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013223845?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013223845?sid=104"/>
-        <updated>2022-06-03T03:10:25.778Z</updated>
-        <content type="html"><![CDATA[(n.news.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neon - 서버리스 Postgres 오픈소스]]></title>
         <id>https://github.com/neondatabase/neon</id>
         <link href="https://github.com/neondatabase/neon"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[(github.com/neondatabase)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Wordle]]></title>
-        <id>https://dontwordle.com/</id>
-        <link href="https://dontwordle.com/"/>
-        <updated>2022-06-03T01:03:44.220Z</updated>
-        <content type="html"><![CDATA[(dontwordle.com)]]></content>
+        <title type="html"><![CDATA[터키 국호 '튀르키예'로 변경…영어 터키는 '칠면조·겁쟁이' 뜻]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013223845?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013223845?sid=104"/>
+        <updated>2022-06-03T03:10:25.778Z</updated>
+        <content type="html"><![CDATA[(n.news.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스]]></title>
@@ -88,6 +81,13 @@
         <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
         <updated>2022-05-30T03:29:27.134Z</updated>
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Wordle]]></title>
+        <id>https://dontwordle.com/</id>
+        <link href="https://dontwordle.com/"/>
+        <updated>2022-06-03T01:03:44.220Z</updated>
+        <content type="html"><![CDATA[(dontwordle.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음파를 사용하는 새로운 형태의 3D 프린팅]]></title>
