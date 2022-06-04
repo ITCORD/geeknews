@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-03T23:14:51.046Z</updated>
+    <updated>2022-06-04T01:05:44.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://www.slideshare.net/utilforever/ss-251900268"/>
         <updated>2022-06-02T05:28:58.703Z</updated>
         <content type="html"><![CDATA[(slideshare.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
+        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
+        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스]]></title>
+        <id>https://github.com/git-noter/gitnoter</id>
+        <link href="https://github.com/git-noter/gitnoter"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(github.com/git-noter)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privaxy - 차세대 트래커 & 광고 블록커]]></title>
+        <id>https://github.com/Barre/privaxy</id>
+        <link href="https://github.com/Barre/privaxy"/>
+        <updated>2022-06-04T01:05:05.757Z</updated>
+        <content type="html"><![CDATA[(github.com/Barre)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Feather Wiki - 1개의 HTML로 저장되는 개인용 위키]]></title>
@@ -62,18 +83,18 @@
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System Font Stack]]></title>
-        <id>https://systemfontstack.com/</id>
-        <link href="https://systemfontstack.com/"/>
-        <updated>2022-06-02T01:17:01.507Z</updated>
-        <content type="html"><![CDATA[(systemfontstack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
         <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676</id>
         <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676"/>
         <updated>2022-06-03T08:17:25.162Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Font Stack]]></title>
+        <id>https://systemfontstack.com/</id>
+        <link href="https://systemfontstack.com/"/>
+        <updated>2022-06-02T01:17:01.507Z</updated>
+        <content type="html"><![CDATA[(systemfontstack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Codeball - AI가 수행하는 코드 리뷰]]></title>
@@ -118,31 +139,10 @@
         <content type="html"><![CDATA[(twitter.com/TechEmails)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Wordle]]></title>
-        <id>https://dontwordle.com/</id>
-        <link href="https://dontwordle.com/"/>
-        <updated>2022-06-03T01:03:44.220Z</updated>
-        <content type="html"><![CDATA[(dontwordle.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebRTC Nuts & Bolts]]></title>
         <id>https://github.com/adalkiran/webrtc-nuts-and-bolts</id>
         <link href="https://github.com/adalkiran/webrtc-nuts-and-bolts"/>
         <updated>2022-05-31T01:15:48.362Z</updated>
         <content type="html"><![CDATA[(github.com/adalkiran)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1인 SaaS인 Healthchecks.io의 기술 스택]]></title>
-        <id>https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/</id>
-        <link href="https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/"/>
-        <updated>2022-05-30T03:29:27.137Z</updated>
-        <content type="html"><![CDATA[(blog.healthchecks.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiveTerm - 터미널 스타일의 웹사이트 템플릿]]></title>
-        <id>https://github.com/Cveinnt/LiveTerm</id>
-        <link href="https://github.com/Cveinnt/LiveTerm"/>
-        <updated>2022-06-03T09:15:25.544Z</updated>
-        <content type="html"><![CDATA[(github.com/Cveinnt)]]></content>
     </entry>
 </feed>
