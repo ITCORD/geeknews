@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-04T03:07:07.878Z</updated>
+    <updated>2022-06-04T04:17:40.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(github.com/neondatabase)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스]]></title>
-        <id>https://jasonette.com/</id>
-        <link href="https://jasonette.com/"/>
-        <updated>2022-06-01T01:23:36.928Z</updated>
-        <content type="html"><![CDATA[(jasonette.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
         <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
         <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
         <updated>2022-05-30T03:29:27.134Z</updated>
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스]]></title>
+        <id>https://jasonette.com/</id>
+        <link href="https://jasonette.com/"/>
+        <updated>2022-06-01T01:23:36.928Z</updated>
+        <content type="html"><![CDATA[(jasonette.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(twitter.com/TechEmails)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WebRTC Nuts & Bolts]]></title>
+        <id>https://github.com/adalkiran/webrtc-nuts-and-bolts</id>
+        <link href="https://github.com/adalkiran/webrtc-nuts-and-bolts"/>
+        <updated>2022-05-31T01:15:48.362Z</updated>
+        <content type="html"><![CDATA[(github.com/adalkiran)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글이 직접 개발자에게 연락해서 PlayStore 에서 FairEmail 앱 복원]]></title>
         <id>https://faircode.eu/faq.html</id>
         <link href="https://faircode.eu/faq.html"/>
@@ -137,12 +144,5 @@
         <link href="https://n.news.naver.com/mnews/article/001/0013223845?sid=104"/>
         <updated>2022-06-03T03:10:25.778Z</updated>
         <content type="html"><![CDATA[(n.news.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebRTC Nuts & Bolts]]></title>
-        <id>https://github.com/adalkiran/webrtc-nuts-and-bolts</id>
-        <link href="https://github.com/adalkiran/webrtc-nuts-and-bolts"/>
-        <updated>2022-05-31T01:15:48.362Z</updated>
-        <content type="html"><![CDATA[(github.com/adalkiran)]]></content>
     </entry>
 </feed>
