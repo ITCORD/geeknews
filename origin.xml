@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-04T16:18:41.232Z</updated>
+    <updated>2022-06-04T17:13:30.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(feather.wiki)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenVerse - 오픈 라이센스 미디어 검색엔진]]></title>
-        <id>https://wordpress.org/openverse/</id>
-        <link href="https://wordpress.org/openverse/"/>
-        <updated>2022-06-03T03:10:25.779Z</updated>
-        <content type="html"><![CDATA[(wordpress.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Privaxy - 차세대 트래커 & 광고 블록커]]></title>
         <id>https://github.com/Barre/privaxy</id>
         <link href="https://github.com/Barre/privaxy"/>
         <updated>2022-06-04T01:05:05.757Z</updated>
         <content type="html"><![CDATA[(github.com/Barre)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenVerse - 오픈 라이센스 미디어 검색엔진]]></title>
+        <id>https://wordpress.org/openverse/</id>
+        <link href="https://wordpress.org/openverse/"/>
+        <updated>2022-06-03T03:10:25.779Z</updated>
+        <content type="html"><![CDATA[(wordpress.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 좋아하는 오픈소스 게임은?]]></title>
@@ -46,6 +46,13 @@
         <link href="https://browser.kagi.com/"/>
         <updated>2022-06-03T03:10:25.775Z</updated>
         <content type="html"><![CDATA[(browser.kagi.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
+        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
+        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스]]></title>
@@ -102,13 +109,6 @@
         <link href="https://github.com/dragonflydb/dragonfly"/>
         <updated>2022-05-31T01:15:48.362Z</updated>
         <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
-        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
-        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
-        <updated>2022-06-04T01:05:05.754Z</updated>
-        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음파를 사용하는 새로운 형태의 3D 프린팅]]></title>
