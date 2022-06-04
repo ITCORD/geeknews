@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-04T01:05:44.755Z</updated>
+    <updated>2022-06-04T03:07:07.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[대학생 때 알았더라면 좋았을 것들]]></title>
-        <id>https://www.slideshare.net/utilforever/ss-251900268</id>
-        <link href="https://www.slideshare.net/utilforever/ss-251900268"/>
-        <updated>2022-06-02T05:28:58.703Z</updated>
-        <content type="html"><![CDATA[(slideshare.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
-        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
-        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
-        <updated>2022-06-04T01:05:05.754Z</updated>
-        <content type="html"><![CDATA[(edgedb.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스]]></title>
         <id>https://github.com/git-noter/gitnoter</id>
@@ -32,6 +18,13 @@
         <link href="https://github.com/Barre/privaxy"/>
         <updated>2022-06-04T01:05:05.757Z</updated>
         <content type="html"><![CDATA[(github.com/Barre)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학생 때 알았더라면 좋았을 것들]]></title>
+        <id>https://www.slideshare.net/utilforever/ss-251900268</id>
+        <link href="https://www.slideshare.net/utilforever/ss-251900268"/>
+        <updated>2022-06-02T05:28:58.703Z</updated>
+        <content type="html"><![CDATA[(slideshare.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Feather Wiki - 1개의 HTML로 저장되는 개인용 위키]]></title>
@@ -53,6 +46,13 @@
         <link href="https://news.ycombinator.com/item?id=31590724"/>
         <updated>2022-06-03T03:10:25.769Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
+        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
+        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Orion - Kagi의 WebKit 기반 브라우저]]></title>
@@ -104,6 +104,13 @@
         <content type="html"><![CDATA[(codeball.ai)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
+        <id>https://github.com/dragonflydb/dragonfly</id>
+        <link href="https://github.com/dragonflydb/dragonfly"/>
+        <updated>2022-05-31T01:15:48.362Z</updated>
+        <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[음파를 사용하는 새로운 형태의 3D 프린팅]]></title>
         <id>https://newatlas.com/3d-printing/direct-sound-3d-printing/</id>
         <link href="https://newatlas.com/3d-printing/direct-sound-3d-printing/"/>
@@ -111,11 +118,11 @@
         <content type="html"><![CDATA[(newatlas.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
-        <id>https://github.com/dragonflydb/dragonfly</id>
-        <link href="https://github.com/dragonflydb/dragonfly"/>
-        <updated>2022-05-31T01:15:48.362Z</updated>
-        <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
+        <title type="html"><![CDATA[일런 머스크가 테슬라 팀에 '이제 원격근무 불가' 메일을 발송]]></title>
+        <id>https://twitter.com/TechEmails/status/1531994582669348864</id>
+        <link href="https://twitter.com/TechEmails/status/1531994582669348864"/>
+        <updated>2022-06-02T01:17:01.504Z</updated>
+        <content type="html"><![CDATA[(twitter.com/TechEmails)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글이 직접 개발자에게 연락해서 PlayStore 에서 FairEmail 앱 복원]]></title>
@@ -130,13 +137,6 @@
         <link href="https://n.news.naver.com/mnews/article/001/0013223845?sid=104"/>
         <updated>2022-06-03T03:10:25.778Z</updated>
         <content type="html"><![CDATA[(n.news.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일런 머스크가 테슬라 팀에 '이제 원격근무 불가' 메일을 발송]]></title>
-        <id>https://twitter.com/TechEmails/status/1531994582669348864</id>
-        <link href="https://twitter.com/TechEmails/status/1531994582669348864"/>
-        <updated>2022-06-02T01:17:01.504Z</updated>
-        <content type="html"><![CDATA[(twitter.com/TechEmails)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebRTC Nuts & Bolts]]></title>
