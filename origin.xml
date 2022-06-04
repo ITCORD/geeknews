@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-04T09:14:39.288Z</updated>
+    <updated>2022-06-04T10:15:20.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
-        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
-        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
-        <updated>2022-06-04T01:05:05.754Z</updated>
-        <content type="html"><![CDATA[(edgedb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스]]></title>
         <id>https://jasonette.com/</id>
         <link href="https://jasonette.com/"/>
         <updated>2022-06-01T01:23:36.928Z</updated>
         <content type="html"><![CDATA[(jasonette.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
+        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
+        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
