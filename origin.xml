@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-04T17:13:30.350Z</updated>
+    <updated>2022-06-04T18:16:29.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(feather.wiki)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Privaxy - 차세대 트래커 & 광고 블록커]]></title>
-        <id>https://github.com/Barre/privaxy</id>
-        <link href="https://github.com/Barre/privaxy"/>
-        <updated>2022-06-04T01:05:05.757Z</updated>
-        <content type="html"><![CDATA[(github.com/Barre)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenVerse - 오픈 라이센스 미디어 검색엔진]]></title>
         <id>https://wordpress.org/openverse/</id>
         <link href="https://wordpress.org/openverse/"/>
         <updated>2022-06-03T03:10:25.779Z</updated>
         <content type="html"><![CDATA[(wordpress.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privaxy - 차세대 트래커 & 광고 블록커]]></title>
+        <id>https://github.com/Barre/privaxy</id>
+        <link href="https://github.com/Barre/privaxy"/>
+        <updated>2022-06-04T01:05:05.757Z</updated>
+        <content type="html"><![CDATA[(github.com/Barre)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 좋아하는 오픈소스 게임은?]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(browser.kagi.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
+        <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
+        <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
+        <updated>2022-05-30T03:29:27.134Z</updated>
+        <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
         <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
         <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
@@ -60,13 +67,6 @@
         <link href="https://github.com/git-noter/gitnoter"/>
         <updated>2022-06-04T01:05:05.754Z</updated>
         <content type="html"><![CDATA[(github.com/git-noter)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
-        <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
-        <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
-        <updated>2022-05-30T03:29:27.134Z</updated>
-        <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Neon - 서버리스 Postgres 오픈소스]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(jasonette.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676"/>
-        <updated>2022-06-03T08:17:25.162Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Codeball - AI가 수행하는 코드 리뷰]]></title>
         <id>https://codeball.ai/</id>
         <link href="https://codeball.ai/"/>
         <updated>2022-06-01T01:23:36.929Z</updated>
         <content type="html"><![CDATA[(codeball.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676"/>
+        <updated>2022-06-03T08:17:25.162Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[System Font Stack]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(twitter.com/TechEmails)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글이 직접 개발자에게 연락해서 PlayStore 에서 FairEmail 앱 복원]]></title>
-        <id>https://faircode.eu/faq.html</id>
-        <link href="https://faircode.eu/faq.html"/>
-        <updated>2022-06-03T03:10:25.788Z</updated>
-        <content type="html"><![CDATA[(faircode.eu)]]></content>
+        <title type="html"><![CDATA[Dotdrop - dotfile 들을 어디서나 사용 가능하게]]></title>
+        <id>https://github.com/deadc0de6/dotdrop</id>
+        <link href="https://github.com/deadc0de6/dotdrop"/>
+        <updated>2022-06-04T18:15:52.738Z</updated>
+        <content type="html"><![CDATA[(github.com/deadc0de6)]]></content>
     </entry>
 </feed>
