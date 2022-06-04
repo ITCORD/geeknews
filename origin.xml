@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-04T13:21:11.475Z</updated>
+    <updated>2022-06-04T14:13:03.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스]]></title>
-        <id>https://github.com/git-noter/gitnoter</id>
-        <link href="https://github.com/git-noter/gitnoter"/>
-        <updated>2022-06-04T01:05:05.754Z</updated>
-        <content type="html"><![CDATA[(github.com/git-noter)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Orion - Kagi의 WebKit 기반 브라우저]]></title>
         <id>https://browser.kagi.com/</id>
         <link href="https://browser.kagi.com/"/>
         <updated>2022-06-03T03:10:25.775Z</updated>
         <content type="html"><![CDATA[(browser.kagi.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스]]></title>
+        <id>https://github.com/git-noter/gitnoter</id>
+        <link href="https://github.com/git-noter/gitnoter"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(github.com/git-noter)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(codeball.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
-        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
-        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
-        <updated>2022-06-04T01:05:05.754Z</updated>
-        <content type="html"><![CDATA[(edgedb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[System Font Stack]]></title>
         <id>https://systemfontstack.com/</id>
         <link href="https://systemfontstack.com/"/>
         <updated>2022-06-02T01:17:01.507Z</updated>
         <content type="html"><![CDATA[(systemfontstack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
+        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
+        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
