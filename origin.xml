@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-04T04:17:40.063Z</updated>
+    <updated>2022-06-04T05:13:52.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대학생 때 알았더라면 좋았을 것들]]></title>
+        <id>https://www.slideshare.net/utilforever/ss-251900268</id>
+        <link href="https://www.slideshare.net/utilforever/ss-251900268"/>
+        <updated>2022-06-02T05:28:58.703Z</updated>
+        <content type="html"><![CDATA[(slideshare.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스]]></title>
         <id>https://github.com/git-noter/gitnoter</id>
@@ -18,13 +25,6 @@
         <link href="https://github.com/Barre/privaxy"/>
         <updated>2022-06-04T01:05:05.757Z</updated>
         <content type="html"><![CDATA[(github.com/Barre)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학생 때 알았더라면 좋았을 것들]]></title>
-        <id>https://www.slideshare.net/utilforever/ss-251900268</id>
-        <link href="https://www.slideshare.net/utilforever/ss-251900268"/>
-        <updated>2022-06-02T05:28:58.703Z</updated>
-        <content type="html"><![CDATA[(slideshare.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Feather Wiki - 1개의 HTML로 저장되는 개인용 위키]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
-        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
-        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
-        <updated>2022-06-04T01:05:05.754Z</updated>
-        <content type="html"><![CDATA[(edgedb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Orion - Kagi의 WebKit 기반 브라우저]]></title>
         <id>https://browser.kagi.com/</id>
         <link href="https://browser.kagi.com/"/>
         <updated>2022-06-03T03:10:25.775Z</updated>
         <content type="html"><![CDATA[(browser.kagi.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
+        <id>https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno</id>
+        <link href="https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Neon - 서버리스 Postgres 오픈소스]]></title>
