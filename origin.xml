@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-05T03:08:47.022Z</updated>
+    <updated>2022-06-05T04:17:44.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(slideshare.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Privaxy - 차세대 트래커 & 광고 블록커]]></title>
-        <id>https://github.com/Barre/privaxy</id>
-        <link href="https://github.com/Barre/privaxy"/>
-        <updated>2022-06-04T01:05:05.757Z</updated>
-        <content type="html"><![CDATA[(github.com/Barre)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Feather Wiki - 1개의 HTML로 저장되는 개인용 위키]]></title>
         <id>https://feather.wiki/</id>
         <link href="https://feather.wiki/"/>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[(feather.wiki)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스]]></title>
-        <id>https://github.com/git-noter/gitnoter</id>
-        <link href="https://github.com/git-noter/gitnoter"/>
-        <updated>2022-06-04T01:05:05.754Z</updated>
-        <content type="html"><![CDATA[(github.com/git-noter)]]></content>
+        <title type="html"><![CDATA[Privaxy - 차세대 트래커 & 광고 블록커]]></title>
+        <id>https://github.com/Barre/privaxy</id>
+        <link href="https://github.com/Barre/privaxy"/>
+        <updated>2022-06-04T01:05:05.757Z</updated>
+        <content type="html"><![CDATA[(github.com/Barre)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenVerse - 오픈 라이센스 미디어 검색엔진]]></title>
@@ -62,6 +55,13 @@
         <content type="html"><![CDATA[(wordpress.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스]]></title>
+        <id>https://github.com/git-noter/gitnoter</id>
+        <link href="https://github.com/git-noter/gitnoter"/>
+        <updated>2022-06-04T01:05:05.754Z</updated>
+        <content type="html"><![CDATA[(github.com/git-noter)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가장 좋아하는 오픈소스 게임은?]]></title>
         <id>https://news.ycombinator.com/item?id=31590724</id>
         <link href="https://news.ycombinator.com/item?id=31590724"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orion - Kagi의 WebKit 기반 브라우저]]></title>
-        <id>https://browser.kagi.com/</id>
-        <link href="https://browser.kagi.com/"/>
-        <updated>2022-06-03T03:10:25.775Z</updated>
-        <content type="html"><![CDATA[(browser.kagi.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
         <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
         <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
         <updated>2022-05-30T03:29:27.134Z</updated>
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orion - Kagi의 WebKit 기반 브라우저]]></title>
+        <id>https://browser.kagi.com/</id>
+        <link href="https://browser.kagi.com/"/>
+        <updated>2022-06-03T03:10:25.775Z</updated>
+        <content type="html"><![CDATA[(browser.kagi.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System Font Stack]]></title>
-        <id>https://systemfontstack.com/</id>
-        <link href="https://systemfontstack.com/"/>
-        <updated>2022-06-02T01:17:01.507Z</updated>
-        <content type="html"><![CDATA[(systemfontstack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
         <id>https://github.com/dragonflydb/dragonfly</id>
         <link href="https://github.com/dragonflydb/dragonfly"/>
         <updated>2022-05-31T01:15:48.362Z</updated>
         <content type="html"><![CDATA[(github.com/dragonflydb)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Font Stack]]></title>
+        <id>https://systemfontstack.com/</id>
+        <link href="https://systemfontstack.com/"/>
+        <updated>2022-06-02T01:17:01.507Z</updated>
+        <content type="html"><![CDATA[(systemfontstack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebRTC Nuts & Bolts]]></title>
