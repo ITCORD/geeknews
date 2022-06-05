@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-05T14:14:20.714Z</updated>
+    <updated>2022-06-05T15:14:36.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orion - Kagi의 WebKit 기반 브라우저]]></title>
-        <id>https://browser.kagi.com/</id>
-        <link href="https://browser.kagi.com/"/>
-        <updated>2022-06-03T03:10:25.775Z</updated>
-        <content type="html"><![CDATA[(browser.kagi.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스]]></title>
         <id>https://jasonette.com/</id>
         <link href="https://jasonette.com/"/>
         <updated>2022-06-01T01:23:36.928Z</updated>
         <content type="html"><![CDATA[(jasonette.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orion - Kagi의 WebKit 기반 브라우저]]></title>
+        <id>https://browser.kagi.com/</id>
+        <link href="https://browser.kagi.com/"/>
+        <updated>2022-06-03T03:10:25.775Z</updated>
+        <content type="html"><![CDATA[(browser.kagi.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Neon - 서버리스 Postgres 오픈소스]]></title>
