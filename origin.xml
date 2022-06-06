@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-06T04:29:22.343Z</updated>
+    <updated>2022-06-06T05:16:27.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.baptistearno.com/blog/open-source-skyrocket"/>
         <updated>2022-06-06T03:17:56.872Z</updated>
         <content type="html"><![CDATA[(baptistearno.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cassandra 대체제로 ScyllaDB를 선택해야 하는 이유]]></title>
+        <id>https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7</id>
+        <link href="https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7"/>
+        <updated>2022-06-06T01:12:48.114Z</updated>
+        <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Airbnb가 JavaScript 빌드를 빠르게 만든 방법]]></title>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[(gamerant.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cassandra 대체제로 ScyllaDB를 선택해야 하는 이유]]></title>
-        <id>https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7</id>
-        <link href="https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7"/>
-        <updated>2022-06-06T01:12:48.114Z</updated>
-        <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
+        <title type="html"><![CDATA[Plasmo - 브라우저 확장 개발용 SDK]]></title>
+        <id>https://github.com/PlasmoHQ/plasmo</id>
+        <link href="https://github.com/PlasmoHQ/plasmo"/>
+        <updated>2022-06-05T01:16:53.743Z</updated>
+        <content type="html"><![CDATA[(github.com/PlasmoHQ)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ford CEO, 전기차는 100% 온라인에서 가격 할인 없이 판매할 것]]></title>
@@ -60,13 +67,6 @@
         <link href="https://github.com/EpicGames/Signup/pull/24"/>
         <updated>2022-06-06T01:12:48.117Z</updated>
         <content type="html"><![CDATA[(github.com/EpicGames)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasmo - 브라우저 확장 개발용 SDK]]></title>
-        <id>https://github.com/PlasmoHQ/plasmo</id>
-        <link href="https://github.com/PlasmoHQ/plasmo"/>
-        <updated>2022-06-05T01:16:53.743Z</updated>
-        <content type="html"><![CDATA[(github.com/PlasmoHQ)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FireZone - WireGuard 기반의 VPN 서버 & 방화벽]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(github.com/git-noter)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가장 좋아하는 오픈소스 게임은?]]></title>
-        <id>https://news.ycombinator.com/item?id=31590724</id>
-        <link href="https://news.ycombinator.com/item?id=31590724"/>
-        <updated>2022-06-03T03:10:25.769Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
         <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
         <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
         <updated>2022-05-30T03:29:27.134Z</updated>
         <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 좋아하는 오픈소스 게임은?]]></title>
+        <id>https://news.ycombinator.com/item?id=31590724</id>
+        <link href="https://news.ycombinator.com/item?id=31590724"/>
+        <updated>2022-06-03T03:10:25.769Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스]]></title>
