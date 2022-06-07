@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-07T16:21:32.668Z</updated>
+    <updated>2022-06-07T17:24:53.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[tweet-to-markdown: 트위터 글을 마크다운으로 저장하는 CLI툴]]></title>
-        <id>https://github.com/kbravh/tweet-to-markdown</id>
-        <link href="https://github.com/kbravh/tweet-to-markdown"/>
-        <updated>2022-06-07T09:15:09.651Z</updated>
-        <content type="html"><![CDATA[(github.com/kbravh)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
         <id>https://github.com/InterviewReady/system-design-resources</id>
         <link href="https://github.com/InterviewReady/system-design-resources"/>
         <updated>2022-06-06T03:17:56.871Z</updated>
         <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tweet-to-markdown: 트위터 글을 마크다운으로 저장하는 CLI툴]]></title>
+        <id>https://github.com/kbravh/tweet-to-markdown</id>
+        <link href="https://github.com/kbravh/tweet-to-markdown"/>
+        <updated>2022-06-07T09:15:09.651Z</updated>
+        <content type="html"><![CDATA[(github.com/kbravh)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 스톡옵션 계산기]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(baptistearno.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, M2칩을 장착한 맥북에어와 맥북프로13 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/"/>
-        <updated>2022-06-07T01:05:55.710Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cassandra 대체제로 ScyllaDB를 선택해야 하는 이유]]></title>
         <id>https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7</id>
         <link href="https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7"/>
         <updated>2022-06-06T01:12:48.114Z</updated>
         <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, M2칩을 장착한 맥북에어와 맥북프로13 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/"/>
+        <updated>2022-06-07T01:05:55.710Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Airbnb가 JavaScript 빌드를 빠르게 만든 방법]]></title>
