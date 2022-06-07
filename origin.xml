@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-07T08:19:46.789Z</updated>
+    <updated>2022-06-07T09:15:52.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tweet-to-markdown: 트위터 글을 마크다운으로 저장하는 CLI툴]]></title>
+        <id>https://github.com/kbravh/tweet-to-markdown</id>
+        <link href="https://github.com/kbravh/tweet-to-markdown"/>
+        <updated>2022-06-07T09:15:09.651Z</updated>
+        <content type="html"><![CDATA[(github.com/kbravh)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Github 사용자가 약 40만 명의 사용자에게 6천만 통이 넘는 알림 메일을 발송.]]></title>
         <id>https://github.com/EpicGames/Signup/pull/24</id>
         <link href="https://github.com/EpicGames/Signup/pull/24"/>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/EpicGames)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, M2칩을 장착한 맥북에어와 맥북프로13 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/"/>
-        <updated>2022-06-07T01:05:55.710Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 오픈소스로 만들어서 MRR 증가시키기]]></title>
         <id>https://www.baptistearno.com/blog/open-source-skyrocket</id>
         <link href="https://www.baptistearno.com/blog/open-source-skyrocket"/>
         <updated>2022-06-06T03:17:56.872Z</updated>
         <content type="html"><![CDATA[(baptistearno.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, M2칩을 장착한 맥북에어와 맥북프로13 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/"/>
+        <updated>2022-06-07T01:05:55.710Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cassandra 대체제로 ScyllaDB를 선택해야 하는 이유]]></title>
@@ -136,12 +143,5 @@
         <link href="https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1"/>
         <updated>2022-06-07T03:16:29.581Z</updated>
         <content type="html"><![CDATA[(usatoday.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privaxy - 차세대 트래커 & 광고 블록커]]></title>
-        <id>https://github.com/Barre/privaxy</id>
-        <link href="https://github.com/Barre/privaxy"/>
-        <updated>2022-06-04T01:05:05.757Z</updated>
-        <content type="html"><![CDATA[(github.com/Barre)]]></content>
     </entry>
 </feed>
