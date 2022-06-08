@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-08T08:21:48.722Z</updated>
+    <updated>2022-06-08T09:15:13.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(kakaocorp.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meet Web Push]]></title>
+        <id>https://webkit.org/blog/12945/meet-web-push/</id>
+        <link href="https://webkit.org/blog/12945/meet-web-push/"/>
+        <updated>2022-06-08T03:20:43.364Z</updated>
+        <content type="html"><![CDATA[(webkit.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple Passkeys 개발자 가이드]]></title>
         <id>https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys</id>
         <link href="https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys"/>
@@ -46,13 +53,6 @@
         <link href="https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week"/>
         <updated>2022-06-08T01:09:06.666Z</updated>
         <content type="html"><![CDATA[(beaconcrm.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Web Push]]></title>
-        <id>https://webkit.org/blog/12945/meet-web-push/</id>
-        <link href="https://webkit.org/blog/12945/meet-web-push/"/>
-        <updated>2022-06-08T03:20:43.364Z</updated>
-        <content type="html"><![CDATA[(webkit.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
