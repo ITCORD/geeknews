@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-09T06:19:17.278Z</updated>
+    <updated>2022-06-09T07:15:24.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
-        <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
-        <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
-        <updated>2022-06-09T01:11:05.026Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
         <id>https://www.nature.com/articles/d41586-022-01487-4</id>
         <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
         <updated>2022-06-09T04:26:39.234Z</updated>
         <content type="html"><![CDATA[(nature.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
+        <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
+        <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
+        <updated>2022-06-09T01:11:05.026Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[History API는 죽었습니다. Navigation API여 영원하라]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(content.fortune.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[화이트 노이즈 만으로 월 $18000 버는 Spotify 팟캐스터들]]></title>
+        <id>https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks</id>
+        <link href="https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks"/>
+        <updated>2022-06-09T01:11:05.044Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Albert - 리눅스용 오픈소스 키보드 런처]]></title>
         <id>https://albertlauncher.github.io/</id>
         <link href="https://albertlauncher.github.io/"/>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[(albertlauncher.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화이트 노이즈 만으로 월 $18000 버는 Spotify 팟캐스터들]]></title>
-        <id>https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks</id>
-        <link href="https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks"/>
-        <updated>2022-06-09T01:11:05.044Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
+        <title type="html"><![CDATA[RFC 9114 - HTTP/3]]></title>
+        <id>https://www.rfc-editor.org/info/rfc9114</id>
+        <link href="https://www.rfc-editor.org/info/rfc9114"/>
+        <updated>2022-06-08T01:09:06.662Z</updated>
+        <content type="html"><![CDATA[(rfc-editor.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RFC 9114 - HTTP/3]]></title>
-        <id>https://www.rfc-editor.org/info/rfc9114</id>
-        <link href="https://www.rfc-editor.org/info/rfc9114"/>
-        <updated>2022-06-08T01:09:06.662Z</updated>
-        <content type="html"><![CDATA[(rfc-editor.org)]]></content>
+        <title type="html"><![CDATA[Apple Passkeys 개발자 가이드]]></title>
+        <id>https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys</id>
+        <link href="https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys"/>
+        <updated>2022-06-08T01:09:06.667Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meet Web Push]]></title>
@@ -90,11 +97,11 @@
         <content type="html"><![CDATA[(kakaocorp.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Passkeys 개발자 가이드]]></title>
-        <id>https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys</id>
-        <link href="https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys"/>
-        <updated>2022-06-08T01:09:06.667Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+        <title type="html"><![CDATA[Beacon CRM, 주4일 근무제로 변경]]></title>
+        <id>https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week</id>
+        <link href="https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week"/>
+        <updated>2022-06-08T01:09:06.666Z</updated>
+        <content type="html"><![CDATA[(beaconcrm.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탈옥된 아이폰 12/iOS 14.1 에서 하드웨어 가속되는 VM 실행하기]]></title>
@@ -102,13 +109,6 @@
         <link href="https://worthdoingbadly.com/hv/"/>
         <updated>2022-06-08T01:09:06.662Z</updated>
         <content type="html"><![CDATA[(worthdoingbadly.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beacon CRM, 주4일 근무제로 변경]]></title>
-        <id>https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week</id>
-        <link href="https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week"/>
-        <updated>2022-06-08T01:09:06.666Z</updated>
-        <content type="html"><![CDATA[(beaconcrm.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Github 사용자가 약 40만 명의 사용자에게 6천만 통이 넘는 알림 메일을 발송.]]></title>
