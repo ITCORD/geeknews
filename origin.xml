@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-09T03:23:40.325Z</updated>
+    <updated>2022-06-09T04:27:19.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[(debezium.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Albert - 리눅스용 오픈소스 키보드 런처]]></title>
-        <id>https://albertlauncher.github.io/</id>
-        <link href="https://albertlauncher.github.io/"/>
-        <updated>2022-06-09T01:11:05.028Z</updated>
-        <content type="html"><![CDATA[(albertlauncher.github.io)]]></content>
+        <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01487-4</id>
+        <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
+        <updated>2022-06-09T04:26:39.234Z</updated>
+        <content type="html"><![CDATA[(nature.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History API는 죽었습니다. Navigation API여 영원하라]]></title>
+        <id>https://www.youtube.com/watch?v=cgKUMRPAliw</id>
+        <link href="https://www.youtube.com/watch?v=cgKUMRPAliw"/>
+        <updated>2022-06-09T04:26:39.234Z</updated>
+        <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown-Tag - 웹사이트에 마크다운 기능 추가하기]]></title>
@@ -32,6 +39,13 @@
         <link href="https://github.com/MarketingPipeline/Markdown-Tag"/>
         <updated>2022-06-09T03:23:05.626Z</updated>
         <content type="html"><![CDATA[(github.com/MarketingPipeline)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Albert - 리눅스용 오픈소스 키보드 런처]]></title>
+        <id>https://albertlauncher.github.io/</id>
+        <link href="https://albertlauncher.github.io/"/>
+        <updated>2022-06-09T01:11:05.028Z</updated>
+        <content type="html"><![CDATA[(albertlauncher.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이트 노이즈 만으로 월 $18000 버는 Spotify 팟캐스터들]]></title>
@@ -130,19 +144,5 @@
         <link href="https://github.com/kbravh/tweet-to-markdown"/>
         <updated>2022-06-07T09:15:09.651Z</updated>
         <content type="html"><![CDATA[(github.com/kbravh)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU, USB-C를 표준 충전 포트로 만드는 법안 도입 합의]]></title>
-        <id>https://www.europarl.europa.eu/news/en/press-room/20220603IPR32196/deal-on-common-charger-reducing-hassle-for-consumers-and-curbing-e-waste</id>
-        <link href="https://www.europarl.europa.eu/news/en/press-room/20220603IPR32196/deal-on-common-charger-reducing-hassle-for-consumers-and-curbing-e-waste"/>
-        <updated>2022-06-08T01:09:06.666Z</updated>
-        <content type="html"><![CDATA[(europarl.europa.eu)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cassandra 대체제로 ScyllaDB를 선택해야 하는 이유]]></title>
-        <id>https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7</id>
-        <link href="https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7"/>
-        <updated>2022-06-09T03:23:05.651Z</updated>
-        <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
     </entry>
 </feed>
