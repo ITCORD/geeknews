@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-09T04:27:19.490Z</updated>
+    <updated>2022-06-09T05:15:01.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
         <updated>2022-06-09T01:11:05.026Z</updated>
         <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
-        <id>https://debezium.io/</id>
-        <link href="https://debezium.io/"/>
-        <updated>2022-06-09T01:11:05.026Z</updated>
-        <content type="html"><![CDATA[(debezium.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
@@ -34,6 +27,13 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
+        <id>https://debezium.io/</id>
+        <link href="https://debezium.io/"/>
+        <updated>2022-06-09T01:11:05.026Z</updated>
+        <content type="html"><![CDATA[(debezium.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Markdown-Tag - 웹사이트에 마크다운 기능 추가하기]]></title>
         <id>https://github.com/MarketingPipeline/Markdown-Tag</id>
         <link href="https://github.com/MarketingPipeline/Markdown-Tag"/>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(albertlauncher.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화이트 노이즈 만으로 월 $18000 버는 Spotify 팟캐스터들]]></title>
-        <id>https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks</id>
-        <link href="https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks"/>
-        <updated>2022-06-09T01:11:05.044Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세콰이어 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
         <id>https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf</id>
         <link href="https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[(content.fortune.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RFC 9114 - HTTP/3]]></title>
-        <id>https://www.rfc-editor.org/info/rfc9114</id>
-        <link href="https://www.rfc-editor.org/info/rfc9114"/>
-        <updated>2022-06-08T01:09:06.662Z</updated>
-        <content type="html"><![CDATA[(rfc-editor.org)]]></content>
+        <title type="html"><![CDATA[화이트 노이즈 만으로 월 $18000 버는 Spotify 팟캐스터들]]></title>
+        <id>https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks</id>
+        <link href="https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks"/>
+        <updated>2022-06-09T01:11:05.044Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
@@ -74,6 +67,13 @@
         <link href="https://github.com/InterviewReady/system-design-resources"/>
         <updated>2022-06-06T03:17:56.871Z</updated>
         <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC 9114 - HTTP/3]]></title>
+        <id>https://www.rfc-editor.org/info/rfc9114</id>
+        <link href="https://www.rfc-editor.org/info/rfc9114"/>
+        <updated>2022-06-08T01:09:06.662Z</updated>
+        <content type="html"><![CDATA[(rfc-editor.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meet Web Push]]></title>
