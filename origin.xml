@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-09T01:11:40.175Z</updated>
+    <updated>2022-06-09T03:23:40.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
-        <id>https://debezium.io/</id>
-        <link href="https://debezium.io/"/>
-        <updated>2022-06-09T01:11:05.026Z</updated>
-        <content type="html"><![CDATA[(debezium.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
         <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
         <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
         <updated>2022-06-09T01:11:05.026Z</updated>
         <content type="html"><![CDATA[(dev.to)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
+        <id>https://debezium.io/</id>
+        <link href="https://debezium.io/"/>
+        <updated>2022-06-09T01:11:05.026Z</updated>
+        <content type="html"><![CDATA[(debezium.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Albert - 리눅스용 오픈소스 키보드 런처]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[(albertlauncher.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세콰이어 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
-        <id>https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf</id>
-        <link href="https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf"/>
-        <updated>2022-06-08T04:28:18.153Z</updated>
-        <content type="html"><![CDATA[(content.fortune.com)]]></content>
+        <title type="html"><![CDATA[Markdown-Tag - 웹사이트에 마크다운 기능 추가하기]]></title>
+        <id>https://github.com/MarketingPipeline/Markdown-Tag</id>
+        <link href="https://github.com/MarketingPipeline/Markdown-Tag"/>
+        <updated>2022-06-09T03:23:05.626Z</updated>
+        <content type="html"><![CDATA[(github.com/MarketingPipeline)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이트 노이즈 만으로 월 $18000 버는 Spotify 팟캐스터들]]></title>
@@ -39,6 +39,13 @@
         <link href="https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks"/>
         <updated>2022-06-09T01:11:05.044Z</updated>
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세콰이어 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
+        <id>https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf</id>
+        <link href="https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf"/>
+        <updated>2022-06-08T04:28:18.153Z</updated>
+        <content type="html"><![CDATA[(content.fortune.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RFC 9114 - HTTP/3]]></title>
@@ -111,18 +118,18 @@
         <content type="html"><![CDATA[(stockoption.page.link)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tweet-to-markdown: 트위터 글을 마크다운으로 저장하는 CLI툴]]></title>
-        <id>https://github.com/kbravh/tweet-to-markdown</id>
-        <link href="https://github.com/kbravh/tweet-to-markdown"/>
-        <updated>2022-06-07T09:15:09.651Z</updated>
-        <content type="html"><![CDATA[(github.com/kbravh)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 오픈소스로 만들어서 MRR 증가시키기]]></title>
         <id>https://www.baptistearno.com/blog/open-source-skyrocket</id>
         <link href="https://www.baptistearno.com/blog/open-source-skyrocket"/>
         <updated>2022-06-06T03:17:56.872Z</updated>
         <content type="html"><![CDATA[(baptistearno.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tweet-to-markdown: 트위터 글을 마크다운으로 저장하는 CLI툴]]></title>
+        <id>https://github.com/kbravh/tweet-to-markdown</id>
+        <link href="https://github.com/kbravh/tweet-to-markdown"/>
+        <updated>2022-06-07T09:15:09.651Z</updated>
+        <content type="html"><![CDATA[(github.com/kbravh)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU, USB-C를 표준 충전 포트로 만드는 법안 도입 합의]]></title>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[(europarl.europa.eu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, iOS 16 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/06/apple-unveils-new-ways-to-share-and-communicate-in-ios-16/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/06/apple-unveils-new-ways-to-share-and-communicate-in-ios-16/"/>
-        <updated>2022-06-07T01:05:55.709Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple, M2칩 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/"/>
-        <updated>2022-06-07T01:05:55.695Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
+        <title type="html"><![CDATA[Cassandra 대체제로 ScyllaDB를 선택해야 하는 이유]]></title>
+        <id>https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7</id>
+        <link href="https://betterprogramming.pub/what-scylladb-is-and-why-you-should-care-58cb35af6cd7"/>
+        <updated>2022-06-09T03:23:05.651Z</updated>
+        <content type="html"><![CDATA[(betterprogramming.pub)]]></content>
     </entry>
 </feed>
