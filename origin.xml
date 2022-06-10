@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-10T15:17:36.621Z</updated>
+    <updated>2022-06-10T16:22:21.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(sive.rs)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01487-4</id>
+        <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
+        <updated>2022-06-09T04:26:39.234Z</updated>
+        <content type="html"><![CDATA[(nature.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google I/O 2022에서 발표한 Android 개발 도구 업데이트 정리]]></title>
         <id>https://developers-kr.googleblog.com/2022/05/whats-new-in-android-studio.html</id>
         <link href="https://developers-kr.googleblog.com/2022/05/whats-new-in-android-studio.html"/>
@@ -46,13 +53,6 @@
         <link href="https://github.blog/2022-06-08-sunsetting-atom/"/>
         <updated>2022-06-10T01:14:33.089Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
-        <id>https://www.nature.com/articles/d41586-022-01487-4</id>
-        <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
-        <updated>2022-06-09T04:26:39.234Z</updated>
-        <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[M1 Windows Project]]></title>
@@ -90,18 +90,17 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6724</id>
+        <link href="https://news.hada.io/topic?id=6724"/>
+        <updated>2022-06-10T16:21:44.715Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
         <id>https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/</id>
         <link href="https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/"/>
         <updated>2022-06-10T12:30:00.762Z</updated>
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown-Tag - 웹사이트에 마크다운 기능 추가하기]]></title>
-        <id>https://github.com/MarketingPipeline/Markdown-Tag</id>
-        <link href="https://github.com/MarketingPipeline/Markdown-Tag"/>
-        <updated>2022-06-09T03:23:05.626Z</updated>
-        <content type="html"><![CDATA[(github.com/MarketingPipeline)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
@@ -111,18 +110,18 @@
         <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Markdown-Tag - 웹사이트에 마크다운 기능 추가하기]]></title>
+        <id>https://github.com/MarketingPipeline/Markdown-Tag</id>
+        <link href="https://github.com/MarketingPipeline/Markdown-Tag"/>
+        <updated>2022-06-09T03:23:05.626Z</updated>
+        <content type="html"><![CDATA[(github.com/MarketingPipeline)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[화이트 노이즈 만으로 월 $18000 버는 Spotify 팟캐스터들]]></title>
         <id>https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks</id>
         <link href="https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks"/>
         <updated>2022-06-09T01:11:05.044Z</updated>
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Albert - 리눅스용 오픈소스 키보드 런처]]></title>
-        <id>https://albertlauncher.github.io/</id>
-        <link href="https://albertlauncher.github.io/"/>
-        <updated>2022-06-09T01:11:05.028Z</updated>
-        <content type="html"><![CDATA[(albertlauncher.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RFC 9114 - HTTP/3]]></title>
@@ -132,17 +131,17 @@
         <content type="html"><![CDATA[(rfc-editor.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Albert - 리눅스용 오픈소스 키보드 런처]]></title>
+        <id>https://albertlauncher.github.io/</id>
+        <link href="https://albertlauncher.github.io/"/>
+        <updated>2022-06-09T01:11:05.028Z</updated>
+        <content type="html"><![CDATA[(albertlauncher.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple Passkeys 개발자 가이드]]></title>
         <id>https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys</id>
         <link href="https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys"/>
         <updated>2022-06-08T01:09:06.667Z</updated>
         <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Web Push]]></title>
-        <id>https://webkit.org/blog/12945/meet-web-push/</id>
-        <link href="https://webkit.org/blog/12945/meet-web-push/"/>
-        <updated>2022-06-08T03:20:43.364Z</updated>
-        <content type="html"><![CDATA[(webkit.org)]]></content>
     </entry>
 </feed>
