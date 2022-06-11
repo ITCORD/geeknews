@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-10T23:15:18.251Z</updated>
+    <updated>2022-06-11T01:05:57.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
+        <id>https://deepkit.io/</id>
+        <link href="https://deepkit.io/"/>
+        <updated>2022-06-11T01:05:16.812Z</updated>
+        <content type="html"><![CDATA[(deepkit.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mirrord - 프로덕션 트래픽을 개발 환경으로 미러링 해주는 오픈소스]]></title>
         <id>https://github.com/metalbear-co/mirrord</id>
         <link href="https://github.com/metalbear-co/mirrord"/>
         <updated>2022-06-10T03:18:38.954Z</updated>
         <content type="html"><![CDATA[(github.com/metalbear-co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
+        <id>https://github.com/anufrievroman/calcure</id>
+        <link href="https://github.com/anufrievroman/calcure"/>
+        <updated>2022-06-11T01:05:16.852Z</updated>
+        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dashy - 개인 서버용 스타트 페이지 오픈소스]]></title>
@@ -41,18 +55,18 @@
         <content type="html"><![CDATA[(sive.rs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
-        <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
-        <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
-        <updated>2022-06-09T01:11:05.026Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub, Atom 에디터 종료]]></title>
         <id>https://github.blog/2022-06-08-sunsetting-atom/</id>
         <link href="https://github.blog/2022-06-08-sunsetting-atom/"/>
         <updated>2022-06-10T01:14:33.089Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
+        <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
+        <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
+        <updated>2022-06-09T01:11:05.026Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google I/O 2022에서 발표한 Android 개발 도구 업데이트 정리]]></title>
@@ -129,19 +143,5 @@
         <link href="https://www.rfc-editor.org/info/rfc9114"/>
         <updated>2022-06-08T01:09:06.662Z</updated>
         <content type="html"><![CDATA[(rfc-editor.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Albert - 리눅스용 오픈소스 키보드 런처]]></title>
-        <id>https://albertlauncher.github.io/</id>
-        <link href="https://albertlauncher.github.io/"/>
-        <updated>2022-06-09T01:11:05.028Z</updated>
-        <content type="html"><![CDATA[(albertlauncher.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Passkeys 개발자 가이드]]></title>
-        <id>https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys</id>
-        <link href="https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys"/>
-        <updated>2022-06-08T01:09:06.667Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
 </feed>
