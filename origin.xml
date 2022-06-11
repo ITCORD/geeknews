@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-11T14:13:35.328Z</updated>
+    <updated>2022-06-11T15:14:17.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
+        <id>https://developer.apple.com/kr/design/awards/</id>
+        <link href="https://developer.apple.com/kr/design/awards/"/>
+        <updated>2022-06-11T03:16:10.693Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
         <id>https://deepkit.io/</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(github.com/metalbear-co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
-        <id>https://developer.apple.com/kr/design/awards/</id>
-        <link href="https://developer.apple.com/kr/design/awards/"/>
-        <updated>2022-06-11T03:16:10.693Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+        <title type="html"><![CDATA[Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI]]></title>
+        <id>https://trunk.io/</id>
+        <link href="https://trunk.io/"/>
+        <updated>2022-06-11T08:17:05.276Z</updated>
+        <content type="html"><![CDATA[(trunk.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dashy - 개인 서버용 스타트 페이지 오픈소스]]></title>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/Lissy93)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
-        <id>https://github.com/anufrievroman/calcure</id>
-        <link href="https://github.com/anufrievroman/calcure"/>
-        <updated>2022-06-11T01:05:16.852Z</updated>
-        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
         <id>https://lhbg-book.link/</id>
         <link href="https://lhbg-book.link/"/>
         <updated>2022-06-10T03:18:38.953Z</updated>
         <content type="html"><![CDATA[(lhbg-book.link)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
+        <id>https://github.com/anufrievroman/calcure</id>
+        <link href="https://github.com/anufrievroman/calcure"/>
+        <updated>2022-06-11T01:05:16.852Z</updated>
+        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[(content.fortune.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI]]></title>
-        <id>https://trunk.io/</id>
-        <link href="https://trunk.io/"/>
-        <updated>2022-06-11T08:17:05.276Z</updated>
-        <content type="html"><![CDATA[(trunk.io)]]></content>
+        <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
+        <id>https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/</id>
+        <link href="https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/"/>
+        <updated>2022-06-10T12:30:00.762Z</updated>
+        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용 가능한 좋은 .COM 도메인 찾기]]></title>
@@ -95,13 +102,6 @@
         <link href="https://github.blog/2022-06-08-sunsetting-atom/"/>
         <updated>2022-06-10T01:14:33.089Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
-        <id>https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/</id>
-        <link href="https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/"/>
-        <updated>2022-06-10T12:30:00.762Z</updated>
-        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
