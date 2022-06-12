@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-12T13:21:44.281Z</updated>
+    <updated>2022-06-12T14:12:47.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(lhbg-book.link)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
+        <id>https://github.com/InterviewReady/system-design-resources</id>
+        <link href="https://github.com/InterviewReady/system-design-resources"/>
+        <updated>2022-06-06T03:17:56.871Z</updated>
+        <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
         <id>https://developer.apple.com/kr/design/awards/</id>
         <link href="https://developer.apple.com/kr/design/awards/"/>
@@ -102,13 +109,6 @@
         <link href="https://github.com/anufrievroman/calcure"/>
         <updated>2022-06-11T01:05:16.852Z</updated>
         <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
-        <id>https://github.com/InterviewReady/system-design-resources</id>
-        <link href="https://github.com/InterviewReady/system-design-resources"/>
-        <updated>2022-06-06T03:17:56.871Z</updated>
-        <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
