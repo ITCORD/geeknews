@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-12T11:12:18.058Z</updated>
+    <updated>2022-06-12T12:23:33.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/Lissy93)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
-        <id>https://deepkit.io/</id>
-        <link href="https://deepkit.io/"/>
-        <updated>2022-06-11T01:05:16.812Z</updated>
-        <content type="html"><![CDATA[(deepkit.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
         <id>https://www.nature.com/articles/d41586-022-01487-4</id>
         <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
         <updated>2022-06-09T04:26:39.234Z</updated>
         <content type="html"><![CDATA[(nature.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
+        <id>https://deepkit.io/</id>
+        <link href="https://deepkit.io/"/>
+        <updated>2022-06-11T01:05:16.812Z</updated>
+        <content type="html"><![CDATA[(deepkit.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI]]></title>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
+        <id>https://github.com/anufrievroman/calcure</id>
+        <link href="https://github.com/anufrievroman/calcure"/>
+        <updated>2022-06-11T01:05:16.852Z</updated>
+        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
         <id>https://github.com/InterviewReady/system-design-resources</id>
         <link href="https://github.com/InterviewReady/system-design-resources"/>
@@ -109,13 +116,6 @@
         <link href="https://debezium.io/"/>
         <updated>2022-06-09T01:11:05.026Z</updated>
         <content type="html"><![CDATA[(debezium.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
-        <id>https://github.com/anufrievroman/calcure</id>
-        <link href="https://github.com/anufrievroman/calcure"/>
-        <updated>2022-06-11T01:05:16.852Z</updated>
-        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
