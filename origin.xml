@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-12T03:21:43.212Z</updated>
+    <updated>2022-06-12T04:22:30.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
-        <id>https://lhbg-book.link/</id>
-        <link href="https://lhbg-book.link/"/>
-        <updated>2022-06-10T03:18:38.953Z</updated>
-        <content type="html"><![CDATA[(lhbg-book.link)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
         <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
         <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
@@ -90,7 +83,14 @@
         <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세쿼이어 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
+        <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
+        <id>https://lhbg-book.link/</id>
+        <link href="https://lhbg-book.link/"/>
+        <updated>2022-06-10T03:18:38.953Z</updated>
+        <content type="html"><![CDATA[(lhbg-book.link)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세쿼이아 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
         <id>https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf</id>
         <link href="https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf"/>
         <updated>2022-06-08T04:28:18.153Z</updated>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
-        <id>https://github.com/anufrievroman/calcure</id>
-        <link href="https://github.com/anufrievroman/calcure"/>
-        <updated>2022-06-11T01:05:16.852Z</updated>
-        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사용 가능한 좋은 .COM 도메인 찾기]]></title>
         <id>https://sive.rs/com</id>
         <link href="https://sive.rs/com"/>
@@ -137,6 +130,13 @@
         <link href="https://github.blog/2022-06-08-sunsetting-atom/"/>
         <updated>2022-06-10T01:14:33.089Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
+        <id>https://github.com/anufrievroman/calcure</id>
+        <link href="https://github.com/anufrievroman/calcure"/>
+        <updated>2022-06-11T01:05:16.852Z</updated>
+        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[History API는 죽었습니다. Navigation API여 영원하라]]></title>
