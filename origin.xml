@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-12T09:15:15.631Z</updated>
+    <updated>2022-06-12T10:15:13.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(shotcut.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찰스 페졸드의 CODE 2판 발표]]></title>
-        <id>http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html</id>
-        <link href="http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html"/>
-        <updated>2022-06-12T01:13:59.823Z</updated>
-        <content type="html"><![CDATA[(charlespetzold.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Umbrel - 셀프호스팅을 위한 개인용 서버 OS]]></title>
         <id>https://umbrel.com/</id>
         <link href="https://umbrel.com/"/>
         <updated>2022-06-12T01:13:59.816Z</updated>
         <content type="html"><![CDATA[(umbrel.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찰스 페졸드의 CODE 2판 발표]]></title>
+        <id>http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html</id>
+        <link href="http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html"/>
+        <updated>2022-06-12T01:13:59.823Z</updated>
+        <content type="html"><![CDATA[(charlespetzold.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만약 OpenSSL이 GUI 였다면]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
-        <id>https://developer.apple.com/kr/design/awards/</id>
-        <link href="https://developer.apple.com/kr/design/awards/"/>
-        <updated>2022-06-11T03:16:10.693Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세쿼이아 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
         <id>https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf</id>
         <link href="https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf"/>
         <updated>2022-06-08T04:28:18.153Z</updated>
         <content type="html"><![CDATA[(content.fortune.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
+        <id>https://developer.apple.com/kr/design/awards/</id>
+        <link href="https://developer.apple.com/kr/design/awards/"/>
+        <updated>2022-06-11T03:16:10.693Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
@@ -109,6 +109,13 @@
         <link href="https://debezium.io/"/>
         <updated>2022-06-09T01:11:05.026Z</updated>
         <content type="html"><![CDATA[(debezium.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
+        <id>https://github.com/anufrievroman/calcure</id>
+        <link href="https://github.com/anufrievroman/calcure"/>
+        <updated>2022-06-11T01:05:16.852Z</updated>
+        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.youtube.com/watch?v=cgKUMRPAliw"/>
         <updated>2022-06-09T04:26:39.234Z</updated>
         <content type="html"><![CDATA[(youtube.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
-        <id>https://github.com/anufrievroman/calcure</id>
-        <link href="https://github.com/anufrievroman/calcure"/>
-        <updated>2022-06-11T01:05:16.852Z</updated>
-        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
 </feed>
