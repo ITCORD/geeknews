@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-12T23:14:50.323Z</updated>
+    <updated>2022-06-13T01:17:51.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스]]></title>
+        <id>https://www.dns.toys/</id>
+        <link href="https://www.dns.toys/"/>
+        <updated>2022-06-13T01:17:11.813Z</updated>
+        <content type="html"><![CDATA[(dns.toys)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBD, Web5 발표]]></title>
+        <id>https://developer.tbd.website/projects/web5/</id>
+        <link href="https://developer.tbd.website/projects/web5/"/>
+        <updated>2022-06-13T01:17:11.814Z</updated>
+        <content type="html"><![CDATA[(developer.tbd.website)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shotcut - 무료, 오픈소스, 크로스플랫폼 비디오 편집기]]></title>
         <id>https://shotcut.org/</id>
         <link href="https://shotcut.org/"/>
         <updated>2022-06-12T03:21:09.251Z</updated>
         <content type="html"><![CDATA[(shotcut.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 언어 선택창 만들기]]></title>
+        <id>https://www.smashingmagazine.com/2022/05/designing-better-language-selector/</id>
+        <link href="https://www.smashingmagazine.com/2022/05/designing-better-language-selector/"/>
+        <updated>2022-06-13T01:17:11.816Z</updated>
+        <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[찰스 페졸드의 CODE 2판 발표]]></title>
@@ -48,13 +69,6 @@
         <content type="html"><![CDATA[(github.com/Lissy93)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
-        <id>https://www.nature.com/articles/d41586-022-01487-4</id>
-        <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
-        <updated>2022-06-09T04:26:39.234Z</updated>
-        <content type="html"><![CDATA[(nature.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
         <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
         <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
@@ -62,25 +76,11 @@
         <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
-        <id>https://lhbg-book.link/</id>
-        <link href="https://lhbg-book.link/"/>
-        <updated>2022-06-10T03:18:38.953Z</updated>
-        <content type="html"><![CDATA[(lhbg-book.link)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세쿼이아 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
-        <id>https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf</id>
-        <link href="https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf"/>
-        <updated>2022-06-08T04:28:18.153Z</updated>
-        <content type="html"><![CDATA[(content.fortune.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
-        <id>https://deepkit.io/</id>
-        <link href="https://deepkit.io/"/>
-        <updated>2022-06-11T01:05:16.812Z</updated>
-        <content type="html"><![CDATA[(deepkit.io)]]></content>
+        <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01487-4</id>
+        <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
+        <updated>2022-06-09T04:26:39.234Z</updated>
+        <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
@@ -97,32 +97,25 @@
         <content type="html"><![CDATA[(trunk.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
-        <id>https://debezium.io/</id>
-        <link href="https://debezium.io/"/>
-        <updated>2022-06-09T01:11:05.026Z</updated>
-        <content type="html"><![CDATA[(debezium.io)]]></content>
+        <title type="html"><![CDATA[세쿼이아 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
+        <id>https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf</id>
+        <link href="https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf"/>
+        <updated>2022-06-08T04:28:18.153Z</updated>
+        <content type="html"><![CDATA[(content.fortune.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
-        <id>https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/</id>
-        <link href="https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/"/>
-        <updated>2022-06-10T12:30:00.762Z</updated>
-        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+        <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
+        <id>https://lhbg-book.link/</id>
+        <link href="https://lhbg-book.link/"/>
+        <updated>2022-06-10T03:18:38.953Z</updated>
+        <content type="html"><![CDATA[(lhbg-book.link)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사용 가능한 좋은 .COM 도메인 찾기]]></title>
-        <id>https://sive.rs/com</id>
-        <link href="https://sive.rs/com"/>
-        <updated>2022-06-10T01:14:33.090Z</updated>
-        <content type="html"><![CDATA[(sive.rs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
-        <id>https://developer.apple.com/kr/design/awards/</id>
-        <link href="https://developer.apple.com/kr/design/awards/"/>
-        <updated>2022-06-11T03:16:10.693Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+        <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
+        <id>https://deepkit.io/</id>
+        <link href="https://deepkit.io/"/>
+        <updated>2022-06-11T01:05:16.812Z</updated>
+        <content type="html"><![CDATA[(deepkit.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
@@ -132,17 +125,24 @@
         <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub, Atom 에디터 종료]]></title>
-        <id>https://github.blog/2022-06-08-sunsetting-atom/</id>
-        <link href="https://github.blog/2022-06-08-sunsetting-atom/"/>
-        <updated>2022-06-10T01:14:33.089Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
+        <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
+        <id>https://debezium.io/</id>
+        <link href="https://debezium.io/"/>
+        <updated>2022-06-09T01:11:05.026Z</updated>
+        <content type="html"><![CDATA[(debezium.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[History API는 죽었습니다. Navigation API여 영원하라]]></title>
-        <id>https://www.youtube.com/watch?v=cgKUMRPAliw</id>
-        <link href="https://www.youtube.com/watch?v=cgKUMRPAliw"/>
-        <updated>2022-06-09T04:26:39.234Z</updated>
-        <content type="html"><![CDATA[(youtube.com)]]></content>
+        <title type="html"><![CDATA[사용 가능한 좋은 .COM 도메인 찾기]]></title>
+        <id>https://sive.rs/com</id>
+        <link href="https://sive.rs/com"/>
+        <updated>2022-06-10T01:14:33.090Z</updated>
+        <content type="html"><![CDATA[(sive.rs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
+        <id>https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/</id>
+        <link href="https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/"/>
+        <updated>2022-06-10T12:30:00.762Z</updated>
+        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
 </feed>
