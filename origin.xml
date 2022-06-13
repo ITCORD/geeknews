@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-13T03:29:20.072Z</updated>
+    <updated>2022-06-13T04:36:40.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,32 +97,11 @@
         <content type="html"><![CDATA[(content.fortune.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
-        <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
-        <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
-        <updated>2022-06-09T01:11:05.026Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
         <id>https://github.com/InterviewReady/system-design-resources</id>
         <link href="https://github.com/InterviewReady/system-design-resources"/>
         <updated>2022-06-06T03:17:56.871Z</updated>
         <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
-        <id>https://www.nature.com/articles/d41586-022-01487-4</id>
-        <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
-        <updated>2022-06-09T04:26:39.234Z</updated>
-        <content type="html"><![CDATA[(nature.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
-        <id>https://github.com/anufrievroman/calcure</id>
-        <link href="https://github.com/anufrievroman/calcure"/>
-        <updated>2022-06-11T01:05:16.852Z</updated>
-        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
@@ -132,6 +111,20 @@
         <content type="html"><![CDATA[(deepkit.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01487-4</id>
+        <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
+        <updated>2022-06-09T04:26:39.234Z</updated>
+        <content type="html"><![CDATA[(nature.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
+        <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
+        <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
+        <updated>2022-06-09T01:11:05.026Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
         <id>https://lhbg-book.link/</id>
         <link href="https://lhbg-book.link/"/>
@@ -139,10 +132,17 @@
         <content type="html"><![CDATA[(lhbg-book.link)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
-        <id>https://debezium.io/</id>
-        <link href="https://debezium.io/"/>
-        <updated>2022-06-09T01:11:05.026Z</updated>
-        <content type="html"><![CDATA[(debezium.io)]]></content>
+        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
+        <id>https://github.com/anufrievroman/calcure</id>
+        <link href="https://github.com/anufrievroman/calcure"/>
+        <updated>2022-06-11T01:05:16.852Z</updated>
+        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사용 가능한 좋은 .COM 도메인 찾기]]></title>
+        <id>https://sive.rs/com</id>
+        <link href="https://sive.rs/com"/>
+        <updated>2022-06-13T04:36:04.025Z</updated>
+        <content type="html"><![CDATA[(sive.rs)]]></content>
     </entry>
 </feed>
