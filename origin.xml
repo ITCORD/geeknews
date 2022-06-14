@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-13T23:15:32.630Z</updated>
+    <updated>2022-06-14T01:23:12.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작]]></title>
+        <id>https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/</id>
+        <link href="https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/"/>
+        <updated>2022-06-14T01:22:36.343Z</updated>
+        <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 Apple Human Interface Guidelines]]></title>
+        <id>https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/</id>
+        <link href="https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/"/>
+        <updated>2022-06-14T01:22:36.343Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastify 4.0 릴리즈]]></title>
+        <id>https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e</id>
+        <link href="https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e"/>
+        <updated>2022-06-14T01:22:36.343Z</updated>
+        <content type="html"><![CDATA[(medium.com/@fastifyjs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북은 어떻게 배포하는가]]></title>
+        <id>https://subokim.wordpress.com/2022/06/12/how_facebook_work/</id>
+        <link href="https://subokim.wordpress.com/2022/06/12/how_facebook_work/"/>
+        <updated>2022-06-13T16:21:18.626Z</updated>
+        <content type="html"><![CDATA[(subokim.wordpress.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스]]></title>
         <id>https://www.dns.toys/</id>
@@ -18,6 +46,20 @@
         <link href="https://kickstartsidehustle.com/a-billion-dollar-mvp/"/>
         <updated>2022-06-13T03:28:44.993Z</updated>
         <content type="html"><![CDATA[(kickstartsidehustle.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도요타, 가정용 8.7kWh 배터리 공개]]></title>
+        <id>https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/</id>
+        <link href="https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/"/>
+        <updated>2022-06-14T01:22:36.344Z</updated>
+        <content type="html"><![CDATA[(pv-magazine.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android용 Thunderbird 계획 발표]]></title>
+        <id>https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/</id>
+        <link href="https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/"/>
+        <updated>2022-06-14T01:22:36.344Z</updated>
+        <content type="html"><![CDATA[(blog.thunderbird.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 언어 선택창 만들기]]></title>
@@ -53,13 +95,6 @@
         <link href="http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html"/>
         <updated>2022-06-12T01:13:59.823Z</updated>
         <content type="html"><![CDATA[(charlespetzold.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북은 어떻게 배포하는가]]></title>
-        <id>https://subokim.wordpress.com/2022/06/12/how_facebook_work/</id>
-        <link href="https://subokim.wordpress.com/2022/06/12/how_facebook_work/"/>
-        <updated>2022-06-13T16:21:18.626Z</updated>
-        <content type="html"><![CDATA[(subokim.wordpress.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Umbrel - 셀프호스팅을 위한 개인용 서버 OS]]></title>
@@ -109,40 +144,5 @@
         <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
         <updated>2022-06-09T01:11:05.026Z</updated>
         <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
-        <id>https://deepkit.io/</id>
-        <link href="https://deepkit.io/"/>
-        <updated>2022-06-11T01:05:16.812Z</updated>
-        <content type="html"><![CDATA[(deepkit.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI]]></title>
-        <id>https://trunk.io/</id>
-        <link href="https://trunk.io/"/>
-        <updated>2022-06-11T08:17:05.276Z</updated>
-        <content type="html"><![CDATA[(trunk.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
-        <id>https://lhbg-book.link/</id>
-        <link href="https://lhbg-book.link/"/>
-        <updated>2022-06-10T03:18:38.953Z</updated>
-        <content type="html"><![CDATA[(lhbg-book.link)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
-        <id>https://github.com/anufrievroman/calcure</id>
-        <link href="https://github.com/anufrievroman/calcure"/>
-        <updated>2022-06-11T01:05:16.852Z</updated>
-        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
-        <id>https://debezium.io/</id>
-        <link href="https://debezium.io/"/>
-        <updated>2022-06-13T14:24:45.597Z</updated>
-        <content type="html"><![CDATA[(debezium.io)]]></content>
     </entry>
 </feed>
