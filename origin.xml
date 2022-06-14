@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-14T06:21:17.585Z</updated>
+    <updated>2022-06-14T07:15:34.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,20 +34,6 @@
         <content type="html"><![CDATA[(subokim.wordpress.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 대화형 AI(챗봇)가 지각이 있다고 주장한 직원을 유급 휴직 처분]]></title>
-        <id>https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66</id>
-        <link href="https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66"/>
-        <updated>2022-06-14T03:49:12.645Z</updated>
-        <content type="html"><![CDATA[(cajundiscordian.medium.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스]]></title>
-        <id>https://www.dns.toys/</id>
-        <link href="https://www.dns.toys/"/>
-        <updated>2022-06-13T01:17:11.813Z</updated>
-        <content type="html"><![CDATA[(dns.toys)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
         <id>https://kickstartsidehustle.com/a-billion-dollar-mvp/</id>
         <link href="https://kickstartsidehustle.com/a-billion-dollar-mvp/"/>
@@ -55,11 +41,11 @@
         <content type="html"><![CDATA[(kickstartsidehustle.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastify 4.0 릴리즈]]></title>
-        <id>https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e</id>
-        <link href="https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e"/>
-        <updated>2022-06-14T01:22:36.343Z</updated>
-        <content type="html"><![CDATA[(medium.com/@fastifyjs)]]></content>
+        <title type="html"><![CDATA[구글, 대화형 AI(챗봇)가 지각이 있다고 주장한 직원을 유급 휴직 처분]]></title>
+        <id>https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66</id>
+        <link href="https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66"/>
+        <updated>2022-06-14T03:49:12.645Z</updated>
+        <content type="html"><![CDATA[(cajundiscordian.medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도요타, 가정용 8.7kWh 배터리 공개]]></title>
@@ -69,11 +55,25 @@
         <content type="html"><![CDATA[(pv-magazine.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android용 Thunderbird 계획 발표]]></title>
-        <id>https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/</id>
-        <link href="https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/"/>
-        <updated>2022-06-14T01:22:36.344Z</updated>
-        <content type="html"><![CDATA[(blog.thunderbird.net)]]></content>
+        <title type="html"><![CDATA[DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스]]></title>
+        <id>https://www.dns.toys/</id>
+        <link href="https://www.dns.toys/"/>
+        <updated>2022-06-13T01:17:11.813Z</updated>
+        <content type="html"><![CDATA[(dns.toys)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastify 4.0 릴리즈]]></title>
+        <id>https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e</id>
+        <link href="https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e"/>
+        <updated>2022-06-14T01:22:36.343Z</updated>
+        <content type="html"><![CDATA[(medium.com/@fastifyjs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오크리지 국립 연구소의 Frontier가 세계 슈퍼컴퓨터 순위 1위를 차지]]></title>
+        <id>https://www.ornl.gov/news/frontier-supercomputer-debuts-worlds-fastest-breaking-exascale-barrier</id>
+        <link href="https://www.ornl.gov/news/frontier-supercomputer-debuts-worlds-fastest-breaking-exascale-barrier"/>
+        <updated>2022-06-14T07:14:58.852Z</updated>
+        <content type="html"><![CDATA[(ornl.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 언어 선택창 만들기]]></title>
@@ -81,6 +81,13 @@
         <link href="https://www.smashingmagazine.com/2022/05/designing-better-language-selector/"/>
         <updated>2022-06-13T01:17:11.816Z</updated>
         <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android용 Thunderbird 계획 발표]]></title>
+        <id>https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/</id>
+        <link href="https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/"/>
+        <updated>2022-06-14T01:22:36.344Z</updated>
+        <content type="html"><![CDATA[(blog.thunderbird.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TinyGo - LLVM기반의 소형 Go 컴파일러]]></title>
@@ -137,12 +144,5 @@
         <link href="https://content.fortune.com/wp-content/uploads/2022/05/Adapting_to_Endure_May_2022.pdf"/>
         <updated>2022-06-08T04:28:18.153Z</updated>
         <content type="html"><![CDATA[(content.fortune.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashy - 개인 서버용 스타트 페이지 오픈소스]]></title>
-        <id>https://github.com/Lissy93/dashy</id>
-        <link href="https://github.com/Lissy93/dashy"/>
-        <updated>2022-06-10T01:14:33.090Z</updated>
-        <content type="html"><![CDATA[(github.com/Lissy93)]]></content>
     </entry>
 </feed>
