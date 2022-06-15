@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-15T19:13:36.569Z</updated>
+    <updated>2022-06-15T20:17:55.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
-        <id>https://skills.github.com/</id>
-        <link href="https://skills.github.com/"/>
-        <updated>2022-06-15T01:15:31.592Z</updated>
-        <content type="html"><![CDATA[(skills.github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
         <id>https://blog.pragmaticengineer.com/project-management-at-big-tech/</id>
         <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
         <updated>2022-06-14T03:49:12.645Z</updated>
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
+        <id>https://skills.github.com/</id>
+        <link href="https://skills.github.com/"/>
+        <updated>2022-06-15T01:15:31.592Z</updated>
+        <content type="html"><![CDATA[(skills.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(tech42.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
-        <id>https://news.hada.io/topic?id=6761</id>
-        <link href="https://news.hada.io/topic?id=6761"/>
-        <updated>2022-06-15T12:27:23.376Z</updated>
-        <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
         <id>https://engineering.ab180.co/stories/android-sdk-test-automation-part1</id>
         <link href="https://engineering.ab180.co/stories/android-sdk-test-automation-part1"/>
         <updated>2022-06-15T03:37:28.299Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
+        <id>https://news.hada.io/topic?id=6761</id>
+        <link href="https://news.hada.io/topic?id=6761"/>
+        <updated>2022-06-15T12:27:23.376Z</updated>
+        <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
