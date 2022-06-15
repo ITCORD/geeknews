@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2022-06-15T13:34:36.052Z</updated>
+    <updated>2022-06-15T14:13:49.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
-        <id>https://news.hada.io/topic?id=6761</id>
-        <link href="https://news.hada.io/topic?id=6761"/>
-        <updated>2022-06-15T12:27:34.224Z</updated>
-        <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
         <id>https://news.hada.io/topic?id=6759</id>
         <link href="https://news.hada.io/topic?id=6759"/>
         <updated>2022-06-15T06:17:58.058Z</updated>
         <content type="html"><![CDATA[(json.media)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
+        <id>https://news.hada.io/topic?id=6761</id>
+        <link href="https://news.hada.io/topic?id=6761"/>
+        <updated>2022-06-15T12:27:34.224Z</updated>
+        <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 스톡옵션 계산기]]></title>
