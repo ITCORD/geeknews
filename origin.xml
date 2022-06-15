@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-15T11:13:54.149Z</updated>
+    <updated>2022-06-15T12:27:59.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(dailyedit.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
+        <id>https://news.hada.io/topic?id=6761</id>
+        <link href="https://news.hada.io/topic?id=6761"/>
+        <updated>2022-06-15T12:27:23.376Z</updated>
+        <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
         <id>https://engineering.ab180.co/stories/android-sdk-test-automation-part1</id>
         <link href="https://engineering.ab180.co/stories/android-sdk-test-automation-part1"/>
@@ -55,25 +62,11 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다]]></title>
-        <id>https://twitter.com/hyunbinseo97/status/1535805155454484480</id>
-        <link href="https://twitter.com/hyunbinseo97/status/1535805155454484480"/>
-        <updated>2022-06-15T01:15:31.598Z</updated>
-        <content type="html"><![CDATA[(twitter.com/hyunbinseo97)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Floppotron 3.0 - FDD/HDD/스캐너로 만든 컴퓨터 오케스트라]]></title>
         <id>http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/</id>
         <link href="http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"/>
         <updated>2022-06-15T03:37:28.299Z</updated>
         <content type="html"><![CDATA[(silent.org.pl)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작]]></title>
-        <id>https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/</id>
-        <link href="https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/"/>
-        <updated>2022-06-14T01:22:36.343Z</updated>
-        <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간 이식에 변화를 몰고 올 혁신적 보관 기술이 등장했다]]></title>
@@ -88,6 +81,20 @@
         <link href="https://fresh.deno.dev/"/>
         <updated>2022-06-15T01:15:31.602Z</updated>
         <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다]]></title>
+        <id>https://twitter.com/hyunbinseo97/status/1535805155454484480</id>
+        <link href="https://twitter.com/hyunbinseo97/status/1535805155454484480"/>
+        <updated>2022-06-15T01:15:31.598Z</updated>
+        <content type="html"><![CDATA[(twitter.com/hyunbinseo97)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작]]></title>
+        <id>https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/</id>
+        <link href="https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/"/>
+        <updated>2022-06-14T01:22:36.343Z</updated>
+        <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
@@ -137,12 +144,5 @@
         <link href="https://shotcut.org/"/>
         <updated>2022-06-12T03:21:09.251Z</updated>
         <content type="html"><![CDATA[(shotcut.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyGo - LLVM기반의 소형 Go 컴파일러]]></title>
-        <id>https://github.com/tinygo-org/tinygo</id>
-        <link href="https://github.com/tinygo-org/tinygo"/>
-        <updated>2022-06-13T03:28:44.999Z</updated>
-        <content type="html"><![CDATA[(github.com/tinygo-org)]]></content>
     </entry>
 </feed>
