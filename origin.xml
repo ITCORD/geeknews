@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-15T06:18:21.750Z</updated>
+    <updated>2022-06-15T07:15:28.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
+        <id>https://news.hada.io/topic?id=6759</id>
+        <link href="https://news.hada.io/topic?id=6759"/>
+        <updated>2022-06-15T06:17:47.263Z</updated>
+        <content type="html"><![CDATA[(json.media)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
         <id>https://github.com/mbrlabs/Lorien</id>
@@ -20,18 +27,18 @@
         <content type="html"><![CDATA[(skills.github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
-        <id>https://news.hada.io/topic?id=6759</id>
-        <link href="https://news.hada.io/topic?id=6759"/>
-        <updated>2022-06-15T06:17:47.263Z</updated>
-        <content type="html"><![CDATA[(json.media)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
         <id>https://blog.pragmaticengineer.com/project-management-at-big-tech/</id>
         <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
         <updated>2022-06-14T03:49:12.645Z</updated>
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27년만에 역사 속으로 사라지는 인터넷 익스플로러… 서비스 종료 이후는?]]></title>
+        <id>https://www.tech42.co.kr/27%eb%85%84%eb%a7%8c%ec%97%90-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b5%ec%8a%a4%ed%94%8c%eb%a1%9c%eb%9f%ac/</id>
+        <link href="https://www.tech42.co.kr/27%eb%85%84%eb%a7%8c%ec%97%90-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b5%ec%8a%a4%ed%94%8c%eb%a1%9c%eb%9f%ac/"/>
+        <updated>2022-06-15T03:37:28.299Z</updated>
+        <content type="html"><![CDATA[(tech42.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[27년만에 역사 속으로 사라지는 인터넷 익스플로러… 서비스 종료 이후는?]]></title>
-        <id>https://www.tech42.co.kr/27%eb%85%84%eb%a7%8c%ec%97%90-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b5%ec%8a%a4%ed%94%8c%eb%a1%9c%eb%9f%ac/</id>
-        <link href="https://www.tech42.co.kr/27%eb%85%84%eb%a7%8c%ec%97%90-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b5%ec%8a%a4%ed%94%8c%eb%a1%9c%eb%9f%ac/"/>
-        <updated>2022-06-15T03:37:28.299Z</updated>
-        <content type="html"><![CDATA[(tech42.co.kr)]]></content>
+        <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
+        <id>https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/</id>
+        <link href="https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"/>
+        <updated>2022-06-15T01:15:31.601Z</updated>
+        <content type="html"><![CDATA[(dailyedit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다]]></title>
@@ -67,13 +74,6 @@
         <link href="https://www.technologyreview.kr/storage-expand-liver-transplant-waitlist-lesion/"/>
         <updated>2022-06-15T01:15:31.598Z</updated>
         <content type="html"><![CDATA[(technologyreview.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
-        <id>https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/</id>
-        <link href="https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"/>
-        <updated>2022-06-15T01:15:31.601Z</updated>
-        <content type="html"><![CDATA[(dailyedit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fresh - 차세대 웹 프레임워크]]></title>
