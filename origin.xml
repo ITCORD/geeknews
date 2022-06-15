@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-15T16:20:35.274Z</updated>
+    <updated>2022-06-15T17:17:37.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
-        <id>https://skills.github.com/</id>
-        <link href="https://skills.github.com/"/>
-        <updated>2022-06-15T01:15:31.592Z</updated>
-        <content type="html"><![CDATA[(skills.github.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
         <id>https://github.com/mbrlabs/Lorien</id>
         <link href="https://github.com/mbrlabs/Lorien"/>
         <updated>2022-06-15T03:37:28.283Z</updated>
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
+        <id>https://skills.github.com/</id>
+        <link href="https://skills.github.com/"/>
+        <updated>2022-06-15T01:15:31.592Z</updated>
+        <content type="html"><![CDATA[(skills.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
-        <id>https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/</id>
-        <link href="https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"/>
-        <updated>2022-06-15T01:15:31.601Z</updated>
-        <content type="html"><![CDATA[(dailyedit.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
         <id>https://engineering.ab180.co/stories/android-sdk-test-automation-part1</id>
         <link href="https://engineering.ab180.co/stories/android-sdk-test-automation-part1"/>
@@ -62,18 +55,11 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Floppotron 3.0 - FDD/HDD/스캐너로 만든 컴퓨터 오케스트라]]></title>
-        <id>http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/</id>
-        <link href="http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"/>
-        <updated>2022-06-15T03:37:28.299Z</updated>
-        <content type="html"><![CDATA[(silent.org.pl)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간 이식에 변화를 몰고 올 혁신적 보관 기술이 등장했다]]></title>
-        <id>https://www.technologyreview.kr/storage-expand-liver-transplant-waitlist-lesion/</id>
-        <link href="https://www.technologyreview.kr/storage-expand-liver-transplant-waitlist-lesion/"/>
-        <updated>2022-06-15T01:15:31.598Z</updated>
-        <content type="html"><![CDATA[(technologyreview.kr)]]></content>
+        <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
+        <id>https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/</id>
+        <link href="https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"/>
+        <updated>2022-06-15T01:15:31.601Z</updated>
+        <content type="html"><![CDATA[(dailyedit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fresh - 차세대 웹 프레임워크]]></title>
@@ -83,11 +69,11 @@
         <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다]]></title>
-        <id>https://twitter.com/hyunbinseo97/status/1535805155454484480</id>
-        <link href="https://twitter.com/hyunbinseo97/status/1535805155454484480"/>
-        <updated>2022-06-15T01:15:31.598Z</updated>
-        <content type="html"><![CDATA[(twitter.com/hyunbinseo97)]]></content>
+        <title type="html"><![CDATA[Floppotron 3.0 - FDD/HDD/스캐너로 만든 컴퓨터 오케스트라]]></title>
+        <id>http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/</id>
+        <link href="http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"/>
+        <updated>2022-06-15T03:37:28.299Z</updated>
+        <content type="html"><![CDATA[(silent.org.pl)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작]]></title>
@@ -95,6 +81,20 @@
         <link href="https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/"/>
         <updated>2022-06-14T01:22:36.343Z</updated>
         <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간 이식에 변화를 몰고 올 혁신적 보관 기술이 등장했다]]></title>
+        <id>https://www.technologyreview.kr/storage-expand-liver-transplant-waitlist-lesion/</id>
+        <link href="https://www.technologyreview.kr/storage-expand-liver-transplant-waitlist-lesion/"/>
+        <updated>2022-06-15T01:15:31.598Z</updated>
+        <content type="html"><![CDATA[(technologyreview.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다]]></title>
+        <id>https://twitter.com/hyunbinseo97/status/1535805155454484480</id>
+        <link href="https://twitter.com/hyunbinseo97/status/1535805155454484480"/>
+        <updated>2022-06-15T01:15:31.598Z</updated>
+        <content type="html"><![CDATA[(twitter.com/hyunbinseo97)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
