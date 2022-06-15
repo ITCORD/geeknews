@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-15T07:15:28.870Z</updated>
+    <updated>2022-06-15T08:22:09.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(tech42.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
-        <id>https://engineering.ab180.co/stories/android-sdk-test-automation-part1</id>
-        <link href="https://engineering.ab180.co/stories/android-sdk-test-automation-part1"/>
-        <updated>2022-06-15T03:37:28.299Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
         <id>https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/</id>
         <link href="https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"/>
         <updated>2022-06-15T01:15:31.601Z</updated>
         <content type="html"><![CDATA[(dailyedit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
+        <id>https://engineering.ab180.co/stories/android-sdk-test-automation-part1</id>
+        <link href="https://engineering.ab180.co/stories/android-sdk-test-automation-part1"/>
+        <updated>2022-06-15T03:37:28.299Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[토스에서 '계좌에 돈이 부족할 때 알려드릴까요?'에 동의하면 '마케팅 정보 수신 동의'를 하게 된다]]></title>
