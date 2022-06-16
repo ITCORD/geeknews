@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-16T09:15:39.595Z</updated>
+    <updated>2022-06-16T10:16:51.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
-        <id>https://blog.pragmaticengineer.com/project-management-at-big-tech/</id>
-        <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
-        <updated>2022-06-14T03:49:12.645Z</updated>
-        <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
         <id>https://skills.github.com/</id>
         <link href="https://skills.github.com/"/>
@@ -62,18 +55,18 @@
         <content type="html"><![CDATA[(skills.github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
+        <id>https://blog.pragmaticengineer.com/project-management-at-big-tech/</id>
+        <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
+        <updated>2022-06-14T03:49:12.645Z</updated>
+        <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
         <id>https://news.hada.io/topic?id=6761</id>
         <link href="https://news.hada.io/topic?id=6761"/>
         <updated>2022-06-15T12:27:23.376Z</updated>
         <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
-        <id>https://helix-editor.com/</id>
-        <link href="https://helix-editor.com/"/>
-        <updated>2022-06-16T04:30:08.261Z</updated>
-        <content type="html"><![CDATA[(helix-editor.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
@@ -97,6 +90,13 @@
         <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
+        <id>https://helix-editor.com/</id>
+        <link href="https://helix-editor.com/"/>
+        <updated>2022-06-16T04:30:08.261Z</updated>
+        <content type="html"><![CDATA[(helix-editor.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
         <id>https://kickstartsidehustle.com/a-billion-dollar-mvp/</id>
         <link href="https://kickstartsidehustle.com/a-billion-dollar-mvp/"/>
@@ -118,19 +118,6 @@
         <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: VS Code에서 다른 편집기로 갈아타고 싶습니다. 뭐가 좋을까요?]]></title>
-        <id>https://news.hada.io/topic?id=6760</id>
-        <link href="https://news.hada.io/topic?id=6760"/>
-        <updated>2022-06-16T01:13:11.650Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase, 1100명 정리 해고]]></title>
-        <id>https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/</id>
-        <link href="https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/"/>
-        <updated>2022-06-16T03:31:13.165Z</updated>
-        <content type="html"><![CDATA[(coindesk.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스]]></title>
         <id>https://www.dns.toys/</id>
         <link href="https://www.dns.toys/"/>
@@ -138,10 +125,23 @@
         <content type="html"><![CDATA[(dns.toys)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: VS Code에서 다른 편집기로 갈아타고 싶습니다. 뭐가 좋을까요?]]></title>
+        <id>https://news.hada.io/topic?id=6760</id>
+        <link href="https://news.hada.io/topic?id=6760"/>
+        <updated>2022-06-16T01:13:11.650Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[페이스북은 어떻게 배포하는가]]></title>
         <id>https://subokim.wordpress.com/2022/06/12/how_facebook_work/</id>
         <link href="https://subokim.wordpress.com/2022/06/12/how_facebook_work/"/>
         <updated>2022-06-16T07:14:23.223Z</updated>
         <content type="html"><![CDATA[(subokim.wordpress.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase, 1100명 정리 해고]]></title>
+        <id>https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/</id>
+        <link href="https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/"/>
+        <updated>2022-06-16T03:31:13.165Z</updated>
+        <content type="html"><![CDATA[(coindesk.com)]]></content>
     </entry>
 </feed>
