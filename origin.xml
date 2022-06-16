@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-16T03:31:47.252Z</updated>
+    <updated>2022-06-16T04:30:44.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://about.bnef.com/electric-vehicle-outlook/"/>
         <updated>2022-06-16T01:13:11.637Z</updated>
         <content type="html"><![CDATA[(about.bnef.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana, OnCall 오픈소스 공개]]></title>
-        <id>https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/</id>
-        <link href="https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/"/>
-        <updated>2022-06-16T01:13:11.605Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Data Leadership]]></title>
@@ -34,11 +27,25 @@
         <content type="html"><![CDATA[(rulex-rs.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Grafana, OnCall 오픈소스 공개]]></title>
+        <id>https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/</id>
+        <link href="https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/"/>
+        <updated>2022-06-16T01:13:11.605Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anker가 아마존에서만 1.2조원 매출을 달성]]></title>
         <id>https://www.marketplacepulse.com/articles/amazon-native-brand-anker-reaches-1-billion-sales</id>
         <link href="https://www.marketplacepulse.com/articles/amazon-native-brand-anker-reaches-1-billion-sales"/>
         <updated>2022-06-16T01:13:11.638Z</updated>
         <content type="html"><![CDATA[(marketplacepulse.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
+        <id>https://github.com/mbrlabs/Lorien</id>
+        <link href="https://github.com/mbrlabs/Lorien"/>
+        <updated>2022-06-15T03:37:28.283Z</updated>
+        <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[(skills.github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
-        <id>https://github.com/mbrlabs/Lorien</id>
-        <link href="https://github.com/mbrlabs/Lorien"/>
-        <updated>2022-06-15T03:37:28.283Z</updated>
-        <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
+        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
+        <id>https://helix-editor.com/</id>
+        <link href="https://helix-editor.com/"/>
+        <updated>2022-06-16T04:30:08.261Z</updated>
+        <content type="html"><![CDATA[(helix-editor.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
@@ -83,18 +90,18 @@
         <content type="html"><![CDATA[(json.media)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fresh - 차세대 웹 프레임워크]]></title>
-        <id>https://fresh.deno.dev/</id>
-        <link href="https://fresh.deno.dev/"/>
-        <updated>2022-06-15T01:15:31.602Z</updated>
-        <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
         <id>https://engineering.ab180.co/stories/android-sdk-test-automation-part1</id>
         <link href="https://engineering.ab180.co/stories/android-sdk-test-automation-part1"/>
         <updated>2022-06-15T03:37:28.299Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fresh - 차세대 웹 프레임워크]]></title>
+        <id>https://fresh.deno.dev/</id>
+        <link href="https://fresh.deno.dev/"/>
+        <updated>2022-06-15T01:15:31.602Z</updated>
+        <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[27년만에 역사 속으로 사라지는 인터넷 익스플로러… 서비스 종료 이후는?]]></title>
@@ -124,13 +131,6 @@
         <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
-        <id>https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/</id>
-        <link href="https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"/>
-        <updated>2022-06-15T01:15:31.601Z</updated>
-        <content type="html"><![CDATA[(dailyedit.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스]]></title>
         <id>https://www.dns.toys/</id>
         <link href="https://www.dns.toys/"/>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(dns.toys)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이스북은 어떻게 배포하는가]]></title>
-        <id>https://subokim.wordpress.com/2022/06/12/how_facebook_work/</id>
-        <link href="https://subokim.wordpress.com/2022/06/12/how_facebook_work/"/>
-        <updated>2022-06-13T16:21:18.626Z</updated>
-        <content type="html"><![CDATA[(subokim.wordpress.com)]]></content>
+        <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
+        <id>https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/</id>
+        <link href="https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"/>
+        <updated>2022-06-15T01:15:31.601Z</updated>
+        <content type="html"><![CDATA[(dailyedit.com)]]></content>
     </entry>
 </feed>
