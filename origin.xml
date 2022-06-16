@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-16T10:16:51.362Z</updated>
+    <updated>2022-06-16T11:12:58.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://about.bnef.com/electric-vehicle-outlook/"/>
         <updated>2022-06-16T01:13:11.637Z</updated>
         <content type="html"><![CDATA[(about.bnef.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
+        <id>https://tauri.app/</id>
+        <link href="https://tauri.app/"/>
+        <updated>2022-06-16T11:12:20.375Z</updated>
+        <content type="html"><![CDATA[(tauri.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Data Leadership]]></title>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anker가 아마존에서만 1.2조원 매출을 달성]]></title>
-        <id>https://www.marketplacepulse.com/articles/amazon-native-brand-anker-reaches-1-billion-sales</id>
-        <link href="https://www.marketplacepulse.com/articles/amazon-native-brand-anker-reaches-1-billion-sales"/>
-        <updated>2022-06-16T01:13:11.638Z</updated>
-        <content type="html"><![CDATA[(marketplacepulse.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
         <id>https://github.com/mbrlabs/Lorien</id>
         <link href="https://github.com/mbrlabs/Lorien"/>
         <updated>2022-06-15T03:37:28.283Z</updated>
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker가 아마존에서만 1.2조원 매출을 달성]]></title>
+        <id>https://www.marketplacepulse.com/articles/amazon-native-brand-anker-reaches-1-billion-sales</id>
+        <link href="https://www.marketplacepulse.com/articles/amazon-native-brand-anker-reaches-1-billion-sales"/>
+        <updated>2022-06-16T01:13:11.638Z</updated>
+        <content type="html"><![CDATA[(marketplacepulse.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
@@ -60,6 +67,13 @@
         <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
         <updated>2022-06-14T03:49:12.645Z</updated>
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
+        <id>https://helix-editor.com/</id>
+        <link href="https://helix-editor.com/"/>
+        <updated>2022-06-16T04:30:08.261Z</updated>
+        <content type="html"><![CDATA[(helix-editor.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
@@ -88,13 +102,6 @@
         <link href="https://fresh.deno.dev/"/>
         <updated>2022-06-15T01:15:31.602Z</updated>
         <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
-        <id>https://helix-editor.com/</id>
-        <link href="https://helix-editor.com/"/>
-        <updated>2022-06-16T04:30:08.261Z</updated>
-        <content type="html"><![CDATA[(helix-editor.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
@@ -136,12 +143,5 @@
         <link href="https://subokim.wordpress.com/2022/06/12/how_facebook_work/"/>
         <updated>2022-06-16T07:14:23.223Z</updated>
         <content type="html"><![CDATA[(subokim.wordpress.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase, 1100명 정리 해고]]></title>
-        <id>https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/</id>
-        <link href="https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/"/>
-        <updated>2022-06-16T03:31:13.165Z</updated>
-        <content type="html"><![CDATA[(coindesk.com)]]></content>
     </entry>
 </feed>
