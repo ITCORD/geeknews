@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-16T23:15:31.958Z</updated>
+    <updated>2022-06-17T01:07:52.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UI Component Encyclopedia]]></title>
+        <id>https://storybook.js.org/showcase</id>
+        <link href="https://storybook.js.org/showcase"/>
+        <updated>2022-06-17T01:07:18.248Z</updated>
+        <content type="html"><![CDATA[(storybook.js.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개]]></title>
+        <id>https://blog.google/products/earth/dynamic-world-land-cover-data/</id>
+        <link href="https://blog.google/products/earth/dynamic-world-land-cover-data/"/>
+        <updated>2022-06-17T01:07:18.248Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redbean 2.0 공개]]></title>
+        <id>https://justine.lol/redbean2/</id>
+        <link href="https://justine.lol/redbean2/"/>
+        <updated>2022-06-17T01:07:18.251Z</updated>
+        <content type="html"><![CDATA[(justine.lol)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
+        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
+        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
+        <updated>2022-06-17T01:07:18.254Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블룸버그의 전기차 전망 EV Outlook 2022]]></title>
         <id>https://about.bnef.com/electric-vehicle-outlook/</id>
@@ -41,18 +69,18 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
-        <id>https://tauri.app/</id>
-        <link href="https://tauri.app/"/>
-        <updated>2022-06-16T11:12:20.375Z</updated>
-        <content type="html"><![CDATA[(tauri.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
         <id>https://skills.github.com/</id>
         <link href="https://skills.github.com/"/>
         <updated>2022-06-15T01:15:31.592Z</updated>
         <content type="html"><![CDATA[(skills.github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
+        <id>https://tauri.app/</id>
+        <link href="https://tauri.app/"/>
+        <updated>2022-06-16T11:12:20.375Z</updated>
+        <content type="html"><![CDATA[(tauri.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grafana, OnCall 오픈소스 공개]]></title>
@@ -90,18 +118,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
-        <id>https://news.hada.io/topic?id=6759</id>
-        <link href="https://news.hada.io/topic?id=6759"/>
-        <updated>2022-06-15T06:17:47.263Z</updated>
-        <content type="html"><![CDATA[(json.media)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fresh - 차세대 웹 프레임워크]]></title>
         <id>https://fresh.deno.dev/</id>
         <link href="https://fresh.deno.dev/"/>
         <updated>2022-06-15T01:15:31.602Z</updated>
         <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
+        <id>https://news.hada.io/topic?id=6759</id>
+        <link href="https://news.hada.io/topic?id=6759"/>
+        <updated>2022-06-15T06:17:47.263Z</updated>
+        <content type="html"><![CDATA[(json.media)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스]]></title>
@@ -111,38 +139,10 @@
         <content type="html"><![CDATA[(dns.toys)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
-        <id>https://helix-editor.com/</id>
-        <link href="https://helix-editor.com/"/>
-        <updated>2022-06-16T04:30:08.261Z</updated>
-        <content type="html"><![CDATA[(helix-editor.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작]]></title>
         <id>https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/</id>
         <link href="https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/"/>
         <updated>2022-06-14T01:22:36.343Z</updated>
         <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북은 어떻게 배포하는가]]></title>
-        <id>https://subokim.wordpress.com/2022/06/12/how_facebook_work/</id>
-        <link href="https://subokim.wordpress.com/2022/06/12/how_facebook_work/"/>
-        <updated>2022-06-16T07:14:23.223Z</updated>
-        <content type="html"><![CDATA[(subokim.wordpress.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27년만에 역사 속으로 사라지는 인터넷 익스플로러… 서비스 종료 이후는?]]></title>
-        <id>https://www.tech42.co.kr/27%eb%85%84%eb%a7%8c%ec%97%90-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b5%ec%8a%a4%ed%94%8c%eb%a1%9c%eb%9f%ac/</id>
-        <link href="https://www.tech42.co.kr/27%eb%85%84%eb%a7%8c%ec%97%90-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b5%ec%8a%a4%ed%94%8c%eb%a1%9c%eb%9f%ac/"/>
-        <updated>2022-06-15T03:37:28.299Z</updated>
-        <content type="html"><![CDATA[(tech42.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 언어 선택창 만들기]]></title>
-        <id>https://www.smashingmagazine.com/2022/05/designing-better-language-selector/</id>
-        <link href="https://www.smashingmagazine.com/2022/05/designing-better-language-selector/"/>
-        <updated>2022-06-16T20:15:29.151Z</updated>
-        <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
     </entry>
 </feed>
