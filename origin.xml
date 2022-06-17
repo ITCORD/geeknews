@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-17T06:19:49.782Z</updated>
+    <updated>2022-06-17T07:14:39.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
-        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
-        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
-        <updated>2022-06-17T01:07:18.254Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개]]></title>
         <id>https://blog.google/products/earth/dynamic-world-land-cover-data/</id>
         <link href="https://blog.google/products/earth/dynamic-world-land-cover-data/"/>
         <updated>2022-06-17T01:07:18.248Z</updated>
         <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
+        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
+        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
+        <updated>2022-06-17T01:07:18.254Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1993년 이후 가장 인기 있는 웹사이트 [유튜브]]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
+        <id>https://github.com/mbrlabs/Lorien</id>
+        <link href="https://github.com/mbrlabs/Lorien"/>
+        <updated>2022-06-15T03:37:28.283Z</updated>
+        <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rulex - 새로운 포터블 정규식 언어]]></title>
         <id>https://rulex-rs.github.io/</id>
         <link href="https://rulex-rs.github.io/"/>
@@ -74,13 +81,6 @@
         <link href="https://github.com/ronikobrosly/awesome-data-leadership"/>
         <updated>2022-06-16T01:13:11.638Z</updated>
         <content type="html"><![CDATA[(github.com/ronikobrosly)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
-        <id>https://github.com/mbrlabs/Lorien</id>
-        <link href="https://github.com/mbrlabs/Lorien"/>
-        <updated>2022-06-15T03:37:28.283Z</updated>
-        <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
