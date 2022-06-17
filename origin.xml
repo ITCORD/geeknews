@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-17T03:28:15.344Z</updated>
+    <updated>2022-06-17T04:32:52.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(storybook.js.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Redbean 2.0 공개]]></title>
-        <id>https://justine.lol/redbean2/</id>
-        <link href="https://justine.lol/redbean2/"/>
-        <updated>2022-06-17T01:07:18.251Z</updated>
-        <content type="html"><![CDATA[(justine.lol)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[돈을 벌고 있지만, 감춰둔 사이드 프로젝트 있으신가요?]]></title>
         <id>https://news.ycombinator.com/item?id=31764696</id>
         <link href="https://news.ycombinator.com/item?id=31764696"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개]]></title>
-        <id>https://blog.google/products/earth/dynamic-world-land-cover-data/</id>
-        <link href="https://blog.google/products/earth/dynamic-world-land-cover-data/"/>
-        <updated>2022-06-17T01:07:18.248Z</updated>
-        <content type="html"><![CDATA[(blog.google)]]></content>
+        <title type="html"><![CDATA[Redbean 2.0 공개]]></title>
+        <id>https://justine.lol/redbean2/</id>
+        <link href="https://justine.lol/redbean2/"/>
+        <updated>2022-06-17T01:07:18.251Z</updated>
+        <content type="html"><![CDATA[(justine.lol)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
@@ -39,6 +32,13 @@
         <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
         <updated>2022-06-17T01:07:18.254Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개]]></title>
+        <id>https://blog.google/products/earth/dynamic-world-land-cover-data/</id>
+        <link href="https://blog.google/products/earth/dynamic-world-land-cover-data/"/>
+        <updated>2022-06-17T01:07:18.248Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1993년 이후 가장 인기 있는 웹사이트 [유튜브]]]></title>
@@ -53,6 +53,13 @@
         <link href="https://about.bnef.com/electric-vehicle-outlook/"/>
         <updated>2022-06-16T01:13:11.637Z</updated>
         <content type="html"><![CDATA[(about.bnef.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rulex - 새로운 포터블 정규식 언어]]></title>
+        <id>https://rulex-rs.github.io/</id>
+        <link href="https://rulex-rs.github.io/"/>
+        <updated>2022-06-16T01:13:11.638Z</updated>
+        <content type="html"><![CDATA[(rulex-rs.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Data Leadership]]></title>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rulex - 새로운 포터블 정규식 언어]]></title>
-        <id>https://rulex-rs.github.io/</id>
-        <link href="https://rulex-rs.github.io/"/>
-        <updated>2022-06-16T01:13:11.638Z</updated>
-        <content type="html"><![CDATA[(rulex-rs.github.io)]]></content>
+        <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
+        <id>https://tauri.app/</id>
+        <link href="https://tauri.app/"/>
+        <updated>2022-06-16T11:12:20.375Z</updated>
+        <content type="html"><![CDATA[(tauri.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
@@ -95,13 +102,6 @@
         <link href="https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/"/>
         <updated>2022-06-16T01:13:11.605Z</updated>
         <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
-        <id>https://tauri.app/</id>
-        <link href="https://tauri.app/"/>
-        <updated>2022-06-16T11:12:20.375Z</updated>
-        <content type="html"><![CDATA[(tauri.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(kickstartsidehustle.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
+        <id>https://helix-editor.com/</id>
+        <link href="https://helix-editor.com/"/>
+        <updated>2022-06-17T04:32:17.879Z</updated>
+        <content type="html"><![CDATA[(helix-editor.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
         <id>https://engineering.ab180.co/stories/android-sdk-test-automation-part1</id>
         <link href="https://engineering.ab180.co/stories/android-sdk-test-automation-part1"/>
@@ -137,12 +144,5 @@
         <link href="https://www.dns.toys/"/>
         <updated>2022-06-13T01:17:11.813Z</updated>
         <content type="html"><![CDATA[(dns.toys)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fresh - 차세대 웹 프레임워크]]></title>
-        <id>https://fresh.deno.dev/</id>
-        <link href="https://fresh.deno.dev/"/>
-        <updated>2022-06-15T01:15:31.602Z</updated>
-        <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
     </entry>
 </feed>
