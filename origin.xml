@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-19T10:15:31.572Z</updated>
+    <updated>2022-06-19T11:12:02.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UI Component Encyclopedia]]></title>
+        <id>https://storybook.js.org/showcase</id>
+        <link href="https://storybook.js.org/showcase"/>
+        <updated>2022-06-17T01:07:18.248Z</updated>
+        <content type="html"><![CDATA[(storybook.js.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vale 프로그래밍 언어]]></title>
         <id>https://vale.dev/</id>
         <link href="https://vale.dev/"/>
@@ -39,13 +46,6 @@
         <link href="https://anonfriendly.com/"/>
         <updated>2022-06-19T01:14:50.266Z</updated>
         <content type="html"><![CDATA[(anonfriendly.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI Component Encyclopedia]]></title>
-        <id>https://storybook.js.org/showcase</id>
-        <link href="https://storybook.js.org/showcase"/>
-        <updated>2022-06-17T01:07:18.248Z</updated>
-        <content type="html"><![CDATA[(storybook.js.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
-        <id>https://www.scanofthemonth.com/scans/golf-equipment</id>
-        <link href="https://www.scanofthemonth.com/scans/golf-equipment"/>
-        <updated>2022-06-18T01:12:37.480Z</updated>
-        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
+        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
+        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
+        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
+        <updated>2022-06-17T01:07:18.254Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Data Leadership]]></title>
@@ -118,18 +118,11 @@
         <content type="html"><![CDATA[(about.bnef.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
-        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
-        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
-        <updated>2022-06-17T01:07:18.254Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLAP : 새로운 Audio Plug-in 표준]]></title>
-        <id>https://u-he.com/community/clap/</id>
-        <link href="https://u-he.com/community/clap/"/>
-        <updated>2022-06-18T01:12:37.468Z</updated>
-        <content type="html"><![CDATA[(u-he.com)]]></content>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
+        <id>https://www.scanofthemonth.com/scans/golf-equipment</id>
+        <link href="https://www.scanofthemonth.com/scans/golf-equipment"/>
+        <updated>2022-06-18T01:12:37.480Z</updated>
+        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
@@ -137,6 +130,13 @@
         <link href="https://skills.github.com/"/>
         <updated>2022-06-15T01:15:31.592Z</updated>
         <content type="html"><![CDATA[(skills.github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLAP : 새로운 Audio Plug-in 표준]]></title>
+        <id>https://u-he.com/community/clap/</id>
+        <link href="https://u-he.com/community/clap/"/>
+        <updated>2022-06-18T01:12:37.468Z</updated>
+        <content type="html"><![CDATA[(u-he.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
