@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-19T09:15:02.490Z</updated>
+    <updated>2022-06-19T10:15:31.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(github.com/alajmo)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[개발자를 위한 모니터 추천 / 가이드]]></title>
+        <id>https://velog.io/@workspace/monitor-for-developer</id>
+        <link href="https://velog.io/@workspace/monitor-for-developer"/>
+        <updated>2022-06-18T03:19:28.802Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vale 프로그래밍 언어]]></title>
         <id>https://vale.dev/</id>
         <link href="https://vale.dev/"/>
@@ -32,13 +39,6 @@
         <link href="https://anonfriendly.com/"/>
         <updated>2022-06-19T01:14:50.266Z</updated>
         <content type="html"><![CDATA[(anonfriendly.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자를 위한 모니터 추천 / 가이드]]></title>
-        <id>https://velog.io/@workspace/monitor-for-developer</id>
-        <link href="https://velog.io/@workspace/monitor-for-developer"/>
-        <updated>2022-06-18T03:19:28.802Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UI Component Encyclopedia]]></title>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
-        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
-        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
-        <updated>2022-06-17T01:07:18.254Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
         <id>https://www.scanofthemonth.com/scans/golf-equipment</id>
         <link href="https://www.scanofthemonth.com/scans/golf-equipment"/>
@@ -123,6 +116,13 @@
         <link href="https://about.bnef.com/electric-vehicle-outlook/"/>
         <updated>2022-06-16T01:13:11.637Z</updated>
         <content type="html"><![CDATA[(about.bnef.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
+        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
+        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
+        <updated>2022-06-17T01:07:18.254Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CLAP : 새로운 Audio Plug-in 표준]]></title>
