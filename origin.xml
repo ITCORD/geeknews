@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-20T01:17:08.927Z</updated>
+    <updated>2022-06-20T03:14:21.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Google News Initiative 스타트업 플레이북 (한국어)]]></title>
-        <id>https://newsinitiative.withgoogle.com/digital-growth/startups-playbook/ko/playbook/#playbook</id>
-        <link href="https://newsinitiative.withgoogle.com/digital-growth/startups-playbook/ko/playbook/#playbook"/>
-        <updated>2022-06-20T01:16:28.842Z</updated>
-        <content type="html"><![CDATA[(newsinitiative.withgoogle.com)]]></content>
+        <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
+        <id>https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/</id>
+        <link href="https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/"/>
+        <updated>2022-06-20T03:13:44.132Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세상에서 가장 만족스러운 체크박스]]></title>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[(andy.works)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리액트 오픈소스 어워드 2022]]></title>
-        <id>https://osawards.com/react/</id>
-        <link href="https://osawards.com/react/"/>
-        <updated>2022-06-18T15:13:52.212Z</updated>
-        <content type="html"><![CDATA[(osawards.com)]]></content>
+        <title type="html"><![CDATA[Google News Initiative 스타트업 플레이북 (한국어)]]></title>
+        <id>https://newsinitiative.withgoogle.com/digital-growth/startups-playbook/ko/playbook/#playbook</id>
+        <link href="https://newsinitiative.withgoogle.com/digital-growth/startups-playbook/ko/playbook/#playbook"/>
+        <updated>2022-06-20T01:16:28.842Z</updated>
+        <content type="html"><![CDATA[(newsinitiative.withgoogle.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공동창업시 주주간 계약서에 들어가야할 내용]]></title>
+        <id>https://zuzu.network/resource/blog/how-to-write-founders-agreement/</id>
+        <link href="https://zuzu.network/resource/blog/how-to-write-founders-agreement/"/>
+        <updated>2022-06-20T03:13:44.140Z</updated>
+        <content type="html"><![CDATA[(zuzu.network)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 개발툴 발표는 어떤 건가요?]]></title>
+        <id>https://news.ycombinator.com/item?id=31782200</id>
+        <link href="https://news.ycombinator.com/item?id=31782200"/>
+        <updated>2022-06-20T03:13:44.141Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Patreon의 수수료는 알려진 것보다 높음]]></title>
@@ -32,6 +46,13 @@
         <link href="https://thoughts.jatan.space/p/patreon-cuts-deep"/>
         <updated>2022-06-20T01:16:28.842Z</updated>
         <content type="html"><![CDATA[(thoughts.jatan.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리액트 오픈소스 어워드 2022]]></title>
+        <id>https://osawards.com/react/</id>
+        <link href="https://osawards.com/react/"/>
+        <updated>2022-06-18T15:13:52.212Z</updated>
+        <content type="html"><![CDATA[(osawards.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sake - 로컬 & 리모트 서버들을 위한 명령 실행기]]></title>
@@ -46,13 +67,6 @@
         <link href="https://storybook.js.org/showcase"/>
         <updated>2022-06-17T01:07:18.248Z</updated>
         <content type="html"><![CDATA[(storybook.js.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anonfriendly - 익명으로 일할수 있는 직업 찾기]]></title>
-        <id>https://anonfriendly.com/</id>
-        <link href="https://anonfriendly.com/"/>
-        <updated>2022-06-19T01:14:50.266Z</updated>
-        <content type="html"><![CDATA[(anonfriendly.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개발자를 위한 모니터 추천 / 가이드]]></title>
@@ -76,6 +90,13 @@
         <content type="html"><![CDATA[(justine.lol)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Anonfriendly - 익명으로 일할수 있는 직업 찾기]]></title>
+        <id>https://anonfriendly.com/</id>
+        <link href="https://anonfriendly.com/"/>
+        <updated>2022-06-19T01:14:50.266Z</updated>
+        <content type="html"><![CDATA[(anonfriendly.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스]]></title>
         <id>https://news.hada.io/topic?id=6781</id>
         <link href="https://news.hada.io/topic?id=6781"/>
@@ -90,6 +111,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vale 프로그래밍 언어]]></title>
+        <id>https://vale.dev/</id>
+        <link href="https://vale.dev/"/>
+        <updated>2022-06-19T01:14:50.265Z</updated>
+        <content type="html"><![CDATA[(vale.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
         <id>https://blog.pragmaticengineer.com/project-management-at-big-tech/</id>
         <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
@@ -97,11 +125,11 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vale 프로그래밍 언어]]></title>
-        <id>https://vale.dev/</id>
-        <link href="https://vale.dev/"/>
-        <updated>2022-06-19T01:14:50.265Z</updated>
-        <content type="html"><![CDATA[(vale.dev)]]></content>
+        <title type="html"><![CDATA[구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개]]></title>
+        <id>https://blog.google/products/earth/dynamic-world-land-cover-data/</id>
+        <link href="https://blog.google/products/earth/dynamic-world-land-cover-data/"/>
+        <updated>2022-06-17T01:07:18.248Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Data Leadership]]></title>
@@ -116,33 +144,5 @@
         <link href="https://github.com/mbrlabs/Lorien"/>
         <updated>2022-06-15T03:37:28.283Z</updated>
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개]]></title>
-        <id>https://blog.google/products/earth/dynamic-world-land-cover-data/</id>
-        <link href="https://blog.google/products/earth/dynamic-world-land-cover-data/"/>
-        <updated>2022-06-17T01:07:18.248Z</updated>
-        <content type="html"><![CDATA[(blog.google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
-        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
-        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
-        <updated>2022-06-17T01:07:18.254Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
-        <id>https://skills.github.com/</id>
-        <link href="https://skills.github.com/"/>
-        <updated>2022-06-15T01:15:31.592Z</updated>
-        <content type="html"><![CDATA[(skills.github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블룸버그의 전기차 전망 EV Outlook 2022]]></title>
-        <id>https://about.bnef.com/electric-vehicle-outlook/</id>
-        <link href="https://about.bnef.com/electric-vehicle-outlook/"/>
-        <updated>2022-06-16T01:13:11.637Z</updated>
-        <content type="html"><![CDATA[(about.bnef.com)]]></content>
     </entry>
 </feed>
