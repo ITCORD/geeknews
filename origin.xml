@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-23T05:19:54.908Z</updated>
+    <updated>2022-06-23T06:24:47.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TMAP 미식로드 - 사람들이 많이 가는 맛집 추천]]></title>
+        <id>https://tastytmap.com/</id>
+        <link href="https://tastytmap.com/"/>
+        <updated>2022-06-22T01:21:17.960Z</updated>
+        <content type="html"><![CDATA[(tastytmap.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스택오버플로우 2022년도 전반기 설문조사]]></title>
         <id>https://survey.stackoverflow.co/2022/</id>
         <link href="https://survey.stackoverflow.co/2022/"/>
@@ -88,13 +95,6 @@
         <link href="https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/"/>
         <updated>2022-06-22T13:36:18.335Z</updated>
         <content type="html"><![CDATA[(blog.npcode.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TMAP 미식로드 - 사람들이 많이 가는 맛집 추천]]></title>
-        <id>https://tastytmap.com/</id>
-        <link href="https://tastytmap.com/"/>
-        <updated>2022-06-22T01:21:17.960Z</updated>
-        <content type="html"><![CDATA[(tastytmap.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WarcDB - Web crawl data as SQLite DB]]></title>
