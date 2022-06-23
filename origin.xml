@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-23T19:12:26.406Z</updated>
+    <updated>2022-06-23T20:16:18.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성, TV 테스트 벤치마크 부정행위 적발]]></title>
-        <id>https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/</id>
-        <link href="https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/"/>
-        <updated>2022-06-22T03:29:14.802Z</updated>
-        <content type="html"><![CDATA[(techdirt.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
         <id>https://matt-rickard.com/dont-use-kubernetes-yet/</id>
         <link href="https://matt-rickard.com/dont-use-kubernetes-yet/"/>
@@ -132,11 +125,11 @@
         <content type="html"><![CDATA[(matt-rickard.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크 저커버그의 '비쥬얼 튜링 테스트 통과하기' 강연 요약]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM=</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM="/>
-        <updated>2022-06-22T01:21:17.959Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
+        <title type="html"><![CDATA[삼성, TV 테스트 벤치마크 부정행위 적발]]></title>
+        <id>https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/</id>
+        <link href="https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/"/>
+        <updated>2022-06-22T03:29:14.802Z</updated>
+        <content type="html"><![CDATA[(techdirt.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
@@ -144,5 +137,12 @@
         <link href="https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/"/>
         <updated>2022-06-23T15:16:48.453Z</updated>
         <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마크 저커버그의 '비쥬얼 튜링 테스트 통과하기' 강연 요약]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM=</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM="/>
+        <updated>2022-06-22T01:21:17.959Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
 </feed>
