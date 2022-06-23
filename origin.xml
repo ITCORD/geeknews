@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-23T22:14:24.602Z</updated>
+    <updated>2022-06-23T23:15:09.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(tastytmap.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Localhost 시대의 종말]]></title>
+        <id>https://dx.tips/the-end-of-localhost</id>
+        <link href="https://dx.tips/the-end-of-localhost"/>
+        <updated>2022-06-21T03:27:26.906Z</updated>
+        <content type="html"><![CDATA[(dx.tips)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RISC-V, 2022년의 첫번째 새로운 사양 발표]]></title>
         <id>https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/</id>
         <link href="https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/"/>
@@ -90,13 +97,6 @@
         <content type="html"><![CDATA[(tabnine.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Localhost 시대의 종말]]></title>
-        <id>https://dx.tips/the-end-of-localhost</id>
-        <link href="https://dx.tips/the-end-of-localhost"/>
-        <updated>2022-06-21T03:27:26.906Z</updated>
-        <content type="html"><![CDATA[(dx.tips)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WarcDB - Web crawl data as SQLite DB]]></title>
         <id>https://github.com/Florents-Tselai/WarcDB</id>
         <link href="https://github.com/Florents-Tselai/WarcDB"/>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com/Florents-Tselai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커버 불가능한 코드]]></title>
-        <id>https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/</id>
-        <link href="https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/"/>
-        <updated>2022-06-22T13:36:18.335Z</updated>
-        <content type="html"><![CDATA[(blog.npcode.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Copilot을 모든 개발자가 일반적으로 사용할 수 있습니다.]]></title>
         <id>https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/</id>
         <link href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/"/>
         <updated>2022-06-22T01:21:17.960Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커버 불가능한 코드]]></title>
+        <id>https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/</id>
+        <link href="https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/"/>
+        <updated>2022-06-22T13:36:18.335Z</updated>
+        <content type="html"><![CDATA[(blog.npcode.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
