@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-23T11:13:09.575Z</updated>
+    <updated>2022-06-23T12:30:10.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
         <updated>2022-06-23T03:30:44.631Z</updated>
         <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
+        <id>https://community.applepie.pro/t/topic/27</id>
+        <link href="https://community.applepie.pro/t/topic/27"/>
+        <updated>2022-06-23T12:29:34.757Z</updated>
+        <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RISC-V, 2022년의 첫번째 새로운 사양 발표]]></title>
@@ -69,18 +76,18 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커버 불가능한 코드]]></title>
-        <id>https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/</id>
-        <link href="https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/"/>
-        <updated>2022-06-22T13:36:18.335Z</updated>
-        <content type="html"><![CDATA[(blog.npcode.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TMAP 미식로드 - 사람들이 많이 가는 맛집 추천]]></title>
         <id>https://tastytmap.com/</id>
         <link href="https://tastytmap.com/"/>
         <updated>2022-06-22T01:21:17.960Z</updated>
         <content type="html"><![CDATA[(tastytmap.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커버 불가능한 코드]]></title>
+        <id>https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/</id>
+        <link href="https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/"/>
+        <updated>2022-06-22T13:36:18.335Z</updated>
+        <content type="html"><![CDATA[(blog.npcode.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WarcDB - Web crawl data as SQLite DB]]></title>
@@ -130,13 +137,6 @@
         <link href="https://matt-rickard.com/dont-use-kubernetes-yet/"/>
         <updated>2022-06-21T05:19:20.843Z</updated>
         <content type="html"><![CDATA[(matt-rickard.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스택오버플로우 2022년도 전반기 설문조사]]></title>
-        <id>https://survey.stackoverflow.co/2022/</id>
-        <link href="https://survey.stackoverflow.co/2022/"/>
-        <updated>2022-06-23T01:07:19.455Z</updated>
-        <content type="html"><![CDATA[(survey.stackoverflow.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BlueLink - 현대자동차 제어용 Python API Wrapper (Unofficial)]]></title>
