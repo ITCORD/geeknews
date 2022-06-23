@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-23T04:34:21.600Z</updated>
+    <updated>2022-06-23T05:19:54.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[HDMI Firewall]]></title>
-        <id>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</id>
-        <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
-        <updated>2022-06-23T03:30:44.631Z</updated>
-        <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
         <id>https://tailscale.com/blog/tailscale-ssh/</id>
         <link href="https://tailscale.com/blog/tailscale-ssh/"/>
         <updated>2022-06-23T01:07:19.453Z</updated>
         <content type="html"><![CDATA[(tailscale.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HDMI Firewall]]></title>
+        <id>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</id>
+        <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
+        <updated>2022-06-23T03:30:44.631Z</updated>
+        <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. (번역)]]></title>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(twitter.com/TwitterWrite)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스택오버플로우 2022년도 전반기 설문조사]]></title>
-        <id>https://survey.stackoverflow.co/2022/</id>
-        <link href="https://survey.stackoverflow.co/2022/"/>
-        <updated>2022-06-23T01:07:19.455Z</updated>
-        <content type="html"><![CDATA[(survey.stackoverflow.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자의 학습과 성장 (46p 발표자료)]]></title>
         <id>https://present.do/documents/62a02582f6365307fc441c7f</id>
         <link href="https://present.do/documents/62a02582f6365307fc441c7f"/>
@@ -81,6 +74,13 @@
         <link href="https://community.applepie.pro/t/topic/21"/>
         <updated>2022-06-21T03:27:26.918Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스택오버플로우 2022년도 전반기 설문조사]]></title>
+        <id>https://survey.stackoverflow.co/2022/</id>
+        <link href="https://survey.stackoverflow.co/2022/"/>
+        <updated>2022-06-23T01:07:19.455Z</updated>
+        <content type="html"><![CDATA[(survey.stackoverflow.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커버 불가능한 코드]]></title>
