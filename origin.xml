@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-24T05:20:32.783Z</updated>
+    <updated>2022-06-24T06:21:56.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(miniflux.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
+        <id>https://tinywow.com/</id>
+        <link href="https://tinywow.com/"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(tinywow.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
         <id>https://github.com/sachaos/viddy</id>
         <link href="https://github.com/sachaos/viddy"/>
@@ -32,13 +39,6 @@
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible"/>
         <updated>2022-06-24T03:40:06.847Z</updated>
         <content type="html"><![CDATA[(phoronix.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
-        <id>https://tinywow.com/</id>
-        <link href="https://tinywow.com/"/>
-        <updated>2022-06-24T01:12:03.267Z</updated>
-        <content type="html"><![CDATA[(tinywow.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
@@ -62,20 +62,6 @@
         <content type="html"><![CDATA[(sourceforge.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
-        <id>https://github.com/yandex/YaLM-100B</id>
-        <link href="https://github.com/yandex/YaLM-100B"/>
-        <updated>2022-06-24T01:12:03.284Z</updated>
-        <content type="html"><![CDATA[(github.com/yandex)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack, 오디오 협업기능인 Huddles를 비디오까지 확장]]></title>
-        <id>https://slack.com/intl/ko-kr/blog/productivity/introducing-new-ways-to-work-in-slack-huddles</id>
-        <link href="https://slack.com/intl/ko-kr/blog/productivity/introducing-new-ways-to-work-in-slack-huddles"/>
-        <updated>2022-06-24T01:12:03.267Z</updated>
-        <content type="html"><![CDATA[(slack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
         <id>https://community.applepie.pro/t/topic/27</id>
         <link href="https://community.applepie.pro/t/topic/27"/>
@@ -88,6 +74,20 @@
         <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
         <updated>2022-06-23T14:15:24.276Z</updated>
         <content type="html"><![CDATA[(mawfig.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
+        <id>https://github.com/yandex/YaLM-100B</id>
+        <link href="https://github.com/yandex/YaLM-100B"/>
+        <updated>2022-06-24T01:12:03.284Z</updated>
+        <content type="html"><![CDATA[(github.com/yandex)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack, 오디오 협업기능인 Huddles를 비디오까지 확장]]></title>
+        <id>https://slack.com/intl/ko-kr/blog/productivity/introducing-new-ways-to-work-in-slack-huddles</id>
+        <link href="https://slack.com/intl/ko-kr/blog/productivity/introducing-new-ways-to-work-in-slack-huddles"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(slack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. (번역)]]></title>
