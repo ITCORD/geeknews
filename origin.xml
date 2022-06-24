@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-24T12:29:25.344Z</updated>
+    <updated>2022-06-24T13:36:51.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
-        <id>https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/</id>
-        <link href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/"/>
-        <updated>2022-06-24T03:40:06.854Z</updated>
-        <content type="html"><![CDATA[(sourceforge.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
         <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
         <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
         <updated>2022-06-23T14:15:24.276Z</updated>
         <content type="html"><![CDATA[(mawfig.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
+        <id>https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/</id>
+        <link href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/"/>
+        <updated>2022-06-24T03:40:06.854Z</updated>
+        <content type="html"><![CDATA[(sourceforge.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HDMI Firewall]]></title>
-        <id>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</id>
-        <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
-        <updated>2022-06-23T03:30:44.631Z</updated>
-        <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
         <id>https://matt-rickard.com/dont-use-kubernetes-yet/</id>
         <link href="https://matt-rickard.com/dont-use-kubernetes-yet/"/>
         <updated>2022-06-21T05:19:20.843Z</updated>
         <content type="html"><![CDATA[(matt-rickard.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HDMI Firewall]]></title>
+        <id>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</id>
+        <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
+        <updated>2022-06-23T03:30:44.631Z</updated>
+        <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
     </entry>
 </feed>
