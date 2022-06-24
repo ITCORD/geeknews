@@ -2,15 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-23T23:15:09.482Z</updated>
+    <updated>2022-06-24T01:12:42.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
+        <id>https://github.com/sachaos/viddy</id>
+        <link href="https://github.com/sachaos/viddy"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(github.com/sachaos)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
+        <id>https://tinywow.com/</id>
+        <link href="https://tinywow.com/"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(tinywow.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack, 오디오 협업기능인 Huddles를 비디오까지 확장]]></title>
+        <id>https://slack.com/intl/ko-kr/blog/productivity/introducing-new-ways-to-work-in-slack-huddles</id>
+        <link href="https://slack.com/intl/ko-kr/blog/productivity/introducing-new-ways-to-work-in-slack-huddles"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(slack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
+        <id>https://ansubin.com/nft-marketplaces/</id>
+        <link href="https://ansubin.com/nft-marketplaces/"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
         <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
         <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
         <updated>2022-06-23T14:15:24.276Z</updated>
         <content type="html"><![CDATA[(mawfig.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
+        <id>https://community.applepie.pro/t/topic/27</id>
+        <link href="https://community.applepie.pro/t/topic/27"/>
+        <updated>2022-06-23T12:29:34.757Z</updated>
+        <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
+        <id>https://github.com/yandex/YaLM-100B</id>
+        <link href="https://github.com/yandex/YaLM-100B"/>
+        <updated>2022-06-24T01:12:03.284Z</updated>
+        <content type="html"><![CDATA[(github.com/yandex)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. (번역)]]></title>
@@ -20,13 +62,6 @@
         <content type="html"><![CDATA[(junghan92.medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
-        <id>https://tailscale.com/blog/tailscale-ssh/</id>
-        <link href="https://tailscale.com/blog/tailscale-ssh/"/>
-        <updated>2022-06-23T01:07:19.453Z</updated>
-        <content type="html"><![CDATA[(tailscale.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Deno, 270억원($21M) 규모 시리즈A 투자 유치]]></title>
         <id>https://deno.com/blog/series-a</id>
         <link href="https://deno.com/blog/series-a"/>
@@ -34,11 +69,11 @@
         <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HDMI Firewall]]></title>
-        <id>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</id>
-        <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
-        <updated>2022-06-23T03:30:44.631Z</updated>
-        <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
+        <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
+        <id>https://tailscale.com/blog/tailscale-ssh/</id>
+        <link href="https://tailscale.com/blog/tailscale-ssh/"/>
+        <updated>2022-06-23T01:07:19.453Z</updated>
+        <content type="html"><![CDATA[(tailscale.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개발자의 학습과 성장 (46p 발표자료)]]></title>
@@ -48,17 +83,17 @@
         <content type="html"><![CDATA[(present.do)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HDMI Firewall]]></title>
+        <id>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</id>
+        <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
+        <updated>2022-06-23T03:30:44.631Z</updated>
+        <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[여러가지 일을 할 수 있다는 건 애매한 게 아니다]]></title>
         <id>https://community.applepie.pro/t/topic/21</id>
         <link href="https://community.applepie.pro/t/topic/21"/>
         <updated>2022-06-21T03:27:26.918Z</updated>
-        <content type="html"><![CDATA[(community.applepie.pro)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
-        <id>https://community.applepie.pro/t/topic/27</id>
-        <link href="https://community.applepie.pro/t/topic/27"/>
-        <updated>2022-06-23T12:29:34.757Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
@@ -74,6 +109,20 @@
         <link href="https://dx.tips/the-end-of-localhost"/>
         <updated>2022-06-21T03:27:26.906Z</updated>
         <content type="html"><![CDATA[(dx.tips)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WarcDB - Web crawl data as SQLite DB]]></title>
+        <id>https://github.com/Florents-Tselai/WarcDB</id>
+        <link href="https://github.com/Florents-Tselai/WarcDB"/>
+        <updated>2022-06-22T01:21:17.960Z</updated>
+        <content type="html"><![CDATA[(github.com/Florents-Tselai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
+        <id>https://matt-rickard.com/dont-use-kubernetes-yet/</id>
+        <link href="https://matt-rickard.com/dont-use-kubernetes-yet/"/>
+        <updated>2022-06-21T05:19:20.843Z</updated>
+        <content type="html"><![CDATA[(matt-rickard.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RISC-V, 2022년의 첫번째 새로운 사양 발표]]></title>
@@ -95,54 +144,5 @@
         <link href="https://www.tabnine.com/blog/announcing-tabnine-next-generation/"/>
         <updated>2022-06-23T01:07:19.454Z</updated>
         <content type="html"><![CDATA[(tabnine.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WarcDB - Web crawl data as SQLite DB]]></title>
-        <id>https://github.com/Florents-Tselai/WarcDB</id>
-        <link href="https://github.com/Florents-Tselai/WarcDB"/>
-        <updated>2022-06-22T01:21:17.960Z</updated>
-        <content type="html"><![CDATA[(github.com/Florents-Tselai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot을 모든 개발자가 일반적으로 사용할 수 있습니다.]]></title>
-        <id>https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/</id>
-        <link href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/"/>
-        <updated>2022-06-22T01:21:17.960Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커버 불가능한 코드]]></title>
-        <id>https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/</id>
-        <link href="https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/"/>
-        <updated>2022-06-22T13:36:18.335Z</updated>
-        <content type="html"><![CDATA[(blog.npcode.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
-        <id>https://matt-rickard.com/dont-use-kubernetes-yet/</id>
-        <link href="https://matt-rickard.com/dont-use-kubernetes-yet/"/>
-        <updated>2022-06-21T05:19:20.843Z</updated>
-        <content type="html"><![CDATA[(matt-rickard.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성, TV 테스트 벤치마크 부정행위 적발]]></title>
-        <id>https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/</id>
-        <link href="https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/"/>
-        <updated>2022-06-22T03:29:14.802Z</updated>
-        <content type="html"><![CDATA[(techdirt.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
-        <id>https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/</id>
-        <link href="https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/"/>
-        <updated>2022-06-23T15:16:48.453Z</updated>
-        <content type="html"><![CDATA[(blog.google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마크 저커버그의 '비쥬얼 튜링 테스트 통과하기' 강연 요약]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM=</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM="/>
-        <updated>2022-06-22T01:21:17.959Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
 </feed>
