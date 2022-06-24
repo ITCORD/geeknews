@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-24T11:12:57.948Z</updated>
+    <updated>2022-06-24T12:29:25.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
+        <id>https://news.hada.io/topic?id=6835</id>
+        <link href="https://news.hada.io/topic?id=6835"/>
+        <updated>2022-06-24T11:12:22.554Z</updated>
+        <content type="html"><![CDATA[(disquiet.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
         <id>https://ifuckinghatejira.com/</id>
@@ -18,13 +25,6 @@
         <link href="https://miniflux.app/"/>
         <updated>2022-06-24T03:40:06.847Z</updated>
         <content type="html"><![CDATA[(miniflux.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
-        <id>https://news.hada.io/topic?id=6835</id>
-        <link href="https://news.hada.io/topic?id=6835"/>
-        <updated>2022-06-24T11:12:22.554Z</updated>
-        <content type="html"><![CDATA[(disquiet.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(github.com/sachaos)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linus Torvalds, "리눅스 커널 내에 Rust가 곧 머지될 수도 있다"]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible"/>
-        <updated>2022-06-24T03:40:06.847Z</updated>
-        <content type="html"><![CDATA[(phoronix.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
         <id>https://community.applepie.pro/t/topic/27</id>
         <link href="https://community.applepie.pro/t/topic/27"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
-        <id>https://www.nature.com/articles/d41586-022-01724-w</id>
-        <link href="https://www.nature.com/articles/d41586-022-01724-w"/>
-        <updated>2022-06-24T03:40:06.853Z</updated>
-        <content type="html"><![CDATA[(nature.com)]]></content>
+        <title type="html"><![CDATA[Linus Torvalds, "리눅스 커널 내에 Rust가 곧 머지될 수도 있다"]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible"/>
+        <updated>2022-06-24T03:40:06.847Z</updated>
+        <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
-        <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
-        <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
-        <updated>2022-06-23T14:15:24.276Z</updated>
-        <content type="html"><![CDATA[(mawfig.github.io)]]></content>
+        <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01724-w</id>
+        <link href="https://www.nature.com/articles/d41586-022-01724-w"/>
+        <updated>2022-06-24T03:40:06.853Z</updated>
+        <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
@@ -81,6 +74,13 @@
         <link href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/"/>
         <updated>2022-06-24T03:40:06.854Z</updated>
         <content type="html"><![CDATA[(sourceforge.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
+        <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
+        <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
+        <updated>2022-06-23T14:15:24.276Z</updated>
+        <content type="html"><![CDATA[(mawfig.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
+        <id>https://tailscale.com/blog/tailscale-ssh/</id>
+        <link href="https://tailscale.com/blog/tailscale-ssh/"/>
+        <updated>2022-06-23T01:07:19.453Z</updated>
+        <content type="html"><![CDATA[(tailscale.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. (번역)]]></title>
         <id>https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%97%A3%EC%A7%80-edge-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%B4-%EB%AD%98%EA%B9%8C%EC%9A%94-%EA%B0%95%EC%95%84%EC%A7%80-%EB%AA%A8%EC%9E%90%EB%A5%BC-%EB%9C%A8%EA%B0%9C%EC%A7%88%ED%95%98%EB%8A%94-%EA%B2%83%EA%B3%BC-%EA%B0%99%EC%8A%B5%EB%8B%88%EB%8B%A4-e97748d88b0c</id>
         <link href="https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%97%A3%EC%A7%80-edge-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%B4-%EB%AD%98%EA%B9%8C%EC%9A%94-%EA%B0%95%EC%95%84%EC%A7%80-%EB%AA%A8%EC%9E%90%EB%A5%BC-%EB%9C%A8%EA%B0%9C%EC%A7%88%ED%95%98%EB%8A%94-%EA%B2%83%EA%B3%BC-%EA%B0%99%EC%8A%B5%EB%8B%88%EB%8B%A4-e97748d88b0c"/>
@@ -123,13 +130,6 @@
         <link href="https://deno.com/blog/series-a"/>
         <updated>2022-06-23T01:07:19.454Z</updated>
         <content type="html"><![CDATA[(deno.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
-        <id>https://tailscale.com/blog/tailscale-ssh/</id>
-        <link href="https://tailscale.com/blog/tailscale-ssh/"/>
-        <updated>2022-06-23T01:07:19.453Z</updated>
-        <content type="html"><![CDATA[(tailscale.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HDMI Firewall]]></title>
