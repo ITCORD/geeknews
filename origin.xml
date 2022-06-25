@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-25T17:14:30.436Z</updated>
+    <updated>2022-06-25T18:18:27.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Verge의 Starlink RV 리뷰]]></title>
+        <id>https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency</id>
+        <link href="https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency"/>
+        <updated>2022-06-25T18:17:46.661Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 Firefox 탄생  이야기]]></title>
+        <id>https://joone.net/2022/06/25/43-%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4/</id>
+        <link href="https://joone.net/2022/06/25/43-%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4/"/>
+        <updated>2022-06-25T18:17:46.662Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenCost - 쿠버네티스 비용 모니터링 도구]]></title>
         <id>https://github.com/kubecost/opencost</id>
@@ -90,18 +104,18 @@
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
-        <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
-        <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
-        <updated>2022-06-23T14:15:24.276Z</updated>
-        <content type="html"><![CDATA[(mawfig.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[여러가지 일을 할 수 있다는 건 애매한 게 아니다]]></title>
         <id>https://community.applepie.pro/t/topic/21</id>
         <link href="https://community.applepie.pro/t/topic/21"/>
         <updated>2022-06-21T03:27:26.918Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
+        <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
+        <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
+        <updated>2022-06-23T14:15:24.276Z</updated>
+        <content type="html"><![CDATA[(mawfig.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개발자의 학습과 성장 (46p 발표자료)]]></title>
@@ -130,19 +144,5 @@
         <link href="https://dx.tips/the-end-of-localhost"/>
         <updated>2022-06-25T14:12:33.167Z</updated>
         <content type="html"><![CDATA[(dx.tips)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
-        <id>https://matt-rickard.com/dont-use-kubernetes-yet/</id>
-        <link href="https://matt-rickard.com/dont-use-kubernetes-yet/"/>
-        <updated>2022-06-25T11:13:05.546Z</updated>
-        <content type="html"><![CDATA[(matt-rickard.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
-        <id>https://tailscale.com/blog/tailscale-ssh/</id>
-        <link href="https://tailscale.com/blog/tailscale-ssh/"/>
-        <updated>2022-06-23T01:07:19.453Z</updated>
-        <content type="html"><![CDATA[(tailscale.com)]]></content>
     </entry>
 </feed>
