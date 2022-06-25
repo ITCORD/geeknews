@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-25T11:13:45.153Z</updated>
+    <updated>2022-06-25T12:23:32.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MarkWhen - 마크다운으로 계단식 타임라인 만들기]]></title>
-        <id>https://markwhen.com/</id>
-        <link href="https://markwhen.com/"/>
-        <updated>2022-06-25T01:13:03.600Z</updated>
-        <content type="html"><![CDATA[(markwhen.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
         <id>https://ifuckinghatejira.com/</id>
         <link href="https://ifuckinghatejira.com/"/>
@@ -39,6 +32,13 @@
         <link href="https://tinywow.com/"/>
         <updated>2022-06-24T01:12:03.267Z</updated>
         <content type="html"><![CDATA[(tinywow.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarkWhen - 마크다운으로 계단식 타임라인 만들기]]></title>
+        <id>https://markwhen.com/</id>
+        <link href="https://markwhen.com/"/>
+        <updated>2022-06-25T01:13:03.600Z</updated>
+        <content type="html"><![CDATA[(markwhen.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(sourceforge.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
-        <id>https://github.com/yandex/YaLM-100B</id>
-        <link href="https://github.com/yandex/YaLM-100B"/>
-        <updated>2022-06-24T01:12:03.284Z</updated>
-        <content type="html"><![CDATA[(github.com/yandex)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
         <id>https://tailscale.com/blog/tailscale-ssh/</id>
         <link href="https://tailscale.com/blog/tailscale-ssh/"/>
         <updated>2022-06-23T01:07:19.453Z</updated>
         <content type="html"><![CDATA[(tailscale.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
+        <id>https://github.com/yandex/YaLM-100B</id>
+        <link href="https://github.com/yandex/YaLM-100B"/>
+        <updated>2022-06-24T01:12:03.284Z</updated>
+        <content type="html"><![CDATA[(github.com/yandex)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
