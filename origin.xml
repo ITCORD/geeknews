@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-26T20:15:30.645Z</updated>
+    <updated>2022-06-26T21:13:07.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(tinywow.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
+        <id>https://miniflux.app/</id>
+        <link href="https://miniflux.app/"/>
+        <updated>2022-06-24T03:40:06.847Z</updated>
+        <content type="html"><![CDATA[(miniflux.app)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[moon - JavaScript를 위한 새로운 빌드 도구]]></title>
         <id>https://moonrepo.dev/</id>
         <link href="https://moonrepo.dev/"/>
@@ -46,13 +53,6 @@
         <link href="https://www.dropbox.com/shop"/>
         <updated>2022-06-26T01:18:58.173Z</updated>
         <content type="html"><![CDATA[(dropbox.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
-        <id>https://miniflux.app/</id>
-        <link href="https://miniflux.app/"/>
-        <updated>2022-06-24T03:40:06.847Z</updated>
-        <content type="html"><![CDATA[(miniflux.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
-        <id>https://ansubin.com/nft-marketplaces/</id>
-        <link href="https://ansubin.com/nft-marketplaces/"/>
-        <updated>2022-06-24T01:12:03.267Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
         <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
         <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
         <updated>2022-06-23T14:15:24.276Z</updated>
         <content type="html"><![CDATA[(mawfig.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
+        <id>https://ansubin.com/nft-marketplaces/</id>
+        <link href="https://ansubin.com/nft-marketplaces/"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
 </feed>
