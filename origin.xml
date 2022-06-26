@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-26T22:13:41.135Z</updated>
+    <updated>2022-06-26T23:14:14.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
+        <id>https://ifuckinghatejira.com/</id>
+        <link href="https://ifuckinghatejira.com/"/>
+        <updated>2022-06-24T03:40:06.846Z</updated>
+        <content type="html"><![CDATA[(ifuckinghatejira.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[moon - JavaScript를 위한 새로운 빌드 도구]]></title>
         <id>https://moonrepo.dev/</id>
         <link href="https://moonrepo.dev/"/>
@@ -62,11 +69,11 @@
         <content type="html"><![CDATA[(dropbox.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
-        <id>https://ifuckinghatejira.com/</id>
-        <link href="https://ifuckinghatejira.com/"/>
-        <updated>2022-06-24T03:40:06.846Z</updated>
-        <content type="html"><![CDATA[(ifuckinghatejira.com)]]></content>
+        <title type="html"><![CDATA[OpenCost - 쿠버네티스 비용 모니터링 도구]]></title>
+        <id>https://github.com/kubecost/opencost</id>
+        <link href="https://github.com/kubecost/opencost"/>
+        <updated>2022-06-25T01:13:03.589Z</updated>
+        <content type="html"><![CDATA[(github.com/kubecost)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Verge의 Starlink RV 리뷰]]></title>
@@ -74,13 +81,6 @@
         <link href="https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency"/>
         <updated>2022-06-25T18:17:46.661Z</updated>
         <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCost - 쿠버네티스 비용 모니터링 도구]]></title>
-        <id>https://github.com/kubecost/opencost</id>
-        <link href="https://github.com/kubecost/opencost"/>
-        <updated>2022-06-25T01:13:03.589Z</updated>
-        <content type="html"><![CDATA[(github.com/kubecost)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
