@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-26T11:12:50.617Z</updated>
+    <updated>2022-06-26T12:25:10.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Dropbox Shop 공개]]></title>
-        <id>https://www.dropbox.com/shop</id>
-        <link href="https://www.dropbox.com/shop"/>
-        <updated>2022-06-26T01:18:58.173Z</updated>
-        <content type="html"><![CDATA[(dropbox.com)]]></content>
+        <title type="html"><![CDATA[Amazon CodeWhisper 공개 - AI 프로그래밍 도우미]]></title>
+        <id>https://aws.amazon.com/ko/codewhisperer/</id>
+        <link href="https://aws.amazon.com/ko/codewhisperer/"/>
+        <updated>2022-06-26T01:18:58.186Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만화로 보는 Firefox 탄생  이야기]]></title>
@@ -20,20 +20,6 @@
         <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon CodeWhisper 공개 - AI 프로그래밍 도우미]]></title>
-        <id>https://aws.amazon.com/ko/codewhisperer/</id>
-        <link href="https://aws.amazon.com/ko/codewhisperer/"/>
-        <updated>2022-06-26T01:18:58.186Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Verge의 Starlink RV 리뷰]]></title>
-        <id>https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency</id>
-        <link href="https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency"/>
-        <updated>2022-06-25T18:17:46.661Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[moon - JavaScript를 위한 새로운 빌드 도구]]></title>
         <id>https://moonrepo.dev/</id>
         <link href="https://moonrepo.dev/"/>
@@ -41,11 +27,18 @@
         <content type="html"><![CDATA[(moonrepo.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
-        <id>https://miniflux.app/</id>
-        <link href="https://miniflux.app/"/>
-        <updated>2022-06-24T03:40:06.847Z</updated>
-        <content type="html"><![CDATA[(miniflux.app)]]></content>
+        <title type="html"><![CDATA[Dropbox Shop 공개]]></title>
+        <id>https://www.dropbox.com/shop</id>
+        <link href="https://www.dropbox.com/shop"/>
+        <updated>2022-06-26T01:18:58.173Z</updated>
+        <content type="html"><![CDATA[(dropbox.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Verge의 Starlink RV 리뷰]]></title>
+        <id>https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency</id>
+        <link href="https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency"/>
+        <updated>2022-06-25T18:17:46.661Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
@@ -62,6 +55,20 @@
         <content type="html"><![CDATA[(tinywow.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
+        <id>https://miniflux.app/</id>
+        <link href="https://miniflux.app/"/>
+        <updated>2022-06-24T03:40:06.847Z</updated>
+        <content type="html"><![CDATA[(miniflux.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCost - 쿠버네티스 비용 모니터링 도구]]></title>
+        <id>https://github.com/kubecost/opencost</id>
+        <link href="https://github.com/kubecost/opencost"/>
+        <updated>2022-06-25T01:13:03.589Z</updated>
+        <content type="html"><![CDATA[(github.com/kubecost)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
         <id>https://community.applepie.pro/t/topic/27</id>
         <link href="https://community.applepie.pro/t/topic/27"/>
@@ -74,13 +81,6 @@
         <link href="https://ifuckinghatejira.com/"/>
         <updated>2022-06-24T03:40:06.846Z</updated>
         <content type="html"><![CDATA[(ifuckinghatejira.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCost - 쿠버네티스 비용 모니터링 도구]]></title>
-        <id>https://github.com/kubecost/opencost</id>
-        <link href="https://github.com/kubecost/opencost"/>
-        <updated>2022-06-25T01:13:03.589Z</updated>
-        <content type="html"><![CDATA[(github.com/kubecost)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(mawfig.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
-        <id>https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/</id>
-        <link href="https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/"/>
-        <updated>2022-06-26T04:27:23.182Z</updated>
-        <content type="html"><![CDATA[(blog.google)]]></content>
+        <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01724-w</id>
+        <link href="https://www.nature.com/articles/d41586-022-01724-w"/>
+        <updated>2022-06-26T12:24:36.241Z</updated>
+        <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
 </feed>
