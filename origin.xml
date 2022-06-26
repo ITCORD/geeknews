@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-26T17:14:30.055Z</updated>
+    <updated>2022-06-26T18:16:45.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(dropbox.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
-        <id>https://tinywow.com/</id>
-        <link href="https://tinywow.com/"/>
-        <updated>2022-06-24T01:12:03.267Z</updated>
-        <content type="html"><![CDATA[(tinywow.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
         <id>https://community.applepie.pro/t/topic/27</id>
         <link href="https://community.applepie.pro/t/topic/27"/>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
-        <id>https://lbrito1.github.io/blog/2020/02/repurposing-android.html</id>
-        <link href="https://lbrito1.github.io/blog/2020/02/repurposing-android.html"/>
-        <updated>2022-06-25T01:13:03.597Z</updated>
-        <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
+        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
+        <id>https://tinywow.com/</id>
+        <link href="https://tinywow.com/"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(tinywow.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
@@ -60,6 +53,13 @@
         <link href="https://miniflux.app/"/>
         <updated>2022-06-24T03:40:06.847Z</updated>
         <content type="html"><![CDATA[(miniflux.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
+        <id>https://lbrito1.github.io/blog/2020/02/repurposing-android.html</id>
+        <link href="https://lbrito1.github.io/blog/2020/02/repurposing-android.html"/>
+        <updated>2022-06-25T01:13:03.597Z</updated>
+        <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Verge의 Starlink RV 리뷰]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(present.do)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linus Torvalds, "리눅스 커널 내에 Rust가 곧 머지될 수도 있다"]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible"/>
-        <updated>2022-06-24T03:40:06.847Z</updated>
-        <content type="html"><![CDATA[(phoronix.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[여러가지 일을 할 수 있다는 건 애매한 게 아니다]]></title>
         <id>https://community.applepie.pro/t/topic/21</id>
         <link href="https://community.applepie.pro/t/topic/21"/>
         <updated>2022-06-21T03:27:26.918Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds, "리눅스 커널 내에 Rust가 곧 머지될 수도 있다"]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-For-Linux-5.20-Possible"/>
+        <updated>2022-06-24T03:40:06.847Z</updated>
+        <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
