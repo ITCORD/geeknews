@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-26T09:14:28.298Z</updated>
+    <updated>2022-06-26T10:15:38.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.dropbox.com/shop"/>
         <updated>2022-06-26T01:18:58.173Z</updated>
         <content type="html"><![CDATA[(dropbox.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CodeWhisper 공개 - AI 프로그래밍 도우미]]></title>
+        <id>https://aws.amazon.com/ko/codewhisperer/</id>
+        <link href="https://aws.amazon.com/ko/codewhisperer/"/>
+        <updated>2022-06-26T01:18:58.186Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만화로 보는 Firefox 탄생  이야기]]></title>
@@ -32,13 +39,6 @@
         <link href="https://moonrepo.dev/"/>
         <updated>2022-06-26T01:18:58.185Z</updated>
         <content type="html"><![CDATA[(moonrepo.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CodeWhisper 공개 - AI 프로그래밍 도우미]]></title>
-        <id>https://aws.amazon.com/ko/codewhisperer/</id>
-        <link href="https://aws.amazon.com/ko/codewhisperer/"/>
-        <updated>2022-06-26T01:18:58.186Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
