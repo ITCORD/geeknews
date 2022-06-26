@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-26T21:13:07.435Z</updated>
+    <updated>2022-06-26T22:13:41.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(miniflux.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
+        <id>https://lbrito1.github.io/blog/2020/02/repurposing-android.html</id>
+        <link href="https://lbrito1.github.io/blog/2020/02/repurposing-android.html"/>
+        <updated>2022-06-25T01:13:03.597Z</updated>
+        <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[moon - JavaScript를 위한 새로운 빌드 도구]]></title>
         <id>https://moonrepo.dev/</id>
         <link href="https://moonrepo.dev/"/>
@@ -53,13 +60,6 @@
         <link href="https://www.dropbox.com/shop"/>
         <updated>2022-06-26T01:18:58.173Z</updated>
         <content type="html"><![CDATA[(dropbox.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
-        <id>https://lbrito1.github.io/blog/2020/02/repurposing-android.html</id>
-        <link href="https://lbrito1.github.io/blog/2020/02/repurposing-android.html"/>
-        <updated>2022-06-25T01:13:03.597Z</updated>
-        <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
-        <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
-        <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
-        <updated>2022-06-23T14:15:24.276Z</updated>
-        <content type="html"><![CDATA[(mawfig.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
         <id>https://ansubin.com/nft-marketplaces/</id>
         <link href="https://ansubin.com/nft-marketplaces/"/>
         <updated>2022-06-24T01:12:03.267Z</updated>
         <content type="html"><![CDATA[(ansubin.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
+        <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
+        <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
+        <updated>2022-06-23T14:15:24.276Z</updated>
+        <content type="html"><![CDATA[(mawfig.github.io)]]></content>
     </entry>
 </feed>
