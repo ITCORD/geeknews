@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-27T06:22:03.836Z</updated>
+    <updated>2022-06-27T07:14:51.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
+        <id>https://tinywow.com/</id>
+        <link href="https://tinywow.com/"/>
+        <updated>2022-06-24T01:12:03.267Z</updated>
+        <content type="html"><![CDATA[(tinywow.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
         <id>https://miniflux.app/</id>
         <link href="https://miniflux.app/"/>
         <updated>2022-06-24T03:40:06.847Z</updated>
         <content type="html"><![CDATA[(miniflux.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[moon - JavaScript를 위한 새로운 빌드 도구]]></title>
-        <id>https://moonrepo.dev/</id>
-        <link href="https://moonrepo.dev/"/>
-        <updated>2022-06-26T01:18:58.185Z</updated>
-        <content type="html"><![CDATA[(moonrepo.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
-        <id>https://tinywow.com/</id>
-        <link href="https://tinywow.com/"/>
-        <updated>2022-06-24T01:12:03.267Z</updated>
-        <content type="html"><![CDATA[(tinywow.com)]]></content>
+        <title type="html"><![CDATA[moon - JavaScript를 위한 새로운 빌드 도구]]></title>
+        <id>https://moonrepo.dev/</id>
+        <link href="https://moonrepo.dev/"/>
+        <updated>2022-06-26T01:18:58.185Z</updated>
+        <content type="html"><![CDATA[(moonrepo.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(github.com/sachaos)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge의 Starlink RV 리뷰]]></title>
-        <id>https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency</id>
-        <link href="https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency"/>
-        <updated>2022-06-25T18:17:46.661Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenCost - 쿠버네티스 비용 모니터링 도구]]></title>
         <id>https://github.com/kubecost/opencost</id>
         <link href="https://github.com/kubecost/opencost"/>
         <updated>2022-06-25T01:13:03.589Z</updated>
         <content type="html"><![CDATA[(github.com/kubecost)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Verge의 Starlink RV 리뷰]]></title>
+        <id>https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency</id>
+        <link href="https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency"/>
+        <updated>2022-06-25T18:17:46.661Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
