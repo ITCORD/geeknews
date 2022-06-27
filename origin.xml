@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-27T15:18:08.998Z</updated>
+    <updated>2022-06-27T16:21:43.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(github.com/insidegui)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 블록체인 개발자를 위한 온라인 저지 사이트]]></title>
+        <id>https://news.hada.io/topic?id=6852</id>
+        <link href="https://news.hada.io/topic?id=6852"/>
+        <updated>2022-06-27T16:21:04.788Z</updated>
+        <content type="html"><![CDATA[(app.web3oj.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tesla, 가상 발전소 서비스 공개]]></title>
         <id>https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/</id>
         <link href="https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/"/>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(miniflux.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon CodeWhisperer 공개 - AI 프로그래밍 도우미]]></title>
-        <id>https://aws.amazon.com/ko/codewhisperer/</id>
-        <link href="https://aws.amazon.com/ko/codewhisperer/"/>
-        <updated>2022-06-26T01:18:58.186Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
         <id>https://tinywow.com/</id>
         <link href="https://tinywow.com/"/>
         <updated>2022-06-24T01:12:03.267Z</updated>
         <content type="html"><![CDATA[(tinywow.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CodeWhisperer 공개 - AI 프로그래밍 도우미]]></title>
+        <id>https://aws.amazon.com/ko/codewhisperer/</id>
+        <link href="https://aws.amazon.com/ko/codewhisperer/"/>
+        <updated>2022-06-26T01:18:58.186Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://present.do/documents/62a02582f6365307fc441c7f"/>
         <updated>2022-06-27T13:40:45.576Z</updated>
         <content type="html"><![CDATA[(present.do)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
-        <id>https://news.hada.io/topic?id=6835</id>
-        <link href="https://news.hada.io/topic?id=6835"/>
-        <updated>2022-06-27T14:16:04.319Z</updated>
-        <content type="html"><![CDATA[(disquiet.io)]]></content>
     </entry>
 </feed>
