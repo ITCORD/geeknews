@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-28T11:13:34.270Z</updated>
+    <updated>2022-06-28T12:41:48.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(dangitgit.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
+        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
+        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
+        <updated>2022-06-27T01:22:46.344Z</updated>
+        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
         <id>https://github.com/dblalock/bolt</id>
         <link href="https://github.com/dblalock/bolt"/>
@@ -41,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/x2bool)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
-        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
-        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
-        <updated>2022-06-27T01:22:46.344Z</updated>
-        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
         <id>https://leerob.io/blog/developer-experience-examples</id>
         <link href="https://leerob.io/blog/developer-experience-examples"/>
         <updated>2022-06-27T03:47:42.416Z</updated>
         <content type="html"><![CDATA[(leerob.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enclave - 따기 어려운 형태의 자물쇠]]></title>
+        <id>https://ominoushum.com/lock/</id>
+        <link href="https://ominoushum.com/lock/"/>
+        <updated>2022-06-28T03:41:16.516Z</updated>
+        <content type="html"><![CDATA[(ominoushum.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Darklang Release 2 공개]]></title>
@@ -67,13 +74,6 @@
         <link href="https://www.saastr.com/what-to-know-about-fundraising/"/>
         <updated>2022-06-27T03:47:42.416Z</updated>
         <content type="html"><![CDATA[(saastr.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enclave - 따기 어려운 형태의 자물쇠]]></title>
-        <id>https://ominoushum.com/lock/</id>
-        <link href="https://ominoushum.com/lock/"/>
-        <updated>2022-06-28T03:41:16.516Z</updated>
-        <content type="html"><![CDATA[(ominoushum.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화로 보는 Firefox 탄생  이야기]]></title>
-        <id>https://joone.net/2022/06/25/43-%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4/</id>
-        <link href="https://joone.net/2022/06/25/43-%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4/"/>
-        <updated>2022-06-25T18:17:46.662Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
+        <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
+        <id>https://github.com/sachaos/viddy</id>
+        <link href="https://github.com/sachaos/viddy"/>
+        <updated>2022-06-28T12:40:10.446Z</updated>
+        <content type="html"><![CDATA[(github.com/sachaos)]]></content>
     </entry>
 </feed>
