@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-28T10:19:08.129Z</updated>
+    <updated>2022-06-28T11:13:34.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(tinywow.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla, 가상 발전소 서비스 공개]]></title>
-        <id>https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/</id>
-        <link href="https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/"/>
-        <updated>2022-06-27T01:22:46.337Z</updated>
-        <content type="html"><![CDATA[(electrek.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
         <id>https://miniflux.app/</id>
         <link href="https://miniflux.app/"/>
@@ -123,6 +116,13 @@
         <link href="https://community.applepie.pro/t/topic/27"/>
         <updated>2022-06-23T12:29:34.757Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla, 가상 발전소 서비스 공개]]></title>
+        <id>https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/</id>
+        <link href="https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/"/>
+        <updated>2022-06-27T01:22:46.337Z</updated>
+        <content type="html"><![CDATA[(electrek.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
