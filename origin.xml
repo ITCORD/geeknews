@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-29T12:30:43.798Z</updated>
+    <updated>2022-06-29T13:38:33.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
-        <id>https://github.com/felixrieseberg/windows95</id>
-        <link href="https://github.com/felixrieseberg/windows95"/>
-        <updated>2022-06-29T01:13:39.129Z</updated>
-        <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
         <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
         <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
         <updated>2022-06-29T04:43:28.037Z</updated>
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
+        <id>https://github.com/felixrieseberg/windows95</id>
+        <link href="https://github.com/felixrieseberg/windows95"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
-        <id>https://microvium.com/</id>
-        <link href="https://microvium.com/"/>
-        <updated>2022-06-29T01:13:39.129Z</updated>
-        <content type="html"><![CDATA[(microvium.com)]]></content>
+        <title type="html"><![CDATA[DALL·E Mini]]></title>
+        <id>https://github.com/borisdayma/dalle-mini</id>
+        <link href="https://github.com/borisdayma/dalle-mini"/>
+        <updated>2022-06-29T01:13:39.131Z</updated>
+        <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(github.com/p0deje)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
+        <id>https://microvium.com/</id>
+        <link href="https://microvium.com/"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(microvium.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
         <id>https://dangitgit.com/ko</id>
         <link href="https://dangitgit.com/ko"/>
@@ -69,18 +76,11 @@
         <content type="html"><![CDATA[(dangitgit.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E Mini]]></title>
-        <id>https://github.com/borisdayma/dalle-mini</id>
-        <link href="https://github.com/borisdayma/dalle-mini"/>
-        <updated>2022-06-29T01:13:39.131Z</updated>
-        <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaverse Standards Forum]]></title>
-        <id>https://metaverse-standards.org/</id>
-        <link href="https://metaverse-standards.org/"/>
-        <updated>2022-06-29T04:43:28.038Z</updated>
-        <content type="html"><![CDATA[(metaverse-standards.org)]]></content>
+        <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
+        <id>https://github.com/dblalock/bolt</id>
+        <link href="https://github.com/dblalock/bolt"/>
+        <updated>2022-06-28T01:19:06.541Z</updated>
+        <content type="html"><![CDATA[(github.com/dblalock)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
-        <id>https://github.com/dblalock/bolt</id>
-        <link href="https://github.com/dblalock/bolt"/>
-        <updated>2022-06-28T01:19:06.541Z</updated>
-        <content type="html"><![CDATA[(github.com/dblalock)]]></content>
+        <title type="html"><![CDATA[Metaverse Standards Forum]]></title>
+        <id>https://metaverse-standards.org/</id>
+        <link href="https://metaverse-standards.org/"/>
+        <updated>2022-06-29T04:43:28.038Z</updated>
+        <content type="html"><![CDATA[(metaverse-standards.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(saastr.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Enclave - 따기 어려운 형태의 자물쇠]]></title>
-        <id>https://ominoushum.com/lock/</id>
-        <link href="https://ominoushum.com/lock/"/>
-        <updated>2022-06-28T03:41:16.516Z</updated>
-        <content type="html"><![CDATA[(ominoushum.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스]]></title>
         <id>https://github.com/insidegui/VirtualBuddy</id>
         <link href="https://github.com/insidegui/VirtualBuddy"/>
         <updated>2022-06-27T01:22:46.344Z</updated>
         <content type="html"><![CDATA[(github.com/insidegui)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enclave - 따기 어려운 형태의 자물쇠]]></title>
+        <id>https://ominoushum.com/lock/</id>
+        <link href="https://ominoushum.com/lock/"/>
+        <updated>2022-06-28T03:41:16.516Z</updated>
+        <content type="html"><![CDATA[(ominoushum.com)]]></content>
     </entry>
 </feed>
