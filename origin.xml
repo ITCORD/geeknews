@@ -2,15 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-28T23:14:54.772Z</updated>
+    <updated>2022-06-29T01:14:15.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
+        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
+        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
+        <updated>2022-06-29T01:13:39.127Z</updated>
+        <content type="html"><![CDATA[(posthog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
+        <id>https://github.com/felixrieseberg/windows95</id>
+        <link href="https://github.com/felixrieseberg/windows95"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
+        <id>https://github.com/laixintao/iredis</id>
+        <link href="https://github.com/laixintao/iredis"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
+        <id>https://microvium.com/</id>
+        <link href="https://microvium.com/"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(microvium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E Mini]]></title>
+        <id>https://github.com/borisdayma/dalle-mini</id>
+        <link href="https://github.com/borisdayma/dalle-mini"/>
+        <updated>2022-06-29T01:13:39.131Z</updated>
+        <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
         <id>https://github.com/p0deje/Maccy</id>
         <link href="https://github.com/p0deje/Maccy"/>
         <updated>2022-06-28T01:19:06.558Z</updated>
         <content type="html"><![CDATA[(github.com/p0deje)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
+        <id>https://github.com/kaluma-project/kaluma</id>
+        <link href="https://github.com/kaluma-project/kaluma"/>
+        <updated>2022-06-29T01:13:39.132Z</updated>
+        <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
@@ -102,47 +144,5 @@
         <link href="https://tinywow.com/"/>
         <updated>2022-06-24T01:12:03.267Z</updated>
         <content type="html"><![CDATA[(tinywow.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
-        <id>https://community.applepie.pro/t/topic/27</id>
-        <link href="https://community.applepie.pro/t/topic/27"/>
-        <updated>2022-06-23T12:29:34.757Z</updated>
-        <content type="html"><![CDATA[(community.applepie.pro)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
-        <id>https://miniflux.app/</id>
-        <link href="https://miniflux.app/"/>
-        <updated>2022-06-24T03:40:06.847Z</updated>
-        <content type="html"><![CDATA[(miniflux.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
-        <id>https://lbrito1.github.io/blog/2020/02/repurposing-android.html</id>
-        <link href="https://lbrito1.github.io/blog/2020/02/repurposing-android.html"/>
-        <updated>2022-06-25T01:13:03.597Z</updated>
-        <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla, 가상 발전소 서비스 공개]]></title>
-        <id>https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/</id>
-        <link href="https://electrek.co/2022/06/23/tesla-virtual-power-plant-pays-powerwall-owners-help-end-brownouts/"/>
-        <updated>2022-06-27T01:22:46.337Z</updated>
-        <content type="html"><![CDATA[(electrek.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
-        <id>https://github.com/sachaos/viddy</id>
-        <link href="https://github.com/sachaos/viddy"/>
-        <updated>2022-06-28T12:40:10.446Z</updated>
-        <content type="html"><![CDATA[(github.com/sachaos)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
-        <id>https://ifuckinghatejira.com/</id>
-        <link href="https://ifuckinghatejira.com/"/>
-        <updated>2022-06-28T22:16:12.934Z</updated>
-        <content type="html"><![CDATA[(ifuckinghatejira.com)]]></content>
     </entry>
 </feed>
