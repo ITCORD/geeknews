@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-29T04:44:06.429Z</updated>
+    <updated>2022-06-29T05:24:38.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
+        <id>https://github.com/laixintao/iredis</id>
+        <link href="https://github.com/laixintao/iredis"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
         <id>https://github.com/felixrieseberg/windows95</id>
         <link href="https://github.com/felixrieseberg/windows95"/>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
-        <id>https://github.com/laixintao/iredis</id>
-        <link href="https://github.com/laixintao/iredis"/>
-        <updated>2022-06-29T01:13:39.129Z</updated>
-        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
+        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
+        <id>https://news.hada.io/topic?id=6866</id>
+        <link href="https://news.hada.io/topic?id=6866"/>
+        <updated>2022-06-29T04:43:28.037Z</updated>
+        <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
@@ -39,13 +46,6 @@
         <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
         <updated>2022-06-29T04:43:28.037Z</updated>
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
-        <id>https://news.hada.io/topic?id=6866</id>
-        <link href="https://news.hada.io/topic?id=6866"/>
-        <updated>2022-06-29T04:43:28.037Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(github.com/p0deje)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metaverse Standards Forum]]></title>
-        <id>https://metaverse-standards.org/</id>
-        <link href="https://metaverse-standards.org/"/>
-        <updated>2022-06-29T04:43:28.038Z</updated>
-        <content type="html"><![CDATA[(metaverse-standards.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
         <id>https://dangitgit.com/ko</id>
         <link href="https://dangitgit.com/ko"/>
         <updated>2022-06-27T03:47:42.409Z</updated>
         <content type="html"><![CDATA[(dangitgit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaverse Standards Forum]]></title>
+        <id>https://metaverse-standards.org/</id>
+        <link href="https://metaverse-standards.org/"/>
+        <updated>2022-06-29T04:43:28.038Z</updated>
+        <content type="html"><![CDATA[(metaverse-standards.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
