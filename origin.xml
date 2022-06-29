@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-29T06:19:08.042Z</updated>
+    <updated>2022-06-29T07:14:31.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
         <updated>2022-06-29T01:13:39.127Z</updated>
         <content type="html"><![CDATA[(posthog.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
-        <id>https://github.com/laixintao/iredis</id>
-        <link href="https://github.com/laixintao/iredis"/>
-        <updated>2022-06-29T01:13:39.129Z</updated>
-        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
@@ -34,6 +27,13 @@
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
+        <id>https://github.com/laixintao/iredis</id>
+        <link href="https://github.com/laixintao/iredis"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
         <id>https://news.hada.io/topic?id=6866</id>
         <link href="https://news.hada.io/topic?id=6866"/>
@@ -46,6 +46,13 @@
         <link href="https://github.com/kaluma-project/kaluma"/>
         <updated>2022-06-29T01:13:39.132Z</updated>
         <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaverse Standards Forum]]></title>
+        <id>https://metaverse-standards.org/</id>
+        <link href="https://metaverse-standards.org/"/>
+        <updated>2022-06-29T04:43:28.038Z</updated>
+        <content type="html"><![CDATA[(metaverse-standards.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
@@ -81,13 +88,6 @@
         <link href="https://github.com/dblalock/bolt"/>
         <updated>2022-06-28T01:19:06.541Z</updated>
         <content type="html"><![CDATA[(github.com/dblalock)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaverse Standards Forum]]></title>
-        <id>https://metaverse-standards.org/</id>
-        <link href="https://metaverse-standards.org/"/>
-        <updated>2022-06-29T04:43:28.038Z</updated>
-        <content type="html"><![CDATA[(metaverse-standards.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
