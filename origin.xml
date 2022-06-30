@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-30T04:36:31.561Z</updated>
+    <updated>2022-06-30T05:22:42.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
-        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
-        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
-        <updated>2022-06-29T04:43:28.037Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
         <id>https://opsflow.app/</id>
         <link href="https://opsflow.app/"/>
@@ -27,25 +20,11 @@
         <content type="html"><![CDATA[(opsflow.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
-        <id>https://github.com/felixrieseberg/windows95</id>
-        <link href="https://github.com/felixrieseberg/windows95"/>
-        <updated>2022-06-29T01:13:39.129Z</updated>
-        <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
-        <id>https://github.com/laixintao/iredis</id>
-        <link href="https://github.com/laixintao/iredis"/>
-        <updated>2022-06-29T01:13:39.129Z</updated>
-        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
-        <id>https://news.hada.io/topic?id=6866</id>
-        <link href="https://news.hada.io/topic?id=6866"/>
+        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
+        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
+        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
         <updated>2022-06-29T04:43:28.037Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
+        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
@@ -62,18 +41,11 @@
         <content type="html"><![CDATA[(github.com/kuprel)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
-        <id>https://dangitgit.com/ko</id>
-        <link href="https://dangitgit.com/ko"/>
-        <updated>2022-06-27T03:47:42.409Z</updated>
-        <content type="html"><![CDATA[(dangitgit.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
-        <id>https://github.com/p0deje/Maccy</id>
-        <link href="https://github.com/p0deje/Maccy"/>
-        <updated>2022-06-28T01:19:06.558Z</updated>
-        <content type="html"><![CDATA[(github.com/p0deje)]]></content>
+        <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
+        <id>https://github.com/felixrieseberg/windows95</id>
+        <link href="https://github.com/felixrieseberg/windows95"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대량의 tolower()를 빠르게 수행하기]]></title>
@@ -88,6 +60,34 @@
         <link href="https://www.w3.org/blog/news/archives/9594"/>
         <updated>2022-06-30T01:13:51.776Z</updated>
         <content type="html"><![CDATA[(w3.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
+        <id>https://github.com/laixintao/iredis</id>
+        <link href="https://github.com/laixintao/iredis"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
+        <id>https://news.hada.io/topic?id=6866</id>
+        <link href="https://news.hada.io/topic?id=6866"/>
+        <updated>2022-06-29T04:43:28.037Z</updated>
+        <content type="html"><![CDATA[(applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
+        <id>https://dangitgit.com/ko</id>
+        <link href="https://dangitgit.com/ko"/>
+        <updated>2022-06-27T03:47:42.409Z</updated>
+        <content type="html"><![CDATA[(dangitgit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
+        <id>https://github.com/p0deje/Maccy</id>
+        <link href="https://github.com/p0deje/Maccy"/>
+        <updated>2022-06-28T01:19:06.558Z</updated>
+        <content type="html"><![CDATA[(github.com/p0deje)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DALL·E Mini]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(figma.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
-        <id>https://microvium.com/</id>
-        <link href="https://microvium.com/"/>
-        <updated>2022-06-29T01:13:39.129Z</updated>
-        <content type="html"><![CDATA[(microvium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
         <id>https://leerob.io/blog/developer-experience-examples</id>
         <link href="https://leerob.io/blog/developer-experience-examples"/>
         <updated>2022-06-27T03:47:42.416Z</updated>
         <content type="html"><![CDATA[(leerob.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
+        <id>https://microvium.com/</id>
+        <link href="https://microvium.com/"/>
+        <updated>2022-06-29T01:13:39.129Z</updated>
+        <content type="html"><![CDATA[(microvium.com)]]></content>
     </entry>
 </feed>
