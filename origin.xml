@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-30T08:20:55.838Z</updated>
+    <updated>2022-06-30T09:14:48.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
-        <id>https://opsflow.app/</id>
-        <link href="https://opsflow.app/"/>
-        <updated>2022-06-30T01:13:51.761Z</updated>
-        <content type="html"><![CDATA[(opsflow.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
         <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
         <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
         <updated>2022-06-29T04:43:28.037Z</updated>
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
+        <id>https://opsflow.app/</id>
+        <link href="https://opsflow.app/"/>
+        <updated>2022-06-30T01:13:51.761Z</updated>
+        <content type="html"><![CDATA[(opsflow.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
-        <id>https://github.com/kaluma-project/kaluma</id>
-        <link href="https://github.com/kaluma-project/kaluma"/>
-        <updated>2022-06-29T01:13:39.132Z</updated>
-        <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
+        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
+        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
+        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
+        <updated>2022-06-27T01:22:46.344Z</updated>
+        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/dblalock)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
-        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
-        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
-        <updated>2022-06-27T01:22:46.344Z</updated>
-        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
         <id>https://github.com/x2bool/xlite</id>
         <link href="https://github.com/x2bool/xlite"/>
         <updated>2022-06-28T01:19:06.544Z</updated>
         <content type="html"><![CDATA[(github.com/x2bool)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
+        <id>https://github.com/kaluma-project/kaluma</id>
+        <link href="https://github.com/kaluma-project/kaluma"/>
+        <updated>2022-06-29T01:13:39.132Z</updated>
+        <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
