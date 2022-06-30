@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-30T03:40:56.049Z</updated>
+    <updated>2022-06-30T04:36:31.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
         <updated>2022-06-29T04:43:28.037Z</updated>
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
+        <id>https://opsflow.app/</id>
+        <link href="https://opsflow.app/"/>
+        <updated>2022-06-30T01:13:51.761Z</updated>
+        <content type="html"><![CDATA[(opsflow.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
@@ -41,13 +48,6 @@
         <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
-        <id>https://opsflow.app/</id>
-        <link href="https://opsflow.app/"/>
-        <updated>2022-06-30T01:13:51.761Z</updated>
-        <content type="html"><![CDATA[(opsflow.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
         <id>https://github.com/maxcountryman/warc-parquet</id>
         <link href="https://github.com/maxcountryman/warc-parquet"/>
@@ -60,6 +60,20 @@
         <link href="https://github.com/kuprel/min-dalle"/>
         <updated>2022-06-30T01:13:51.761Z</updated>
         <content type="html"><![CDATA[(github.com/kuprel)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
+        <id>https://dangitgit.com/ko</id>
+        <link href="https://dangitgit.com/ko"/>
+        <updated>2022-06-27T03:47:42.409Z</updated>
+        <content type="html"><![CDATA[(dangitgit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
+        <id>https://github.com/p0deje/Maccy</id>
+        <link href="https://github.com/p0deje/Maccy"/>
+        <updated>2022-06-28T01:19:06.558Z</updated>
+        <content type="html"><![CDATA[(github.com/p0deje)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대량의 tolower()를 빠르게 수행하기]]></title>
@@ -76,20 +90,6 @@
         <content type="html"><![CDATA[(w3.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
-        <id>https://github.com/p0deje/Maccy</id>
-        <link href="https://github.com/p0deje/Maccy"/>
-        <updated>2022-06-28T01:19:06.558Z</updated>
-        <content type="html"><![CDATA[(github.com/p0deje)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
-        <id>https://dangitgit.com/ko</id>
-        <link href="https://dangitgit.com/ko"/>
-        <updated>2022-06-27T03:47:42.409Z</updated>
-        <content type="html"><![CDATA[(dangitgit.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DALL·E Mini]]></title>
         <id>https://github.com/borisdayma/dalle-mini</id>
         <link href="https://github.com/borisdayma/dalle-mini"/>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
-        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
-        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
-        <updated>2022-06-27T01:22:46.344Z</updated>
-        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
         <id>https://github.com/dblalock/bolt</id>
         <link href="https://github.com/dblalock/bolt"/>
         <updated>2022-06-28T01:19:06.541Z</updated>
         <content type="html"><![CDATA[(github.com/dblalock)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
+        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
+        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
+        <updated>2022-06-27T01:22:46.344Z</updated>
+        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
