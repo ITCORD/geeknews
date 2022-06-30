@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-30T14:14:24.527Z</updated>
+    <updated>2022-06-30T15:16:46.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,10 +125,11 @@
         <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 오픈 스타트업에 대해 어떻게 생각하세요?]]></title>
-        <id>https://news.hada.io/topic?id=6873</id>
-        <link href="https://news.hada.io/topic?id=6873"/>
-        <updated>2022-06-30T10:20:12.573Z</updated>
+        <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
+        <id>https://leerob.io/blog/developer-experience-examples</id>
+        <link href="https://leerob.io/blog/developer-experience-examples"/>
+        <updated>2022-06-27T03:47:42.416Z</updated>
+        <content type="html"><![CDATA[(leerob.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
@@ -138,10 +139,9 @@
         <content type="html"><![CDATA[(figma.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
-        <id>https://leerob.io/blog/developer-experience-examples</id>
-        <link href="https://leerob.io/blog/developer-experience-examples"/>
-        <updated>2022-06-27T03:47:42.416Z</updated>
-        <content type="html"><![CDATA[(leerob.io)]]></content>
+        <title type="html"><![CDATA[Ask GN: 오픈 스타트업에 대해 어떻게 생각하세요?]]></title>
+        <id>https://news.hada.io/topic?id=6873</id>
+        <link href="https://news.hada.io/topic?id=6873"/>
+        <updated>2022-06-30T10:20:12.573Z</updated>
     </entry>
 </feed>
