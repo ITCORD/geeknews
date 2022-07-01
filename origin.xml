@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-01T10:17:01.943Z</updated>
+    <updated>2022-07-01T11:13:34.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[HN은 어떻게 중단없이 운영되나요?]]></title>
-        <id>https://news.ycombinator.com/item?id=31821269</id>
-        <link href="https://news.ycombinator.com/item?id=31821269"/>
-        <updated>2022-07-01T08:19:45.982Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[20년 된 Atlassian은 아직 수익이 없음 - 시장의 평가는 틀렸다]]></title>
         <id>https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/</id>
         <link href="https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/"/>
         <updated>2022-07-01T08:19:45.983Z</updated>
         <content type="html"><![CDATA[(smartcompany.com.au)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN은 어떻게 중단없이 운영되나요?]]></title>
+        <id>https://news.ycombinator.com/item?id=31821269</id>
+        <link href="https://news.ycombinator.com/item?id=31821269"/>
+        <updated>2022-07-01T08:19:45.982Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업은 유치원이 아닙니다]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
-        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
-        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
-        <updated>2022-06-29T01:13:39.127Z</updated>
-        <content type="html"><![CDATA[(posthog.com)]]></content>
+        <title type="html"><![CDATA[예의와 존중이 있는 곳이 유치원은 아닙니다.]]></title>
+        <id>https://kuronekolab.super.site/</id>
+        <link href="https://kuronekolab.super.site/"/>
+        <updated>2022-07-01T11:12:50.936Z</updated>
+        <content type="html"><![CDATA[(kuronekolab.super.site)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
@@ -46,6 +46,13 @@
         <link href="https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"/>
         <updated>2022-07-01T08:19:45.987Z</updated>
         <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
+        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
+        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
+        <updated>2022-06-29T01:13:39.127Z</updated>
+        <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각]]></title>
@@ -124,13 +131,6 @@
         <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[minimal DALL·E]]></title>
-        <id>https://github.com/kuprel/min-dalle</id>
-        <link href="https://github.com/kuprel/min-dalle"/>
-        <updated>2022-06-30T01:13:51.761Z</updated>
-        <content type="html"><![CDATA[(github.com/kuprel)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
         <id>https://github.com/x2bool/xlite</id>
         <link href="https://github.com/x2bool/xlite"/>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(github.com/x2bool)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
-        <id>https://github.com/dblalock/bolt</id>
-        <link href="https://github.com/dblalock/bolt"/>
-        <updated>2022-06-28T01:19:06.541Z</updated>
-        <content type="html"><![CDATA[(github.com/dblalock)]]></content>
+        <title type="html"><![CDATA[minimal DALL·E]]></title>
+        <id>https://github.com/kuprel/min-dalle</id>
+        <link href="https://github.com/kuprel/min-dalle"/>
+        <updated>2022-06-30T01:13:51.761Z</updated>
+        <content type="html"><![CDATA[(github.com/kuprel)]]></content>
     </entry>
 </feed>
