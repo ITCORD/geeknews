@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-01T18:19:23.736Z</updated>
+    <updated>2022-07-01T19:12:56.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[minimal DALL·E]]></title>
-        <id>https://github.com/kuprel/min-dalle</id>
-        <link href="https://github.com/kuprel/min-dalle"/>
-        <updated>2022-07-01T15:16:39.650Z</updated>
-        <content type="html"><![CDATA[(github.com/kuprel)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
         <id>https://github.com/x2bool/xlite</id>
         <link href="https://github.com/x2bool/xlite"/>
         <updated>2022-06-28T01:19:06.544Z</updated>
         <content type="html"><![CDATA[(github.com/x2bool)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[minimal DALL·E]]></title>
+        <id>https://github.com/kuprel/min-dalle</id>
+        <link href="https://github.com/kuprel/min-dalle"/>
+        <updated>2022-07-01T15:16:39.650Z</updated>
+        <content type="html"><![CDATA[(github.com/kuprel)]]></content>
     </entry>
 </feed>
