@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-02T08:18:14.087Z</updated>
+    <updated>2022-07-02T09:14:03.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,17 +34,17 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 어떤 모니터 조합을 선호하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6884</id>
-        <link href="https://news.hada.io/topic?id=6884"/>
-        <updated>2022-07-02T01:14:58.890Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HN은 어떻게 중단없이 운영되나요?]]></title>
         <id>https://news.ycombinator.com/item?id=31821269</id>
         <link href="https://news.ycombinator.com/item?id=31821269"/>
         <updated>2022-07-01T08:19:45.982Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 어떤 모니터 조합을 선호하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6884</id>
+        <link href="https://news.hada.io/topic?id=6884"/>
+        <updated>2022-07-02T01:14:58.890Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[20년 된 Atlassian은 아직 수익이 없음 - 시장의 평가는 틀렸다]]></title>
@@ -130,17 +130,17 @@
         <updated>2022-07-01T10:16:20.881Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
+        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
+        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
+        <updated>2022-07-02T09:13:27.456Z</updated>
+        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
         <id>https://opsflow.app/</id>
         <link href="https://opsflow.app/"/>
         <updated>2022-06-30T01:13:51.761Z</updated>
         <content type="html"><![CDATA[(opsflow.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
-        <id>https://github.com/maxcountryman/warc-parquet</id>
-        <link href="https://github.com/maxcountryman/warc-parquet"/>
-        <updated>2022-06-30T01:13:51.761Z</updated>
-        <content type="html"><![CDATA[(github.com/maxcountryman)]]></content>
     </entry>
 </feed>
