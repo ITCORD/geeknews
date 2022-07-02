@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-02T20:15:54.666Z</updated>
+    <updated>2022-07-02T21:13:17.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(teapodo.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi Pico W : $6짜리 IoT 플랫폼]]></title>
-        <id>https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/</id>
-        <link href="https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/"/>
-        <updated>2022-07-02T01:14:58.879Z</updated>
-        <content type="html"><![CDATA[(raspberrypi.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
         <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
         <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
         <updated>2022-06-29T01:13:39.127Z</updated>
         <content type="html"><![CDATA[(posthog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Pico W : $6짜리 IoT 플랫폼]]></title>
+        <id>https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/</id>
+        <link href="https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/"/>
+        <updated>2022-07-02T01:14:58.879Z</updated>
+        <content type="html"><![CDATA[(raspberrypi.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HN은 어떻게 중단없이 운영되나요?]]></title>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
+        <id>https://github.com/x2bool/xlite</id>
+        <link href="https://github.com/x2bool/xlite"/>
+        <updated>2022-07-02T21:12:40.978Z</updated>
+        <content type="html"><![CDATA[(github.com/x2bool)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
         <id>https://opsflow.app/</id>
         <link href="https://opsflow.app/"/>
         <updated>2022-06-30T01:13:51.761Z</updated>
         <content type="html"><![CDATA[(opsflow.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
-        <id>https://github.com/maxcountryman/warc-parquet</id>
-        <link href="https://github.com/maxcountryman/warc-parquet"/>
-        <updated>2022-07-02T12:24:05.948Z</updated>
-        <content type="html"><![CDATA[(github.com/maxcountryman)]]></content>
     </entry>
 </feed>
