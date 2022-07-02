@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-02T11:13:01.424Z</updated>
+    <updated>2022-07-02T12:24:46.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
+        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
+        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
+        <updated>2022-06-29T01:13:39.127Z</updated>
+        <content type="html"><![CDATA[(posthog.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 어떤 모니터 조합을 선호하시나요?]]></title>
         <id>https://news.hada.io/topic?id=6884</id>
         <link href="https://news.hada.io/topic?id=6884"/>
@@ -52,13 +59,6 @@
         <link href="https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/"/>
         <updated>2022-07-01T08:19:45.983Z</updated>
         <content type="html"><![CDATA[(smartcompany.com.au)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
-        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
-        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
-        <updated>2022-06-29T01:13:39.127Z</updated>
-        <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업은 유치원이 아닙니다]]></title>
@@ -131,16 +131,17 @@
         <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6879</id>
-        <link href="https://news.hada.io/topic?id=6879"/>
-        <updated>2022-07-01T10:16:20.881Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
         <id>https://opsflow.app/</id>
         <link href="https://opsflow.app/"/>
         <updated>2022-06-30T01:13:51.761Z</updated>
         <content type="html"><![CDATA[(opsflow.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
+        <id>https://github.com/maxcountryman/warc-parquet</id>
+        <link href="https://github.com/maxcountryman/warc-parquet"/>
+        <updated>2022-07-02T12:24:05.948Z</updated>
+        <content type="html"><![CDATA[(github.com/maxcountryman)]]></content>
     </entry>
 </feed>
