@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-02T16:19:27.937Z</updated>
+    <updated>2022-07-02T17:14:46.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Teapodo - 팟캐스트용 가벼운 오디오 편집기]]></title>
-        <id>https://teapodo.com/</id>
-        <link href="https://teapodo.com/"/>
-        <updated>2022-07-02T01:14:58.896Z</updated>
-        <content type="html"><![CDATA[(teapodo.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[박사학위 따면 좋은 점 - 세상에 더 많은 전문가가 필요한 이유]]></title>
         <id>https://www.youtube.com/watch?v=kV9YoY2l4AY</id>
         <link href="https://www.youtube.com/watch?v=kV9YoY2l4AY"/>
         <updated>2022-07-02T01:14:58.896Z</updated>
         <content type="html"><![CDATA[(youtube.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teapodo - 팟캐스트용 가벼운 오디오 편집기]]></title>
+        <id>https://teapodo.com/</id>
+        <link href="https://teapodo.com/"/>
+        <updated>2022-07-02T01:14:58.896Z</updated>
+        <content type="html"><![CDATA[(teapodo.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Raspberry Pi Pico W : $6짜리 IoT 플랫폼]]></title>
@@ -55,17 +55,24 @@
         <content type="html"><![CDATA[(smartcompany.com.au)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스타트업은 유치원이 아닙니다]]></title>
+        <id>https://medium.com/@kurtlee/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-7fad4b48e87f</id>
+        <link href="https://medium.com/@kurtlee/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-7fad4b48e87f"/>
+        <updated>2022-07-01T08:19:45.983Z</updated>
+        <content type="html"><![CDATA[(medium.com/@kurtlee)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 어떤 모니터 조합을 선호하시나요?]]></title>
         <id>https://news.hada.io/topic?id=6884</id>
         <link href="https://news.hada.io/topic?id=6884"/>
         <updated>2022-07-02T01:14:58.890Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업은 유치원이 아닙니다]]></title>
-        <id>https://medium.com/@kurtlee/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-7fad4b48e87f</id>
-        <link href="https://medium.com/@kurtlee/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-7fad4b48e87f"/>
-        <updated>2022-07-01T08:19:45.983Z</updated>
-        <content type="html"><![CDATA[(medium.com/@kurtlee)]]></content>
+        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
+        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
+        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
+        <updated>2022-06-29T04:43:28.037Z</updated>
+        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각]]></title>
@@ -82,13 +89,6 @@
         <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
-        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
-        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
-        <updated>2022-06-29T04:43:28.037Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
         <id>https://dangitgit.com/ko</id>
         <link href="https://dangitgit.com/ko"/>
@@ -103,18 +103,18 @@
         <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
-        <id>https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/</id>
-        <link href="https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"/>
-        <updated>2022-07-01T08:19:45.987Z</updated>
-        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
         <id>https://github.com/laixintao/iredis</id>
         <link href="https://github.com/laixintao/iredis"/>
         <updated>2022-06-29T01:13:39.129Z</updated>
         <content type="html"><![CDATA[(github.com/laixintao)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
+        <id>https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/</id>
+        <link href="https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"/>
+        <updated>2022-07-01T08:19:45.987Z</updated>
+        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
