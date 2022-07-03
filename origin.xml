@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-02T23:14:27.144Z</updated>
+    <updated>2022-07-03T01:20:14.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Python for Data Analysis 3판 - 오픈 억세스 버전]]></title>
+        <id>https://wesmckinney.com/book/</id>
+        <link href="https://wesmckinney.com/book/"/>
+        <updated>2022-07-03T01:19:39.580Z</updated>
+        <content type="html"><![CDATA[(wesmckinney.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scunthorpe Sans - 욕설을 자동으로 필터링하는 폰트]]></title>
+        <id>https://vole.wtf/scunthorpe-sans/</id>
+        <link href="https://vole.wtf/scunthorpe-sans/"/>
+        <updated>2022-07-03T01:19:39.587Z</updated>
+        <content type="html"><![CDATA[(vole.wtf)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과]]></title>
         <id>http://channy.creation.net/blog/1600</id>
@@ -124,24 +138,10 @@
         <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
-        <id>https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/</id>
-        <link href="https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"/>
-        <updated>2022-07-01T08:19:45.987Z</updated>
-        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
         <id>https://github.com/x2bool/xlite</id>
         <link href="https://github.com/x2bool/xlite"/>
         <updated>2022-07-02T21:12:40.978Z</updated>
         <content type="html"><![CDATA[(github.com/x2bool)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
-        <id>https://opsflow.app/</id>
-        <link href="https://opsflow.app/"/>
-        <updated>2022-06-30T01:13:51.761Z</updated>
-        <content type="html"><![CDATA[(opsflow.app)]]></content>
     </entry>
 </feed>
