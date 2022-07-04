@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-04T22:14:42.973Z</updated>
+    <updated>2022-07-04T23:14:47.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://users.cs.duke.edu/~conitzer/cognitiveHCOMP20.pdf"/>
         <updated>2022-07-04T03:47:29.352Z</updated>
         <content type="html"><![CDATA[(users.cs.duke.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 트위터 연동 자유시장]]></title>
+        <id>https://news.hada.io/topic?id=6901</id>
+        <link href="https://news.hada.io/topic?id=6901"/>
+        <updated>2022-07-04T23:14:14.501Z</updated>
+        <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple Weatherkit, Swift & REST API로 제공]]></title>
@@ -137,12 +144,5 @@
         <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
         <updated>2022-07-04T15:19:03.683Z</updated>
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술 기업들의 정리해고가 쌓여가는 중]]></title>
-        <id>https://twitter.com/HayekAndKeynes/status/1541760176826499073</id>
-        <link href="https://twitter.com/HayekAndKeynes/status/1541760176826499073"/>
-        <updated>2022-07-03T03:29:55.841Z</updated>
-        <content type="html"><![CDATA[(twitter.com/HayekAndKeynes)]]></content>
     </entry>
 </feed>
