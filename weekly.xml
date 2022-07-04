@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-07-03T23:14:50.954Z</updated>
+    <updated>2022-07-04T01:26:25.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
+        <id>https://news.hada.io/weekly/202227</id>
+        <link href="https://news.hada.io/weekly/202227"/>
+        <updated>2022-07-04T01:26:13.596Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">156. </td><td class="fitwidth">202227</td><td width="*">&nbsp;<a href="/weekly/202227" class="u keepall"> 엔지니어들이 면접에서 물어야 할 질문들</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
         <id>https://news.hada.io/weekly/202226</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202208"/>
         <updated>2022-02-21T00:49:37.243Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">137. </td><td class="fitwidth">202208</td><td width="*">&nbsp;<a href="/weekly/202208" class="u keepall"> Microsoft를 잊지 말아요</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
-        <id>https://news.hada.io/weekly/202207</id>
-        <link href="https://news.hada.io/weekly/202207"/>
-        <updated>2022-02-14T00:46:29.953Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">136. </td><td class="fitwidth">202207</td><td width="*">&nbsp;<a href="/weekly/202207" class="u keepall"> WebAssembly에 주목해야 할 이유</a></td>]]></content>
     </entry>
 </feed>
