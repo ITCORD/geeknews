@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-05T06:19:34.580Z</updated>
+    <updated>2022-07-05T07:14:41.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.whatshouldireadnext.com/"/>
         <updated>2022-07-05T01:15:14.352Z</updated>
         <content type="html"><![CDATA[(whatshouldireadnext.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
+        <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
+        <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
+        <updated>2022-07-05T07:14:07.178Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(pilimi.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
-        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
-        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
-        <updated>2022-07-04T06:21:51.387Z</updated>
-        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 트위터 연동 자유시장]]></title>
         <id>https://news.hada.io/topic?id=6901</id>
         <link href="https://news.hada.io/topic?id=6901"/>
         <updated>2022-07-04T23:14:14.501Z</updated>
         <content type="html"><![CDATA[(applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
+        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
+        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
+        <updated>2022-07-04T06:21:51.387Z</updated>
+        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FlashList - ReactNative용 고성능 리스트 컴포넌트 오픈소스]]></title>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(segmentstream.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인간 인지능력의 한계를 이용하는 인증시스템 [pdf]]]></title>
-        <id>https://users.cs.duke.edu/~conitzer/cognitiveHCOMP20.pdf</id>
-        <link href="https://users.cs.duke.edu/~conitzer/cognitiveHCOMP20.pdf"/>
-        <updated>2022-07-04T03:47:29.352Z</updated>
-        <content type="html"><![CDATA[(users.cs.duke.edu)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플이 고급형 HomePod을 되살릴 것]]></title>
         <id>https://arstechnica.com/gadgets/2022/06/report-apple-is-resurrecting-its-high-end-homepod-smart-speaker/</id>
         <link href="https://arstechnica.com/gadgets/2022/06/report-apple-is-resurrecting-its-high-end-homepod-smart-speaker/"/>
         <updated>2022-07-05T01:15:14.361Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간 인지능력의 한계를 이용하는 인증시스템 [pdf]]]></title>
+        <id>https://users.cs.duke.edu/~conitzer/cognitiveHCOMP20.pdf</id>
+        <link href="https://users.cs.duke.edu/~conitzer/cognitiveHCOMP20.pdf"/>
+        <updated>2022-07-04T03:47:29.352Z</updated>
+        <content type="html"><![CDATA[(users.cs.duke.edu)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Open API를 이용한 고속 논문 분석]]></title>
@@ -137,12 +144,5 @@
         <link href="https://andrenader.substack.com/p/nfc-clothes-tracker"/>
         <updated>2022-07-03T03:29:55.840Z</updated>
         <content type="html"><![CDATA[(andrenader.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
-        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
-        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
-        <updated>2022-07-05T04:35:21.639Z</updated>
-        <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
 </feed>
