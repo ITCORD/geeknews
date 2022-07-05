@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-05T11:14:38.315Z</updated>
+    <updated>2022-07-05T12:30:42.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://www.whatshouldireadnext.com/"/>
         <updated>2022-07-05T01:15:14.352Z</updated>
         <content type="html"><![CDATA[(whatshouldireadnext.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
-        <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
-        <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
-        <updated>2022-07-05T07:14:07.178Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Darktable 4.0 릴리즈]]></title>
@@ -34,6 +27,13 @@
         <content type="html"><![CDATA[(felt.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
+        <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
+        <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
+        <updated>2022-07-05T07:14:07.178Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pirate Library Mirror]]></title>
         <id>http://pilimi.org/</id>
         <link href="http://pilimi.org/"/>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(pilimi.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FlashList - ReactNative용 고성능 리스트 컴포넌트 오픈소스]]></title>
-        <id>https://shopify.github.io/flash-list/</id>
-        <link href="https://shopify.github.io/flash-list/"/>
-        <updated>2022-07-05T01:15:14.359Z</updated>
-        <content type="html"><![CDATA[(shopify.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
         <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
         <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
         <updated>2022-07-04T06:21:51.387Z</updated>
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlashList - ReactNative용 고성능 리스트 컴포넌트 오픈소스]]></title>
+        <id>https://shopify.github.io/flash-list/</id>
+        <link href="https://shopify.github.io/flash-list/"/>
+        <updated>2022-07-05T01:15:14.359Z</updated>
+        <content type="html"><![CDATA[(shopify.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 트위터 연동 자유시장]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(twitter.com/sundarpichai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scunthorpe Sans - 욕설을 자동으로 필터링하는 폰트]]></title>
-        <id>https://vole.wtf/scunthorpe-sans/</id>
-        <link href="https://vole.wtf/scunthorpe-sans/"/>
-        <updated>2022-07-03T01:19:39.587Z</updated>
-        <content type="html"><![CDATA[(vole.wtf)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과]]></title>
         <id>http://channy.creation.net/blog/1600</id>
         <link href="http://channy.creation.net/blog/1600"/>
         <updated>2022-07-02T01:14:58.890Z</updated>
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scunthorpe Sans - 욕설을 자동으로 필터링하는 폰트]]></title>
+        <id>https://vole.wtf/scunthorpe-sans/</id>
+        <link href="https://vole.wtf/scunthorpe-sans/"/>
+        <updated>2022-07-03T01:19:39.587Z</updated>
+        <content type="html"><![CDATA[(vole.wtf)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
