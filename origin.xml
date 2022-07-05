@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-05T07:14:41.069Z</updated>
+    <updated>2022-07-05T08:19:06.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[What Should I Read Next? - 다음에 읽을 책은?]]></title>
-        <id>https://www.whatshouldireadnext.com/</id>
-        <link href="https://www.whatshouldireadnext.com/"/>
-        <updated>2022-07-05T01:15:14.352Z</updated>
-        <content type="html"><![CDATA[(whatshouldireadnext.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
         <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
         <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
         <updated>2022-07-05T07:14:07.178Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Should I Read Next? - 다음에 읽을 책은?]]></title>
+        <id>https://www.whatshouldireadnext.com/</id>
+        <link href="https://www.whatshouldireadnext.com/"/>
+        <updated>2022-07-05T01:15:14.352Z</updated>
+        <content type="html"><![CDATA[(whatshouldireadnext.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(pilimi.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 트위터 연동 자유시장]]></title>
-        <id>https://news.hada.io/topic?id=6901</id>
-        <link href="https://news.hada.io/topic?id=6901"/>
-        <updated>2022-07-04T23:14:14.501Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
         <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
         <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
         <updated>2022-07-04T06:21:51.387Z</updated>
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 트위터 연동 자유시장]]></title>
+        <id>https://news.hada.io/topic?id=6901</id>
+        <link href="https://news.hada.io/topic?id=6901"/>
+        <updated>2022-07-04T23:14:14.501Z</updated>
+        <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FlashList - ReactNative용 고성능 리스트 컴포넌트 오픈소스]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1년간 입은 옷과 신발들을 모두 트래킹 하기]]></title>
-        <id>https://andrenader.substack.com/p/nfc-clothes-tracker</id>
-        <link href="https://andrenader.substack.com/p/nfc-clothes-tracker"/>
-        <updated>2022-07-03T03:29:55.840Z</updated>
-        <content type="html"><![CDATA[(andrenader.substack.com)]]></content>
+        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
+        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
+        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
+        <updated>2022-07-05T08:18:30.320Z</updated>
+        <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
 </feed>
