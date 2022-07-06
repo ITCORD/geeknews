@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-06T17:21:38.725Z</updated>
+    <updated>2022-07-06T18:19:21.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
+        <id>https://felt.com/</id>
+        <link href="https://felt.com/"/>
+        <updated>2022-07-05T01:15:14.358Z</updated>
+        <content type="html"><![CDATA[(felt.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[W3C가 분산신원식별자 DID 1.0을 권장사항으로 승인]]></title>
         <id>https://benny-jung.medium.com/w3c-did-1-0-%EC%97%90-%EB%8C%80%ED%95%9C-google-apple-%EB%B0%8F-mozila%EC%9D%98-%EC%9D%B4%EC%9D%98%EC%A0%9C%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%B5%EC%8B%9D-%EA%B2%B0%EC%A0%95-%ED%91%9C%EC%A4%80%ED%99%94-%EC%B1%84%ED%83%9D-fd467e0704f4</id>
         <link href="https://benny-jung.medium.com/w3c-did-1-0-%EC%97%90-%EB%8C%80%ED%95%9C-google-apple-%EB%B0%8F-mozila%EC%9D%98-%EC%9D%B4%EC%9D%98%EC%A0%9C%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%B5%EC%8B%9D-%EA%B2%B0%EC%A0%95-%ED%91%9C%EC%A4%80%ED%99%94-%EC%B1%84%ED%83%9D-fd467e0704f4"/>
@@ -74,13 +81,6 @@
         <link href="https://moonbangoo.com/"/>
         <updated>2022-07-06T01:26:58.338Z</updated>
         <content type="html"><![CDATA[(moonbangoo.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
-        <id>https://felt.com/</id>
-        <link href="https://felt.com/"/>
-        <updated>2022-07-05T01:15:14.358Z</updated>
-        <content type="html"><![CDATA[(felt.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
