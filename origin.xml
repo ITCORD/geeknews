@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-07T14:15:33.339Z</updated>
+    <updated>2022-07-07T15:26:08.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(linkedin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
-        <id>https://csvfiddle.io/</id>
-        <link href="https://csvfiddle.io/"/>
-        <updated>2022-07-07T01:23:00.007Z</updated>
-        <content type="html"><![CDATA[(csvfiddle.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AnotherPomodoro - 웹 뽀모도로 타이머 오픈소스]]></title>
         <id>https://another-pomodoro.app/</id>
         <link href="https://another-pomodoro.app/"/>
         <updated>2022-07-07T01:23:00.054Z</updated>
         <content type="html"><![CDATA[(another-pomodoro.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
+        <id>https://csvfiddle.io/</id>
+        <link href="https://csvfiddle.io/"/>
+        <updated>2022-07-07T01:23:00.007Z</updated>
+        <content type="html"><![CDATA[(csvfiddle.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[랜선 문방구 - 용돈봉투 출력기]]></title>
-        <id>https://moonbangoo.com/</id>
-        <link href="https://moonbangoo.com/"/>
-        <updated>2022-07-06T01:26:58.338Z</updated>
-        <content type="html"><![CDATA[(moonbangoo.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
         <id>https://felt.com/</id>
         <link href="https://felt.com/"/>
         <updated>2022-07-05T01:15:14.358Z</updated>
         <content type="html"><![CDATA[(felt.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜선 문방구 - 용돈봉투 출력기]]></title>
+        <id>https://moonbangoo.com/</id>
+        <link href="https://moonbangoo.com/"/>
+        <updated>2022-07-06T01:26:58.338Z</updated>
+        <content type="html"><![CDATA[(moonbangoo.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
