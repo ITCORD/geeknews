@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-07T21:13:54.821Z</updated>
+    <updated>2022-07-07T22:14:57.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(github.com/jennyEckstein)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 모두를 위한 소셜 링크 사이트]]></title>
-        <id>https://news.hada.io/topic?id=6927</id>
-        <link href="https://news.hada.io/topic?id=6927"/>
-        <updated>2022-07-07T03:46:05.900Z</updated>
-        <content type="html"><![CDATA[(linktag.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
         <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
         <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
@@ -90,11 +83,11 @@
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fedex, 데이터센터를 폐쇄하고 2024년까지 모든 메임프레임 폐기 예정]]></title>
-        <id>https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/</id>
-        <link href="https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/"/>
-        <updated>2022-07-07T01:23:00.050Z</updated>
-        <content type="html"><![CDATA[(datacenterdynamics.com)]]></content>
+        <title type="html"><![CDATA[Show GN: 모두를 위한 소셜 링크 사이트]]></title>
+        <id>https://news.hada.io/topic?id=6927</id>
+        <link href="https://news.hada.io/topic?id=6927"/>
+        <updated>2022-07-07T03:46:05.900Z</updated>
+        <content type="html"><![CDATA[(linktag.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Should I Read Next? - 다음에 읽을 책은?]]></title>
@@ -118,6 +111,13 @@
         <content type="html"><![CDATA[(nist.gov)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fedex, 데이터센터를 폐쇄하고 2024년까지 모든 메임프레임 폐기 예정]]></title>
+        <id>https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/</id>
+        <link href="https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/"/>
+        <updated>2022-07-07T01:23:00.050Z</updated>
+        <content type="html"><![CDATA[(datacenterdynamics.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
         <id>https://felt.com/</id>
         <link href="https://felt.com/"/>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(felt.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[랜선 문방구 - 용돈봉투 출력기]]></title>
-        <id>https://moonbangoo.com/</id>
-        <link href="https://moonbangoo.com/"/>
-        <updated>2022-07-06T01:26:58.338Z</updated>
-        <content type="html"><![CDATA[(moonbangoo.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
         <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
         <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
         <updated>2022-07-05T07:14:07.178Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜선 문방구 - 용돈봉투 출력기]]></title>
+        <id>https://moonbangoo.com/</id>
+        <link href="https://moonbangoo.com/"/>
+        <updated>2022-07-06T01:26:58.338Z</updated>
+        <content type="html"><![CDATA[(moonbangoo.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Darktable 4.0 릴리즈]]></title>
