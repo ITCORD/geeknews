@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-08T13:34:18.725Z</updated>
+    <updated>2022-07-08T14:15:53.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(bun.sh)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQSLite - AWS SQS의 가벼운 구현체]]></title>
-        <id>https://github.com/jennyEckstein/sqslite</id>
-        <link href="https://github.com/jennyEckstein/sqslite"/>
-        <updated>2022-07-06T01:26:58.336Z</updated>
-        <content type="html"><![CDATA[(github.com/jennyEckstein)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
         <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
         <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
         <updated>2022-07-04T06:21:51.387Z</updated>
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQSLite - AWS SQS의 가벼운 구현체]]></title>
+        <id>https://github.com/jennyEckstein/sqslite</id>
+        <link href="https://github.com/jennyEckstein/sqslite"/>
+        <updated>2022-07-06T01:26:58.336Z</updated>
+        <content type="html"><![CDATA[(github.com/jennyEckstein)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
