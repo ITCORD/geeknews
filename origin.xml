@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-08T11:13:23.020Z</updated>
+    <updated>2022-07-08T12:28:46.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(campaign.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 스파이웨어로부터 보호하는 '락다운 모드' 프리뷰 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/"/>
-        <updated>2022-07-08T01:22:58.488Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[wiby - 오래된 웹사이트 검색엔진]]></title>
         <id>https://wiby.org/</id>
         <link href="https://wiby.org/"/>
         <updated>2022-07-07T13:42:23.232Z</updated>
         <content type="html"><![CDATA[(wiby.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 스파이웨어로부터 보호하는 '락다운 모드' 프리뷰 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/"/>
+        <updated>2022-07-08T01:22:58.488Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통 방식]]></title>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(another-pomodoro.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
-        <id>https://csvfiddle.io/</id>
-        <link href="https://csvfiddle.io/"/>
-        <updated>2022-07-07T01:23:00.007Z</updated>
-        <content type="html"><![CDATA[(csvfiddle.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
         <id>https://bada.kbs.co.kr/</id>
         <link href="https://bada.kbs.co.kr/"/>
@@ -83,18 +76,18 @@
         <content type="html"><![CDATA[(bada.kbs.co.kr)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
+        <id>https://csvfiddle.io/</id>
+        <link href="https://csvfiddle.io/"/>
+        <updated>2022-07-07T01:23:00.007Z</updated>
+        <content type="html"><![CDATA[(csvfiddle.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[빌게이츠가 자신의 48년전 대학시절 이력서 원본을 공개]]></title>
         <id>https://www.linkedin.com/posts/williamhgates_whether-youre-a-recent-grad-or-a-college-activity-6948310563722579970-6qrH/</id>
         <link href="https://www.linkedin.com/posts/williamhgates_whether-youre-a-recent-grad-or-a-college-activity-6948310563722579970-6qrH/"/>
         <updated>2022-07-07T01:23:00.050Z</updated>
         <content type="html"><![CDATA[(linkedin.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
-        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
-        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
-        <updated>2022-07-08T01:22:58.492Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
@@ -109,6 +102,13 @@
         <link href="https://www.chessengines.org/"/>
         <updated>2022-07-06T01:26:58.336Z</updated>
         <content type="html"><![CDATA[(chessengines.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
+        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
+        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
+        <updated>2022-07-08T01:22:58.492Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bun - JavaScriptCore 기반의 빠른 JavaScript 런타임/트랜스파일러/NPM 클라이언트]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
-        <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
-        <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
-        <updated>2022-07-08T03:40:24.626Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Should I Read Next? - 다음에 읽을 책은?]]></title>
         <id>https://www.whatshouldireadnext.com/</id>
         <link href="https://www.whatshouldireadnext.com/"/>
         <updated>2022-07-05T01:15:14.352Z</updated>
         <content type="html"><![CDATA[(whatshouldireadnext.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
+        <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
+        <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
+        <updated>2022-07-08T03:40:24.626Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
 </feed>
