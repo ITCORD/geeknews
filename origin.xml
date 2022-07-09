@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-09T04:21:29.033Z</updated>
+    <updated>2022-07-09T05:13:22.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(rubycentral.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KDE Slimbook - 고성능 리눅스 울트라북]]></title>
-        <id>https://kde.slimbook.es/</id>
-        <link href="https://kde.slimbook.es/"/>
-        <updated>2022-07-09T01:08:13.541Z</updated>
-        <content type="html"><![CDATA[(kde.slimbook.es)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 당신의 트위터 감정사전 <beta>]]></title>
         <id>https://news.hada.io/topic?id=6941</id>
         <link href="https://news.hada.io/topic?id=6941"/>
         <updated>2022-07-09T04:20:48.825Z</updated>
         <content type="html"><![CDATA[(applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Slimbook - 고성능 리눅스 울트라북]]></title>
+        <id>https://kde.slimbook.es/</id>
+        <link href="https://kde.slimbook.es/"/>
+        <updated>2022-07-09T01:08:13.541Z</updated>
+        <content type="html"><![CDATA[(kde.slimbook.es)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통 방식]]></title>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(fospha.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[체스엔진을 처음부터 만들어 보기]]></title>
-        <id>https://www.chessengines.org/</id>
-        <link href="https://www.chessengines.org/"/>
-        <updated>2022-07-06T01:26:58.336Z</updated>
-        <content type="html"><![CDATA[(chessengines.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQLGlot - Python SQL Parser & Transpiler]]></title>
         <id>https://github.com/tobymao/sqlglot</id>
         <link href="https://github.com/tobymao/sqlglot"/>
@@ -111,11 +104,11 @@
         <content type="html"><![CDATA[(github.com/tobymao)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테슬라는 더 이상 가장 큰 전기차 제조사가 아니다]]></title>
-        <id>https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett</id>
-        <link href="https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett"/>
-        <updated>2022-07-08T01:22:58.479Z</updated>
-        <content type="html"><![CDATA[(axios.com)]]></content>
+        <title type="html"><![CDATA[체스엔진을 처음부터 만들어 보기]]></title>
+        <id>https://www.chessengines.org/</id>
+        <link href="https://www.chessengines.org/"/>
+        <updated>2022-07-06T01:26:58.336Z</updated>
+        <content type="html"><![CDATA[(chessengines.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빌게이츠가 자신의 48년전 대학시절 이력서 원본을 공개]]></title>
@@ -123,6 +116,13 @@
         <link href="https://www.linkedin.com/posts/williamhgates_whether-youre-a-recent-grad-or-a-college-activity-6948310563722579970-6qrH/"/>
         <updated>2022-07-07T01:23:00.050Z</updated>
         <content type="html"><![CDATA[(linkedin.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라는 더 이상 가장 큰 전기차 제조사가 아니다]]></title>
+        <id>https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett</id>
+        <link href="https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett"/>
+        <updated>2022-07-08T01:22:58.479Z</updated>
+        <content type="html"><![CDATA[(axios.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
