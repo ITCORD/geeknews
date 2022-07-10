@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-10T12:25:54.660Z</updated>
+    <updated>2022-07-10T13:23:50.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[(kde.slimbook.es)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
+        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
+        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
+        <updated>2022-07-04T06:21:51.387Z</updated>
+        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
         <id>https://csvfiddle.io/</id>
         <link href="https://csvfiddle.io/"/>
@@ -111,18 +118,18 @@
         <content type="html"><![CDATA[(linkedin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
-        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
-        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
-        <updated>2022-07-04T06:21:51.387Z</updated>
-        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플, 스파이웨어로부터 보호하는 '락다운 모드' 프리뷰 공개]]></title>
         <id>https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/</id>
         <link href="https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/"/>
         <updated>2022-07-08T01:22:58.488Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLGlot - Python SQL Parser & Transpiler]]></title>
+        <id>https://github.com/tobymao/sqlglot</id>
+        <link href="https://github.com/tobymao/sqlglot"/>
+        <updated>2022-07-10T08:18:17.695Z</updated>
+        <content type="html"><![CDATA[(github.com/tobymao)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=6941"/>
         <updated>2022-07-09T04:20:48.825Z</updated>
         <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLGlot - Python SQL Parser & Transpiler]]></title>
-        <id>https://github.com/tobymao/sqlglot</id>
-        <link href="https://github.com/tobymao/sqlglot"/>
-        <updated>2022-07-10T08:18:17.695Z</updated>
-        <content type="html"><![CDATA[(github.com/tobymao)]]></content>
     </entry>
 </feed>
