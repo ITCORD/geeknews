@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-07-10T11:12:21.981Z</updated>
+    <updated>2022-07-10T12:25:54.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6946</id>
+        <link href="https://news.hada.io/topic?id=6946"/>
+        <updated>2022-07-10T12:25:36.189Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=6937</id>
@@ -118,11 +124,5 @@
         <id>https://news.hada.io/topic?id=6697</id>
         <link href="https://news.hada.io/topic?id=6697"/>
         <updated>2022-06-07T03:16:46.601Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6776</id>
-        <link href="https://news.hada.io/topic?id=6776"/>
-        <updated>2022-06-17T03:27:53.552Z</updated>
     </entry>
 </feed>
