@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-10T13:23:50.629Z</updated>
+    <updated>2022-07-10T14:14:03.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,12 @@
         <link href="https://www.justingarrison.com/blog/2022-07-06-cubernetes/"/>
         <updated>2022-07-10T01:28:52.753Z</updated>
         <content type="html"><![CDATA[(justingarrison.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6946</id>
+        <link href="https://news.hada.io/topic?id=6946"/>
+        <updated>2022-07-10T14:13:25.729Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[엘런 머스크, 트위터 인수 계약 해지 통보]]></title>
@@ -97,18 +103,18 @@
         <content type="html"><![CDATA[(kde.slimbook.es)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
-        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
-        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
-        <updated>2022-07-04T06:21:51.387Z</updated>
-        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
         <id>https://csvfiddle.io/</id>
         <link href="https://csvfiddle.io/"/>
         <updated>2022-07-07T01:23:00.007Z</updated>
         <content type="html"><![CDATA[(csvfiddle.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
+        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
+        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
+        <updated>2022-07-04T06:21:51.387Z</updated>
+        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빌게이츠가 자신의 48년전 대학시절 이력서 원본을 공개]]></title>
@@ -137,12 +143,5 @@
         <link href="https://github.com/gocopper/copper"/>
         <updated>2022-07-07T01:23:00.049Z</updated>
         <content type="html"><![CDATA[(github.com/gocopper)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 당신의 트위터 감정사전 <beta>]]></title>
-        <id>https://news.hada.io/topic?id=6941</id>
-        <link href="https://news.hada.io/topic?id=6941"/>
-        <updated>2022-07-09T04:20:48.825Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
 </feed>
