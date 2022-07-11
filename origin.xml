@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-11T14:21:19.867Z</updated>
+    <updated>2022-07-11T15:25:54.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,13 +124,6 @@
         <content type="html"><![CDATA[(chessengines.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
-        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
-        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
-        <updated>2022-07-04T06:21:51.387Z</updated>
-        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AnotherPomodoro - 웹 뽀모도로 타이머 오픈소스]]></title>
         <id>https://another-pomodoro.app/</id>
         <link href="https://another-pomodoro.app/"/>
@@ -143,5 +136,12 @@
         <link href="https://kde.slimbook.es/"/>
         <updated>2022-07-09T01:08:13.541Z</updated>
         <content type="html"><![CDATA[(kde.slimbook.es)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby Central 과 Shopify, Ruby Shield 발표]]></title>
+        <id>http://rubycentral.org/ruby-shield</id>
+        <link href="http://rubycentral.org/ruby-shield"/>
+        <updated>2022-07-11T15:25:17.552Z</updated>
+        <content type="html"><![CDATA[(rubycentral.org)]]></content>
     </entry>
 </feed>
