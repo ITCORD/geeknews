@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-10T23:15:25.170Z</updated>
+    <updated>2022-07-11T01:21:06.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 많은 브랜드가 로고를 비슷하게 변경하는 걸까?]]></title>
+        <id>https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else</id>
+        <link href="https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else"/>
+        <updated>2022-07-11T01:20:29.553Z</updated>
+        <content type="html"><![CDATA[(velvetshark.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비영리 검색엔진이 필요한 이유]]></title>
+        <id>https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine</id>
+        <link href="https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine"/>
+        <updated>2022-07-11T01:20:29.558Z</updated>
+        <content type="html"><![CDATA[(daoudclarke.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PocketBase - SaaS/앱을 위한 오픈소스 리얼타임 백엔드]]></title>
         <id>https://pocketbase.io/</id>
         <link href="https://pocketbase.io/"/>
         <updated>2022-07-10T01:28:52.748Z</updated>
         <content type="html"><![CDATA[(pocketbase.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code Server]]></title>
+        <id>https://code.visualstudio.com/blogs/2022/07/07/vscode-server</id>
+        <link href="https://code.visualstudio.com/blogs/2022/07/07/vscode-server"/>
+        <updated>2022-07-11T01:20:29.561Z</updated>
+        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink Maritime]]></title>
+        <id>https://www.starlink.com/maritime</id>
+        <link href="https://www.starlink.com/maritime"/>
+        <updated>2022-07-11T01:20:29.562Z</updated>
+        <content type="html"><![CDATA[(starlink.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cubernetes]]></title>
@@ -27,17 +55,17 @@
         <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=6946</id>
-        <link href="https://news.hada.io/topic?id=6946"/>
-        <updated>2022-07-10T14:13:25.729Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Life Stats - 내가 태어난 이후로..]]></title>
         <id>https://neal.fun/life-stats/</id>
         <link href="https://neal.fun/life-stats/"/>
         <updated>2022-07-09T01:08:13.538Z</updated>
         <content type="html"><![CDATA[(neal.fun)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6946</id>
+        <link href="https://news.hada.io/topic?id=6946"/>
+        <updated>2022-07-10T14:13:25.729Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[엘런 머스크, 트위터 인수 계약 해지 통보]]></title>
@@ -75,13 +103,6 @@
         <content type="html"><![CDATA[(bada.kbs.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AnotherPomodoro - 웹 뽀모도로 타이머 오픈소스]]></title>
-        <id>https://another-pomodoro.app/</id>
-        <link href="https://another-pomodoro.app/"/>
-        <updated>2022-07-07T01:23:00.054Z</updated>
-        <content type="html"><![CDATA[(another-pomodoro.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[체스엔진을 처음부터 만들어 보기]]></title>
         <id>https://www.chessengines.org/</id>
         <link href="https://www.chessengines.org/"/>
@@ -89,11 +110,11 @@
         <content type="html"><![CDATA[(chessengines.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruby Central 과 Shopify, Ruby Shield 발표]]></title>
-        <id>http://rubycentral.org/ruby-shield</id>
-        <link href="http://rubycentral.org/ruby-shield"/>
-        <updated>2022-07-09T01:08:13.541Z</updated>
-        <content type="html"><![CDATA[(rubycentral.org)]]></content>
+        <title type="html"><![CDATA[AnotherPomodoro - 웹 뽀모도로 타이머 오픈소스]]></title>
+        <id>https://another-pomodoro.app/</id>
+        <link href="https://another-pomodoro.app/"/>
+        <updated>2022-07-07T01:23:00.054Z</updated>
+        <content type="html"><![CDATA[(another-pomodoro.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
@@ -103,34 +124,6 @@
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
-        <id>https://csvfiddle.io/</id>
-        <link href="https://csvfiddle.io/"/>
-        <updated>2022-07-07T01:23:00.007Z</updated>
-        <content type="html"><![CDATA[(csvfiddle.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌게이츠가 자신의 48년전 대학시절 이력서 원본을 공개]]></title>
-        <id>https://www.linkedin.com/posts/williamhgates_whether-youre-a-recent-grad-or-a-college-activity-6948310563722579970-6qrH/</id>
-        <link href="https://www.linkedin.com/posts/williamhgates_whether-youre-a-recent-grad-or-a-college-activity-6948310563722579970-6qrH/"/>
-        <updated>2022-07-07T01:23:00.050Z</updated>
-        <content type="html"><![CDATA[(linkedin.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 스파이웨어로부터 보호하는 '락다운 모드' 프리뷰 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/"/>
-        <updated>2022-07-08T01:22:58.488Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLGlot - Python SQL Parser & Transpiler]]></title>
-        <id>https://github.com/tobymao/sqlglot</id>
-        <link href="https://github.com/tobymao/sqlglot"/>
-        <updated>2022-07-10T08:18:17.695Z</updated>
-        <content type="html"><![CDATA[(github.com/tobymao)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KDE Slimbook - 고성능 리눅스 울트라북]]></title>
         <id>https://kde.slimbook.es/</id>
         <link href="https://kde.slimbook.es/"/>
@@ -138,10 +131,17 @@
         <content type="html"><![CDATA[(kde.slimbook.es)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
-        <id>https://github.com/gocopper/copper</id>
-        <link href="https://github.com/gocopper/copper"/>
-        <updated>2022-07-07T01:23:00.049Z</updated>
-        <content type="html"><![CDATA[(github.com/gocopper)]]></content>
+        <title type="html"><![CDATA[Ruby Central 과 Shopify, Ruby Shield 발표]]></title>
+        <id>http://rubycentral.org/ruby-shield</id>
+        <link href="http://rubycentral.org/ruby-shield"/>
+        <updated>2022-07-09T01:08:13.541Z</updated>
+        <content type="html"><![CDATA[(rubycentral.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
+        <id>https://csvfiddle.io/</id>
+        <link href="https://csvfiddle.io/"/>
+        <updated>2022-07-07T01:23:00.007Z</updated>
+        <content type="html"><![CDATA[(csvfiddle.io)]]></content>
     </entry>
 </feed>
