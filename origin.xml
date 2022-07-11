@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-11T05:23:08.396Z</updated>
+    <updated>2022-07-11T06:20:04.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator : 혁신 연구소]]></title>
+        <id>https://www.readthegeneralist.com/briefing/yc</id>
+        <link href="https://www.readthegeneralist.com/briefing/yc"/>
+        <updated>2022-07-11T05:22:30.450Z</updated>
+        <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual Studio Code Server]]></title>
         <id>https://code.visualstudio.com/blogs/2022/07/07/vscode-server</id>
@@ -18,13 +25,6 @@
         <link href="https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else"/>
         <updated>2022-07-11T01:20:29.553Z</updated>
         <content type="html"><![CDATA[(velvetshark.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator : 혁신 연구소]]></title>
-        <id>https://www.readthegeneralist.com/briefing/yc</id>
-        <link href="https://www.readthegeneralist.com/briefing/yc"/>
-        <updated>2022-07-11T05:22:30.450Z</updated>
-        <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아무 웹사이트에서 React 코드 복사하는 크롬 확장]]></title>
