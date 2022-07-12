@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-12T20:17:28.239Z</updated>
+    <updated>2022-07-12T21:14:39.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(justingarrison.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starlink Maritime]]></title>
-        <id>https://www.starlink.com/maritime</id>
-        <link href="https://www.starlink.com/maritime"/>
-        <updated>2022-07-11T01:20:29.562Z</updated>
-        <content type="html"><![CDATA[(starlink.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NLLB(No Language Left Behind: 어떤 언어로도 소통할 수 있도록)]]></title>
         <id>https://ai.facebook.com/research/no-language-left-behind/ko/</id>
         <link href="https://ai.facebook.com/research/no-language-left-behind/ko/"/>
@@ -118,17 +111,18 @@
         <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Starlink Maritime]]></title>
+        <id>https://www.starlink.com/maritime</id>
+        <link href="https://www.starlink.com/maritime"/>
+        <updated>2022-07-11T01:20:29.562Z</updated>
+        <content type="html"><![CDATA[(starlink.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[wiby - 오래된 웹사이트 검색엔진]]></title>
         <id>https://wiby.org/</id>
         <link href="https://wiby.org/"/>
         <updated>2022-07-07T13:42:23.232Z</updated>
         <content type="html"><![CDATA[(wiby.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=6946</id>
-        <link href="https://news.hada.io/topic?id=6946"/>
-        <updated>2022-07-10T14:13:25.729Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
@@ -143,5 +137,11 @@
         <link href="https://www.chessengines.org/"/>
         <updated>2022-07-12T08:20:42.825Z</updated>
         <content type="html"><![CDATA[(chessengines.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6946</id>
+        <link href="https://news.hada.io/topic?id=6946"/>
+        <updated>2022-07-10T14:13:25.729Z</updated>
     </entry>
 </feed>
