@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-13T01:19:08.554Z</updated>
+    <updated>2022-07-13T03:38:30.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[NASA, 제임스웹 우주 망원경이 찍은 첫번째 이미지들을 공개]]></title>
-        <id>https://webbtelescope.org/news/news-releases?Collection=First%20Images</id>
-        <link href="https://webbtelescope.org/news/news-releases?Collection=First%20Images"/>
-        <updated>2022-07-13T01:18:32.095Z</updated>
-        <content type="html"><![CDATA[(webbtelescope.org)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/</id>
@@ -20,11 +13,25 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NASA, 제임스웹 우주 망원경이 찍은 첫번째 이미지들을 공개]]></title>
+        <id>https://webbtelescope.org/news/news-releases?Collection=First%20Images</id>
+        <link href="https://webbtelescope.org/news/news-releases?Collection=First%20Images"/>
+        <updated>2022-07-13T01:18:32.095Z</updated>
+        <content type="html"><![CDATA[(webbtelescope.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GCC Rust가 GCC 운영 위원회로부터 인증 받음]]></title>
         <id>https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html</id>
         <link href="https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html"/>
         <updated>2022-07-13T01:18:32.095Z</updated>
         <content type="html"><![CDATA[(gcc.gnu.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloom - 세계 최대 개방형 다국어 모델]]></title>
+        <id>https://bigscience.huggingface.co/blog/bloom</id>
+        <link href="https://bigscience.huggingface.co/blog/bloom"/>
+        <updated>2022-07-13T01:18:32.099Z</updated>
+        <content type="html"><![CDATA[(bigscience.huggingface.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres 15, UNIQUE 와 NULL 향상]]></title>
@@ -48,13 +55,6 @@
         <content type="html"><![CDATA[(github.com/codemix)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bloom - 세계 최대 개방형 다국어 모델]]></title>
-        <id>https://bigscience.huggingface.co/blog/bloom</id>
-        <link href="https://bigscience.huggingface.co/blog/bloom"/>
-        <updated>2022-07-13T01:18:32.099Z</updated>
-        <content type="html"><![CDATA[(bigscience.huggingface.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Y Combinator : 혁신 연구소]]></title>
         <id>https://www.readthegeneralist.com/briefing/yc</id>
         <link href="https://www.readthegeneralist.com/briefing/yc"/>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GeoParquet - Geospatial 벡터 데이터 저장 표준]]></title>
-        <id>https://github.com/opengeospatial/geoparquet</id>
-        <link href="https://github.com/opengeospatial/geoparquet"/>
-        <updated>2022-07-12T01:23:37.416Z</updated>
-        <content type="html"><![CDATA[(github.com/opengeospatial)]]></content>
+        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
+        <id>https://kr.nothing.tech/pages/phone-1</id>
+        <link href="https://kr.nothing.tech/pages/phone-1"/>
+        <updated>2022-07-13T03:37:52.869Z</updated>
+        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Visual Studio Code Server]]></title>
@@ -81,6 +81,13 @@
         <link href="https://code.visualstudio.com/blogs/2022/07/07/vscode-server"/>
         <updated>2022-07-11T01:20:29.561Z</updated>
         <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeoParquet - Geospatial 벡터 데이터 저장 표준]]></title>
+        <id>https://github.com/opengeospatial/geoparquet</id>
+        <link href="https://github.com/opengeospatial/geoparquet"/>
+        <updated>2022-07-12T01:23:37.416Z</updated>
+        <content type="html"><![CDATA[(github.com/opengeospatial)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아무 웹사이트에서 React 코드 복사하는 크롬 확장]]></title>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비영리 검색엔진이 필요한 이유]]></title>
-        <id>https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine</id>
-        <link href="https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine"/>
-        <updated>2022-07-11T01:20:29.558Z</updated>
-        <content type="html"><![CDATA[(daoudclarke.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통 방식]]></title>
         <id>http://channy.creation.net/blog/1620</id>
         <link href="http://channy.creation.net/blog/1620"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비영리 검색엔진이 필요한 이유]]></title>
+        <id>https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine</id>
+        <link href="https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine"/>
+        <updated>2022-07-11T01:20:29.558Z</updated>
+        <content type="html"><![CDATA[(daoudclarke.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Life Stats - 내가 태어난 이후로..]]></title>
         <id>https://neal.fun/life-stats/</id>
         <link href="https://neal.fun/life-stats/"/>
         <updated>2022-07-09T01:08:13.538Z</updated>
         <content type="html"><![CDATA[(neal.fun)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cubernetes]]></title>
-        <id>https://www.justingarrison.com/blog/2022-07-06-cubernetes/</id>
-        <link href="https://www.justingarrison.com/blog/2022-07-06-cubernetes/"/>
-        <updated>2022-07-10T01:28:52.753Z</updated>
-        <content type="html"><![CDATA[(justingarrison.com)]]></content>
     </entry>
 </feed>
