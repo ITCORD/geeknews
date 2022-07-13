@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-13T03:38:30.516Z</updated>
+    <updated>2022-07-13T04:34:37.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(webbtelescope.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bloom - 세계 최대 개방형 다국어 모델]]></title>
+        <id>https://bigscience.huggingface.co/blog/bloom</id>
+        <link href="https://bigscience.huggingface.co/blog/bloom"/>
+        <updated>2022-07-13T01:18:32.099Z</updated>
+        <content type="html"><![CDATA[(bigscience.huggingface.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GCC Rust가 GCC 운영 위원회로부터 인증 받음]]></title>
         <id>https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html</id>
         <link href="https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html"/>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(gcc.gnu.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bloom - 세계 최대 개방형 다국어 모델]]></title>
-        <id>https://bigscience.huggingface.co/blog/bloom</id>
-        <link href="https://bigscience.huggingface.co/blog/bloom"/>
-        <updated>2022-07-13T01:18:32.099Z</updated>
-        <content type="html"><![CDATA[(bigscience.huggingface.co)]]></content>
+        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
+        <id>https://kr.nothing.tech/pages/phone-1</id>
+        <link href="https://kr.nothing.tech/pages/phone-1"/>
+        <updated>2022-07-13T03:37:52.869Z</updated>
+        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres 15, UNIQUE 와 NULL 향상]]></title>
@@ -67,13 +74,6 @@
         <link href="https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94"/>
         <updated>2022-07-12T01:23:37.421Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
-        <id>https://kr.nothing.tech/pages/phone-1</id>
-        <link href="https://kr.nothing.tech/pages/phone-1"/>
-        <updated>2022-07-13T03:37:52.869Z</updated>
-        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Visual Studio Code Server]]></title>
