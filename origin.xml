@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-13T15:22:02.859Z</updated>
+    <updated>2022-07-13T16:23:41.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(gcc.gnu.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
+        <id>https://kr.nothing.tech/pages/phone-1</id>
+        <link href="https://kr.nothing.tech/pages/phone-1"/>
+        <updated>2022-07-13T03:37:52.869Z</updated>
+        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deprank - PageRank를 이용하여 가장 중요한 코드 찾기]]></title>
         <id>https://github.com/codemix/deprank</id>
         <link href="https://github.com/codemix/deprank"/>
@@ -69,13 +76,6 @@
         <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
-        <id>https://kr.nothing.tech/pages/phone-1</id>
-        <link href="https://kr.nothing.tech/pages/phone-1"/>
-        <updated>2022-07-13T03:37:52.869Z</updated>
-        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postgres 15, UNIQUE 와 NULL 향상]]></title>
         <id>https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null</id>
         <link href="https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null"/>
@@ -83,11 +83,25 @@
         <content type="html"><![CDATA[(blog.rustprooflabs.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[중복] 아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)]]></title>
+        <id>http://channy.creation.net/blog/1620</id>
+        <link href="http://channy.creation.net/blog/1620"/>
+        <updated>2022-07-07T03:46:05.891Z</updated>
+        <content type="html"><![CDATA[(channy.creation.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ECMAScript 2022 승인. 새로운 기능은 ?]]></title>
         <id>https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94</id>
         <link href="https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94"/>
         <updated>2022-07-12T01:23:37.421Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calibre 6.0의 새 기능]]></title>
+        <id>https://calibre-ebook.com/new-in/fifteen</id>
+        <link href="https://calibre-ebook.com/new-in/fifteen"/>
+        <updated>2022-07-13T01:18:32.097Z</updated>
+        <content type="html"><![CDATA[(calibre-ebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Visual Studio Code Server]]></title>
@@ -104,25 +118,11 @@
         <content type="html"><![CDATA[(github.com/opengeospatial)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calibre 6.0의 새 기능]]></title>
-        <id>https://calibre-ebook.com/new-in/fifteen</id>
-        <link href="https://calibre-ebook.com/new-in/fifteen"/>
-        <updated>2022-07-13T01:18:32.097Z</updated>
-        <content type="html"><![CDATA[(calibre-ebook.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아무 웹사이트에서 React 코드 복사하는 크롬 확장]]></title>
         <id>https://sample-code.aspect.app/</id>
         <link href="https://sample-code.aspect.app/"/>
         <updated>2022-07-11T03:35:37.583Z</updated>
         <content type="html"><![CDATA[(sample-code.aspect.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[중복] 아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)]]></title>
-        <id>http://channy.creation.net/blog/1620</id>
-        <link href="http://channy.creation.net/blog/1620"/>
-        <updated>2022-07-07T03:46:05.891Z</updated>
-        <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 많은 브랜드가 로고를 비슷하게 변경하는 걸까?]]></title>
