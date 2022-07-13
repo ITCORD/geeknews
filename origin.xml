@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-13T06:20:23.094Z</updated>
+    <updated>2022-07-13T07:14:45.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,25 +34,11 @@
         <content type="html"><![CDATA[(gcc.gnu.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)]]></title>
-        <id>http://channy.creation.net/blog/1620</id>
-        <link href="http://channy.creation.net/blog/1620"/>
-        <updated>2022-07-07T03:46:05.891Z</updated>
-        <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
         <id>https://kr.nothing.tech/pages/phone-1</id>
         <link href="https://kr.nothing.tech/pages/phone-1"/>
         <updated>2022-07-13T03:37:52.869Z</updated>
         <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deprank - PageRank를 이용하여 가장 중요한 코드 찾기]]></title>
-        <id>https://github.com/codemix/deprank</id>
-        <link href="https://github.com/codemix/deprank"/>
-        <updated>2022-07-12T01:23:37.417Z</updated>
-        <content type="html"><![CDATA[(github.com/codemix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres 15, UNIQUE 와 NULL 향상]]></title>
@@ -62,11 +48,25 @@
         <content type="html"><![CDATA[(blog.rustprooflabs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calibre 6.0의 새 기능]]></title>
-        <id>https://calibre-ebook.com/new-in/fifteen</id>
-        <link href="https://calibre-ebook.com/new-in/fifteen"/>
-        <updated>2022-07-13T01:18:32.097Z</updated>
-        <content type="html"><![CDATA[(calibre-ebook.com)]]></content>
+        <title type="html"><![CDATA[태초의 우주를 보는 눈, 제임스웹 우주망원경]]></title>
+        <id>https://original.donga.com/2022/jameswebb</id>
+        <link href="https://original.donga.com/2022/jameswebb"/>
+        <updated>2022-07-13T07:14:09.409Z</updated>
+        <content type="html"><![CDATA[(original.donga.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deprank - PageRank를 이용하여 가장 중요한 코드 찾기]]></title>
+        <id>https://github.com/codemix/deprank</id>
+        <link href="https://github.com/codemix/deprank"/>
+        <updated>2022-07-12T01:23:37.417Z</updated>
+        <content type="html"><![CDATA[(github.com/codemix)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)]]></title>
+        <id>http://channy.creation.net/blog/1620</id>
+        <link href="http://channy.creation.net/blog/1620"/>
+        <updated>2022-07-07T03:46:05.891Z</updated>
+        <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Y Combinator : 혁신 연구소]]></title>
@@ -74,6 +74,13 @@
         <link href="https://www.readthegeneralist.com/briefing/yc"/>
         <updated>2022-07-11T05:22:30.450Z</updated>
         <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calibre 6.0의 새 기능]]></title>
+        <id>https://calibre-ebook.com/new-in/fifteen</id>
+        <link href="https://calibre-ebook.com/new-in/fifteen"/>
+        <updated>2022-07-13T01:18:32.097Z</updated>
+        <content type="html"><![CDATA[(calibre-ebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 2022 승인. 새로운 기능은 ?]]></title>
@@ -137,12 +144,5 @@
         <link href="http://channy.creation.net/blog/1620"/>
         <updated>2022-07-07T03:46:05.891Z</updated>
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비영리 검색엔진이 필요한 이유]]></title>
-        <id>https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine</id>
-        <link href="https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine"/>
-        <updated>2022-07-11T01:20:29.558Z</updated>
-        <content type="html"><![CDATA[(daoudclarke.net)]]></content>
     </entry>
 </feed>
