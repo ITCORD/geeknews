@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-14T20:18:37.600Z</updated>
+    <updated>2022-07-14T21:15:50.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postgres 15, UNIQUE 와 NULL 향상]]></title>
-        <id>https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null</id>
-        <link href="https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null"/>
-        <updated>2022-07-13T01:18:32.095Z</updated>
-        <content type="html"><![CDATA[(blog.rustprooflabs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GeoParquet - Geospatial 벡터 데이터 저장 표준]]></title>
         <id>https://github.com/opengeospatial/geoparquet</id>
         <link href="https://github.com/opengeospatial/geoparquet"/>
         <updated>2022-07-14T15:21:46.153Z</updated>
         <content type="html"><![CDATA[(github.com/opengeospatial)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres 15, UNIQUE 와 NULL 향상]]></title>
+        <id>https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null</id>
+        <link href="https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null"/>
+        <updated>2022-07-13T01:18:32.095Z</updated>
+        <content type="html"><![CDATA[(blog.rustprooflabs.com)]]></content>
     </entry>
 </feed>
