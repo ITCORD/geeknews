@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-13T23:16:18.169Z</updated>
+    <updated>2022-07-14T01:27:36.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
+        <id>https://github.com/arxanas/git-branchless</id>
+        <link href="https://github.com/arxanas/git-branchless"/>
+        <updated>2022-07-14T01:27:02.218Z</updated>
+        <content type="html"><![CDATA[(github.com/arxanas)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh My Posh - 모든 쉘을 위한 프롬프트 테마 엔진]]></title>
+        <id>https://ohmyposh.dev/</id>
+        <link href="https://ohmyposh.dev/"/>
+        <updated>2022-07-14T01:27:02.222Z</updated>
+        <content type="html"><![CDATA[(ohmyposh.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2040년의 메타버스]]></title>
+        <id>https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/</id>
+        <link href="https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/"/>
+        <updated>2022-07-14T01:27:02.222Z</updated>
+        <content type="html"><![CDATA[(pewresearch.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: epyt: 1KB 타자 게임]]></title>
         <id>https://news.hada.io/topic?id=6967</id>
         <link href="https://news.hada.io/topic?id=6967"/>
         <updated>2022-07-13T13:39:07.377Z</updated>
         <content type="html"><![CDATA[(js1024.fun)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS 및 지구 관측을 위한 파이썬 오픈소스 에코시스템]]></title>
+        <id>https://ecosystem.pythongis.org/</id>
+        <link href="https://ecosystem.pythongis.org/"/>
+        <updated>2022-07-14T01:27:02.222Z</updated>
+        <content type="html"><![CDATA[(ecosystem.pythongis.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[허준이 교수의 필즈상 수상 강연]]></title>
@@ -32,6 +60,13 @@
         <link href="https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/"/>
         <updated>2022-07-13T01:18:32.095Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lldap - 가벼운 LDAP 서버 구현체 오픈소스]]></title>
+        <id>https://github.com/nitnelave/lldap</id>
+        <link href="https://github.com/nitnelave/lldap"/>
+        <updated>2022-07-14T01:27:02.232Z</updated>
+        <content type="html"><![CDATA[(github.com/nitnelave)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NASA, 제임스웹 우주 망원경이 찍은 첫번째 이미지들을 공개]]></title>
@@ -69,6 +104,20 @@
         <content type="html"><![CDATA[(github.com/codemix)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Visual Studio Code Server]]></title>
+        <id>https://code.visualstudio.com/blogs/2022/07/07/vscode-server</id>
+        <link href="https://code.visualstudio.com/blogs/2022/07/07/vscode-server"/>
+        <updated>2022-07-11T01:20:29.561Z</updated>
+        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2022 승인. 새로운 기능은 ?]]></title>
+        <id>https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94</id>
+        <link href="https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94"/>
+        <updated>2022-07-12T01:23:37.421Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
         <id>https://kr.nothing.tech/pages/phone-1</id>
         <link href="https://kr.nothing.tech/pages/phone-1"/>
@@ -83,20 +132,6 @@
         <content type="html"><![CDATA[(blog.rustprooflabs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECMAScript 2022 승인. 새로운 기능은 ?]]></title>
-        <id>https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94</id>
-        <link href="https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94"/>
-        <updated>2022-07-12T01:23:37.421Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code Server]]></title>
-        <id>https://code.visualstudio.com/blogs/2022/07/07/vscode-server</id>
-        <link href="https://code.visualstudio.com/blogs/2022/07/07/vscode-server"/>
-        <updated>2022-07-11T01:20:29.561Z</updated>
-        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Calibre 6.0의 새 기능]]></title>
         <id>https://calibre-ebook.com/new-in/fifteen</id>
         <link href="https://calibre-ebook.com/new-in/fifteen"/>
@@ -109,40 +144,5 @@
         <link href="https://github.com/opengeospatial/geoparquet"/>
         <updated>2022-07-12T01:23:37.416Z</updated>
         <content type="html"><![CDATA[(github.com/opengeospatial)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[중복] 아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)]]></title>
-        <id>http://channy.creation.net/blog/1620</id>
-        <link href="http://channy.creation.net/blog/1620"/>
-        <updated>2022-07-07T03:46:05.891Z</updated>
-        <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무 웹사이트에서 React 코드 복사하는 크롬 확장]]></title>
-        <id>https://sample-code.aspect.app/</id>
-        <link href="https://sample-code.aspect.app/"/>
-        <updated>2022-07-11T03:35:37.583Z</updated>
-        <content type="html"><![CDATA[(sample-code.aspect.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 많은 브랜드가 로고를 비슷하게 변경하는 걸까?]]></title>
-        <id>https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else</id>
-        <link href="https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else"/>
-        <updated>2022-07-11T01:20:29.553Z</updated>
-        <content type="html"><![CDATA[(velvetshark.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PocketBase - SaaS/앱을 위한 오픈소스 리얼타임 백엔드]]></title>
-        <id>https://pocketbase.io/</id>
-        <link href="https://pocketbase.io/"/>
-        <updated>2022-07-10T01:28:52.748Z</updated>
-        <content type="html"><![CDATA[(pocketbase.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systemd 개발자가 Redhat을 떠나 Microsoft로 이직]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Systemd-Creator-Microsoft</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Systemd-Creator-Microsoft"/>
-        <updated>2022-07-12T01:23:37.424Z</updated>
-        <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
 </feed>
