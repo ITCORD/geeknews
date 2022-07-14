@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-14T17:26:41.679Z</updated>
+    <updated>2022-07-14T18:19:12.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
-        <id>https://kr.nothing.tech/pages/phone-1</id>
-        <link href="https://kr.nothing.tech/pages/phone-1"/>
-        <updated>2022-07-13T03:37:52.869Z</updated>
-        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아무 웹사이트에서 React 코드 복사하는 크롬 확장]]></title>
         <id>https://sample-code.aspect.app/</id>
         <link href="https://sample-code.aspect.app/"/>
         <updated>2022-07-14T09:15:44.468Z</updated>
         <content type="html"><![CDATA[(sample-code.aspect.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
+        <id>https://kr.nothing.tech/pages/phone-1</id>
+        <link href="https://kr.nothing.tech/pages/phone-1"/>
+        <updated>2022-07-13T03:37:52.869Z</updated>
+        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres 15, UNIQUE 와 NULL 향상]]></title>
