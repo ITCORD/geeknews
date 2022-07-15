@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-15T01:32:12.314Z</updated>
+    <updated>2022-07-15T03:54:56.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Brain.js - Javascript로 작성된 GPU 가속 뉴럴 네트워크]]></title>
-        <id>https://brain.js.org/</id>
-        <link href="https://brain.js.org/"/>
-        <updated>2022-07-15T01:31:38.283Z</updated>
-        <content type="html"><![CDATA[(brain.js.org)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Shottr - 무료 맥용 스크린샷 유틸리티]]></title>
         <id>https://shottr.cc/</id>
@@ -20,11 +13,32 @@
         <content type="html"><![CDATA[(shottr.cc)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Brain.js - Javascript로 작성된 GPU 가속 뉴럴 네트워크]]></title>
+        <id>https://brain.js.org/</id>
+        <link href="https://brain.js.org/"/>
+        <updated>2022-07-15T01:31:38.283Z</updated>
+        <content type="html"><![CDATA[(brain.js.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[프로그래밍 폰트 테스트 드라이브]]></title>
         <id>https://www.programmingfonts.org/</id>
         <link href="https://www.programmingfonts.org/"/>
         <updated>2022-07-15T01:31:38.283Z</updated>
         <content type="html"><![CDATA[(programmingfonts.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS 비사 - 왜 스위스(ch)는 dig 할 수 없을까?]]></title>
+        <id>https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/</id>
+        <link href="https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/"/>
+        <updated>2022-07-15T03:54:20.626Z</updated>
+        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스, 광고 기반 구독 플랜을 위해 Microsoft와 협업하기로]]></title>
+        <id>https://about.netflix.com/en/news/netflix-partners-with-microsoft</id>
+        <link href="https://about.netflix.com/en/news/netflix-partners-with-microsoft"/>
+        <updated>2022-07-15T03:54:20.637Z</updated>
+        <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[System76 Lemur Pro 노트북]]></title>
@@ -41,18 +55,18 @@
         <content type="html"><![CDATA[(ohmyposh.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
-        <id>https://github.com/arxanas/git-branchless</id>
-        <link href="https://github.com/arxanas/git-branchless"/>
-        <updated>2022-07-14T01:27:02.218Z</updated>
-        <content type="html"><![CDATA[(github.com/arxanas)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[허준이 교수의 필즈상 수상 강연]]></title>
         <id>https://budlebee.wordpress.com/2022/07/13/%ED%97%88%EC%A4%80%EC%9D%B4-%EA%B5%90%EC%88%98%EC%9D%98-%ED%95%84%EC%A6%88%EC%83%81-%EC%88%98%EC%83%81-%EA%B0%95%EC%97%B0/</id>
         <link href="https://budlebee.wordpress.com/2022/07/13/%ED%97%88%EC%A4%80%EC%9D%B4-%EA%B5%90%EC%88%98%EC%9D%98-%ED%95%84%EC%A6%88%EC%83%81-%EC%88%98%EC%83%81-%EA%B0%95%EC%97%B0/"/>
         <updated>2022-07-13T13:39:07.386Z</updated>
         <content type="html"><![CDATA[(budlebee.wordpress.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
+        <id>https://github.com/arxanas/git-branchless</id>
+        <link href="https://github.com/arxanas/git-branchless"/>
+        <updated>2022-07-14T01:27:02.218Z</updated>
+        <content type="html"><![CDATA[(github.com/arxanas)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[lldap - 가벼운 LDAP 서버 구현체 오픈소스]]></title>
@@ -83,18 +97,18 @@
         <content type="html"><![CDATA[(original.donga.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GIS 및 지구 관측을 위한 파이썬 오픈소스 에코시스템]]></title>
-        <id>https://ecosystem.pythongis.org/</id>
-        <link href="https://ecosystem.pythongis.org/"/>
-        <updated>2022-07-14T01:27:02.222Z</updated>
-        <content type="html"><![CDATA[(ecosystem.pythongis.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/"/>
         <updated>2022-07-13T01:18:32.095Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIS 및 지구 관측을 위한 파이썬 오픈소스 에코시스템]]></title>
+        <id>https://ecosystem.pythongis.org/</id>
+        <link href="https://ecosystem.pythongis.org/"/>
+        <updated>2022-07-14T01:27:02.222Z</updated>
+        <content type="html"><![CDATA[(ecosystem.pythongis.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NASA, 제임스웹 우주 망원경이 찍은 첫번째 이미지들을 공개]]></title>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bloom - 세계 최대 개방형 다국어 모델]]></title>
-        <id>https://bigscience.huggingface.co/blog/bloom</id>
-        <link href="https://bigscience.huggingface.co/blog/bloom"/>
-        <updated>2022-07-13T01:18:32.099Z</updated>
-        <content type="html"><![CDATA[(bigscience.huggingface.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Deprank - PageRank를 이용하여 가장 중요한 코드 찾기]]></title>
         <id>https://github.com/codemix/deprank</id>
         <link href="https://github.com/codemix/deprank"/>
@@ -125,24 +132,17 @@
         <content type="html"><![CDATA[(github.com/codemix)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bloom - 세계 최대 개방형 다국어 모델]]></title>
+        <id>https://bigscience.huggingface.co/blog/bloom</id>
+        <link href="https://bigscience.huggingface.co/blog/bloom"/>
+        <updated>2022-07-13T01:18:32.099Z</updated>
+        <content type="html"><![CDATA[(bigscience.huggingface.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GCC Rust가 GCC 운영 위원회로부터 인증 받음]]></title>
         <id>https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html</id>
         <link href="https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html"/>
         <updated>2022-07-13T01:18:32.095Z</updated>
         <content type="html"><![CDATA[(gcc.gnu.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code Server]]></title>
-        <id>https://code.visualstudio.com/blogs/2022/07/07/vscode-server</id>
-        <link href="https://code.visualstudio.com/blogs/2022/07/07/vscode-server"/>
-        <updated>2022-07-11T01:20:29.561Z</updated>
-        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript 2022 승인. 새로운 기능은 ?]]></title>
-        <id>https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94</id>
-        <link href="https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94"/>
-        <updated>2022-07-12T01:23:37.421Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
 </feed>
