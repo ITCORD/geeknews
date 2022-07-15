@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-15T05:02:06.179Z</updated>
+    <updated>2022-07-15T06:18:56.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System76 Lemur Pro 노트북]]></title>
-        <id>https://system76.com/laptops/lemur</id>
-        <link href="https://system76.com/laptops/lemur"/>
-        <updated>2022-07-15T01:31:38.283Z</updated>
-        <content type="html"><![CDATA[(system76.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oh My Posh - 모든 쉘을 위한 프롬프트 테마 엔진]]></title>
         <id>https://ohmyposh.dev/</id>
         <link href="https://ohmyposh.dev/"/>
@@ -60,6 +53,20 @@
         <link href="https://budlebee.wordpress.com/2022/07/13/%ED%97%88%EC%A4%80%EC%9D%B4-%EA%B5%90%EC%88%98%EC%9D%98-%ED%95%84%EC%A6%88%EC%83%81-%EC%88%98%EC%83%81-%EA%B0%95%EC%97%B0/"/>
         <updated>2022-07-13T13:39:07.386Z</updated>
         <content type="html"><![CDATA[(budlebee.wordpress.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System76 Lemur Pro 노트북]]></title>
+        <id>https://system76.com/laptops/lemur</id>
+        <link href="https://system76.com/laptops/lemur"/>
+        <updated>2022-07-15T01:31:38.283Z</updated>
+        <content type="html"><![CDATA[(system76.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라의 Autopilot 팀을 리딩하던 Andrej Karpathy 퇴사]]></title>
+        <id>https://twitter.com/karpathy/status/1547332300186066944</id>
+        <link href="https://twitter.com/karpathy/status/1547332300186066944"/>
+        <updated>2022-07-15T06:18:20.549Z</updated>
+        <content type="html"><![CDATA[(twitter.com/karpathy)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
@@ -137,12 +144,5 @@
         <link href="https://bigscience.huggingface.co/blog/bloom"/>
         <updated>2022-07-13T01:18:32.099Z</updated>
         <content type="html"><![CDATA[(bigscience.huggingface.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC Rust가 GCC 운영 위원회로부터 인증 받음]]></title>
-        <id>https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html</id>
-        <link href="https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html"/>
-        <updated>2022-07-13T01:18:32.095Z</updated>
-        <content type="html"><![CDATA[(gcc.gnu.org)]]></content>
     </entry>
 </feed>
