@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-15T06:18:56.315Z</updated>
+    <updated>2022-07-15T07:14:49.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,20 +55,6 @@
         <content type="html"><![CDATA[(budlebee.wordpress.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System76 Lemur Pro 노트북]]></title>
-        <id>https://system76.com/laptops/lemur</id>
-        <link href="https://system76.com/laptops/lemur"/>
-        <updated>2022-07-15T01:31:38.283Z</updated>
-        <content type="html"><![CDATA[(system76.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라의 Autopilot 팀을 리딩하던 Andrej Karpathy 퇴사]]></title>
-        <id>https://twitter.com/karpathy/status/1547332300186066944</id>
-        <link href="https://twitter.com/karpathy/status/1547332300186066944"/>
-        <updated>2022-07-15T06:18:20.549Z</updated>
-        <content type="html"><![CDATA[(twitter.com/karpathy)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
         <id>https://github.com/arxanas/git-branchless</id>
         <link href="https://github.com/arxanas/git-branchless"/>
@@ -76,11 +62,25 @@
         <content type="html"><![CDATA[(github.com/arxanas)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[System76 Lemur Pro 노트북]]></title>
+        <id>https://system76.com/laptops/lemur</id>
+        <link href="https://system76.com/laptops/lemur"/>
+        <updated>2022-07-15T01:31:38.283Z</updated>
+        <content type="html"><![CDATA[(system76.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lldap - 가벼운 LDAP 서버 구현체 오픈소스]]></title>
         <id>https://github.com/nitnelave/lldap</id>
         <link href="https://github.com/nitnelave/lldap"/>
         <updated>2022-07-14T01:27:02.232Z</updated>
         <content type="html"><![CDATA[(github.com/nitnelave)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라의 Autopilot 팀을 리딩하던 Andrej Karpathy 퇴사]]></title>
+        <id>https://twitter.com/karpathy/status/1547332300186066944</id>
+        <link href="https://twitter.com/karpathy/status/1547332300186066944"/>
+        <updated>2022-07-15T06:18:20.549Z</updated>
+        <content type="html"><![CDATA[(twitter.com/karpathy)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: epyt: 1KB 타자 게임]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GCC Rust가 GCC 운영 위원회로부터 인증 받음]]></title>
+        <id>https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html</id>
+        <link href="https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html"/>
+        <updated>2022-07-15T07:14:13.144Z</updated>
+        <content type="html"><![CDATA[(gcc.gnu.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deprank - PageRank를 이용하여 가장 중요한 코드 찾기]]></title>
         <id>https://github.com/codemix/deprank</id>
         <link href="https://github.com/codemix/deprank"/>
         <updated>2022-07-12T01:23:37.417Z</updated>
         <content type="html"><![CDATA[(github.com/codemix)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloom - 세계 최대 개방형 다국어 모델]]></title>
-        <id>https://bigscience.huggingface.co/blog/bloom</id>
-        <link href="https://bigscience.huggingface.co/blog/bloom"/>
-        <updated>2022-07-13T01:18:32.099Z</updated>
-        <content type="html"><![CDATA[(bigscience.huggingface.co)]]></content>
     </entry>
 </feed>
