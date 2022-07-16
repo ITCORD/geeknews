@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-16T22:16:46.888Z</updated>
+    <updated>2022-07-16T23:14:53.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(ohmyposh.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
+        <id>https://github.com/arxanas/git-branchless</id>
+        <link href="https://github.com/arxanas/git-branchless"/>
+        <updated>2022-07-14T01:27:02.218Z</updated>
+        <content type="html"><![CDATA[(github.com/arxanas)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: epyt: 1KB 타자 게임]]></title>
         <id>https://news.hada.io/topic?id=6967</id>
         <link href="https://news.hada.io/topic?id=6967"/>
@@ -74,13 +81,6 @@
         <link href="https://github.com/nitnelave/lldap"/>
         <updated>2022-07-14T01:27:02.232Z</updated>
         <content type="html"><![CDATA[(github.com/nitnelave)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
-        <id>https://github.com/arxanas/git-branchless</id>
-        <link href="https://github.com/arxanas/git-branchless"/>
-        <updated>2022-07-14T01:27:02.218Z</updated>
-        <content type="html"><![CDATA[(github.com/arxanas)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래밍 폰트 테스트 드라이브]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(webbtelescope.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테슬라의 Autopilot 팀을 리딩하던 Andrej Karpathy 퇴사]]></title>
-        <id>https://twitter.com/karpathy/status/1547332300186066944</id>
-        <link href="https://twitter.com/karpathy/status/1547332300186066944"/>
-        <updated>2022-07-15T06:18:20.549Z</updated>
-        <content type="html"><![CDATA[(twitter.com/karpathy)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Visual Studio Code Server]]></title>
         <id>https://code.visualstudio.com/blogs/2022/07/07/vscode-server</id>
         <link href="https://code.visualstudio.com/blogs/2022/07/07/vscode-server"/>
         <updated>2022-07-16T17:13:54.578Z</updated>
         <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라의 Autopilot 팀을 리딩하던 Andrej Karpathy 퇴사]]></title>
+        <id>https://twitter.com/karpathy/status/1547332300186066944</id>
+        <link href="https://twitter.com/karpathy/status/1547332300186066944"/>
+        <updated>2022-07-15T06:18:20.549Z</updated>
+        <content type="html"><![CDATA[(twitter.com/karpathy)]]></content>
     </entry>
 </feed>
