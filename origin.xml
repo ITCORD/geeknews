@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-16T06:18:07.209Z</updated>
+    <updated>2022-07-16T07:14:09.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(budlebee.wordpress.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DNS 비사 - 왜 스위스(ch)는 dig 할 수 없을까?]]></title>
+        <id>https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/</id>
+        <link href="https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/"/>
+        <updated>2022-07-15T03:54:20.626Z</updated>
+        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The DALL·E 2 Prompt Book]]></title>
         <id>https://dallery.gallery/the-dalle-2-prompt-book/</id>
         <link href="https://dallery.gallery/the-dalle-2-prompt-book/"/>
@@ -46,13 +53,6 @@
         <link href="https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/"/>
         <updated>2022-07-16T01:20:57.060Z</updated>
         <content type="html"><![CDATA[(pcgamer.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNS 비사 - 왜 스위스(ch)는 dig 할 수 없을까?]]></title>
-        <id>https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/</id>
-        <link href="https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/"/>
-        <updated>2022-07-15T03:54:20.626Z</updated>
-        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oh My Posh - 모든 쉘을 위한 프롬프트 테마 엔진]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테슬라의 Autopilot 팀을 리딩하던 Andrej Karpathy 퇴사]]></title>
-        <id>https://twitter.com/karpathy/status/1547332300186066944</id>
-        <link href="https://twitter.com/karpathy/status/1547332300186066944"/>
-        <updated>2022-07-15T06:18:20.549Z</updated>
-        <content type="html"><![CDATA[(twitter.com/karpathy)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[태초의 우주를 보는 눈, 제임스웹 우주망원경]]></title>
         <id>https://original.donga.com/2022/jameswebb</id>
         <link href="https://original.donga.com/2022/jameswebb"/>
         <updated>2022-07-13T07:14:09.409Z</updated>
         <content type="html"><![CDATA[(original.donga.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라의 Autopilot 팀을 리딩하던 Andrej Karpathy 퇴사]]></title>
+        <id>https://twitter.com/karpathy/status/1547332300186066944</id>
+        <link href="https://twitter.com/karpathy/status/1547332300186066944"/>
+        <updated>2022-07-15T06:18:20.549Z</updated>
+        <content type="html"><![CDATA[(twitter.com/karpathy)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Y Combinator : 혁신 연구소]]></title>
