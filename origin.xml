@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-17T11:12:40.562Z</updated>
+    <updated>2022-07-17T12:26:18.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(heazy.studio)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite 3.0 릴리즈]]></title>
-        <id>https://vitejs.dev/blog/announcing-vite3.html</id>
-        <link href="https://vitejs.dev/blog/announcing-vite3.html"/>
-        <updated>2022-07-17T01:28:19.290Z</updated>
-        <content type="html"><![CDATA[(vitejs.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PostgreSQL 14 Internals]]></title>
         <id>https://postgrespro.com/community/books/internals</id>
         <link href="https://postgrespro.com/community/books/internals"/>
         <updated>2022-07-16T01:20:57.060Z</updated>
         <content type="html"><![CDATA[(postgrespro.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 3.0 릴리즈]]></title>
+        <id>https://vitejs.dev/blog/announcing-vite3.html</id>
+        <link href="https://vitejs.dev/blog/announcing-vite3.html"/>
+        <updated>2022-07-17T01:28:19.290Z</updated>
+        <content type="html"><![CDATA[(vitejs.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wordle, 파티형 보드게임으로 출시]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(pcgamer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/"/>
-        <updated>2022-07-13T01:18:32.095Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Y Combinator : 혁신 연구소]]></title>
         <id>https://www.readthegeneralist.com/briefing/yc</id>
         <link href="https://www.readthegeneralist.com/briefing/yc"/>
         <updated>2022-07-11T05:22:30.450Z</updated>
         <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/"/>
+        <updated>2022-07-13T01:18:32.095Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래밍 폰트 테스트 드라이브]]></title>
