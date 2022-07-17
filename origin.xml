@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-17T07:14:10.411Z</updated>
+    <updated>2022-07-17T08:17:51.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
-        <id>https://github.com/srush/GPU-Puzzles</id>
-        <link href="https://github.com/srush/GPU-Puzzles"/>
-        <updated>2022-07-17T03:40:54.034Z</updated>
-        <content type="html"><![CDATA[(github.com/srush)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Heazy - 벡터 디자인 스튜디오]]></title>
         <id>https://heazy.studio/</id>
         <link href="https://heazy.studio/"/>
         <updated>2022-07-17T01:28:19.289Z</updated>
         <content type="html"><![CDATA[(heazy.studio)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
+        <id>https://github.com/srush/GPU-Puzzles</id>
+        <link href="https://github.com/srush/GPU-Puzzles"/>
+        <updated>2022-07-17T03:40:54.034Z</updated>
+        <content type="html"><![CDATA[(github.com/srush)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vite 3.0 릴리즈]]></title>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(github.com/arxanas)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doom 해커가 둠 안에서 둠 실행]]></title>
-        <id>https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/</id>
-        <link href="https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/"/>
-        <updated>2022-07-16T01:20:57.060Z</updated>
-        <content type="html"><![CDATA[(pcgamer.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lldap - 가벼운 LDAP 서버 구현체 오픈소스]]></title>
         <id>https://github.com/nitnelave/lldap</id>
         <link href="https://github.com/nitnelave/lldap"/>
@@ -109,6 +102,13 @@
         <link href="https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/"/>
         <updated>2022-07-15T03:54:20.626Z</updated>
         <content type="html"><![CDATA[(shkspr.mobi)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom 해커가 둠 안에서 둠 실행]]></title>
+        <id>https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/</id>
+        <link href="https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/"/>
+        <updated>2022-07-16T01:20:57.060Z</updated>
+        <content type="html"><![CDATA[(pcgamer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?]]></title>
