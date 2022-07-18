@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-18T16:23:07.880Z</updated>
+    <updated>2022-07-18T17:24:15.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왓차의 온보딩 프로세스]]></title>
-        <id>https://medium.com/@watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278</id>
-        <link href="https://medium.com/@watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278"/>
-        <updated>2022-07-18T01:18:45.326Z</updated>
-        <content type="html"><![CDATA[(medium.com/@watcha)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pinterest의 Memcached Fleet은 EC2 5000대를 사용]]></title>
         <id>https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b</id>
         <link href="https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b"/>
         <updated>2022-07-18T03:43:06.727Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왓차의 온보딩 프로세스]]></title>
+        <id>https://medium.com/@watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278</id>
+        <link href="https://medium.com/@watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278"/>
+        <updated>2022-07-18T01:18:45.326Z</updated>
+        <content type="html"><![CDATA[(medium.com/@watcha)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(heazy.studio)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행운의 표면적: 인생에서 행운을 얻는 방법]]></title>
-        <id>https://fronterablog.com/luck-surface-area/</id>
-        <link href="https://fronterablog.com/luck-surface-area/"/>
-        <updated>2022-07-18T12:33:26.519Z</updated>
-        <content type="html"><![CDATA[(fronterablog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PostgreSQL 14 Internals]]></title>
         <id>https://postgrespro.com/community/books/internals</id>
         <link href="https://postgrespro.com/community/books/internals"/>
         <updated>2022-07-16T01:20:57.060Z</updated>
         <content type="html"><![CDATA[(postgrespro.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행운의 표면적: 인생에서 행운을 얻는 방법]]></title>
+        <id>https://fronterablog.com/luck-surface-area/</id>
+        <link href="https://fronterablog.com/luck-surface-area/"/>
+        <updated>2022-07-18T12:33:26.519Z</updated>
+        <content type="html"><![CDATA[(fronterablog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vite 3.0 릴리즈]]></title>
