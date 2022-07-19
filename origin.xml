@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-19T03:57:39.051Z</updated>
+    <updated>2022-07-19T05:09:31.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
+        <id>https://twitter.com/fchollet/status/1536486937288376320</id>
+        <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
+        <updated>2022-07-19T01:26:48.193Z</updated>
+        <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Future 100 : 2022년에 주목해야할 트렌드 및 변화]]></title>
         <id>https://www.wundermanthompson.com/insight/the-future-100-2022</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(banklesstimes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
-        <id>https://twitter.com/fchollet/status/1536486937288376320</id>
-        <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
-        <updated>2022-07-19T01:26:48.193Z</updated>
-        <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
+        <title type="html"><![CDATA[페이스북, 개인정보 보호용 URL 스트리핑 못하도록 링크 암호화 시작]]></title>
+        <id>https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/</id>
+        <link href="https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/"/>
+        <updated>2022-07-19T01:26:48.197Z</updated>
+        <content type="html"><![CDATA[(ghacks.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JetBrains 제품 구독료 인상.]]></title>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(blog.jetbrains.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이스북, 개인정보 보호용 URL 스트리핑 못하도록 링크 암호화 시작]]></title>
-        <id>https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/</id>
-        <link href="https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/"/>
+        <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
+        <id>https://github.com/vmware/splinterdb</id>
+        <link href="https://github.com/vmware/splinterdb"/>
         <updated>2022-07-19T01:26:48.197Z</updated>
-        <content type="html"><![CDATA[(ghacks.net)]]></content>
+        <content type="html"><![CDATA[(github.com/vmware)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[(hanselminutes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
-        <id>https://github.com/vmware/splinterdb</id>
-        <link href="https://github.com/vmware/splinterdb"/>
-        <updated>2022-07-19T01:26:48.197Z</updated>
-        <content type="html"><![CDATA[(github.com/vmware)]]></content>
+        <title type="html"><![CDATA[Scaling containers on AWS in 2022]]></title>
+        <id>https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/</id>
+        <link href="https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/"/>
+        <updated>2022-07-19T01:26:48.199Z</updated>
+        <content type="html"><![CDATA[(vladionescu.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 팔 수 있는 8가지 (숏비디오)]]></title>
@@ -60,13 +67,6 @@
         <link href="https://www.youtube.com/shorts/UT1jJDimPGU"/>
         <updated>2022-07-18T03:43:06.724Z</updated>
         <content type="html"><![CDATA[(youtube.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling containers on AWS in 2022]]></title>
-        <id>https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/</id>
-        <link href="https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/"/>
-        <updated>2022-07-19T01:26:48.199Z</updated>
-        <content type="html"><![CDATA[(vladionescu.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개발자에서 기술 작가로 전직하기까지 2년 간의 이야기]]></title>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[(postgrespro.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[행운의 표면적: 인생에서 행운을 얻는 방법]]></title>
+        <id>https://fronterablog.com/luck-surface-area/</id>
+        <link href="https://fronterablog.com/luck-surface-area/"/>
+        <updated>2022-07-18T12:33:26.519Z</updated>
+        <content type="html"><![CDATA[(fronterablog.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shottr - 무료 맥용 스크린샷 유틸리티]]></title>
         <id>https://shottr.cc/</id>
         <link href="https://shottr.cc/"/>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[(budlebee.wordpress.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행운의 표면적: 인생에서 행운을 얻는 방법]]></title>
-        <id>https://fronterablog.com/luck-surface-area/</id>
-        <link href="https://fronterablog.com/luck-surface-area/"/>
-        <updated>2022-07-18T12:33:26.519Z</updated>
-        <content type="html"><![CDATA[(fronterablog.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle, 파티형 보드게임으로 출시]]></title>
-        <id>https://hasbropulse.com/products/wordle-the-party-game</id>
-        <link href="https://hasbropulse.com/products/wordle-the-party-game"/>
-        <updated>2022-07-17T01:28:19.289Z</updated>
-        <content type="html"><![CDATA[(hasbropulse.com)]]></content>
+        <title type="html"><![CDATA[Brain.js - Javascript로 작성된 GPU 가속 뉴럴 네트워크]]></title>
+        <id>https://brain.js.org/</id>
+        <link href="https://brain.js.org/"/>
+        <updated>2022-07-19T05:08:05.227Z</updated>
+        <content type="html"><![CDATA[(brain.js.org)]]></content>
     </entry>
 </feed>
