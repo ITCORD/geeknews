@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-19T13:39:25.039Z</updated>
+    <updated>2022-07-19T14:15:39.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(hanselminutes.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
+        <id>https://github.com/vmware/splinterdb</id>
+        <link href="https://github.com/vmware/splinterdb"/>
+        <updated>2022-07-19T01:26:48.197Z</updated>
+        <content type="html"><![CDATA[(github.com/vmware)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JetBrains 제품 구독료 인상.]]></title>
         <id>https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/</id>
         <link href="https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/"/>
@@ -60,13 +67,6 @@
         <link href="https://www.youtube.com/shorts/UT1jJDimPGU"/>
         <updated>2022-07-18T03:43:06.724Z</updated>
         <content type="html"><![CDATA[(youtube.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
-        <id>https://github.com/vmware/splinterdb</id>
-        <link href="https://github.com/vmware/splinterdb"/>
-        <updated>2022-07-19T01:26:48.197Z</updated>
-        <content type="html"><![CDATA[(github.com/vmware)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scaling containers on AWS in 2022]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(shottr.cc)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite 3.0 릴리즈]]></title>
-        <id>https://vitejs.dev/blog/announcing-vite3.html</id>
-        <link href="https://vitejs.dev/blog/announcing-vite3.html"/>
-        <updated>2022-07-17T01:28:19.290Z</updated>
-        <content type="html"><![CDATA[(vitejs.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[행운의 표면적: 인생에서 행운을 얻는 방법]]></title>
         <id>https://fronterablog.com/luck-surface-area/</id>
         <link href="https://fronterablog.com/luck-surface-area/"/>
         <updated>2022-07-18T12:33:26.519Z</updated>
         <content type="html"><![CDATA[(fronterablog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 3.0 릴리즈]]></title>
+        <id>https://vitejs.dev/blog/announcing-vite3.html</id>
+        <link href="https://vitejs.dev/blog/announcing-vite3.html"/>
+        <updated>2022-07-17T01:28:19.290Z</updated>
+        <content type="html"><![CDATA[(vitejs.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[허준이 교수의 필즈상 수상 강연]]></title>
