@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-19T08:19:54.282Z</updated>
+    <updated>2022-07-19T09:18:41.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(wundermanthompson.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[클라우드 채택률에서 Azure가 AWS를 추월]]></title>
-        <id>https://www.banklesstimes.com/news/2022/06/20/microsoft-azures-usage-surpasses-aws-for-the-first-time-in-2022/</id>
-        <link href="https://www.banklesstimes.com/news/2022/06/20/microsoft-azures-usage-surpasses-aws-for-the-first-time-in-2022/"/>
-        <updated>2022-07-19T01:26:48.193Z</updated>
-        <content type="html"><![CDATA[(banklesstimes.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페이스북, 개인정보 보호용 URL 스트리핑 못하도록 링크 암호화 시작]]></title>
         <id>https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/</id>
         <link href="https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/"/>
         <updated>2022-07-19T01:26:48.197Z</updated>
         <content type="html"><![CDATA[(ghacks.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클라우드 채택률에서 Azure가 AWS를 추월]]></title>
+        <id>https://www.banklesstimes.com/news/2022/06/20/microsoft-azures-usage-surpasses-aws-for-the-first-time-in-2022/</id>
+        <link href="https://www.banklesstimes.com/news/2022/06/20/microsoft-azures-usage-surpasses-aws-for-the-first-time-in-2022/"/>
+        <updated>2022-07-19T01:26:48.193Z</updated>
+        <content type="html"><![CDATA[(banklesstimes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JetBrains 제품 구독료 인상.]]></title>
@@ -41,11 +41,25 @@
         <content type="html"><![CDATA[(blog.jetbrains.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
+        <id>https://github.com/vmware/splinterdb</id>
+        <link href="https://github.com/vmware/splinterdb"/>
+        <updated>2022-07-19T01:26:48.197Z</updated>
+        <content type="html"><![CDATA[(github.com/vmware)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
         <id>https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#</id>
         <link href="https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#"/>
         <updated>2022-07-18T01:18:45.326Z</updated>
         <content type="html"><![CDATA[(hanselminutes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling containers on AWS in 2022]]></title>
+        <id>https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/</id>
+        <link href="https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/"/>
+        <updated>2022-07-19T01:26:48.199Z</updated>
+        <content type="html"><![CDATA[(vladionescu.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 팔 수 있는 8가지 (숏비디오)]]></title>
@@ -55,18 +69,11 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
-        <id>https://github.com/vmware/splinterdb</id>
-        <link href="https://github.com/vmware/splinterdb"/>
-        <updated>2022-07-19T01:26:48.197Z</updated>
-        <content type="html"><![CDATA[(github.com/vmware)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling containers on AWS in 2022]]></title>
-        <id>https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/</id>
-        <link href="https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/"/>
-        <updated>2022-07-19T01:26:48.199Z</updated>
-        <content type="html"><![CDATA[(vladionescu.me)]]></content>
+        <title type="html"><![CDATA[아마존, J.P.모건, 앤썸이 합성 데이터를 개발하고 활용하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList"/>
+        <updated>2022-07-19T09:18:02.644Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개발자에서 기술 작가로 전직하기까지 2년 간의 이야기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://budlebee.wordpress.com/2022/07/13/%ED%97%88%EC%A4%80%EC%9D%B4-%EA%B5%90%EC%88%98%EC%9D%98-%ED%95%84%EC%A6%88%EC%83%81-%EC%88%98%EC%83%81-%EA%B0%95%EC%97%B0/"/>
         <updated>2022-07-13T13:39:07.386Z</updated>
         <content type="html"><![CDATA[(budlebee.wordpress.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brain.js - Javascript로 작성된 GPU 가속 뉴럴 네트워크]]></title>
-        <id>https://brain.js.org/</id>
-        <link href="https://brain.js.org/"/>
-        <updated>2022-07-19T05:08:05.227Z</updated>
-        <content type="html"><![CDATA[(brain.js.org)]]></content>
     </entry>
 </feed>
