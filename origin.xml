@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-20T07:15:09.882Z</updated>
+    <updated>2022-07-20T08:22:01.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(webworm.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
+        <id>https://twitter.com/fchollet/status/1536486937288376320</id>
+        <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
+        <updated>2022-07-19T01:26:48.193Z</updated>
+        <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Azure Developer CLI (azd) 프리뷰 공개]]></title>
         <id>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/</id>
         <link href="https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
-        <id>https://twitter.com/fchollet/status/1536486937288376320</id>
-        <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
-        <updated>2022-07-19T01:26:48.193Z</updated>
-        <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
+        <title type="html"><![CDATA[2022 패션 이커머스 벤치마크 리포트 [38p PDF]]]></title>
+        <id>https://channel.io/ko/resources/kr-fashion-benchmark-report-2022</id>
+        <link href="https://channel.io/ko/resources/kr-fashion-benchmark-report-2022"/>
+        <updated>2022-07-20T01:20:30.731Z</updated>
+        <content type="html"><![CDATA[(channel.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Future 100 : 2022년에 주목해야할 트렌드 및 변화]]></title>
@@ -53,13 +60,6 @@
         <link href="https://about.netflix.com/en/news/update-to-paid-sharing"/>
         <updated>2022-07-20T03:41:24.335Z</updated>
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 패션 이커머스 벤치마크 리포트 [38p PDF]]]></title>
-        <id>https://channel.io/ko/resources/kr-fashion-benchmark-report-2022</id>
-        <link href="https://channel.io/ko/resources/kr-fashion-benchmark-report-2022"/>
-        <updated>2022-07-20T01:20:30.731Z</updated>
-        <content type="html"><![CDATA[(channel.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
@@ -81,6 +81,13 @@
         <link href="https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/"/>
         <updated>2022-07-19T01:26:48.199Z</updated>
         <content type="html"><![CDATA[(vladionescu.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, J.P.모건, 앤썸이 합성 데이터를 개발하고 활용하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList"/>
+        <updated>2022-07-19T09:18:02.644Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북, 개인정보 보호용 URL 스트리핑 못하도록 링크 암호화 시작]]></title>
@@ -111,11 +118,11 @@
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, J.P.모건, 앤썸이 합성 데이터를 개발하고 활용하는 방식]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList"/>
-        <updated>2022-07-19T09:18:02.644Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
+        <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
+        <id>https://github.com/srush/GPU-Puzzles</id>
+        <link href="https://github.com/srush/GPU-Puzzles"/>
+        <updated>2022-07-17T03:40:54.034Z</updated>
+        <content type="html"><![CDATA[(github.com/srush)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JetBrains 제품 구독료 인상.]]></title>
@@ -123,13 +130,6 @@
         <link href="https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/"/>
         <updated>2022-07-19T01:26:48.197Z</updated>
         <content type="html"><![CDATA[(blog.jetbrains.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
-        <id>https://github.com/srush/GPU-Puzzles</id>
-        <link href="https://github.com/srush/GPU-Puzzles"/>
-        <updated>2022-07-17T03:40:54.034Z</updated>
-        <content type="html"><![CDATA[(github.com/srush)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heazy - 벡터 디자인 스튜디오]]></title>
