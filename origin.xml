@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-20T09:17:01.426Z</updated>
+    <updated>2022-07-20T10:16:29.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[넷플릭스, 특정 지역에서 계정당 집을 하나로 제한하고 "Add a Home" 유료 공유 기능 추가]]></title>
+        <id>https://about.netflix.com/en/news/update-to-paid-sharing</id>
+        <link href="https://about.netflix.com/en/news/update-to-paid-sharing"/>
+        <updated>2022-07-20T03:41:24.335Z</updated>
+        <content type="html"><![CDATA[(about.netflix.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 패션 이커머스 벤치마크 리포트 [38p PDF]]]></title>
         <id>https://channel.io/ko/resources/kr-fashion-benchmark-report-2022</id>
         <link href="https://channel.io/ko/resources/kr-fashion-benchmark-report-2022"/>
@@ -53,13 +60,6 @@
         <link href="https://www.wundermanthompson.com/insight/the-future-100-2022"/>
         <updated>2022-07-19T01:26:48.174Z</updated>
         <content type="html"><![CDATA[(wundermanthompson.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스, 특정 지역에서 계정당 집을 하나로 제한하고 "Add a Home" 유료 공유 기능 추가]]></title>
-        <id>https://about.netflix.com/en/news/update-to-paid-sharing</id>
-        <link href="https://about.netflix.com/en/news/update-to-paid-sharing"/>
-        <updated>2022-07-20T03:41:24.335Z</updated>
-        <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JetBrains 제품 구독료 인상.]]></title>
-        <id>https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/</id>
-        <link href="https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/"/>
-        <updated>2022-07-19T01:26:48.197Z</updated>
-        <content type="html"><![CDATA[(blog.jetbrains.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
         <id>https://github.com/srush/GPU-Puzzles</id>
         <link href="https://github.com/srush/GPU-Puzzles"/>
         <updated>2022-07-17T03:40:54.034Z</updated>
         <content type="html"><![CDATA[(github.com/srush)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetBrains 제품 구독료 인상.]]></title>
+        <id>https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/</id>
+        <link href="https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/"/>
+        <updated>2022-07-19T01:26:48.197Z</updated>
+        <content type="html"><![CDATA[(blog.jetbrains.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heazy - 벡터 디자인 스튜디오]]></title>
