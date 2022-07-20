@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-20T12:30:31.141Z</updated>
+    <updated>2022-07-20T13:40:59.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개발자에서 기술 작가로 전직하기까지 2년 간의 이야기]]></title>
-        <id>https://tech.devsisters.com/posts/from-engineer-to-techwriter/</id>
-        <link href="https://tech.devsisters.com/posts/from-engineer-to-techwriter/"/>
-        <updated>2022-07-18T01:18:45.326Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
         <id>https://github.com/vmware/splinterdb</id>
         <link href="https://github.com/vmware/splinterdb"/>
@@ -116,6 +109,13 @@
         <link href="https://www.banklesstimes.com/news/2022/06/20/microsoft-azures-usage-surpasses-aws-for-the-first-time-in-2022/"/>
         <updated>2022-07-19T01:26:48.193Z</updated>
         <content type="html"><![CDATA[(banklesstimes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자에서 기술 작가로 전직하기까지 2년 간의 이야기]]></title>
+        <id>https://tech.devsisters.com/posts/from-engineer-to-techwriter/</id>
+        <link href="https://tech.devsisters.com/posts/from-engineer-to-techwriter/"/>
+        <updated>2022-07-18T01:18:45.326Z</updated>
+        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
