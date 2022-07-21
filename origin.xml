@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-21T10:17:48.163Z</updated>
+    <updated>2022-07-21T11:13:38.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.foldnfly.com/"/>
         <updated>2022-07-21T03:38:44.240Z</updated>
         <content type="html"><![CDATA[(foldnfly.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빠른 yes 터미널 명령어 만들어보기]]></title>
+        <id>https://endler.dev/2017/yes/</id>
+        <link href="https://endler.dev/2017/yes/"/>
+        <updated>2022-07-21T11:13:03.127Z</updated>
+        <content type="html"><![CDATA[(endler.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 차 해킹하기 : 현대 아이오닉]]></title>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[(mpv.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL-E, 메타버스, 그리고 한계비용 제로 콘텐츠 (번역)]]></title>
-        <id>https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/</id>
-        <link href="https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/"/>
-        <updated>2022-07-21T01:17:59.416Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
         <id>https://twitter.com/fchollet/status/1536486937288376320</id>
         <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
         <updated>2022-07-19T01:26:48.193Z</updated>
         <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL-E, 메타버스, 그리고 한계비용 제로 콘텐츠 (번역)]]></title>
+        <id>https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/</id>
+        <link href="https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/"/>
+        <updated>2022-07-21T01:17:59.416Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Future 100 : 2022년에 주목해야할 트렌드 및 변화]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/srush/GPU-Puzzles"/>
         <updated>2022-07-17T03:40:54.034Z</updated>
         <content type="html"><![CDATA[(github.com/srush)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자에서 기술 작가로 전직하기까지 2년 간의 이야기]]></title>
-        <id>https://tech.devsisters.com/posts/from-engineer-to-techwriter/</id>
-        <link href="https://tech.devsisters.com/posts/from-engineer-to-techwriter/"/>
-        <updated>2022-07-18T01:18:45.326Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
 </feed>
