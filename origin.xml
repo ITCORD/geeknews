@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-21T20:17:31.220Z</updated>
+    <updated>2022-07-21T21:16:21.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(endler.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E 베타 시작]]></title>
-        <id>https://openai.com/blog/dall-e-now-available-in-beta/</id>
-        <link href="https://openai.com/blog/dall-e-now-available-in-beta/"/>
-        <updated>2022-07-21T03:38:44.240Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[StackOverflow가 DDOS를 대응하며 배운 것들]]></title>
         <id>https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/</id>
         <link href="https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/"/>
         <updated>2022-07-20T01:20:30.731Z</updated>
         <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E 베타 시작]]></title>
+        <id>https://openai.com/blog/dall-e-now-available-in-beta/</id>
+        <link href="https://openai.com/blog/dall-e-now-available-in-beta/"/>
+        <updated>2022-07-21T03:38:44.240Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[mpv - 오픈소스 크로스플랫폼 미디어 플레이어]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(webworm.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure Developer CLI (azd) 프리뷰 공개]]></title>
-        <id>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/</id>
-        <link href="https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/"/>
-        <updated>2022-07-20T01:20:30.731Z</updated>
-        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
         <id>https://github.com/srush/GPU-Puzzles</id>
         <link href="https://github.com/srush/GPU-Puzzles"/>
         <updated>2022-07-17T03:40:54.034Z</updated>
         <content type="html"><![CDATA[(github.com/srush)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Developer CLI (azd) 프리뷰 공개]]></title>
+        <id>https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/</id>
+        <link href="https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/"/>
+        <updated>2022-07-20T01:20:30.731Z</updated>
+        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개발자에서 기술 작가로 전직하기까지 2년 간의 이야기]]></title>
