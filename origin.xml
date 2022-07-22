@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-22T15:16:41.259Z</updated>
+    <updated>2022-07-22T16:25:22.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(consilium.europa.eu)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[StackOverflow가 DDOS를 대응하며 배운 것들]]></title>
+        <id>https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/</id>
+        <link href="https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/"/>
+        <updated>2022-07-20T01:20:30.731Z</updated>
+        <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Behind the Design WWDC22]]></title>
         <id>https://developer.apple.com/news/?id=b4kk777r</id>
         <link href="https://developer.apple.com/news/?id=b4kk777r"/>
@@ -67,13 +74,6 @@
         <link href="https://endler.dev/2017/yes/"/>
         <updated>2022-07-21T11:13:03.127Z</updated>
         <content type="html"><![CDATA[(endler.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackOverflow가 DDOS를 대응하며 배운 것들]]></title>
-        <id>https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/</id>
-        <link href="https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/"/>
-        <updated>2022-07-20T01:20:30.731Z</updated>
-        <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DALL·E 베타 시작]]></title>
@@ -95,6 +95,12 @@
         <link href="https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/"/>
         <updated>2022-07-22T01:23:50.742Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7024</id>
+        <link href="https://news.hada.io/topic?id=7024"/>
+        <updated>2022-07-22T16:24:44.447Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
@@ -137,12 +143,5 @@
         <link href="https://github.com/trinodb/trino"/>
         <updated>2022-07-20T01:20:30.731Z</updated>
         <content type="html"><![CDATA[(github.com/trinodb)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
-        <id>https://github.com/srush/GPU-Puzzles</id>
-        <link href="https://github.com/srush/GPU-Puzzles"/>
-        <updated>2022-07-17T03:40:54.034Z</updated>
-        <content type="html"><![CDATA[(github.com/srush)]]></content>
     </entry>
 </feed>
