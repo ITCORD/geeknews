@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-22T20:17:52.204Z</updated>
+    <updated>2022-07-22T21:14:41.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(endler.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Behind the Design WWDC22]]></title>
-        <id>https://developer.apple.com/news/?id=b4kk777r</id>
-        <link href="https://developer.apple.com/news/?id=b4kk777r"/>
-        <updated>2022-07-22T01:23:50.742Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DALL·E 베타 시작]]></title>
         <id>https://openai.com/blog/dall-e-now-available-in-beta/</id>
         <link href="https://openai.com/blog/dall-e-now-available-in-beta/"/>
@@ -88,6 +81,13 @@
         <link href="https://mpv.io/"/>
         <updated>2022-07-21T01:17:59.415Z</updated>
         <content type="html"><![CDATA[(mpv.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the Design WWDC22]]></title>
+        <id>https://developer.apple.com/news/?id=b4kk777r</id>
+        <link href="https://developer.apple.com/news/?id=b4kk777r"/>
+        <updated>2022-07-22T01:23:50.742Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trino - 빅데이터용 분산 SQL 쿼리 엔진]]></title>
-        <id>https://github.com/trinodb/trino</id>
-        <link href="https://github.com/trinodb/trino"/>
-        <updated>2022-07-20T01:20:30.731Z</updated>
-        <content type="html"><![CDATA[(github.com/trinodb)]]></content>
+        <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
+        <id>https://github.com/srush/GPU-Puzzles</id>
+        <link href="https://github.com/srush/GPU-Puzzles"/>
+        <updated>2022-07-22T21:13:58.133Z</updated>
+        <content type="html"><![CDATA[(github.com/srush)]]></content>
     </entry>
 </feed>
