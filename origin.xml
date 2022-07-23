@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-23T10:16:27.887Z</updated>
+    <updated>2022-07-23T11:13:42.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(foldnfly.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft, 소셜 네트워킹 앱 Viva Engage 발표]]></title>
-        <id>https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-engage/ba-p/3571382</id>
-        <link href="https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-engage/ba-p/3571382"/>
-        <updated>2022-07-23T01:17:29.300Z</updated>
-        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Logto - 오픈소스 사용자 아이덴티티 솔루션]]></title>
         <id>https://github.com/logto-io/logto</id>
         <link href="https://github.com/logto-io/logto"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(github.com/logto-io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TeamViewer는 뷰어가 설치 되었는지 체크하기 위해서 폰트를 설치한다]]></title>
-        <id>https://news.ycombinator.com/item?id=32165103</id>
-        <link href="https://news.ycombinator.com/item?id=32165103"/>
-        <updated>2022-07-21T01:17:59.414Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[Microsoft, 소셜 네트워킹 앱 Viva Engage 발표]]></title>
+        <id>https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-engage/ba-p/3571382</id>
+        <link href="https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-engage/ba-p/3571382"/>
+        <updated>2022-07-23T01:17:29.300Z</updated>
+        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 차 해킹하기 : 현대 아이오닉]]></title>
@@ -67,6 +60,13 @@
         <link href="https://programmingwithstyle.com/posts/howihackedmycar/"/>
         <updated>2022-07-21T01:17:59.416Z</updated>
         <content type="html"><![CDATA[(programmingwithstyle.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TeamViewer는 뷰어가 설치 되었는지 체크하기 위해서 폰트를 설치한다]]></title>
+        <id>https://news.ycombinator.com/item?id=32165103</id>
+        <link href="https://news.ycombinator.com/item?id=32165103"/>
+        <updated>2022-07-21T01:17:59.414Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StackOverflow가 DDOS를 대응하며 배운 것들]]></title>
