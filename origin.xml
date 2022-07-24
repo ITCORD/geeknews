@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-24T13:27:28.177Z</updated>
+    <updated>2022-07-24T14:13:57.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(theburningmonk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChromeOS Flex 정식 릴리즈]]></title>
-        <id>https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs</id>
-        <link href="https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs"/>
-        <updated>2022-07-24T11:12:25.133Z</updated>
-        <content type="html"><![CDATA[(cloud.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Humbleicons - UI용 무료 SVG 아이콘]]></title>
         <id>https://humbleicons.com/</id>
         <link href="https://humbleicons.com/"/>
         <updated>2022-07-23T01:17:29.294Z</updated>
         <content type="html"><![CDATA[(humbleicons.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChromeOS Flex 정식 릴리즈]]></title>
+        <id>https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs</id>
+        <link href="https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs"/>
+        <updated>2022-07-24T11:12:25.133Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RedwoodJS vs. BlitzJS : 풀스택 자바스크립트 메타-프레임워크 비교]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(github.com/carbon-language)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hono - Cloudflare Workers를 위한 초고속 웹 프레임워크]]></title>
+        <id>https://github.com/honojs/hono</id>
+        <link href="https://github.com/honojs/hono"/>
+        <updated>2022-07-22T01:23:50.726Z</updated>
+        <content type="html"><![CDATA[(github.com/honojs)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[내 차 해킹하기 : 현대 아이오닉]]></title>
         <id>https://programmingwithstyle.com/posts/howihackedmycar/</id>
         <link href="https://programmingwithstyle.com/posts/howihackedmycar/"/>
@@ -74,13 +81,6 @@
         <link href="https://news.ycombinator.com/item?id=32165103"/>
         <updated>2022-07-21T01:17:59.414Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hono - Cloudflare Workers를 위한 초고속 웹 프레임워크]]></title>
-        <id>https://github.com/honojs/hono</id>
-        <link href="https://github.com/honojs/hono"/>
-        <updated>2022-07-22T01:23:50.726Z</updated>
-        <content type="html"><![CDATA[(github.com/honojs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StackOverflow가 DDOS를 대응하며 배운 것들]]></title>
