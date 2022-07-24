@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-24T20:16:16.594Z</updated>
+    <updated>2022-07-24T21:14:44.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carbon, C++의 계승자를 목표로 구글이 새로 만든 프로그래밍 언어]]></title>
-        <id>https://github.com/carbon-language/carbon-lang</id>
-        <link href="https://github.com/carbon-language/carbon-lang"/>
-        <updated>2022-07-23T01:17:29.294Z</updated>
-        <content type="html"><![CDATA[(github.com/carbon-language)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hono - Cloudflare Workers를 위한 초고속 웹 프레임워크]]></title>
         <id>https://github.com/honojs/hono</id>
         <link href="https://github.com/honojs/hono"/>
@@ -88,6 +81,13 @@
         <link href="https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/"/>
         <updated>2022-07-20T01:20:30.731Z</updated>
         <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon, C++의 계승자를 목표로 구글이 새로 만든 프로그래밍 언어]]></title>
+        <id>https://github.com/carbon-language/carbon-lang</id>
+        <link href="https://github.com/carbon-language/carbon-lang"/>
+        <updated>2022-07-23T01:17:29.294Z</updated>
+        <content type="html"><![CDATA[(github.com/carbon-language)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Logto - 오픈소스 사용자 아이덴티티 솔루션]]></title>
