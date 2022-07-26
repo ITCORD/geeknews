@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-26T06:20:51.990Z</updated>
+    <updated>2022-07-26T07:14:58.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
+        <id>https://news.hada.io/blog/geeknews_3year</id>
+        <link href="https://news.hada.io/blog/geeknews_3year"/>
+        <updated>2022-07-26T04:03:09.979Z</updated>
+        <content type="html"><![CDATA[(news.hada.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
         <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
@@ -18,13 +25,6 @@
         <link href="https://news.ycombinator.com/item?id=32220192"/>
         <updated>2022-07-26T01:21:52.335Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
-        <id>https://news.hada.io/blog/geeknews_3year</id>
-        <link href="https://news.hada.io/blog/geeknews_3year"/>
-        <updated>2022-07-26T04:03:09.979Z</updated>
-        <content type="html"><![CDATA[(news.hada.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(initialcommit.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프로그래밍 고정폭 한글 글꼴 셈틀체 후원 중]]></title>
-        <id>https://link.tumblbug.com/y6gzAjZ3Xrb</id>
-        <link href="https://link.tumblbug.com/y6gzAjZ3Xrb"/>
-        <updated>2022-07-26T05:38:02.332Z</updated>
-        <content type="html"><![CDATA[(link.tumblbug.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Chollian Wallpaper : 실시간 위성 사진 배경화면 앱]]></title>
         <id>https://news.hada.io/topic?id=7040</id>
         <link href="https://news.hada.io/topic?id=7040"/>
         <updated>2022-07-25T10:17:41.033Z</updated>
         <content type="html"><![CDATA[(github.com/pjessesco)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로그래밍 고정폭 한글 글꼴 셈틀체 후원 중]]></title>
+        <id>https://link.tumblbug.com/y6gzAjZ3Xrb</id>
+        <link href="https://link.tumblbug.com/y6gzAjZ3Xrb"/>
+        <updated>2022-07-26T05:38:02.332Z</updated>
+        <content type="html"><![CDATA[(link.tumblbug.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GNU tar는 왜 추출이 느릴까]]></title>
