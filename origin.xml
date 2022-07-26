@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-26T10:18:53.353Z</updated>
+    <updated>2022-07-26T11:13:38.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GNU tar는 왜 추출이 느릴까]]></title>
-        <id>https://mort.coffee/home/tar/</id>
-        <link href="https://mort.coffee/home/tar/"/>
-        <updated>2022-07-25T01:18:43.611Z</updated>
-        <content type="html"><![CDATA[(mort.coffee)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[예제로 알아보는 Javascript 난독화(Obfuscation) 기법]]></title>
         <id>https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/</id>
         <link href="https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/"/>
         <updated>2022-07-24T01:25:24.071Z</updated>
         <content type="html"><![CDATA[(trickster.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU tar는 왜 추출이 느릴까]]></title>
+        <id>https://mort.coffee/home/tar/</id>
+        <link href="https://mort.coffee/home/tar/"/>
+        <updated>2022-07-25T01:18:43.611Z</updated>
+        <content type="html"><![CDATA[(mort.coffee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda 비용을 절약하는 가장 좋은 방법]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(theburningmonk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[16년간 알츠하이머 연구를 주도해 온 핵심 논문 조작 의혹]]></title>
-        <id>https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease</id>
-        <link href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease"/>
-        <updated>2022-07-25T03:44:58.407Z</updated>
-        <content type="html"><![CDATA[(science.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Humbleicons - UI용 무료 SVG 아이콘]]></title>
         <id>https://humbleicons.com/</id>
         <link href="https://humbleicons.com/"/>
         <updated>2022-07-23T01:17:29.294Z</updated>
         <content type="html"><![CDATA[(humbleicons.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16년간 알츠하이머 연구를 주도해 온 핵심 논문 조작 의혹]]></title>
+        <id>https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease</id>
+        <link href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease"/>
+        <updated>2022-07-25T03:44:58.407Z</updated>
+        <content type="html"><![CDATA[(science.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RedwoodJS vs. BlitzJS : 풀스택 자바스크립트 메타-프레임워크 비교]]></title>
