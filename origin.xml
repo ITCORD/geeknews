@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-26T22:14:56.450Z</updated>
+    <updated>2022-07-26T23:15:54.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://community.applepie.pro/t/d-8/68"/>
         <updated>2022-07-26T14:13:33.101Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
+        <id>https://untools.co/</id>
+        <link href="https://untools.co/"/>
+        <updated>2022-07-26T23:15:16.654Z</updated>
+        <content type="html"><![CDATA[(untools.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래밍 고정폭 한글 글꼴 셈틀체 후원 중]]></title>
@@ -136,12 +143,5 @@
         <link href="https://blog.risingstack.com/redwoodjs-vs-blitzjs-comparison/"/>
         <updated>2022-07-24T01:25:24.079Z</updated>
         <content type="html"><![CDATA[(blog.risingstack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종이비행기 디자인 모음]]></title>
-        <id>https://www.foldnfly.com/</id>
-        <link href="https://www.foldnfly.com/"/>
-        <updated>2022-07-26T16:21:02.517Z</updated>
-        <content type="html"><![CDATA[(foldnfly.com)]]></content>
     </entry>
 </feed>
