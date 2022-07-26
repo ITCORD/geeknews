@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-25T23:15:15.463Z</updated>
+    <updated>2022-07-26T01:22:28.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
+        <id>https://news.ycombinator.com/item?id=32220192</id>
+        <link href="https://news.ycombinator.com/item?id=32220192"/>
+        <updated>2022-07-26T01:21:52.335Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
+        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
+        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
+        <updated>2022-07-26T01:21:52.344Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
+        <id>https://docs.google.com/spreadsheets/d/1l3ZWj6O32ImqAHRhLYsnJL2fuBm9AEGf6RO4UUTUBd4/htmlview?fs=e&amp;s=cl</id>
+        <link href="https://docs.google.com/spreadsheets/d/1l3ZWj6O32ImqAHRhLYsnJL2fuBm9AEGf6RO4UUTUBd4/htmlview?fs=e&amp;s=cl"/>
+        <updated>2022-07-26T01:21:52.346Z</updated>
+        <content type="html"><![CDATA[(docs.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 실리콘은]]></title>
+        <id>https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth</id>
+        <link href="https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth"/>
+        <updated>2022-07-26T01:21:52.348Z</updated>
+        <content type="html"><![CDATA[(daringfireball.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[@webtoon/psd 라이브러리 개발기]]></title>
         <id>https://d2.naver.com/helloworld/6631477</id>
@@ -55,18 +83,18 @@
         <content type="html"><![CDATA[(science.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda 비용을 절약하는 가장 좋은 방법]]></title>
-        <id>https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/</id>
-        <link href="https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/"/>
-        <updated>2022-07-24T01:25:24.079Z</updated>
-        <content type="html"><![CDATA[(theburningmonk.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Humbleicons - UI용 무료 SVG 아이콘]]></title>
         <id>https://humbleicons.com/</id>
         <link href="https://humbleicons.com/"/>
         <updated>2022-07-23T01:17:29.294Z</updated>
         <content type="html"><![CDATA[(humbleicons.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda 비용을 절약하는 가장 좋은 방법]]></title>
+        <id>https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/</id>
+        <link href="https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/"/>
+        <updated>2022-07-24T01:25:24.079Z</updated>
+        <content type="html"><![CDATA[(theburningmonk.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChromeOS Flex 정식 릴리즈]]></title>
@@ -116,33 +144,5 @@
         <link href="https://news.ycombinator.com/item?id=32165103"/>
         <updated>2022-07-21T01:17:59.414Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 차 해킹하기 : 현대 아이오닉]]></title>
-        <id>https://programmingwithstyle.com/posts/howihackedmycar/</id>
-        <link href="https://programmingwithstyle.com/posts/howihackedmycar/"/>
-        <updated>2022-07-21T01:17:59.416Z</updated>
-        <content type="html"><![CDATA[(programmingwithstyle.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hono - Cloudflare Workers를 위한 초고속 웹 프레임워크]]></title>
-        <id>https://github.com/honojs/hono</id>
-        <link href="https://github.com/honojs/hono"/>
-        <updated>2022-07-22T01:23:50.726Z</updated>
-        <content type="html"><![CDATA[(github.com/honojs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logto - 오픈소스 사용자 아이덴티티 솔루션]]></title>
-        <id>https://github.com/logto-io/logto</id>
-        <link href="https://github.com/logto-io/logto"/>
-        <updated>2022-07-22T01:23:50.727Z</updated>
-        <content type="html"><![CDATA[(github.com/logto-io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbon, C++의 계승자를 목표로 구글이 새로 만든 프로그래밍 언어]]></title>
-        <id>https://github.com/carbon-language/carbon-lang</id>
-        <link href="https://github.com/carbon-language/carbon-lang"/>
-        <updated>2022-07-23T01:17:29.294Z</updated>
-        <content type="html"><![CDATA[(github.com/carbon-language)]]></content>
     </entry>
 </feed>
