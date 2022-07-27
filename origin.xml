@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-26T23:15:54.386Z</updated>
+    <updated>2022-07-27T01:40:41.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
-        <id>https://news.hada.io/blog/geeknews_3year</id>
-        <link href="https://news.hada.io/blog/geeknews_3year"/>
-        <updated>2022-07-26T04:03:09.979Z</updated>
-        <content type="html"><![CDATA[(news.hada.io)]]></content>
+        <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
+        <id>https://divan.dev/posts/edgedb/</id>
+        <link href="https://divan.dev/posts/edgedb/"/>
+        <updated>2022-07-27T01:40:06.877Z</updated>
+        <content type="html"><![CDATA[(divan.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emoji Kitchen]]></title>
+        <id>https://emoji.supply/kitchen/</id>
+        <link href="https://emoji.supply/kitchen/"/>
+        <updated>2022-07-27T01:40:06.878Z</updated>
+        <content type="html"><![CDATA[(emoji.supply)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
@@ -20,11 +27,39 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Etro - Typescript 비디오 편집 프레임워크]]></title>
+        <id>https://etrojs.dev/</id>
+        <link href="https://etrojs.dev/"/>
+        <updated>2022-07-27T01:40:06.879Z</updated>
+        <content type="html"><![CDATA[(etrojs.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
+        <id>https://news.hada.io/blog/geeknews_3year</id>
+        <link href="https://news.hada.io/blog/geeknews_3year"/>
+        <updated>2022-07-26T04:03:09.979Z</updated>
+        <content type="html"><![CDATA[(news.hada.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
         <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
         <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
         <updated>2022-07-26T01:21:52.344Z</updated>
         <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
+        <id>https://untools.co/</id>
+        <link href="https://untools.co/"/>
+        <updated>2022-07-26T23:15:16.654Z</updated>
+        <content type="html"><![CDATA[(untools.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astropos JS - 터치 친화적 3D Parallax 호버 효과 라이브러리]]></title>
+        <id>https://atroposjs.com/</id>
+        <link href="https://atroposjs.com/"/>
+        <updated>2022-07-27T01:40:06.888Z</updated>
+        <content type="html"><![CDATA[(atroposjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
@@ -34,13 +69,6 @@
         <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이제 '윤초'는 과거로 남겨둘 때가 되었다]]></title>
-        <id>https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/</id>
-        <link href="https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/"/>
-        <updated>2022-07-26T04:03:09.982Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업 창업 고민 - 부끄럽게도 지키지 못하는 약속들]]></title>
         <id>https://community.applepie.pro/t/d-8/68</id>
         <link href="https://community.applepie.pro/t/d-8/68"/>
@@ -48,11 +76,11 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
-        <id>https://untools.co/</id>
-        <link href="https://untools.co/"/>
-        <updated>2022-07-26T23:15:16.654Z</updated>
-        <content type="html"><![CDATA[(untools.co)]]></content>
+        <title type="html"><![CDATA[이제 '윤초'는 과거로 남겨둘 때가 되었다]]></title>
+        <id>https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/</id>
+        <link href="https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/"/>
+        <updated>2022-07-26T04:03:09.982Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래밍 고정폭 한글 글꼴 셈틀체 후원 중]]></title>
@@ -116,32 +144,5 @@
         <link href="https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/"/>
         <updated>2022-07-24T01:25:24.079Z</updated>
         <content type="html"><![CDATA[(theburningmonk.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humbleicons - UI용 무료 SVG 아이콘]]></title>
-        <id>https://humbleicons.com/</id>
-        <link href="https://humbleicons.com/"/>
-        <updated>2022-07-23T01:17:29.294Z</updated>
-        <content type="html"><![CDATA[(humbleicons.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 어떨 때 성장을 느끼셨나요?]]></title>
-        <id>https://news.hada.io/topic?id=7041</id>
-        <link href="https://news.hada.io/topic?id=7041"/>
-        <updated>2022-07-26T14:13:33.112Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16년간 알츠하이머 연구를 주도해 온 핵심 논문 조작 의혹]]></title>
-        <id>https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease</id>
-        <link href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease"/>
-        <updated>2022-07-25T03:44:58.407Z</updated>
-        <content type="html"><![CDATA[(science.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedwoodJS vs. BlitzJS : 풀스택 자바스크립트 메타-프레임워크 비교]]></title>
-        <id>https://blog.risingstack.com/redwoodjs-vs-blitzjs-comparison/</id>
-        <link href="https://blog.risingstack.com/redwoodjs-vs-blitzjs-comparison/"/>
-        <updated>2022-07-24T01:25:24.079Z</updated>
-        <content type="html"><![CDATA[(blog.risingstack.com)]]></content>
     </entry>
 </feed>
