@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-28T03:40:00.102Z</updated>
+    <updated>2022-07-28T04:41:15.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(divan.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS Nesting 문법 선택에 투표해 주세요]]></title>
+        <id>https://developer.chrome.com/blog/help-css-nesting/</id>
+        <link href="https://developer.chrome.com/blog/help-css-nesting/"/>
+        <updated>2022-07-28T04:40:40.381Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4700억원 투자받은 Helium의 월 매출은 8백만원]]></title>
         <id>https://twitter.com/liron/status/1551738599254773765</id>
         <link href="https://twitter.com/liron/status/1551738599254773765"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(twitter.com/liron)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Hypervisor - 오픈소스 Virtual Machine Monitor(VMM)]]></title>
-        <id>https://www.cloudhypervisor.org/</id>
-        <link href="https://www.cloudhypervisor.org/"/>
-        <updated>2022-07-28T01:18:09.054Z</updated>
-        <content type="html"><![CDATA[(cloudhypervisor.org)]]></content>
+        <title type="html"><![CDATA[LiteFS - SQLite DB를 클러스터에 복제하는 FUSE기반 파일 시스템]]></title>
+        <id>https://github.com/superfly/litefs</id>
+        <link href="https://github.com/superfly/litefs"/>
+        <updated>2022-07-28T01:18:09.045Z</updated>
+        <content type="html"><![CDATA[(github.com/superfly)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
@@ -55,6 +62,13 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor - 오픈소스 Virtual Machine Monitor(VMM)]]></title>
+        <id>https://www.cloudhypervisor.org/</id>
+        <link href="https://www.cloudhypervisor.org/"/>
+        <updated>2022-07-28T01:18:09.054Z</updated>
+        <content type="html"><![CDATA[(cloudhypervisor.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
         <id>https://untools.co/</id>
         <link href="https://untools.co/"/>
@@ -62,11 +76,11 @@
         <content type="html"><![CDATA[(untools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LiteFS - SQLite DB를 클러스터에 복제하는 FUSE기반 파일 시스템]]></title>
-        <id>https://github.com/superfly/litefs</id>
-        <link href="https://github.com/superfly/litefs"/>
-        <updated>2022-07-28T01:18:09.045Z</updated>
-        <content type="html"><![CDATA[(github.com/superfly)]]></content>
+        <title type="html"><![CDATA[CircleCI - GitLab 지원 시작]]></title>
+        <id>https://circleci.com/blog/announcing-gitlab-support/</id>
+        <link href="https://circleci.com/blog/announcing-gitlab-support/"/>
+        <updated>2022-07-28T04:40:40.387Z</updated>
+        <content type="html"><![CDATA[(circleci.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이제 '윤초'는 과거로 남겨둘 때가 되었다]]></title>
-        <id>https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/</id>
-        <link href="https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/"/>
-        <updated>2022-07-26T04:03:09.982Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Astropos JS - 터치 친화적 3D Parallax 호버 효과 라이브러리]]></title>
         <id>https://atroposjs.com/</id>
         <link href="https://atroposjs.com/"/>
@@ -125,24 +132,17 @@
         <content type="html"><![CDATA[(atroposjs.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이제 '윤초'는 과거로 남겨둘 때가 되었다]]></title>
+        <id>https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/</id>
+        <link href="https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/"/>
+        <updated>2022-07-26T04:03:09.982Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[$2000짜리 중국산 미니 전기 트럭 1년 사용 후기]]></title>
         <id>https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/</id>
         <link href="https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/"/>
         <updated>2022-07-27T03:47:54.797Z</updated>
         <content type="html"><![CDATA[(electrek.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@webtoon/psd 라이브러리 개발기]]></title>
-        <id>https://d2.naver.com/helloworld/6631477</id>
-        <link href="https://d2.naver.com/helloworld/6631477"/>
-        <updated>2022-07-25T03:44:58.398Z</updated>
-        <content type="html"><![CDATA[(d2.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git-Story : 커밋 히스토리를 애니메이션으로 만들어 설명하기]]></title>
-        <id>https://initialcommit.com/tools/git-story</id>
-        <link href="https://initialcommit.com/tools/git-story"/>
-        <updated>2022-07-25T03:44:58.404Z</updated>
-        <content type="html"><![CDATA[(initialcommit.com)]]></content>
     </entry>
 </feed>
