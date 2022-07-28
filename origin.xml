@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-27T23:16:02.330Z</updated>
+    <updated>2022-07-28T01:18:42.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사우디, 미래형 직선 도시 "The Line" 공개]]></title>
+        <id>https://www.neom.com/en-us/regions/theline</id>
+        <link href="https://www.neom.com/en-us/regions/theline"/>
+        <updated>2022-07-28T01:18:09.043Z</updated>
+        <content type="html"><![CDATA[(neom.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://divan.dev/posts/edgedb/</id>
         <link href="https://divan.dev/posts/edgedb/"/>
         <updated>2022-07-27T01:40:06.877Z</updated>
         <content type="html"><![CDATA[(divan.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiteFS - SQLite DB를 클러스터에 복제하는 FUSE기반 파일 시스템]]></title>
+        <id>https://github.com/superfly/litefs</id>
+        <link href="https://github.com/superfly/litefs"/>
+        <updated>2022-07-28T01:18:09.045Z</updated>
+        <content type="html"><![CDATA[(github.com/superfly)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
@@ -34,6 +48,20 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor - 오픈소스 Virtual Machine Monitor(VMM)]]></title>
+        <id>https://www.cloudhypervisor.org/</id>
+        <link href="https://www.cloudhypervisor.org/"/>
+        <updated>2022-07-28T01:18:09.054Z</updated>
+        <content type="html"><![CDATA[(cloudhypervisor.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4700억원 투자받은 Helium의 월 매출은 8백만원]]></title>
+        <id>https://twitter.com/liron/status/1551738599254773765</id>
+        <link href="https://twitter.com/liron/status/1551738599254773765"/>
+        <updated>2022-07-28T01:18:09.055Z</updated>
+        <content type="html"><![CDATA[(twitter.com/liron)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
         <id>https://news.hada.io/blog/geeknews_3year</id>
         <link href="https://news.hada.io/blog/geeknews_3year"/>
@@ -48,18 +76,18 @@
         <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emoji Kitchen]]></title>
-        <id>https://emoji.supply/kitchen/</id>
-        <link href="https://emoji.supply/kitchen/"/>
-        <updated>2022-07-27T01:40:06.878Z</updated>
-        <content type="html"><![CDATA[(emoji.supply)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Etro - Typescript 비디오 편집 프레임워크]]></title>
         <id>https://etrojs.dev/</id>
         <link href="https://etrojs.dev/"/>
         <updated>2022-07-27T01:40:06.879Z</updated>
         <content type="html"><![CDATA[(etrojs.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emoji Kitchen]]></title>
+        <id>https://emoji.supply/kitchen/</id>
+        <link href="https://emoji.supply/kitchen/"/>
+        <updated>2022-07-27T01:40:06.878Z</updated>
+        <content type="html"><![CDATA[(emoji.supply)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
@@ -69,18 +97,18 @@
         <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astropos JS - 터치 친화적 3D Parallax 호버 효과 라이브러리]]></title>
-        <id>https://atroposjs.com/</id>
-        <link href="https://atroposjs.com/"/>
-        <updated>2022-07-27T01:40:06.888Z</updated>
-        <content type="html"><![CDATA[(atroposjs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업 창업 고민 - 부끄럽게도 지키지 못하는 약속들]]></title>
         <id>https://community.applepie.pro/t/d-8/68</id>
         <link href="https://community.applepie.pro/t/d-8/68"/>
         <updated>2022-07-26T14:13:33.101Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astropos JS - 터치 친화적 3D Parallax 호버 효과 라이브러리]]></title>
+        <id>https://atroposjs.com/</id>
+        <link href="https://atroposjs.com/"/>
+        <updated>2022-07-27T01:40:06.888Z</updated>
+        <content type="html"><![CDATA[(atroposjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이제 '윤초'는 과거로 남겨둘 때가 되었다]]></title>
@@ -116,33 +144,5 @@
         <link href="https://news.hada.io/topic?id=7040"/>
         <updated>2022-07-25T10:17:41.033Z</updated>
         <content type="html"><![CDATA[(github.com/pjessesco)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 실리콘은 '불편한 진실'임]]></title>
-        <id>https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth</id>
-        <link href="https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth"/>
-        <updated>2022-07-26T01:21:52.348Z</updated>
-        <content type="html"><![CDATA[(daringfireball.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로그래밍 고정폭 한글 글꼴 셈틀체 후원 중]]></title>
-        <id>https://link.tumblbug.com/y6gzAjZ3Xrb</id>
-        <link href="https://link.tumblbug.com/y6gzAjZ3Xrb"/>
-        <updated>2022-07-26T05:38:02.332Z</updated>
-        <content type="html"><![CDATA[(link.tumblbug.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예제로 알아보는 Javascript 난독화(Obfuscation) 기법]]></title>
-        <id>https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/</id>
-        <link href="https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/"/>
-        <updated>2022-07-24T01:25:24.071Z</updated>
-        <content type="html"><![CDATA[(trickster.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humbleicons - UI용 무료 SVG 아이콘]]></title>
-        <id>https://humbleicons.com/</id>
-        <link href="https://humbleicons.com/"/>
-        <updated>2022-07-27T20:16:06.296Z</updated>
-        <content type="html"><![CDATA[(humbleicons.com)]]></content>
     </entry>
 </feed>
