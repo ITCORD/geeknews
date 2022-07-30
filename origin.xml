@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-30T05:19:16.176Z</updated>
+    <updated>2022-07-30T06:17:54.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(ahgamut.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PickCode - Scratch 다음을 위한 교육용 코딩 환경]]></title>
-        <id>https://www.pickcode.io/</id>
-        <link href="https://www.pickcode.io/"/>
-        <updated>2022-07-30T01:14:54.478Z</updated>
-        <content type="html"><![CDATA[(pickcode.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
         <id>https://sayhello.so/</id>
         <link href="https://sayhello.so/"/>
         <updated>2022-07-29T01:21:33.100Z</updated>
         <content type="html"><![CDATA[(sayhello.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PickCode - Scratch 다음을 위한 교육용 코딩 환경]]></title>
+        <id>https://www.pickcode.io/</id>
+        <link href="https://www.pickcode.io/"/>
+        <updated>2022-07-30T01:14:54.478Z</updated>
+        <content type="html"><![CDATA[(pickcode.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HypeScript - TypeScript 타입 시스템의 간단한 구현체]]></title>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[논문] 레고 매뉴얼을 머신이 실행 가능한 계획으로 번역하기]]></title>
-        <id>https://cs.stanford.edu/~rcwang/projects/lego_manual/</id>
-        <link href="https://cs.stanford.edu/~rcwang/projects/lego_manual/"/>
-        <updated>2022-07-29T01:21:33.114Z</updated>
-        <content type="html"><![CDATA[(cs.stanford.edu)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
         <id>https://untools.co/</id>
         <link href="https://untools.co/"/>
@@ -125,11 +118,11 @@
         <content type="html"><![CDATA[(untools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emoji Kitchen]]></title>
-        <id>https://emoji.supply/kitchen/</id>
-        <link href="https://emoji.supply/kitchen/"/>
-        <updated>2022-07-27T01:40:06.878Z</updated>
-        <content type="html"><![CDATA[(emoji.supply)]]></content>
+        <title type="html"><![CDATA[[논문] 레고 매뉴얼을 머신이 실행 가능한 계획으로 번역하기]]></title>
+        <id>https://cs.stanford.edu/~rcwang/projects/lego_manual/</id>
+        <link href="https://cs.stanford.edu/~rcwang/projects/lego_manual/"/>
+        <updated>2022-07-29T01:21:33.114Z</updated>
+        <content type="html"><![CDATA[(cs.stanford.edu)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
@@ -137,6 +130,13 @@
         <link href="https://docs.google.com/spreadsheets/d/1l3ZWj6O32ImqAHRhLYsnJL2fuBm9AEGf6RO4UUTUBd4/htmlview?fs=e&amp;s=cl"/>
         <updated>2022-07-26T01:21:52.346Z</updated>
         <content type="html"><![CDATA[(docs.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emoji Kitchen]]></title>
+        <id>https://emoji.supply/kitchen/</id>
+        <link href="https://emoji.supply/kitchen/"/>
+        <updated>2022-07-27T01:40:06.878Z</updated>
+        <content type="html"><![CDATA[(emoji.supply)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Etro - Typescript 비디오 편집 프레임워크]]></title>
