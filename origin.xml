@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-30T15:14:55.806Z</updated>
+    <updated>2022-07-30T16:20:02.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HypeScript - TypeScript 타입 시스템의 간단한 구현체]]></title>
-        <id>https://github.com/ronami/HypeScript</id>
-        <link href="https://github.com/ronami/HypeScript"/>
-        <updated>2022-07-30T01:14:54.488Z</updated>
-        <content type="html"><![CDATA[(github.com/ronami)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
         <id>https://news.hada.io/blog/geeknews_3year</id>
         <link href="https://news.hada.io/blog/geeknews_3year"/>
@@ -88,6 +81,13 @@
         <link href="https://www.whatisdevrel.com/"/>
         <updated>2022-07-28T03:39:24.232Z</updated>
         <content type="html"><![CDATA[(whatisdevrel.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HypeScript - TypeScript 타입 시스템의 간단한 구현체]]></title>
+        <id>https://github.com/ronami/HypeScript</id>
+        <link href="https://github.com/ronami/HypeScript"/>
+        <updated>2022-07-30T01:14:54.488Z</updated>
+        <content type="html"><![CDATA[(github.com/ronami)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
