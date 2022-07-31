@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T03:42:14.457Z</updated>
+    <updated>2022-07-31T04:31:56.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
-        <id>https://ahgamut.github.io/2022/07/27/ape-rust-example/</id>
-        <link href="https://ahgamut.github.io/2022/07/27/ape-rust-example/"/>
-        <updated>2022-07-30T01:14:54.468Z</updated>
-        <content type="html"><![CDATA[(ahgamut.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
         <id>https://sayhello.so/</id>
         <link href="https://sayhello.so/"/>
         <updated>2022-07-29T01:21:33.100Z</updated>
         <content type="html"><![CDATA[(sayhello.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
+        <id>https://ahgamut.github.io/2022/07/27/ape-rust-example/</id>
+        <link href="https://ahgamut.github.io/2022/07/27/ape-rust-example/"/>
+        <updated>2022-07-30T01:14:54.468Z</updated>
+        <content type="html"><![CDATA[(ahgamut.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(pickcode.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Publii - 스태틱 웹사이트 제작용 데스크탑 CMS 오픈소스]]></title>
-        <id>https://getpublii.com/</id>
-        <link href="https://getpublii.com/"/>
-        <updated>2022-07-29T01:21:33.082Z</updated>
-        <content type="html"><![CDATA[(getpublii.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32220192</id>
         <link href="https://news.ycombinator.com/item?id=32220192"/>
         <updated>2022-07-26T01:21:52.335Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publii - 스태틱 웹사이트 제작용 데스크탑 CMS 오픈소스]]></title>
+        <id>https://getpublii.com/</id>
+        <link href="https://getpublii.com/"/>
+        <updated>2022-07-29T01:21:33.082Z</updated>
+        <content type="html"><![CDATA[(getpublii.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blueboat - 올인원 멀티테넌트 서버리스 자바스크립트 런타임]]></title>
