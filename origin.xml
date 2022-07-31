@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T16:19:13.084Z</updated>
+    <updated>2022-07-31T17:15:06.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,25 +62,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Blueboat - 올인원 멀티테넌트 서버리스 자바스크립트 런타임]]></title>
+        <id>https://github.com/losfair/blueboat</id>
+        <link href="https://github.com/losfair/blueboat"/>
+        <updated>2022-07-29T03:50:03.190Z</updated>
+        <content type="html"><![CDATA[(github.com/losfair)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Publii - 스태틱 웹사이트 제작용 데스크탑 CMS 오픈소스]]></title>
         <id>https://getpublii.com/</id>
         <link href="https://getpublii.com/"/>
         <updated>2022-07-29T01:21:33.082Z</updated>
         <content type="html"><![CDATA[(getpublii.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PickCode - Scratch 다음을 위한 교육용 코딩 환경]]></title>
-        <id>https://www.pickcode.io/</id>
-        <link href="https://www.pickcode.io/"/>
-        <updated>2022-07-30T01:14:54.478Z</updated>
-        <content type="html"><![CDATA[(pickcode.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
-        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
-        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
-        <updated>2022-07-26T01:21:52.344Z</updated>
-        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
@@ -90,11 +83,18 @@
         <content type="html"><![CDATA[(news.hada.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blueboat - 올인원 멀티테넌트 서버리스 자바스크립트 런타임]]></title>
-        <id>https://github.com/losfair/blueboat</id>
-        <link href="https://github.com/losfair/blueboat"/>
-        <updated>2022-07-29T03:50:03.190Z</updated>
-        <content type="html"><![CDATA[(github.com/losfair)]]></content>
+        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
+        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
+        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
+        <updated>2022-07-26T01:21:52.344Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PickCode - Scratch 다음을 위한 교육용 코딩 환경]]></title>
+        <id>https://www.pickcode.io/</id>
+        <link href="https://www.pickcode.io/"/>
+        <updated>2022-07-30T01:14:54.478Z</updated>
+        <content type="html"><![CDATA[(pickcode.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간단한 계산으로 복권을 '해킹'해 337.5억원을 따낸 부부]]></title>
