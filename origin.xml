@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T21:14:35.193Z</updated>
+    <updated>2022-07-31T22:15:48.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정]]></title>
+        <id>https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/</id>
+        <link href="https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/"/>
+        <updated>2022-07-31T22:15:12.857Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
         <id>https://alohe.github.io/emojicloud/</id>
@@ -137,12 +144,5 @@
         <link href="https://www.neom.com/en-us/regions/theline"/>
         <updated>2022-07-28T01:18:09.043Z</updated>
         <content type="html"><![CDATA[(neom.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
-        <id>https://docs.google.com/spreadsheets/d/1l3ZWj6O32ImqAHRhLYsnJL2fuBm9AEGf6RO4UUTUBd4/htmlview?fs=e&amp;s=cl</id>
-        <link href="https://docs.google.com/spreadsheets/d/1l3ZWj6O32ImqAHRhLYsnJL2fuBm9AEGf6RO4UUTUBd4/htmlview?fs=e&amp;s=cl"/>
-        <updated>2022-07-26T01:21:52.346Z</updated>
-        <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
 </feed>
