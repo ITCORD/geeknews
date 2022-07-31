@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-30T23:14:34.676Z</updated>
+    <updated>2022-07-31T01:28:55.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GitHub City]]></title>
+        <id>https://honzaap.github.io/GithubCity/</id>
+        <link href="https://honzaap.github.io/GithubCity/"/>
+        <updated>2022-07-31T01:28:18.540Z</updated>
+        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
+        <id>https://userver.tech/</id>
+        <link href="https://userver.tech/"/>
+        <updated>2022-07-31T01:28:18.540Z</updated>
+        <content type="html"><![CDATA[(userver.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
+        <id>https://alohe.github.io/emojicloud/</id>
+        <link href="https://alohe.github.io/emojicloud/"/>
+        <updated>2022-07-31T01:28:18.540Z</updated>
+        <content type="html"><![CDATA[(alohe.github.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
         <id>https://ahgamut.github.io/2022/07/27/ape-rust-example/</id>
@@ -41,18 +62,18 @@
         <content type="html"><![CDATA[(getpublii.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blueboat - 올인원 멀티테넌트 서버리스 자바스크립트 런타임]]></title>
-        <id>https://github.com/losfair/blueboat</id>
-        <link href="https://github.com/losfair/blueboat"/>
-        <updated>2022-07-29T03:50:03.190Z</updated>
-        <content type="html"><![CDATA[(github.com/losfair)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32220192</id>
         <link href="https://news.ycombinator.com/item?id=32220192"/>
         <updated>2022-07-26T01:21:52.335Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blueboat - 올인원 멀티테넌트 서버리스 자바스크립트 런타임]]></title>
+        <id>https://github.com/losfair/blueboat</id>
+        <link href="https://github.com/losfair/blueboat"/>
+        <updated>2022-07-29T03:50:03.190Z</updated>
+        <content type="html"><![CDATA[(github.com/losfair)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간단한 계산으로 복권을 '해킹'해 337.5억원을 따낸 부부]]></title>
@@ -111,13 +132,6 @@
         <content type="html"><![CDATA[(untools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HypeScript - TypeScript 타입 시스템의 간단한 구현체]]></title>
-        <id>https://github.com/ronami/HypeScript</id>
-        <link href="https://github.com/ronami/HypeScript"/>
-        <updated>2022-07-30T01:14:54.488Z</updated>
-        <content type="html"><![CDATA[(github.com/ronami)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
         <id>https://docs.google.com/spreadsheets/d/1l3ZWj6O32ImqAHRhLYsnJL2fuBm9AEGf6RO4UUTUBd4/htmlview?fs=e&amp;s=cl</id>
         <link href="https://docs.google.com/spreadsheets/d/1l3ZWj6O32ImqAHRhLYsnJL2fuBm9AEGf6RO4UUTUBd4/htmlview?fs=e&amp;s=cl"/>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emoji Kitchen]]></title>
-        <id>https://emoji.supply/kitchen/</id>
-        <link href="https://emoji.supply/kitchen/"/>
-        <updated>2022-07-27T01:40:06.878Z</updated>
-        <content type="html"><![CDATA[(emoji.supply)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논문] 레고 매뉴얼을 머신이 실행 가능한 계획으로 번역하기]]></title>
-        <id>https://cs.stanford.edu/~rcwang/projects/lego_manual/</id>
-        <link href="https://cs.stanford.edu/~rcwang/projects/lego_manual/"/>
-        <updated>2022-07-29T01:21:33.114Z</updated>
-        <content type="html"><![CDATA[(cs.stanford.edu)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etro - Typescript 비디오 편집 프레임워크]]></title>
-        <id>https://etrojs.dev/</id>
-        <link href="https://etrojs.dev/"/>
-        <updated>2022-07-30T05:18:35.515Z</updated>
-        <content type="html"><![CDATA[(etrojs.dev)]]></content>
+        <title type="html"><![CDATA[HypeScript - TypeScript 타입 시스템의 간단한 구현체]]></title>
+        <id>https://github.com/ronami/HypeScript</id>
+        <link href="https://github.com/ronami/HypeScript"/>
+        <updated>2022-07-30T01:14:54.488Z</updated>
+        <content type="html"><![CDATA[(github.com/ronami)]]></content>
     </entry>
 </feed>
