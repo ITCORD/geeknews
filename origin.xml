@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T05:17:09.617Z</updated>
+    <updated>2022-07-31T06:17:55.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alohe.github.io/emojicloud/"/>
         <updated>2022-07-31T01:28:18.540Z</updated>
         <content type="html"><![CDATA[(alohe.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
+        <id>https://www.edgedb.com/blog/edgedb-2-0</id>
+        <link href="https://www.edgedb.com/blog/edgedb-2-0"/>
+        <updated>2022-07-31T03:41:34.201Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
@@ -25,13 +32,6 @@
         <link href="https://honzaap.github.io/GithubCity/"/>
         <updated>2022-07-31T01:28:18.540Z</updated>
         <content type="html"><![CDATA[(honzaap.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
-        <id>https://www.edgedb.com/blog/edgedb-2-0</id>
-        <link href="https://www.edgedb.com/blog/edgedb-2-0"/>
-        <updated>2022-07-31T03:41:34.201Z</updated>
-        <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
