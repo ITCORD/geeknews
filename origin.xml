@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T17:15:06.140Z</updated>
+    <updated>2022-07-31T18:17:23.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(sayhello.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub City]]></title>
-        <id>https://honzaap.github.io/GithubCity/</id>
-        <link href="https://honzaap.github.io/GithubCity/"/>
-        <updated>2022-07-31T01:28:18.540Z</updated>
-        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://divan.dev/posts/edgedb/</id>
         <link href="https://divan.dev/posts/edgedb/"/>
         <updated>2022-07-27T01:40:06.877Z</updated>
         <content type="html"><![CDATA[(divan.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub City]]></title>
+        <id>https://honzaap.github.io/GithubCity/</id>
+        <link href="https://honzaap.github.io/GithubCity/"/>
+        <updated>2022-07-31T01:28:18.540Z</updated>
+        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
