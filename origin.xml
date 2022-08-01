@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-01T04:03:31.697Z</updated>
+    <updated>2022-08-01T05:51:27.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aha Moment & Activation - 토스 리더가 말하는 유저를 끌어당기는 서비스 개선]]></title>
+        <id>https://ugong2san.tistory.com/m/4356</id>
+        <link href="https://ugong2san.tistory.com/m/4356"/>
+        <updated>2022-08-01T04:02:57.842Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정]]></title>
         <id>https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/</id>
         <link href="https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/"/>
@@ -27,11 +34,17 @@
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aha Moment & Activation - 토스 리더가 말하는 유저를 끌어당기는 서비스 개선]]></title>
-        <id>https://ugong2san.tistory.com/m/4356</id>
-        <link href="https://ugong2san.tistory.com/m/4356"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
+        <id>https://news.hada.io/topic?id=7089</id>
+        <link href="https://news.hada.io/topic?id=7089"/>
+        <updated>2022-08-01T05:50:54.404Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19 출시]]></title>
+        <id>https://www.phoronix.com/news/Linux-5.19-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-5.19-Released"/>
+        <updated>2022-08-01T05:50:54.404Z</updated>
+        <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terminal GIF Maker]]></title>
@@ -83,13 +96,6 @@
         <content type="html"><![CDATA[(sayhello.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
-        <id>https://userver.tech/</id>
-        <link href="https://userver.tech/"/>
-        <updated>2022-07-31T01:28:18.540Z</updated>
-        <content type="html"><![CDATA[(userver.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://divan.dev/posts/edgedb/</id>
         <link href="https://divan.dev/posts/edgedb/"/>
@@ -97,11 +103,11 @@
         <content type="html"><![CDATA[(divan.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
-        <id>https://ahgamut.github.io/2022/07/27/ape-rust-example/</id>
-        <link href="https://ahgamut.github.io/2022/07/27/ape-rust-example/"/>
-        <updated>2022-07-30T01:14:54.468Z</updated>
-        <content type="html"><![CDATA[(ahgamut.github.io)]]></content>
+        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
+        <id>https://userver.tech/</id>
+        <link href="https://userver.tech/"/>
+        <updated>2022-07-31T01:28:18.540Z</updated>
+        <content type="html"><![CDATA[(userver.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub City]]></title>
@@ -109,6 +115,13 @@
         <link href="https://honzaap.github.io/GithubCity/"/>
         <updated>2022-07-31T01:28:18.540Z</updated>
         <content type="html"><![CDATA[(honzaap.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
+        <id>https://ahgamut.github.io/2022/07/27/ape-rust-example/</id>
+        <link href="https://ahgamut.github.io/2022/07/27/ape-rust-example/"/>
+        <updated>2022-07-30T01:14:54.468Z</updated>
+        <content type="html"><![CDATA[(ahgamut.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
@@ -125,24 +138,10 @@
         <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Publii - 스태틱 웹사이트 제작용 데스크탑 CMS 오픈소스]]></title>
-        <id>https://getpublii.com/</id>
-        <link href="https://getpublii.com/"/>
-        <updated>2022-07-29T01:21:33.082Z</updated>
-        <content type="html"><![CDATA[(getpublii.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
         <id>https://news.hada.io/blog/geeknews_3year</id>
         <link href="https://news.hada.io/blog/geeknews_3year"/>
         <updated>2022-07-26T04:03:09.979Z</updated>
         <content type="html"><![CDATA[(news.hada.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blueboat - 올인원 멀티테넌트 서버리스 자바스크립트 런타임]]></title>
-        <id>https://github.com/losfair/blueboat</id>
-        <link href="https://github.com/losfair/blueboat"/>
-        <updated>2022-07-29T03:50:03.190Z</updated>
-        <content type="html"><![CDATA[(github.com/losfair)]]></content>
     </entry>
 </feed>
