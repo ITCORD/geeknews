@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-01T10:18:09.555Z</updated>
+    <updated>2022-08-01T11:14:07.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -61,13 +61,6 @@
         <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtink - 쿠버네티스용 경량 가상화 애드온]]></title>
-        <id>https://github.com/smartxworks/virtink</id>
-        <link href="https://github.com/smartxworks/virtink"/>
-        <updated>2022-08-01T01:28:25.274Z</updated>
-        <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
         <id>https://alohe.github.io/emojicloud/</id>
         <link href="https://alohe.github.io/emojicloud/"/>
@@ -75,11 +68,11 @@
         <content type="html"><![CDATA[(alohe.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carbon의 가장 흥미로운 피쳐는 호출 규칙(Calling Convention)]]></title>
-        <id>https://www.foonathan.net/2022/07/carbon-calling-convention/</id>
-        <link href="https://www.foonathan.net/2022/07/carbon-calling-convention/"/>
-        <updated>2022-08-01T01:28:25.280Z</updated>
-        <content type="html"><![CDATA[(foonathan.net)]]></content>
+        <title type="html"><![CDATA[Virtink - 쿠버네티스용 경량 가상화 애드온]]></title>
+        <id>https://github.com/smartxworks/virtink</id>
+        <link href="https://github.com/smartxworks/virtink"/>
+        <updated>2022-08-01T01:28:25.274Z</updated>
+        <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
@@ -89,6 +82,13 @@
         <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Carbon의 가장 흥미로운 피쳐는 호출 규칙(Calling Convention)]]></title>
+        <id>https://www.foonathan.net/2022/07/carbon-calling-convention/</id>
+        <link href="https://www.foonathan.net/2022/07/carbon-calling-convention/"/>
+        <updated>2022-08-01T01:28:25.280Z</updated>
+        <content type="html"><![CDATA[(foonathan.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
         <id>https://sayhello.so/</id>
         <link href="https://sayhello.so/"/>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[(sayhello.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
-        <id>https://userver.tech/</id>
-        <link href="https://userver.tech/"/>
-        <updated>2022-07-31T01:28:18.540Z</updated>
-        <content type="html"><![CDATA[(userver.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://divan.dev/posts/edgedb/</id>
         <link href="https://divan.dev/posts/edgedb/"/>
         <updated>2022-07-27T01:40:06.877Z</updated>
         <content type="html"><![CDATA[(divan.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
+        <id>https://userver.tech/</id>
+        <link href="https://userver.tech/"/>
+        <updated>2022-07-31T01:28:18.540Z</updated>
+        <content type="html"><![CDATA[(userver.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub City]]></title>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
-        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
-        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
-        <updated>2022-07-26T01:21:52.344Z</updated>
-        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
         <id>https://news.hada.io/blog/geeknews_3year</id>
         <link href="https://news.hada.io/blog/geeknews_3year"/>
         <updated>2022-07-26T04:03:09.979Z</updated>
         <content type="html"><![CDATA[(news.hada.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
+        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
+        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
+        <updated>2022-07-26T01:21:52.344Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
 </feed>
