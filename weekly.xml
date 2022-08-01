@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-07-31T23:16:07.338Z</updated>
+    <updated>2022-08-01T01:29:01.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB 1년 사용 후기 "다시는 SQL로 돌아가지 않을꺼야"]]></title>
+        <id>https://news.hada.io/weekly/202231</id>
+        <link href="https://news.hada.io/weekly/202231"/>
+        <updated>2022-08-01T01:28:48.861Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">160. </td><td class="fitwidth">202231</td><td width="*">&nbsp;<a href="/weekly/202231" class="u keepall"> EdgeDB 1년 사용 후기 "다시는 SQL로 돌아가지 않을꺼야"</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
         <id>https://news.hada.io/weekly/202230</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202212"/>
         <updated>2022-03-21T00:58:04.968Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">141. </td><td class="fitwidth">202212</td><td width="*">&nbsp;<a href="/weekly/202212" class="u keepall"> 페어 프로그래밍 안티 패턴들</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
-        <id>https://news.hada.io/weekly/202211</id>
-        <link href="https://news.hada.io/weekly/202211"/>
-        <updated>2022-03-14T00:58:02.295Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">140. </td><td class="fitwidth">202211</td><td width="*">&nbsp;<a href="/weekly/202211" class="u keepall"> SaaS를 1년 운영해보고 배운 것</a></td>]]></content>
     </entry>
 </feed>
