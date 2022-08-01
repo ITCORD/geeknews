@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-01T15:19:38.487Z</updated>
+    <updated>2022-08-01T16:22:18.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -68,18 +68,18 @@
         <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 5.19 출시]]></title>
-        <id>https://www.phoronix.com/news/Linux-5.19-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-5.19-Released"/>
-        <updated>2022-08-01T05:50:54.404Z</updated>
-        <content type="html"><![CDATA[(phoronix.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
         <id>https://www.edgedb.com/blog/edgedb-2-0</id>
         <link href="https://www.edgedb.com/blog/edgedb-2-0"/>
         <updated>2022-07-31T03:41:34.201Z</updated>
         <content type="html"><![CDATA[(edgedb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19 출시]]></title>
+        <id>https://www.phoronix.com/news/Linux-5.19-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-5.19-Released"/>
+        <updated>2022-08-01T05:50:54.404Z</updated>
+        <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[(foonathan.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
-        <id>https://userver.tech/</id>
-        <link href="https://userver.tech/"/>
-        <updated>2022-07-31T01:28:18.540Z</updated>
-        <content type="html"><![CDATA[(userver.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://divan.dev/posts/edgedb/</id>
         <link href="https://divan.dev/posts/edgedb/"/>
         <updated>2022-07-27T01:40:06.877Z</updated>
         <content type="html"><![CDATA[(divan.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
+        <id>https://userver.tech/</id>
+        <link href="https://userver.tech/"/>
+        <updated>2022-07-31T01:28:18.540Z</updated>
+        <content type="html"><![CDATA[(userver.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub City]]></title>
