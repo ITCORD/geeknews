@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-01T08:20:33.424Z</updated>
+    <updated>2022-08-01T09:17:25.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -103,18 +103,18 @@
         <content type="html"><![CDATA[(userver.tech)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub City]]></title>
-        <id>https://honzaap.github.io/GithubCity/</id>
-        <link href="https://honzaap.github.io/GithubCity/"/>
-        <updated>2022-07-31T01:28:18.540Z</updated>
-        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://divan.dev/posts/edgedb/</id>
         <link href="https://divan.dev/posts/edgedb/"/>
         <updated>2022-07-27T01:40:06.877Z</updated>
         <content type="html"><![CDATA[(divan.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub City]]></title>
+        <id>https://honzaap.github.io/GithubCity/</id>
+        <link href="https://honzaap.github.io/GithubCity/"/>
+        <updated>2022-07-31T01:28:18.540Z</updated>
+        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
-        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
-        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
-        <updated>2022-07-26T01:21:52.344Z</updated>
-        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
         <id>https://news.hada.io/blog/geeknews_3year</id>
         <link href="https://news.hada.io/blog/geeknews_3year"/>
         <updated>2022-07-26T04:03:09.979Z</updated>
         <content type="html"><![CDATA[(news.hada.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
+        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
+        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
+        <updated>2022-07-26T01:21:52.344Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
 </feed>
