@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-02T04:02:52.646Z</updated>
+    <updated>2022-08-02T05:41:35.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,17 +69,24 @@
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PlayCode - Javascript Playground]]></title>
+        <id>https://playcode.io/</id>
+        <link href="https://playcode.io/"/>
+        <updated>2022-08-01T01:28:25.274Z</updated>
+        <content type="html"><![CDATA[(playcode.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
         <id>https://news.hada.io/topic?id=7089</id>
         <link href="https://news.hada.io/topic?id=7089"/>
         <updated>2022-08-01T05:50:54.404Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PlayCode - Javascript Playground]]></title>
-        <id>https://playcode.io/</id>
-        <link href="https://playcode.io/"/>
-        <updated>2022-08-01T01:28:25.274Z</updated>
-        <content type="html"><![CDATA[(playcode.io)]]></content>
+        <title type="html"><![CDATA[Terminal GIF Maker]]></title>
+        <id>https://www.terminalgif.com/</id>
+        <link href="https://www.terminalgif.com/"/>
+        <updated>2022-08-01T01:28:25.280Z</updated>
+        <content type="html"><![CDATA[(terminalgif.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
@@ -94,13 +101,6 @@
         <link href="https://www.foonathan.net/2022/07/carbon-calling-convention/"/>
         <updated>2022-08-01T01:28:25.280Z</updated>
         <content type="html"><![CDATA[(foonathan.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terminal GIF Maker]]></title>
-        <id>https://www.terminalgif.com/</id>
-        <link href="https://www.terminalgif.com/"/>
-        <updated>2022-08-01T01:28:25.280Z</updated>
-        <content type="html"><![CDATA[(terminalgif.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
@@ -124,18 +124,18 @@
         <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 5.19 출시]]></title>
-        <id>https://www.phoronix.com/news/Linux-5.19-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-5.19-Released"/>
-        <updated>2022-08-01T05:50:54.404Z</updated>
-        <content type="html"><![CDATA[(phoronix.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://divan.dev/posts/edgedb/</id>
         <link href="https://divan.dev/posts/edgedb/"/>
         <updated>2022-07-27T01:40:06.877Z</updated>
         <content type="html"><![CDATA[(divan.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19 출시]]></title>
+        <id>https://www.phoronix.com/news/Linux-5.19-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-5.19-Released"/>
+        <updated>2022-08-01T05:50:54.404Z</updated>
+        <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub City]]></title>
