@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-02T07:16:13.840Z</updated>
+    <updated>2022-08-02T08:20:00.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[(msit.go.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
-        <id>https://chunk.run/</id>
-        <link href="https://chunk.run/"/>
-        <updated>2022-08-02T01:29:20.496Z</updated>
-        <content type="html"><![CDATA[(chunk.run)]]></content>
+        <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
+        <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
+        <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
+        <updated>2022-08-02T08:19:26.707Z</updated>
+        <content type="html"><![CDATA[(docusaurus.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
@@ -32,6 +32,20 @@
         <link href="https://github.com/cremich/cdk-bill-bot"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(github.com/cremich)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
+        <id>https://chunk.run/</id>
+        <link href="https://chunk.run/"/>
+        <updated>2022-08-02T01:29:20.496Z</updated>
+        <content type="html"><![CDATA[(chunk.run)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
+        <id>https://www.ghostscript.com/blog/pdfi.html</id>
+        <link href="https://www.ghostscript.com/blog/pdfi.html"/>
+        <updated>2022-08-02T01:29:20.497Z</updated>
+        <content type="html"><![CDATA[(ghostscript.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
@@ -46,13 +60,6 @@
         <link href="https://developerexperience.io/practices/good-developer-experience"/>
         <updated>2022-08-01T04:02:57.842Z</updated>
         <content type="html"><![CDATA[(developerexperience.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
-        <id>https://www.ghostscript.com/blog/pdfi.html</id>
-        <link href="https://www.ghostscript.com/blog/pdfi.html"/>
-        <updated>2022-08-02T01:29:20.497Z</updated>
-        <content type="html"><![CDATA[(ghostscript.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aha Moment & Activation - 토스 리더가 말하는 유저를 끌어당기는 서비스 개선]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[(alohe.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carbon의 가장 흥미로운 피쳐는 호출 규칙(Calling Convention)]]></title>
-        <id>https://www.foonathan.net/2022/07/carbon-calling-convention/</id>
-        <link href="https://www.foonathan.net/2022/07/carbon-calling-convention/"/>
-        <updated>2022-08-01T01:28:25.280Z</updated>
-        <content type="html"><![CDATA[(foonathan.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
         <id>https://sayhello.so/</id>
         <link href="https://sayhello.so/"/>
         <updated>2022-07-29T01:21:33.100Z</updated>
         <content type="html"><![CDATA[(sayhello.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon의 가장 흥미로운 피쳐는 호출 규칙(Calling Convention)]]></title>
+        <id>https://www.foonathan.net/2022/07/carbon-calling-convention/</id>
+        <link href="https://www.foonathan.net/2022/07/carbon-calling-convention/"/>
+        <updated>2022-08-01T01:28:25.280Z</updated>
+        <content type="html"><![CDATA[(foonathan.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
@@ -124,13 +131,6 @@
         <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtink - 쿠버네티스용 경량 가상화 애드온]]></title>
-        <id>https://github.com/smartxworks/virtink</id>
-        <link href="https://github.com/smartxworks/virtink"/>
-        <updated>2022-08-01T01:28:25.274Z</updated>
-        <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://divan.dev/posts/edgedb/</id>
         <link href="https://divan.dev/posts/edgedb/"/>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(divan.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 5.19 출시]]></title>
-        <id>https://www.phoronix.com/news/Linux-5.19-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-5.19-Released"/>
-        <updated>2022-08-01T05:50:54.404Z</updated>
-        <content type="html"><![CDATA[(phoronix.com)]]></content>
+        <title type="html"><![CDATA[Virtink - 쿠버네티스용 경량 가상화 애드온]]></title>
+        <id>https://github.com/smartxworks/virtink</id>
+        <link href="https://github.com/smartxworks/virtink"/>
+        <updated>2022-08-01T01:28:25.274Z</updated>
+        <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
     </entry>
 </feed>
