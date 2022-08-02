@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-02T17:24:07.756Z</updated>
+    <updated>2022-08-02T18:19:12.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
-        <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
-        <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
-        <updated>2022-08-02T08:19:26.707Z</updated>
-        <content type="html"><![CDATA[(docusaurus.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
         <id>https://chunk.run/</id>
         <link href="https://chunk.run/"/>
         <updated>2022-08-02T01:29:20.496Z</updated>
         <content type="html"><![CDATA[(chunk.run)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
+        <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
+        <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
+        <updated>2022-08-02T08:19:26.707Z</updated>
+        <content type="html"><![CDATA[(docusaurus.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(ghostscript.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정]]></title>
-        <id>https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/</id>
-        <link href="https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/"/>
-        <updated>2022-07-31T22:15:12.857Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Aha Moment & Activation - 토스 리더가 말하는 유저를 끌어당기는 서비스 개선]]></title>
         <id>https://ugong2san.tistory.com/m/4356</id>
         <link href="https://ugong2san.tistory.com/m/4356"/>
         <updated>2022-08-01T04:02:57.842Z</updated>
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정]]></title>
+        <id>https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/</id>
+        <link href="https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/"/>
+        <updated>2022-07-31T22:15:12.857Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PlayCode - Javascript Playground]]></title>
@@ -90,12 +90,6 @@
         <content type="html"><![CDATA[(alohe.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
-        <id>https://news.hada.io/topic?id=7089</id>
-        <link href="https://news.hada.io/topic?id=7089"/>
-        <updated>2022-08-01T05:50:54.404Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
         <id>https://sayhello.so/</id>
         <link href="https://sayhello.so/"/>
@@ -108,6 +102,12 @@
         <link href="https://www.terminalgif.com/"/>
         <updated>2022-08-01T01:28:25.280Z</updated>
         <content type="html"><![CDATA[(terminalgif.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
+        <id>https://news.hada.io/topic?id=7089</id>
+        <link href="https://news.hada.io/topic?id=7089"/>
+        <updated>2022-08-01T05:50:54.404Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[TikTok, HTML5 미니 게임 파일롯 테스팅 시작]]></title>
