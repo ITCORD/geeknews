@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-02T22:16:45.586Z</updated>
+    <updated>2022-08-02T23:16:38.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(chunk.run)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First Pull Request • What was the first pull request you sent on GitHub?]]></title>
+        <id>https://firstpr.me/</id>
+        <link href="https://firstpr.me/"/>
+        <updated>2022-08-02T23:15:58.329Z</updated>
+        <content type="html"><![CDATA[(firstpr.me)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
         <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
         <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
@@ -41,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/cremich)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기업부설연구소 설립 및 운영, 보다 쉽게 바꾼다]]></title>
-        <id>https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=113&amp;mPid=112&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3181997&amp;searchOpt=ALL&amp;searchTxt=</id>
-        <link href="https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=113&amp;mPid=112&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3181997&amp;searchOpt=ALL&amp;searchTxt="/>
-        <updated>2022-08-02T07:15:37.372Z</updated>
-        <content type="html"><![CDATA[(msit.go.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[좋은 개발자 경험]]></title>
         <id>https://developerexperience.io/practices/good-developer-experience</id>
         <link href="https://developerexperience.io/practices/good-developer-experience"/>
         <updated>2022-08-01T04:02:57.842Z</updated>
         <content type="html"><![CDATA[(developerexperience.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업부설연구소 설립 및 운영, 보다 쉽게 바꾼다]]></title>
+        <id>https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=113&amp;mPid=112&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3181997&amp;searchOpt=ALL&amp;searchTxt=</id>
+        <link href="https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=113&amp;mPid=112&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3181997&amp;searchOpt=ALL&amp;searchTxt="/>
+        <updated>2022-08-02T07:15:37.372Z</updated>
+        <content type="html"><![CDATA[(msit.go.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
@@ -117,13 +124,6 @@
         <content type="html"><![CDATA[(divan.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok, HTML5 미니 게임 파일롯 테스팅 시작]]></title>
-        <id>https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/</id>
-        <link href="https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/"/>
-        <updated>2022-08-02T01:29:20.502Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
         <id>https://www.edgedb.com/blog/edgedb-2-0</id>
         <link href="https://www.edgedb.com/blog/edgedb-2-0"/>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TikTok, HTML5 미니 게임 파일롯 테스팅 시작]]></title>
+        <id>https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/</id>
+        <link href="https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/"/>
+        <updated>2022-08-02T01:29:20.502Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Carbon의 가장 흥미로운 피쳐는 호출 규칙(Calling Convention)]]></title>
         <id>https://www.foonathan.net/2022/07/carbon-calling-convention/</id>
         <link href="https://www.foonathan.net/2022/07/carbon-calling-convention/"/>
         <updated>2022-08-01T01:28:25.280Z</updated>
         <content type="html"><![CDATA[(foonathan.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub City]]></title>
-        <id>https://honzaap.github.io/GithubCity/</id>
-        <link href="https://honzaap.github.io/GithubCity/"/>
-        <updated>2022-08-02T13:38:09.356Z</updated>
-        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
     </entry>
 </feed>
