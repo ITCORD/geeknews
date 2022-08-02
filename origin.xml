@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-02T21:14:46.265Z</updated>
+    <updated>2022-08-02T22:16:45.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
-        <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
-        <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
-        <updated>2022-08-02T08:19:26.707Z</updated>
-        <content type="html"><![CDATA[(docusaurus.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
         <id>https://chunk.run/</id>
         <link href="https://chunk.run/"/>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(chunk.run)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
-        <id>https://developerexperience.io/practices/good-developer-experience</id>
-        <link href="https://developerexperience.io/practices/good-developer-experience"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(developerexperience.io)]]></content>
+        <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
+        <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
+        <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
+        <updated>2022-08-02T08:19:26.707Z</updated>
+        <content type="html"><![CDATA[(docusaurus.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
@@ -53,6 +46,13 @@
         <link href="https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=113&amp;mPid=112&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3181997&amp;searchOpt=ALL&amp;searchTxt="/>
         <updated>2022-08-02T07:15:37.372Z</updated>
         <content type="html"><![CDATA[(msit.go.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
+        <id>https://developerexperience.io/practices/good-developer-experience</id>
+        <link href="https://developerexperience.io/practices/good-developer-experience"/>
+        <updated>2022-08-01T04:02:57.842Z</updated>
+        <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
