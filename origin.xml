@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-02T05:41:35.714Z</updated>
+    <updated>2022-08-02T06:19:16.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(chunk.run)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
-        <id>https://www.ghostscript.com/blog/pdfi.html</id>
-        <link href="https://www.ghostscript.com/blog/pdfi.html"/>
-        <updated>2022-08-02T01:29:20.497Z</updated>
-        <content type="html"><![CDATA[(ghostscript.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
         <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
@@ -41,18 +34,18 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
+        <id>https://www.ghostscript.com/blog/pdfi.html</id>
+        <link href="https://www.ghostscript.com/blog/pdfi.html"/>
+        <updated>2022-08-02T01:29:20.497Z</updated>
+        <content type="html"><![CDATA[(ghostscript.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[좋은 개발자 경험]]></title>
         <id>https://developerexperience.io/practices/good-developer-experience</id>
         <link href="https://developerexperience.io/practices/good-developer-experience"/>
         <updated>2022-08-01T04:02:57.842Z</updated>
         <content type="html"><![CDATA[(developerexperience.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok, HTML5 미니 게임 파일롯 테스팅 시작]]></title>
-        <id>https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/</id>
-        <link href="https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/"/>
-        <updated>2022-08-02T01:29:20.502Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aha Moment & Activation - 토스 리더가 말하는 유저를 끌어당기는 서비스 개선]]></title>
@@ -67,6 +60,13 @@
         <link href="https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/"/>
         <updated>2022-07-31T22:15:12.857Z</updated>
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok, HTML5 미니 게임 파일롯 테스팅 시작]]></title>
+        <id>https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/</id>
+        <link href="https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/"/>
+        <updated>2022-08-02T01:29:20.502Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PlayCode - Javascript Playground]]></title>
