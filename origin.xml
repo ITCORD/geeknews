@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-03T12:30:45.375Z</updated>
+    <updated>2022-08-03T13:38:49.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷]]></title>
-        <id>https://github.com/inkeliz/karmem</id>
-        <link href="https://github.com/inkeliz/karmem"/>
-        <updated>2022-08-03T01:25:21.090Z</updated>
-        <content type="html"><![CDATA[(github.com/inkeliz)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
         <id>https://ugong2san.tistory.com/4496</id>
         <link href="https://ugong2san.tistory.com/4496"/>
         <updated>2022-08-03T03:51:54.500Z</updated>
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷]]></title>
+        <id>https://github.com/inkeliz/karmem</id>
+        <link href="https://github.com/inkeliz/karmem"/>
+        <updated>2022-08-03T01:25:21.090Z</updated>
+        <content type="html"><![CDATA[(github.com/inkeliz)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
-        <id>https://www.repotrends.com/</id>
-        <link href="https://www.repotrends.com/"/>
-        <updated>2022-08-03T01:25:21.091Z</updated>
-        <content type="html"><![CDATA[(repotrends.com)]]></content>
+        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
+        <id>https://developerexperience.io/practices/good-developer-experience</id>
+        <link href="https://developerexperience.io/practices/good-developer-experience"/>
+        <updated>2022-08-01T04:02:57.842Z</updated>
+        <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
@@ -83,18 +83,11 @@
         <content type="html"><![CDATA[(chunk.run)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
-        <id>https://developerexperience.io/practices/good-developer-experience</id>
-        <link href="https://developerexperience.io/practices/good-developer-experience"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(developerexperience.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notable people - 우리 지역의 유명인사]]></title>
-        <id>https://tjukanovt.github.io/notable-people</id>
-        <link href="https://tjukanovt.github.io/notable-people"/>
-        <updated>2022-08-03T01:25:21.100Z</updated>
-        <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
+        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
+        <id>https://www.repotrends.com/</id>
+        <link href="https://www.repotrends.com/"/>
+        <updated>2022-08-03T01:25:21.091Z</updated>
+        <content type="html"><![CDATA[(repotrends.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
@@ -102,6 +95,13 @@
         <link href="https://github.com/cremich/cdk-bill-bot"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(github.com/cremich)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notable people - 우리 지역의 유명인사]]></title>
+        <id>https://tjukanovt.github.io/notable-people</id>
+        <link href="https://tjukanovt.github.io/notable-people"/>
+        <updated>2022-08-03T01:25:21.100Z</updated>
+        <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(msit.go.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Pull Request • What was the first pull request you sent on GitHub?]]></title>
-        <id>https://firstpr.me/</id>
-        <link href="https://firstpr.me/"/>
-        <updated>2022-08-02T23:15:58.329Z</updated>
-        <content type="html"><![CDATA[(firstpr.me)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정]]></title>
         <id>https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/</id>
         <link href="https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/"/>
         <updated>2022-07-31T22:15:12.857Z</updated>
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Pull Request • What was the first pull request you sent on GitHub?]]></title>
+        <id>https://firstpr.me/</id>
+        <link href="https://firstpr.me/"/>
+        <updated>2022-08-02T23:15:58.329Z</updated>
+        <content type="html"><![CDATA[(firstpr.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aha Moment & Activation - 토스 리더가 말하는 유저를 끌어당기는 서비스 개선]]></title>
