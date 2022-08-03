@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-03T01:25:58.949Z</updated>
+    <updated>2022-08-03T03:52:32.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[(github.com/tabler)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
+        <id>https://github.com/asg017/sqlite-lines</id>
+        <link href="https://github.com/asg017/sqlite-lines"/>
+        <updated>2022-08-03T01:25:21.102Z</updated>
+        <content type="html"><![CDATA[(github.com/asg017)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
         <id>https://codecatalog.org/</id>
         <link href="https://codecatalog.org/"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게임 데이터로 인과 추론 분석하기]]></title>
+        <id>https://ugong2san.tistory.com/4421</id>
+        <link href="https://ugong2san.tistory.com/4421"/>
+        <updated>2022-08-03T01:25:21.109Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷]]></title>
@@ -48,11 +62,18 @@
         <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
-        <id>https://github.com/asg017/sqlite-lines</id>
-        <link href="https://github.com/asg017/sqlite-lines"/>
-        <updated>2022-08-03T01:25:21.102Z</updated>
-        <content type="html"><![CDATA[(github.com/asg017)]]></content>
+        <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
+        <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
+        <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
+        <updated>2022-08-01T04:02:57.842Z</updated>
+        <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
+        <id>https://ugong2san.tistory.com/4496</id>
+        <link href="https://ugong2san.tistory.com/4496"/>
+        <updated>2022-08-03T03:51:54.500Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First Pull Request • What was the first pull request you sent on GitHub?]]></title>
@@ -62,25 +83,18 @@
         <content type="html"><![CDATA[(firstpr.me)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
-        <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
-        <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 데이터로 인과 추론 분석하기]]></title>
-        <id>https://ugong2san.tistory.com/4421</id>
-        <link href="https://ugong2san.tistory.com/4421"/>
-        <updated>2022-08-03T01:25:21.109Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
         <id>https://chunk.run/</id>
         <link href="https://chunk.run/"/>
         <updated>2022-08-02T01:29:20.496Z</updated>
         <content type="html"><![CDATA[(chunk.run)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
+        <id>https://developerexperience.io/practices/good-developer-experience</id>
+        <link href="https://developerexperience.io/practices/good-developer-experience"/>
+        <updated>2022-08-01T04:02:57.842Z</updated>
+        <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
@@ -95,13 +109,6 @@
         <link href="https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=113&amp;mPid=112&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3181997&amp;searchOpt=ALL&amp;searchTxt="/>
         <updated>2022-08-02T07:15:37.372Z</updated>
         <content type="html"><![CDATA[(msit.go.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
-        <id>https://developerexperience.io/practices/good-developer-experience</id>
-        <link href="https://developerexperience.io/practices/good-developer-experience"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
@@ -137,12 +144,5 @@
         <link href="https://sayhello.so/"/>
         <updated>2022-07-29T01:21:33.100Z</updated>
         <content type="html"><![CDATA[(sayhello.so)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayCode - Javascript Playground]]></title>
-        <id>https://playcode.io/</id>
-        <link href="https://playcode.io/"/>
-        <updated>2022-08-01T01:28:25.274Z</updated>
-        <content type="html"><![CDATA[(playcode.io)]]></content>
     </entry>
 </feed>
