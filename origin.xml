@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-03T18:19:47.737Z</updated>
+    <updated>2022-08-03T19:13:05.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
-        <id>https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c</id>
-        <link href="https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c"/>
-        <updated>2022-08-03T09:14:07.112Z</updated>
-        <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
         <id>https://github.com/tabler/tabler</id>
         <link href="https://github.com/tabler/tabler"/>
         <updated>2022-08-03T01:25:21.085Z</updated>
         <content type="html"><![CDATA[(github.com/tabler)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
+        <id>https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c</id>
+        <link href="https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c"/>
+        <updated>2022-08-03T09:14:07.112Z</updated>
+        <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(github.com/inkeliz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
-        <id>https://ugong2san.tistory.com/4496</id>
-        <link href="https://ugong2san.tistory.com/4496"/>
-        <updated>2022-08-03T03:51:54.500Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
         <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
@@ -62,25 +55,18 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
+        <id>https://ugong2san.tistory.com/4496</id>
+        <link href="https://ugong2san.tistory.com/4496"/>
+        <updated>2022-08-03T03:51:54.500Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
         <id>https://github.com/asg017/sqlite-lines</id>
         <link href="https://github.com/asg017/sqlite-lines"/>
         <updated>2022-08-03T01:25:21.102Z</updated>
         <content type="html"><![CDATA[(github.com/asg017)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
-        <id>https://www.repotrends.com/</id>
-        <link href="https://www.repotrends.com/"/>
-        <updated>2022-08-03T01:25:21.091Z</updated>
-        <content type="html"><![CDATA[(repotrends.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notable people - 우리 지역의 유명인사]]></title>
-        <id>https://tjukanovt.github.io/notable-people</id>
-        <link href="https://tjukanovt.github.io/notable-people"/>
-        <updated>2022-08-03T01:25:21.100Z</updated>
-        <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[좋은 개발자 경험]]></title>
@@ -95,6 +81,20 @@
         <link href="https://chunk.run/"/>
         <updated>2022-08-02T01:29:20.496Z</updated>
         <content type="html"><![CDATA[(chunk.run)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
+        <id>https://www.repotrends.com/</id>
+        <link href="https://www.repotrends.com/"/>
+        <updated>2022-08-03T01:25:21.091Z</updated>
+        <content type="html"><![CDATA[(repotrends.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notable people - 우리 지역의 유명인사]]></title>
+        <id>https://tjukanovt.github.io/notable-people</id>
+        <link href="https://tjukanovt.github.io/notable-people"/>
+        <updated>2022-08-03T01:25:21.100Z</updated>
+        <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
