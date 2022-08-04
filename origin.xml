@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-04T06:21:24.193Z</updated>
+    <updated>2022-08-04T07:14:09.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(github.com/moyix)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
-        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
-        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
-        <updated>2022-08-04T01:24:24.149Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
         <id>https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c</id>
         <link href="https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c"/>
@@ -41,18 +34,18 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
-        <id>https://github.com/serverless-dns/serverless-dns</id>
-        <link href="https://github.com/serverless-dns/serverless-dns"/>
-        <updated>2022-08-04T01:24:24.154Z</updated>
-        <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
+        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
+        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
+        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
+        <updated>2022-08-04T01:24:24.149Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
-        <id>https://github.com/tabler/tabler</id>
-        <link href="https://github.com/tabler/tabler"/>
-        <updated>2022-08-03T01:25:21.085Z</updated>
-        <content type="html"><![CDATA[(github.com/tabler)]]></content>
+        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
+        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
+        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
+        <updated>2022-08-04T07:13:35.865Z</updated>
+        <content type="html"><![CDATA[(secondstate.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KHTML과 WebKit 프로젝트의 시작]]></title>
@@ -62,11 +55,25 @@
         <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
+        <id>https://github.com/tabler/tabler</id>
+        <link href="https://github.com/tabler/tabler"/>
+        <updated>2022-08-03T01:25:21.085Z</updated>
+        <content type="html"><![CDATA[(github.com/tabler)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
         <id>https://codecatalog.org/</id>
         <link href="https://codecatalog.org/"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
+        <id>https://github.com/serverless-dns/serverless-dns</id>
+        <link href="https://github.com/serverless-dns/serverless-dns"/>
+        <updated>2022-08-04T01:24:24.154Z</updated>
+        <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게임 데이터로 인과 추론 분석하기]]></title>
@@ -111,6 +118,13 @@
         <content type="html"><![CDATA[(repotrends.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
+        <id>https://chunk.run/</id>
+        <link href="https://chunk.run/"/>
+        <updated>2022-08-02T01:29:20.496Z</updated>
+        <content type="html"><![CDATA[(chunk.run)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
         <id>https://github.com/asg017/sqlite-lines</id>
         <link href="https://github.com/asg017/sqlite-lines"/>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
-        <id>https://chunk.run/</id>
-        <link href="https://chunk.run/"/>
-        <updated>2022-08-02T01:29:20.496Z</updated>
-        <content type="html"><![CDATA[(chunk.run)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
         <id>https://github.com/cremich/cdk-bill-bot</id>
         <link href="https://github.com/cremich/cdk-bill-bot"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(github.com/cremich)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notable people - 우리 지역의 유명인사]]></title>
-        <id>https://tjukanovt.github.io/notable-people</id>
-        <link href="https://tjukanovt.github.io/notable-people"/>
-        <updated>2022-08-04T06:20:50.498Z</updated>
-        <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
     </entry>
 </feed>
