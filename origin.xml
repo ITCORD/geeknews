@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-04T21:18:58.147Z</updated>
+    <updated>2022-08-04T22:20:28.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KHTML과 WebKit 프로젝트의 시작]]></title>
-        <id>https://joone.net/2022/08/02/44-khtml/</id>
-        <link href="https://joone.net/2022/08/02/44-khtml/"/>
-        <updated>2022-08-04T05:28:25.410Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
         <id>https://codecatalog.org/</id>
         <link href="https://codecatalog.org/"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KHTML과 WebKit 프로젝트의 시작]]></title>
+        <id>https://joone.net/2022/08/02/44-khtml/</id>
+        <link href="https://joone.net/2022/08/02/44-khtml/"/>
+        <updated>2022-08-04T05:28:25.410Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
-        <id>https://github.com/tabler/tabler</id>
-        <link href="https://github.com/tabler/tabler"/>
-        <updated>2022-08-03T01:25:21.085Z</updated>
-        <content type="html"><![CDATA[(github.com/tabler)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
         <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
@@ -76,11 +69,25 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
+        <id>https://github.com/tabler/tabler</id>
+        <link href="https://github.com/tabler/tabler"/>
+        <updated>2022-08-03T01:25:21.085Z</updated>
+        <content type="html"><![CDATA[(github.com/tabler)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[게임 데이터로 인과 추론 분석하기]]></title>
         <id>https://ugong2san.tistory.com/4421</id>
         <link href="https://ugong2san.tistory.com/4421"/>
         <updated>2022-08-03T01:25:21.109Z</updated>
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
+        <id>https://developerexperience.io/practices/good-developer-experience</id>
+        <link href="https://developerexperience.io/practices/good-developer-experience"/>
+        <updated>2022-08-01T04:02:57.842Z</updated>
+        <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
@@ -95,13 +102,6 @@
         <link href="https://github.com/nedlir/OfficerBreaker"/>
         <updated>2022-08-03T01:25:21.085Z</updated>
         <content type="html"><![CDATA[(github.com/nedlir)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
-        <id>https://developerexperience.io/practices/good-developer-experience</id>
-        <link href="https://developerexperience.io/practices/good-developer-experience"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷]]></title>
