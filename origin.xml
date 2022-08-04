@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-04T22:20:28.214Z</updated>
+    <updated>2022-08-04T23:15:06.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
+        <id>https://github.com/android/ndk/issues/1742</id>
+        <link href="https://github.com/android/ndk/issues/1742"/>
+        <updated>2022-08-04T23:14:31.337Z</updated>
+        <content type="html"><![CDATA[(github.com/android)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
         <id>https://www.tree.fm/</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
-        <id>https://codecatalog.org/</id>
-        <link href="https://codecatalog.org/"/>
-        <updated>2022-08-02T04:02:17.633Z</updated>
-        <content type="html"><![CDATA[(codecatalog.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KHTML과 WebKit 프로젝트의 시작]]></title>
         <id>https://joone.net/2022/08/02/44-khtml/</id>
         <link href="https://joone.net/2022/08/02/44-khtml/"/>
         <updated>2022-08-04T05:28:25.410Z</updated>
         <content type="html"><![CDATA[(joone.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
+        <id>https://codecatalog.org/</id>
+        <link href="https://codecatalog.org/"/>
+        <updated>2022-08-02T04:02:17.633Z</updated>
+        <content type="html"><![CDATA[(codecatalog.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
-        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
-        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
-        <updated>2022-08-04T01:24:24.149Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Officer Breaker - 워드/엑셀/파워포인트 파일의 편집 방지 암호 제거기]]></title>
         <id>https://github.com/nedlir/OfficerBreaker</id>
         <link href="https://github.com/nedlir/OfficerBreaker"/>
         <updated>2022-08-03T01:25:21.085Z</updated>
         <content type="html"><![CDATA[(github.com/nedlir)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
+        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
+        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
+        <updated>2022-08-04T01:24:24.149Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷]]></title>
@@ -130,13 +137,6 @@
         <link href="https://www.repotrends.com/"/>
         <updated>2022-08-03T01:25:21.091Z</updated>
         <content type="html"><![CDATA[(repotrends.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
-        <id>https://github.com/asg017/sqlite-lines</id>
-        <link href="https://github.com/asg017/sqlite-lines"/>
-        <updated>2022-08-03T01:25:21.102Z</updated>
-        <content type="html"><![CDATA[(github.com/asg017)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
