@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-04T03:25:16.307Z</updated>
+    <updated>2022-08-04T04:41:15.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.tree.fm/"/>
         <updated>2022-08-04T01:24:24.144Z</updated>
         <content type="html"><![CDATA[(tree.fm)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Textual - 파이썬용 TUI 프레임워크]]></title>
+        <id>https://github.com/Textualize/textual</id>
+        <link href="https://github.com/Textualize/textual"/>
+        <updated>2022-08-04T01:24:24.148Z</updated>
+        <content type="html"><![CDATA[(github.com/Textualize)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
@@ -48,20 +55,6 @@
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Textual - 파이썬용 TUI 프레임워크]]></title>
-        <id>https://github.com/Textualize/textual</id>
-        <link href="https://github.com/Textualize/textual"/>
-        <updated>2022-08-04T01:24:24.148Z</updated>
-        <content type="html"><![CDATA[(github.com/Textualize)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
-        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
-        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
-        <updated>2022-08-04T01:24:24.149Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Officer Breaker - 워드/엑셀/파워포인트 파일의 편집 방지 암호 제거기]]></title>
         <id>https://github.com/nedlir/OfficerBreaker</id>
         <link href="https://github.com/nedlir/OfficerBreaker"/>
@@ -74,6 +67,13 @@
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
         <updated>2022-08-01T04:02:57.842Z</updated>
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
+        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
+        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
+        <updated>2022-08-04T01:24:24.149Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷]]></title>
@@ -90,6 +90,20 @@
         <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
+        <id>https://www.repotrends.com/</id>
+        <link href="https://www.repotrends.com/"/>
+        <updated>2022-08-03T01:25:21.091Z</updated>
+        <content type="html"><![CDATA[(repotrends.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
+        <id>https://developerexperience.io/practices/good-developer-experience</id>
+        <link href="https://developerexperience.io/practices/good-developer-experience"/>
+        <updated>2022-08-01T04:02:57.842Z</updated>
+        <content type="html"><![CDATA[(developerexperience.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
         <id>https://github.com/asg017/sqlite-lines</id>
         <link href="https://github.com/asg017/sqlite-lines"/>
@@ -102,20 +116,6 @@
         <link href="https://ugong2san.tistory.com/4496"/>
         <updated>2022-08-03T03:51:54.500Z</updated>
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
-        <id>https://developerexperience.io/practices/good-developer-experience</id>
-        <link href="https://developerexperience.io/practices/good-developer-experience"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(developerexperience.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
-        <id>https://www.repotrends.com/</id>
-        <link href="https://www.repotrends.com/"/>
-        <updated>2022-08-03T01:25:21.091Z</updated>
-        <content type="html"><![CDATA[(repotrends.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
