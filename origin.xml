@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-04T20:20:13.212Z</updated>
+    <updated>2022-08-04T21:18:58.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
+        <id>https://codecatalog.org/</id>
+        <link href="https://codecatalog.org/"/>
+        <updated>2022-08-02T04:02:17.633Z</updated>
+        <content type="html"><![CDATA[(codecatalog.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
         <id>https://github.com/moyix/fauxpilot</id>
         <link href="https://github.com/moyix/fauxpilot"/>
@@ -53,13 +60,6 @@
         <link href="https://github.com/serverless-dns/serverless-dns"/>
         <updated>2022-08-04T01:24:24.154Z</updated>
         <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
-        <id>https://codecatalog.org/</id>
-        <link href="https://codecatalog.org/"/>
-        <updated>2022-08-02T04:02:17.633Z</updated>
-        <content type="html"><![CDATA[(codecatalog.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
