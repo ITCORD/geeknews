@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T06:19:46.267Z</updated>
+    <updated>2022-08-05T07:14:26.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/"/>
         <updated>2022-08-05T01:24:54.569Z</updated>
         <content type="html"><![CDATA[(blog.blether.chat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
+        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
+        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
+        <updated>2022-08-05T05:30:34.853Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
@@ -53,13 +60,6 @@
         <link href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"/>
         <updated>2022-08-05T01:24:54.597Z</updated>
         <content type="html"><![CDATA[(djangoproject.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
-        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
-        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
-        <updated>2022-08-05T05:30:34.853Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
