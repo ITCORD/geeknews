@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T04:43:17.235Z</updated>
+    <updated>2022-08-05T05:31:13.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
-        <id>https://github.com/android/ndk/issues/1742</id>
-        <link href="https://github.com/android/ndk/issues/1742"/>
-        <updated>2022-08-05T01:24:54.596Z</updated>
-        <content type="html"><![CDATA[(github.com/android)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitch, 한국에서 P2P 기술 테스트 시작.]]></title>
         <id>https://help.twitch.tv/s/article/p2p-faq?language=ko</id>
         <link href="https://help.twitch.tv/s/article/p2p-faq?language=ko"/>
         <updated>2022-08-05T01:24:54.571Z</updated>
         <content type="html"><![CDATA[(help.twitch.tv)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
+        <id>https://github.com/android/ndk/issues/1742</id>
+        <link href="https://github.com/android/ndk/issues/1742"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(github.com/android)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페북/메타를 떠나는 것이 Trino 커뮤니티에 최선이었던 이유]]></title>
@@ -53,6 +53,13 @@
         <link href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"/>
         <updated>2022-08-05T01:24:54.597Z</updated>
         <content type="html"><![CDATA[(djangoproject.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
+        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
+        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
+        <updated>2022-08-05T05:30:34.853Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
@@ -111,18 +118,18 @@
         <content type="html"><![CDATA[(github.com/moyix)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
-        <id>https://github.com/serverless-dns/serverless-dns</id>
-        <link href="https://github.com/serverless-dns/serverless-dns"/>
-        <updated>2022-08-04T01:24:24.154Z</updated>
-        <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
         <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
         <updated>2022-08-01T04:02:57.842Z</updated>
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
+        <id>https://github.com/serverless-dns/serverless-dns</id>
+        <link href="https://github.com/serverless-dns/serverless-dns"/>
+        <updated>2022-08-04T01:24:24.154Z</updated>
+        <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
@@ -137,12 +144,5 @@
         <link href="https://ugong2san.tistory.com/4421"/>
         <updated>2022-08-03T01:25:21.109Z</updated>
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
-        <id>https://developerexperience.io/practices/good-developer-experience</id>
-        <link href="https://developerexperience.io/practices/good-developer-experience"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
 </feed>
