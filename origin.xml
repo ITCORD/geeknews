@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T14:15:55.592Z</updated>
+    <updated>2022-08-05T15:16:46.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(github.com/android)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토스는 이렇게 시작했습니다]]></title>
-        <id>https://ugong2san.tistory.com/4514</id>
-        <link href="https://ugong2san.tistory.com/4514"/>
-        <updated>2022-08-05T14:15:22.697Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Django 4.1 릴리즈]]></title>
         <id>https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/</id>
         <link href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"/>
@@ -67,6 +60,13 @@
         <link href="https://www.electronjs.org/blog/electron-20-0"/>
         <updated>2022-08-05T01:24:54.596Z</updated>
         <content type="html"><![CDATA[(electronjs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토스는 이렇게 시작했습니다]]></title>
+        <id>https://ugong2san.tistory.com/4514</id>
+        <link href="https://ugong2san.tistory.com/4514"/>
+        <updated>2022-08-05T14:15:22.697Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
-        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
-        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
-        <updated>2022-08-04T07:13:35.865Z</updated>
-        <content type="html"><![CDATA[(secondstate.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
         <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
@@ -111,11 +104,11 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
-        <id>https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html</id>
-        <link href="https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html"/>
-        <updated>2022-08-05T01:24:54.596Z</updated>
-        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
+        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
+        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
+        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
+        <updated>2022-08-04T07:13:35.865Z</updated>
+        <content type="html"><![CDATA[(secondstate.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
@@ -130,6 +123,13 @@
         <link href="https://github.com/moyix/fauxpilot"/>
         <updated>2022-08-04T01:24:24.144Z</updated>
         <content type="html"><![CDATA[(github.com/moyix)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
+        <id>https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html</id>
+        <link href="https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
