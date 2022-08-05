@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T17:25:11.636Z</updated>
+    <updated>2022-08-05T18:19:23.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(electronjs.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토스는 이렇게 시작했습니다]]></title>
-        <id>https://ugong2san.tistory.com/4514</id>
-        <link href="https://ugong2san.tistory.com/4514"/>
-        <updated>2022-08-05T14:15:22.697Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
         <id>https://www.tree.fm/</id>
         <link href="https://www.tree.fm/"/>
         <updated>2022-08-04T01:24:24.144Z</updated>
         <content type="html"><![CDATA[(tree.fm)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토스는 이렇게 시작했습니다]]></title>
+        <id>https://ugong2san.tistory.com/4514</id>
+        <link href="https://ugong2san.tistory.com/4514"/>
+        <updated>2022-08-05T14:15:22.697Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(secondstate.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
-        <id>https://joone.net/2022/08/02/44-khtml/</id>
-        <link href="https://joone.net/2022/08/02/44-khtml/"/>
-        <updated>2022-08-04T05:28:25.410Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
         <id>https://github.com/moyix/fauxpilot</id>
         <link href="https://github.com/moyix/fauxpilot"/>
@@ -125,18 +118,25 @@
         <content type="html"><![CDATA[(github.com/moyix)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
-        <id>https://github.com/tabler/tabler</id>
-        <link href="https://github.com/tabler/tabler"/>
-        <updated>2022-08-03T01:25:21.085Z</updated>
-        <content type="html"><![CDATA[(github.com/tabler)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
         <id>https://github.com/serverless-dns/serverless-dns</id>
         <link href="https://github.com/serverless-dns/serverless-dns"/>
         <updated>2022-08-04T01:24:24.154Z</updated>
         <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
+        <id>https://joone.net/2022/08/02/44-khtml/</id>
+        <link href="https://joone.net/2022/08/02/44-khtml/"/>
+        <updated>2022-08-04T05:28:25.410Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
+        <id>https://github.com/tabler/tabler</id>
+        <link href="https://github.com/tabler/tabler"/>
+        <updated>2022-08-03T01:25:21.085Z</updated>
+        <content type="html"><![CDATA[(github.com/tabler)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
