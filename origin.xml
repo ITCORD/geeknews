@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T15:16:46.838Z</updated>
+    <updated>2022-08-05T16:22:34.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(blog.blether.chat)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
+        <id>https://github.com/android/ndk/issues/1742</id>
+        <link href="https://github.com/android/ndk/issues/1742"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(github.com/android)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
         <id>https://go.dev/doc/go1.19</id>
         <link href="https://go.dev/doc/go1.19"/>
@@ -32,13 +39,6 @@
         <link href="https://help.twitch.tv/s/article/p2p-faq?language=ko"/>
         <updated>2022-08-05T01:24:54.571Z</updated>
         <content type="html"><![CDATA[(help.twitch.tv)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
-        <id>https://github.com/android/ndk/issues/1742</id>
-        <link href="https://github.com/android/ndk/issues/1742"/>
-        <updated>2022-08-05T01:24:54.596Z</updated>
-        <content type="html"><![CDATA[(github.com/android)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Django 4.1 릴리즈]]></title>
