@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T07:14:26.945Z</updated>
+    <updated>2022-08-05T08:19:34.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/"/>
         <updated>2022-08-05T01:24:54.569Z</updated>
         <content type="html"><![CDATA[(blog.blether.chat)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
-        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
-        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
-        <updated>2022-08-05T05:30:34.853Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
@@ -39,6 +32,13 @@
         <link href="https://github.com/android/ndk/issues/1742"/>
         <updated>2022-08-05T01:24:54.596Z</updated>
         <content type="html"><![CDATA[(github.com/android)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
+        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
+        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
+        <updated>2022-08-05T05:30:34.853Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페북/메타를 떠나는 것이 Trino 커뮤니티에 최선이었던 이유]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(github.com/Textualize)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
-        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
-        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
-        <updated>2022-08-04T07:13:35.865Z</updated>
-        <content type="html"><![CDATA[(secondstate.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
         <id>https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c</id>
         <link href="https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c"/>
@@ -97,11 +90,11 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
-        <id>https://joone.net/2022/08/02/44-khtml/</id>
-        <link href="https://joone.net/2022/08/02/44-khtml/"/>
-        <updated>2022-08-04T05:28:25.410Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
+        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
+        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
+        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
+        <updated>2022-08-04T07:13:35.865Z</updated>
+        <content type="html"><![CDATA[(secondstate.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
@@ -109,6 +102,13 @@
         <link href="https://codecatalog.org/"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
+        <id>https://joone.net/2022/08/02/44-khtml/</id>
+        <link href="https://joone.net/2022/08/02/44-khtml/"/>
+        <updated>2022-08-04T05:28:25.410Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
