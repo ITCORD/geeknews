@@ -2,15 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-04T23:15:06.033Z</updated>
+    <updated>2022-08-05T01:25:27.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예제로 배우는 GDPR - 개발자용]]></title>
+        <id>https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/</id>
+        <link href="https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/"/>
+        <updated>2022-08-05T01:24:54.569Z</updated>
+        <content type="html"><![CDATA[(blog.blether.chat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
+        <id>https://go.dev/doc/go1.19</id>
+        <link href="https://go.dev/doc/go1.19"/>
+        <updated>2022-08-05T01:24:54.570Z</updated>
+        <content type="html"><![CDATA[(go.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitch, 한국에서 P2P 기술 테스트 시작.]]></title>
+        <id>https://help.twitch.tv/s/article/p2p-faq?language=ko</id>
+        <link href="https://help.twitch.tv/s/article/p2p-faq?language=ko"/>
+        <updated>2022-08-05T01:24:54.571Z</updated>
+        <content type="html"><![CDATA[(help.twitch.tv)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 20.0.0 | Electron]]></title>
+        <id>https://www.electronjs.org/blog/electron-20-0</id>
+        <link href="https://www.electronjs.org/blog/electron-20-0"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(electronjs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페북/메타를 떠나는 것이 Trino 커뮤니티에 최선이었던 이유]]></title>
+        <id>https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html</id>
+        <link href="https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(trino.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
         <id>https://github.com/android/ndk/issues/1742</id>
         <link href="https://github.com/android/ndk/issues/1742"/>
-        <updated>2022-08-04T23:14:31.337Z</updated>
+        <updated>2022-08-05T01:24:54.596Z</updated>
         <content type="html"><![CDATA[(github.com/android)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
+        <id>https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html</id>
+        <link href="https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django 4.1 릴리즈]]></title>
+        <id>https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/</id>
+        <link href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"/>
+        <updated>2022-08-05T01:24:54.597Z</updated>
+        <content type="html"><![CDATA[(djangoproject.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
@@ -41,11 +90,11 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KHTML과 WebKit 프로젝트의 시작]]></title>
-        <id>https://joone.net/2022/08/02/44-khtml/</id>
-        <link href="https://joone.net/2022/08/02/44-khtml/"/>
-        <updated>2022-08-04T05:28:25.410Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
+        <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
+        <id>https://github.com/moyix/fauxpilot</id>
+        <link href="https://github.com/moyix/fauxpilot"/>
+        <updated>2022-08-04T01:24:24.144Z</updated>
+        <content type="html"><![CDATA[(github.com/moyix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
@@ -53,13 +102,6 @@
         <link href="https://codecatalog.org/"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
-        <id>https://github.com/moyix/fauxpilot</id>
-        <link href="https://github.com/moyix/fauxpilot"/>
-        <updated>2022-08-04T01:24:24.144Z</updated>
-        <content type="html"><![CDATA[(github.com/moyix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
@@ -74,6 +116,13 @@
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
         <updated>2022-08-01T04:02:57.842Z</updated>
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KHTML과 WebKit 프로젝트의 시작]]></title>
+        <id>https://joone.net/2022/08/02/44-khtml/</id>
+        <link href="https://joone.net/2022/08/02/44-khtml/"/>
+        <updated>2022-08-04T05:28:25.410Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
@@ -95,54 +144,5 @@
         <link href="https://developerexperience.io/practices/good-developer-experience"/>
         <updated>2022-08-01T04:02:57.842Z</updated>
         <content type="html"><![CDATA[(developerexperience.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Officer Breaker - 워드/엑셀/파워포인트 파일의 편집 방지 암호 제거기]]></title>
-        <id>https://github.com/nedlir/OfficerBreaker</id>
-        <link href="https://github.com/nedlir/OfficerBreaker"/>
-        <updated>2022-08-03T01:25:21.085Z</updated>
-        <content type="html"><![CDATA[(github.com/nedlir)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
-        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
-        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
-        <updated>2022-08-04T01:24:24.149Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷]]></title>
-        <id>https://github.com/inkeliz/karmem</id>
-        <link href="https://github.com/inkeliz/karmem"/>
-        <updated>2022-08-03T01:25:21.090Z</updated>
-        <content type="html"><![CDATA[(github.com/inkeliz)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
-        <id>https://chunk.run/</id>
-        <link href="https://chunk.run/"/>
-        <updated>2022-08-02T01:29:20.496Z</updated>
-        <content type="html"><![CDATA[(chunk.run)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
-        <id>https://ugong2san.tistory.com/4496</id>
-        <link href="https://ugong2san.tistory.com/4496"/>
-        <updated>2022-08-03T03:51:54.500Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
-        <id>https://www.repotrends.com/</id>
-        <link href="https://www.repotrends.com/"/>
-        <updated>2022-08-03T01:25:21.091Z</updated>
-        <content type="html"><![CDATA[(repotrends.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
-        <id>https://github.com/cremich/cdk-bill-bot</id>
-        <link href="https://github.com/cremich/cdk-bill-bot"/>
-        <updated>2022-08-02T04:02:17.633Z</updated>
-        <content type="html"><![CDATA[(github.com/cremich)]]></content>
     </entry>
 </feed>
