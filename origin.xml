@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T09:16:05.534Z</updated>
+    <updated>2022-08-05T10:17:21.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(github.com/Textualize)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
-        <id>https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html</id>
-        <link href="https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html"/>
-        <updated>2022-08-05T01:24:54.596Z</updated>
-        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
         <id>https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c</id>
         <link href="https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c"/>
@@ -90,11 +83,11 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
-        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
-        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
-        <updated>2022-08-04T07:13:35.865Z</updated>
-        <content type="html"><![CDATA[(secondstate.io)]]></content>
+        <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
+        <id>https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html</id>
+        <link href="https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
@@ -104,18 +97,18 @@
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
+        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
+        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
+        <updated>2022-08-04T07:13:35.865Z</updated>
+        <content type="html"><![CDATA[(secondstate.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
         <id>https://joone.net/2022/08/02/44-khtml/</id>
         <link href="https://joone.net/2022/08/02/44-khtml/"/>
         <updated>2022-08-04T05:28:25.410Z</updated>
         <content type="html"><![CDATA[(joone.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
-        <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
-        <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
-        <updated>2022-08-01T04:02:57.842Z</updated>
-        <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
@@ -125,11 +118,11 @@
         <content type="html"><![CDATA[(github.com/moyix)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
-        <id>https://github.com/serverless-dns/serverless-dns</id>
-        <link href="https://github.com/serverless-dns/serverless-dns"/>
-        <updated>2022-08-04T01:24:24.154Z</updated>
-        <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
+        <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
+        <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
+        <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
+        <updated>2022-08-01T04:02:57.842Z</updated>
+        <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
@@ -137,6 +130,13 @@
         <link href="https://github.com/tabler/tabler"/>
         <updated>2022-08-03T01:25:21.085Z</updated>
         <content type="html"><![CDATA[(github.com/tabler)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
+        <id>https://github.com/serverless-dns/serverless-dns</id>
+        <link href="https://github.com/serverless-dns/serverless-dns"/>
+        <updated>2022-08-04T01:24:24.154Z</updated>
+        <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게임 데이터로 인과 추론 분석하기]]></title>
