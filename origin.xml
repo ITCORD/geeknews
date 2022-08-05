@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T18:19:23.006Z</updated>
+    <updated>2022-08-05T19:14:03.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[예제로 배우는 GDPR - 개발자용]]></title>
-        <id>https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/</id>
-        <link href="https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/"/>
-        <updated>2022-08-05T01:24:54.569Z</updated>
-        <content type="html"><![CDATA[(blog.blether.chat)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
         <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
         <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
         <updated>2022-08-05T05:30:34.853Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예제로 배우는 GDPR - 개발자용]]></title>
+        <id>https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/</id>
+        <link href="https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/"/>
+        <updated>2022-08-05T01:24:54.569Z</updated>
+        <content type="html"><![CDATA[(blog.blether.chat)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[(secondstate.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
+        <id>https://joone.net/2022/08/02/44-khtml/</id>
+        <link href="https://joone.net/2022/08/02/44-khtml/"/>
+        <updated>2022-08-04T05:28:25.410Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
         <id>https://github.com/moyix/fauxpilot</id>
         <link href="https://github.com/moyix/fauxpilot"/>
@@ -123,13 +130,6 @@
         <link href="https://github.com/serverless-dns/serverless-dns"/>
         <updated>2022-08-04T01:24:24.154Z</updated>
         <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
-        <id>https://joone.net/2022/08/02/44-khtml/</id>
-        <link href="https://joone.net/2022/08/02/44-khtml/"/>
-        <updated>2022-08-04T05:28:25.410Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
