@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-06T06:18:10.118Z</updated>
+    <updated>2022-08-06T07:15:03.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(blog.blether.chat)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ASUS Zenbook 17 Fold OLED 발표]]></title>
+        <id>https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/</id>
+        <link href="https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/"/>
+        <updated>2022-08-06T01:12:14.485Z</updated>
+        <content type="html"><![CDATA[(asus.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
         <id>https://go.dev/doc/go1.19</id>
         <link href="https://go.dev/doc/go1.19"/>
@@ -55,18 +62,11 @@
         <content type="html"><![CDATA[(electronjs.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASUS Zenbook 17 Fold OLED 발표]]></title>
-        <id>https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/</id>
-        <link href="https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/"/>
-        <updated>2022-08-06T01:12:14.485Z</updated>
-        <content type="html"><![CDATA[(asus.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존, 로봇청소기 iRobot(Roomba) 2.2조원에 인수]]></title>
-        <id>https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html</id>
-        <link href="https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"/>
-        <updated>2022-08-06T01:12:14.485Z</updated>
-        <content type="html"><![CDATA[(cnbc.com)]]></content>
+        <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
+        <id>https://www.tree.fm/</id>
+        <link href="https://www.tree.fm/"/>
+        <updated>2022-08-04T01:24:24.144Z</updated>
+        <content type="html"><![CDATA[(tree.fm)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(github.com/android)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
-        <id>https://www.tree.fm/</id>
-        <link href="https://www.tree.fm/"/>
-        <updated>2022-08-04T01:24:24.144Z</updated>
-        <content type="html"><![CDATA[(tree.fm)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Django 4.1 릴리즈]]></title>
         <id>https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/</id>
         <link href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"/>
         <updated>2022-08-05T01:24:54.597Z</updated>
         <content type="html"><![CDATA[(djangoproject.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, 로봇청소기 iRobot(Roomba) 2.2조원에 인수]]></title>
+        <id>https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html</id>
+        <link href="https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"/>
+        <updated>2022-08-06T01:12:14.485Z</updated>
+        <content type="html"><![CDATA[(cnbc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitch, 한국에서 P2P 기술 테스트 시작.]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com/Textualize)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
-        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
-        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
-        <updated>2022-08-04T07:13:35.865Z</updated>
-        <content type="html"><![CDATA[(secondstate.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
         <id>https://github.com/tabler/tabler</id>
         <link href="https://github.com/tabler/tabler"/>
         <updated>2022-08-06T06:17:37.583Z</updated>
         <content type="html"><![CDATA[(github.com/tabler)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
+        <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
+        <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
+        <updated>2022-08-04T07:13:35.865Z</updated>
+        <content type="html"><![CDATA[(secondstate.io)]]></content>
     </entry>
 </feed>
