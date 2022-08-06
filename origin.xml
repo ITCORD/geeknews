@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-06T07:15:03.573Z</updated>
+    <updated>2022-08-06T08:18:32.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(brunch.co.kr/@nutilde)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Weights & Biases - 머신러닝 실험 시각화 & 트래킹 도구]]></title>
-        <id>https://github.com/wandb/wandb</id>
-        <link href="https://github.com/wandb/wandb"/>
-        <updated>2022-08-06T01:12:14.485Z</updated>
-        <content type="html"><![CDATA[(github.com/wandb)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
         <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
         <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
         <updated>2022-08-05T05:30:34.853Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weights & Biases - 머신러닝 실험 시각화 & 트래킹 도구]]></title>
+        <id>https://github.com/wandb/wandb</id>
+        <link href="https://github.com/wandb/wandb"/>
+        <updated>2022-08-06T01:12:14.485Z</updated>
+        <content type="html"><![CDATA[(github.com/wandb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예제로 배우는 GDPR - 개발자용]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(djangoproject.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, 로봇청소기 iRobot(Roomba) 2.2조원에 인수]]></title>
-        <id>https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html</id>
-        <link href="https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"/>
-        <updated>2022-08-06T01:12:14.485Z</updated>
-        <content type="html"><![CDATA[(cnbc.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitch, 한국에서 P2P 기술 테스트 시작.]]></title>
         <id>https://help.twitch.tv/s/article/p2p-faq?language=ko</id>
         <link href="https://help.twitch.tv/s/article/p2p-faq?language=ko"/>
@@ -102,6 +95,13 @@
         <link href="https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html"/>
         <updated>2022-08-05T01:24:54.596Z</updated>
         <content type="html"><![CDATA[(trino.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, 로봇청소기 iRobot(Roomba) 2.2조원에 인수]]></title>
+        <id>https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html</id>
+        <link href="https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"/>
+        <updated>2022-08-06T01:12:14.485Z</updated>
+        <content type="html"><![CDATA[(cnbc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
