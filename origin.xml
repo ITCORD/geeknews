@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-06T04:21:38.706Z</updated>
+    <updated>2022-08-06T05:13:57.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(blog.blether.chat)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
+        <id>https://go.dev/doc/go1.19</id>
+        <link href="https://go.dev/doc/go1.19"/>
+        <updated>2022-08-05T01:24:54.570Z</updated>
+        <content type="html"><![CDATA[(go.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ASUS Zenbook 17 Fold OLED 발표]]></title>
         <id>https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/</id>
         <link href="https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/"/>
@@ -53,13 +60,6 @@
         <link href="https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"/>
         <updated>2022-08-06T01:12:14.485Z</updated>
         <content type="html"><![CDATA[(cnbc.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
-        <id>https://go.dev/doc/go1.19</id>
-        <link href="https://go.dev/doc/go1.19"/>
-        <updated>2022-08-05T01:24:54.570Z</updated>
-        <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electron 20.0.0 | Electron]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(secondstate.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
-        <id>https://github.com/tabler/tabler</id>
-        <link href="https://github.com/tabler/tabler"/>
-        <updated>2022-08-03T01:25:21.085Z</updated>
-        <content type="html"><![CDATA[(github.com/tabler)]]></content>
+        <title type="html"><![CDATA[만화로 보는 KHTML과 WebKit 프로젝트의 시작]]></title>
+        <id>https://joone.net/2022/08/02/44-khtml/</id>
+        <link href="https://joone.net/2022/08/02/44-khtml/"/>
+        <updated>2022-08-06T05:13:23.760Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
 </feed>
