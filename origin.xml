@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-06T11:12:32.111Z</updated>
+    <updated>2022-08-06T12:24:43.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(asus.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, 로봇청소기 iRobot(Roomba) 2.2조원에 인수]]></title>
-        <id>https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html</id>
-        <link href="https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"/>
-        <updated>2022-08-06T01:12:14.485Z</updated>
-        <content type="html"><![CDATA[(cnbc.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
         <id>https://go.dev/doc/go1.19</id>
         <link href="https://go.dev/doc/go1.19"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron 20.0.0 | Electron]]></title>
-        <id>https://www.electronjs.org/blog/electron-20-0</id>
-        <link href="https://www.electronjs.org/blog/electron-20-0"/>
-        <updated>2022-08-05T01:24:54.596Z</updated>
-        <content type="html"><![CDATA[(electronjs.org)]]></content>
+        <title type="html"><![CDATA[아마존, 로봇청소기 iRobot(Roomba) 2.2조원에 인수]]></title>
+        <id>https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html</id>
+        <link href="https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"/>
+        <updated>2022-08-06T01:12:14.485Z</updated>
+        <content type="html"><![CDATA[(cnbc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
@@ -74,6 +67,13 @@
         <link href="https://www.tree.fm/"/>
         <updated>2022-08-04T01:24:24.144Z</updated>
         <content type="html"><![CDATA[(tree.fm)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 20.0.0 | Electron]]></title>
+        <id>https://www.electronjs.org/blog/electron-20-0</id>
+        <link href="https://www.electronjs.org/blog/electron-20-0"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(electronjs.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
