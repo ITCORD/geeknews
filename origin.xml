@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-07T19:12:48.406Z</updated>
+    <updated>2022-08-07T20:18:05.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OBS 28.0 Beta 1 - 10비트/HDR 지원, Qt 6, 네이티브 애플 실리콘 지원]]></title>
-        <id>https://github.com/obsproject/obs-studio/releases/tag/28.0.0-beta1</id>
-        <link href="https://github.com/obsproject/obs-studio/releases/tag/28.0.0-beta1"/>
-        <updated>2022-08-07T15:14:28.998Z</updated>
-        <content type="html"><![CDATA[(github.com/obsproject)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TensorDock - 저렴한 GPU 클라우드 ($0.29/hr)]]></title>
         <id>https://www.tensordock.com/</id>
         <link href="https://www.tensordock.com/"/>
         <updated>2022-08-07T01:23:50.604Z</updated>
         <content type="html"><![CDATA[(tensordock.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS 28.0 Beta 1 - 10비트/HDR 지원, Qt 6, 네이티브 애플 실리콘 지원]]></title>
+        <id>https://github.com/obsproject/obs-studio/releases/tag/28.0.0-beta1</id>
+        <link href="https://github.com/obsproject/obs-studio/releases/tag/28.0.0-beta1"/>
+        <updated>2022-08-07T15:14:28.998Z</updated>
+        <content type="html"><![CDATA[(github.com/obsproject)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Weights & Biases - 머신러닝 실험 시각화 & 트래킹 도구]]></title>
