@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-07T06:18:47.689Z</updated>
+    <updated>2022-08-07T07:14:33.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[TensorDock - 저렴한 GPU 클라우드 ($0.29/hr)]]></title>
-        <id>https://www.tensordock.com/</id>
-        <link href="https://www.tensordock.com/"/>
-        <updated>2022-08-07T01:23:50.604Z</updated>
-        <content type="html"><![CDATA[(tensordock.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[GitLab은 직원 노트북에 Microsoft Windows 사용을 금지하고 있음]]></title>
         <id>https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations</id>
         <link href="https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations"/>
         <updated>2022-08-07T01:23:50.604Z</updated>
         <content type="html"><![CDATA[(about.gitlab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensorDock - 저렴한 GPU 클라우드 ($0.29/hr)]]></title>
+        <id>https://www.tensordock.com/</id>
+        <link href="https://www.tensordock.com/"/>
+        <updated>2022-08-07T01:23:50.604Z</updated>
+        <content type="html"><![CDATA[(tensordock.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DreamWorks, 최첨단 MCRT 렌더러 MoonRay를 오픈소스로 공개 예정]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(openmoonray.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[js1024 우승자 발표, 1등은 강성훈님의 epyt]]></title>
-        <id>https://js1024.fun/results/2022</id>
-        <link href="https://js1024.fun/results/2022"/>
-        <updated>2022-08-06T03:17:38.632Z</updated>
-        <content type="html"><![CDATA[(js1024.fun)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[링크드인 2022 인재 트렌드 보고서 총정리]]></title>
         <id>https://brunch.co.kr/@nutilde/22</id>
         <link href="https://brunch.co.kr/@nutilde/22"/>
         <updated>2022-08-06T03:17:38.632Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@nutilde)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[js1024 우승자 발표, 1등은 강성훈님의 epyt]]></title>
+        <id>https://js1024.fun/results/2022</id>
+        <link href="https://js1024.fun/results/2022"/>
+        <updated>2022-08-06T03:17:38.632Z</updated>
+        <content type="html"><![CDATA[(js1024.fun)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Weights & Biases - 머신러닝 실험 시각화 & 트래킹 도구]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASUS Zenbook 17 Fold OLED 발표]]></title>
-        <id>https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/</id>
-        <link href="https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/"/>
-        <updated>2022-08-06T01:12:14.485Z</updated>
-        <content type="html"><![CDATA[(asus.com)]]></content>
+        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
+        <id>https://github.com/android/ndk/issues/1742</id>
+        <link href="https://github.com/android/ndk/issues/1742"/>
+        <updated>2022-08-05T01:24:54.596Z</updated>
+        <content type="html"><![CDATA[(github.com/android)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
@@ -104,18 +104,25 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ASUS Zenbook 17 Fold OLED 발표]]></title>
+        <id>https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/</id>
+        <link href="https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/"/>
+        <updated>2022-08-06T01:12:14.485Z</updated>
+        <content type="html"><![CDATA[(asus.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django 4.1 릴리즈]]></title>
+        <id>https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/</id>
+        <link href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"/>
+        <updated>2022-08-05T01:24:54.597Z</updated>
+        <content type="html"><![CDATA[(djangoproject.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Electron 20.0.0 | Electron]]></title>
         <id>https://www.electronjs.org/blog/electron-20-0</id>
         <link href="https://www.electronjs.org/blog/electron-20-0"/>
         <updated>2022-08-05T01:24:54.596Z</updated>
         <content type="html"><![CDATA[(electronjs.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
-        <id>https://github.com/android/ndk/issues/1742</id>
-        <link href="https://github.com/android/ndk/issues/1742"/>
-        <updated>2022-08-05T01:24:54.596Z</updated>
-        <content type="html"><![CDATA[(github.com/android)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
@@ -130,13 +137,6 @@
         <link href="https://github.com/Textualize/textual"/>
         <updated>2022-08-07T03:21:27.976Z</updated>
         <content type="html"><![CDATA[(github.com/Textualize)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django 4.1 릴리즈]]></title>
-        <id>https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/</id>
-        <link href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"/>
-        <updated>2022-08-05T01:24:54.597Z</updated>
-        <content type="html"><![CDATA[(djangoproject.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitch, 한국에서 P2P 기술 테스트 시작.]]></title>
