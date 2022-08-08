@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-08-07T23:15:10.791Z</updated>
+    <updated>2022-08-08T01:18:57.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
+        <id>https://news.hada.io/weekly/202232</id>
+        <link href="https://news.hada.io/weekly/202232"/>
+        <updated>2022-08-08T01:18:45.332Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">161. </td><td class="fitwidth">202232</td><td width="*">&nbsp;<a href="/weekly/202232" class="u keepall"> 간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 "다시는 SQL로 돌아가지 않을꺼야"]]></title>
         <id>https://news.hada.io/weekly/202231</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202213"/>
         <updated>2022-03-28T01:06:59.289Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">142. </td><td class="fitwidth">202213</td><td width="*">&nbsp;<a href="/weekly/202213" class="u keepall"> 35년간의 뉴스레터 운영에서 얻은 경험들</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
-        <id>https://news.hada.io/weekly/202212</id>
-        <link href="https://news.hada.io/weekly/202212"/>
-        <updated>2022-03-21T00:58:04.968Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">141. </td><td class="fitwidth">202212</td><td width="*">&nbsp;<a href="/weekly/202212" class="u keepall"> 페어 프로그래밍 안티 패턴들</a></td>]]></content>
     </entry>
 </feed>
