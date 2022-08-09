@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-09T12:32:52.514Z</updated>
+    <updated>2022-08-09T13:45:22.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,25 +13,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Studio Code 2022 7월 버전 업데이트]]></title>
-        <id>https://code.visualstudio.com/updates/v1_70#_easier-title-bar-customization</id>
-        <link href="https://code.visualstudio.com/updates/v1_70#_easier-title-bar-customization"/>
-        <updated>2022-08-09T11:12:49.081Z</updated>
-        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[mCaptcha - PoW 기반의 무료 캡차 오픈소스]]></title>
         <id>https://github.com/mCaptcha/mCaptcha</id>
         <link href="https://github.com/mCaptcha/mCaptcha"/>
         <updated>2022-08-09T01:24:56.275Z</updated>
         <content type="html"><![CDATA[(github.com/mCaptcha)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MidJourney - SF에 강점을 가진 이미지 생성 AI]]></title>
-        <id>https://www.midjourney.com/</id>
-        <link href="https://www.midjourney.com/"/>
-        <updated>2022-08-09T01:24:56.275Z</updated>
-        <content type="html"><![CDATA[(midjourney.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스패머들을 암호 지옥으로 보내기]]></title>
@@ -41,11 +27,18 @@
         <content type="html"><![CDATA[(troyhunt.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox Translations - 오프라인으로 동작하는 공식 번역 애드온]]></title>
-        <id>https://addons.mozilla.org/ko/firefox/addon/firefox-translations/</id>
-        <link href="https://addons.mozilla.org/ko/firefox/addon/firefox-translations/"/>
-        <updated>2022-08-09T03:41:58.201Z</updated>
-        <content type="html"><![CDATA[(addons.mozilla.org)]]></content>
+        <title type="html"><![CDATA[Visual Studio Code 2022 7월 버전 업데이트]]></title>
+        <id>https://code.visualstudio.com/updates/v1_70#_easier-title-bar-customization</id>
+        <link href="https://code.visualstudio.com/updates/v1_70#_easier-title-bar-customization"/>
+        <updated>2022-08-09T11:12:49.081Z</updated>
+        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MidJourney - SF에 강점을 가진 이미지 생성 AI]]></title>
+        <id>https://www.midjourney.com/</id>
+        <link href="https://www.midjourney.com/"/>
+        <updated>2022-08-09T01:24:56.275Z</updated>
+        <content type="html"><![CDATA[(midjourney.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신은 아마도 잘못된 사전을 사용하고 있을 겁니다]]></title>
@@ -53,6 +46,13 @@
         <link href="http://jsomers.net/blog/dictionary"/>
         <updated>2022-08-08T03:37:53.162Z</updated>
         <content type="html"><![CDATA[(jsomers.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Translations - 오프라인으로 동작하는 공식 번역 애드온]]></title>
+        <id>https://addons.mozilla.org/ko/firefox/addon/firefox-translations/</id>
+        <link href="https://addons.mozilla.org/ko/firefox/addon/firefox-translations/"/>
+        <updated>2022-08-09T03:41:58.201Z</updated>
+        <content type="html"><![CDATA[(addons.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 10만 전자: 쿠팡에서 10만원 넘는 전자제품 가격을 추적합니다.]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(tensordock.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrew Chen - How to design a referral program]]></title>
-        <id>https://ugong2san.tistory.com/4529</id>
-        <link href="https://ugong2san.tistory.com/4529"/>
-        <updated>2022-08-09T03:41:58.209Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Weights & Biases - 머신러닝 실험 시각화 & 트래킹 도구]]></title>
         <id>https://github.com/wandb/wandb</id>
         <link href="https://github.com/wandb/wandb"/>
         <updated>2022-08-06T01:12:14.485Z</updated>
         <content type="html"><![CDATA[(github.com/wandb)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Chen - How to design a referral program]]></title>
+        <id>https://ugong2san.tistory.com/4529</id>
+        <link href="https://ugong2san.tistory.com/4529"/>
+        <updated>2022-08-09T03:41:58.209Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda, 계층형(Tiered) 요금제 발표]]></title>
