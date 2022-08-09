@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-08-08T23:17:56.728Z</updated>
+    <updated>2022-08-09T01:25:30.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 초장거리 출퇴근을 하시는 분이 계실까요?]]></title>
+        <id>https://news.hada.io/topic?id=7147</id>
+        <link href="https://news.hada.io/topic?id=7147"/>
+        <updated>2022-08-09T01:25:13.346Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
         <id>https://news.hada.io/topic?id=7089</id>
@@ -84,16 +90,16 @@
         <updated>2022-07-15T03:54:36.969Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6937</id>
-        <link href="https://news.hada.io/topic?id=6937"/>
-        <updated>2022-07-08T06:20:01.986Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 저번 달에 어떤 것들을 해내셨나요? (5월)]]></title>
         <id>https://news.hada.io/topic?id=6821</id>
         <link href="https://news.hada.io/topic?id=6821"/>
         <updated>2022-06-23T04:34:00.444Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6937</id>
+        <link href="https://news.hada.io/topic?id=6937"/>
+        <updated>2022-07-08T06:20:01.986Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 어떤 모니터 조합을 선호하시나요?]]></title>
@@ -118,11 +124,5 @@
         <id>https://news.hada.io/topic?id=6696</id>
         <link href="https://news.hada.io/topic?id=6696"/>
         <updated>2022-06-07T03:16:46.607Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 7월)]]></title>
-        <id>https://news.hada.io/topic?id=6907</id>
-        <link href="https://news.hada.io/topic?id=6907"/>
-        <updated>2022-07-05T01:15:34.662Z</updated>
     </entry>
 </feed>

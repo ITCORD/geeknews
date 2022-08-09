@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-08T23:17:56.724Z</updated>
+    <updated>2022-08-09T01:25:30.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GraphQL은 좀 짜증나요]]></title>
+        <id>https://news.ycombinator.com/item?id=32366759</id>
+        <link href="https://news.ycombinator.com/item?id=32366759"/>
+        <updated>2022-08-09T01:24:56.275Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mCaptcha - PoW 기반의 무료 캡차 오픈소스]]></title>
+        <id>https://github.com/mCaptcha/mCaptcha</id>
+        <link href="https://github.com/mCaptcha/mCaptcha"/>
+        <updated>2022-08-09T01:24:56.275Z</updated>
+        <content type="html"><![CDATA[(github.com/mCaptcha)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MidJourney - SF에 강점을 가진 이미지 생성 AI]]></title>
+        <id>https://www.midjourney.com/</id>
+        <link href="https://www.midjourney.com/"/>
+        <updated>2022-08-09T01:24:56.275Z</updated>
+        <content type="html"><![CDATA[(midjourney.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신은 아마도 잘못된 사전을 사용하고 있을 겁니다]]></title>
         <id>http://jsomers.net/blog/dictionary</id>
@@ -13,11 +34,25 @@
         <content type="html"><![CDATA[(jsomers.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 10만 전자: 쿠팡에서 10만원 넘는 전자제품 가격을 추적합니다.]]></title>
+        <id>https://news.hada.io/topic?id=7142</id>
+        <link href="https://news.hada.io/topic?id=7142"/>
+        <updated>2022-08-08T12:29:23.198Z</updated>
+        <content type="html"><![CDATA[(junja10.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Product Market Fit은 어떤 느낌일까?]]></title>
         <id>https://www.mostlymetrics.com/p/what-product-market-fit-feels-like</id>
         <link href="https://www.mostlymetrics.com/p/what-product-market-fit-feels-like"/>
         <updated>2022-08-08T01:18:22.466Z</updated>
         <content type="html"><![CDATA[(mostlymetrics.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스패머들을 암호 지옥으로 보내기]]></title>
+        <id>https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/</id>
+        <link href="https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/"/>
+        <updated>2022-08-09T01:24:56.275Z</updated>
+        <content type="html"><![CDATA[(troyhunt.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 Wordnote 사전 앱을 만든 이유]]></title>
@@ -34,13 +69,6 @@
         <content type="html"><![CDATA[(facebook.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 10만 전자: 쿠팡에서 10만원 넘는 전자제품 가격을 추적합니다.]]></title>
-        <id>https://news.hada.io/topic?id=7142</id>
-        <link href="https://news.hada.io/topic?id=7142"/>
-        <updated>2022-08-08T12:29:23.198Z</updated>
-        <content type="html"><![CDATA[(junja10.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQLite-zstd - 랜덤억세스 가능한 Row 레벨 압축 확장]]></title>
         <id>https://github.com/phiresky/sqlite-zstd</id>
         <link href="https://github.com/phiresky/sqlite-zstd"/>
@@ -48,18 +76,18 @@
         <content type="html"><![CDATA[(github.com/phiresky)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda, 계층형(Tiered) 요금제 발표]]></title>
-        <id>https://aws.amazon.com/ko/blogs/compute/introducing-tiered-pricing-for-aws-lambda/</id>
-        <link href="https://aws.amazon.com/ko/blogs/compute/introducing-tiered-pricing-for-aws-lambda/"/>
-        <updated>2022-08-08T01:18:22.469Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitLab은 직원 노트북에 Microsoft Windows 사용을 금지하고 있음]]></title>
         <id>https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations</id>
         <link href="https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations"/>
         <updated>2022-08-07T01:23:50.604Z</updated>
         <content type="html"><![CDATA[(about.gitlab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda, 계층형(Tiered) 요금제 발표]]></title>
+        <id>https://aws.amazon.com/ko/blogs/compute/introducing-tiered-pricing-for-aws-lambda/</id>
+        <link href="https://aws.amazon.com/ko/blogs/compute/introducing-tiered-pricing-for-aws-lambda/"/>
+        <updated>2022-08-08T01:18:22.469Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[js1024 우승자 발표, 1등은 강성훈님의 epyt]]></title>
@@ -83,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/wandb)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[링크드인 2022 인재 트렌드 보고서 총정리]]></title>
-        <id>https://brunch.co.kr/@nutilde/22</id>
-        <link href="https://brunch.co.kr/@nutilde/22"/>
-        <updated>2022-08-06T03:17:38.632Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@nutilde)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
         <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
         <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
         <updated>2022-08-05T05:30:34.853Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[링크드인 2022 인재 트렌드 보고서 총정리]]></title>
+        <id>https://brunch.co.kr/@nutilde/22</id>
+        <link href="https://brunch.co.kr/@nutilde/22"/>
+        <updated>2022-08-06T03:17:38.632Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@nutilde)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OBS 28.0 Beta 1 - 10비트/HDR 지원, Qt 6, 네이티브 애플 실리콘 지원]]></title>
@@ -116,33 +144,5 @@
         <link href="https://codecatalog.org/"/>
         <updated>2022-08-02T04:02:17.633Z</updated>
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
-        <id>https://www.tree.fm/</id>
-        <link href="https://www.tree.fm/"/>
-        <updated>2022-08-04T01:24:24.144Z</updated>
-        <content type="html"><![CDATA[(tree.fm)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
-        <id>https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c</id>
-        <link href="https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c"/>
-        <updated>2022-08-03T09:14:07.112Z</updated>
-        <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
-        <id>https://github.com/tabler/tabler</id>
-        <link href="https://github.com/tabler/tabler"/>
-        <updated>2022-08-08T15:17:40.137Z</updated>
-        <content type="html"><![CDATA[(github.com/tabler)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DreamWorks, 최첨단 MCRT 렌더러 MoonRay를 오픈소스로 공개 예정]]></title>
-        <id>https://openmoonray.org/</id>
-        <link href="https://openmoonray.org/"/>
-        <updated>2022-08-07T01:23:50.604Z</updated>
-        <content type="html"><![CDATA[(openmoonray.org)]]></content>
     </entry>
 </feed>
