@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-10T01:18:00.562Z</updated>
+    <updated>2022-08-10T03:03:39.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
+        <id>https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/</id>
+        <link href="https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/"/>
+        <updated>2022-08-10T01:17:27.252Z</updated>
+        <content type="html"><![CDATA[(deephaven.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JSON5를 만들면서 배운 것 : 혐오자들을 무시하세요]]></title>
         <id>https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(gregoryszorc.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
-        <id>https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/</id>
-        <link href="https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/"/>
-        <updated>2022-08-10T01:17:27.252Z</updated>
-        <content type="html"><![CDATA[(deephaven.io)]]></content>
+        <title type="html"><![CDATA[구글, 애플에게 RCS를 수용하라는 "Get The Message" 광고 캠페인 시작]]></title>
+        <id>https://www.android.com/get-the-message/</id>
+        <link href="https://www.android.com/get-the-message/"/>
+        <updated>2022-08-10T03:03:02.751Z</updated>
+        <content type="html"><![CDATA[(android.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IMDB의 가짜 배우 정보들 파헤치기]]></title>
@@ -34,11 +41,25 @@
         <content type="html"><![CDATA[(peabee.substack.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Clubhouse, 자신만의 House 기능 베타 시작]]></title>
+        <id>https://docs.google.com/forms/d/e/1FAIpQLSeDikVqTfai4xdnNl_2Cm0b124CVSoK_nUd9auTqAX6ILkhIw/viewform</id>
+        <link href="https://docs.google.com/forms/d/e/1FAIpQLSeDikVqTfai4xdnNl_2Cm0b124CVSoK_nUd9auTqAX6ILkhIw/viewform"/>
+        <updated>2022-08-10T03:03:02.752Z</updated>
+        <content type="html"><![CDATA[(docs.google.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[직접 DALL-E 같은 AI 이미지 생성기 운영하기]]></title>
         <id>https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/</id>
         <link href="https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/"/>
         <updated>2022-08-10T01:17:27.261Z</updated>
         <content type="html"><![CDATA[(reticulated.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis를 활용한 디스콰이엇 팔로우 기능 개발기]]></title>
+        <id>https://disquiet.io/@jeong7331/makerlog/1503</id>
+        <link href="https://disquiet.io/@jeong7331/makerlog/1503"/>
+        <updated>2022-08-10T01:17:27.261Z</updated>
+        <content type="html"><![CDATA[(disquiet.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraphQL은 좀 짜증나요]]></title>
@@ -55,20 +76,6 @@
         <content type="html"><![CDATA[(github.com/mCaptcha)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Redis를 활용한 디스콰이엇 팔로우 기능 개발기]]></title>
-        <id>https://disquiet.io/@jeong7331/makerlog/1503</id>
-        <link href="https://disquiet.io/@jeong7331/makerlog/1503"/>
-        <updated>2022-08-10T01:17:27.261Z</updated>
-        <content type="html"><![CDATA[(disquiet.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reforge - Trying To Reduce Churn Rate? Avoid These 3 Common Myths 번역]]></title>
-        <id>https://ugong2san.tistory.com/4533</id>
-        <link href="https://ugong2san.tistory.com/4533"/>
-        <updated>2022-08-10T01:17:27.261Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스패머들을 암호 지옥으로 보내기]]></title>
         <id>https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/</id>
         <link href="https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/"/>
@@ -83,6 +90,13 @@
         <content type="html"><![CDATA[(jsomers.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reforge - Trying To Reduce Churn Rate? Avoid These 3 Common Myths 번역]]></title>
+        <id>https://ugong2san.tistory.com/4533</id>
+        <link href="https://ugong2san.tistory.com/4533"/>
+        <updated>2022-08-10T01:17:27.261Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Visual Studio Code 2022 7월 버전 업데이트]]></title>
         <id>https://code.visualstudio.com/updates/v1_70#_easier-title-bar-customization</id>
         <link href="https://code.visualstudio.com/updates/v1_70#_easier-title-bar-customization"/>
@@ -90,18 +104,18 @@
         <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MidJourney - SF에 강점을 가진 이미지 생성 AI]]></title>
-        <id>https://www.midjourney.com/</id>
-        <link href="https://www.midjourney.com/"/>
-        <updated>2022-08-09T01:24:56.275Z</updated>
-        <content type="html"><![CDATA[(midjourney.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[저물어가는 소셜 네트워크의 시대 (번역)]]></title>
         <id>https://ebadak.news/2022/08/05/sunset-social-network-facebook-tiktok/</id>
         <link href="https://ebadak.news/2022/08/05/sunset-social-network-facebook-tiktok/"/>
         <updated>2022-08-09T06:20:29.794Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MidJourney - SF에 강점을 가진 이미지 생성 AI]]></title>
+        <id>https://www.midjourney.com/</id>
+        <link href="https://www.midjourney.com/"/>
+        <updated>2022-08-09T01:24:56.275Z</updated>
+        <content type="html"><![CDATA[(midjourney.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 10만 전자: 쿠팡에서 10만원 넘는 전자제품 가격을 추적합니다.]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(mostlymetrics.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딥페이크 비디오 통화인지 알려면 고개를 돌려보라고 하세요]]></title>
-        <id>https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/</id>
-        <link href="https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/"/>
-        <updated>2022-08-09T03:41:58.203Z</updated>
-        <content type="html"><![CDATA[(metaphysic.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 Wordnote 사전 앱을 만든 이유]]></title>
         <id>https://www.wordnote.app/blog/why-i-built-dictionary-app</id>
         <link href="https://www.wordnote.app/blog/why-i-built-dictionary-app"/>
         <updated>2022-08-08T01:18:22.469Z</updated>
         <content type="html"><![CDATA[(wordnote.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 인류는 1960년대처럼 강력한 로켓을 발사하지 못할까?]]></title>
-        <id>https://www.facebook.com/100001843848045/posts/pfbid04L5P5iNcDBe1DBgFAKeNbzmHPjvheCXycNEqp5YzhBwA5JnW3HEkyfmH8VbKg6Gxl/</id>
-        <link href="https://www.facebook.com/100001843848045/posts/pfbid04L5P5iNcDBe1DBgFAKeNbzmHPjvheCXycNEqp5YzhBwA5JnW3HEkyfmH8VbKg6Gxl/"/>
-        <updated>2022-08-08T03:37:53.161Z</updated>
-        <content type="html"><![CDATA[(facebook.com)]]></content>
     </entry>
 </feed>
