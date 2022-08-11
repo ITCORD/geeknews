@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-11T09:15:49.708Z</updated>
+    <updated>2022-08-11T10:17:31.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/smirnov-am)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pls - Prettier & Powerful 'ls']]></title>
-        <id>https://github.com/dhruvkb/pls</id>
-        <link href="https://github.com/dhruvkb/pls"/>
-        <updated>2022-08-11T01:12:34.447Z</updated>
-        <content type="html"><![CDATA[(github.com/dhruvkb)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
         <id>https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/</id>
         <link href="https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/"/>
         <updated>2022-08-10T01:17:27.252Z</updated>
         <content type="html"><![CDATA[(deephaven.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pls - Prettier & Powerful 'ls']]></title>
+        <id>https://github.com/dhruvkb/pls</id>
+        <link href="https://github.com/dhruvkb/pls"/>
+        <updated>2022-08-11T01:12:34.447Z</updated>
+        <content type="html"><![CDATA[(github.com/dhruvkb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리]]></title>
@@ -111,20 +111,6 @@
         <content type="html"><![CDATA[(midjourney.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solidity 취약점 - Head Overflow Bug in Calldata Tuple ABI-Reencoding 번역]]></title>
-        <id>https://app.web3oj.com/app/board/post/56</id>
-        <link href="https://app.web3oj.com/app/board/post/56"/>
-        <updated>2022-08-10T07:14:01.255Z</updated>
-        <content type="html"><![CDATA[(app.web3oj.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직접 DALL-E 같은 AI 이미지 생성기 운영하기]]></title>
-        <id>https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/</id>
-        <link href="https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/"/>
-        <updated>2022-08-10T01:17:27.261Z</updated>
-        <content type="html"><![CDATA[(reticulated.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 10만 전자: 쿠팡에서 10만원 넘는 전자제품 가격을 추적합니다.]]></title>
         <id>https://news.hada.io/topic?id=7142</id>
         <link href="https://news.hada.io/topic?id=7142"/>
@@ -137,6 +123,20 @@
         <link href="https://ebadak.news/2022/08/05/sunset-social-network-facebook-tiktok/"/>
         <updated>2022-08-09T06:20:29.794Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직접 DALL-E 같은 AI 이미지 생성기 운영하기]]></title>
+        <id>https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/</id>
+        <link href="https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/"/>
+        <updated>2022-08-10T01:17:27.261Z</updated>
+        <content type="html"><![CDATA[(reticulated.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity 취약점 - Head Overflow Bug in Calldata Tuple ABI-Reencoding 번역]]></title>
+        <id>https://app.web3oj.com/app/board/post/56</id>
+        <link href="https://app.web3oj.com/app/board/post/56"/>
+        <updated>2022-08-10T07:14:01.255Z</updated>
+        <content type="html"><![CDATA[(app.web3oj.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Product Market Fit은 어떤 느낌일까?]]></title>
