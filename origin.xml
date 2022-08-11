@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-11T11:14:43.553Z</updated>
+    <updated>2022-08-11T12:31:57.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IMDB의 가짜 배우 정보들 파헤치기]]></title>
-        <id>https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits</id>
-        <link href="https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits"/>
-        <updated>2022-08-10T01:17:27.261Z</updated>
-        <content type="html"><![CDATA[(peabee.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[mCaptcha - PoW 기반의 무료 캡차 오픈소스]]></title>
         <id>https://github.com/mCaptcha/mCaptcha</id>
         <link href="https://github.com/mCaptcha/mCaptcha"/>
         <updated>2022-08-09T01:24:56.275Z</updated>
         <content type="html"><![CDATA[(github.com/mCaptcha)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMDB의 가짜 배우 정보들 파헤치기]]></title>
+        <id>https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits</id>
+        <link href="https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits"/>
+        <updated>2022-08-10T01:17:27.261Z</updated>
+        <content type="html"><![CDATA[(peabee.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신은 아마도 잘못된 사전을 사용하고 있을 겁니다]]></title>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직접 DALL-E 같은 AI 이미지 생성기 운영하기]]></title>
-        <id>https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/</id>
-        <link href="https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/"/>
-        <updated>2022-08-10T01:17:27.261Z</updated>
-        <content type="html"><![CDATA[(reticulated.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solidity 취약점 - Head Overflow Bug in Calldata Tuple ABI-Reencoding 번역]]></title>
         <id>https://app.web3oj.com/app/board/post/56</id>
         <link href="https://app.web3oj.com/app/board/post/56"/>
@@ -144,5 +137,12 @@
         <link href="https://www.mostlymetrics.com/p/what-product-market-fit-feels-like"/>
         <updated>2022-08-08T01:18:22.466Z</updated>
         <content type="html"><![CDATA[(mostlymetrics.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직접 DALL-E 같은 AI 이미지 생성기 운영하기]]></title>
+        <id>https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/</id>
+        <link href="https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/"/>
+        <updated>2022-08-10T01:17:27.261Z</updated>
+        <content type="html"><![CDATA[(reticulated.net)]]></content>
     </entry>
 </feed>
