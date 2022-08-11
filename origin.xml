@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-11T04:24:27.950Z</updated>
+    <updated>2022-08-11T05:15:51.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(buf.build)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
+        <id>https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/</id>
+        <link href="https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/"/>
+        <updated>2022-08-10T01:17:27.252Z</updated>
+        <content type="html"><![CDATA[(deephaven.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Grafbase - 인스턴트 서버리스 GraphQL 백엔드]]></title>
         <id>https://grafbase.com/blog/announcing-grafbase</id>
         <link href="https://grafbase.com/blog/announcing-grafbase"/>
@@ -32,13 +39,6 @@
         <link href="https://github.com/dhruvkb/pls"/>
         <updated>2022-08-11T01:12:34.447Z</updated>
         <content type="html"><![CDATA[(github.com/dhruvkb)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
-        <id>https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/</id>
-        <link href="https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/"/>
-        <updated>2022-08-10T01:17:27.252Z</updated>
-        <content type="html"><![CDATA[(deephaven.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유명 팟캐스트의 출연료는 약 $50,000(6500만원)]]></title>
