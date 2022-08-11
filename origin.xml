@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-11T03:17:33.101Z</updated>
+    <updated>2022-08-11T04:24:27.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.com/smirnov-am/awesome-saas-boilerplates"/>
         <updated>2022-08-11T01:12:34.443Z</updated>
         <content type="html"><![CDATA[(github.com/smirnov-am)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리]]></title>
+        <id>https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser</id>
+        <link href="https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"/>
+        <updated>2022-08-11T01:12:34.451Z</updated>
+        <content type="html"><![CDATA[(buf.build)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grafbase - 인스턴트 서버리스 GraphQL 백엔드]]></title>
@@ -25,13 +32,6 @@
         <link href="https://github.com/dhruvkb/pls"/>
         <updated>2022-08-11T01:12:34.447Z</updated>
         <content type="html"><![CDATA[(github.com/dhruvkb)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리]]></title>
-        <id>https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser</id>
-        <link href="https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"/>
-        <updated>2022-08-11T01:12:34.451Z</updated>
-        <content type="html"><![CDATA[(buf.build)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(jsomers.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solidity 취약점 - Head Overflow Bug in Calldata Tuple ABI-Reencoding 번역]]></title>
-        <id>https://app.web3oj.com/app/board/post/56</id>
-        <link href="https://app.web3oj.com/app/board/post/56"/>
-        <updated>2022-08-10T07:14:01.255Z</updated>
-        <content type="html"><![CDATA[(app.web3oj.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스패머들을 암호 지옥으로 보내기]]></title>
         <id>https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/</id>
         <link href="https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/"/>
         <updated>2022-08-09T01:24:56.275Z</updated>
         <content type="html"><![CDATA[(troyhunt.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity 취약점 - Head Overflow Bug in Calldata Tuple ABI-Reencoding 번역]]></title>
+        <id>https://app.web3oj.com/app/board/post/56</id>
+        <link href="https://app.web3oj.com/app/board/post/56"/>
+        <updated>2022-08-10T07:14:01.255Z</updated>
+        <content type="html"><![CDATA[(app.web3oj.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[직접 DALL-E 같은 AI 이미지 생성기 운영하기]]></title>
