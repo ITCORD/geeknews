@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-13T17:15:52.073Z</updated>
+    <updated>2022-08-13T18:17:43.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[mCaptcha - PoW 기반의 무료 캡차 오픈소스]]></title>
+        <id>https://github.com/mCaptcha/mCaptcha</id>
+        <link href="https://github.com/mCaptcha/mCaptcha"/>
+        <updated>2022-08-09T01:24:56.275Z</updated>
+        <content type="html"><![CDATA[(github.com/mCaptcha)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성]]></title>
         <id>https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/</id>
         <link href="https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"/>
@@ -137,12 +144,5 @@
         <link href="https://www.android.com/get-the-message/"/>
         <updated>2022-08-10T03:03:02.751Z</updated>
         <content type="html"><![CDATA[(android.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mCaptcha - PoW 기반의 무료 캡차 오픈소스]]></title>
-        <id>https://github.com/mCaptcha/mCaptcha</id>
-        <link href="https://github.com/mCaptcha/mCaptcha"/>
-        <updated>2022-08-09T01:24:56.275Z</updated>
-        <content type="html"><![CDATA[(github.com/mCaptcha)]]></content>
     </entry>
 </feed>
