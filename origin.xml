@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-13T16:19:03.460Z</updated>
+    <updated>2022-08-13T17:15:52.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[O&O AppBuster - 윈도우 10/11 기본 앱 삭제 도구]]></title>
-        <id>https://www.oo-software.com/en/ooappbuster</id>
-        <link href="https://www.oo-software.com/en/ooappbuster"/>
-        <updated>2022-08-13T01:10:02.626Z</updated>
-        <content type="html"><![CDATA[(oo-software.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Penumbra - 자연광을 기반으로 만든 색상구성표]]></title>
         <id>https://github.com/nealmckee/penumbra</id>
         <link href="https://github.com/nealmckee/penumbra"/>
         <updated>2022-08-12T03:26:16.290Z</updated>
         <content type="html"><![CDATA[(github.com/nealmckee)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O&O AppBuster - 윈도우 10/11 기본 앱 삭제 도구]]></title>
+        <id>https://www.oo-software.com/en/ooappbuster</id>
+        <link href="https://www.oo-software.com/en/ooappbuster"/>
+        <updated>2022-08-13T01:10:02.626Z</updated>
+        <content type="html"><![CDATA[(oo-software.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grex-JS - 테스트 케이스에서 정규식을 생성하기]]></title>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[(mckinsey.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JSON5를 만들면서 배운 것 : 혐오자들을 무시하세요]]></title>
+        <id>https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5</id>
+        <link href="https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5"/>
+        <updated>2022-08-10T01:17:27.252Z</updated>
+        <content type="html"><![CDATA[(aseemk.substack.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[pls - Prettier & Powerful 'ls']]></title>
         <id>https://github.com/dhruvkb/pls</id>
         <link href="https://github.com/dhruvkb/pls"/>
@@ -95,13 +102,6 @@
         <link href="https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"/>
         <updated>2022-08-11T01:12:34.451Z</updated>
         <content type="html"><![CDATA[(buf.build)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON5를 만들면서 배운 것 : 혐오자들을 무시하세요]]></title>
-        <id>https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5</id>
-        <link href="https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5"/>
-        <updated>2022-08-10T01:17:27.252Z</updated>
-        <content type="html"><![CDATA[(aseemk.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신은 아마도 잘못된 사전을 사용하고 있을 겁니다]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grafbase - 인스턴트 서버리스 GraphQL 백엔드]]></title>
-        <id>https://grafbase.com/blog/announcing-grafbase</id>
-        <link href="https://grafbase.com/blog/announcing-grafbase"/>
-        <updated>2022-08-11T01:12:34.447Z</updated>
-        <content type="html"><![CDATA[(grafbase.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성]]></title>
         <id>https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/</id>
         <link href="https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"/>
         <updated>2022-08-10T01:17:27.252Z</updated>
         <content type="html"><![CDATA[(gregoryszorc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafbase - 인스턴트 서버리스 GraphQL 백엔드]]></title>
+        <id>https://grafbase.com/blog/announcing-grafbase</id>
+        <link href="https://grafbase.com/blog/announcing-grafbase"/>
+        <updated>2022-08-11T01:12:34.447Z</updated>
+        <content type="html"><![CDATA[(grafbase.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 애플에게 RCS를 수용하라는 "Get The Message" 광고 캠페인 시작]]></title>
