@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-14T20:15:54.905Z</updated>
+    <updated>2022-08-14T21:13:53.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com/dhruvkb)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리]]></title>
-        <id>https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser</id>
-        <link href="https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"/>
-        <updated>2022-08-11T01:12:34.451Z</updated>
-        <content type="html"><![CDATA[(buf.build)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GraphQL은 좀 짜증나요]]></title>
         <id>https://news.ycombinator.com/item?id=32366759</id>
         <link href="https://news.ycombinator.com/item?id=32366759"/>
         <updated>2022-08-09T01:24:56.275Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리]]></title>
+        <id>https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser</id>
+        <link href="https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"/>
+        <updated>2022-08-11T01:12:34.451Z</updated>
+        <content type="html"><![CDATA[(buf.build)]]></content>
     </entry>
 </feed>
