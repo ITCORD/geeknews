@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-14T04:26:21.085Z</updated>
+    <updated>2022-08-14T05:15:37.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(ruck.tech)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[eInk 기기를 위한 VNC 클라이언트]]></title>
+        <id>https://zmarshall.nl/static/eink-vnc.html</id>
+        <link href="https://zmarshall.nl/static/eink-vnc.html"/>
+        <updated>2022-08-14T01:19:22.230Z</updated>
+        <content type="html"><![CDATA[(zmarshall.nl)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft, Fluent Emoji 1538개를 오픈소스로 공개]]></title>
         <id>https://medium.com/microsoft-design/designing-in-the-open-source-5c62be73a599</id>
         <link href="https://medium.com/microsoft-design/designing-in-the-open-source-5c62be73a599"/>
@@ -46,13 +53,6 @@
         <link href="https://www.oo-software.com/en/ooappbuster"/>
         <updated>2022-08-13T01:10:02.626Z</updated>
         <content type="html"><![CDATA[(oo-software.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eInk 기기를 위한 VNC 클라이언트]]></title>
-        <id>https://zmarshall.nl/static/eink-vnc.html</id>
-        <link href="https://zmarshall.nl/static/eink-vnc.html"/>
-        <updated>2022-08-14T01:19:22.230Z</updated>
-        <content type="html"><![CDATA[(zmarshall.nl)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grex-JS - 테스트 케이스에서 정규식을 생성하기]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(github.com/dhruvkb)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리]]></title>
-        <id>https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser</id>
-        <link href="https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"/>
-        <updated>2022-08-11T01:12:34.451Z</updated>
-        <content type="html"><![CDATA[(buf.build)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당신은 아마도 잘못된 사전을 사용하고 있을 겁니다]]></title>
         <id>http://jsomers.net/blog/dictionary</id>
         <link href="http://jsomers.net/blog/dictionary"/>
         <updated>2022-08-08T03:37:53.162Z</updated>
         <content type="html"><![CDATA[(jsomers.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리]]></title>
+        <id>https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser</id>
+        <link href="https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"/>
+        <updated>2022-08-11T01:12:34.451Z</updated>
+        <content type="html"><![CDATA[(buf.build)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraphQL은 좀 짜증나요]]></title>
