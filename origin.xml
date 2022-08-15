@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-15T17:23:22.062Z</updated>
+    <updated>2022-08-15T18:20:22.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(blog.bytebytego.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tour de Source - 오픈소스 코드를 설명하는 뉴스레터]]></title>
-        <id>https://tourdesource.substack.com/</id>
-        <link href="https://tourdesource.substack.com/"/>
-        <updated>2022-08-15T01:23:00.297Z</updated>
-        <content type="html"><![CDATA[(tourdesource.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요?]]></title>
         <id>https://news.ycombinator.com/item?id=32409632</id>
         <link href="https://news.ycombinator.com/item?id=32409632"/>
@@ -39,6 +32,13 @@
         <link href="https://bium.io/posts/self-nudging"/>
         <updated>2022-08-15T07:14:00.694Z</updated>
         <content type="html"><![CDATA[(bium.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour de Source - 오픈소스 코드를 설명하는 뉴스레터]]></title>
+        <id>https://tourdesource.substack.com/</id>
+        <link href="https://tourdesource.substack.com/"/>
+        <updated>2022-08-15T01:23:00.297Z</updated>
+        <content type="html"><![CDATA[(tourdesource.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sematic - 오픈소스 ML 파이프라인 개발 툴킷]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com/sofn-xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite-html : HTML을 쿼리,조작,생성하는 확장]]></title>
-        <id>https://github.com/asg017/sqlite-html</id>
-        <link href="https://github.com/asg017/sqlite-html"/>
-        <updated>2022-08-13T01:10:02.627Z</updated>
-        <content type="html"><![CDATA[(github.com/asg017)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JSON5를 만들면서 배운 것 : 혐오자들을 무시하세요]]></title>
         <id>https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5</id>
         <link href="https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5"/>
         <updated>2022-08-15T16:21:17.115Z</updated>
         <content type="html"><![CDATA[(aseemk.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite-html : HTML을 쿼리,조작,생성하는 확장]]></title>
+        <id>https://github.com/asg017/sqlite-html</id>
+        <link href="https://github.com/asg017/sqlite-html"/>
+        <updated>2022-08-13T01:10:02.627Z</updated>
+        <content type="html"><![CDATA[(github.com/asg017)]]></content>
     </entry>
 </feed>
