@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-15T16:21:56.817Z</updated>
+    <updated>2022-08-15T17:23:22.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://www.patterns.dev/"/>
         <updated>2022-08-15T01:23:00.297Z</updated>
         <content type="html"><![CDATA[(patterns.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요?]]></title>
-        <id>https://news.ycombinator.com/item?id=32409632</id>
-        <link href="https://news.ycombinator.com/item?id=32409632"/>
-        <updated>2022-08-15T01:23:00.301Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시스템 설계 인터뷰 전에 알아둬야 할 알고리듬들]]></title>
@@ -32,6 +25,13 @@
         <link href="https://tourdesource.substack.com/"/>
         <updated>2022-08-15T01:23:00.297Z</updated>
         <content type="html"><![CDATA[(tourdesource.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요?]]></title>
+        <id>https://news.ycombinator.com/item?id=32409632</id>
+        <link href="https://news.ycombinator.com/item?id=32409632"/>
+        <updated>2022-08-15T01:23:00.301Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하고 싶은 일을 끝까지 해내는 최고의 방법 - 셀프 넛징]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(reddit.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruck - Deno용 Buildless React 웹 프레임워크]]></title>
-        <id>https://ruck.tech/</id>
-        <link href="https://ruck.tech/"/>
-        <updated>2022-08-14T01:19:22.227Z</updated>
-        <content type="html"><![CDATA[(ruck.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[O&O AppBuster - 윈도우 10/11 기본 앱 삭제 도구]]></title>
         <id>https://www.oo-software.com/en/ooappbuster</id>
         <link href="https://www.oo-software.com/en/ooappbuster"/>
         <updated>2022-08-13T01:10:02.626Z</updated>
         <content type="html"><![CDATA[(oo-software.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruck - Deno용 Buildless React 웹 프레임워크]]></title>
+        <id>https://ruck.tech/</id>
+        <link href="https://ruck.tech/"/>
+        <updated>2022-08-14T01:19:22.227Z</updated>
+        <content type="html"><![CDATA[(ruck.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
