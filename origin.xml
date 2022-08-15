@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-15T11:13:42.479Z</updated>
+    <updated>2022-08-15T12:31:39.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요?]]></title>
-        <id>https://news.ycombinator.com/item?id=32409632</id>
-        <link href="https://news.ycombinator.com/item?id=32409632"/>
-        <updated>2022-08-15T01:23:00.301Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
         <id>https://www.patterns.dev/</id>
         <link href="https://www.patterns.dev/"/>
         <updated>2022-08-15T01:23:00.297Z</updated>
         <content type="html"><![CDATA[(patterns.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요?]]></title>
+        <id>https://news.ycombinator.com/item?id=32409632</id>
+        <link href="https://news.ycombinator.com/item?id=32409632"/>
+        <updated>2022-08-15T01:23:00.301Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tour de Source - 오픈소스 코드를 설명하는 뉴스레터]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(bium.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UI Fillers : 디자인을 위한 플레이스홀더들]]></title>
-        <id>https://www.uifiller.com/</id>
-        <link href="https://www.uifiller.com/"/>
-        <updated>2022-08-14T01:19:22.223Z</updated>
-        <content type="html"><![CDATA[(uifiller.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sematic - 오픈소스 ML 파이프라인 개발 툴킷]]></title>
         <id>https://github.com/sematic-ai/sematic</id>
         <link href="https://github.com/sematic-ai/sematic"/>
         <updated>2022-08-15T03:55:00.466Z</updated>
         <content type="html"><![CDATA[(github.com/sematic-ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI Fillers : 디자인을 위한 플레이스홀더들]]></title>
+        <id>https://www.uifiller.com/</id>
+        <link href="https://www.uifiller.com/"/>
+        <updated>2022-08-14T01:19:22.223Z</updated>
+        <content type="html"><![CDATA[(uifiller.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Penumbra - 자연광을 기반으로 만든 색상구성표]]></title>
