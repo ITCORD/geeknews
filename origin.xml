@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-16T04:38:17.148Z</updated>
+    <updated>2022-08-16T05:18:25.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
+        <id>https://www.patterns.dev/</id>
+        <link href="https://www.patterns.dev/"/>
+        <updated>2022-08-15T01:23:00.297Z</updated>
+        <content type="html"><![CDATA[(patterns.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stable Diffusion - DALL-E 와 비슷한 Text-To-Image 오픈소스]]></title>
         <id>https://github.com/CompVis/stable-diffusion</id>
         <link href="https://github.com/CompVis/stable-diffusion"/>
@@ -39,13 +46,6 @@
         <link href="https://source.android.com/docs/setup/start/android-13-release"/>
         <updated>2022-08-16T01:27:34.075Z</updated>
         <content type="html"><![CDATA[(source.android.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
-        <id>https://www.patterns.dev/</id>
-        <link href="https://www.patterns.dev/"/>
-        <updated>2022-08-15T01:23:00.297Z</updated>
-        <content type="html"><![CDATA[(patterns.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Horizon Linux - 닌텐도 스위치 게임을 실행할 수 있게 패치된 arm64 리눅스]]></title>
