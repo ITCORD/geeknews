@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-16T19:13:03.950Z</updated>
+    <updated>2022-08-16T20:16:58.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(bium.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stable Diffusion - DALL-E 와 비슷한 Text-To-Image 오픈소스]]></title>
+        <id>https://github.com/CompVis/stable-diffusion</id>
+        <link href="https://github.com/CompVis/stable-diffusion"/>
+        <updated>2022-08-16T01:27:34.082Z</updated>
+        <content type="html"><![CDATA[(github.com/CompVis)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deno 큰 변화 예정]]></title>
         <id>https://deno.com/blog/changes</id>
         <link href="https://deno.com/blog/changes"/>
@@ -60,13 +67,6 @@
         <link href="https://tourdesource.substack.com/"/>
         <updated>2022-08-15T01:23:00.297Z</updated>
         <content type="html"><![CDATA[(tourdesource.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion - DALL-E 와 비슷한 Text-To-Image 오픈소스]]></title>
-        <id>https://github.com/CompVis/stable-diffusion</id>
-        <link href="https://github.com/CompVis/stable-diffusion"/>
-        <updated>2022-08-16T01:27:34.082Z</updated>
-        <content type="html"><![CDATA[(github.com/CompVis)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android 13 출시]]></title>
