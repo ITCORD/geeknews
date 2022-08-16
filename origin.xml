@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-16T11:15:21.284Z</updated>
+    <updated>2022-08-16T12:26:55.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deno 큰 변화 예정]]></title>
-        <id>https://deno.com/blog/changes</id>
-        <link href="https://deno.com/blog/changes"/>
-        <updated>2022-08-16T01:27:34.075Z</updated>
-        <content type="html"><![CDATA[(deno.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[시스템 설계 인터뷰 전에 알아둬야 할 알고리듬들]]></title>
         <id>https://blog.bytebytego.com/p/algorithms-you-should-know-before</id>
         <link href="https://blog.bytebytego.com/p/algorithms-you-should-know-before"/>
         <updated>2022-08-15T01:23:00.297Z</updated>
         <content type="html"><![CDATA[(blog.bytebytego.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 큰 변화 예정]]></title>
+        <id>https://deno.com/blog/changes</id>
+        <link href="https://deno.com/blog/changes"/>
+        <updated>2022-08-16T01:27:34.075Z</updated>
+        <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion - DALL-E 와 비슷한 Text-To-Image 오픈소스]]></title>
