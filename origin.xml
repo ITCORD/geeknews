@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-16T01:28:15.142Z</updated>
+    <updated>2022-08-16T03:43:37.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[(github.com/stemrollerapp)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아직 소수의 사람들만 얘기하는 Next Big Thing은 뭘까요?]]></title>
+        <id>https://news.ycombinator.com/item?id=32378695</id>
+        <link href="https://news.ycombinator.com/item?id=32378695"/>
+        <updated>2022-08-16T03:43:03.577Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deno 큰 변화 예정]]></title>
         <id>https://deno.com/blog/changes</id>
         <link href="https://deno.com/blog/changes"/>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
-        <id>https://www.patterns.dev/</id>
-        <link href="https://www.patterns.dev/"/>
-        <updated>2022-08-15T01:23:00.297Z</updated>
-        <content type="html"><![CDATA[(patterns.dev)]]></content>
+        <title type="html"><![CDATA[Stable Diffusion - DALL-E 와 비슷한 Text-To-Image 오픈소스]]></title>
+        <id>https://github.com/CompVis/stable-diffusion</id>
+        <link href="https://github.com/CompVis/stable-diffusion"/>
+        <updated>2022-08-16T01:27:34.082Z</updated>
+        <content type="html"><![CDATA[(github.com/CompVis)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android 13 출시]]></title>
@@ -32,6 +39,20 @@
         <link href="https://source.android.com/docs/setup/start/android-13-release"/>
         <updated>2022-08-16T01:27:34.075Z</updated>
         <content type="html"><![CDATA[(source.android.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizon Linux - 닌텐도 스위치 게임을 실행할 수 있게 패치된 arm64 리눅스]]></title>
+        <id>https://www.reddit.com/r/linux_gaming/comments/wnuh3u/introducing_horizon_linux/</id>
+        <link href="https://www.reddit.com/r/linux_gaming/comments/wnuh3u/introducing_horizon_linux/"/>
+        <updated>2022-08-16T01:27:34.082Z</updated>
+        <content type="html"><![CDATA[(reddit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
+        <id>https://www.patterns.dev/</id>
+        <link href="https://www.patterns.dev/"/>
+        <updated>2022-08-15T01:23:00.297Z</updated>
+        <content type="html"><![CDATA[(patterns.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요?]]></title>
@@ -62,20 +83,6 @@
         <content type="html"><![CDATA[(tourdesource.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stable Diffusion - DALL-E 와 비슷한 Text-To-Image 오픈소스]]></title>
-        <id>https://github.com/CompVis/stable-diffusion</id>
-        <link href="https://github.com/CompVis/stable-diffusion"/>
-        <updated>2022-08-16T01:27:34.082Z</updated>
-        <content type="html"><![CDATA[(github.com/CompVis)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizon Linux - 닌텐도 스위치 게임을 실행할 수 있게 패치된 arm64 리눅스]]></title>
-        <id>https://www.reddit.com/r/linux_gaming/comments/wnuh3u/introducing_horizon_linux/</id>
-        <link href="https://www.reddit.com/r/linux_gaming/comments/wnuh3u/introducing_horizon_linux/"/>
-        <updated>2022-08-16T01:27:34.082Z</updated>
-        <content type="html"><![CDATA[(reddit.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sematic - 오픈소스 ML 파이프라인 개발 툴킷]]></title>
         <id>https://github.com/sematic-ai/sematic</id>
         <link href="https://github.com/sematic-ai/sematic"/>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[(uifiller.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Penumbra - 자연광을 기반으로 만든 색상구성표]]></title>
-        <id>https://github.com/nealmckee/penumbra</id>
-        <link href="https://github.com/nealmckee/penumbra"/>
-        <updated>2022-08-12T03:26:16.290Z</updated>
-        <content type="html"><![CDATA[(github.com/nealmckee)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft, Fluent Emoji 1538개를 오픈소스로 공개]]></title>
         <id>https://medium.com/microsoft-design/designing-in-the-open-source-5c62be73a599</id>
         <link href="https://medium.com/microsoft-design/designing-in-the-open-source-5c62be73a599"/>
         <updated>2022-08-13T03:18:00.792Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penumbra - 자연광을 기반으로 만든 색상구성표]]></title>
+        <id>https://github.com/nealmckee/penumbra</id>
+        <link href="https://github.com/nealmckee/penumbra"/>
+        <updated>2022-08-12T03:26:16.290Z</updated>
+        <content type="html"><![CDATA[(github.com/nealmckee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인생에서 당신을 더 성공적으로 만들어줄 20가지 멘탈 모델]]></title>
@@ -137,12 +144,5 @@
         <link href="https://pemistahl.github.io/grex-js/"/>
         <updated>2022-08-13T01:10:02.621Z</updated>
         <content type="html"><![CDATA[(pemistahl.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome SaaS Boilerplate]]></title>
-        <id>https://github.com/smirnov-am/awesome-saas-boilerplates</id>
-        <link href="https://github.com/smirnov-am/awesome-saas-boilerplates"/>
-        <updated>2022-08-11T01:12:34.443Z</updated>
-        <content type="html"><![CDATA[(github.com/smirnov-am)]]></content>
     </entry>
 </feed>
