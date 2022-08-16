@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-16T16:21:23.389Z</updated>
+    <updated>2022-08-16T17:19:55.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(deephaven.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruck - Deno용 Buildless React 웹 프레임워크]]></title>
-        <id>https://ruck.tech/</id>
-        <link href="https://ruck.tech/"/>
-        <updated>2022-08-14T01:19:22.227Z</updated>
-        <content type="html"><![CDATA[(ruck.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grex-JS - 테스트 케이스에서 정규식을 생성하기]]></title>
         <id>https://pemistahl.github.io/grex-js/</id>
         <link href="https://pemistahl.github.io/grex-js/"/>
         <updated>2022-08-13T01:10:02.621Z</updated>
         <content type="html"><![CDATA[(pemistahl.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruck - Deno용 Buildless React 웹 프레임워크]]></title>
+        <id>https://ruck.tech/</id>
+        <link href="https://ruck.tech/"/>
+        <updated>2022-08-14T01:19:22.227Z</updated>
+        <content type="html"><![CDATA[(ruck.tech)]]></content>
     </entry>
 </feed>
