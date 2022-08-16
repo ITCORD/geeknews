@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-16T13:29:32.953Z</updated>
+    <updated>2022-08-16T14:15:31.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[하고 싶은 일을 끝까지 해내는 최고의 방법 - 셀프 넛징]]></title>
+        <id>https://bium.io/posts/self-nudging</id>
+        <link href="https://bium.io/posts/self-nudging"/>
+        <updated>2022-08-15T07:14:00.694Z</updated>
+        <content type="html"><![CDATA[(bium.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stable Diffusion - DALL-E 와 비슷한 Text-To-Image 오픈소스]]></title>
         <id>https://github.com/CompVis/stable-diffusion</id>
         <link href="https://github.com/CompVis/stable-diffusion"/>
@@ -60,13 +67,6 @@
         <link href="https://source.android.com/docs/setup/start/android-13-release"/>
         <updated>2022-08-16T01:27:34.075Z</updated>
         <content type="html"><![CDATA[(source.android.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하고 싶은 일을 끝까지 해내는 최고의 방법 - 셀프 넛징]]></title>
-        <id>https://bium.io/posts/self-nudging</id>
-        <link href="https://bium.io/posts/self-nudging"/>
-        <updated>2022-08-15T07:14:00.694Z</updated>
-        <content type="html"><![CDATA[(bium.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tour de Source - 오픈소스 코드를 설명하는 뉴스레터]]></title>
