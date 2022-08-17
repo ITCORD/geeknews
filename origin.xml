@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-17T07:14:18.511Z</updated>
+    <updated>2022-08-17T08:20:20.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com/codedgar)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a16z, WeWork 창업자였던 아담뉴먼의 Flow에 4500억원 투자]]></title>
-        <id>https://a16z.com/2022/08/15/investing-in-flow/</id>
-        <link href="https://a16z.com/2022/08/15/investing-in-flow/"/>
-        <updated>2022-08-17T01:27:50.820Z</updated>
-        <content type="html"><![CDATA[(a16z.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아직 소수의 사람들만 얘기하는 Next Big Thing은 뭘까요?]]></title>
         <id>https://news.ycombinator.com/item?id=32378695</id>
         <link href="https://news.ycombinator.com/item?id=32378695"/>
         <updated>2022-08-16T03:43:03.577Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z, WeWork 창업자였던 아담뉴먼의 Flow에 4500억원 투자]]></title>
+        <id>https://a16z.com/2022/08/15/investing-in-flow/</id>
+        <link href="https://a16z.com/2022/08/15/investing-in-flow/"/>
+        <updated>2022-08-17T01:27:50.820Z</updated>
+        <content type="html"><![CDATA[(a16z.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StemRoller - 노래에서 보컬과 악기를 분리해주는 무료 앱 오픈소스]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(tourdesource.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud.gov - 미국 정부기관을 위한 클라우드 도움 서비스]]></title>
-        <id>https://cloud.gov/</id>
-        <link href="https://cloud.gov/"/>
-        <updated>2022-08-17T01:27:50.826Z</updated>
-        <content type="html"><![CDATA[(cloud.gov)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stable Diffusion - DALL-E 와 비슷한 Text-To-Image 오픈소스]]></title>
         <id>https://github.com/CompVis/stable-diffusion</id>
         <link href="https://github.com/CompVis/stable-diffusion"/>
@@ -102,6 +95,13 @@
         <link href="https://deno.com/blog/changes"/>
         <updated>2022-08-16T01:27:34.075Z</updated>
         <content type="html"><![CDATA[(deno.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud.gov - 미국 정부기관을 위한 클라우드 도움 서비스]]></title>
+        <id>https://cloud.gov/</id>
+        <link href="https://cloud.gov/"/>
+        <updated>2022-08-17T01:27:50.826Z</updated>
+        <content type="html"><![CDATA[(cloud.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android 13 출시]]></title>
