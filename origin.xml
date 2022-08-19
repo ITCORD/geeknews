@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-19T03:49:57.945Z</updated>
+    <updated>2022-08-19T04:48:40.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애니메이션으로 배워보는 Raft Consensus]]></title>
+        <id>https://thesecretlivesofdata.com/raft/</id>
+        <link href="https://thesecretlivesofdata.com/raft/"/>
+        <updated>2022-08-18T01:29:38.009Z</updated>
+        <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, 베트남에서 애플워치/맥북 생산을 검토중]]></title>
         <id>https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever</id>
         <link href="https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever"/>
@@ -45,13 +52,6 @@
         <id>https://news.hada.io/topic?id=7209</id>
         <link href="https://news.hada.io/topic?id=7209"/>
         <updated>2022-08-19T03:49:19.259Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니메이션으로 배워보는 Raft Consensus]]></title>
-        <id>https://thesecretlivesofdata.com/raft/</id>
-        <link href="https://thesecretlivesofdata.com/raft/"/>
-        <updated>2022-08-18T01:29:38.009Z</updated>
-        <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pew 리서치가 조사한 2022년 미국 10대들의 소셜 미디어 선호도]]></title>
@@ -82,18 +82,18 @@
         <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 macOS 12.5.1, iOS 15.6.1 제로데이 패치 공개]]></title>
-        <id>https://support.apple.com/ko-kr/HT213413</id>
-        <link href="https://support.apple.com/ko-kr/HT213413"/>
-        <updated>2022-08-19T03:49:19.268Z</updated>
-        <content type="html"><![CDATA[(support.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Discord가 네트웍 디스크의 지연시간을 최소화한 방법]]></title>
         <id>https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency</id>
         <link href="https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency"/>
         <updated>2022-08-17T01:27:50.820Z</updated>
         <content type="html"><![CDATA[(discord.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 macOS 12.5.1, iOS 15.6.1 제로데이 패치 공개]]></title>
+        <id>https://support.apple.com/ko-kr/HT213413</id>
+        <link href="https://support.apple.com/ko-kr/HT213413"/>
+        <updated>2022-08-19T03:49:19.268Z</updated>
+        <content type="html"><![CDATA[(support.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자동차에선 터치스크린보다 물리적 버튼이 훨씬 조작이 빠름]]></title>
