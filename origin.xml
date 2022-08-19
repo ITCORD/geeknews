@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-19T01:22:58.798Z</updated>
+    <updated>2022-08-19T03:49:57.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(electronicmaterialsoffice.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 베트남에서 애플워치/맥북 생산을 검토중]]></title>
-        <id>https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever</id>
-        <link href="https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever"/>
-        <updated>2022-08-19T01:22:18.374Z</updated>
-        <content type="html"><![CDATA[(asia.nikkei.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TikTok, 앱내에서 DALL-E 같은 Text-To-Image 생성기 제공]]></title>
         <id>https://www.theverge.com/2022/8/15/23306101/tiktok-ai-greenscreen-filter-text-to-image-mainstream</id>
         <link href="https://www.theverge.com/2022/8/15/23306101/tiktok-ai-greenscreen-filter-text-to-image-mainstream"/>
@@ -41,11 +34,17 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pew 리서치가 조사한 2022년 미국 10대들의 소셜 미디어 선호도]]></title>
-        <id>https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/</id>
-        <link href="https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/"/>
-        <updated>2022-08-19T01:22:18.377Z</updated>
-        <content type="html"><![CDATA[(pewresearch.org)]]></content>
+        <title type="html"><![CDATA[애플, 베트남에서 애플워치/맥북 생산을 검토중]]></title>
+        <id>https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever</id>
+        <link href="https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever"/>
+        <updated>2022-08-19T01:22:18.374Z</updated>
+        <content type="html"><![CDATA[(asia.nikkei.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7209</id>
+        <link href="https://news.hada.io/topic?id=7209"/>
+        <updated>2022-08-19T03:49:19.259Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[애니메이션으로 배워보는 Raft Consensus]]></title>
@@ -53,6 +52,13 @@
         <link href="https://thesecretlivesofdata.com/raft/"/>
         <updated>2022-08-18T01:29:38.009Z</updated>
         <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pew 리서치가 조사한 2022년 미국 10대들의 소셜 미디어 선호도]]></title>
+        <id>https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/</id>
+        <link href="https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/"/>
+        <updated>2022-08-19T01:22:18.377Z</updated>
+        <content type="html"><![CDATA[(pewresearch.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gen Z는 베이비붐 세대의 20대 시절보다 구매력이 86% 낮음]]></title>
@@ -76,6 +82,13 @@
         <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애플 macOS 12.5.1, iOS 15.6.1 제로데이 패치 공개]]></title>
+        <id>https://support.apple.com/ko-kr/HT213413</id>
+        <link href="https://support.apple.com/ko-kr/HT213413"/>
+        <updated>2022-08-19T03:49:19.268Z</updated>
+        <content type="html"><![CDATA[(support.apple.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Discord가 네트웍 디스크의 지연시간을 최소화한 방법]]></title>
         <id>https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency</id>
         <link href="https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency"/>
@@ -97,13 +110,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04에 .NET 6 공식 포함]]></title>
-        <id>https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/</id>
-        <link href="https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/"/>
-        <updated>2022-08-18T01:29:38.002Z</updated>
-        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
         <id>https://www.patterns.dev/</id>
         <link href="https://www.patterns.dev/"/>
@@ -111,11 +117,11 @@
         <content type="html"><![CDATA[(patterns.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rallly - 미팅 날짜 선택을 도와주는 Doodle Poll 대체제 오픈소스]]></title>
-        <id>https://github.com/lukevella/rallly</id>
-        <link href="https://github.com/lukevella/rallly"/>
-        <updated>2022-08-17T01:27:50.820Z</updated>
-        <content type="html"><![CDATA[(github.com/lukevella)]]></content>
+        <title type="html"><![CDATA[Ubuntu 22.04에 .NET 6 공식 포함]]></title>
+        <id>https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/</id>
+        <link href="https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/"/>
+        <updated>2022-08-18T01:29:38.002Z</updated>
+        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StemRoller - 노래에서 보컬과 악기를 분리해주는 무료 앱 오픈소스]]></title>
@@ -125,24 +131,17 @@
         <content type="html"><![CDATA[(github.com/stemrollerapp)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rallly - 미팅 날짜 선택을 도와주는 Doodle Poll 대체제 오픈소스]]></title>
+        <id>https://github.com/lukevella/rallly</id>
+        <link href="https://github.com/lukevella/rallly"/>
+        <updated>2022-08-17T01:27:50.820Z</updated>
+        <content type="html"><![CDATA[(github.com/lukevella)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요?]]></title>
         <id>https://news.ycombinator.com/item?id=32409632</id>
         <link href="https://news.ycombinator.com/item?id=32409632"/>
         <updated>2022-08-15T01:23:00.301Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시스템 설계 인터뷰 전에 알아둬야 할 알고리듬들]]></title>
-        <id>https://blog.bytebytego.com/p/algorithms-you-should-know-before</id>
-        <link href="https://blog.bytebytego.com/p/algorithms-you-should-know-before"/>
-        <updated>2022-08-15T01:23:00.297Z</updated>
-        <content type="html"><![CDATA[(blog.bytebytego.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puppertino - 애플의 휴먼 가이드라인 기반 CSS 프레임워크]]></title>
-        <id>https://github.com/codedgar/Puppertino</id>
-        <link href="https://github.com/codedgar/Puppertino"/>
-        <updated>2022-08-17T01:27:50.825Z</updated>
-        <content type="html"><![CDATA[(github.com/codedgar)]]></content>
     </entry>
 </feed>
