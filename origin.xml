@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-20T12:26:28.483Z</updated>
+    <updated>2022-08-20T13:26:49.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[ravynOS - macOS의 섬세함을 FreeBSD위에서 구현한 OS]]></title>
-        <id>https://ravynos.com/</id>
-        <link href="https://ravynos.com/"/>
-        <updated>2022-08-20T01:18:09.875Z</updated>
-        <content type="html"><![CDATA[(ravynos.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[대단한 사람은 대가리가 단단한 사람.]]></title>
         <id>https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/</id>
         <link href="https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/"/>
         <updated>2022-08-20T12:25:50.343Z</updated>
         <content type="html"><![CDATA[(nyanye.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ravynOS - macOS의 섬세함을 FreeBSD위에서 구현한 OS]]></title>
+        <id>https://ravynos.com/</id>
+        <link href="https://ravynos.com/"/>
+        <updated>2022-08-20T01:18:09.875Z</updated>
+        <content type="html"><![CDATA[(ravynos.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아메리칸 에어라인, Boom Supersonic의 Overture 비행기 20대 구매 계약]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(boomsupersonic.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 리그오브레전드 전적 알림 앱]]></title>
-        <id>https://news.hada.io/topic?id=7223</id>
-        <link href="https://news.hada.io/topic?id=7223"/>
-        <updated>2022-08-20T08:19:15.383Z</updated>
-        <content type="html"><![CDATA[(apps.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[K-word : 일반적인 단어 3000여개를 구글플레이에서 검색해본다면.]]></title>
         <id>https://k-word.web.app/</id>
         <link href="https://k-word.web.app/"/>
         <updated>2022-08-19T09:15:19.025Z</updated>
         <content type="html"><![CDATA[(k-word.web.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 리그오브레전드 전적 알림 앱]]></title>
+        <id>https://news.hada.io/topic?id=7223</id>
+        <link href="https://news.hada.io/topic?id=7223"/>
+        <updated>2022-08-20T08:19:15.383Z</updated>
+        <content type="html"><![CDATA[(apps.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Supabase Realtime - Multiplayer 기능 GA로 공개]]></title>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안드로이드 뜻밖의 역사 출간]]></title>
-        <id>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299230041</id>
-        <link href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299230041"/>
-        <updated>2022-08-18T01:29:38.002Z</updated>
-        <content type="html"><![CDATA[(aladin.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
         <id>https://www.patterns.dev/</id>
         <link href="https://www.patterns.dev/"/>
@@ -125,11 +118,11 @@
         <content type="html"><![CDATA[(patterns.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
-        <id>https://ugong2san.tistory.com/4555</id>
-        <link href="https://ugong2san.tistory.com/4555"/>
-        <updated>2022-08-20T10:15:37.277Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+        <title type="html"><![CDATA[안드로이드 뜻밖의 역사 출간]]></title>
+        <id>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299230041</id>
+        <link href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299230041"/>
+        <updated>2022-08-18T01:29:38.002Z</updated>
+        <content type="html"><![CDATA[(aladin.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VSCode, Markdown Language Server 공개]]></title>
@@ -137,6 +130,13 @@
         <link href="https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server"/>
         <updated>2022-08-18T01:29:38.001Z</updated>
         <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
+        <id>https://ugong2san.tistory.com/4555</id>
+        <link href="https://ugong2san.tistory.com/4555"/>
+        <updated>2022-08-20T10:15:37.277Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신의 완벽한 하루는 어떤 하루인가요? - 완벽한 하루 방법론]]></title>
