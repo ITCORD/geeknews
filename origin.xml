@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-20T03:38:35.504Z</updated>
+    <updated>2022-08-20T04:30:44.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ravynos.com/"/>
         <updated>2022-08-20T01:18:09.875Z</updated>
         <content type="html"><![CDATA[(ravynos.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-word : 일반적인 단어 3000여개를 구글플레이에서 검색해본다면.]]></title>
+        <id>https://k-word.web.app/</id>
+        <link href="https://k-word.web.app/"/>
+        <updated>2022-08-19T09:15:19.025Z</updated>
+        <content type="html"><![CDATA[(k-word.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아메리칸 에어라인, Boom Supersonic의 Overture 비행기 20대 구매 계약]]></title>
@@ -25,13 +32,6 @@
         <link href="https://supabase.com/blog/supabase-realtime-multiplayer-general-availability"/>
         <updated>2022-08-20T01:18:09.877Z</updated>
         <content type="html"><![CDATA[(supabase.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-word : 일반적인 단어 3000여개를 구글플레이에서 검색해본다면.]]></title>
-        <id>https://k-word.web.app/</id>
-        <link href="https://k-word.web.app/"/>
-        <updated>2022-08-19T09:15:19.025Z</updated>
-        <content type="html"><![CDATA[(k-word.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컴퓨터/윈도우를 정리/관리하는 방법 Ver 5.7 (2022-08-14 업데이트)]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(aladin.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VSCode, Markdown Language Server 공개]]></title>
-        <id>https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server</id>
-        <link href="https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server"/>
-        <updated>2022-08-18T01:29:38.001Z</updated>
-        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아직 소수의 사람들만 얘기하는 Next Big Thing은 뭘까요?]]></title>
         <id>https://news.ycombinator.com/item?id=32378695</id>
         <link href="https://news.ycombinator.com/item?id=32378695"/>
@@ -118,11 +111,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
-        <id>https://ugong2san.tistory.com/4555</id>
-        <link href="https://ugong2san.tistory.com/4555"/>
-        <updated>2022-08-19T06:21:24.284Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+        <title type="html"><![CDATA[VSCode, Markdown Language Server 공개]]></title>
+        <id>https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server</id>
+        <link href="https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server"/>
+        <updated>2022-08-18T01:29:38.001Z</updated>
+        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
@@ -130,6 +123,13 @@
         <link href="https://www.patterns.dev/"/>
         <updated>2022-08-15T01:23:00.297Z</updated>
         <content type="html"><![CDATA[(patterns.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
+        <id>https://ugong2san.tistory.com/4555</id>
+        <link href="https://ugong2san.tistory.com/4555"/>
+        <updated>2022-08-19T06:21:24.284Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StemRoller - 노래에서 보컬과 악기를 분리해주는 무료 앱 오픈소스]]></title>
