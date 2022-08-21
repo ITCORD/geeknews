@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-21T05:17:48.295Z</updated>
+    <updated>2022-08-21T06:19:02.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(blog.upbound.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
-        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
-        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
-        <updated>2022-08-21T01:17:40.548Z</updated>
-        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iOS 프라이버시: 인앱브라우저에 어떤 JavaScript가 주입되는지 볼 수 있는 InAppBrowser.com 발표]]></title>
         <id>https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser</id>
         <link href="https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser"/>
         <updated>2022-08-21T01:17:40.545Z</updated>
         <content type="html"><![CDATA[(krausefx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
+        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
+        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
+        <updated>2022-08-21T01:17:40.548Z</updated>
+        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DataDog의 Serverless 상태 보고서]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(lunamoth.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 리그오브레전드 전적 알림 앱]]></title>
-        <id>https://news.hada.io/topic?id=7223</id>
-        <link href="https://news.hada.io/topic?id=7223"/>
-        <updated>2022-08-20T08:19:15.383Z</updated>
-        <content type="html"><![CDATA[(apps.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애니메이션으로 배워보는 Raft Consensus]]></title>
         <id>https://thesecretlivesofdata.com/raft/</id>
         <link href="https://thesecretlivesofdata.com/raft/"/>
         <updated>2022-08-18T01:29:38.009Z</updated>
         <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 리그오브레전드 전적 알림 앱]]></title>
+        <id>https://news.hada.io/topic?id=7223</id>
+        <link href="https://news.hada.io/topic?id=7223"/>
+        <updated>2022-08-20T08:19:15.383Z</updated>
+        <content type="html"><![CDATA[(apps.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제임스 웹 우주망원경의 통합과학기기모듈은 2003년에 나온 자바스크립트 엔진으로 작동함]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(boomsupersonic.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대단한 사람은 대가리가 단단한 사람.]]></title>
-        <id>https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/</id>
-        <link href="https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/"/>
-        <updated>2022-08-20T12:25:50.343Z</updated>
-        <content type="html"><![CDATA[(nyanye.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Discord가 네트웍 디스크의 지연시간을 최소화한 방법]]></title>
         <id>https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency</id>
         <link href="https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency"/>
         <updated>2022-08-17T01:27:50.820Z</updated>
         <content type="html"><![CDATA[(discord.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대단한 사람은 대가리가 단단한 사람.]]></title>
+        <id>https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/</id>
+        <link href="https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/"/>
+        <updated>2022-08-20T12:25:50.343Z</updated>
+        <content type="html"><![CDATA[(nyanye.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gen Z는 베이비붐 세대의 20대 시절보다 구매력이 86% 낮음]]></title>
