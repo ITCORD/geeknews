@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-22T23:16:05.396Z</updated>
+    <updated>2022-08-23T01:41:02.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Maps.earth - 셀프 호스트 가능한 오픈소스 지도]]></title>
+        <id>https://about.maps.earth/</id>
+        <link href="https://about.maps.earth/"/>
+        <updated>2022-08-23T01:40:23.373Z</updated>
+        <content type="html"><![CDATA[(about.maps.earth)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
+        <id>https://www.levminer.com/blog/tauri-vs-electron</id>
+        <link href="https://www.levminer.com/blog/tauri-vs-electron"/>
+        <updated>2022-08-23T01:40:23.384Z</updated>
+        <content type="html"><![CDATA[(levminer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QEMU Internals]]></title>
+        <id>https://airbus-seclab.github.io/qemu_blog/</id>
+        <link href="https://airbus-seclab.github.io/qemu_blog/"/>
+        <updated>2022-08-23T01:40:23.387Z</updated>
+        <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
         <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
         <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
         <updated>2022-08-22T03:57:37.156Z</updated>
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 자가 수리 서비스를 맥북으로 확장]]></title>
+        <id>https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/</id>
+        <link href="https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/"/>
+        <updated>2022-08-23T01:40:23.390Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cosmopolitan v2.0 릴리즈]]></title>
@@ -25,6 +53,13 @@
         <link href="https://github.com/losfair/mvsqlite"/>
         <updated>2022-08-22T01:18:58.507Z</updated>
         <content type="html"><![CDATA[(github.com/losfair)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SurrealDB - 분산 Document-Graph 데이터베이스]]></title>
+        <id>https://github.com/surrealdb/surrealdb</id>
+        <link href="https://github.com/surrealdb/surrealdb"/>
+        <updated>2022-08-23T01:40:23.393Z</updated>
+        <content type="html"><![CDATA[(github.com/surrealdb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아픈 아기의 환부 사진을 찍은 아빠를 구글이 범죄자로 지목]]></title>
@@ -109,40 +144,5 @@
         <link href="https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/"/>
         <updated>2022-08-19T01:22:18.374Z</updated>
         <content type="html"><![CDATA[(hpjansson.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supabase Realtime - Multiplayer 기능 GA로 공개]]></title>
-        <id>https://supabase.com/blog/supabase-realtime-multiplayer-general-availability</id>
-        <link href="https://supabase.com/blog/supabase-realtime-multiplayer-general-availability"/>
-        <updated>2022-08-20T01:18:09.877Z</updated>
-        <content type="html"><![CDATA[(supabase.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존 카맥의 새로운 AGI회사 Keen Technologies, 260억 투자 받아]]></title>
-        <id>https://twitter.com/ID_AA_Carmack/status/1560728042959507457</id>
-        <link href="https://twitter.com/ID_AA_Carmack/status/1560728042959507457"/>
-        <updated>2022-08-21T01:17:40.549Z</updated>
-        <content type="html"><![CDATA[(twitter.com/ID_AA_Carmack)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악을 재생하면 구형 노트북 HDD가 파괴되는 취약점: CVE-2022-38392]]></title>
-        <id>https://www.theregister.com/2022/08/18/janet_jackson_video_crashes_laptops/</id>
-        <link href="https://www.theregister.com/2022/08/18/janet_jackson_video_crashes_laptops/"/>
-        <updated>2022-08-19T01:22:18.373Z</updated>
-        <content type="html"><![CDATA[(theregister.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gen Z는 베이비붐 세대의 20대 시절보다 구매력이 86% 낮음]]></title>
-        <id>https://www.consumeraffairs.com/finance/comparing-the-costs-of-generations.html</id>
-        <link href="https://www.consumeraffairs.com/finance/comparing-the-costs-of-generations.html"/>
-        <updated>2022-08-22T05:10:03.084Z</updated>
-        <content type="html"><![CDATA[(consumeraffairs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니메이션으로 배워보는 Raft Consensus]]></title>
-        <id>https://thesecretlivesofdata.com/raft/</id>
-        <link href="https://thesecretlivesofdata.com/raft/"/>
-        <updated>2022-08-22T15:18:14.337Z</updated>
-        <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
     </entry>
 </feed>
