@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-23T05:52:54.802Z</updated>
+    <updated>2022-08-23T06:29:10.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(piip.co.kr)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: BakingSheet - Unity/C# 게임 기획 데이터를 위한 스프레드시트 스키마 작성 및 포맷 변환 도구]]></title>
+        <id>https://news.hada.io/topic?id=7245</id>
+        <link href="https://news.hada.io/topic?id=7245"/>
+        <updated>2022-08-23T06:28:37.387Z</updated>
+        <content type="html"><![CDATA[(github.com/cathei)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ClipStudio, 2023년 부터 2.0 버전 출시하며, 1.0은 올해로 업데이트 중단예정]]></title>
         <id>https://www.clipstudio.net/kr/news/202208/22_01/</id>
         <link href="https://www.clipstudio.net/kr/news/202208/22_01/"/>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(github.com/jart)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 자가 수리 서비스를 맥북으로 확장]]></title>
-        <id>https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/</id>
-        <link href="https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/"/>
-        <updated>2022-08-23T01:40:23.390Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[mvSQLite - SQLite 호환 분산 Database]]></title>
         <id>https://github.com/losfair/mvsqlite</id>
         <link href="https://github.com/losfair/mvsqlite"/>
         <updated>2022-08-22T01:18:58.507Z</updated>
         <content type="html"><![CDATA[(github.com/losfair)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 자가 수리 서비스를 맥북으로 확장]]></title>
+        <id>https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/</id>
+        <link href="https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/"/>
+        <updated>2022-08-23T01:40:23.390Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아픈 아기의 환부 사진을 찍은 아빠를 구글이 범죄자로 지목]]></title>
@@ -111,18 +118,18 @@
         <content type="html"><![CDATA[(datadoghq.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 프라이버시 기능으로 약해진 경쟁자를 제치고 자신만의 광고 제국을 건설하기 시작]]></title>
-        <id>https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone</id>
-        <link href="https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone"/>
-        <updated>2022-08-22T01:18:58.510Z</updated>
-        <content type="html"><![CDATA[(axios.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Numpad - 텍스트편집기 + 계산기]]></title>
         <id>https://numpad.io/</id>
         <link href="https://numpad.io/"/>
         <updated>2022-08-21T01:17:40.545Z</updated>
         <content type="html"><![CDATA[(numpad.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 프라이버시 기능으로 약해진 경쟁자를 제치고 자신만의 광고 제국을 건설하기 시작]]></title>
+        <id>https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone</id>
+        <link href="https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone"/>
+        <updated>2022-08-22T01:18:58.510Z</updated>
+        <content type="html"><![CDATA[(axios.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes에서 수천개의 CRD를 사용하도록 확장하기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://k-word.web.app/"/>
         <updated>2022-08-19T09:15:19.025Z</updated>
         <content type="html"><![CDATA[(k-word.web.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ravynOS - macOS의 섬세함을 FreeBSD위에서 구현한 OS]]></title>
-        <id>https://ravynos.com/</id>
-        <link href="https://ravynos.com/"/>
-        <updated>2022-08-20T01:18:09.875Z</updated>
-        <content type="html"><![CDATA[(ravynos.com)]]></content>
     </entry>
 </feed>
