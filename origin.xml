@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-23T10:18:09.079Z</updated>
+    <updated>2022-08-23T11:14:04.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
-        <id>https://piip.co.kr/ko/blog/google-dropout-patent</id>
-        <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
-        <updated>2022-08-23T04:12:53.170Z</updated>
-        <content type="html"><![CDATA[(piip.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: BakingSheet - Unity/C# 게임 기획 데이터를 위한 스프레드시트 스키마 작성 및 포맷 변환 도구]]></title>
         <id>https://news.hada.io/topic?id=7245</id>
         <link href="https://news.hada.io/topic?id=7245"/>
         <updated>2022-08-23T06:28:37.387Z</updated>
         <content type="html"><![CDATA[(github.com/cathei)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
+        <id>https://piip.co.kr/ko/blog/google-dropout-patent</id>
+        <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
+        <updated>2022-08-23T04:12:53.170Z</updated>
+        <content type="html"><![CDATA[(piip.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일론 머스크는 화성에서 트위터를 할 수 있을까요?]]></title>
@@ -60,6 +60,13 @@
         <link href="https://github.com/jart/cosmopolitan/releases/tag/2.0"/>
         <updated>2022-08-22T03:57:37.166Z</updated>
         <content type="html"><![CDATA[(github.com/jart)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SurrealDB - 분산 Document-Graph 데이터베이스]]></title>
+        <id>https://github.com/surrealdb/surrealdb</id>
+        <link href="https://github.com/surrealdb/surrealdb"/>
+        <updated>2022-08-23T01:40:23.393Z</updated>
+        <content type="html"><![CDATA[(github.com/surrealdb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[mvSQLite - SQLite 호환 분산 Database]]></title>
@@ -81,13 +88,6 @@
         <link href="https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html"/>
         <updated>2022-08-22T01:18:58.510Z</updated>
         <content type="html"><![CDATA[(nytimes.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SurrealDB - 분산 Document-Graph 데이터베이스]]></title>
-        <id>https://github.com/surrealdb/surrealdb</id>
-        <link href="https://github.com/surrealdb/surrealdb"/>
-        <updated>2022-08-23T01:40:23.393Z</updated>
-        <content type="html"><![CDATA[(github.com/surrealdb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
