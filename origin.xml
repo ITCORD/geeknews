@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-23T18:19:10.818Z</updated>
+    <updated>2022-08-23T19:13:38.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(about.maps.earth)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[QEMU Internals]]></title>
+        <id>https://airbus-seclab.github.io/qemu_blog/</id>
+        <link href="https://airbus-seclab.github.io/qemu_blog/"/>
+        <updated>2022-08-23T01:40:23.387Z</updated>
+        <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
         <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
         <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[QEMU Internals]]></title>
-        <id>https://airbus-seclab.github.io/qemu_blog/</id>
-        <link href="https://airbus-seclab.github.io/qemu_blog/"/>
-        <updated>2022-08-23T01:40:23.387Z</updated>
-        <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
+        <title type="html"><![CDATA[Cosmopolitan v2.0 릴리즈]]></title>
+        <id>https://github.com/jart/cosmopolitan/releases/tag/2.0</id>
+        <link href="https://github.com/jart/cosmopolitan/releases/tag/2.0"/>
+        <updated>2022-08-22T03:57:37.166Z</updated>
+        <content type="html"><![CDATA[(github.com/jart)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: BakingSheet - Unity/C# 게임 기획 데이터를 위한 스프레드시트 스키마 작성 및 포맷 변환 도구]]></title>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[(github.com/cathei)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cosmopolitan v2.0 릴리즈]]></title>
-        <id>https://github.com/jart/cosmopolitan/releases/tag/2.0</id>
-        <link href="https://github.com/jart/cosmopolitan/releases/tag/2.0"/>
-        <updated>2022-08-22T03:57:37.166Z</updated>
-        <content type="html"><![CDATA[(github.com/jart)]]></content>
+        <title type="html"><![CDATA[일론 머스크는 화성에서 트위터를 할 수 있을까요?]]></title>
+        <id>https://maily.so/productlab/posts/1c16b50f</id>
+        <link href="https://maily.so/productlab/posts/1c16b50f"/>
+        <updated>2022-08-23T04:12:53.171Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
@@ -67,13 +74,6 @@
         <link href="https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html"/>
         <updated>2022-08-22T01:18:58.510Z</updated>
         <content type="html"><![CDATA[(nytimes.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일론 머스크는 화성에서 트위터를 할 수 있을까요?]]></title>
-        <id>https://maily.so/productlab/posts/1c16b50f</id>
-        <link href="https://maily.so/productlab/posts/1c16b50f"/>
-        <updated>2022-08-23T04:12:53.171Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
