@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-23T17:19:53.508Z</updated>
+    <updated>2022-08-23T18:19:10.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/cathei)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
-        <id>https://piip.co.kr/ko/blog/google-dropout-patent</id>
-        <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
-        <updated>2022-08-23T04:12:53.170Z</updated>
-        <content type="html"><![CDATA[(piip.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cosmopolitan v2.0 릴리즈]]></title>
         <id>https://github.com/jart/cosmopolitan/releases/tag/2.0</id>
         <link href="https://github.com/jart/cosmopolitan/releases/tag/2.0"/>
         <updated>2022-08-22T03:57:37.166Z</updated>
         <content type="html"><![CDATA[(github.com/jart)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
+        <id>https://piip.co.kr/ko/blog/google-dropout-patent</id>
+        <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
+        <updated>2022-08-23T04:12:53.170Z</updated>
+        <content type="html"><![CDATA[(piip.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[mvSQLite - SQLite 호환 분산 Database]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/losfair)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아픈 아기의 환부 사진을 찍은 아빠를 구글이 범죄자로 지목]]></title>
+        <id>https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html</id>
+        <link href="https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html"/>
+        <updated>2022-08-22T01:18:58.510Z</updated>
+        <content type="html"><![CDATA[(nytimes.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[일론 머스크는 화성에서 트위터를 할 수 있을까요?]]></title>
         <id>https://maily.so/productlab/posts/1c16b50f</id>
         <link href="https://maily.so/productlab/posts/1c16b50f"/>
         <updated>2022-08-23T04:12:53.171Z</updated>
         <content type="html"><![CDATA[(maily.so)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SurrealDB - 분산 Document-Graph 데이터베이스]]></title>
-        <id>https://github.com/surrealdb/surrealdb</id>
-        <link href="https://github.com/surrealdb/surrealdb"/>
-        <updated>2022-08-23T01:40:23.393Z</updated>
-        <content type="html"><![CDATA[(github.com/surrealdb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아픈 아기의 환부 사진을 찍은 아빠를 구글이 범죄자로 지목]]></title>
-        <id>https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html</id>
-        <link href="https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html"/>
-        <updated>2022-08-22T01:18:58.510Z</updated>
-        <content type="html"><![CDATA[(nytimes.com)]]></content>
+        <title type="html"><![CDATA[SurrealDB - 분산 Document-Graph 데이터베이스]]></title>
+        <id>https://github.com/surrealdb/surrealdb</id>
+        <link href="https://github.com/surrealdb/surrealdb"/>
+        <updated>2022-08-23T01:40:23.393Z</updated>
+        <content type="html"><![CDATA[(github.com/surrealdb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ClipStudio, 2023년 부터 2.0 버전 출시하며, 1.0은 올해로 업데이트 중단예정]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(krausefx.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 자가 수리 서비스를 맥북으로 확장]]></title>
-        <id>https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/</id>
-        <link href="https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/"/>
-        <updated>2022-08-23T01:40:23.390Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DataDog의 Serverless 상태 보고서]]></title>
         <id>https://www.datadoghq.com/state-of-serverless/</id>
         <link href="https://www.datadoghq.com/state-of-serverless/"/>
         <updated>2022-08-21T01:17:40.545Z</updated>
         <content type="html"><![CDATA[(datadoghq.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 자가 수리 서비스를 맥북으로 확장]]></title>
+        <id>https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/</id>
+        <link href="https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/"/>
+        <updated>2022-08-23T01:40:23.390Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Numpad - 텍스트편집기 + 계산기]]></title>
