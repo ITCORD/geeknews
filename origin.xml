@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-24T11:14:03.452Z</updated>
+    <updated>2022-08-24T12:31:10.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주4일 근무하시는 분?]]></title>
-        <id>https://news.ycombinator.com/item?id=32544315</id>
-        <link href="https://news.ycombinator.com/item?id=32544315"/>
-        <updated>2022-08-24T01:26:33.734Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
         <id>https://webhooks.fyi/</id>
         <link href="https://webhooks.fyi/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(webhooks.fyi)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주4일 근무하시는 분?]]></title>
+        <id>https://news.ycombinator.com/item?id=32544315</id>
+        <link href="https://news.ycombinator.com/item?id=32544315"/>
+        <updated>2022-08-24T01:26:33.734Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1년차 개발자의 골드만삭스 → 스타트업 이직 후기]]></title>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI, 9/1부터 GPT-3 API 가격 인하]]></title>
-        <id>https://openai.com/api/pricing/</id>
-        <link href="https://openai.com/api/pricing/"/>
-        <updated>2022-08-24T01:26:33.719Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[QEMU Internals]]></title>
         <id>https://airbus-seclab.github.io/qemu_blog/</id>
         <link href="https://airbus-seclab.github.io/qemu_blog/"/>
@@ -76,11 +69,25 @@
         <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenAI, 9/1부터 GPT-3 API 가격 인하]]></title>
+        <id>https://openai.com/api/pricing/</id>
+        <link href="https://openai.com/api/pricing/"/>
+        <updated>2022-08-24T01:26:33.719Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cosmopolitan v2.0 릴리즈]]></title>
         <id>https://github.com/jart/cosmopolitan/releases/tag/2.0</id>
         <link href="https://github.com/jart/cosmopolitan/releases/tag/2.0"/>
         <updated>2022-08-22T03:57:37.166Z</updated>
         <content type="html"><![CDATA[(github.com/jart)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: BakingSheet - Unity/C# 게임 기획 데이터를 위한 스프레드시트 스키마 작성 및 포맷 변환 도구]]></title>
+        <id>https://news.hada.io/topic?id=7245</id>
+        <link href="https://news.hada.io/topic?id=7245"/>
+        <updated>2022-08-23T06:28:37.387Z</updated>
+        <content type="html"><![CDATA[(github.com/cathei)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[mvSQLite - SQLite 호환 분산 Database]]></title>
@@ -102,13 +109,6 @@
         <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
         <updated>2022-08-23T04:12:53.170Z</updated>
         <content type="html"><![CDATA[(piip.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: BakingSheet - Unity/C# 게임 기획 데이터를 위한 스프레드시트 스키마 작성 및 포맷 변환 도구]]></title>
-        <id>https://news.hada.io/topic?id=7245</id>
-        <link href="https://news.hada.io/topic?id=7245"/>
-        <updated>2022-08-23T06:28:37.387Z</updated>
-        <content type="html"><![CDATA[(github.com/cathei)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아픈 아기의 환부 사진을 찍은 아빠를 구글이 범죄자로 지목]]></title>
