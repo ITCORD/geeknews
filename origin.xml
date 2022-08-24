@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-24T06:21:50.762Z</updated>
+    <updated>2022-08-24T07:14:40.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://the-algorithms.com/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주4일 근무하시는 분?]]></title>
+        <id>https://news.ycombinator.com/item?id=32544315</id>
+        <link href="https://news.ycombinator.com/item?id=32544315"/>
+        <updated>2022-08-24T01:26:33.734Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(noninertialframe.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주4일 근무하시는 분?]]></title>
-        <id>https://news.ycombinator.com/item?id=32544315</id>
-        <link href="https://news.ycombinator.com/item?id=32544315"/>
-        <updated>2022-08-24T01:26:33.734Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[올해 DEVIEW를 내년 상반기로 연기합니다]]></title>
+        <id>https://d2.naver.com/news/3524742</id>
+        <link href="https://d2.naver.com/news/3524742"/>
+        <updated>2022-08-24T07:14:03.805Z</updated>
+        <content type="html"><![CDATA[(d2.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.datadoghq.com/state-of-serverless/"/>
         <updated>2022-08-21T01:17:40.545Z</updated>
         <content type="html"><![CDATA[(datadoghq.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numpad - 텍스트편집기 + 계산기]]></title>
-        <id>https://numpad.io/</id>
-        <link href="https://numpad.io/"/>
-        <updated>2022-08-24T05:41:14.463Z</updated>
-        <content type="html"><![CDATA[(numpad.io)]]></content>
     </entry>
 </feed>
