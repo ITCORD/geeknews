@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-25T10:18:13.548Z</updated>
+    <updated>2022-08-25T11:14:55.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M2 맥북에어가 더 비싼 델 XPS Plus 노트북보다 윈도우 11을 더 빠르게 실행]]></title>
-        <id>https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/</id>
-        <link href="https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"/>
-        <updated>2022-08-25T01:36:10.418Z</updated>
-        <content type="html"><![CDATA[(cultofmac.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1년차 개발자의 골드만삭스 → 스타트업 이직 후기]]></title>
         <id>https://noninertialframe.com/blog/Joining%20Onehouse</id>
         <link href="https://noninertialframe.com/blog/Joining%20Onehouse"/>
@@ -83,18 +76,18 @@
         <content type="html"><![CDATA[(noninertialframe.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[M2 맥북에어가 더 비싼 델 XPS Plus 노트북보다 윈도우 11을 더 빠르게 실행]]></title>
+        <id>https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/</id>
+        <link href="https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"/>
+        <updated>2022-08-25T01:36:10.418Z</updated>
+        <content type="html"><![CDATA[(cultofmac.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
         <id>https://www.levminer.com/blog/tauri-vs-electron</id>
         <link href="https://www.levminer.com/blog/tauri-vs-electron"/>
         <updated>2022-08-23T01:40:23.384Z</updated>
         <content type="html"><![CDATA[(levminer.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위터의 전 보안 책임자, 회사가 봇과 안전에 대해 거짓말하고 있다고 내부 고발]]></title>
-        <id>https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety</id>
-        <link href="https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety"/>
-        <updated>2022-08-25T05:52:30.216Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
@@ -109,6 +102,13 @@
         <link href="https://about.maps.earth/"/>
         <updated>2022-08-23T01:40:23.373Z</updated>
         <content type="html"><![CDATA[(about.maps.earth)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터의 전 보안 책임자, 회사가 봇과 안전에 대해 거짓말하고 있다고 내부 고발]]></title>
+        <id>https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety</id>
+        <link href="https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety"/>
+        <updated>2022-08-25T05:52:30.216Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[QEMU Internals]]></title>
