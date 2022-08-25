@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-25T17:18:43.353Z</updated>
+    <updated>2022-08-25T18:18:39.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(crawlee.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
+        <id>https://webhooks.fyi/</id>
+        <link href="https://webhooks.fyi/"/>
+        <updated>2022-08-24T01:26:33.718Z</updated>
+        <content type="html"><![CDATA[(webhooks.fyi)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[차세대 아이폰 디자인 해보기]]></title>
         <id>https://neal.fun/design-the-next-iphone/</id>
         <link href="https://neal.fun/design-the-next-iphone/"/>
@@ -53,13 +60,6 @@
         <link href="https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/"/>
         <updated>2022-08-25T01:36:10.413Z</updated>
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
-        <id>https://webhooks.fyi/</id>
-        <link href="https://webhooks.fyi/"/>
-        <updated>2022-08-24T01:26:33.718Z</updated>
-        <content type="html"><![CDATA[(webhooks.fyi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주4일 근무하시는 분?]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(noninertialframe.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M2 맥북에어가 더 비싼 델 XPS Plus 노트북보다 윈도우 11을 더 빠르게 실행]]></title>
-        <id>https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/</id>
-        <link href="https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"/>
-        <updated>2022-08-25T01:36:10.418Z</updated>
-        <content type="html"><![CDATA[(cultofmac.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
         <id>https://www.levminer.com/blog/tauri-vs-electron</id>
         <link href="https://www.levminer.com/blog/tauri-vs-electron"/>
         <updated>2022-08-23T01:40:23.384Z</updated>
         <content type="html"><![CDATA[(levminer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2 맥북에어가 더 비싼 델 XPS Plus 노트북보다 윈도우 11을 더 빠르게 실행]]></title>
+        <id>https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/</id>
+        <link href="https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"/>
+        <updated>2022-08-25T01:36:10.418Z</updated>
+        <content type="html"><![CDATA[(cultofmac.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터의 전 보안 책임자, 회사가 봇과 안전에 대해 거짓말하고 있다고 내부 고발]]></title>
-        <id>https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety</id>
-        <link href="https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety"/>
-        <updated>2022-08-25T05:52:30.216Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[올해 DEVIEW를 내년 상반기로 연기합니다]]></title>
         <id>https://d2.naver.com/news/3524742</id>
         <link href="https://d2.naver.com/news/3524742"/>
         <updated>2022-08-24T07:14:03.805Z</updated>
         <content type="html"><![CDATA[(d2.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터의 전 보안 책임자, 회사가 봇과 안전에 대해 거짓말하고 있다고 내부 고발]]></title>
+        <id>https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety</id>
+        <link href="https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety"/>
+        <updated>2022-08-25T05:52:30.216Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI, 9/1부터 GPT-3 API 가격 인하]]></title>
