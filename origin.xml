@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-25T21:14:33.531Z</updated>
+    <updated>2022-08-25T22:16:46.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(noninertialframe.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M2 맥북에어가 더 비싼 델 XPS Plus 노트북보다 윈도우 11을 더 빠르게 실행]]></title>
-        <id>https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/</id>
-        <link href="https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"/>
-        <updated>2022-08-25T01:36:10.418Z</updated>
-        <content type="html"><![CDATA[(cultofmac.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
         <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
         <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
         <updated>2022-08-22T03:57:37.156Z</updated>
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2 맥북에어가 더 비싼 델 XPS Plus 노트북보다 윈도우 11을 더 빠르게 실행]]></title>
+        <id>https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/</id>
+        <link href="https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"/>
+        <updated>2022-08-25T01:36:10.418Z</updated>
+        <content type="html"><![CDATA[(cultofmac.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Maps.earth - 셀프 호스트 가능한 오픈소스 지도]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(d2.naver.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
+        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
+        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
+        <updated>2022-08-25T21:13:56.346Z</updated>
+        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI, 9/1부터 GPT-3 API 가격 인하]]></title>
         <id>https://openai.com/api/pricing/</id>
         <link href="https://openai.com/api/pricing/"/>
@@ -137,12 +144,5 @@
         <link href="https://github.com/losfair/mvsqlite"/>
         <updated>2022-08-22T01:18:58.507Z</updated>
         <content type="html"><![CDATA[(github.com/losfair)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
-        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
-        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
-        <updated>2022-08-25T21:13:56.346Z</updated>
-        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
     </entry>
 </feed>
