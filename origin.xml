@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-26T10:18:06.352Z</updated>
+    <updated>2022-08-26T11:14:27.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
-        <id>https://github.com/itchyny/gojq</id>
-        <link href="https://github.com/itchyny/gojq"/>
-        <updated>2022-08-26T01:27:03.287Z</updated>
-        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것]]></title>
         <id>https://future.com/remote-startups-hire-top-talent/</id>
         <link href="https://future.com/remote-startups-hire-top-talent/"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(future.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slack 기반 AWS Support 앱 출시]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/"/>
-        <updated>2022-08-26T04:16:35.392Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
+        <id>https://github.com/itchyny/gojq</id>
+        <link href="https://github.com/itchyny/gojq"/>
+        <updated>2022-08-26T01:27:03.287Z</updated>
+        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
@@ -67,6 +60,13 @@
         <link href="https://the-algorithms.com/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack 기반 AWS Support 앱 출시]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/"/>
+        <updated>2022-08-26T04:16:35.392Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(noninertialframe.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maps.earth - 셀프 호스트 가능한 오픈소스 지도]]></title>
+        <id>https://about.maps.earth/</id>
+        <link href="https://about.maps.earth/"/>
+        <updated>2022-08-23T01:40:23.373Z</updated>
+        <content type="html"><![CDATA[(about.maps.earth)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[차세대 아이폰 디자인 해보기]]></title>
         <id>https://neal.fun/design-the-next-iphone/</id>
         <link href="https://neal.fun/design-the-next-iphone/"/>
@@ -137,12 +144,5 @@
         <link href="https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/"/>
         <updated>2022-08-25T01:36:10.413Z</updated>
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maps.earth - 셀프 호스트 가능한 오픈소스 지도]]></title>
-        <id>https://about.maps.earth/</id>
-        <link href="https://about.maps.earth/"/>
-        <updated>2022-08-23T01:40:23.373Z</updated>
-        <content type="html"><![CDATA[(about.maps.earth)]]></content>
     </entry>
 </feed>
