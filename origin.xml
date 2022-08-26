@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-26T01:27:42.240Z</updated>
+    <updated>2022-08-26T04:17:14.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
-        <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
-        <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
-        <updated>2022-08-26T01:27:03.275Z</updated>
-        <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
+        <title type="html"><![CDATA[올해 12월 26일 heroku free, hobby-dev 중단]]></title>
+        <id>https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq</id>
+        <link href="https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq"/>
+        <updated>2022-08-26T04:16:35.392Z</updated>
+        <content type="html"><![CDATA[(help.heroku.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack 기반 AWS Support 앱 출시]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/"/>
+        <updated>2022-08-26T04:16:35.392Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것]]></title>
@@ -32,6 +39,13 @@
         <link href="https://future.com/remote-startups-hire-top-talent/"/>
         <updated>2022-08-25T01:36:10.413Z</updated>
         <content type="html"><![CDATA[(future.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
+        <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
+        <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
+        <updated>2022-08-26T01:27:03.275Z</updated>
+        <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
@@ -48,6 +62,13 @@
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리]]></title>
+        <id>https://crawlee.dev/</id>
+        <link href="https://crawlee.dev/"/>
+        <updated>2022-08-25T01:36:10.418Z</updated>
+        <content type="html"><![CDATA[(crawlee.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, 9/7일(한국시간 9/8일 2am) 새 제품 발표 이벤트 개최 : 'Far Out']]></title>
         <id>https://developer.apple.com/news/?id=o5cryh1p</id>
         <link href="https://developer.apple.com/news/?id=o5cryh1p"/>
@@ -62,13 +83,6 @@
         <content type="html"><![CDATA[(oven.sh)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리]]></title>
-        <id>https://crawlee.dev/</id>
-        <link href="https://crawlee.dev/"/>
-        <updated>2022-08-25T01:36:10.418Z</updated>
-        <content type="html"><![CDATA[(crawlee.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
         <id>https://github.com/itchyny/gojq</id>
         <link href="https://github.com/itchyny/gojq"/>
@@ -81,20 +95,6 @@
         <link href="https://webhooks.fyi/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(webhooks.fyi)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차세대 아이폰 디자인 해보기]]></title>
-        <id>https://neal.fun/design-the-next-iphone/</id>
-        <link href="https://neal.fun/design-the-next-iphone/"/>
-        <updated>2022-08-25T01:36:10.418Z</updated>
-        <content type="html"><![CDATA[(neal.fun)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Play 게임을 PC에서 할 수 있는 'Google Play Games for PC' 오픈 베타 출시]]></title>
-        <id>https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/</id>
-        <link href="https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/"/>
-        <updated>2022-08-25T01:36:10.413Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
@@ -118,6 +118,20 @@
         <content type="html"><![CDATA[(noninertialframe.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[차세대 아이폰 디자인 해보기]]></title>
+        <id>https://neal.fun/design-the-next-iphone/</id>
+        <link href="https://neal.fun/design-the-next-iphone/"/>
+        <updated>2022-08-25T01:36:10.418Z</updated>
+        <content type="html"><![CDATA[(neal.fun)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play 게임을 PC에서 할 수 있는 'Google Play Games for PC' 오픈 베타 출시]]></title>
+        <id>https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/</id>
+        <link href="https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/"/>
+        <updated>2022-08-25T01:36:10.413Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
         <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
         <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M2 맥북에어가 더 비싼 델 XPS Plus 노트북보다 윈도우 11을 더 빠르게 실행]]></title>
-        <id>https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/</id>
-        <link href="https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"/>
-        <updated>2022-08-25T01:36:10.418Z</updated>
-        <content type="html"><![CDATA[(cultofmac.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maps.earth - 셀프 호스트 가능한 오픈소스 지도]]></title>
         <id>https://about.maps.earth/</id>
         <link href="https://about.maps.earth/"/>
         <updated>2022-08-23T01:40:23.373Z</updated>
         <content type="html"><![CDATA[(about.maps.earth)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QEMU Internals]]></title>
-        <id>https://airbus-seclab.github.io/qemu_blog/</id>
-        <link href="https://airbus-seclab.github.io/qemu_blog/"/>
-        <updated>2022-08-23T01:40:23.387Z</updated>
-        <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
     </entry>
 </feed>
