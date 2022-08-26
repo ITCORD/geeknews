@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-25T23:28:29.042Z</updated>
+    <updated>2022-08-26T01:27:42.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NGINX의 미래 : 오픈소스 뿌리로의 귀환]]></title>
+        <id>https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/</id>
+        <link href="https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/"/>
+        <updated>2022-08-26T01:27:03.275Z</updated>
+        <content type="html"><![CDATA[(nginx.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
         <id>https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8</id>
         <link href="https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8"/>
         <updated>2022-08-25T01:36:10.413Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
+        <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
+        <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
+        <updated>2022-08-26T01:27:03.275Z</updated>
+        <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것]]></title>
@@ -34,11 +48,32 @@
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애플, 9/7일(한국시간 9/8일 2am) 새 제품 발표 이벤트 개최 : 'Far Out']]></title>
+        <id>https://developer.apple.com/news/?id=o5cryh1p</id>
+        <link href="https://developer.apple.com/news/?id=o5cryh1p"/>
+        <updated>2022-08-26T01:27:03.281Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
+        <id>https://oven.sh/</id>
+        <link href="https://oven.sh/"/>
+        <updated>2022-08-26T01:27:03.283Z</updated>
+        <content type="html"><![CDATA[(oven.sh)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리]]></title>
         <id>https://crawlee.dev/</id>
         <link href="https://crawlee.dev/"/>
         <updated>2022-08-25T01:36:10.418Z</updated>
         <content type="html"><![CDATA[(crawlee.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
+        <id>https://github.com/itchyny/gojq</id>
+        <link href="https://github.com/itchyny/gojq"/>
+        <updated>2022-08-26T01:27:03.287Z</updated>
+        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
@@ -109,40 +144,5 @@
         <link href="https://airbus-seclab.github.io/qemu_blog/"/>
         <updated>2022-08-23T01:40:23.387Z</updated>
         <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmopolitan v2.0 릴리즈]]></title>
-        <id>https://github.com/jart/cosmopolitan/releases/tag/2.0</id>
-        <link href="https://github.com/jart/cosmopolitan/releases/tag/2.0"/>
-        <updated>2022-08-22T03:57:37.166Z</updated>
-        <content type="html"><![CDATA[(github.com/jart)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
-        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
-        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
-        <updated>2022-08-25T21:13:56.346Z</updated>
-        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 DEVIEW를 내년 상반기로 연기합니다]]></title>
-        <id>https://d2.naver.com/news/3524742</id>
-        <link href="https://d2.naver.com/news/3524742"/>
-        <updated>2022-08-24T07:14:03.805Z</updated>
-        <content type="html"><![CDATA[(d2.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI, 9/1부터 GPT-3 API 가격 인하]]></title>
-        <id>https://openai.com/api/pricing/</id>
-        <link href="https://openai.com/api/pricing/"/>
-        <updated>2022-08-24T01:26:33.719Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mvSQLite - SQLite 호환 분산 Database]]></title>
-        <id>https://github.com/losfair/mvsqlite</id>
-        <link href="https://github.com/losfair/mvsqlite"/>
-        <updated>2022-08-22T01:18:58.507Z</updated>
-        <content type="html"><![CDATA[(github.com/losfair)]]></content>
     </entry>
 </feed>
