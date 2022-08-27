@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-27T13:28:05.404Z</updated>
+    <updated>2022-08-27T14:14:12.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(future.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
-        <id>https://blog.mogery.me/rcs-is-stupid/</id>
-        <link href="https://blog.mogery.me/rcs-is-stupid/"/>
-        <updated>2022-08-25T01:36:10.418Z</updated>
-        <content type="html"><![CDATA[(blog.mogery.me)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
         <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
         <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
         <updated>2022-08-26T01:27:03.275Z</updated>
         <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
+        <id>https://blog.mogery.me/rcs-is-stupid/</id>
+        <link href="https://blog.mogery.me/rcs-is-stupid/"/>
+        <updated>2022-08-25T01:36:10.418Z</updated>
+        <content type="html"><![CDATA[(blog.mogery.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 12월 26일 heroku free, hobby-dev 중단]]></title>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(oven.sh)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
-        <id>https://github.com/itchyny/gojq</id>
-        <link href="https://github.com/itchyny/gojq"/>
-        <updated>2022-08-26T01:27:03.287Z</updated>
-        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
         <id>https://webhooks.fyi/</id>
         <link href="https://webhooks.fyi/"/>
@@ -123,6 +116,13 @@
         <link href="https://www.levminer.com/blog/tauri-vs-electron"/>
         <updated>2022-08-23T01:40:23.384Z</updated>
         <content type="html"><![CDATA[(levminer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
+        <id>https://github.com/itchyny/gojq</id>
+        <link href="https://github.com/itchyny/gojq"/>
+        <updated>2022-08-26T01:27:03.287Z</updated>
+        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주4일 근무하시는 분?]]></title>
