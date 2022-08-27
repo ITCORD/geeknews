@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-27T22:14:49.113Z</updated>
+    <updated>2022-08-27T23:15:38.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heroicons 2.0 릴리즈]]></title>
-        <id>https://heroicons.com/</id>
-        <link href="https://heroicons.com/"/>
-        <updated>2022-08-27T01:21:53.980Z</updated>
-        <content type="html"><![CDATA[(heroicons.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
         <id>https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8</id>
         <link href="https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드 골핑 팁 : JavaScript 코드 Minify 하는 법]]></title>
-        <id>https://getbutterfly.com/code-golfing-tips-tricks-how-to-minify-your-javascript-code/</id>
-        <link href="https://getbutterfly.com/code-golfing-tips-tricks-how-to-minify-your-javascript-code/"/>
-        <updated>2022-08-27T01:21:53.984Z</updated>
-        <content type="html"><![CDATA[(getbutterfly.com)]]></content>
+        <title type="html"><![CDATA[Heroicons 2.0 릴리즈]]></title>
+        <id>https://heroicons.com/</id>
+        <link href="https://heroicons.com/"/>
+        <updated>2022-08-27T01:21:53.980Z</updated>
+        <content type="html"><![CDATA[(heroicons.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
@@ -39,6 +32,13 @@
         <link href="https://the-algorithms.com/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코드 골핑 팁 : JavaScript 코드 Minify 하는 법]]></title>
+        <id>https://getbutterfly.com/code-golfing-tips-tricks-how-to-minify-your-javascript-code/</id>
+        <link href="https://getbutterfly.com/code-golfing-tips-tricks-how-to-minify-your-javascript-code/"/>
+        <updated>2022-08-27T01:21:53.984Z</updated>
+        <content type="html"><![CDATA[(getbutterfly.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NGINX의 미래 : 오픈소스 뿌리로의 귀환]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
-        <id>https://github.com/itchyny/gojq</id>
-        <link href="https://github.com/itchyny/gojq"/>
-        <updated>2022-08-26T01:27:03.287Z</updated>
-        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
         <id>https://www.levminer.com/blog/tauri-vs-electron</id>
         <link href="https://www.levminer.com/blog/tauri-vs-electron"/>
         <updated>2022-08-23T01:40:23.384Z</updated>
         <content type="html"><![CDATA[(levminer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
+        <id>https://github.com/itchyny/gojq</id>
+        <link href="https://github.com/itchyny/gojq"/>
+        <updated>2022-08-26T01:27:03.287Z</updated>
+        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
