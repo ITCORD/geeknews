@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-27T15:15:49.724Z</updated>
+    <updated>2022-08-27T16:20:08.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(crawlee.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
-        <id>https://oven.sh/</id>
-        <link href="https://oven.sh/"/>
-        <updated>2022-08-26T01:27:03.283Z</updated>
-        <content type="html"><![CDATA[(oven.sh)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
         <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
         <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
         <updated>2022-08-22T03:57:37.156Z</updated>
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
+        <id>https://www.levminer.com/blog/tauri-vs-electron</id>
+        <link href="https://www.levminer.com/blog/tauri-vs-electron"/>
+        <updated>2022-08-23T01:40:23.384Z</updated>
+        <content type="html"><![CDATA[(levminer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
@@ -111,11 +111,11 @@
         <content type="html"><![CDATA[(webhooks.fyi)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
-        <id>https://www.levminer.com/blog/tauri-vs-electron</id>
-        <link href="https://www.levminer.com/blog/tauri-vs-electron"/>
-        <updated>2022-08-23T01:40:23.384Z</updated>
-        <content type="html"><![CDATA[(levminer.com)]]></content>
+        <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
+        <id>https://oven.sh/</id>
+        <link href="https://oven.sh/"/>
+        <updated>2022-08-26T01:27:03.283Z</updated>
+        <content type="html"><![CDATA[(oven.sh)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
