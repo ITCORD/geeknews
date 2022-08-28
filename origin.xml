@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-28T01:26:51.214Z</updated>
+    <updated>2022-08-28T03:55:55.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(heroicons.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
-        <id>https://the-algorithms.com/</id>
-        <link href="https://the-algorithms.com/"/>
-        <updated>2022-08-24T01:26:33.718Z</updated>
-        <content type="html"><![CDATA[(the-algorithms.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코드 골핑 팁 : JavaScript 코드 Minify 하는 법]]></title>
         <id>https://getbutterfly.com/code-golfing-tips-tricks-how-to-minify-your-javascript-code/</id>
         <link href="https://getbutterfly.com/code-golfing-tips-tricks-how-to-minify-your-javascript-code/"/>
         <updated>2022-08-27T01:21:53.984Z</updated>
         <content type="html"><![CDATA[(getbutterfly.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
+        <id>https://the-algorithms.com/</id>
+        <link href="https://the-algorithms.com/"/>
+        <updated>2022-08-24T01:26:33.718Z</updated>
+        <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NGINX의 미래 : 오픈소스 뿌리로의 귀환]]></title>
@@ -104,18 +104,25 @@
         <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
-        <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
-        <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
-        <updated>2022-08-22T03:57:37.156Z</updated>
-        <content type="html"><![CDATA[(cbinsights.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[올해 12월 26일 heroku free, hobby-dev 중단]]></title>
         <id>https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq</id>
         <link href="https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq"/>
         <updated>2022-08-26T04:16:35.392Z</updated>
         <content type="html"><![CDATA[(help.heroku.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
+        <id>https://github.com/itchyny/gojq</id>
+        <link href="https://github.com/itchyny/gojq"/>
+        <updated>2022-08-26T01:27:03.287Z</updated>
+        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
+        <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
+        <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
+        <updated>2022-08-22T03:57:37.156Z</updated>
+        <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
@@ -130,13 +137,6 @@
         <link href="https://webhooks.fyi/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(webhooks.fyi)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
-        <id>https://github.com/itchyny/gojq</id>
-        <link href="https://github.com/itchyny/gojq"/>
-        <updated>2022-08-26T01:27:03.287Z</updated>
-        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
