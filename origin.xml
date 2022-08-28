@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-28T07:14:32.308Z</updated>
+    <updated>2022-08-28T08:19:11.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(levminer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
-        <id>https://github.com/itchyny/gojq</id>
-        <link href="https://github.com/itchyny/gojq"/>
-        <updated>2022-08-26T01:27:03.287Z</updated>
-        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
         <id>https://webhooks.fyi/</id>
         <link href="https://webhooks.fyi/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(webhooks.fyi)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
+        <id>https://github.com/itchyny/gojq</id>
+        <link href="https://github.com/itchyny/gojq"/>
+        <updated>2022-08-26T01:27:03.287Z</updated>
+        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
