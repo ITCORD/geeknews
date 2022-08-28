@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-28T16:19:58.632Z</updated>
+    <updated>2022-08-28T17:18:08.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com/huggingface)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[z-index:10000 를 대체하는 top layer]]></title>
-        <id>https://developer.chrome.com/blog/what-is-the-top-layer/</id>
-        <link href="https://developer.chrome.com/blog/what-is-the-top-layer/"/>
-        <updated>2022-08-27T01:21:53.981Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022 카타르 월드컵: 사막 경기장을 식히는 '쿨'한 방법]]></title>
         <id>https://www.bbc.com/korean/resources/idt-8a2fc374-12d4-4875-8aa6-d3612d93af96</id>
         <link href="https://www.bbc.com/korean/resources/idt-8a2fc374-12d4-4875-8aa6-d3612d93af96"/>
         <updated>2022-08-28T01:26:12.724Z</updated>
         <content type="html"><![CDATA[(bbc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[z-index:10000 를 대체하는 top layer]]></title>
+        <id>https://developer.chrome.com/blog/what-is-the-top-layer/</id>
+        <link href="https://developer.chrome.com/blog/what-is-the-top-layer/"/>
+        <updated>2022-08-27T01:21:53.981Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NGINX의 미래 : 오픈소스 뿌리로의 귀환]]></title>
+        <id>https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/</id>
+        <link href="https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/"/>
+        <updated>2022-08-26T01:27:03.275Z</updated>
+        <content type="html"><![CDATA[(nginx.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것]]></title>
         <id>https://future.com/remote-startups-hire-top-talent/</id>
         <link href="https://future.com/remote-startups-hire-top-talent/"/>
@@ -76,18 +83,18 @@
         <content type="html"><![CDATA[(tumblr.macleodsawyer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NGINX의 미래 : 오픈소스 뿌리로의 귀환]]></title>
-        <id>https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/</id>
-        <link href="https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/"/>
-        <updated>2022-08-26T01:27:03.275Z</updated>
-        <content type="html"><![CDATA[(nginx.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
         <id>https://blog.mogery.me/rcs-is-stupid/</id>
         <link href="https://blog.mogery.me/rcs-is-stupid/"/>
         <updated>2022-08-25T01:36:10.418Z</updated>
         <content type="html"><![CDATA[(blog.mogery.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
+        <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
+        <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
+        <updated>2022-08-26T01:27:03.275Z</updated>
+        <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리]]></title>
@@ -104,11 +111,11 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
-        <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
-        <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
-        <updated>2022-08-26T01:27:03.275Z</updated>
-        <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
+        <title type="html"><![CDATA[올해 12월 26일 heroku free, hobby-dev 중단]]></title>
+        <id>https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq</id>
+        <link href="https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq"/>
+        <updated>2022-08-26T04:16:35.392Z</updated>
+        <content type="html"><![CDATA[(help.heroku.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
@@ -123,13 +130,6 @@
         <link href="https://webhooks.fyi/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(webhooks.fyi)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 12월 26일 heroku free, hobby-dev 중단]]></title>
-        <id>https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq</id>
-        <link href="https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq"/>
-        <updated>2022-08-26T04:16:35.392Z</updated>
-        <content type="html"><![CDATA[(help.heroku.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
