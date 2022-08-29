@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-29T12:32:26.367Z</updated>
+    <updated>2022-08-29T13:38:39.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com/jetpack-io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간]]></title>
-        <id>https://staltz.com/time-till-open-source-alternative.html</id>
-        <link href="https://staltz.com/time-till-open-source-alternative.html"/>
-        <updated>2022-08-29T01:47:59.466Z</updated>
-        <content type="html"><![CDATA[(staltz.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
         <id>https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge</id>
         <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
         <updated>2022-08-29T01:47:59.466Z</updated>
         <content type="html"><![CDATA[(vercel.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간]]></title>
+        <id>https://staltz.com/time-till-open-source-alternative.html</id>
+        <link href="https://staltz.com/time-till-open-source-alternative.html"/>
+        <updated>2022-08-29T01:47:59.466Z</updated>
+        <content type="html"><![CDATA[(staltz.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lexica - 5백만장 이상의 Stable Diffusion 생성 이미지 검색]]></title>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[듄 애널리틱스(Dune Analytics) - 온체인 데이터 분석 플랫폼]]></title>
-        <id>https://dune.com/</id>
-        <link href="https://dune.com/"/>
-        <updated>2022-08-29T01:47:59.466Z</updated>
-        <content type="html"><![CDATA[(dune.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
         <id>https://the-algorithms.com/</id>
         <link href="https://the-algorithms.com/"/>
@@ -109,6 +102,13 @@
         <link href="https://heroicons.com/"/>
         <updated>2022-08-27T01:21:53.980Z</updated>
         <content type="html"><![CDATA[(heroicons.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[듄 애널리틱스(Dune Analytics) - 온체인 데이터 분석 플랫폼]]></title>
+        <id>https://dune.com/</id>
+        <link href="https://dune.com/"/>
+        <updated>2022-08-29T01:47:59.466Z</updated>
+        <content type="html"><![CDATA[(dune.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 골핑 팁 : JavaScript 코드 Minify 하는 법]]></title>
