@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-29T07:22:09.405Z</updated>
+    <updated>2022-08-29T08:20:25.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(webplatform.news)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gradientify - 웹기반 그래디언트 제작 도구]]></title>
+        <id>https://gradientify.com/</id>
+        <link href="https://gradientify.com/"/>
+        <updated>2022-08-28T01:26:12.719Z</updated>
+        <content type="html"><![CDATA[(gradientify.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI로 재활용품 분리수거, 음식물 쓰레기 인식·측정, 물 사용 현황 관찰·누수 탐지하는 방식]]></title>
         <id>https://blog.naver.com/saltluxmarketing/222857790111</id>
         <link href="https://blog.naver.com/saltluxmarketing/222857790111"/>
@@ -60,13 +67,6 @@
         <link href="https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/"/>
         <updated>2022-08-29T01:47:59.466Z</updated>
         <content type="html"><![CDATA[(blog.zulip.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradientify - 웹기반 그래디언트 제작 도구]]></title>
-        <id>https://gradientify.com/</id>
-        <link href="https://gradientify.com/"/>
-        <updated>2022-08-28T01:26:12.719Z</updated>
-        <content type="html"><![CDATA[(gradientify.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Diffusers - Pytorch를 이용한 이미지/오디오 생성 모델]]></title>
