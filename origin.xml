@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-30T16:21:55.759Z</updated>
+    <updated>2022-08-30T17:24:09.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
-        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
-        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
-        <updated>2022-08-30T04:17:40.491Z</updated>
-        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
         <id>https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge</id>
         <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
         <updated>2022-08-29T01:47:59.466Z</updated>
         <content type="html"><![CDATA[(vercel.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
+        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
+        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
+        <updated>2022-08-30T04:17:40.491Z</updated>
+        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간]]></title>
