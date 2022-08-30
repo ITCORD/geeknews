@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-30T07:29:11.853Z</updated>
+    <updated>2022-08-30T08:21:15.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
-        <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
-        <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
-        <updated>2022-08-30T01:51:48.124Z</updated>
-        <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어에 대한 OnCall 보상]]></title>
         <id>https://blog.pragmaticengineer.com/oncall-compensation/</id>
         <link href="https://blog.pragmaticengineer.com/oncall-compensation/"/>
         <updated>2022-08-30T01:51:48.129Z</updated>
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
+        <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
+        <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
+        <updated>2022-08-30T01:51:48.124Z</updated>
+        <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(jsonvisio.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
-        <id>https://frpc.io/</id>
-        <link href="https://frpc.io/"/>
-        <updated>2022-08-30T01:51:48.131Z</updated>
-        <content type="html"><![CDATA[(frpc.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Soketi - 간단하고 빠른 오픈소스 웹소켓 서버]]></title>
         <id>https://soketi.app/</id>
         <link href="https://soketi.app/"/>
@@ -48,11 +41,25 @@
         <content type="html"><![CDATA[(soketi.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
+        <id>https://frpc.io/</id>
+        <link href="https://frpc.io/"/>
+        <updated>2022-08-30T01:51:48.131Z</updated>
+        <content type="html"><![CDATA[(frpc.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[존 카맥이 산만함을 피하는 방법]]></title>
         <id>https://twitter.com/ID_AA_Carmack/status/1562104562219196416</id>
         <link href="https://twitter.com/ID_AA_Carmack/status/1562104562219196416"/>
         <updated>2022-08-29T06:04:58.196Z</updated>
         <content type="html"><![CDATA[(twitter.com/ID_AA_Carmack)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
+        <id>https://maily.so/productlab/posts/abcf769c</id>
+        <link href="https://maily.so/productlab/posts/abcf769c"/>
+        <updated>2022-08-30T08:20:42.216Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LastPass 소스코드 유출]]></title>
@@ -137,12 +144,5 @@
         <link href="https://the-algorithms.com/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroicons 2.0 릴리즈]]></title>
-        <id>https://heroicons.com/</id>
-        <link href="https://heroicons.com/"/>
-        <updated>2022-08-27T01:21:53.980Z</updated>
-        <content type="html"><![CDATA[(heroicons.com)]]></content>
     </entry>
 </feed>
