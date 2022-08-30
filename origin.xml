@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-30T14:19:21.863Z</updated>
+    <updated>2022-08-30T15:17:11.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(twitter.com/ID_AA_Carmack)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
+        <id>https://maily.so/productlab/posts/abcf769c</id>
+        <link href="https://maily.so/productlab/posts/abcf769c"/>
+        <updated>2022-08-30T08:20:42.216Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구]]></title>
         <id>https://github.com/jetpack-io/devbox</id>
         <link href="https://github.com/jetpack-io/devbox"/>
@@ -74,13 +81,6 @@
         <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
         <updated>2022-08-30T04:17:40.491Z</updated>
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
-        <id>https://maily.so/productlab/posts/abcf769c</id>
-        <link href="https://maily.so/productlab/posts/abcf769c"/>
-        <updated>2022-08-30T08:20:42.216Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diffusers - Pytorch를 이용한 이미지/오디오 생성 모델]]></title>
-        <id>https://github.com/huggingface/diffusers</id>
-        <link href="https://github.com/huggingface/diffusers"/>
-        <updated>2022-08-28T01:26:12.729Z</updated>
-        <content type="html"><![CDATA[(github.com/huggingface)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
         <id>https://the-algorithms.com/</id>
         <link href="https://the-algorithms.com/"/>
         <updated>2022-08-24T01:26:33.718Z</updated>
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diffusers - Pytorch를 이용한 이미지/오디오 생성 모델]]></title>
+        <id>https://github.com/huggingface/diffusers</id>
+        <link href="https://github.com/huggingface/diffusers"/>
+        <updated>2022-08-28T01:26:12.729Z</updated>
+        <content type="html"><![CDATA[(github.com/huggingface)]]></content>
     </entry>
 </feed>
