@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-30T11:15:27.901Z</updated>
+    <updated>2022-08-30T12:33:12.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구]]></title>
+        <id>https://github.com/jetpack-io/devbox</id>
+        <link href="https://github.com/jetpack-io/devbox"/>
+        <updated>2022-08-29T01:47:59.466Z</updated>
+        <content type="html"><![CDATA[(github.com/jetpack-io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
         <id>https://maily.so/productlab/posts/abcf769c</id>
         <link href="https://maily.so/productlab/posts/abcf769c"/>
@@ -74,13 +81,6 @@
         <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
         <updated>2022-08-30T04:17:40.491Z</updated>
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구]]></title>
-        <id>https://github.com/jetpack-io/devbox</id>
-        <link href="https://github.com/jetpack-io/devbox"/>
-        <updated>2022-08-29T01:47:59.466Z</updated>
-        <content type="html"><![CDATA[(github.com/jetpack-io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[z-index:10000 를 대체하는 top layer]]></title>
-        <id>https://developer.chrome.com/blog/what-is-the-top-layer/</id>
-        <link href="https://developer.chrome.com/blog/what-is-the-top-layer/"/>
-        <updated>2022-08-27T01:21:53.981Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Diffusers - Pytorch를 이용한 이미지/오디오 생성 모델]]></title>
         <id>https://github.com/huggingface/diffusers</id>
         <link href="https://github.com/huggingface/diffusers"/>
         <updated>2022-08-28T01:26:12.729Z</updated>
         <content type="html"><![CDATA[(github.com/huggingface)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[z-index:10000 를 대체하는 top layer]]></title>
+        <id>https://developer.chrome.com/blog/what-is-the-top-layer/</id>
+        <link href="https://developer.chrome.com/blog/what-is-the-top-layer/"/>
+        <updated>2022-08-27T01:21:53.981Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
