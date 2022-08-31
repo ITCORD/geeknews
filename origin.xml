@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T12:32:06.265Z</updated>
+    <updated>2022-08-31T13:39:05.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
-        <id>https://github.com/divkit/divkit</id>
-        <link href="https://github.com/divkit/divkit"/>
-        <updated>2022-08-31T01:53:42.145Z</updated>
-        <content type="html"><![CDATA[(github.com/divkit)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
         <id>https://andys.page/posts/how-to-draw/</id>
         <link href="https://andys.page/posts/how-to-draw/"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(andys.page)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
-        <id>https://github.com/nayafia/lemonade-stand</id>
-        <link href="https://github.com/nayafia/lemonade-stand"/>
-        <updated>2022-08-31T01:53:42.154Z</updated>
-        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
+        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
+        <id>https://github.com/divkit/divkit</id>
+        <link href="https://github.com/divkit/divkit"/>
+        <updated>2022-08-31T01:53:42.145Z</updated>
+        <content type="html"><![CDATA[(github.com/divkit)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
@@ -39,6 +32,13 @@
         <link href="https://news.ycombinator.com/item?id=32467957"/>
         <updated>2022-08-30T01:51:48.128Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
+        <id>https://github.com/nayafia/lemonade-stand</id>
+        <link href="https://github.com/nayafia/lemonade-stand"/>
+        <updated>2022-08-31T01:53:42.154Z</updated>
+        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
-        <id>https://acorn.io/</id>
-        <link href="https://acorn.io/"/>
-        <updated>2022-08-31T01:53:42.151Z</updated>
-        <content type="html"><![CDATA[(acorn.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어에 대한 OnCall 보상]]></title>
         <id>https://blog.pragmaticengineer.com/oncall-compensation/</id>
         <link href="https://blog.pragmaticengineer.com/oncall-compensation/"/>
@@ -81,6 +74,13 @@
         <link href="https://jsonvisio.com/"/>
         <updated>2022-08-30T01:51:48.126Z</updated>
         <content type="html"><![CDATA[(jsonvisio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
+        <id>https://acorn.io/</id>
+        <link href="https://acorn.io/"/>
+        <updated>2022-08-31T01:53:42.151Z</updated>
+        <content type="html"><![CDATA[(acorn.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
