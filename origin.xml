@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T07:35:38.075Z</updated>
+    <updated>2022-08-31T08:19:38.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.ycombinator.com/item?id=32599398"/>
         <updated>2022-08-31T01:53:42.144Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
+        <id>https://andys.page/posts/how-to-draw/</id>
+        <link href="https://andys.page/posts/how-to-draw/"/>
+        <updated>2022-08-31T04:30:18.229Z</updated>
+        <content type="html"><![CDATA[(andys.page)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
-        <id>https://andys.page/posts/how-to-draw/</id>
-        <link href="https://andys.page/posts/how-to-draw/"/>
-        <updated>2022-08-31T04:30:18.229Z</updated>
-        <content type="html"><![CDATA[(andys.page)]]></content>
+        <title type="html"><![CDATA[The Big [Censored] Theory]]></title>
+        <id>https://pudding.cool/2022/08/censorship/</id>
+        <link href="https://pudding.cool/2022/08/censorship/"/>
+        <updated>2022-08-31T04:30:18.238Z</updated>
+        <content type="html"><![CDATA[(pudding.cool)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
@@ -48,20 +55,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Big [Censored] Theory]]></title>
-        <id>https://pudding.cool/2022/08/censorship/</id>
-        <link href="https://pudding.cool/2022/08/censorship/"/>
-        <updated>2022-08-31T04:30:18.238Z</updated>
-        <content type="html"><![CDATA[(pudding.cool)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
-        <id>https://acorn.io/</id>
-        <link href="https://acorn.io/"/>
-        <updated>2022-08-31T01:53:42.151Z</updated>
-        <content type="html"><![CDATA[(acorn.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
         <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
         <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
-        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
-        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
-        <updated>2022-08-31T07:35:03.103Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
+        <id>https://acorn.io/</id>
+        <link href="https://acorn.io/"/>
+        <updated>2022-08-31T01:53:42.151Z</updated>
+        <content type="html"><![CDATA[(acorn.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어에 대한 OnCall 보상]]></title>
@@ -102,6 +95,13 @@
         <link href="https://soketi.app/"/>
         <updated>2022-08-30T01:51:48.128Z</updated>
         <content type="html"><![CDATA[(soketi.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
+        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
+        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
+        <updated>2022-08-31T07:35:03.103Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존 카맥이 산만함을 피하는 방법]]></title>
