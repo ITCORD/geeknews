@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T13:39:05.057Z</updated>
+    <updated>2022-08-31T14:15:52.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(andys.page)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
+        <id>https://github.com/nayafia/lemonade-stand</id>
+        <link href="https://github.com/nayafia/lemonade-stand"/>
+        <updated>2022-08-31T01:53:42.154Z</updated>
+        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
         <id>https://github.com/divkit/divkit</id>
         <link href="https://github.com/divkit/divkit"/>
@@ -32,13 +39,6 @@
         <link href="https://news.ycombinator.com/item?id=32467957"/>
         <updated>2022-08-30T01:51:48.128Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
-        <id>https://github.com/nayafia/lemonade-stand</id>
-        <link href="https://github.com/nayafia/lemonade-stand"/>
-        <updated>2022-08-31T01:53:42.154Z</updated>
-        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
-        <id>https://jsonvisio.com/</id>
-        <link href="https://jsonvisio.com/"/>
-        <updated>2022-08-30T01:51:48.126Z</updated>
-        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
         <id>https://acorn.io/</id>
         <link href="https://acorn.io/"/>
         <updated>2022-08-31T01:53:42.151Z</updated>
         <content type="html"><![CDATA[(acorn.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
+        <id>https://jsonvisio.com/</id>
+        <link href="https://jsonvisio.com/"/>
+        <updated>2022-08-30T01:51:48.126Z</updated>
+        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
-        <id>https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge</id>
-        <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
-        <updated>2022-08-29T01:47:59.466Z</updated>
-        <content type="html"><![CDATA[(vercel.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
         <id>https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8</id>
         <link href="https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8"/>
         <updated>2022-08-31T11:13:37.402Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
+        <id>https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge</id>
+        <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
+        <updated>2022-08-29T01:47:59.466Z</updated>
+        <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
 </feed>
