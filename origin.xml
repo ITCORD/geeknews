@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T04:30:52.945Z</updated>
+    <updated>2022-08-31T06:24:37.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(multimodal.art)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
-        <id>https://github.com/nayafia/lemonade-stand</id>
-        <link href="https://github.com/nayafia/lemonade-stand"/>
-        <updated>2022-08-31T01:53:42.154Z</updated>
-        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
         <id>https://github.com/divkit/divkit</id>
         <link href="https://github.com/divkit/divkit"/>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(github.com/divkit)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
-        <id>https://news.ycombinator.com/item?id=32467957</id>
-        <link href="https://news.ycombinator.com/item?id=32467957"/>
-        <updated>2022-08-30T01:51:48.128Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
+        <id>https://github.com/nayafia/lemonade-stand</id>
+        <link href="https://github.com/nayafia/lemonade-stand"/>
+        <updated>2022-08-31T01:53:42.154Z</updated>
+        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
@@ -53,6 +46,13 @@
         <link href="https://pudding.cool/2022/08/censorship/"/>
         <updated>2022-08-31T04:30:18.238Z</updated>
         <content type="html"><![CDATA[(pudding.cool)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
+        <id>https://news.ycombinator.com/item?id=32467957</id>
+        <link href="https://news.ycombinator.com/item?id=32467957"/>
+        <updated>2022-08-30T01:51:48.128Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LastPass 소스코드 유출]]></title>
+        <id>https://www.theregister.com/2022/08/25/lastpass_security/</id>
+        <link href="https://www.theregister.com/2022/08/25/lastpass_security/"/>
+        <updated>2022-08-31T06:23:58.806Z</updated>
+        <content type="html"><![CDATA[(theregister.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
         <id>https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge</id>
         <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
@@ -137,12 +144,5 @@
         <link href="https://staltz.com/time-till-open-source-alternative.html"/>
         <updated>2022-08-29T01:47:59.466Z</updated>
         <content type="html"><![CDATA[(staltz.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradientify - 웹기반 그래디언트 제작 도구]]></title>
-        <id>https://gradientify.com/</id>
-        <link href="https://gradientify.com/"/>
-        <updated>2022-08-28T01:26:12.719Z</updated>
-        <content type="html"><![CDATA[(gradientify.com)]]></content>
     </entry>
 </feed>
