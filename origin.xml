@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T22:16:18.705Z</updated>
+    <updated>2022-08-31T23:16:38.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(multimodal.art)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
+        <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
+        <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
+        <updated>2022-08-30T01:51:48.124Z</updated>
+        <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
         <id>https://github.com/nayafia/lemonade-stand</id>
         <link href="https://github.com/nayafia/lemonade-stand"/>
@@ -46,13 +53,6 @@
         <link href="https://github.com/divkit/divkit"/>
         <updated>2022-08-31T01:53:42.145Z</updated>
         <content type="html"><![CDATA[(github.com/divkit)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
-        <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
-        <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
-        <updated>2022-08-30T01:51:48.124Z</updated>
-        <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Big [Censored] Theory]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
-        <id>https://acorn.io/</id>
-        <link href="https://acorn.io/"/>
-        <updated>2022-08-31T01:53:42.151Z</updated>
-        <content type="html"><![CDATA[(acorn.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
         <id>https://frpc.io/</id>
         <link href="https://frpc.io/"/>
         <updated>2022-08-30T01:51:48.131Z</updated>
         <content type="html"><![CDATA[(frpc.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
+        <id>https://acorn.io/</id>
+        <link href="https://acorn.io/"/>
+        <updated>2022-08-31T01:53:42.151Z</updated>
+        <content type="html"><![CDATA[(acorn.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Soketi - 간단하고 빠른 오픈소스 웹소켓 서버]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(staltz.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
-        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
-        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
-        <updated>2022-08-31T04:30:18.251Z</updated>
-        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
+        <title type="html"><![CDATA[Gradientify - 웹기반 그래디언트 제작 도구]]></title>
+        <id>https://gradientify.com/</id>
+        <link href="https://gradientify.com/"/>
+        <updated>2022-08-31T23:16:01.282Z</updated>
+        <content type="html"><![CDATA[(gradientify.com)]]></content>
     </entry>
 </feed>
