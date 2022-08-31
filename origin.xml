@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T14:15:52.089Z</updated>
+    <updated>2022-08-31T15:18:21.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
-        <id>https://acorn.io/</id>
-        <link href="https://acorn.io/"/>
-        <updated>2022-08-31T01:53:42.151Z</updated>
-        <content type="html"><![CDATA[(acorn.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
         <id>https://jsonvisio.com/</id>
         <link href="https://jsonvisio.com/"/>
         <updated>2022-08-30T01:51:48.126Z</updated>
         <content type="html"><![CDATA[(jsonvisio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
+        <id>https://acorn.io/</id>
+        <link href="https://acorn.io/"/>
+        <updated>2022-08-31T01:53:42.151Z</updated>
+        <content type="html"><![CDATA[(acorn.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(twitter.com/ID_AA_Carmack)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
-        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
-        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
-        <updated>2022-08-31T07:35:03.103Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
         <id>https://maily.so/productlab/posts/abcf769c</id>
         <link href="https://maily.so/productlab/posts/abcf769c"/>
         <updated>2022-08-30T08:20:42.216Z</updated>
         <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
+        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
+        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
+        <updated>2022-08-31T07:35:03.103Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구]]></title>
