@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T06:24:37.840Z</updated>
+    <updated>2022-08-31T07:35:38.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(andys.page)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Big [Censored] Theory]]></title>
-        <id>https://pudding.cool/2022/08/censorship/</id>
-        <link href="https://pudding.cool/2022/08/censorship/"/>
-        <updated>2022-08-31T04:30:18.238Z</updated>
-        <content type="html"><![CDATA[(pudding.cool)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32467957</id>
         <link href="https://news.ycombinator.com/item?id=32467957"/>
         <updated>2022-08-30T01:51:48.128Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big [Censored] Theory]]></title>
+        <id>https://pudding.cool/2022/08/censorship/</id>
+        <link href="https://pudding.cool/2022/08/censorship/"/>
+        <updated>2022-08-31T04:30:18.238Z</updated>
+        <content type="html"><![CDATA[(pudding.cool)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
@@ -67,6 +67,13 @@
         <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
         <updated>2022-08-30T01:51:48.124Z</updated>
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
+        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
+        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
+        <updated>2022-08-31T07:35:03.103Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어에 대한 OnCall 보상]]></title>
@@ -137,12 +144,5 @@
         <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
         <updated>2022-08-29T01:47:59.466Z</updated>
         <content type="html"><![CDATA[(vercel.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간]]></title>
-        <id>https://staltz.com/time-till-open-source-alternative.html</id>
-        <link href="https://staltz.com/time-till-open-source-alternative.html"/>
-        <updated>2022-08-29T01:47:59.466Z</updated>
-        <content type="html"><![CDATA[(staltz.com)]]></content>
     </entry>
 </feed>
