@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T17:20:48.739Z</updated>
+    <updated>2022-08-31T18:19:55.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
+        <id>https://multimodal.art/news/1-week-of-stable-diffusion</id>
+        <link href="https://multimodal.art/news/1-week-of-stable-diffusion"/>
+        <updated>2022-08-31T04:30:18.225Z</updated>
+        <content type="html"><![CDATA[(multimodal.art)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
         <id>https://github.com/nayafia/lemonade-stand</id>
         <link href="https://github.com/nayafia/lemonade-stand"/>
@@ -39,13 +46,6 @@
         <link href="https://github.com/divkit/divkit"/>
         <updated>2022-08-31T01:53:42.145Z</updated>
         <content type="html"><![CDATA[(github.com/divkit)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
-        <id>https://multimodal.art/news/1-week-of-stable-diffusion</id>
-        <link href="https://multimodal.art/news/1-week-of-stable-diffusion"/>
-        <updated>2022-08-31T04:30:18.225Z</updated>
-        <content type="html"><![CDATA[(multimodal.art)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(twitter.com/ID_AA_Carmack)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
-        <id>https://maily.so/productlab/posts/abcf769c</id>
-        <link href="https://maily.so/productlab/posts/abcf769c"/>
-        <updated>2022-08-30T08:20:42.216Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
         <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
         <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
         <updated>2022-08-31T07:35:03.103Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
+        <id>https://maily.so/productlab/posts/abcf769c</id>
+        <link href="https://maily.so/productlab/posts/abcf769c"/>
+        <updated>2022-08-30T08:20:42.216Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(github.com/jetpack-io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
-        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
-        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
-        <updated>2022-08-31T04:30:18.251Z</updated>
-        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
         <id>https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8</id>
         <link href="https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8"/>
         <updated>2022-08-31T11:13:37.402Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
+        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
+        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
+        <updated>2022-08-31T04:30:18.251Z</updated>
+        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
