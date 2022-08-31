@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T10:17:19.032Z</updated>
+    <updated>2022-08-31T11:14:15.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(andys.page)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
+        <id>https://github.com/divkit/divkit</id>
+        <link href="https://github.com/divkit/divkit"/>
+        <updated>2022-08-31T01:53:42.145Z</updated>
+        <content type="html"><![CDATA[(github.com/divkit)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
         <id>https://multimodal.art/news/1-week-of-stable-diffusion</id>
         <link href="https://multimodal.art/news/1-week-of-stable-diffusion"/>
@@ -32,13 +39,6 @@
         <link href="https://github.com/nayafia/lemonade-stand"/>
         <updated>2022-08-31T01:53:42.154Z</updated>
         <content type="html"><![CDATA[(github.com/nayafia)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
-        <id>https://github.com/divkit/divkit</id>
-        <link href="https://github.com/divkit/divkit"/>
-        <updated>2022-08-31T01:53:42.145Z</updated>
-        <content type="html"><![CDATA[(github.com/divkit)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Big [Censored] Theory]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(soketi.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
-        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
-        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
-        <updated>2022-08-31T07:35:03.103Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[존 카맥이 산만함을 피하는 방법]]></title>
         <id>https://twitter.com/ID_AA_Carmack/status/1562104562219196416</id>
         <link href="https://twitter.com/ID_AA_Carmack/status/1562104562219196416"/>
         <updated>2022-08-29T06:04:58.196Z</updated>
         <content type="html"><![CDATA[(twitter.com/ID_AA_Carmack)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
+        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
+        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
+        <updated>2022-08-31T07:35:03.103Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LastPass 소스코드 유출]]></title>
-        <id>https://www.theregister.com/2022/08/25/lastpass_security/</id>
-        <link href="https://www.theregister.com/2022/08/25/lastpass_security/"/>
-        <updated>2022-08-31T06:23:58.806Z</updated>
-        <content type="html"><![CDATA[(theregister.com)]]></content>
+        <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
+        <id>https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8</id>
+        <link href="https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8"/>
+        <updated>2022-08-31T11:13:37.402Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
 </feed>
