@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T18:19:55.225Z</updated>
+    <updated>2022-08-31T19:14:04.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(pudding.cool)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
+        <id>https://jsonvisio.com/</id>
+        <link href="https://jsonvisio.com/"/>
+        <updated>2022-08-30T01:51:48.126Z</updated>
+        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어에 대한 OnCall 보상]]></title>
         <id>https://blog.pragmaticengineer.com/oncall-compensation/</id>
         <link href="https://blog.pragmaticengineer.com/oncall-compensation/"/>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
-        <id>https://jsonvisio.com/</id>
-        <link href="https://jsonvisio.com/"/>
-        <updated>2022-08-30T01:51:48.126Z</updated>
-        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
+        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
+        <id>https://acorn.io/</id>
+        <link href="https://acorn.io/"/>
+        <updated>2022-08-31T01:53:42.151Z</updated>
+        <content type="html"><![CDATA[(acorn.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
@@ -88,13 +95,6 @@
         <link href="https://soketi.app/"/>
         <updated>2022-08-30T01:51:48.128Z</updated>
         <content type="html"><![CDATA[(soketi.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
-        <id>https://acorn.io/</id>
-        <link href="https://acorn.io/"/>
-        <updated>2022-08-31T01:53:42.151Z</updated>
-        <content type="html"><![CDATA[(acorn.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존 카맥이 산만함을 피하는 방법]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
-        <id>https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge</id>
-        <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
-        <updated>2022-08-29T01:47:59.466Z</updated>
-        <content type="html"><![CDATA[(vercel.com)]]></content>
+        <title type="html"><![CDATA[TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간]]></title>
+        <id>https://staltz.com/time-till-open-source-alternative.html</id>
+        <link href="https://staltz.com/time-till-open-source-alternative.html"/>
+        <updated>2022-08-31T19:13:24.861Z</updated>
+        <content type="html"><![CDATA[(staltz.com)]]></content>
     </entry>
 </feed>
