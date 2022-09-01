@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-01T07:18:22.199Z</updated>
+    <updated>2022-09-01T08:22:34.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
+        <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
+        <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
+        <updated>2022-09-01T07:17:45.654Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
         <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(promptbase.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
-        <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
-        <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
-        <updated>2022-09-01T07:17:45.654Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
+        <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
+        <id>https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8</id>
+        <link href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"/>
+        <updated>2022-09-01T01:19:04.397Z</updated>
+        <content type="html"><![CDATA[(open.nytimes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
@@ -32,13 +39,6 @@
         <link href="https://github.com/kakaobrain/coyo-dataset"/>
         <updated>2022-09-01T01:19:04.399Z</updated>
         <content type="html"><![CDATA[(github.com/kakaobrain)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
-        <id>https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8</id>
-        <link href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"/>
-        <updated>2022-09-01T01:19:04.397Z</updated>
-        <content type="html"><![CDATA[(open.nytimes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI Grant - AI스타트업에 25만불을 지원해주는 프로그램]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(jsonvisio.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미디엄에 대한 흥미로운 사실들.]]></title>
-        <id>https://maily.so/productlab/posts/ac98cead</id>
-        <link href="https://maily.so/productlab/posts/ac98cead"/>
-        <updated>2022-09-01T04:05:00.095Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
         <id>https://frpc.io/</id>
         <link href="https://frpc.io/"/>
         <updated>2022-08-30T01:51:48.131Z</updated>
         <content type="html"><![CDATA[(frpc.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미디엄에 대한 흥미로운 사실들.]]></title>
+        <id>https://maily.so/productlab/posts/ac98cead</id>
+        <link href="https://maily.so/productlab/posts/ac98cead"/>
+        <updated>2022-09-01T04:05:00.095Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
 </feed>
