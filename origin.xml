@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-01T15:19:36.134Z</updated>
+    <updated>2022-09-01T16:22:14.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
+        <id>https://andys.page/posts/how-to-draw/</id>
+        <link href="https://andys.page/posts/how-to-draw/"/>
+        <updated>2022-08-31T04:30:18.229Z</updated>
+        <content type="html"><![CDATA[(andys.page)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32467957</id>
         <link href="https://news.ycombinator.com/item?id=32467957"/>
@@ -83,11 +90,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
-        <id>https://andys.page/posts/how-to-draw/</id>
-        <link href="https://andys.page/posts/how-to-draw/"/>
-        <updated>2022-08-31T04:30:18.229Z</updated>
-        <content type="html"><![CDATA[(andys.page)]]></content>
+        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
+        <id>https://github.com/nayafia/lemonade-stand</id>
+        <link href="https://github.com/nayafia/lemonade-stand"/>
+        <updated>2022-08-31T01:53:42.154Z</updated>
+        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
@@ -102,13 +109,6 @@
         <link href="https://multimodal.art/news/1-week-of-stable-diffusion"/>
         <updated>2022-08-31T04:30:18.225Z</updated>
         <content type="html"><![CDATA[(multimodal.art)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
-        <id>https://github.com/nayafia/lemonade-stand</id>
-        <link href="https://github.com/nayafia/lemonade-stand"/>
-        <updated>2022-08-31T01:53:42.154Z</updated>
-        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
