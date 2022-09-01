@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-01T09:16:40.800Z</updated>
+    <updated>2022-09-01T10:17:51.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
+        <id>https://github.com/Kindelia/HVM</id>
+        <link href="https://github.com/Kindelia/HVM"/>
+        <updated>2022-09-01T10:17:13.573Z</updated>
+        <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32467957</id>
         <link href="https://news.ycombinator.com/item?id=32467957"/>
@@ -97,18 +104,18 @@
         <content type="html"><![CDATA[(github.com/divkit)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
-        <id>https://multimodal.art/news/1-week-of-stable-diffusion</id>
-        <link href="https://multimodal.art/news/1-week-of-stable-diffusion"/>
-        <updated>2022-08-31T04:30:18.225Z</updated>
-        <content type="html"><![CDATA[(multimodal.art)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
         <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
         <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
         <updated>2022-08-30T01:51:48.124Z</updated>
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
+        <id>https://multimodal.art/news/1-week-of-stable-diffusion</id>
+        <link href="https://multimodal.art/news/1-week-of-stable-diffusion"/>
+        <updated>2022-08-31T04:30:18.225Z</updated>
+        <content type="html"><![CDATA[(multimodal.art)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Big [Censored] Theory]]></title>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[(pudding.cool)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
-        <id>https://acorn.io/</id>
-        <link href="https://acorn.io/"/>
-        <updated>2022-08-31T01:53:42.151Z</updated>
-        <content type="html"><![CDATA[(acorn.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
         <id>https://jsonvisio.com/</id>
         <link href="https://jsonvisio.com/"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(jsonvisio.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
+        <id>https://acorn.io/</id>
+        <link href="https://acorn.io/"/>
+        <updated>2022-08-31T01:53:42.151Z</updated>
+        <content type="html"><![CDATA[(acorn.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
         <id>https://frpc.io/</id>
         <link href="https://frpc.io/"/>
         <updated>2022-08-30T01:51:48.131Z</updated>
         <content type="html"><![CDATA[(frpc.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프트웨어 엔지니어에 대한 OnCall 보상]]></title>
-        <id>https://blog.pragmaticengineer.com/oncall-compensation/</id>
-        <link href="https://blog.pragmaticengineer.com/oncall-compensation/"/>
-        <updated>2022-09-01T09:15:59.974Z</updated>
-        <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
 </feed>
