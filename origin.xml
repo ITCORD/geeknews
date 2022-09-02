@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-02T01:25:59.074Z</updated>
+    <updated>2022-09-02T04:13:29.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
-        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
-        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
-        <updated>2022-09-02T01:25:24.406Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
+        <title type="html"><![CDATA[Lenovo, T1 스마트 디스플레이 안경 공개]]></title>
+        <id>https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa</id>
+        <link href="https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa"/>
+        <updated>2022-09-02T04:12:53.922Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["The Swift Programming Language" 책, 오픈소스 프로젝트로 변경]]></title>
+        <id>https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989</id>
+        <link href="https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989"/>
+        <updated>2022-09-02T01:25:24.430Z</updated>
+        <content type="html"><![CDATA[(forums.swift.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
@@ -18,6 +25,13 @@
         <link href="https://film-net.github.io/"/>
         <updated>2022-09-02T01:25:24.411Z</updated>
         <content type="html"><![CDATA[(film-net.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
+        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
+        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
+        <updated>2022-09-02T01:25:24.406Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
@@ -34,6 +48,27 @@
         <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
+        <id>https://news.ycombinator.com/item?id=32599398</id>
+        <link href="https://news.ycombinator.com/item?id=32599398"/>
+        <updated>2022-08-31T01:53:42.144Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
+        <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
+        <link href="https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"/>
+        <updated>2022-09-01T04:05:00.086Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PromptBase - 프롬프트 마켓플레이스]]></title>
+        <id>https://promptbase.com/marketplace</id>
+        <link href="https://promptbase.com/marketplace"/>
+        <updated>2022-09-01T01:19:04.391Z</updated>
+        <content type="html"><![CDATA[(promptbase.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미국 정부, NVidia의 A100/H100 GPU에 대해서 중국/러시아 수출 금지]]></title>
         <id>https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm</id>
         <link href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm"/>
@@ -48,41 +83,6 @@
         <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
-        <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
-        <link href="https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"/>
-        <updated>2022-09-01T04:05:00.086Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["The Swift Programming Language" 책, 오픈소스 프로젝트로 변경]]></title>
-        <id>https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989</id>
-        <link href="https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989"/>
-        <updated>2022-09-02T01:25:24.430Z</updated>
-        <content type="html"><![CDATA[(forums.swift.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
-        <id>https://news.ycombinator.com/item?id=32599398</id>
-        <link href="https://news.ycombinator.com/item?id=32599398"/>
-        <updated>2022-08-31T01:53:42.144Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PromptBase - 프롬프트 마켓플레이스]]></title>
-        <id>https://promptbase.com/marketplace</id>
-        <link href="https://promptbase.com/marketplace"/>
-        <updated>2022-09-01T01:19:04.391Z</updated>
-        <content type="html"><![CDATA[(promptbase.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
-        <id>https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8</id>
-        <link href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"/>
-        <updated>2022-09-01T01:19:04.397Z</updated>
-        <content type="html"><![CDATA[(open.nytimes.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32467957</id>
         <link href="https://news.ycombinator.com/item?id=32467957"/>
@@ -95,6 +95,13 @@
         <link href="https://github.com/nayafia/lemonade-stand"/>
         <updated>2022-08-31T01:53:42.154Z</updated>
         <content type="html"><![CDATA[(github.com/nayafia)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
+        <id>https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8</id>
+        <link href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"/>
+        <updated>2022-09-01T01:19:04.397Z</updated>
+        <content type="html"><![CDATA[(open.nytimes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
@@ -137,12 +144,5 @@
         <link href="https://aigrant.org/"/>
         <updated>2022-09-01T01:19:04.397Z</updated>
         <content type="html"><![CDATA[(aigrant.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJI Mavic 3로 에베레스트 산 꼭대기 촬영 성공]]></title>
-        <id>https://www.youtube.com/watch?v=Zz9oI3B6v4c</id>
-        <link href="https://www.youtube.com/watch?v=Zz9oI3B6v4c"/>
-        <updated>2022-09-01T01:19:04.399Z</updated>
-        <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
 </feed>
