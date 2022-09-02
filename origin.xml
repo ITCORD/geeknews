@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-02T08:20:09.935Z</updated>
+    <updated>2022-09-02T09:15:59.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
+        <id>https://github.com/community/community/discussions/31643</id>
+        <link href="https://github.com/community/community/discussions/31643"/>
+        <updated>2022-09-02T08:19:31.938Z</updated>
+        <content type="html"><![CDATA[(github.com/community)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
         <id>https://film-net.github.io/</id>
         <link href="https://film-net.github.io/"/>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리나라 비밀결사 조직에서 만들었다는 암호체계]]></title>
+        <id>https://www.hani.co.kr/arti/society/society_general/1057247.html</id>
+        <link href="https://www.hani.co.kr/arti/society/society_general/1057247.html"/>
+        <updated>2022-09-02T07:21:56.455Z</updated>
+        <content type="html"><![CDATA[(hani.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
         <id>https://github.com/Kindelia/HVM</id>
         <link href="https://github.com/Kindelia/HVM"/>
         <updated>2022-09-01T10:17:13.573Z</updated>
         <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
-        <id>https://github.com/community/community/discussions/31643</id>
-        <link href="https://github.com/community/community/discussions/31643"/>
-        <updated>2022-09-02T08:19:31.938Z</updated>
-        <content type="html"><![CDATA[(github.com/community)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리나라 비밀결사 조직에서 만들었다는 암호체계]]></title>
-        <id>https://www.hani.co.kr/arti/society/society_general/1057247.html</id>
-        <link href="https://www.hani.co.kr/arti/society/society_general/1057247.html"/>
-        <updated>2022-09-02T07:21:56.455Z</updated>
-        <content type="html"><![CDATA[(hani.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
         <id>https://news.ycombinator.com/item?id=32599398</id>
         <link href="https://news.ycombinator.com/item?id=32599398"/>
         <updated>2022-08-31T01:53:42.144Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
+        <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
+        <link href="https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"/>
+        <updated>2022-09-01T04:05:00.086Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 정부, NVidia의 A100/H100 GPU에 대해서 중국/러시아 수출 금지]]></title>
@@ -81,13 +88,6 @@
         <link href="https://dreambooth.github.io/"/>
         <updated>2022-09-02T01:25:24.422Z</updated>
         <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
-        <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
-        <link href="https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"/>
-        <updated>2022-09-01T04:05:00.086Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PromptBase - 프롬프트 마켓플레이스]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
-        <id>https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8</id>
-        <link href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"/>
-        <updated>2022-09-01T01:19:04.397Z</updated>
-        <content type="html"><![CDATA[(open.nytimes.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
         <id>https://andys.page/posts/how-to-draw/</id>
         <link href="https://andys.page/posts/how-to-draw/"/>
         <updated>2022-08-31T04:30:18.229Z</updated>
         <content type="html"><![CDATA[(andys.page)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
+        <id>https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8</id>
+        <link href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"/>
+        <updated>2022-09-01T01:19:04.397Z</updated>
+        <content type="html"><![CDATA[(open.nytimes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
