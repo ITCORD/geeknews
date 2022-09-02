@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-02T12:31:37.020Z</updated>
+    <updated>2022-09-02T13:38:09.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lenovo, T1 스마트 디스플레이 안경 공개]]></title>
-        <id>https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa</id>
-        <link href="https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa"/>
-        <updated>2022-09-02T04:12:53.922Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA["The Swift Programming Language" 책, 오픈소스 프로젝트로 변경]]></title>
         <id>https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989</id>
         <link href="https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989"/>
         <updated>2022-09-02T01:25:24.430Z</updated>
         <content type="html"><![CDATA[(forums.swift.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo, T1 스마트 디스플레이 안경 공개]]></title>
+        <id>https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa</id>
+        <link href="https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa"/>
+        <updated>2022-09-02T04:12:53.922Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
+        <id>https://github.com/Kindelia/HVM</id>
+        <link href="https://github.com/Kindelia/HVM"/>
+        <updated>2022-09-01T10:17:13.573Z</updated>
+        <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
         <id>https://github.com/community/community/discussions/31643</id>
         <link href="https://github.com/community/community/discussions/31643"/>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[(github.com/community)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
-        <id>https://github.com/Kindelia/HVM</id>
-        <link href="https://github.com/Kindelia/HVM"/>
-        <updated>2022-09-01T10:17:13.573Z</updated>
-        <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
+        <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
+        <id>https://dreambooth.github.io/</id>
+        <link href="https://dreambooth.github.io/"/>
+        <updated>2022-09-02T01:25:24.422Z</updated>
+        <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 비밀결사 조직에서 만들었다는 암호체계]]></title>
@@ -60,13 +67,6 @@
         <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
         <updated>2022-09-01T07:17:45.654Z</updated>
         <content type="html"><![CDATA[(joone.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
-        <id>https://dreambooth.github.io/</id>
-        <link href="https://dreambooth.github.io/"/>
-        <updated>2022-09-02T01:25:24.422Z</updated>
-        <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(open.nytimes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
-        <id>https://github.com/divkit/divkit</id>
-        <link href="https://github.com/divkit/divkit"/>
-        <updated>2022-08-31T01:53:42.145Z</updated>
-        <content type="html"><![CDATA[(github.com/divkit)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
         <id>https://github.com/kakaobrain/coyo-dataset</id>
         <link href="https://github.com/kakaobrain/coyo-dataset"/>
         <updated>2022-09-01T01:19:04.399Z</updated>
         <content type="html"><![CDATA[(github.com/kakaobrain)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
+        <id>https://github.com/divkit/divkit</id>
+        <link href="https://github.com/divkit/divkit"/>
+        <updated>2022-08-31T01:53:42.145Z</updated>
+        <content type="html"><![CDATA[(github.com/divkit)]]></content>
     </entry>
 </feed>
