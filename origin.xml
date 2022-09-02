@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-02T04:13:29.178Z</updated>
+    <updated>2022-09-02T06:00:06.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
-        <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
-        <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
-        <updated>2022-09-01T07:17:45.654Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
         <id>https://github.com/Kindelia/HVM</id>
         <link href="https://github.com/Kindelia/HVM"/>
         <updated>2022-09-01T10:17:13.573Z</updated>
         <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
+        <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
+        <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
+        <updated>2022-09-01T07:17:45.654Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
@@ -69,20 +69,6 @@
         <content type="html"><![CDATA[(promptbase.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 정부, NVidia의 A100/H100 GPU에 대해서 중국/러시아 수출 금지]]></title>
-        <id>https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm</id>
-        <link href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm"/>
-        <updated>2022-09-02T01:25:24.415Z</updated>
-        <content type="html"><![CDATA[(sec.gov)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
-        <id>https://dreambooth.github.io/</id>
-        <link href="https://dreambooth.github.io/"/>
-        <updated>2022-09-02T01:25:24.422Z</updated>
-        <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32467957</id>
         <link href="https://news.ycombinator.com/item?id=32467957"/>
@@ -90,11 +76,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
-        <id>https://github.com/nayafia/lemonade-stand</id>
-        <link href="https://github.com/nayafia/lemonade-stand"/>
-        <updated>2022-08-31T01:53:42.154Z</updated>
-        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
+        <title type="html"><![CDATA[미국 정부, NVidia의 A100/H100 GPU에 대해서 중국/러시아 수출 금지]]></title>
+        <id>https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm</id>
+        <link href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm"/>
+        <updated>2022-09-02T01:25:24.415Z</updated>
+        <content type="html"><![CDATA[(sec.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
@@ -104,11 +90,18 @@
         <content type="html"><![CDATA[(open.nytimes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
-        <id>https://andys.page/posts/how-to-draw/</id>
-        <link href="https://andys.page/posts/how-to-draw/"/>
-        <updated>2022-08-31T04:30:18.229Z</updated>
-        <content type="html"><![CDATA[(andys.page)]]></content>
+        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
+        <id>https://github.com/nayafia/lemonade-stand</id>
+        <link href="https://github.com/nayafia/lemonade-stand"/>
+        <updated>2022-08-31T01:53:42.154Z</updated>
+        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
+        <id>https://github.com/kakaobrain/coyo-dataset</id>
+        <link href="https://github.com/kakaobrain/coyo-dataset"/>
+        <updated>2022-09-01T01:19:04.399Z</updated>
+        <content type="html"><![CDATA[(github.com/kakaobrain)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
@@ -118,11 +111,18 @@
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
-        <id>https://github.com/kakaobrain/coyo-dataset</id>
-        <link href="https://github.com/kakaobrain/coyo-dataset"/>
-        <updated>2022-09-01T01:19:04.399Z</updated>
-        <content type="html"><![CDATA[(github.com/kakaobrain)]]></content>
+        <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
+        <id>https://andys.page/posts/how-to-draw/</id>
+        <link href="https://andys.page/posts/how-to-draw/"/>
+        <updated>2022-08-31T04:30:18.229Z</updated>
+        <content type="html"><![CDATA[(andys.page)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
+        <id>https://dreambooth.github.io/</id>
+        <link href="https://dreambooth.github.io/"/>
+        <updated>2022-09-02T01:25:24.422Z</updated>
+        <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(multimodal.art)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Grant - AI스타트업에 25만불을 지원해주는 프로그램]]></title>
-        <id>https://aigrant.org/</id>
-        <link href="https://aigrant.org/"/>
-        <updated>2022-09-01T01:19:04.397Z</updated>
-        <content type="html"><![CDATA[(aigrant.org)]]></content>
+        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
+        <id>https://jsonvisio.com/</id>
+        <link href="https://jsonvisio.com/"/>
+        <updated>2022-09-02T05:59:33.270Z</updated>
+        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
     </entry>
 </feed>
