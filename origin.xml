@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-02T06:00:06.742Z</updated>
+    <updated>2022-09-02T06:46:25.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,20 +76,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 정부, NVidia의 A100/H100 GPU에 대해서 중국/러시아 수출 금지]]></title>
-        <id>https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm</id>
-        <link href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm"/>
-        <updated>2022-09-02T01:25:24.415Z</updated>
-        <content type="html"><![CDATA[(sec.gov)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
-        <id>https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8</id>
-        <link href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"/>
-        <updated>2022-09-01T01:19:04.397Z</updated>
-        <content type="html"><![CDATA[(open.nytimes.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
         <id>https://github.com/nayafia/lemonade-stand</id>
         <link href="https://github.com/nayafia/lemonade-stand"/>
@@ -97,11 +83,11 @@
         <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
-        <id>https://github.com/kakaobrain/coyo-dataset</id>
-        <link href="https://github.com/kakaobrain/coyo-dataset"/>
-        <updated>2022-09-01T01:19:04.399Z</updated>
-        <content type="html"><![CDATA[(github.com/kakaobrain)]]></content>
+        <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
+        <id>https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8</id>
+        <link href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"/>
+        <updated>2022-09-01T01:19:04.397Z</updated>
+        <content type="html"><![CDATA[(open.nytimes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
@@ -116,6 +102,20 @@
         <link href="https://andys.page/posts/how-to-draw/"/>
         <updated>2022-08-31T04:30:18.229Z</updated>
         <content type="html"><![CDATA[(andys.page)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
+        <id>https://github.com/kakaobrain/coyo-dataset</id>
+        <link href="https://github.com/kakaobrain/coyo-dataset"/>
+        <updated>2022-09-01T01:19:04.399Z</updated>
+        <content type="html"><![CDATA[(github.com/kakaobrain)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 정부, NVidia의 A100/H100 GPU에 대해서 중국/러시아 수출 금지]]></title>
+        <id>https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm</id>
+        <link href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm"/>
+        <updated>2022-09-02T01:25:24.415Z</updated>
+        <content type="html"><![CDATA[(sec.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
