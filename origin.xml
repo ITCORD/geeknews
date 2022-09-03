@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-03T15:16:37.122Z</updated>
+    <updated>2022-09-03T16:20:01.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com/lstein)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
-        <id>https://github.com/phil294/AHK_X11</id>
-        <link href="https://github.com/phil294/AHK_X11"/>
-        <updated>2022-09-03T01:24:13.419Z</updated>
-        <content type="html"><![CDATA[(github.com/phil294)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["The Swift Programming Language" 책, 오픈소스 프로젝트로 변경]]></title>
         <id>https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989</id>
         <link href="https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989"/>
         <updated>2022-09-02T01:25:24.430Z</updated>
         <content type="html"><![CDATA[(forums.swift.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
+        <id>https://github.com/phil294/AHK_X11</id>
+        <link href="https://github.com/phil294/AHK_X11"/>
+        <updated>2022-09-03T01:24:13.419Z</updated>
+        <content type="html"><![CDATA[(github.com/phil294)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
-        <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
-        <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
-        <updated>2022-09-01T07:17:45.654Z</updated>
-        <content type="html"><![CDATA[(joone.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32467957</id>
         <link href="https://news.ycombinator.com/item?id=32467957"/>
         <updated>2022-08-30T01:51:48.128Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
+        <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
+        <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
+        <updated>2022-09-01T07:17:45.654Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lenovo, T1 스마트 디스플레이 안경 공개]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
+        <id>https://github.com/nayafia/lemonade-stand</id>
+        <link href="https://github.com/nayafia/lemonade-stand"/>
+        <updated>2022-08-31T01:53:42.154Z</updated>
+        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
         <id>https://dreambooth.github.io/</id>
         <link href="https://dreambooth.github.io/"/>
@@ -102,13 +109,6 @@
         <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
         <updated>2022-09-02T01:25:24.406Z</updated>
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
-        <id>https://github.com/nayafia/lemonade-stand</id>
-        <link href="https://github.com/nayafia/lemonade-stand"/>
-        <updated>2022-08-31T01:53:42.154Z</updated>
-        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PromptBase - 프롬프트 마켓플레이스]]></title>
