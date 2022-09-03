@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-03T10:17:37.753Z</updated>
+    <updated>2022-09-03T11:13:34.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,20 +76,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
-        <id>https://dreambooth.github.io/</id>
-        <link href="https://dreambooth.github.io/"/>
-        <updated>2022-09-02T01:25:24.422Z</updated>
-        <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
-        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
-        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
-        <updated>2022-09-02T01:25:24.406Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
         <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
         <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
@@ -102,6 +88,20 @@
         <link href="https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"/>
         <updated>2022-09-01T04:05:00.086Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
+        <id>https://dreambooth.github.io/</id>
+        <link href="https://dreambooth.github.io/"/>
+        <updated>2022-09-02T01:25:24.422Z</updated>
+        <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
+        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
+        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
+        <updated>2022-09-02T01:25:24.406Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(andys.page)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
-        <id>https://github.com/divkit/divkit</id>
-        <link href="https://github.com/divkit/divkit"/>
-        <updated>2022-08-31T01:53:42.145Z</updated>
-        <content type="html"><![CDATA[(github.com/divkit)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
         <id>https://jsonvisio.com/</id>
         <link href="https://jsonvisio.com/"/>
         <updated>2022-09-03T05:30:54.322Z</updated>
         <content type="html"><![CDATA[(jsonvisio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
+        <id>https://github.com/divkit/divkit</id>
+        <link href="https://github.com/divkit/divkit"/>
+        <updated>2022-08-31T01:53:42.145Z</updated>
+        <content type="html"><![CDATA[(github.com/divkit)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
