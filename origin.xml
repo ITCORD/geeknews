@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-03T22:15:05.731Z</updated>
+    <updated>2022-09-03T23:15:31.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
-        <id>https://github.com/phil294/AHK_X11</id>
-        <link href="https://github.com/phil294/AHK_X11"/>
-        <updated>2022-09-03T01:24:13.419Z</updated>
-        <content type="html"><![CDATA[(github.com/phil294)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
         <id>https://film-net.github.io/</id>
         <link href="https://film-net.github.io/"/>
         <updated>2022-09-02T01:25:24.411Z</updated>
         <content type="html"><![CDATA[(film-net.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
+        <id>https://github.com/phil294/AHK_X11</id>
+        <link href="https://github.com/phil294/AHK_X11"/>
+        <updated>2022-09-03T01:24:13.419Z</updated>
+        <content type="html"><![CDATA[(github.com/phil294)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[(promptbase.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
+        <id>https://jsonvisio.com/</id>
+        <link href="https://jsonvisio.com/"/>
+        <updated>2022-09-03T05:30:54.322Z</updated>
+        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
         <id>https://dreambooth.github.io/</id>
         <link href="https://dreambooth.github.io/"/>
@@ -123,13 +130,6 @@
         <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
         <updated>2022-09-02T01:25:24.406Z</updated>
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
-        <id>https://jsonvisio.com/</id>
-        <link href="https://jsonvisio.com/"/>
-        <updated>2022-09-03T05:30:54.322Z</updated>
-        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
