@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-04T12:30:33.547Z</updated>
+    <updated>2022-09-04T13:29:12.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(forums.swift.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
-        <id>https://news.ycombinator.com/item?id=32467957</id>
-        <link href="https://news.ycombinator.com/item?id=32467957"/>
-        <updated>2022-08-30T01:51:48.128Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
         <id>https://github.com/Kindelia/HVM</id>
         <link href="https://github.com/Kindelia/HVM"/>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
-        <id>https://github.com/phil294/AHK_X11</id>
-        <link href="https://github.com/phil294/AHK_X11"/>
-        <updated>2022-09-03T01:24:13.419Z</updated>
-        <content type="html"><![CDATA[(github.com/phil294)]]></content>
+        <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
+        <id>https://news.ycombinator.com/item?id=32467957</id>
+        <link href="https://news.ycombinator.com/item?id=32467957"/>
+        <updated>2022-08-30T01:51:48.128Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
@@ -81,6 +74,13 @@
         <link href="https://film-net.github.io/"/>
         <updated>2022-09-02T01:25:24.411Z</updated>
         <content type="html"><![CDATA[(film-net.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
+        <id>https://github.com/phil294/AHK_X11</id>
+        <link href="https://github.com/phil294/AHK_X11"/>
+        <updated>2022-09-03T01:24:13.419Z</updated>
+        <content type="html"><![CDATA[(github.com/phil294)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
