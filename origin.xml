@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-03T23:15:31.412Z</updated>
+    <updated>2022-09-04T01:47:03.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
+        <id>https://nenadmarkus.com/p/picojs-intro/</id>
+        <link href="https://nenadmarkus.com/p/picojs-intro/"/>
+        <updated>2022-09-04T01:23:57.272Z</updated>
+        <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upscayl - 오픈소스 AI 이미지 업스케일러]]></title>
+        <id>https://github.com/upscayl/upscayl</id>
+        <link href="https://github.com/upscayl/upscayl"/>
+        <updated>2022-09-04T01:23:57.272Z</updated>
+        <content type="html"><![CDATA[(github.com/upscayl)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90년대 Cursor 효과들]]></title>
+        <id>https://tholman.com/cursor-effects/</id>
+        <link href="https://tholman.com/cursor-effects/"/>
+        <updated>2022-09-04T01:23:57.283Z</updated>
+        <content type="html"><![CDATA[(tholman.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Same Energy : 비쥬얼 이미지 검색 엔진]]></title>
         <id>https://same.energy/</id>
@@ -18,6 +39,13 @@
         <link href="https://github.com/lstein/stable-diffusion"/>
         <updated>2022-09-03T01:24:13.419Z</updated>
         <content type="html"><![CDATA[(github.com/lstein)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
+        <id>https://github.com/phil294/AHK_X11</id>
+        <link href="https://github.com/phil294/AHK_X11"/>
+        <updated>2022-09-03T01:24:13.419Z</updated>
+        <content type="html"><![CDATA[(github.com/phil294)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["The Swift Programming Language" 책, 오픈소스 프로젝트로 변경]]></title>
@@ -39,13 +67,6 @@
         <link href="https://film-net.github.io/"/>
         <updated>2022-09-02T01:25:24.411Z</updated>
         <content type="html"><![CDATA[(film-net.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
-        <id>https://github.com/phil294/AHK_X11</id>
-        <link href="https://github.com/phil294/AHK_X11"/>
-        <updated>2022-09-03T01:24:13.419Z</updated>
-        <content type="html"><![CDATA[(github.com/phil294)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
@@ -83,6 +104,13 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
+        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
+        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
+        <updated>2022-09-02T01:25:24.406Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
         <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
         <link href="https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"/>
@@ -116,33 +144,5 @@
         <link href="https://jsonvisio.com/"/>
         <updated>2022-09-03T05:30:54.322Z</updated>
         <content type="html"><![CDATA[(jsonvisio.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreambooth: 주제-중심 생성을 위한 Text-to-Image Diffusion Model 논문]]></title>
-        <id>https://dreambooth.github.io/</id>
-        <link href="https://dreambooth.github.io/"/>
-        <updated>2022-09-02T01:25:24.422Z</updated>
-        <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
-        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
-        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
-        <updated>2022-09-02T01:25:24.406Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
-        <id>https://github.com/divkit/divkit</id>
-        <link href="https://github.com/divkit/divkit"/>
-        <updated>2022-08-31T01:53:42.145Z</updated>
-        <content type="html"><![CDATA[(github.com/divkit)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
-        <id>https://multimodal.art/news/1-week-of-stable-diffusion</id>
-        <link href="https://multimodal.art/news/1-week-of-stable-diffusion"/>
-        <updated>2022-09-03T04:01:55.043Z</updated>
-        <content type="html"><![CDATA[(multimodal.art)]]></content>
     </entry>
 </feed>
