@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-04T15:15:47.649Z</updated>
+    <updated>2022-09-04T16:20:36.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["The Swift Programming Language" 책, 오픈소스 프로젝트로 변경]]></title>
-        <id>https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989</id>
-        <link href="https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989"/>
-        <updated>2022-09-02T01:25:24.430Z</updated>
-        <content type="html"><![CDATA[(forums.swift.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
         <id>https://github.com/Kindelia/HVM</id>
         <link href="https://github.com/Kindelia/HVM"/>
         <updated>2022-09-01T10:17:13.573Z</updated>
         <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["The Swift Programming Language" 책, 오픈소스 프로젝트로 변경]]></title>
+        <id>https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989</id>
+        <link href="https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989"/>
+        <updated>2022-09-02T01:25:24.430Z</updated>
+        <content type="html"><![CDATA[(forums.swift.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
-        <id>https://film-net.github.io/</id>
-        <link href="https://film-net.github.io/"/>
-        <updated>2022-09-02T01:25:24.411Z</updated>
-        <content type="html"><![CDATA[(film-net.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
         <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
         <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
         <updated>2022-08-30T01:51:48.124Z</updated>
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
+        <id>https://film-net.github.io/</id>
+        <link href="https://film-net.github.io/"/>
+        <updated>2022-09-02T01:25:24.411Z</updated>
+        <content type="html"><![CDATA[(film-net.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
+        <id>https://github.com/divkit/divkit</id>
+        <link href="https://github.com/divkit/divkit"/>
+        <updated>2022-09-04T16:20:00.665Z</updated>
+        <content type="html"><![CDATA[(github.com/divkit)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
         <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
         <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
         <updated>2022-09-02T01:25:24.406Z</updated>
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PromptBase - 프롬프트 마켓플레이스]]></title>
-        <id>https://promptbase.com/marketplace</id>
-        <link href="https://promptbase.com/marketplace"/>
-        <updated>2022-09-01T01:19:04.391Z</updated>
-        <content type="html"><![CDATA[(promptbase.com)]]></content>
     </entry>
 </feed>
