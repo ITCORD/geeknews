@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-05T04:17:22.691Z</updated>
+    <updated>2022-09-05T06:01:23.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(old.reddit.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내적 동기부여를 통한 번아웃 극복하기]]></title>
+        <id>https://growingryan.tistory.com/7</id>
+        <link href="https://growingryan.tistory.com/7"/>
+        <updated>2022-09-05T04:16:47.583Z</updated>
+        <content type="html"><![CDATA[(growingryan.tistory.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SQLite: Past, Present, and Future]]></title>
         <id>https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future</id>
         <link href="https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future"/>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내적 동기부여를 통한 번아웃 극복하기]]></title>
-        <id>https://growingryan.tistory.com/7</id>
-        <link href="https://growingryan.tistory.com/7"/>
-        <updated>2022-09-05T04:16:47.583Z</updated>
-        <content type="html"><![CDATA[(growingryan.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Upscayl - 오픈소스 AI 이미지 업스케일러]]></title>
         <id>https://github.com/upscayl/upscayl</id>
         <link href="https://github.com/upscayl/upscayl"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(github.com/upscayl)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E: Outpainting 릴리즈]]></title>
-        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
-        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
-        <updated>2022-09-05T01:46:54.491Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[90년대 Cursor 효과들]]></title>
         <id>https://tholman.com/cursor-effects/</id>
         <link href="https://tholman.com/cursor-effects/"/>
         <updated>2022-09-04T01:23:57.283Z</updated>
         <content type="html"><![CDATA[(tholman.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E: Outpainting 릴리즈]]></title>
+        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
+        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
+        <updated>2022-09-05T01:46:54.491Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Same Energy : 비쥬얼 이미지 검색 엔진]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AHK_X11 - AutoHotkey for Linux]]></title>
+        <id>https://github.com/phil294/AHK_X11</id>
+        <link href="https://github.com/phil294/AHK_X11"/>
+        <updated>2022-09-05T06:00:44.325Z</updated>
+        <content type="html"><![CDATA[(github.com/phil294)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
         <id>https://film-net.github.io/</id>
         <link href="https://film-net.github.io/"/>
         <updated>2022-09-02T01:25:24.411Z</updated>
         <content type="html"><![CDATA[(film-net.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
-        <id>https://github.com/nayafia/lemonade-stand</id>
-        <link href="https://github.com/nayafia/lemonade-stand"/>
-        <updated>2022-08-31T01:53:42.154Z</updated>
-        <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
 </feed>
