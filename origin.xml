@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-05T21:14:57.268Z</updated>
+    <updated>2022-09-05T22:16:56.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
-        <id>https://github.com/Kindelia/HVM</id>
-        <link href="https://github.com/Kindelia/HVM"/>
-        <updated>2022-09-01T10:17:13.573Z</updated>
-        <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
         <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
         <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
         <updated>2022-08-30T01:51:48.124Z</updated>
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
+        <id>https://github.com/Kindelia/HVM</id>
+        <link href="https://github.com/Kindelia/HVM"/>
+        <updated>2022-09-01T10:17:13.573Z</updated>
+        <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["The Swift Programming Language" 책, 오픈소스 프로젝트로 변경]]></title>
