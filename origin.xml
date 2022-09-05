@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-05T10:18:06.172Z</updated>
+    <updated>2022-09-05T11:14:48.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(sciencealert.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SQLite: Past, Present, and Future]]></title>
+        <id>https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future</id>
+        <link href="https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future"/>
+        <updated>2022-09-05T01:46:54.495Z</updated>
+        <content type="html"><![CDATA[(vldb.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloudflare, Kiwifarms 차단]]></title>
         <id>https://blog.cloudflare.com/kiwifarms-blocked/</id>
         <link href="https://blog.cloudflare.com/kiwifarms-blocked/"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite: Past, Present, and Future]]></title>
-        <id>https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future</id>
-        <link href="https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future"/>
-        <updated>2022-09-05T01:46:54.495Z</updated>
-        <content type="html"><![CDATA[(vldb.org)]]></content>
+        <title type="html"><![CDATA[내적 동기부여를 통한 번아웃 극복하기]]></title>
+        <id>https://growingryan.tistory.com/7</id>
+        <link href="https://growingryan.tistory.com/7"/>
+        <updated>2022-09-05T04:16:47.583Z</updated>
+        <content type="html"><![CDATA[(growingryan.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
@@ -53,13 +60,6 @@
         <link href="https://old.reddit.com/r/lotr/comments/x46870/imdb_have_deleted_all_the_negative_reviews_for/"/>
         <updated>2022-09-05T04:16:47.580Z</updated>
         <content type="html"><![CDATA[(old.reddit.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내적 동기부여를 통한 번아웃 극복하기]]></title>
-        <id>https://growingryan.tistory.com/7</id>
-        <link href="https://growingryan.tistory.com/7"/>
-        <updated>2022-09-05T04:16:47.583Z</updated>
-        <content type="html"><![CDATA[(growingryan.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Upscayl - 오픈소스 AI 이미지 업스케일러]]></title>
