@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-05T19:13:32.338Z</updated>
+    <updated>2022-09-05T20:18:02.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(tholman.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E: Outpainting 릴리즈]]></title>
-        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
-        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
-        <updated>2022-09-05T01:46:54.491Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Same Energy : 비쥬얼 이미지 검색 엔진]]></title>
         <id>https://same.energy/</id>
         <link href="https://same.energy/"/>
@@ -95,6 +88,13 @@
         <link href="https://github.com/lstein/stable-diffusion"/>
         <updated>2022-09-03T01:24:13.419Z</updated>
         <content type="html"><![CDATA[(github.com/lstein)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E: Outpainting 릴리즈]]></title>
+        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
+        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
+        <updated>2022-09-05T01:46:54.491Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
