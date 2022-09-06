@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-06T01:48:22.061Z</updated>
+    <updated>2022-09-06T04:22:38.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
-        <id>http://www.brouter.de/brouter-web/</id>
-        <link href="http://www.brouter.de/brouter-web/"/>
-        <updated>2022-09-06T01:47:46.253Z</updated>
-        <content type="html"><![CDATA[(brouter.de)]]></content>
+        <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
+        <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
+        <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
+        <updated>2022-09-06T01:47:46.257Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 A4일까? - 종이 크기의 수학적 아름다움]]></title>
@@ -25,6 +25,20 @@
         <link href="https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"/>
         <updated>2022-09-06T01:47:46.253Z</updated>
         <content type="html"><![CDATA[(scilogs.spektrum.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
+        <id>https://blog.torproject.org/arti_100_released/</id>
+        <link href="https://blog.torproject.org/arti_100_released/"/>
+        <updated>2022-09-06T01:47:46.259Z</updated>
+        <content type="html"><![CDATA[(blog.torproject.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
+        <id>http://www.brouter.de/brouter-web/</id>
+        <link href="http://www.brouter.de/brouter-web/"/>
+        <updated>2022-09-06T01:47:46.253Z</updated>
+        <content type="html"><![CDATA[(brouter.de)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전기차 도입이 예상보다 빠르게 진행중]]></title>
@@ -41,25 +55,18 @@
         <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
-        <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
-        <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
-        <updated>2022-09-06T01:47:46.257Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
-        <id>https://blog.torproject.org/arti_100_released/</id>
-        <link href="https://blog.torproject.org/arti_100_released/"/>
-        <updated>2022-09-06T01:47:46.259Z</updated>
-        <content type="html"><![CDATA[(blog.torproject.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wavvy - 웹기반 오디오 편집기 (Audacity 포팅)]]></title>
         <id>https://wavvy.app/</id>
         <link href="https://wavvy.app/"/>
         <updated>2022-09-05T01:46:54.490Z</updated>
         <content type="html"><![CDATA[(wavvy.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세종대 하진용 교수팀, 30m 원거리 무선 충전 기술 시연 성공]]></title>
+        <id>https://www.optica.org/en-us/about/newsroom/news_releases/2022/august/researchers_use_infrared_light_to_wirelessly_trans/</id>
+        <link href="https://www.optica.org/en-us/about/newsroom/news_releases/2022/august/researchers_use_infrared_light_to_wirelessly_trans/"/>
+        <updated>2022-09-06T04:22:01.368Z</updated>
+        <content type="html"><![CDATA[(optica.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite: Past, Present, and Future]]></title>
@@ -69,18 +76,18 @@
         <content type="html"><![CDATA[(vldb.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유제품 시장을 뒤흔들 합성 우유가 온다]]></title>
-        <id>https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy</id>
-        <link href="https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy"/>
-        <updated>2022-09-05T04:16:47.579Z</updated>
-        <content type="html"><![CDATA[(sciencealert.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
         <id>https://nenadmarkus.com/p/picojs-intro/</id>
         <link href="https://nenadmarkus.com/p/picojs-intro/"/>
         <updated>2022-09-04T01:23:57.272Z</updated>
         <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유제품 시장을 뒤흔들 합성 우유가 온다]]></title>
+        <id>https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy</id>
+        <link href="https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy"/>
+        <updated>2022-09-05T04:16:47.579Z</updated>
+        <content type="html"><![CDATA[(sciencealert.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Upscayl - 오픈소스 AI 이미지 업스케일러]]></title>
@@ -97,18 +104,18 @@
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[90년대 Cursor 효과들]]></title>
-        <id>https://tholman.com/cursor-effects/</id>
-        <link href="https://tholman.com/cursor-effects/"/>
-        <updated>2022-09-04T01:23:57.283Z</updated>
-        <content type="html"><![CDATA[(tholman.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내적 동기부여를 통한 번아웃 극복하기]]></title>
         <id>https://growingryan.tistory.com/7</id>
         <link href="https://growingryan.tistory.com/7"/>
         <updated>2022-09-05T04:16:47.583Z</updated>
         <content type="html"><![CDATA[(growingryan.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90년대 Cursor 효과들]]></title>
+        <id>https://tholman.com/cursor-effects/</id>
+        <link href="https://tholman.com/cursor-effects/"/>
+        <updated>2022-09-04T01:23:57.283Z</updated>
+        <content type="html"><![CDATA[(tholman.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IMDB, "The Rings of Power"의 낮은 별점 리뷰를 모두 삭제했다는 의혹]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.ycombinator.com/item?id=32599398"/>
         <updated>2022-08-31T01:53:42.144Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALL·E: Outpainting 릴리즈]]></title>
-        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
-        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
-        <updated>2022-09-05T01:46:54.491Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
 </feed>
