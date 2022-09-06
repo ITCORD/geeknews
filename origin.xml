@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-06T13:41:04.759Z</updated>
+    <updated>2022-09-06T14:18:58.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(brouter.de)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
+        <id>https://blog.torproject.org/arti_100_released/</id>
+        <link href="https://blog.torproject.org/arti_100_released/"/>
+        <updated>2022-09-06T01:47:46.259Z</updated>
+        <content type="html"><![CDATA[(blog.torproject.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
         <id>https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email</id>
         <link href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"/>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
-        <id>https://blog.torproject.org/arti_100_released/</id>
-        <link href="https://blog.torproject.org/arti_100_released/"/>
-        <updated>2022-09-06T01:47:46.259Z</updated>
-        <content type="html"><![CDATA[(blog.torproject.org)]]></content>
+        <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
+        <id>https://github.com/kdeldycke/awesome-falsehood</id>
+        <link href="https://github.com/kdeldycke/awesome-falsehood"/>
+        <updated>2022-09-06T14:18:16.938Z</updated>
+        <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wavvy - 웹기반 오디오 편집기 (Audacity 포팅)]]></title>
@@ -83,18 +90,18 @@
         <content type="html"><![CDATA[(optica.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유제품 시장을 뒤흔들 합성 우유가 온다]]></title>
-        <id>https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy</id>
-        <link href="https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy"/>
-        <updated>2022-09-05T04:16:47.579Z</updated>
-        <content type="html"><![CDATA[(sciencealert.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Upscayl - 오픈소스 AI 이미지 업스케일러]]></title>
         <id>https://github.com/upscayl/upscayl</id>
         <link href="https://github.com/upscayl/upscayl"/>
         <updated>2022-09-04T01:23:57.272Z</updated>
         <content type="html"><![CDATA[(github.com/upscayl)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유제품 시장을 뒤흔들 합성 우유가 온다]]></title>
+        <id>https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy</id>
+        <link href="https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy"/>
+        <updated>2022-09-05T04:16:47.579Z</updated>
+        <content type="html"><![CDATA[(sciencealert.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메이플스토리와 인플레이션]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/lstein/stable-diffusion"/>
         <updated>2022-09-03T01:24:13.419Z</updated>
         <content type="html"><![CDATA[(github.com/lstein)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
-        <id>https://news.ycombinator.com/item?id=32599398</id>
-        <link href="https://news.ycombinator.com/item?id=32599398"/>
-        <updated>2022-09-06T12:31:20.217Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
 </feed>
