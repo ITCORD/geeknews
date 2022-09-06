@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-06T14:18:58.601Z</updated>
+    <updated>2022-09-06T15:17:17.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://maily.so/productlab/posts/5319c103"/>
         <updated>2022-09-06T01:47:46.253Z</updated>
         <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
+        <id>https://github.com/kdeldycke/awesome-falsehood</id>
+        <link href="https://github.com/kdeldycke/awesome-falsehood"/>
+        <updated>2022-09-06T14:18:16.938Z</updated>
+        <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(brouter.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
-        <id>https://blog.torproject.org/arti_100_released/</id>
-        <link href="https://blog.torproject.org/arti_100_released/"/>
-        <updated>2022-09-06T01:47:46.259Z</updated>
-        <content type="html"><![CDATA[(blog.torproject.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
         <id>https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email</id>
         <link href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"/>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
-        <id>https://github.com/kdeldycke/awesome-falsehood</id>
-        <link href="https://github.com/kdeldycke/awesome-falsehood"/>
-        <updated>2022-09-06T14:18:16.938Z</updated>
-        <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
+        <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
+        <id>https://blog.torproject.org/arti_100_released/</id>
+        <link href="https://blog.torproject.org/arti_100_released/"/>
+        <updated>2022-09-06T01:47:46.259Z</updated>
+        <content type="html"><![CDATA[(blog.torproject.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wavvy - 웹기반 오디오 편집기 (Audacity 포팅)]]></title>
