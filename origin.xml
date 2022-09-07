@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-07T01:45:18.888Z</updated>
+    <updated>2022-09-07T04:23:55.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Unreal Rust 공개]]></title>
-        <id>https://maikklein.github.io/unreal-rust-1/</id>
-        <link href="https://maikklein.github.io/unreal-rust-1/"/>
-        <updated>2022-09-07T01:44:39.886Z</updated>
-        <content type="html"><![CDATA[(maikklein.github.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
         <id>https://lusift.vercel.app/</id>
         <link href="https://lusift.vercel.app/"/>
         <updated>2022-09-07T01:44:39.887Z</updated>
         <content type="html"><![CDATA[(lusift.vercel.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Rust 공개]]></title>
+        <id>https://maikklein.github.io/unreal-rust-1/</id>
+        <link href="https://maikklein.github.io/unreal-rust-1/"/>
+        <updated>2022-09-07T01:44:39.886Z</updated>
+        <content type="html"><![CDATA[(maikklein.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴스레터는 진짜 동작하나요? 왜 웹사이트들이 엄청 푸시하나요?]]></title>
@@ -27,11 +27,25 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Richard Stallman, GNU C Language Intro 및 Reference Manual 발표]]></title>
+        <id>https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</id>
+        <link href="https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html"/>
+        <updated>2022-09-07T01:44:39.907Z</updated>
+        <content type="html"><![CDATA[(lists.gnu.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
         <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
         <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
         <updated>2022-09-07T01:44:39.891Z</updated>
         <content type="html"><![CDATA[(openwrt.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA가 앞으로 우주선 고성능 컴퓨터에 RISC-V CPU를 사용하기로 결정]]></title>
+        <id>https://www.theregister.com/2022/09/06/nasas_spaceflight_computer_risc_v/</id>
+        <link href="https://www.theregister.com/2022/09/06/nasas_spaceflight_computer_risc_v/"/>
+        <updated>2022-09-07T04:23:16.824Z</updated>
+        <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예전 어드벤처 게임에 Stable Diffusion img2img 적용해본 결과]]></title>
@@ -62,13 +76,6 @@
         <content type="html"><![CDATA[(bitwarden.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
-        <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
-        <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
-        <updated>2022-09-06T01:47:46.257Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
         <id>https://github.com/kdeldycke/awesome-falsehood</id>
         <link href="https://github.com/kdeldycke/awesome-falsehood"/>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Richard Stallman, GNU C Language Intro 및 Reference Manual 발표]]></title>
-        <id>https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</id>
-        <link href="https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html"/>
-        <updated>2022-09-07T01:44:39.907Z</updated>
-        <content type="html"><![CDATA[(lists.gnu.org)]]></content>
+        <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
+        <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
+        <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
+        <updated>2022-09-06T01:47:46.257Z</updated>
+        <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 A4일까? - 종이 크기의 수학적 아름다움]]></title>
@@ -118,6 +125,13 @@
         <content type="html"><![CDATA[(wavvy.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전기차 도입이 예상보다 빠르게 진행중]]></title>
+        <id>https://www.recurrentauto.com/research/ev-adoption-us</id>
+        <link href="https://www.recurrentauto.com/research/ev-adoption-us"/>
+        <updated>2022-09-06T01:47:46.255Z</updated>
+        <content type="html"><![CDATA[(recurrentauto.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SQLite: Past, Present, and Future]]></title>
         <id>https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future</id>
         <link href="https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future"/>
@@ -130,19 +144,5 @@
         <link href="https://www.optica.org/en-us/about/newsroom/news_releases/2022/august/researchers_use_infrared_light_to_wirelessly_trans/"/>
         <updated>2022-09-06T04:22:01.368Z</updated>
         <content type="html"><![CDATA[(optica.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
-        <id>https://nenadmarkus.com/p/picojs-intro/</id>
-        <link href="https://nenadmarkus.com/p/picojs-intro/"/>
-        <updated>2022-09-04T01:23:57.272Z</updated>
-        <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 도입이 예상보다 빠르게 진행중]]></title>
-        <id>https://www.recurrentauto.com/research/ev-adoption-us</id>
-        <link href="https://www.recurrentauto.com/research/ev-adoption-us"/>
-        <updated>2022-09-06T01:47:46.255Z</updated>
-        <content type="html"><![CDATA[(recurrentauto.com)]]></content>
     </entry>
 </feed>
