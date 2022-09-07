@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-07T13:50:51.345Z</updated>
+    <updated>2022-09-07T14:25:12.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unreal Rust 공개]]></title>
-        <id>https://maikklein.github.io/unreal-rust-1/</id>
-        <link href="https://maikklein.github.io/unreal-rust-1/"/>
-        <updated>2022-09-07T01:44:39.886Z</updated>
-        <content type="html"><![CDATA[(maikklein.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
         <id>https://lusift.vercel.app/</id>
         <link href="https://lusift.vercel.app/"/>
         <updated>2022-09-07T01:44:39.887Z</updated>
         <content type="html"><![CDATA[(lusift.vercel.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Rust 공개]]></title>
+        <id>https://maikklein.github.io/unreal-rust-1/</id>
+        <link href="https://maikklein.github.io/unreal-rust-1/"/>
+        <updated>2022-09-07T01:44:39.886Z</updated>
+        <content type="html"><![CDATA[(maikklein.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Richard Stallman, GNU C Language Intro 및 Reference Manual 발표]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이폰, 안드로이드를 제치고 미국 스마트폰 시장 과반을 차지]]></title>
-        <id>https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html</id>
-        <link href="https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html"/>
-        <updated>2022-09-07T01:44:39.895Z</updated>
-        <content type="html"><![CDATA[(engadget.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
         <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
         <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
         <updated>2022-09-06T01:47:46.257Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이폰, 안드로이드를 제치고 미국 스마트폰 시장 과반을 차지]]></title>
+        <id>https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html</id>
+        <link href="https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html"/>
+        <updated>2022-09-07T01:44:39.895Z</updated>
+        <content type="html"><![CDATA[(engadget.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예전 어드벤처 게임에 Stable Diffusion img2img 적용해본 결과]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(scilogs.spektrum.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitwarden, PSG 와 Battery 등으로부터 1300억 투자 받아]]></title>
-        <id>https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/</id>
-        <link href="https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/"/>
-        <updated>2022-09-07T01:44:39.896Z</updated>
-        <content type="html"><![CDATA[(bitwarden.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
         <id>https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email</id>
         <link href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"/>
@@ -97,11 +90,11 @@
         <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
-        <id>http://www.brouter.de/brouter-web/</id>
-        <link href="http://www.brouter.de/brouter-web/"/>
-        <updated>2022-09-06T01:47:46.253Z</updated>
-        <content type="html"><![CDATA[(brouter.de)]]></content>
+        <title type="html"><![CDATA[Bitwarden, PSG 와 Battery 등으로부터 1300억 투자 받아]]></title>
+        <id>https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/</id>
+        <link href="https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/"/>
+        <updated>2022-09-07T01:44:39.896Z</updated>
+        <content type="html"><![CDATA[(bitwarden.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NASA가 앞으로 우주선 고성능 컴퓨터에 RISC-V CPU를 사용하기로 결정]]></title>
@@ -111,6 +104,13 @@
         <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
+        <id>http://www.brouter.de/brouter-web/</id>
+        <link href="http://www.brouter.de/brouter-web/"/>
+        <updated>2022-09-06T01:47:46.253Z</updated>
+        <content type="html"><![CDATA[(brouter.de)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
         <id>https://blog.torproject.org/arti_100_released/</id>
         <link href="https://blog.torproject.org/arti_100_released/"/>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(blog.torproject.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전기차 도입이 예상보다 빠르게 진행중]]></title>
-        <id>https://www.recurrentauto.com/research/ev-adoption-us</id>
-        <link href="https://www.recurrentauto.com/research/ev-adoption-us"/>
-        <updated>2022-09-06T01:47:46.255Z</updated>
-        <content type="html"><![CDATA[(recurrentauto.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wavvy - 웹기반 오디오 편집기 (Audacity 포팅)]]></title>
         <id>https://wavvy.app/</id>
         <link href="https://wavvy.app/"/>
         <updated>2022-09-05T01:46:54.490Z</updated>
         <content type="html"><![CDATA[(wavvy.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차 도입이 예상보다 빠르게 진행중]]></title>
+        <id>https://www.recurrentauto.com/research/ev-adoption-us</id>
+        <link href="https://www.recurrentauto.com/research/ev-adoption-us"/>
+        <updated>2022-09-06T01:47:46.255Z</updated>
+        <content type="html"><![CDATA[(recurrentauto.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
