@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-07T22:15:51.874Z</updated>
+    <updated>2022-09-07T23:19:40.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(openwrt.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
-        <id>https://github.com/kdeldycke/awesome-falsehood</id>
-        <link href="https://github.com/kdeldycke/awesome-falsehood"/>
-        <updated>2022-09-06T14:18:16.938Z</updated>
-        <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
         <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
         <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
         <updated>2022-09-06T01:47:46.257Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
+        <id>https://github.com/kdeldycke/awesome-falsehood</id>
+        <link href="https://github.com/kdeldycke/awesome-falsehood"/>
+        <updated>2022-09-06T14:18:16.938Z</updated>
+        <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이폰, 안드로이드를 제치고 미국 스마트폰 시장 과반을 차지]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(bitwarden.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA가 앞으로 우주선 고성능 컴퓨터에 RISC-V CPU를 사용하기로 결정]]></title>
-        <id>https://www.theregister.com/2022/09/06/nasas_spaceflight_computer_risc_v/</id>
-        <link href="https://www.theregister.com/2022/09/06/nasas_spaceflight_computer_risc_v/"/>
-        <updated>2022-09-07T04:23:16.824Z</updated>
-        <content type="html"><![CDATA[(theregister.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
         <id>https://blog.torproject.org/arti_100_released/</id>
         <link href="https://blog.torproject.org/arti_100_released/"/>
         <updated>2022-09-06T01:47:46.259Z</updated>
         <content type="html"><![CDATA[(blog.torproject.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA가 앞으로 우주선 고성능 컴퓨터에 RISC-V CPU를 사용하기로 결정]]></title>
+        <id>https://www.theregister.com/2022/09/06/nasas_spaceflight_computer_risc_v/</id>
+        <link href="https://www.theregister.com/2022/09/06/nasas_spaceflight_computer_risc_v/"/>
+        <updated>2022-09-07T04:23:16.824Z</updated>
+        <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wavvy - 웹기반 오디오 편집기 (Audacity 포팅)]]></title>
