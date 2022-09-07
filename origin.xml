@@ -2,15 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-06T23:17:26.496Z</updated>
+    <updated>2022-09-07T01:45:18.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Unreal Rust 공개]]></title>
+        <id>https://maikklein.github.io/unreal-rust-1/</id>
+        <link href="https://maikklein.github.io/unreal-rust-1/"/>
+        <updated>2022-09-07T01:44:39.886Z</updated>
+        <content type="html"><![CDATA[(maikklein.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
+        <id>https://lusift.vercel.app/</id>
+        <link href="https://lusift.vercel.app/"/>
+        <updated>2022-09-07T01:44:39.887Z</updated>
+        <content type="html"><![CDATA[(lusift.vercel.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴스레터는 진짜 동작하나요? 왜 웹사이트들이 엄청 푸시하나요?]]></title>
+        <id>https://news.ycombinator.com/item?id=32304011</id>
+        <link href="https://news.ycombinator.com/item?id=32304011"/>
+        <updated>2022-09-07T01:44:39.891Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
+        <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
+        <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
+        <updated>2022-09-07T01:44:39.891Z</updated>
+        <content type="html"><![CDATA[(openwrt.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예전 어드벤처 게임에 Stable Diffusion img2img 적용해본 결과]]></title>
+        <id>https://sciprogramming.com/community/index.php?topic=2081.0</id>
+        <link href="https://sciprogramming.com/community/index.php?topic=2081.0"/>
+        <updated>2022-09-07T01:44:39.892Z</updated>
+        <content type="html"><![CDATA[(sciprogramming.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느 40년 차 프로그래머의 회고]]></title>
         <id>https://maily.so/productlab/posts/5319c103</id>
         <link href="https://maily.so/productlab/posts/5319c103"/>
         <updated>2022-09-06T01:47:46.253Z</updated>
         <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이폰, 안드로이드를 제치고 미국 스마트폰 시장 과반을 차지]]></title>
+        <id>https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html</id>
+        <link href="https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html"/>
+        <updated>2022-09-07T01:44:39.895Z</updated>
+        <content type="html"><![CDATA[(engadget.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitwarden, PSG 와 Battery 등으로부터 1300억 투자 받아]]></title>
+        <id>https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/</id>
+        <link href="https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/"/>
+        <updated>2022-09-07T01:44:39.896Z</updated>
+        <content type="html"><![CDATA[(bitwarden.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
@@ -20,13 +69,6 @@
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 A4일까? - 종이 크기의 수학적 아름다움]]></title>
-        <id>https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/</id>
-        <link href="https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"/>
-        <updated>2022-09-06T01:47:46.253Z</updated>
-        <content type="html"><![CDATA[(scilogs.spektrum.de)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
         <id>https://github.com/kdeldycke/awesome-falsehood</id>
         <link href="https://github.com/kdeldycke/awesome-falsehood"/>
@@ -34,11 +76,18 @@
         <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
-        <id>http://www.brouter.de/brouter-web/</id>
-        <link href="http://www.brouter.de/brouter-web/"/>
+        <title type="html"><![CDATA[Richard Stallman, GNU C Language Intro 및 Reference Manual 발표]]></title>
+        <id>https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</id>
+        <link href="https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html"/>
+        <updated>2022-09-07T01:44:39.907Z</updated>
+        <content type="html"><![CDATA[(lists.gnu.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 A4일까? - 종이 크기의 수학적 아름다움]]></title>
+        <id>https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/</id>
+        <link href="https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"/>
         <updated>2022-09-06T01:47:46.253Z</updated>
-        <content type="html"><![CDATA[(brouter.de)]]></content>
+        <content type="html"><![CDATA[(scilogs.spektrum.de)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
@@ -46,6 +95,13 @@
         <link href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"/>
         <updated>2022-09-05T04:16:47.577Z</updated>
         <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
+        <id>http://www.brouter.de/brouter-web/</id>
+        <link href="http://www.brouter.de/brouter-web/"/>
+        <updated>2022-09-06T01:47:46.253Z</updated>
+        <content type="html"><![CDATA[(brouter.de)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
@@ -69,34 +125,6 @@
         <content type="html"><![CDATA[(vldb.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
-        <id>https://nenadmarkus.com/p/picojs-intro/</id>
-        <link href="https://nenadmarkus.com/p/picojs-intro/"/>
-        <updated>2022-09-04T01:23:57.272Z</updated>
-        <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upscayl - 오픈소스 AI 이미지 업스케일러]]></title>
-        <id>https://github.com/upscayl/upscayl</id>
-        <link href="https://github.com/upscayl/upscayl"/>
-        <updated>2022-09-04T01:23:57.272Z</updated>
-        <content type="html"><![CDATA[(github.com/upscayl)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 도입이 예상보다 빠르게 진행중]]></title>
-        <id>https://www.recurrentauto.com/research/ev-adoption-us</id>
-        <link href="https://www.recurrentauto.com/research/ev-adoption-us"/>
-        <updated>2022-09-06T01:47:46.255Z</updated>
-        <content type="html"><![CDATA[(recurrentauto.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유제품 시장을 뒤흔들 합성 우유가 온다]]></title>
-        <id>https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy</id>
-        <link href="https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy"/>
-        <updated>2022-09-05T04:16:47.579Z</updated>
-        <content type="html"><![CDATA[(sciencealert.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세종대 하진용 교수팀, 30m 원거리 무선 충전 기술 시연 성공]]></title>
         <id>https://www.optica.org/en-us/about/newsroom/news_releases/2022/august/researchers_use_infrared_light_to_wirelessly_trans/</id>
         <link href="https://www.optica.org/en-us/about/newsroom/news_releases/2022/august/researchers_use_infrared_light_to_wirelessly_trans/"/>
@@ -104,45 +132,17 @@
         <content type="html"><![CDATA[(optica.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare, Kiwifarms 차단]]></title>
-        <id>https://blog.cloudflare.com/kiwifarms-blocked/</id>
-        <link href="https://blog.cloudflare.com/kiwifarms-blocked/"/>
-        <updated>2022-09-05T01:46:54.491Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+        <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
+        <id>https://nenadmarkus.com/p/picojs-intro/</id>
+        <link href="https://nenadmarkus.com/p/picojs-intro/"/>
+        <updated>2022-09-04T01:23:57.272Z</updated>
+        <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[90년대 Cursor 효과들]]></title>
-        <id>https://tholman.com/cursor-effects/</id>
-        <link href="https://tholman.com/cursor-effects/"/>
-        <updated>2022-09-04T01:23:57.283Z</updated>
-        <content type="html"><![CDATA[(tholman.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Same Energy : 비쥬얼 이미지 검색 엔진]]></title>
-        <id>https://same.energy/</id>
-        <link href="https://same.energy/"/>
-        <updated>2022-09-03T01:24:13.419Z</updated>
-        <content type="html"><![CDATA[(same.energy)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내적 동기부여를 통한 번아웃 극복하기]]></title>
-        <id>https://growingryan.tistory.com/7</id>
-        <link href="https://growingryan.tistory.com/7"/>
-        <updated>2022-09-05T04:16:47.583Z</updated>
-        <content type="html"><![CDATA[(growingryan.tistory.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion Dream Script]]></title>
-        <id>https://github.com/lstein/stable-diffusion</id>
-        <link href="https://github.com/lstein/stable-diffusion"/>
-        <updated>2022-09-03T01:24:13.419Z</updated>
-        <content type="html"><![CDATA[(github.com/lstein)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
-        <id>https://news.ycombinator.com/item?id=32599398</id>
-        <link href="https://news.ycombinator.com/item?id=32599398"/>
-        <updated>2022-09-06T23:16:52.940Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[전기차 도입이 예상보다 빠르게 진행중]]></title>
+        <id>https://www.recurrentauto.com/research/ev-adoption-us</id>
+        <link href="https://www.recurrentauto.com/research/ev-adoption-us"/>
+        <updated>2022-09-06T01:47:46.255Z</updated>
+        <content type="html"><![CDATA[(recurrentauto.com)]]></content>
     </entry>
 </feed>
