@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-08T08:20:25.494Z</updated>
+    <updated>2022-09-08T09:17:46.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
+        <id>https://lusift.vercel.app/</id>
+        <link href="https://lusift.vercel.app/"/>
+        <updated>2022-09-07T01:44:39.887Z</updated>
+        <content type="html"><![CDATA[(lusift.vercel.app)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple, iPhone 14 Pro / Pro Max 공개]]></title>
         <id>https://www.apple.com/kr/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/</id>
         <link href="https://www.apple.com/kr/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/"/>
@@ -48,13 +55,6 @@
         <content type="html"><![CDATA[(maikklein.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
-        <id>https://lusift.vercel.app/</id>
-        <link href="https://lusift.vercel.app/"/>
-        <updated>2022-09-07T01:44:39.887Z</updated>
-        <content type="html"><![CDATA[(lusift.vercel.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Richard Stallman, GNU C Language Intro 및 Reference Manual 발표]]></title>
         <id>https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</id>
         <link href="https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html"/>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(lists.gnu.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, Apple Watch Ultra 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/09/introducing-apple-watch-ultra/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/09/introducing-apple-watch-ultra/"/>
-        <updated>2022-09-08T01:26:58.584Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어느 40년 차 프로그래머의 회고]]></title>
         <id>https://maily.so/productlab/posts/5319c103</id>
         <link href="https://maily.so/productlab/posts/5319c103"/>
         <updated>2022-09-06T01:47:46.253Z</updated>
         <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, Apple Watch Ultra 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/09/introducing-apple-watch-ultra/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/09/introducing-apple-watch-ultra/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple, Apple Watch Series 8 및 새로운 Apple Watch SE 공개]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캄(Calm)에 대한 흥미로운 6가지 이야기]]></title>
-        <id>https://maily.so/productlab/posts/9deaf31a</id>
-        <link href="https://maily.so/productlab/posts/9deaf31a"/>
-        <updated>2022-09-08T04:07:00.781Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
+        <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
+        <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
+        <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
+        <updated>2022-09-07T01:44:39.891Z</updated>
+        <content type="html"><![CDATA[(openwrt.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
@@ -111,11 +111,18 @@
         <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
-        <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
-        <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
-        <updated>2022-09-07T01:44:39.891Z</updated>
-        <content type="html"><![CDATA[(openwrt.org)]]></content>
+        <title type="html"><![CDATA[캄(Calm)에 대한 흥미로운 6가지 이야기]]></title>
+        <id>https://maily.so/productlab/posts/9deaf31a</id>
+        <link href="https://maily.so/productlab/posts/9deaf31a"/>
+        <updated>2022-09-08T04:07:00.781Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이폰, 안드로이드를 제치고 미국 스마트폰 시장 과반을 차지]]></title>
+        <id>https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html</id>
+        <link href="https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html"/>
+        <updated>2022-09-07T01:44:39.895Z</updated>
+        <content type="html"><![CDATA[(engadget.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
@@ -130,13 +137,6 @@
         <link href="https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"/>
         <updated>2022-09-06T01:47:46.253Z</updated>
         <content type="html"><![CDATA[(scilogs.spektrum.de)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰, 안드로이드를 제치고 미국 스마트폰 시장 과반을 차지]]></title>
-        <id>https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html</id>
-        <link href="https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html"/>
-        <updated>2022-09-07T01:44:39.895Z</updated>
-        <content type="html"><![CDATA[(engadget.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
