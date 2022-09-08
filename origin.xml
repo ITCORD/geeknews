@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-07T23:19:40.693Z</updated>
+    <updated>2022-09-08T01:27:40.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Github Copilot이 개발자의 생산성과 행복에 미치는 영향]]></title>
+        <id>https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/</id>
+        <link href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, iPhone 14 Pro / Pro Max 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, Apple Watch Ultra 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/09/introducing-apple-watch-ultra/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/09/introducing-apple-watch-ultra/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, Apple Watch Series 8 및 새로운 Apple Watch SE 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, AirPods Pro 2세대 발표]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/09/apple-announces-the-next-generation-of-airpods-pro/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/09/apple-announces-the-next-generation-of-airpods-pro/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스레터는 진짜 동작하나요? 왜 웹사이트들이 엄청 푸시하나요?]]></title>
         <id>https://news.ycombinator.com/item?id=32304011</id>
@@ -104,45 +139,10 @@
         <content type="html"><![CDATA[(bitwarden.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arti 1.0.0 릴리즈 - Rust로 작성한 Tor 구현체]]></title>
-        <id>https://blog.torproject.org/arti_100_released/</id>
-        <link href="https://blog.torproject.org/arti_100_released/"/>
-        <updated>2022-09-06T01:47:46.259Z</updated>
-        <content type="html"><![CDATA[(blog.torproject.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA가 앞으로 우주선 고성능 컴퓨터에 RISC-V CPU를 사용하기로 결정]]></title>
-        <id>https://www.theregister.com/2022/09/06/nasas_spaceflight_computer_risc_v/</id>
-        <link href="https://www.theregister.com/2022/09/06/nasas_spaceflight_computer_risc_v/"/>
-        <updated>2022-09-07T04:23:16.824Z</updated>
-        <content type="html"><![CDATA[(theregister.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wavvy - 웹기반 오디오 편집기 (Audacity 포팅)]]></title>
-        <id>https://wavvy.app/</id>
-        <link href="https://wavvy.app/"/>
-        <updated>2022-09-05T01:46:54.490Z</updated>
-        <content type="html"><![CDATA[(wavvy.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
         <id>https://nenadmarkus.com/p/picojs-intro/</id>
         <link href="https://nenadmarkus.com/p/picojs-intro/"/>
         <updated>2022-09-07T06:13:52.808Z</updated>
         <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite: Past, Present, and Future]]></title>
-        <id>https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future</id>
-        <link href="https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future"/>
-        <updated>2022-09-05T01:46:54.495Z</updated>
-        <content type="html"><![CDATA[(vldb.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 도입이 예상보다 빠르게 진행중]]></title>
-        <id>https://www.recurrentauto.com/research/ev-adoption-us</id>
-        <link href="https://www.recurrentauto.com/research/ev-adoption-us"/>
-        <updated>2022-09-06T01:47:46.255Z</updated>
-        <content type="html"><![CDATA[(recurrentauto.com)]]></content>
     </entry>
 </feed>
