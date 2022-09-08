@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-08T20:20:48.962Z</updated>
+    <updated>2022-09-08T21:16:06.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
-        <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
-        <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
-        <updated>2022-09-07T01:44:39.891Z</updated>
-        <content type="html"><![CDATA[(openwrt.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
         <id>https://github.com/kdeldycke/awesome-falsehood</id>
         <link href="https://github.com/kdeldycke/awesome-falsehood"/>
         <updated>2022-09-06T14:18:16.938Z</updated>
         <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
+        <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
+        <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
+        <updated>2022-09-07T01:44:39.891Z</updated>
+        <content type="html"><![CDATA[(openwrt.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, AirPods Pro 2세대 발표]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/09/apple-announces-the-next-generation-of-airpods-pro/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/09/apple-announces-the-next-generation-of-airpods-pro/"/>
-        <updated>2022-09-08T01:26:58.584Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[왜 A4일까? - 종이 크기의 수학적 아름다움]]></title>
         <id>https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/</id>
         <link href="https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"/>
@@ -137,6 +130,13 @@
         <link href="https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html"/>
         <updated>2022-09-07T01:44:39.895Z</updated>
         <content type="html"><![CDATA[(engadget.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, AirPods Pro 2세대 발표]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/09/apple-announces-the-next-generation-of-airpods-pro/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/09/apple-announces-the-next-generation-of-airpods-pro/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
