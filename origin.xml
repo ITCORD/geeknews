@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-08T22:17:32.697Z</updated>
+    <updated>2022-09-08T23:18:28.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
+        <id>https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka</id>
+        <link href="https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"/>
+        <updated>2022-09-08T04:07:00.770Z</updated>
+        <content type="html"><![CDATA[(lightbend.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
         <id>https://lusift.vercel.app/</id>
         <link href="https://lusift.vercel.app/"/>
@@ -62,13 +69,6 @@
         <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
-        <id>https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka</id>
-        <link href="https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"/>
-        <updated>2022-09-08T04:07:00.770Z</updated>
-        <content type="html"><![CDATA[(lightbend.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
         <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
         <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
-        <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
-        <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
-        <updated>2022-09-07T01:44:39.891Z</updated>
-        <content type="html"><![CDATA[(openwrt.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
         <id>https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email</id>
         <link href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"/>
         <updated>2022-09-05T04:16:47.577Z</updated>
         <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
+        <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
+        <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
+        <updated>2022-09-07T01:44:39.891Z</updated>
+        <content type="html"><![CDATA[(openwrt.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머들이 흔히 믿는 거짓들]]></title>
