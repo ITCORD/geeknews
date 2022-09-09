@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-09T15:19:08.060Z</updated>
+    <updated>2022-09-09T16:22:57.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/jeremyckahn)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
-        <id>https://www.fuse-t.org/</id>
-        <link href="https://www.fuse-t.org/"/>
-        <updated>2022-09-09T01:48:11.270Z</updated>
-        <content type="html"><![CDATA[(fuse-t.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Github Copilot이 개발자의 생산성과 행복에 미치는 영향]]></title>
         <id>https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/</id>
         <link href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/"/>
         <updated>2022-09-08T01:26:58.584Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
+        <id>https://www.fuse-t.org/</id>
+        <link href="https://www.fuse-t.org/"/>
+        <updated>2022-09-09T01:48:11.270Z</updated>
+        <content type="html"><![CDATA[(fuse-t.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹사이트 크기가 14kB 미만이어야 하는 이유]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruff - 10-100x 빠른 Python 린터]]></title>
-        <id>https://github.com/charliermarsh/ruff</id>
-        <link href="https://github.com/charliermarsh/ruff"/>
-        <updated>2022-09-08T05:59:20.042Z</updated>
-        <content type="html"><![CDATA[(github.com/charliermarsh)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unreal Rust 공개]]></title>
         <id>https://maikklein.github.io/unreal-rust-1/</id>
         <link href="https://maikklein.github.io/unreal-rust-1/"/>
         <updated>2022-09-07T01:44:39.886Z</updated>
         <content type="html"><![CDATA[(maikklein.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruff - 10-100x 빠른 Python 린터]]></title>
+        <id>https://github.com/charliermarsh/ruff</id>
+        <link href="https://github.com/charliermarsh/ruff"/>
+        <updated>2022-09-08T05:59:20.042Z</updated>
+        <content type="html"><![CDATA[(github.com/charliermarsh)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
