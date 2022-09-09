@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-09T01:48:50.677Z</updated>
+    <updated>2022-09-09T04:05:15.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[(github.com/jeremyckahn)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Github Copilot이 개발자의 생산성과 행복에 미치는 영향]]></title>
-        <id>https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/</id>
-        <link href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/"/>
-        <updated>2022-09-08T01:26:58.584Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
+        <title type="html"><![CDATA[Apple Watch용으로 Quake 1 포팅]]></title>
+        <id>https://github.com/MyOwnClone/quake_watch</id>
+        <link href="https://github.com/MyOwnClone/quake_watch"/>
+        <updated>2022-09-09T01:48:11.288Z</updated>
+        <content type="html"><![CDATA[(github.com/MyOwnClone)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹사이트 크기가 14kB 미만이어야 하는 이유]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(endtimes.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Github Copilot이 개발자의 생산성과 행복에 미치는 영향]]></title>
+        <id>https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/</id>
+        <link href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
         <id>https://www.fuse-t.org/</id>
         <link href="https://www.fuse-t.org/"/>
         <updated>2022-09-09T01:48:11.270Z</updated>
         <content type="html"><![CDATA[(fuse-t.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch용으로 Quake 1 포팅]]></title>
-        <id>https://github.com/MyOwnClone/quake_watch</id>
-        <link href="https://github.com/MyOwnClone/quake_watch"/>
-        <updated>2022-09-09T01:48:11.288Z</updated>
-        <content type="html"><![CDATA[(github.com/MyOwnClone)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ruff - 10-100x 빠른 Python 린터]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(lightbend.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
-        <id>https://lusift.vercel.app/</id>
-        <link href="https://lusift.vercel.app/"/>
-        <updated>2022-09-07T01:44:39.887Z</updated>
-        <content type="html"><![CDATA[(lusift.vercel.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unreal Rust 공개]]></title>
         <id>https://maikklein.github.io/unreal-rust-1/</id>
         <link href="https://maikklein.github.io/unreal-rust-1/"/>
         <updated>2022-09-07T01:44:39.886Z</updated>
         <content type="html"><![CDATA[(maikklein.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
+        <id>https://lusift.vercel.app/</id>
+        <link href="https://lusift.vercel.app/"/>
+        <updated>2022-09-07T01:44:39.887Z</updated>
+        <content type="html"><![CDATA[(lusift.vercel.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어느 40년 차 프로그래머의 회고]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, iPhone 14 Pro / Pro Max 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/"/>
-        <updated>2022-09-08T01:26:58.584Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenWRT 22.03 스테이블 버전 릴리즈]]></title>
         <id>https://openwrt.org/releases/22.03/notes-22.03.0</id>
         <link href="https://openwrt.org/releases/22.03/notes-22.03.0"/>
         <updated>2022-09-07T01:44:39.891Z</updated>
         <content type="html"><![CDATA[(openwrt.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, iPhone 14 Pro / Pro Max 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/"/>
+        <updated>2022-09-08T01:26:58.584Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 A4일까? - 종이 크기의 수학적 아름다움]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(engadget.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
-        <id>http://www.brouter.de/brouter-web/</id>
-        <link href="http://www.brouter.de/brouter-web/"/>
-        <updated>2022-09-08T15:17:35.258Z</updated>
-        <content type="html"><![CDATA[(brouter.de)]]></content>
+        <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
+        <id>https://nenadmarkus.com/p/picojs-intro/</id>
+        <link href="https://nenadmarkus.com/p/picojs-intro/"/>
+        <updated>2022-09-09T04:04:41.018Z</updated>
+        <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
     </entry>
 </feed>
