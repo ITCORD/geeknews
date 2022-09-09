@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-09T10:19:14.998Z</updated>
+    <updated>2022-09-09T11:14:55.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
-        <id>https://www.fuse-t.org/</id>
-        <link href="https://www.fuse-t.org/"/>
-        <updated>2022-09-09T01:48:11.270Z</updated>
-        <content type="html"><![CDATA[(fuse-t.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웹사이트 크기가 14kB 미만이어야 하는 이유]]></title>
         <id>https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/</id>
         <link href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"/>
         <updated>2022-09-08T10:18:37.018Z</updated>
         <content type="html"><![CDATA[(endtimes.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
+        <id>https://www.fuse-t.org/</id>
+        <link href="https://www.fuse-t.org/"/>
+        <updated>2022-09-09T01:48:11.270Z</updated>
+        <content type="html"><![CDATA[(fuse-t.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple Watch용으로 Quake 1 포팅]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(maikklein.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
-        <id>https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka</id>
-        <link href="https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"/>
-        <updated>2022-09-08T04:07:00.770Z</updated>
-        <content type="html"><![CDATA[(lightbend.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어느 40년 차 프로그래머의 회고]]></title>
         <id>https://maily.so/productlab/posts/5319c103</id>
         <link href="https://maily.so/productlab/posts/5319c103"/>
         <updated>2022-09-06T01:47:46.253Z</updated>
         <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
+        <id>https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka</id>
+        <link href="https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"/>
+        <updated>2022-09-08T04:07:00.770Z</updated>
+        <content type="html"><![CDATA[(lightbend.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
