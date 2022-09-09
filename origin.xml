@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-09T06:33:35.932Z</updated>
+    <updated>2022-09-09T07:22:46.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/jeremyckahn)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
+        <id>https://www.fuse-t.org/</id>
+        <link href="https://www.fuse-t.org/"/>
+        <updated>2022-09-09T01:48:11.270Z</updated>
+        <content type="html"><![CDATA[(fuse-t.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple Watch용으로 Quake 1 포팅]]></title>
         <id>https://github.com/MyOwnClone/quake_watch</id>
         <link href="https://github.com/MyOwnClone/quake_watch"/>
         <updated>2022-09-09T01:48:11.288Z</updated>
         <content type="html"><![CDATA[(github.com/MyOwnClone)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹사이트 크기가 14kB 미만이어야 하는 이유]]></title>
-        <id>https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/</id>
-        <link href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"/>
-        <updated>2022-09-08T10:18:37.018Z</updated>
-        <content type="html"><![CDATA[(endtimes.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Github Copilot이 개발자의 생산성과 행복에 미치는 영향]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
-        <id>https://www.fuse-t.org/</id>
-        <link href="https://www.fuse-t.org/"/>
-        <updated>2022-09-09T01:48:11.270Z</updated>
-        <content type="html"><![CDATA[(fuse-t.org)]]></content>
+        <title type="html"><![CDATA[웹사이트 크기가 14kB 미만이어야 하는 이유]]></title>
+        <id>https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/</id>
+        <link href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"/>
+        <updated>2022-09-08T10:18:37.018Z</updated>
+        <content type="html"><![CDATA[(endtimes.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ruff - 10-100x 빠른 Python 린터]]></title>
