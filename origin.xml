@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-09T23:18:41.092Z</updated>
+    <updated>2022-09-10T01:44:00.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Leon - 음성합성/인식을 이용한 AI 개인 비서 오픈소스]]></title>
+        <id>https://github.com/leon-ai/leon</id>
+        <link href="https://github.com/leon-ai/leon"/>
+        <updated>2022-09-10T01:43:21.540Z</updated>
+        <content type="html"><![CDATA[(github.com/leon-ai)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chitchatter - 오픈소스, 서버리스, 탈중앙화 P2P 채팅앱]]></title>
         <id>https://github.com/jeremyckahn/chitchatter</id>
         <link href="https://github.com/jeremyckahn/chitchatter"/>
         <updated>2022-09-09T01:48:11.270Z</updated>
         <content type="html"><![CDATA[(github.com/jeremyckahn)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플이 지구상에서 가장 가치있는 회사인 이유를 설명하는 1문장]]></title>
+        <id>https://www.inc.com/jason-aten/with-1-sentence-apple-reminded-everyone-why-its-most-valuable-company-on-earth.html</id>
+        <link href="https://www.inc.com/jason-aten/with-1-sentence-apple-reminded-everyone-why-its-most-valuable-company-on-earth.html"/>
+        <updated>2022-09-10T01:43:21.545Z</updated>
+        <content type="html"><![CDATA[(inc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigFAT - 파일크기 제한 없는 하위호환 가능 FAT 확장]]></title>
+        <id>https://www.segger.com/products/file-system/emfile/bigfat/</id>
+        <link href="https://www.segger.com/products/file-system/emfile/bigfat/"/>
+        <updated>2022-09-10T01:43:21.545Z</updated>
+        <content type="html"><![CDATA[(segger.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Github Copilot이 개발자의 생산성과 행복에 미치는 영향]]></title>
@@ -41,13 +62,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Watch용으로 Quake 1 포팅]]></title>
-        <id>https://github.com/MyOwnClone/quake_watch</id>
-        <link href="https://github.com/MyOwnClone/quake_watch"/>
-        <updated>2022-09-09T01:48:11.288Z</updated>
-        <content type="html"><![CDATA[(github.com/MyOwnClone)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unreal Rust 공개]]></title>
         <id>https://maikklein.github.io/unreal-rust-1/</id>
         <link href="https://maikklein.github.io/unreal-rust-1/"/>
@@ -69,6 +83,13 @@
         <content type="html"><![CDATA[(lusift.vercel.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple Watch용으로 Quake 1 포팅]]></title>
+        <id>https://github.com/MyOwnClone/quake_watch</id>
+        <link href="https://github.com/MyOwnClone/quake_watch"/>
+        <updated>2022-09-09T01:48:11.288Z</updated>
+        <content type="html"><![CDATA[(github.com/MyOwnClone)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ruff - 10-100x 빠른 Python 린터]]></title>
         <id>https://github.com/charliermarsh/ruff</id>
         <link href="https://github.com/charliermarsh/ruff"/>
@@ -83,18 +104,18 @@
         <content type="html"><![CDATA[(lists.gnu.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
-        <id>https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka</id>
-        <link href="https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"/>
-        <updated>2022-09-08T04:07:00.770Z</updated>
-        <content type="html"><![CDATA[(lightbend.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
         <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
         <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
         <updated>2022-09-06T01:47:46.257Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
+        <id>https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka</id>
+        <link href="https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"/>
+        <updated>2022-09-08T04:07:00.770Z</updated>
+        <content type="html"><![CDATA[(lightbend.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
@@ -123,26 +144,5 @@
         <link href="https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"/>
         <updated>2022-09-06T01:47:46.253Z</updated>
         <content type="html"><![CDATA[(scilogs.spektrum.de)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
-        <id>https://nenadmarkus.com/p/picojs-intro/</id>
-        <link href="https://nenadmarkus.com/p/picojs-intro/"/>
-        <updated>2022-09-09T04:04:41.018Z</updated>
-        <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
-        <id>http://www.brouter.de/brouter-web/</id>
-        <link href="http://www.brouter.de/brouter-web/"/>
-        <updated>2022-09-09T15:18:29.075Z</updated>
-        <content type="html"><![CDATA[(brouter.de)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰, 안드로이드를 제치고 미국 스마트폰 시장 과반을 차지]]></title>
-        <id>https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html</id>
-        <link href="https://www.engadget.com/iphone-overtakes-android-us-market-share-223251196.html"/>
-        <updated>2022-09-09T19:14:27.672Z</updated>
-        <content type="html"><![CDATA[(engadget.com)]]></content>
     </entry>
 </feed>
