@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-10T09:16:38.996Z</updated>
+    <updated>2022-09-10T10:17:31.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(fuse-t.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어느 40년 차 프로그래머의 회고]]></title>
-        <id>https://maily.so/productlab/posts/5319c103</id>
-        <link href="https://maily.so/productlab/posts/5319c103"/>
-        <updated>2022-09-06T01:47:46.253Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뉴스레터는 진짜 동작하나요? 왜 웹사이트들이 엄청 푸시하나요?]]></title>
         <id>https://news.ycombinator.com/item?id=32304011</id>
         <link href="https://news.ycombinator.com/item?id=32304011"/>
         <updated>2022-09-07T01:44:39.891Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어느 40년 차 프로그래머의 회고]]></title>
+        <id>https://maily.so/productlab/posts/5319c103</id>
+        <link href="https://maily.so/productlab/posts/5319c103"/>
+        <updated>2022-09-06T01:47:46.253Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Unreal Rust 공개]]></title>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(lists.gnu.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruff - 10-100x 빠른 Python 린터]]></title>
-        <id>https://github.com/charliermarsh/ruff</id>
-        <link href="https://github.com/charliermarsh/ruff"/>
-        <updated>2022-09-08T05:59:20.042Z</updated>
-        <content type="html"><![CDATA[(github.com/charliermarsh)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
         <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
         <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
@@ -104,11 +97,11 @@
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Watch용으로 Quake 1 포팅]]></title>
-        <id>https://github.com/MyOwnClone/quake_watch</id>
-        <link href="https://github.com/MyOwnClone/quake_watch"/>
-        <updated>2022-09-09T01:48:11.288Z</updated>
-        <content type="html"><![CDATA[(github.com/MyOwnClone)]]></content>
+        <title type="html"><![CDATA[Ruff - 10-100x 빠른 Python 린터]]></title>
+        <id>https://github.com/charliermarsh/ruff</id>
+        <link href="https://github.com/charliermarsh/ruff"/>
+        <updated>2022-09-08T05:59:20.042Z</updated>
+        <content type="html"><![CDATA[(github.com/charliermarsh)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
@@ -116,6 +109,13 @@
         <link href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"/>
         <updated>2022-09-05T04:16:47.577Z</updated>
         <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch용으로 Quake 1 포팅]]></title>
+        <id>https://github.com/MyOwnClone/quake_watch</id>
+        <link href="https://github.com/MyOwnClone/quake_watch"/>
+        <updated>2022-09-09T01:48:11.288Z</updated>
+        <content type="html"><![CDATA[(github.com/MyOwnClone)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
