@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-13T13:48:16.809Z</updated>
+    <updated>2022-09-13T14:23:25.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(github.com/sd-webui)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube, 학습을 위한 새로운 기능들 공개]]></title>
-        <id>https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/</id>
-        <link href="https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/"/>
-        <updated>2022-09-11T01:38:20.705Z</updated>
-        <content type="html"><![CDATA[(blog.youtube)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Leon - 음성합성/인식을 이용한 AI 개인 비서 오픈소스]]></title>
         <id>https://github.com/leon-ai/leon</id>
         <link href="https://github.com/leon-ai/leon"/>
@@ -90,11 +83,11 @@
         <content type="html"><![CDATA[(github.com/leon-ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Draw Anything - 간단한 Stable Diffusion Playground]]></title>
-        <id>https://www.drawanything.app/</id>
-        <link href="https://www.drawanything.app/"/>
+        <title type="html"><![CDATA[YouTube, 학습을 위한 새로운 기능들 공개]]></title>
+        <id>https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/</id>
+        <link href="https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/"/>
         <updated>2022-09-11T01:38:20.705Z</updated>
-        <content type="html"><![CDATA[(drawanything.app)]]></content>
+        <content type="html"><![CDATA[(blog.youtube)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chitchatter - 오픈소스, 서버리스, 탈중앙화 P2P 채팅앱]]></title>
@@ -102,6 +95,13 @@
         <link href="https://github.com/jeremyckahn/chitchatter"/>
         <updated>2022-09-09T01:48:11.270Z</updated>
         <content type="html"><![CDATA[(github.com/jeremyckahn)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draw Anything - 간단한 Stable Diffusion Playground]]></title>
+        <id>https://www.drawanything.app/</id>
+        <link href="https://www.drawanything.app/"/>
+        <updated>2022-09-11T01:38:20.705Z</updated>
+        <content type="html"><![CDATA[(drawanything.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글은 검색엔진 1등을 유지하기 위해 엄청난 액수를 지불한다고 미국 법무부가 주장]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(segger.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patreon, 보안팀 전체를 정리해고]]></title>
-        <id>https://twitter.com/wbm312/status/1567974063578185728</id>
-        <link href="https://twitter.com/wbm312/status/1567974063578185728"/>
-        <updated>2022-09-12T07:37:19.021Z</updated>
-        <content type="html"><![CDATA[(twitter.com/wbm312)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Github Copilot이 개발자의 생산성과 행복에 미치는 영향]]></title>
         <id>https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/</id>
         <link href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/"/>
@@ -137,6 +130,13 @@
         <link href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"/>
         <updated>2022-09-08T10:18:37.018Z</updated>
         <content type="html"><![CDATA[(endtimes.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patreon, 보안팀 전체를 정리해고]]></title>
+        <id>https://twitter.com/wbm312/status/1567974063578185728</id>
+        <link href="https://twitter.com/wbm312/status/1567974063578185728"/>
+        <updated>2022-09-12T07:37:19.021Z</updated>
+        <content type="html"><![CDATA[(twitter.com/wbm312)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어느 40년 차 프로그래머의 회고]]></title>
