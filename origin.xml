@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-13T10:19:26.572Z</updated>
+    <updated>2022-09-13T11:15:32.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(shkspr.mobi)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미국 의회 API 베타 공개]]></title>
+        <id>https://api.congress.gov/</id>
+        <link href="https://api.congress.gov/"/>
+        <updated>2022-09-13T01:30:01.215Z</updated>
+        <content type="html"><![CDATA[(api.congress.gov)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ladybird - 새로운 크로스플랫폼 브라우저 프로젝트]]></title>
         <id>https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/</id>
         <link href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"/>
@@ -32,13 +39,6 @@
         <link href="https://github.com/EbookFoundation/free-programming-books"/>
         <updated>2022-09-12T01:51:02.315Z</updated>
         <content type="html"><![CDATA[(github.com/EbookFoundation)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 의회 API 베타 공개]]></title>
-        <id>https://api.congress.gov/</id>
-        <link href="https://api.congress.gov/"/>
-        <updated>2022-09-13T01:30:01.215Z</updated>
-        <content type="html"><![CDATA[(api.congress.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Youtube-dl, 870라인 파이썬으로 만든 JS 인터프리터 코드 내장]]></title>
