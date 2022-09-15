@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-15T04:21:58.422Z</updated>
+    <updated>2022-09-15T06:01:15.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(w4games.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
+        <id>https://news.ycombinator.com/item?id=32793534</id>
+        <link href="https://news.ycombinator.com/item?id=32793534"/>
+        <updated>2022-09-14T01:25:09.267Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 "DVD Bouncing Logo"]]></title>
         <id>https://www.google.com/search?q=dvd+bouncing+logo</id>
         <link href="https://www.google.com/search?q=dvd+bouncing+logo"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
-        <id>https://news.ycombinator.com/item?id=32793534</id>
-        <link href="https://news.ycombinator.com/item?id=32793534"/>
-        <updated>2022-09-14T01:25:09.267Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[Youtube, 스킵 불가능한 5~10개의 광고를 보이는 테스트 중]]></title>
+        <id>https://twitter.com/sondesix/status/1569856456811495424</id>
+        <link href="https://twitter.com/sondesix/status/1569856456811495424"/>
+        <updated>2022-09-15T06:00:33.593Z</updated>
+        <content type="html"><![CDATA[(twitter.com/sondesix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twilio, 11%의 직원 정리 해고]]></title>
@@ -97,13 +104,6 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX Starlink가 이제 7대륙 모두를 커버]]></title>
-        <id>https://twitter.com/SpaceX/status/1570073223005622274</id>
-        <link href="https://twitter.com/SpaceX/status/1570073223005622274"/>
-        <updated>2022-09-15T04:21:24.793Z</updated>
-        <content type="html"><![CDATA[(twitter.com/SpaceX)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래밍 무료 학습 자료 모음]]></title>
         <id>https://github.com/EbookFoundation/free-programming-books</id>
         <link href="https://github.com/EbookFoundation/free-programming-books"/>
@@ -116,6 +116,13 @@
         <link href="https://driesdepoorter.be/thefollower/"/>
         <updated>2022-09-14T01:25:09.262Z</updated>
         <content type="html"><![CDATA[(driesdepoorter.be)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX Starlink가 이제 7대륙 모두를 커버]]></title>
+        <id>https://twitter.com/SpaceX/status/1570073223005622274</id>
+        <link href="https://twitter.com/SpaceX/status/1570073223005622274"/>
+        <updated>2022-09-15T04:21:24.793Z</updated>
+        <content type="html"><![CDATA[(twitter.com/SpaceX)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인도는 IPv6가 거의 80%, 한국은 15%에 그쳐]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/erdewit/HiFiScan"/>
         <updated>2022-09-14T01:25:09.261Z</updated>
         <content type="html"><![CDATA[(github.com/erdewit)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ladybird - 새로운 크로스플랫폼 브라우저 프로젝트]]></title>
-        <id>https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/</id>
-        <link href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"/>
-        <updated>2022-09-13T01:30:01.213Z</updated>
-        <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
     </entry>
 </feed>
