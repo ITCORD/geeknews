@@ -2,15 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-14T23:17:41.343Z</updated>
+    <updated>2022-09-15T01:49:24.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 만들어서 사용]]></title>
+        <id>https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/</id>
+        <link href="https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/"/>
+        <updated>2022-09-15T01:48:49.483Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W4 Games, $8.5m 투자 받아서 Godot 게임엔진의 성장 지원 예정]]></title>
+        <id>https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/</id>
+        <link href="https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/"/>
+        <updated>2022-09-15T01:48:49.487Z</updated>
+        <content type="html"><![CDATA[(w4games.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅테크 들은 어떻게 돈을 벌고 있나]]></title>
+        <id>https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/</id>
+        <link href="https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/"/>
+        <updated>2022-09-15T01:48:49.487Z</updated>
+        <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilio, 11%의 직원 정리 해고]]></title>
+        <id>https://www.cnbc.com/2022/09/14/twilio-to-lay-of-11percent-of-workforce.html</id>
+        <link href="https://www.cnbc.com/2022/09/14/twilio-to-lay-of-11percent-of-workforce.html"/>
+        <updated>2022-09-15T01:48:49.489Z</updated>
+        <content type="html"><![CDATA[(cnbc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 "DVD Bouncing Logo"]]></title>
+        <id>https://www.google.com/search?q=dvd+bouncing+logo</id>
+        <link href="https://www.google.com/search?q=dvd+bouncing+logo"/>
+        <updated>2022-09-15T01:48:49.489Z</updated>
+        <content type="html"><![CDATA[(google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 폰트, COLRv1 포맷의 컬러 폰트 추가]]></title>
+        <id>https://material.io/blog/color-fonts-are-here</id>
+        <link href="https://material.io/blog/color-fonts-are-here"/>
+        <updated>2022-09-15T01:48:49.496Z</updated>
+        <content type="html"><![CDATA[(material.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
         <id>https://news.ycombinator.com/item?id=32793534</id>
         <link href="https://news.ycombinator.com/item?id=32793534"/>
         <updated>2022-09-14T01:25:09.267Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컨슈머 오디오 비즈니스의 "비밀"]]></title>
+        <id>https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/</id>
+        <link href="https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/"/>
+        <updated>2022-09-15T01:48:49.498Z</updated>
+        <content type="html"><![CDATA[(audiosciencereview.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안드로이드 13 코드에서 Pixel 폴더블과 `프로` 타블렛 정보 발견]]></title>
+        <id>https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors</id>
+        <link href="https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors"/>
+        <updated>2022-09-15T01:48:49.498Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Atkinson Hyperlegible Font - 저시력자를 위해 가독성을 높인 폰트]]></title>
@@ -20,13 +76,6 @@
         <content type="html"><![CDATA[(brailleinstitute.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[satisfies: 안전한 업캐스팅 (TypeScript 4.9)]]></title>
-        <id>https://engineering.ab180.co/stories/satisfies-safe-upcasting</id>
-        <link href="https://engineering.ab180.co/stories/satisfies-safe-upcasting"/>
-        <updated>2022-09-14T04:13:31.275Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: J40: JPEG XL 디코더]]></title>
         <id>https://news.hada.io/topic?id=7389</id>
         <link href="https://news.hada.io/topic?id=7389"/>
@@ -34,11 +83,18 @@
         <content type="html"><![CDATA[(github.com/lifthrasiir)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Follower - 오픈 카메라와 AI를 이용하여 인스타그램 사진이 찍힌 과정 보기]]></title>
-        <id>https://driesdepoorter.be/thefollower/</id>
-        <link href="https://driesdepoorter.be/thefollower/"/>
-        <updated>2022-09-14T01:25:09.262Z</updated>
-        <content type="html"><![CDATA[(driesdepoorter.be)]]></content>
+        <title type="html"><![CDATA[Show GN: 불편한 JIRA 일반 검색 개선을 위한 크롬 확장 프로그램]]></title>
+        <id>https://news.hada.io/topic?id=7396</id>
+        <link href="https://news.hada.io/topic?id=7396"/>
+        <updated>2022-09-14T08:21:04.870Z</updated>
+        <content type="html"><![CDATA[(chrome.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[satisfies: 안전한 업캐스팅 (TypeScript 4.9)]]></title>
+        <id>https://engineering.ab180.co/stories/satisfies-safe-upcasting</id>
+        <link href="https://engineering.ab180.co/stories/satisfies-safe-upcasting"/>
+        <updated>2022-09-14T04:13:31.275Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래밍 무료 학습 자료 모음]]></title>
@@ -46,6 +102,13 @@
         <link href="https://github.com/EbookFoundation/free-programming-books"/>
         <updated>2022-09-12T01:51:02.315Z</updated>
         <content type="html"><![CDATA[(github.com/EbookFoundation)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Follower - 오픈 카메라와 AI를 이용하여 인스타그램 사진이 찍힌 과정 보기]]></title>
+        <id>https://driesdepoorter.be/thefollower/</id>
+        <link href="https://driesdepoorter.be/thefollower/"/>
+        <updated>2022-09-14T01:25:09.262Z</updated>
+        <content type="html"><![CDATA[(driesdepoorter.be)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인도는 IPv6가 거의 80%, 한국은 15%에 그쳐]]></title>
@@ -76,73 +139,10 @@
         <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 불편한 JIRA 일반 검색 개선을 위한 크롬 확장 프로그램]]></title>
-        <id>https://news.hada.io/topic?id=7396</id>
-        <link href="https://news.hada.io/topic?id=7396"/>
-        <updated>2022-09-14T08:21:04.870Z</updated>
-        <content type="html"><![CDATA[(chrome.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10년간 가장 저렴하게 이용할수 있는 도메인은?]]></title>
         <id>https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/</id>
         <link href="https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"/>
         <updated>2022-09-13T01:30:01.212Z</updated>
         <content type="html"><![CDATA[(shkspr.mobi)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 의회 API 베타 공개]]></title>
-        <id>https://api.congress.gov/</id>
-        <link href="https://api.congress.gov/"/>
-        <updated>2022-09-13T01:30:01.215Z</updated>
-        <content type="html"><![CDATA[(api.congress.gov)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youtube-dl, 870라인 파이썬으로 만든 JS 인터프리터 코드 내장]]></title>
-        <id>https://twitter.com/zhuowei/status/1568659229887664129</id>
-        <link href="https://twitter.com/zhuowei/status/1568659229887664129"/>
-        <updated>2022-09-13T01:30:01.214Z</updated>
-        <content type="html"><![CDATA[(twitter.com/zhuowei)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ContainerSSH - 컨테이너를 생성해서 접속시켜주는 SSH Server]]></title>
-        <id>https://containerssh.io/</id>
-        <link href="https://containerssh.io/"/>
-        <updated>2022-09-12T01:51:02.315Z</updated>
-        <content type="html"><![CDATA[(containerssh.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 아트 커뮤니티들이 AI가 생성한 이미지를 금지하기 시작]]></title>
-        <id>https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/</id>
-        <link href="https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/"/>
-        <updated>2022-09-13T04:18:36.448Z</updated>
-        <content type="html"><![CDATA[(waxy.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러 국가/언어의 사용자를 위한 SEO 전략 수립방법]]></title>
-        <id>https://ahrefs.com/blog/international-seo/</id>
-        <link href="https://ahrefs.com/blog/international-seo/"/>
-        <updated>2022-09-12T04:24:37.514Z</updated>
-        <content type="html"><![CDATA[(ahrefs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion Web UI]]></title>
-        <id>https://github.com/sd-webui/stable-diffusion-webui</id>
-        <link href="https://github.com/sd-webui/stable-diffusion-webui"/>
-        <updated>2022-09-12T01:51:02.317Z</updated>
-        <content type="html"><![CDATA[(github.com/sd-webui)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leon - 음성합성/인식을 이용한 AI 개인 비서 오픈소스]]></title>
-        <id>https://github.com/leon-ai/leon</id>
-        <link href="https://github.com/leon-ai/leon"/>
-        <updated>2022-09-10T01:43:21.540Z</updated>
-        <content type="html"><![CDATA[(github.com/leon-ai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글은 검색엔진 1등을 유지하기 위해 엄청난 액수를 지불한다고 미국 법무부가 주장]]></title>
-        <id>https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says</id>
-        <link href="https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says"/>
-        <updated>2022-09-14T04:13:31.279Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
 </feed>
