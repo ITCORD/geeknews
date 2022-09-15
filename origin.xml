@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-15T14:23:27.578Z</updated>
+    <updated>2022-09-15T15:18:34.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Youtube, 스킵 불가능한 5~10개의 광고를 보이는 테스트 중]]></title>
-        <id>https://twitter.com/sondesix/status/1569856456811495424</id>
-        <link href="https://twitter.com/sondesix/status/1569856456811495424"/>
-        <updated>2022-09-15T06:00:33.593Z</updated>
-        <content type="html"><![CDATA[(twitter.com/sondesix)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래밍 무료 학습 자료 모음]]></title>
         <id>https://github.com/EbookFoundation/free-programming-books</id>
         <link href="https://github.com/EbookFoundation/free-programming-books"/>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[(google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 폰트, COLRv1 포맷의 컬러 폰트 추가]]></title>
-        <id>https://material.io/blog/color-fonts-are-here</id>
-        <link href="https://material.io/blog/color-fonts-are-here"/>
-        <updated>2022-09-15T01:48:49.496Z</updated>
-        <content type="html"><![CDATA[(material.io)]]></content>
+        <title type="html"><![CDATA[Youtube, 스킵 불가능한 5~10개의 광고를 보이는 테스트 중]]></title>
+        <id>https://twitter.com/sondesix/status/1569856456811495424</id>
+        <link href="https://twitter.com/sondesix/status/1569856456811495424"/>
+        <updated>2022-09-15T06:00:33.593Z</updated>
+        <content type="html"><![CDATA[(twitter.com/sondesix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: J40: JPEG XL 디코더]]></title>
@@ -88,6 +81,13 @@
         <link href="https://news.hada.io/topic?id=7389"/>
         <updated>2022-09-13T20:18:22.339Z</updated>
         <content type="html"><![CDATA[(github.com/lifthrasiir)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 폰트, COLRv1 포맷의 컬러 폰트 추가]]></title>
+        <id>https://material.io/blog/color-fonts-are-here</id>
+        <link href="https://material.io/blog/color-fonts-are-here"/>
+        <updated>2022-09-15T01:48:49.496Z</updated>
+        <content type="html"><![CDATA[(material.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[satisfies: 안전한 업캐스팅 (TypeScript 4.9)]]></title>
@@ -118,20 +118,6 @@
         <content type="html"><![CDATA[(cnbc.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안드로이드 13 코드에서 Pixel 폴더블과 `프로` 타블렛 정보 발견]]></title>
-        <id>https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors</id>
-        <link href="https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors"/>
-        <updated>2022-09-15T01:48:49.498Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인도는 IPv6가 거의 80%, 한국은 15%에 그쳐]]></title>
-        <id>https://stats.labs.apnic.net/ipv6/</id>
-        <link href="https://stats.labs.apnic.net/ipv6/"/>
-        <updated>2022-09-14T01:25:09.252Z</updated>
-        <content type="html"><![CDATA[(stats.labs.apnic.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DiffusionBee - M1/M2 맥을 위한 Stable Diffusion GUI 앱]]></title>
         <id>https://github.com/divamgupta/diffusionbee-stable-diffusion-ui</id>
         <link href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"/>
@@ -144,5 +130,19 @@
         <link href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"/>
         <updated>2022-09-15T07:28:51.793Z</updated>
         <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도는 IPv6가 거의 80%, 한국은 15%에 그쳐]]></title>
+        <id>https://stats.labs.apnic.net/ipv6/</id>
+        <link href="https://stats.labs.apnic.net/ipv6/"/>
+        <updated>2022-09-14T01:25:09.252Z</updated>
+        <content type="html"><![CDATA[(stats.labs.apnic.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안드로이드 13 코드에서 Pixel 폴더블과 `프로` 타블렛 정보 발견]]></title>
+        <id>https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors</id>
+        <link href="https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors"/>
+        <updated>2022-09-15T01:48:49.498Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
 </feed>
