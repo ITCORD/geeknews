@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-16T10:19:39.411Z</updated>
+    <updated>2022-09-16T11:14:58.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
-        <id>https://github.com/buger/goreplay</id>
-        <link href="https://github.com/buger/goreplay"/>
-        <updated>2022-09-16T04:22:23.042Z</updated>
-        <content type="html"><![CDATA[(github.com/buger)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tipi - 모두를 위한 홈 서버]]></title>
         <id>https://github.com/meienberger/runtipi</id>
         <link href="https://github.com/meienberger/runtipi"/>
         <updated>2022-09-16T01:49:46.969Z</updated>
         <content type="html"><![CDATA[(github.com/meienberger)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
+        <id>https://github.com/buger/goreplay</id>
+        <link href="https://github.com/buger/goreplay"/>
+        <updated>2022-09-16T04:22:23.042Z</updated>
+        <content type="html"><![CDATA[(github.com/buger)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[s3sqlite - S3에 저장된 SQLite쿼리하기]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(sandboxx.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라라벨 부트캠프 페이지 오픈]]></title>
-        <id>https://laravel-news.com/laravel-bootcamp</id>
-        <link href="https://laravel-news.com/laravel-bootcamp"/>
-        <updated>2022-09-16T06:03:39.440Z</updated>
-        <content type="html"><![CDATA[(laravel-news.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 만들어서 사용]]></title>
         <id>https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/</id>
         <link href="https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/"/>
         <updated>2022-09-15T01:48:49.483Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라라벨 부트캠프 페이지 오픈]]></title>
+        <id>https://laravel-news.com/laravel-bootcamp</id>
+        <link href="https://laravel-news.com/laravel-bootcamp"/>
+        <updated>2022-09-16T06:03:39.440Z</updated>
+        <content type="html"><![CDATA[(laravel-news.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빅테크 들은 어떻게 돈을 벌고 있나]]></title>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(brailleinstitute.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 불편한 JIRA 일반 검색 개선을 위한 크롬 확장 프로그램]]></title>
-        <id>https://news.hada.io/topic?id=7396</id>
-        <link href="https://news.hada.io/topic?id=7396"/>
-        <updated>2022-09-14T08:21:04.870Z</updated>
-        <content type="html"><![CDATA[(chrome.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: J40: JPEG XL 디코더]]></title>
         <id>https://news.hada.io/topic?id=7389</id>
         <link href="https://news.hada.io/topic?id=7389"/>
@@ -111,11 +104,32 @@
         <content type="html"><![CDATA[(github.com/lifthrasiir)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 불편한 JIRA 일반 검색 개선을 위한 크롬 확장 프로그램]]></title>
+        <id>https://news.hada.io/topic?id=7396</id>
+        <link href="https://news.hada.io/topic?id=7396"/>
+        <updated>2022-09-14T08:21:04.870Z</updated>
+        <content type="html"><![CDATA[(chrome.google.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[satisfies: 안전한 업캐스팅 (TypeScript 4.9)]]></title>
         <id>https://engineering.ab180.co/stories/satisfies-safe-upcasting</id>
         <link href="https://engineering.ab180.co/stories/satisfies-safe-upcasting"/>
         <updated>2022-09-14T04:13:31.275Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiffusionBee - M1/M2 맥을 위한 Stable Diffusion GUI 앱]]></title>
+        <id>https://github.com/divamgupta/diffusionbee-stable-diffusion-ui</id>
+        <link href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"/>
+        <updated>2022-09-13T01:30:01.213Z</updated>
+        <content type="html"><![CDATA[(github.com/divamgupta)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ladybird - 새로운 크로스플랫폼 브라우저 프로젝트]]></title>
+        <id>https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/</id>
+        <link href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"/>
+        <updated>2022-09-16T11:14:20.709Z</updated>
+        <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 폰트, COLRv1 포맷의 컬러 폰트 추가]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/"/>
         <updated>2022-09-15T01:48:49.498Z</updated>
         <content type="html"><![CDATA[(audiosciencereview.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W4 Games, $8.5m 투자 받아서 Godot 게임엔진의 성장 지원 예정]]></title>
-        <id>https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/</id>
-        <link href="https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/"/>
-        <updated>2022-09-15T01:48:49.487Z</updated>
-        <content type="html"><![CDATA[(w4games.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DiffusionBee - M1/M2 맥을 위한 Stable Diffusion GUI 앱]]></title>
-        <id>https://github.com/divamgupta/diffusionbee-stable-diffusion-ui</id>
-        <link href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"/>
-        <updated>2022-09-13T01:30:01.213Z</updated>
-        <content type="html"><![CDATA[(github.com/divamgupta)]]></content>
     </entry>
 </feed>
