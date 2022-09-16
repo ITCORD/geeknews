@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-16T04:22:56.201Z</updated>
+    <updated>2022-09-16T06:04:19.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tipi - 모두를 위한 홈 서버]]></title>
-        <id>https://github.com/meienberger/runtipi</id>
-        <link href="https://github.com/meienberger/runtipi"/>
-        <updated>2022-09-16T01:49:46.969Z</updated>
-        <content type="html"><![CDATA[(github.com/meienberger)]]></content>
+        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
+        <id>https://github.com/buger/goreplay</id>
+        <link href="https://github.com/buger/goreplay"/>
+        <updated>2022-09-16T04:22:23.042Z</updated>
+        <content type="html"><![CDATA[(github.com/buger)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[s3sqlite - S3에 저장된 SQLite쿼리하기]]></title>
@@ -25,6 +25,13 @@
         <link href="https://github.com/litements/s3sqlite"/>
         <updated>2022-09-16T04:22:23.041Z</updated>
         <content type="html"><![CDATA[(github.com/litements)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tipi - 모두를 위한 홈 서버]]></title>
+        <id>https://github.com/meienberger/runtipi</id>
+        <link href="https://github.com/meienberger/runtipi"/>
+        <updated>2022-09-16T01:49:46.969Z</updated>
+        <content type="html"><![CDATA[(github.com/meienberger)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stackaid - 의존중인 오픈소스 전체에 후원하기]]></title>
@@ -48,13 +55,6 @@
         <content type="html"><![CDATA[(sandboxx.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
-        <id>https://github.com/buger/goreplay</id>
-        <link href="https://github.com/buger/goreplay"/>
-        <updated>2022-09-16T04:22:23.042Z</updated>
-        <content type="html"><![CDATA[(github.com/buger)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 만들어서 사용]]></title>
         <id>https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/</id>
         <link href="https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/"/>
@@ -67,6 +67,13 @@
         <link href="https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/"/>
         <updated>2022-09-15T01:48:49.487Z</updated>
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라라벨 부트캠프 페이지 오픈]]></title>
+        <id>https://laravel-news.com/laravel-bootcamp</id>
+        <link href="https://laravel-news.com/laravel-bootcamp"/>
+        <updated>2022-09-16T06:03:39.440Z</updated>
+        <content type="html"><![CDATA[(laravel-news.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
@@ -104,6 +111,13 @@
         <content type="html"><![CDATA[(github.com/lifthrasiir)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[satisfies: 안전한 업캐스팅 (TypeScript 4.9)]]></title>
+        <id>https://engineering.ab180.co/stories/satisfies-safe-upcasting</id>
+        <link href="https://engineering.ab180.co/stories/satisfies-safe-upcasting"/>
+        <updated>2022-09-14T04:13:31.275Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[컨슈머 오디오 비즈니스의 "비밀"]]></title>
         <id>https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/</id>
         <link href="https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/"/>
@@ -118,13 +132,6 @@
         <content type="html"><![CDATA[(w4games.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[satisfies: 안전한 업캐스팅 (TypeScript 4.9)]]></title>
-        <id>https://engineering.ab180.co/stories/satisfies-safe-upcasting</id>
-        <link href="https://engineering.ab180.co/stories/satisfies-safe-upcasting"/>
-        <updated>2022-09-14T04:13:31.275Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Follower - 오픈 카메라와 AI를 이용하여 인스타그램 사진이 찍힌 과정 보기]]></title>
         <id>https://driesdepoorter.be/thefollower/</id>
         <link href="https://driesdepoorter.be/thefollower/"/>
@@ -137,12 +144,5 @@
         <link href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"/>
         <updated>2022-09-13T01:30:01.213Z</updated>
         <content type="html"><![CDATA[(github.com/divamgupta)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ladybird - 새로운 크로스플랫폼 브라우저 프로젝트]]></title>
-        <id>https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/</id>
-        <link href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"/>
-        <updated>2022-09-15T07:28:51.793Z</updated>
-        <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
     </entry>
 </feed>
