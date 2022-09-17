@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-17T06:21:05.507Z</updated>
+    <updated>2022-09-17T07:16:29.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
+        <id>https://hbios.quiple.dev/</id>
+        <link href="https://hbios.quiple.dev/"/>
+        <updated>2022-09-17T03:58:51.303Z</updated>
+        <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 자동차 휠들이 평평한 이유(공기역학과 스타일 때문은 아님)]]></title>
         <id>https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/</id>
@@ -25,13 +32,6 @@
         <link href="https://support.apple.com/ko-kr/HT212650"/>
         <updated>2022-09-17T01:28:27.905Z</updated>
         <content type="html"><![CDATA[(support.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
-        <id>https://hbios.quiple.dev/</id>
-        <link href="https://hbios.quiple.dev/"/>
-        <updated>2022-09-17T03:58:51.303Z</updated>
-        <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tipi - 모두를 위한 홈 서버]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(stackaid.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe가 Figma를 $20B(28조원)에 인수 예정]]></title>
-        <id>https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma</id>
-        <link href="https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma"/>
-        <updated>2022-09-16T01:49:46.991Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[빅테크 들은 어떻게 돈을 벌고 있나]]></title>
         <id>https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/</id>
         <link href="https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/"/>
         <updated>2022-09-15T01:48:49.487Z</updated>
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe가 Figma를 $20B(28조원)에 인수 예정]]></title>
+        <id>https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma</id>
+        <link href="https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma"/>
+        <updated>2022-09-16T01:49:46.991Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(sandboxx.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라라벨 부트캠프 페이지 오픈]]></title>
-        <id>https://laravel-news.com/laravel-bootcamp</id>
-        <link href="https://laravel-news.com/laravel-bootcamp"/>
-        <updated>2022-09-16T06:03:39.440Z</updated>
-        <content type="html"><![CDATA[(laravel-news.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래밍 무료 학습 자료 모음]]></title>
         <id>https://github.com/EbookFoundation/free-programming-books</id>
         <link href="https://github.com/EbookFoundation/free-programming-books"/>
         <updated>2022-09-12T01:51:02.315Z</updated>
         <content type="html"><![CDATA[(github.com/EbookFoundation)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라라벨 부트캠프 페이지 오픈]]></title>
+        <id>https://laravel-news.com/laravel-bootcamp</id>
+        <link href="https://laravel-news.com/laravel-bootcamp"/>
+        <updated>2022-09-16T06:03:39.440Z</updated>
+        <content type="html"><![CDATA[(laravel-news.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Atkinson Hyperlegible Font - 저시력자를 위해 가독성을 높인 폰트]]></title>
