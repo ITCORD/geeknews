@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-18T09:15:59.129Z</updated>
+    <updated>2022-09-18T10:18:10.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Exif Looter - 폴더의 모든 이미지의 위치정보 가져오기]]></title>
-        <id>https://github.com/aydinnyunus/exifLooter</id>
-        <link href="https://github.com/aydinnyunus/exifLooter"/>
-        <updated>2022-09-18T01:53:09.367Z</updated>
-        <content type="html"><![CDATA[(github.com/aydinnyunus)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ergo Chat - 현대적 IRC 서버]]></title>
         <id>https://github.com/ergochat/ergo</id>
         <link href="https://github.com/ergochat/ergo"/>
         <updated>2022-09-18T06:22:05.109Z</updated>
         <content type="html"><![CDATA[(github.com/ergochat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exif Looter - 폴더의 모든 이미지의 위치정보 가져오기]]></title>
+        <id>https://github.com/aydinnyunus/exifLooter</id>
+        <link href="https://github.com/aydinnyunus/exifLooter"/>
+        <updated>2022-09-18T01:53:09.367Z</updated>
+        <content type="html"><![CDATA[(github.com/aydinnyunus)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FLAC 1.4.0 릴리즈]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/danielealbano)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
-        <id>https://hbios.quiple.dev/</id>
-        <link href="https://hbios.quiple.dev/"/>
-        <updated>2022-09-17T03:58:51.303Z</updated>
-        <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tipi - 모두를 위한 홈 서버]]></title>
         <id>https://github.com/meienberger/runtipi</id>
         <link href="https://github.com/meienberger/runtipi"/>
         <updated>2022-09-16T01:49:46.969Z</updated>
         <content type="html"><![CDATA[(github.com/meienberger)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
+        <id>https://hbios.quiple.dev/</id>
+        <link href="https://hbios.quiple.dev/"/>
+        <updated>2022-09-17T03:58:51.303Z</updated>
+        <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
