@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-18T12:29:44.488Z</updated>
+    <updated>2022-09-18T13:34:24.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/buger)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 자동차 휠들이 평평한 이유(공기역학과 스타일 때문은 아님)]]></title>
-        <id>https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/</id>
-        <link href="https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/"/>
-        <updated>2022-09-17T01:28:27.905Z</updated>
-        <content type="html"><![CDATA[(theautopian.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 만들어서 사용]]></title>
         <id>https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/</id>
         <link href="https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/"/>
         <updated>2022-09-15T01:48:49.483Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 자동차 휠들이 평평한 이유(공기역학과 스타일 때문은 아님)]]></title>
+        <id>https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/</id>
+        <link href="https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/"/>
+        <updated>2022-09-17T01:28:27.905Z</updated>
+        <content type="html"><![CDATA[(theautopian.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
