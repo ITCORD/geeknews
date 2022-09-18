@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-18T05:41:32.065Z</updated>
+    <updated>2022-09-18T06:22:44.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(xiph.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ergo Chat - 현대적 IRC 서버]]></title>
+        <id>https://github.com/ergochat/ergo</id>
+        <link href="https://github.com/ergochat/ergo"/>
+        <updated>2022-09-18T06:22:05.109Z</updated>
+        <content type="html"><![CDATA[(github.com/ergochat)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[당신의 업무/학습 분야에서 어떤 책이 진정한 보물인가요?]]></title>
         <id>https://news.ycombinator.com/item?id=32790064</id>
         <link href="https://news.ycombinator.com/item?id=32790064"/>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cachegrand - 최신 하드웨어에 잘 맞는 오픈소스 키-밸류 스토어]]></title>
-        <id>https://github.com/danielealbano/cachegrand</id>
-        <link href="https://github.com/danielealbano/cachegrand"/>
-        <updated>2022-09-18T01:53:09.367Z</updated>
-        <content type="html"><![CDATA[(github.com/danielealbano)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tipi - 모두를 위한 홈 서버]]></title>
         <id>https://github.com/meienberger/runtipi</id>
         <link href="https://github.com/meienberger/runtipi"/>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(github.com/meienberger)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
-        <id>https://github.com/buger/goreplay</id>
-        <link href="https://github.com/buger/goreplay"/>
-        <updated>2022-09-16T04:22:23.042Z</updated>
-        <content type="html"><![CDATA[(github.com/buger)]]></content>
+        <title type="html"><![CDATA[Cachegrand - 최신 하드웨어에 잘 맞는 오픈소스 키-밸류 스토어]]></title>
+        <id>https://github.com/danielealbano/cachegrand</id>
+        <link href="https://github.com/danielealbano/cachegrand"/>
+        <updated>2022-09-18T01:53:09.367Z</updated>
+        <content type="html"><![CDATA[(github.com/danielealbano)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 자동차 휠들이 평평한 이유(공기역학과 스타일 때문은 아님)]]></title>
@@ -60,6 +60,13 @@
         <link href="https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/"/>
         <updated>2022-09-17T01:28:27.905Z</updated>
         <content type="html"><![CDATA[(theautopian.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
+        <id>https://github.com/buger/goreplay</id>
+        <link href="https://github.com/buger/goreplay"/>
+        <updated>2022-09-16T04:22:23.042Z</updated>
+        <content type="html"><![CDATA[(github.com/buger)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 만들어서 사용]]></title>
@@ -130,13 +137,6 @@
         <link href="https://brailleinstitute.org/freefont"/>
         <updated>2022-09-14T01:25:09.251Z</updated>
         <content type="html"><![CDATA[(brailleinstitute.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: J40: JPEG XL 디코더]]></title>
-        <id>https://news.hada.io/topic?id=7389</id>
-        <link href="https://news.hada.io/topic?id=7389"/>
-        <updated>2022-09-18T04:12:05.872Z</updated>
-        <content type="html"><![CDATA[(github.com/lifthrasiir)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분은 새로운 음악을 어떻게 발견하나요?]]></title>
