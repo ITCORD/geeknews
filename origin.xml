@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-18T22:16:36.718Z</updated>
+    <updated>2022-09-18T23:17:21.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/meienberger)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
-        <id>https://hbios.quiple.dev/</id>
-        <link href="https://hbios.quiple.dev/"/>
-        <updated>2022-09-17T03:58:51.303Z</updated>
-        <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 만들어서 사용]]></title>
         <id>https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/</id>
         <link href="https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/"/>
         <updated>2022-09-15T01:48:49.483Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
+        <id>https://hbios.quiple.dev/</id>
+        <link href="https://hbios.quiple.dev/"/>
+        <updated>2022-09-17T03:58:51.303Z</updated>
+        <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
