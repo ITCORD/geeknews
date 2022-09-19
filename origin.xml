@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-19T11:14:51.783Z</updated>
+    <updated>2022-09-19T12:35:55.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(wsj.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: Terraform 입문자를 위한 실습 문서 - Hands on Terraform with GCP]]></title>
+        <id>https://news.hada.io/topic?id=7431</id>
+        <link href="https://news.hada.io/topic?id=7431"/>
+        <updated>2022-09-19T09:20:53.279Z</updated>
+        <content type="html"><![CDATA[(heumsi.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple, 임베디드 코어의 일부를 Arm ISA에서 벗어나 RISC-V로 변경하게 될 것]]></title>
         <id>https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa</id>
         <link href="https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa"/>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Terraform 입문자를 위한 실습 문서 - Hands on Terraform with GCP]]></title>
-        <id>https://news.hada.io/topic?id=7431</id>
-        <link href="https://news.hada.io/topic?id=7431"/>
-        <updated>2022-09-19T09:20:53.279Z</updated>
-        <content type="html"><![CDATA[(heumsi.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ReVanced Manager 출시]]></title>
         <id>https://github.com/revanced/revanced-manager</id>
         <link href="https://github.com/revanced/revanced-manager"/>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/revanced)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phorge 공개 - Phabricator의 커뮤니티 버전 포크]]></title>
-        <id>https://we.phorge.it/phame/post/view/1/going_public/</id>
-        <link href="https://we.phorge.it/phame/post/view/1/going_public/"/>
-        <updated>2022-09-19T01:48:19.259Z</updated>
-        <content type="html"><![CDATA[(we.phorge.it)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ergo Chat - 현대적 IRC 서버]]></title>
         <id>https://github.com/ergochat/ergo</id>
         <link href="https://github.com/ergochat/ergo"/>
         <updated>2022-09-18T06:22:05.109Z</updated>
         <content type="html"><![CDATA[(github.com/ergochat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phorge 공개 - Phabricator의 커뮤니티 버전 포크]]></title>
+        <id>https://we.phorge.it/phame/post/view/1/going_public/</id>
+        <link href="https://we.phorge.it/phame/post/view/1/going_public/"/>
+        <updated>2022-09-19T01:48:19.259Z</updated>
+        <content type="html"><![CDATA[(we.phorge.it)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Xcode 14부터 바뀐 것들]]></title>
