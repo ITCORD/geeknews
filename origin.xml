@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-20T10:19:35.312Z</updated>
+    <updated>2022-09-20T11:15:14.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,20 +27,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtual FIDO - 2FA/WebAuthN을 위한 가상 Yubikey 디바이스]]></title>
-        <id>https://github.com/bulwarkid/virtual-fido</id>
-        <link href="https://github.com/bulwarkid/virtual-fido"/>
-        <updated>2022-09-20T01:41:18.225Z</updated>
-        <content type="html"><![CDATA[(github.com/bulwarkid)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[faster cpython, 4년 안에 5배 빨라짐]]></title>
-        <id>https://github.com/faster-cpython</id>
-        <link href="https://github.com/faster-cpython"/>
-        <updated>2022-09-20T06:03:20.621Z</updated>
-        <content type="html"><![CDATA[(github.com/faster-cpython)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Terraform 입문자를 위한 실습 문서 - Hands on Terraform with GCP]]></title>
         <id>https://news.hada.io/topic?id=7431</id>
         <link href="https://news.hada.io/topic?id=7431"/>
@@ -48,11 +34,25 @@
         <content type="html"><![CDATA[(heumsi.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virtual FIDO - 2FA/WebAuthN을 위한 가상 Yubikey 디바이스]]></title>
+        <id>https://github.com/bulwarkid/virtual-fido</id>
+        <link href="https://github.com/bulwarkid/virtual-fido"/>
+        <updated>2022-09-20T01:41:18.225Z</updated>
+        <content type="html"><![CDATA[(github.com/bulwarkid)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['슈퍼 앱'이 신흥 시장에서 확산되는 이유]]></title>
         <id>https://afridigest.com/super-apps-in-emerging-markets/</id>
         <link href="https://afridigest.com/super-apps-in-emerging-markets/"/>
         <updated>2022-09-19T01:48:19.259Z</updated>
         <content type="html"><![CDATA[(afridigest.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[faster cpython, 4년 안에 5배 빨라짐]]></title>
+        <id>https://github.com/faster-cpython</id>
+        <link href="https://github.com/faster-cpython"/>
+        <updated>2022-09-20T06:03:20.621Z</updated>
+        <content type="html"><![CDATA[(github.com/faster-cpython)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TinyBase - 로컬-퍼스트앱을 위한 Reactive 데이터 스토어]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(dogbunnypuzzle.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 16 업데이트로 가장 큰 혜택을 본 기업]]></title>
-        <id>https://maily.so/productlab/posts/e104de71</id>
-        <link href="https://maily.so/productlab/posts/e104de71"/>
-        <updated>2022-09-20T04:14:27.765Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ergo Chat - 현대적 IRC 서버]]></title>
         <id>https://github.com/ergochat/ergo</id>
         <link href="https://github.com/ergochat/ergo"/>
         <updated>2022-09-18T06:22:05.109Z</updated>
         <content type="html"><![CDATA[(github.com/ergochat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16 업데이트로 가장 큰 혜택을 본 기업]]></title>
+        <id>https://maily.so/productlab/posts/e104de71</id>
+        <link href="https://maily.so/productlab/posts/e104de71"/>
+        <updated>2022-09-20T04:14:27.765Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Phorge 공개 - Phabricator의 커뮤니티 버전 포크]]></title>
