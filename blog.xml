@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/blog</id>
     <title>GeekNews ─ Blog</title>
-    <updated>2022-12-09T05:13:22.985Z</updated>
+    <updated>2022-12-09T06:18:13.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[긱뉴스 Swit 봇 추가]]></title>
+        <id>https://news.hada.io/blog/switbot</id>
+        <link href="https://news.hada.io/blog/switbot"/>
+        <updated>2022-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[14.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[긱뉴스 구글 챗 봇 추가]]></title>
         <id>https://news.hada.io/blog/googlechatbot</id>
@@ -32,12 +39,5 @@
         <link href="https://news.hada.io/blog/geeknews_feed"/>
         <updated>2022-01-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[10.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeekNews Show 공개]]></title>
-        <id>https://news.hada.io/blog/show</id>
-        <link href="https://news.hada.io/blog/show"/>
-        <updated>2021-08-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[9.]]></content>
     </entry>
 </feed>
