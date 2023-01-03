@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/blog</id>
     <title>GeekNews ─ Blog</title>
-    <updated>2023-01-02T23:13:20.848Z</updated>
+    <updated>2023-01-03T01:01:36.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기글, 긴글, 활발한 글 List 기능 추가]]></title>
+        <id>https://news.hada.io/blog/lists</id>
+        <link href="https://news.hada.io/blog/lists"/>
+        <updated>2023-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[15.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[긱뉴스 Swit 봇 추가]]></title>
         <id>https://news.hada.io/blog/switbot</id>
@@ -32,12 +39,5 @@
         <link href="https://news.hada.io/blog/geeknews_supports_markdown"/>
         <updated>2022-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[11.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeekNews 최신 글 Feed/RSS 공개]]></title>
-        <id>https://news.hada.io/blog/geeknews_feed</id>
-        <link href="https://news.hada.io/blog/geeknews_feed"/>
-        <updated>2022-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[10.]]></content>
     </entry>
 </feed>
