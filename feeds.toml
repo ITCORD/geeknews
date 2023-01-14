@@ -1,9 +1,34 @@
+[home]
+title = "GeekNews"
+url = "https://news.hada.io/"
+entrySelector = "div.topics div.topic_row"
+titleSelector = "div.topictitle h1"
+linkSelector = "div.topicinfo a.u"
+waitUntil = "networkidle"
+
+[origin]
+title = "GeekNews ─ 원문"
+url = "https://news.hada.io/"
+entrySelector = "div.topics div.topic_row"
+titleSelector = "div.topictitle h1"
+linkSelector = "div.topictitle a"
+waitUntil = "networkidle"
+
+
 [new]
 title = "GeekNews ─ 최신글"
 url = "https://news.hada.io/new"
 entrySelector = "div.topics div.topic_row"
 titleSelector = "div.topictitle h1"
 linkSelector = "div.topicinfo a.u"
+waitUntil = "networkidle"
+
+[new_origin]
+title = "GeekNews ─ 원문"
+url = "https://news.hada.io/"
+entrySelector = "div.topics div.topic_row"
+titleSelector = "div.topictitle h1"
+linkSelector = "div.topictitle a"
 waitUntil = "networkidle"
 
 [show]
