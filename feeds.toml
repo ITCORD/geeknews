@@ -22,11 +22,3 @@ entrySelector = "div.topic_row"
 titleSelector = "div.topictitle h1"
 contentSelector = "div.topicinfo a:nth-child(2)"
 waitUntil = "networkidle"
-
-[weekly]
-title = "GeekNews Weekly"
-url = "https://news.hada.io/weekly"
-entrySelector = "div.weekly div a.u"
-titleSelector = "*"
-linkSelector = "*"
-waitUntil = "networkidle"
