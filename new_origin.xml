@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2023-01-15T08:16:46.105Z</updated>
+    <updated>2023-01-15T09:12:52.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-01-15T02:41:50.268Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8258"><a class="upvote" href="javascript:vote(8258, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dioxuslabs.com/" rel="nofollow" id="tr1"><h1>Dioxus - React에서 영향받은 Rust용 UI 라이브러리</h1></a> <span class="topicurl">(dioxuslabs.com)</span></div><div class="topicdesc"><a href="topic?id=8258" class="c99 breakall">- 하나의 코드로 모든 플랫폼에서 실행   
   - Web(WASM), 데스크탑&amp;모바일은 WebView 또는 WGPU 가능 렌더러, Terminal UI 지원   
-- 풀스택 앱...</a></div><div class="topicinfo"><span id="tp8258">3</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8258"></span> | <a href="topic?id=8258" class="u">댓글과 토론</a></div>]]></content>
+- 풀스택 앱...</a></div><div class="topicinfo"><span id="tp8258">3</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote8258"></span> | <a href="topic?id=8258" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spotifyd - 유닉스 데몬으로 동작하는 오픈소스 Spotify 클라이언트]]></title>
@@ -20,22 +20,14 @@
         <link href="https://github.com/Spotifyd/spotifyd"/>
         <updated>2023-01-15T02:41:50.269Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8259"><a class="upvote" href="javascript:vote(8259, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Spotifyd/spotifyd" rel="nofollow" id="tr2"><h1>Spotifyd - 유닉스 데몬으로 동작하는 오픈소스 Spotify 클라이언트 </h1></a> <span class="topicurl">(github.com/Spotifyd)</span></div><div class="topicdesc"><a href="topic?id=8259" class="c99 breakall">- 공식 클라이언트와 마찬가지로 음악을 스트리밍 하지만, 훨씬 가볍고 더 많은 플랫폼을 지원   
-  - 라즈베리 파이, 리눅스, FreeBSD, 맥OS, AR...</a></div><div class="topicinfo"><span id="tp8259">2</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote8259"></span> | <a href="topic?id=8259" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pbproxy - 클립보드 내용을 ssh 가능한 모든 곳에 보내기]]></title>
-        <id>https://github.com/nikvdp/pbproxy</id>
-        <link href="https://github.com/nikvdp/pbproxy"/>
-        <updated>2023-01-15T01:07:35.298Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8257"><a class="upvote" href="javascript:vote(8257, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nikvdp/pbproxy" rel="nofollow" id="tr3"><h1>pbproxy - 클립보드 내용을 ssh 가능한 모든 곳에 보내기</h1></a> <span class="topicurl">(github.com/nikvdp)</span></div><div class="topicdesc"><a href="topic?id=8257" class="c99 breakall">- pbcopy/pbpaste 기능을 ssh 가능한 모든 원격 맥/리눅스 머신과 연결하여 사용 가능   
-- ssh config에 서버를 저장해두면 `echo hello | pbcop...</a></div><div class="topicinfo"><span id="tp8257">2</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8257"></span> | <a href="topic?id=8257" class="u">댓글과 토론</a></div>]]></content>
+  - 라즈베리 파이, 리눅스, FreeBSD, 맥OS, AR...</a></div><div class="topicinfo"><span id="tp8259">2</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8259"></span> | <a href="topic?id=8259" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yark - 유튜브 아카이빙 도구]]></title>
         <id>https://github.com/Owez/yark</id>
         <link href="https://github.com/Owez/yark"/>
         <updated>2023-01-14T03:17:15.078Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8247"><a class="upvote" href="javascript:vote(8247, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Owez/yark" rel="nofollow" id="tr4"><h1>Yark - 유튜브 아카이빙 도구</h1></a> <span class="topicurl">(github.com/Owez)</span></div><div class="topicdesc"><a href="topic?id=8247" class="c99 breakall">- 특정 유튜브 채널을 모두 다운로드해서 오프라인 웹사이트로 만들어주는 도구   
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8247"><a class="upvote" href="javascript:vote(8247, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Owez/yark" rel="nofollow" id="tr3"><h1>Yark - 유튜브 아카이빙 도구</h1></a> <span class="topicurl">(github.com/Owez)</span></div><div class="topicdesc"><a href="topic?id=8247" class="c99 breakall">- 특정 유튜브 채널을 모두 다운로드해서 오프라인 웹사이트로 만들어주는 도구   
 - refresh 명령으로 해당 채널의 변경된 부분만 업데이트 가능...</a></div><div class="topicinfo"><span id="tp8247">25</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8247"></span> | <a href="topic?id=8247" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
@@ -43,7 +35,7 @@
         <id>https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0</id>
         <link href="https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0"/>
         <updated>2023-01-14T03:17:15.083Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8255"><a class="upvote" href="javascript:vote(8255, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0" rel="nofollow" id="tr5"><h1>Tooljet 2.0 릴리즈 - Power Apps와 Retool의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ToolJet)</span></div><div class="topicdesc"><a href="topic?id=8255" class="c99 breakall">- 오픈소스 Lowcode 프레임워크   
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8255"><a class="upvote" href="javascript:vote(8255, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0" rel="nofollow" id="tr4"><h1>Tooljet 2.0 릴리즈 - Power Apps와 Retool의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ToolJet)</span></div><div class="topicdesc"><a href="topic?id=8255" class="c99 breakall">- 오픈소스 Lowcode 프레임워크   
 - Tooljet DB 추가   
 - Onboarding 개편   
 - Form Widget 추가   
@@ -51,11 +43,19 @@
 - 멀티 페이...</a></div><div class="topicinfo"><span id="tp8255">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8255"></span> | <a href="topic?id=8255" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[pbproxy - 클립보드 내용을 ssh 가능한 모든 곳에 보내기]]></title>
+        <id>https://github.com/nikvdp/pbproxy</id>
+        <link href="https://github.com/nikvdp/pbproxy"/>
+        <updated>2023-01-15T01:07:35.298Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8257"><a class="upvote" href="javascript:vote(8257, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nikvdp/pbproxy" rel="nofollow" id="tr5"><h1>pbproxy - 클립보드 내용을 ssh 가능한 모든 곳에 보내기</h1></a> <span class="topicurl">(github.com/nikvdp)</span></div><div class="topicdesc"><a href="topic?id=8257" class="c99 breakall">- pbcopy/pbpaste 기능을 ssh 가능한 모든 원격 맥/리눅스 머신과 연결하여 사용 가능   
+- ssh config에 서버를 저장해두면 `echo hello | pbcop...</a></div><div class="topicinfo"><span id="tp8257">2</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote8257"></span> | <a href="topic?id=8257" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[최고의 노트 앱을 찾아보자]]></title>
         <id>https://tilnote.io/pages/63b3a01aa3dfe0cae3301210</id>
         <link href="https://tilnote.io/pages/63b3a01aa3dfe0cae3301210"/>
         <updated>2023-01-14T12:22:02.884Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8256"><a class="upvote" href="javascript:vote(8256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tilnote.io/pages/63b3a01aa3dfe0cae3301210" rel="nofollow" id="tr6"><h1>최고의 노트 앱을 찾아보자</h1></a> <span class="topicurl">(tilnote.io)</span></div><div class="topicdesc"><a href="topic?id=8256" class="c99 breakall">세컨드 브레인을 만든 tiago forte의 연구 결과 사람들이 가장 많이 사용하는 앱 Top 4는 노션, 에버노트, 옵시디안, 원노트라고 합니다. 참고로 ...</a></div><div class="topicinfo"><span id="tp8256">5</span> points by <a href="/user?id=wislan">wislan</a> 21시간전<span id="unvote8256"></span> | <a href="topic?id=8256" class="u">댓글 15개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8256"><a class="upvote" href="javascript:vote(8256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tilnote.io/pages/63b3a01aa3dfe0cae3301210" rel="nofollow" id="tr6"><h1>최고의 노트 앱을 찾아보자</h1></a> <span class="topicurl">(tilnote.io)</span></div><div class="topicdesc"><a href="topic?id=8256" class="c99 breakall">세컨드 브레인을 만든 tiago forte의 연구 결과 사람들이 가장 많이 사용하는 앱 Top 4는 노션, 에버노트, 옵시디안, 원노트라고 합니다. 참고로 ...</a></div><div class="topicinfo"><span id="tp8256">5</span> points by <a href="/user?id=wislan">wislan</a> 22시간전<span id="unvote8256"></span> | <a href="topic?id=8256" class="u">댓글 15개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 소프트웨어 엔지니어를 위한 필수 도서 추천]]></title>
