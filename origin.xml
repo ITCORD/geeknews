@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2023-01-15T23:13:32.745Z</updated>
+    <updated>2023-01-16T01:02:56.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,23 +12,22 @@
         <updated>2023-01-15T02:41:40.539Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8258"><a class="upvote" href="javascript:vote(8258, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dioxuslabs.com/" rel="nofollow" id="tr1"><h1>Dioxus - React에서 영향받은 Rust용 UI 라이브러리</h1></a> <span class="topicurl">(dioxuslabs.com)</span></div><div class="topicdesc"><a href="topic?id=8258" class="c99 breakall">- 하나의 코드로 모든 플랫폼에서 실행   
   - Web(WASM), 데스크탑&amp;모바일은 WebView 또는 WGPU 가능 렌더러, Terminal UI 지원   
-- 풀스택 앱...</a></div><div class="topicinfo"><span id="tp8258">8</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote8258"></span> | <a href="topic?id=8258" class="u">댓글과 토론</a></div>]]></content>
+- 풀스택 앱...</a></div><div class="topicinfo"><span id="tp8258">11</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8258"></span> | <a href="topic?id=8258" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 노트 앱을 찾아보자]]></title>
+        <id>https://tilnote.io/pages/63b3a01aa3dfe0cae3301210</id>
+        <link href="https://tilnote.io/pages/63b3a01aa3dfe0cae3301210"/>
+        <updated>2023-01-14T12:21:53.004Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8256"><a class="upvote" href="javascript:vote(8256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tilnote.io/pages/63b3a01aa3dfe0cae3301210" rel="nofollow" id="tr2"><h1>최고의 노트 앱을 찾아보자</h1></a> <span class="topicurl">(tilnote.io)</span></div><div class="topicdesc"><a href="topic?id=8256" class="c99 breakall">세컨드 브레인을 만든 tiago forte의 연구 결과 사람들이 가장 많이 사용하는 앱 Top 4는 노션, 에버노트, 옵시디안, 원노트라고 합니다. 참고로 ...</a></div><div class="topicinfo"><span id="tp8256">14</span> points by <a href="/user?id=wislan">wislan</a> 2일전<span id="unvote8256"></span> | <a href="topic?id=8256" class="u">댓글 22개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pbproxy - 클립보드 내용을 ssh 가능한 모든 곳에 보내기]]></title>
         <id>https://github.com/nikvdp/pbproxy</id>
         <link href="https://github.com/nikvdp/pbproxy"/>
         <updated>2023-01-15T01:07:25.737Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8257"><a class="upvote" href="javascript:vote(8257, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nikvdp/pbproxy" rel="nofollow" id="tr2"><h1>pbproxy - 클립보드 내용을 ssh 가능한 모든 곳에 보내기</h1></a> <span class="topicurl">(github.com/nikvdp)</span></div><div class="topicdesc"><a href="topic?id=8257" class="c99 breakall">- pbcopy/pbpaste 기능을 ssh 가능한 모든 원격 맥/리눅스 머신과 연결하여 사용 가능   
-- ssh config에 서버를 저장해두면 `echo hello | pbcop...</a></div><div class="topicinfo"><span id="tp8257">5</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote8257"></span> | <a href="topic?id=8257" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yark - 유튜브 아카이빙 도구]]></title>
-        <id>https://github.com/Owez/yark</id>
-        <link href="https://github.com/Owez/yark"/>
-        <updated>2023-01-14T03:17:05.342Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8247"><a class="upvote" href="javascript:vote(8247, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Owez/yark" rel="nofollow" id="tr3"><h1>Yark - 유튜브 아카이빙 도구</h1></a> <span class="topicurl">(github.com/Owez)</span></div><div class="topicdesc"><a href="topic?id=8247" class="c99 breakall">- 특정 유튜브 채널을 모두 다운로드해서 오프라인 웹사이트로 만들어주는 도구   
-- refresh 명령으로 해당 채널의 변경된 부분만 업데이트 가능...</a></div><div class="topicinfo"><span id="tp8247">25</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8247"></span> | <a href="topic?id=8247" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8257"><a class="upvote" href="javascript:vote(8257, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nikvdp/pbproxy" rel="nofollow" id="tr3"><h1>pbproxy - 클립보드 내용을 ssh 가능한 모든 곳에 보내기</h1></a> <span class="topicurl">(github.com/nikvdp)</span></div><div class="topicdesc"><a href="topic?id=8257" class="c99 breakall">- pbcopy/pbpaste 기능을 ssh 가능한 모든 원격 맥/리눅스 머신과 연결하여 사용 가능   
+- ssh config에 서버를 저장해두면 `echo hello | pbcop...</a></div><div class="topicinfo"><span id="tp8257">7</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8257"></span> | <a href="topic?id=8257" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spotifyd - 유닉스 데몬으로 동작하는 오픈소스 Spotify 클라이언트]]></title>
@@ -36,26 +35,27 @@
         <link href="https://github.com/Spotifyd/spotifyd"/>
         <updated>2023-01-15T02:41:40.539Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8259"><a class="upvote" href="javascript:vote(8259, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Spotifyd/spotifyd" rel="nofollow" id="tr4"><h1>Spotifyd - 유닉스 데몬으로 동작하는 오픈소스 Spotify 클라이언트 </h1></a> <span class="topicurl">(github.com/Spotifyd)</span></div><div class="topicdesc"><a href="topic?id=8259" class="c99 breakall">- 공식 클라이언트와 마찬가지로 음악을 스트리밍 하지만, 훨씬 가볍고 더 많은 플랫폼을 지원   
-  - 라즈베리 파이, 리눅스, FreeBSD, 맥OS, AR...</a></div><div class="topicinfo"><span id="tp8259">4</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote8259"></span> | <a href="topic?id=8259" class="u">댓글 1개</a></div>]]></content>
+  - 라즈베리 파이, 리눅스, FreeBSD, 맥OS, AR...</a></div><div class="topicinfo"><span id="tp8259">6</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8259"></span> | <a href="topic?id=8259" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yark - 유튜브 아카이빙 도구]]></title>
+        <id>https://github.com/Owez/yark</id>
+        <link href="https://github.com/Owez/yark"/>
+        <updated>2023-01-14T03:17:05.342Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8247"><a class="upvote" href="javascript:vote(8247, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Owez/yark" rel="nofollow" id="tr5"><h1>Yark - 유튜브 아카이빙 도구</h1></a> <span class="topicurl">(github.com/Owez)</span></div><div class="topicdesc"><a href="topic?id=8247" class="c99 breakall">- 특정 유튜브 채널을 모두 다운로드해서 오프라인 웹사이트로 만들어주는 도구   
+- refresh 명령으로 해당 채널의 변경된 부분만 업데이트 가능...</a></div><div class="topicinfo"><span id="tp8247">26</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8247"></span> | <a href="topic?id=8247" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tooljet 2.0 릴리즈 - Power Apps와 Retool의 오픈소스 대체제]]></title>
         <id>https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0</id>
         <link href="https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0"/>
         <updated>2023-01-14T03:17:05.343Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8255"><a class="upvote" href="javascript:vote(8255, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0" rel="nofollow" id="tr5"><h1>Tooljet 2.0 릴리즈 - Power Apps와 Retool의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ToolJet)</span></div><div class="topicdesc"><a href="topic?id=8255" class="c99 breakall">- 오픈소스 Lowcode 프레임워크   
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8255"><a class="upvote" href="javascript:vote(8255, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0" rel="nofollow" id="tr6"><h1>Tooljet 2.0 릴리즈 - Power Apps와 Retool의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ToolJet)</span></div><div class="topicdesc"><a href="topic?id=8255" class="c99 breakall">- 오픈소스 Lowcode 프레임워크   
 - Tooljet DB 추가   
 - Onboarding 개편   
 - Form Widget 추가   
 - App Builder 재설계   
-- 멀티 페이...</a></div><div class="topicinfo"><span id="tp8255">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8255"></span> | <a href="topic?id=8255" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고의 노트 앱을 찾아보자]]></title>
-        <id>https://tilnote.io/pages/63b3a01aa3dfe0cae3301210</id>
-        <link href="https://tilnote.io/pages/63b3a01aa3dfe0cae3301210"/>
-        <updated>2023-01-14T12:21:53.004Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8256"><a class="upvote" href="javascript:vote(8256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tilnote.io/pages/63b3a01aa3dfe0cae3301210" rel="nofollow" id="tr6"><h1>최고의 노트 앱을 찾아보자</h1></a> <span class="topicurl">(tilnote.io)</span></div><div class="topicdesc"><a href="topic?id=8256" class="c99 breakall">세컨드 브레인을 만든 tiago forte의 연구 결과 사람들이 가장 많이 사용하는 앱 Top 4는 노션, 에버노트, 옵시디안, 원노트라고 합니다. 참고로 ...</a></div><div class="topicinfo"><span id="tp8256">7</span> points by <a href="/user?id=wislan">wislan</a> 1일전<span id="unvote8256"></span> | <a href="topic?id=8256" class="u">댓글 16개</a></div>]]></content>
+- 멀티 페이...</a></div><div class="topicinfo"><span id="tp8255">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8255"></span> | <a href="topic?id=8255" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 소프트웨어 엔지니어를 위한 필수 도서 추천]]></title>
@@ -65,7 +65,7 @@
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8208"><a class="upvote" href="javascript:vote(8208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://grantisom.com/2023/01/02/mustread-books-for.html" rel="nofollow" id="tr7"><h1>2023년 소프트웨어 엔지니어를 위한 필수 도서 추천</h1></a> <span class="topicurl">(grantisom.com)</span></div><div class="topicdesc"><a href="topic?id=8208" class="c99 breakall">- Build - Tony Fadell   
 - 피닉스 프로젝트 (위기에 빠진 IT프로젝트를 구하라)   
 - 하드씽(경영의 난제를 푸는 최선의 한수)  
-- 컴퓨터 프...</a></div><div class="topicinfo"><span id="tp8208">67</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote8208"></span> | <a href="topic?id=8208" class="u">댓글 6개</a></div>]]></content>
+- 컴퓨터 프...</a></div><div class="topicinfo"><span id="tp8208">69</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote8208"></span> | <a href="topic?id=8208" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CDC File Transfer - 윈도우 to 리눅스 파일 동기화 및 스트리밍 도구]]></title>
@@ -92,7 +92,7 @@
         <updated>2023-01-14T03:17:05.353Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8209"><a class="upvote" href="javascript:vote(8209, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=34287685" rel="nofollow" id="tr10"><h1>비즈니스/엔터프라이즈용 앱을 만들 때 고려해야 할 것이 뭘까요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8209" class="c99 breakall">HN에 올라온 질문과 추천을 많이 받은 답들  
 # 답변 1  
-- 구매자는 누군가? 일반적으로 제품의 사용자와 다르고, 그들이 원하는 게 무엇인지 ...</a></div><div class="topicinfo"><span id="tp8209">45</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote8209"></span> | <a href="topic?id=8209" class="u">댓글 3개</a></div>]]></content>
+- 구매자는 누군가? 일반적으로 제품의 사용자와 다르고, 그들이 원하는 게 무엇인지 ...</a></div><div class="topicinfo"><span id="tp8209">46</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote8209"></span> | <a href="topic?id=8209" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[futurecoder - 초보자를 위한 파이썬 무료 & 오픈소스 강의]]></title>
@@ -131,13 +131,14 @@
 - 원격진료를 통한...</a></div><div class="topicinfo"><span id="tp8246">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8246"></span> | <a href="topic?id=8246" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크로미엄에 MathML을 다시 가져오기]]></title>
-        <id>https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html</id>
-        <link href="https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html"/>
-        <updated>2023-01-14T03:17:05.343Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8254"><a class="upvote" href="javascript:vote(8254, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html" rel="nofollow" id="tr15"><h1>크로미엄에 MathML을 다시 가져오기</h1></a> <span class="topicurl">(igalia.com)</span></div><div class="topicdesc"><a href="topic?id=8254" class="c99 breakall">- 웹의 초기부터 수학식을 웹에서 표현하고자 하는 시도는 있었음  
-- Mozilla &amp; WebKit에서 MathML의 초기 스펙이 지원되었지만,  
-Blink 엔진...</a></div><div class="topicinfo"><span id="tp8254">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8254"></span> | <a href="topic?id=8254" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[2023년 눈여겨 봐야 할 JavaScript 프로젝트들]]></title>
+        <id>https://byteofdev.com/posts/javascript-projects-2022/</id>
+        <link href="https://byteofdev.com/posts/javascript-projects-2022/"/>
+        <updated>2023-01-14T03:17:05.363Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8218"><a class="upvote" href="javascript:vote(8218, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byteofdev.com/posts/javascript-projects-2022/" rel="nofollow" id="tr15"><h1>2023년 눈여겨 봐야 할 JavaScript 프로젝트들</h1></a> <span class="topicurl">(byteofdev.com)</span></div><div class="topicdesc"><a href="topic?id=8218" class="c99 breakall">- Turborepo : Vercel이 만든 빌드시스템   
+- Tauri : 데스크탑 앱 프레임워크   
+- Bun : 새로운 JS 런타임   
+- Remix : 풀스택 웹 프레임워...</a></div><div class="topicinfo"><span id="tp8218">25</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote8218"></span> | <a href="topic?id=8218" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년의 데이터베이스들 리뷰]]></title>
@@ -151,24 +152,23 @@ Blink 엔진...</a></div><div class="topicinfo"><span id="tp8254">4</span> point
   - S...</a></div><div class="topicinfo"><span id="tp8230">18</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote8230"></span> | <a href="topic?id=8230" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[크로미엄에 MathML을 다시 가져오기]]></title>
+        <id>https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html</id>
+        <link href="https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html"/>
+        <updated>2023-01-14T03:17:05.343Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8254"><a class="upvote" href="javascript:vote(8254, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.igalia.com/2023/01/10/Igalia-Brings-MathML-Back-to-Chromium.html" rel="nofollow" id="tr17"><h1>크로미엄에 MathML을 다시 가져오기</h1></a> <span class="topicurl">(igalia.com)</span></div><div class="topicdesc"><a href="topic?id=8254" class="c99 breakall">- 웹의 초기부터 수학식을 웹에서 표현하고자 하는 시도는 있었음  
+- Mozilla &amp; WebKit에서 MathML의 초기 스펙이 지원되었지만,  
+Blink 엔진...</a></div><div class="topicinfo"><span id="tp8254">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8254"></span> | <a href="topic?id=8254" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ov - 기능 많은 터미널 페이저]]></title>
         <id>https://github.com/noborus/ov</id>
         <link href="https://github.com/noborus/ov"/>
         <updated>2023-01-14T03:17:05.348Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8234"><a class="upvote" href="javascript:vote(8234, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/noborus/ov" rel="nofollow" id="tr17"><h1>ov - 기능 많은 터미널 페이저</h1></a> <span class="topicurl">(github.com/noborus)</span></div><div class="topicdesc"><a href="topic?id=8234" class="c99 breakall">- less/more/tail -f 대신 사용 가능   
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8234"><a class="upvote" href="javascript:vote(8234, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/noborus/ov" rel="nofollow" id="tr18"><h1>ov - 기능 많은 터미널 페이저</h1></a> <span class="topicurl">(github.com/noborus)</span></div><div class="topicdesc"><a href="topic?id=8234" class="c99 breakall">- less/more/tail -f 대신 사용 가능   
 - 맥/리눅스  
 - 고정 헤더, 컬럼 모드, 섹션별 이동, 워드랩 동적 변경, 단축키 변경 가능  
 - 팔로우...</a></div><div class="topicinfo"><span id="tp8234">12</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote8234"></span> | <a href="topic?id=8234" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 눈여겨 봐야 할 JavaScript 프로젝트들]]></title>
-        <id>https://byteofdev.com/posts/javascript-projects-2022/</id>
-        <link href="https://byteofdev.com/posts/javascript-projects-2022/"/>
-        <updated>2023-01-14T03:17:05.363Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8218"><a class="upvote" href="javascript:vote(8218, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byteofdev.com/posts/javascript-projects-2022/" rel="nofollow" id="tr18"><h1>2023년 눈여겨 봐야 할 JavaScript 프로젝트들</h1></a> <span class="topicurl">(byteofdev.com)</span></div><div class="topicdesc"><a href="topic?id=8218" class="c99 breakall">- Turborepo : Vercel이 만든 빌드시스템   
-- Tauri : 데스크탑 앱 프레임워크   
-- Bun : 새로운 JS 런타임   
-- Remix : 풀스택 웹 프레임워...</a></div><div class="topicinfo"><span id="tp8218">24</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote8218"></span> | <a href="topic?id=8218" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gimel Studio - 노드기반의 오픈소스 2D 이미지 에디터]]></title>
