@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2023-01-17T12:27:45.922Z</updated>
+    <updated>2023-01-17T13:20:52.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Show GN: Open-source alternative to Zoom, teams, Google Meet!]]></title>
+        <id>https://news.hada.io/topic?id=8275</id>
+        <link href="https://news.hada.io/topic?id=8275"/>
+        <updated>2023-01-17T13:20:41.646Z</updated>
+        <content type="html"><![CDATA[mirotalk85]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 네이버 카페 중고나라에서 프로 셀러들의 글 제거하는 익스텐션]]></title>
         <id>https://news.hada.io/topic?id=8268</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=7562"/>
         <updated>2023-01-14T02:52:47.440Z</updated>
         <content type="html"><![CDATA[bearchit]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 프로솔브: 프로그래머스의 더 나은 사용자 경험을 위한 크롬 익스텐션]]></title>
-        <id>https://news.hada.io/topic?id=7663</id>
-        <link href="https://news.hada.io/topic?id=7663"/>
-        <updated>2023-01-14T02:52:47.439Z</updated>
-        <content type="html"><![CDATA[tk1583]]></content>
     </entry>
 </feed>
