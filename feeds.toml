@@ -1,5 +1,5 @@
 [home]
-title = "GeekNews"
+title = "GeekNews ─ 메인"
 url = "https://news.hada.io/"
 entrySelector = "div.topics div.topic_row"
 titleSelector = "div.topictitle h1"
@@ -32,7 +32,7 @@ linkSelector = "div.topictitle a"
 waitUntil = "networkidle"
 
 [show]
-title = "GeekNews Show"
+title = "GeekNews ─ Show"
 url = "https://news.hada.io/show"
 entrySelector = "div.topic_row"
 titleSelector = "div.topictitle h1"
@@ -41,7 +41,7 @@ contentSelector = "div.topicinfo a:nth-child(2)"
 waitUntil = "networkidle"
 
 [ask]
-title = "GeekNews Ask"
+title = "GeekNews ─ Ask"
 url = "https://news.hada.io/ask"
 entrySelector = "div.topic_row"
 titleSelector = "div.topictitle h1"
@@ -50,9 +50,31 @@ contentSelector = "div.topicinfo a:nth-child(2)"
 waitUntil = "networkidle"
 
 [weekly]
-title = "GeekNews Weekly"
+title = "GeekNews ─ Weekly"
 url = "https://news.hada.io/weekly"
 entrySelector = "div.weekly div a.u"
 titleSelector = "a.u"
 linkSelector = "*"
+waitUntil = "networkidle"
+
+[podcast]
+title = "GeekNews ─ Podcast"
+url = "https://news.hada.io/podcast"
+entrySelector = "table tbody tr.title"
+titleSelector = "a.u.keepall"
+linkSelector = "a.u.keepall"
+contentSelector = "td.fitwidth:nth-child(1)"
+dateSelector = "td.fitwidth:nth-child(2)"
+dateFormat = "yyyy-MM-dd"
+waitUntil = "networkidle"
+
+[blog]
+title = "GeekNews ─ Blog"
+url = "https://news.hada.io/blog"
+entrySelector = "table tbody tr.title"
+titleSelector = "a.u.keepall"
+linkSelector = "a.u.keepall"
+contentSelector = "td.fitwidth:nth-child(1)"
+dateSelector = "td.fitwidth:nth-child(2)"
+dateFormat = "yyyy-MM-dd"
 waitUntil = "networkidle"
