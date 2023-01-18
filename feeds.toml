@@ -51,9 +51,9 @@ waitUntil = "networkidle"
 [weekly]
 title = "GeekNews ─ Weekly"
 url = "https://news.hada.io/weekly"
-entrySelector = "div.weekly div a.u"
+entrySelector = "div.weekly > div:nth-of-type(3), div:nth-of-type(6), div:nth-of-type(9), div:nth-of-type(12), div:nth-of-type(15), div:nth-of-type(18), div:nth-of-type(21), div:nth-of-type(24), div:nth-of-type(27), div:nth-of-type(30)"
 titleSelector = "a.u"
-linkSelector = "*"
+linkSelector = "a.u"
 waitUntil = "networkidle"
 
 [podcast]
