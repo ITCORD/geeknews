@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-01-22T23:13:40.407Z</updated>
+    <updated>2023-01-23T01:02:37.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[죽은 IoT 회사를 넘겨받기]]></title>
+        <id>https://news.hada.io/weekly/202304</id>
+        <link href="https://news.hada.io/weekly/202304"/>
+        <updated>2023-01-23T01:02:24.533Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202304" class="u"> 죽은 IoT 회사를 넘겨받기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비즈니스/엔터프라이즈 앱을 만들 때 고려해야 할 것이 뭘까요?]]></title>
         <id>https://news.hada.io/weekly/202303</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202247"/>
         <updated>2023-01-17T23:52:18.167Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202247" class="u"> 지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환한 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조직이 커가면서도 엔지니어링 속도를 유지하는 법]]></title>
-        <id>https://news.hada.io/weekly/202246</id>
-        <link href="https://news.hada.io/weekly/202246"/>
-        <updated>2023-01-17T23:52:18.167Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202246" class="u"> 조직이 커가면서도 엔지니어링 속도를 유지하는 법</a>]]></content>
     </entry>
 </feed>
