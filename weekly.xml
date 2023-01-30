@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-01-29T23:14:01.972Z</updated>
+    <updated>2023-01-30T01:01:12.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신경망 개발을 밑바닥부터 코딩하며 배우기]]></title>
+        <id>https://news.hada.io/weekly/202305</id>
+        <link href="https://news.hada.io/weekly/202305"/>
+        <updated>2023-01-30T01:01:01.126Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202305" class="u"> 신경망 개발을 밑바닥부터 코딩하며 배우기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[죽은 IoT 회사를 넘겨받기]]></title>
         <id>https://news.hada.io/weekly/202304</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202248"/>
         <updated>2023-01-17T23:52:18.166Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202248" class="u"> 일런 머스크의 '미친 생산성을 위한 6가지 법칙'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환한 것]]></title>
-        <id>https://news.hada.io/weekly/202247</id>
-        <link href="https://news.hada.io/weekly/202247"/>
-        <updated>2023-01-17T23:52:18.167Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202247" class="u"> 지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환한 것</a>]]></content>
     </entry>
 </feed>
