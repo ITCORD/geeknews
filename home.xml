@@ -2,61 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-02-01T01:12:50.964Z</updated>
+    <updated>2023-02-01T02:54:48.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[확장 가능한 CSS의 진화 [번역]]]></title>
+        <id>https://news.hada.io/topic?id=8371</id>
+        <link href="https://news.hada.io/topic?id=8371"/>
+        <updated>2023-02-01T02:54:01.045Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8371"><a class="upvote" href="javascript:vote(8371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ykss.netlify.app/translation/the_evolution_of_scalable_css/" rel="nofollow" id="tr1"><h1>확장 가능한 CSS의 진화 [번역]</h1></a> <span class="topicurl">(ykss.netlify.app)</span></div><div class="topicdesc"><a href="topic?id=8371" class="c99 breakall">- CSS 이전의 시대  
+- 스타일시트 및 관심사의 분리  
+- CSS를 대규모로 관리하기 어려운 이유  
+- CSS 아키텍처로 복잡성 다듬기  
+- 관심사...</a></div><div class="topicinfo"><span id="tp8371">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8371"></span> | <a href="topic?id=8371" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build Your Own Redis with C/C++ 책 공개]]></title>
         <id>https://news.hada.io/topic?id=8367</id>
         <link href="https://news.hada.io/topic?id=8367"/>
         <updated>2023-01-31T02:43:46.477Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8367"><a class="upvote" href="javascript:vote(8367, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://build-your-own.org/blog/20230127_byor/" rel="nofollow" id="tr1"><h1>Build Your Own Redis with C/C++ 책 공개</h1></a> <span class="topicurl">(build-your-own.org)</span></div><div class="topicdesc"><a href="topic?id=8367" class="c99 breakall">- C/C++로 Redis를 밑바닥부터 만들어보는 책 [120p]  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8367"><a class="upvote" href="javascript:vote(8367, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://build-your-own.org/blog/20230127_byor/" rel="nofollow" id="tr2"><h1>Build Your Own Redis with C/C++ 책 공개</h1></a> <span class="topicurl">(build-your-own.org)</span></div><div class="topicdesc"><a href="topic?id=8367" class="c99 breakall">- C/C++로 Redis를 밑바닥부터 만들어보는 책 [120p]  
 - 네트워크 프로그래밍과 자료 구조 배우기   
-- 웹버전은 무료, PDF/EPUB는 구입 가능  ...</a></div><div class="topicinfo"><span id="tp8367">29</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8367"></span> | <a href="topic?id=8367" class="u">댓글과 토론</a></div>]]></content>
+- 웹버전은 무료, PDF/EPUB는 구입 가능  ...</a></div><div class="topicinfo"><span id="tp8367">32</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8367"></span> | <a href="topic?id=8367" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Cheat Sheet]]></title>
+        <id>https://news.hada.io/topic?id=8373</id>
+        <link href="https://news.hada.io/topic?id=8373"/>
+        <updated>2023-02-01T02:54:01.062Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8373"><a class="upvote" href="javascript:vote(8373, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view" rel="nofollow" id="tr3"><h1>ChatGPT Cheat Sheet </h1></a> <span class="topicurl">(drive.google.com)</span></div><div class="topicdesc"><a href="topic?id=8373" class="c99 breakall">1. NLP Tasks  
+2. Code  
+3. Structured Output Styles  
+4. Unstructured Output Styles  
+5. Media Types  
+6. Meta ChatGPT   
+7. Exper...</a></div><div class="topicinfo"><span id="tp8373">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8373"></span> | <a href="topic?id=8373" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[blendOS - Arch/Fedora/Ubuntu를 합친 리눅스 배포판]]></title>
+        <id>https://news.hada.io/topic?id=8374</id>
+        <link href="https://news.hada.io/topic?id=8374"/>
+        <updated>2023-02-01T02:54:01.083Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8374"><a class="upvote" href="javascript:vote(8374, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blendos.co/" rel="nofollow" id="tr4"><h1>blendOS - Arch/Fedora/Ubuntu를 합친 리눅스 배포판</h1></a> <span class="topicurl">(blendos.co)</span></div><div class="topicdesc"><a href="topic?id=8374" class="c99 breakall">- Immutable OS : 읽기전용 파일 시스템   
+- 모든 배포판의 앱 사용 가능   
+- apt/apt-get, dnf/yum, pacman, yay 등 모든 패키지 매니저 직접...</a></div><div class="topicinfo"><span id="tp8374">2</span> points by <a href="/user?id=xguru">xguru</a> 42분전<span id="unvote8374"></span> | <a href="topic?id=8374" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 우리는 일이 하기 싫어질까]]></title>
         <id>https://news.hada.io/topic?id=8365</id>
         <link href="https://news.hada.io/topic?id=8365"/>
         <updated>2023-01-31T02:43:46.482Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8365"><a class="upvote" href="javascript:vote(8365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/productlab/posts/c291ed47" rel="nofollow" id="tr2"><h1>왜 우리는 일이 하기 싫어질까</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=8365" class="c99 breakall">- 하버드 MBA 졸업생이자 베스트 셀러 작가인 파멜라 리의 글을 번역해서 요약한 글  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8365"><a class="upvote" href="javascript:vote(8365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/productlab/posts/c291ed47" rel="nofollow" id="tr5"><h1>왜 우리는 일이 하기 싫어질까</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=8365" class="c99 breakall">- 하버드 MBA 졸업생이자 베스트 셀러 작가인 파멜라 리의 글을 번역해서 요약한 글  
    
 - 외재적 동기 VS 내재적 동기  
   
-  - 어떤 일이...</a></div><div class="topicinfo"><span id="tp8365">23</span> points by <a href="/user?id=dytpq0404">dytpq0404</a> 23시간전<span id="unvote8365"></span> | <a href="topic?id=8365" class="u">댓글과 토론</a></div>]]></content>
+  - 어떤 일이...</a></div><div class="topicinfo"><span id="tp8365">23</span> points by <a href="/user?id=dytpq0404">dytpq0404</a> 1일전<span id="unvote8365"></span> | <a href="topic?id=8365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금 MVP를 만든다면, 어떤 스택을 선택하실 건가요?]]></title>
         <id>https://news.hada.io/topic?id=8364</id>
         <link href="https://news.hada.io/topic?id=8364"/>
         <updated>2023-01-31T02:43:46.478Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8364"><a class="upvote" href="javascript:vote(8364, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=34530052" rel="nofollow" id="tr3"><h1>지금 MVP를 만든다면, 어떤 스택을 선택하실 건가요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8364" class="c99 breakall">특히 백엔드에 대해서 묻는 HN의 질문과 답변들 : 올드스쿨 or Supabase or Lambda or ETC ?  
-- PETAL(Phoenix, Elixir, TailwindCSS, Alpine.Js...</a></div><div class="topicinfo"><span id="tp8364">22</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8364"></span> | <a href="topic?id=8364" class="u">댓글 7개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20년간 소프트웨어 엔지니어로서 배운 20가지]]></title>
-        <id>https://news.hada.io/topic?id=8358</id>
-        <link href="https://news.hada.io/topic?id=8358"/>
-        <updated>2023-01-30T02:17:04.223Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8358"><a class="upvote" href="javascript:vote(8358, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/" rel="nofollow" id="tr4"><h1>20년간 소프트웨어 엔지니어로서 배운 20가지</h1></a> <span class="topicurl">(simplethread.com)</span></div><div class="topicdesc"><a href="topic?id=8358" class="c99 breakall">- 난 아직 잘 모름 : 우리는 평생 배워야 하는 사람들   
-- 소프트웨어의 가장 어려운 부분은 올바른 것을 구축하는 것   
-- 최고의 소프트웨어 ...</a></div><div class="topicinfo"><span id="tp8358">48</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8358"></span> | <a href="topic?id=8358" class="u">댓글 6개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbonyl - 터미널에서 작동하는 Chromium 브라우저]]></title>
-        <id>https://news.hada.io/topic?id=8369</id>
-        <link href="https://news.hada.io/topic?id=8369"/>
-        <updated>2023-01-31T04:15:44.821Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8369"><a class="upvote" href="javascript:vote(8369, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/fathyb/carbonyl" rel="nofollow" id="tr5"><h1>Carbonyl - 터미널에서 작동하는 Chromium 브라우저</h1></a> <span class="topicurl">(github.com/fathyb)</span></div><div class="topicdesc"><a href="topic?id=8369" class="c99 breakall">- Chromium 기반으로 작성된 터미널용 웹 브라우저  
-- WebGL, WebGPU, 오디오/비디오 재생, 애니메이션 등 chromium에서 지원하는 Web API를 모...</a></div><div class="topicinfo"><span id="tp8369">15</span> points by <a href="/user?id=ltlapy">ltlapy</a> 22시간전<span id="unvote8369"></span> | <a href="topic?id=8369" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26개의 재귀 GPT 프롬프트로 SQL 분석가를 대체하기]]></title>
-        <id>https://news.hada.io/topic?id=8363</id>
-        <link href="https://news.hada.io/topic?id=8363"/>
-        <updated>2023-01-31T02:43:46.478Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8363"><a class="upvote" href="javascript:vote(8363, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/" rel="nofollow" id="tr6"><h1>26개의 재귀 GPT 프롬프트로 SQL 분석가를 대체하기</h1></a> <span class="topicurl">(patterns.app)</span></div><div class="topicdesc"><a href="topic?id=8363" class="c99 breakall">- Square에 근무할 때 공포의 "anlytics on-call" 이 있어서, 내 턴이 되면 여러 부서의 다양한 SQL질문에 대답해야 했음   
-- 이 온콜을 GPT-3로...</a></div><div class="topicinfo"><span id="tp8363">12</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8363"></span> | <a href="topic?id=8363" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8364"><a class="upvote" href="javascript:vote(8364, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=34530052" rel="nofollow" id="tr6"><h1>지금 MVP를 만든다면, 어떤 스택을 선택하실 건가요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8364" class="c99 breakall">특히 백엔드에 대해서 묻는 HN의 질문과 답변들 : 올드스쿨 or Supabase or Lambda or ETC ?  
+- PETAL(Phoenix, Elixir, TailwindCSS, Alpine.Js...</a></div><div class="topicinfo"><span id="tp8364">23</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8364"></span> | <a href="topic?id=8364" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Internet Archive, 공학용 계산기 에뮬레이팅 시작]]></title>
@@ -65,39 +73,73 @@
         <updated>2023-02-01T01:12:10.990Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8370"><a class="upvote" href="javascript:vote(8370, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.archive.org/2023/01/29/a-calculated-move-calculators-now-emulated-at-internet-archive/" rel="nofollow" id="tr7"><h1>Internet Archive, 공학용 계산기 에뮬레이팅 시작</h1></a> <span class="topicurl">(blog.archive.org)</span></div><div class="topicdesc"><a href="topic?id=8370" class="c99 breakall">- "The Calculator Drawer"  
 - MAME를 통해서 그래프 기능이 가능한 공학용 계산기들을 에뮬레이트   
-- MAME Artwork 시스템을 이용해서 버튼...</a></div><div class="topicinfo"><span id="tp8370">1</span> point by <a href="/user?id=xguru">xguru</a> 8분전<span id="unvote8370"></span> | <a href="topic?id=8370" class="u">댓글과 토론</a></div>]]></content>
+- MAME Artwork 시스템을 이용해서 버튼...</a></div><div class="topicinfo"><span id="tp8370">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8370"></span> | <a href="topic?id=8370" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20년간 소프트웨어 엔지니어로서 배운 20가지]]></title>
+        <id>https://news.hada.io/topic?id=8358</id>
+        <link href="https://news.hada.io/topic?id=8358"/>
+        <updated>2023-01-30T02:17:04.223Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8358"><a class="upvote" href="javascript:vote(8358, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/" rel="nofollow" id="tr8"><h1>20년간 소프트웨어 엔지니어로서 배운 20가지</h1></a> <span class="topicurl">(simplethread.com)</span></div><div class="topicdesc"><a href="topic?id=8358" class="c99 breakall">- 난 아직 잘 모름 : 우리는 평생 배워야 하는 사람들   
+- 소프트웨어의 가장 어려운 부분은 올바른 것을 구축하는 것   
+- 최고의 소프트웨어 ...</a></div><div class="topicinfo"><span id="tp8358">50</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8358"></span> | <a href="topic?id=8358" class="u">댓글 6개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbonyl - 터미널에서 작동하는 Chromium 브라우저]]></title>
+        <id>https://news.hada.io/topic?id=8369</id>
+        <link href="https://news.hada.io/topic?id=8369"/>
+        <updated>2023-01-31T04:15:44.821Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8369"><a class="upvote" href="javascript:vote(8369, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/fathyb/carbonyl" rel="nofollow" id="tr9"><h1>Carbonyl - 터미널에서 작동하는 Chromium 브라우저</h1></a> <span class="topicurl">(github.com/fathyb)</span></div><div class="topicdesc"><a href="topic?id=8369" class="c99 breakall">- Chromium 기반으로 작성된 터미널용 웹 브라우저  
+- WebGL, WebGPU, 오디오/비디오 재생, 애니메이션 등 chromium에서 지원하는 Web API를 모...</a></div><div class="topicinfo"><span id="tp8369">15</span> points by <a href="/user?id=ltlapy">ltlapy</a> 23시간전<span id="unvote8369"></span> | <a href="topic?id=8369" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26개의 재귀 GPT 프롬프트로 SQL 분석가를 대체하기]]></title>
+        <id>https://news.hada.io/topic?id=8363</id>
+        <link href="https://news.hada.io/topic?id=8363"/>
+        <updated>2023-01-31T02:43:46.478Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8363"><a class="upvote" href="javascript:vote(8363, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/" rel="nofollow" id="tr10"><h1>26개의 재귀 GPT 프롬프트로 SQL 분석가를 대체하기</h1></a> <span class="topicurl">(patterns.app)</span></div><div class="topicdesc"><a href="topic?id=8363" class="c99 breakall">- Square에 근무할 때 공포의 "anlytics on-call" 이 있어서, 내 턴이 되면 여러 부서의 다양한 SQL질문에 대답해야 했음   
+- 이 온콜을 GPT-3로...</a></div><div class="topicinfo"><span id="tp8363">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8363"></span> | <a href="topic?id=8363" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MusicLM, 텍스트에서 음악을 생성하는 AI]]></title>
         <id>https://news.hada.io/topic?id=8361</id>
         <link href="https://news.hada.io/topic?id=8361"/>
         <updated>2023-01-31T01:06:18.469Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8361"><a class="upvote" href="javascript:vote(8361, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://google-research.github.io/seanet/musiclm/examples/" rel="nofollow" id="tr8"><h1>MusicLM, 텍스트에서 음악을 생성하는 AI</h1></a> <span class="topicurl">(google-research.github.io)</span></div><div class="topicdesc"><a href="topic?id=8361" class="c99 breakall">- 구글 리서치가 발표한 논문   
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8361"><a class="upvote" href="javascript:vote(8361, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://google-research.github.io/seanet/musiclm/examples/" rel="nofollow" id="tr11"><h1>MusicLM, 텍스트에서 음악을 생성하는 AI</h1></a> <span class="topicurl">(google-research.github.io)</span></div><div class="topicdesc"><a href="topic?id=8361" class="c99 breakall">- 구글 리서치가 발표한 논문   
 - 텍스트 설명에 매우 충실한 음악을 생성 "디스토션 걸린 기타 리프가 깔린 차분한 바이올린 멜로디"  
 - 계층...</a></div><div class="topicinfo"><span id="tp8361">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8361"></span> | <a href="topic?id=8361" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[klotho - 일반 코드를 클라우드 코드로 바꿔주는 오픈소스 도구]]></title>
+        <id>https://news.hada.io/topic?id=8372</id>
+        <link href="https://news.hada.io/topic?id=8372"/>
+        <updated>2023-02-01T02:54:01.102Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8372"><a class="upvote" href="javascript:vote(8372, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/klothoplatform/klotho" rel="nofollow" id="tr12"><h1>klotho - 일반 코드를 클라우드 코드로 바꿔주는 오픈소스 도구 </h1></a> <span class="topicurl">(github.com/klothoplatform)</span></div><div class="topicdesc"><a href="topic?id=8372" class="c99 breakall">- "Develop for Local, Deploy for the Cloud"  
+- Infrastructure-from-Code (IfC) 도구  
+- 기존 코드를 빠르게 클라우드용 코드로 수정해줌  ...</a></div><div class="topicinfo"><span id="tp8372">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8372"></span> | <a href="topic?id=8372" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월 $500 이상 버는 사이드 프로젝트가 있나요? 2023]]></title>
         <id>https://news.hada.io/topic?id=8357</id>
         <link href="https://news.hada.io/topic?id=8357"/>
         <updated>2023-01-30T02:17:04.231Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8357"><a class="upvote" href="javascript:vote(8357, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=34482433" rel="nofollow" id="tr9"><h1>월 $500 이상 버는 사이드 프로젝트가 있나요? 2023</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8357" class="c99 breakall">HN에 매년 올라오는 질문  
-- 승마가 하고 싶어서 찾다가 농장 주인과 알게되어 멕시코의 승마농장 웹페이지를 개편해줌. 온라인 예약이 2018년에...</a></div><div class="topicinfo"><span id="tp8357">25</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8357"></span> | <a href="topic?id=8357" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8357"><a class="upvote" href="javascript:vote(8357, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=34482433" rel="nofollow" id="tr13"><h1>월 $500 이상 버는 사이드 프로젝트가 있나요? 2023</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8357" class="c99 breakall">HN에 매년 올라오는 질문  
+- 승마가 하고 싶어서 찾다가 농장 주인과 알게되어 멕시코의 승마농장 웹페이지를 개편해줌. 온라인 예약이 2018년에...</a></div><div class="topicinfo"><span id="tp8357">26</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8357"></span> | <a href="topic?id=8357" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AutoHotkey v2 릴리즈]]></title>
         <id>https://news.hada.io/topic?id=8366</id>
         <link href="https://news.hada.io/topic?id=8366"/>
         <updated>2023-01-31T02:43:46.490Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8366"><a class="upvote" href="javascript:vote(8366, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.autohotkey.com/boards/viewtopic.php?t=112989" rel="nofollow" id="tr10"><h1>AutoHotkey v2 릴리즈</h1></a> <span class="topicurl">(autohotkey.com)</span></div><div class="topicdesc"><a href="topic?id=8366" class="c99 breakall">- 훨씬 강력한 v2 스크립트로 바뀌면서 하위호환 되지 않음  
-  - 같이 포함된 런처를 통해서 v1 스크립트도 예전 v1 바이너리를 통해서 실행 지...</a></div><div class="topicinfo"><span id="tp8366">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8366"></span> | <a href="topic?id=8366" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8366"><a class="upvote" href="javascript:vote(8366, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.autohotkey.com/boards/viewtopic.php?t=112989" rel="nofollow" id="tr14"><h1>AutoHotkey v2 릴리즈</h1></a> <span class="topicurl">(autohotkey.com)</span></div><div class="topicdesc"><a href="topic?id=8366" class="c99 breakall">- 훨씬 강력한 v2 스크립트로 바뀌면서 하위호환 되지 않음  
+  - 같이 포함된 런처를 통해서 v1 스크립트도 예전 v1 바이너리를 통해서 실행 지...</a></div><div class="topicinfo"><span id="tp8366">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8366"></span> | <a href="topic?id=8366" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Automatisch - 워크플로우 자동화 도구 Zapier의 오픈소스 대체제]]></title>
         <id>https://news.hada.io/topic?id=8355</id>
         <link href="https://news.hada.io/topic?id=8355"/>
         <updated>2023-01-30T02:17:04.227Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8355"><a class="upvote" href="javascript:vote(8355, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://automatisch.io/" rel="nofollow" id="tr11"><h1>Automatisch - 워크플로우 자동화 도구 Zapier의 오픈소스 대체제</h1></a> <span class="topicurl">(automatisch.io)</span></div><div class="topicdesc"><a href="topic?id=8355" class="c99 breakall">- 다양한 서비스들을 연결하여 비즈니스 프로세스를 자동화 가능   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8355"><a class="upvote" href="javascript:vote(8355, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://automatisch.io/" rel="nofollow" id="tr15"><h1>Automatisch - 워크플로우 자동화 도구 Zapier의 오픈소스 대체제</h1></a> <span class="topicurl">(automatisch.io)</span></div><div class="topicdesc"><a href="topic?id=8355" class="c99 breakall">- 다양한 서비스들을 연결하여 비즈니스 프로세스를 자동화 가능   
 - 셀프호스트 가능하여 사용자 데이터를 외부에 넘기지 않아도 됨(GDPR등)  
 ...</a></div><div class="topicinfo"><span id="tp8355">20</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8355"></span> | <a href="topic?id=8355" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -106,7 +148,7 @@
         <id>https://news.hada.io/topic?id=8352</id>
         <link href="https://news.hada.io/topic?id=8352"/>
         <updated>2023-01-29T16:16:12.867Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8352"><a class="upvote" href="javascript:vote(8352, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://squadly.net/blog/why-your-daily-stand-ups-fail" rel="nofollow" id="tr12"><h1>왜 당신의 일일 스탠드업 미팅은 실패하는가</h1></a> <span class="topicurl">(squadly.net)</span></div><div class="topicdesc"><a href="topic?id=8352" class="c99 breakall">- 애자일 팀에서 일반적으로 수행하는 일일 스탠드업(혹은 데일리 스크럼)은 보통 아래의 세 질문에 답하는 것  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8352"><a class="upvote" href="javascript:vote(8352, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://squadly.net/blog/why-your-daily-stand-ups-fail" rel="nofollow" id="tr16"><h1>왜 당신의 일일 스탠드업 미팅은 실패하는가</h1></a> <span class="topicurl">(squadly.net)</span></div><div class="topicdesc"><a href="topic?id=8352" class="c99 breakall">- 애자일 팀에서 일반적으로 수행하는 일일 스탠드업(혹은 데일리 스크럼)은 보통 아래의 세 질문에 답하는 것  
   - 어제 무엇을 했습니까?  
  ...</a></div><div class="topicinfo"><span id="tp8352">23</span> points by <a href="/user?id=yeoubi">yeoubi</a> 2일전<span id="unvote8352"></span> | <a href="topic?id=8352" class="u">댓글 3개</a></div>]]></content>
     </entry>
@@ -115,7 +157,7 @@
         <id>https://news.hada.io/topic?id=8354</id>
         <link href="https://news.hada.io/topic?id=8354"/>
         <updated>2023-01-30T02:17:04.212Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8354"><a class="upvote" href="javascript:vote(8354, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bregman-arie/sre-checklist" rel="nofollow" id="tr13"><h1>Site Reliability Engineering Checklist</h1></a> <span class="topicurl">(github.com/bregman-arie)</span></div><div class="topicdesc"><a href="topic?id=8354" class="c99 breakall">팀/개인이 SRE 실무를 위해서 고려해야 할 체크리스트들   
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8354"><a class="upvote" href="javascript:vote(8354, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bregman-arie/sre-checklist" rel="nofollow" id="tr17"><h1>Site Reliability Engineering Checklist</h1></a> <span class="topicurl">(github.com/bregman-arie)</span></div><div class="topicdesc"><a href="topic?id=8354" class="c99 breakall">팀/개인이 SRE 실무를 위해서 고려해야 할 체크리스트들   
 # 팀   
 - 책임 / 스킬 / 프로세스 / 팀 목표 / 리드 / 새 멤버  
 # 프로덕션   
@@ -126,7 +168,7 @@
         <id>https://news.hada.io/topic?id=8349</id>
         <link href="https://news.hada.io/topic?id=8349"/>
         <updated>2023-01-29T02:44:13.360Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8349"><a class="upvote" href="javascript:vote(8349, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cashapp.github.io/hermit/" rel="nofollow" id="tr14"><h1>Hermit - 개발 환경 관리도구 </h1></a> <span class="topicurl">(cashapp.github.io)</span></div><div class="topicdesc"><a href="topic?id=8349" class="c99 breakall">- 소프트웨어 프로젝트용 도구들을 독립적/고립된 형태로 설치  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8349"><a class="upvote" href="javascript:vote(8349, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cashapp.github.io/hermit/" rel="nofollow" id="tr18"><h1>Hermit - 개발 환경 관리도구 </h1></a> <span class="topicurl">(cashapp.github.io)</span></div><div class="topicdesc"><a href="topic?id=8349" class="c99 breakall">- 소프트웨어 프로젝트용 도구들을 독립적/고립된 형태로 설치  
 - 리눅스 &amp; 맥 에서 팀/협업자/CI 가 같은 개발 툴셋을 구성하게 도와줌   
 - ...</a></div><div class="topicinfo"><span id="tp8349">18</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8349"></span> | <a href="topic?id=8349" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -135,7 +177,7 @@
         <id>https://news.hada.io/topic?id=8356</id>
         <link href="https://news.hada.io/topic?id=8356"/>
         <updated>2023-01-30T02:17:04.227Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8356"><a class="upvote" href="javascript:vote(8356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://drive.google.com/file/d/1AamvKDkSy_nlYSBBn30qLr4WQP_tWn9b/view" rel="nofollow" id="tr15"><h1>10x ARR 클럽 보고서 [24p]</h1></a> <span class="topicurl">(drive.google.com)</span></div><div class="topicdesc"><a href="topic?id=8356" class="c99 breakall">- 상장된(미국) 회사중 ARR(연간반복매출)이 10배가 넘는 SaaS회사들 정리  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8356"><a class="upvote" href="javascript:vote(8356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://drive.google.com/file/d/1AamvKDkSy_nlYSBBn30qLr4WQP_tWn9b/view" rel="nofollow" id="tr19"><h1>10x ARR 클럽 보고서 [24p]</h1></a> <span class="topicurl">(drive.google.com)</span></div><div class="topicdesc"><a href="topic?id=8356" class="c99 breakall">- 상장된(미국) 회사중 ARR(연간반복매출)이 10배가 넘는 SaaS회사들 정리  
 → 매출총이익, 매출당 마케팅비/개발비/관리비, 영업이익, 잉여현금...</a></div><div class="topicinfo"><span id="tp8356">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8356"></span> | <a href="topic?id=8356" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -143,42 +185,7 @@
         <id>https://news.hada.io/topic?id=8368</id>
         <link href="https://news.hada.io/topic?id=8368"/>
         <updated>2023-01-31T03:15:16.298Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8368"><a class="upvote" href="javascript:vote(8368, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.macrumors.com/2023/01/27/apple-headset-ar-apps-via-siri" rel="nofollow" id="tr16"><h1>애플, 누구나 AR앱을 만들수 있는 소프트웨어 고안중</h1></a> <span class="topicurl">(macrumors.com)</span></div><div class="topicdesc"><a href="topic?id=8368" class="c99 breakall">- 앞으로 출시될 헤드셋 판매 촉진을 위해서, 코딩을 모르는 사람도 AR앱을 개발 가능한 소프트웨어 준비중  
-- Siri에게 명령해서 앱을 만들고, ...</a></div><div class="topicinfo"><span id="tp8368">3</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote8368"></span> | <a href="topic?id=8368" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wonders of Street View]]></title>
-        <id>https://news.hada.io/topic?id=8348</id>
-        <link href="https://news.hada.io/topic?id=8348"/>
-        <updated>2023-01-29T01:08:41.935Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8348"><a class="upvote" href="javascript:vote(8348, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neal.fun/wonders-of-street-view/" rel="nofollow" id="tr17"><h1>Wonders of Street View</h1></a> <span class="topicurl">(neal.fun)</span></div><div class="topicdesc"><a href="topic?id=8348" class="c99 breakall">- 구글 스트리트 뷰에서 보이는 전세계 놀라운 풍경의 장소들만 모은 사이트   
-- 랜덤으로 계속 보기  
-- 공유하기 기능으로 특정 URL 저장 가능</a></div><div class="topicinfo"><span id="tp8348">15</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8348"></span> | <a href="topic?id=8348" class="u">댓글 8개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Networks : Zero to Hero - 신경망 개발을 밑바닥 부터 코딩하며 배우기]]></title>
-        <id>https://news.hada.io/topic?id=8322</id>
-        <link href="https://news.hada.io/topic?id=8322"/>
-        <updated>2023-01-25T02:37:38.346Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8322"><a class="upvote" href="javascript:vote(8322, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://karpathy.ai/zero-to-hero.html" rel="nofollow" id="tr18"><h1>Neural Networks : Zero to Hero - 신경망 개발을 밑바닥 부터 코딩하며 배우기</h1></a> <span class="topicurl">(karpathy.ai)</span></div><div class="topicdesc"><a href="topic?id=8322" class="c99 breakall">- Tesla의 AI 총괄이었던 Andrej Karpathy가 만드는 신경망 개발 코스  
-- 역전파(backpropagation)의 기본부터 시작해서 최신 GPT같은 딥신경망...</a></div><div class="topicinfo"><span id="tp8322">59</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote8322"></span> | <a href="topic?id=8322" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Transcript - 유튜브 트랜스크립트 함께 보기]]></title>
-        <id>https://news.hada.io/topic?id=8350</id>
-        <link href="https://news.hada.io/topic?id=8350"/>
-        <updated>2023-01-29T02:44:13.360Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8350"><a class="upvote" href="javascript:vote(8350, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://youtubetranscript.com/" rel="nofollow" id="tr19"><h1>YouTube Transcript - 유튜브 트랜스크립트 함께 보기 </h1></a> <span class="topicurl">(youtubetranscript.com)</span></div><div class="topicdesc"><a href="topic?id=8350" class="c99 breakall">- 유튜브 영상들의 음성 대본을 영상 옆에 띄워주는 도구   
-- 텍스트 클릭시 해당 영상의 포지션으로 이동   
-- Autoscroll 기능으로 영상에 맞...</a></div><div class="topicinfo"><span id="tp8350">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8350"></span> | <a href="topic?id=8350" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일생으로 비춰본 AI의 빛과 공포]]></title>
-        <id>https://news.hada.io/topic?id=8353</id>
-        <link href="https://news.hada.io/topic?id=8353"/>
-        <updated>2023-01-30T02:17:04.227Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote8353"><a class="upvote" href="javascript:vote(8353, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ghkdxofla.github.io/posts/ai-via-lifetime/" rel="nofollow" id="tr20"><h1>일생으로 비춰본 AI의 빛과 공포</h1></a> <span class="topicurl">(ghkdxofla.github.io)</span></div><div class="topicdesc"><a href="topic?id=8353" class="c99 breakall">**AI의 시작부터 발전 과정을 한 인간의 생애에 비유하여 해석하고, 백엔드 엔지니어로서 고민을 정리한 글**  
-  
-- AI를 한 인간의 일생으로 ...</a></div><div class="topicinfo"><span id="tp8353">6</span> points by <a href="/user?id=studroid">studroid</a> 2일전<span id="unvote8353"></span> | <a href="topic?id=8353" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote8368"><a class="upvote" href="javascript:vote(8368, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.macrumors.com/2023/01/27/apple-headset-ar-apps-via-siri" rel="nofollow" id="tr20"><h1>애플, 누구나 AR앱을 만들수 있는 소프트웨어 고안중</h1></a> <span class="topicurl">(macrumors.com)</span></div><div class="topicdesc"><a href="topic?id=8368" class="c99 breakall">- 앞으로 출시될 헤드셋 판매 촉진을 위해서, 코딩을 모르는 사람도 AR앱을 개발 가능한 소프트웨어 준비중  
+- Siri에게 명령해서 앱을 만들고, ...</a></div><div class="topicinfo"><span id="tp8368">3</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8368"></span> | <a href="topic?id=8368" class="u">댓글 2개</a></div>]]></content>
     </entry>
 </feed>
