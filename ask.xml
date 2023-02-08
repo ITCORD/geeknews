@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2023-02-08T03:17:30.559Z</updated>
+    <updated>2023-02-08T04:17:07.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 우측 쉬프트키 잘 쓰시나요?]]></title>
+        <id>https://news.hada.io/topic?id=8425</id>
+        <link href="https://news.hada.io/topic?id=8425"/>
+        <updated>2023-02-08T04:16:50.490Z</updated>
+        <content type="html"><![CDATA[anona]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 신년기념 책을 사고 있는데, 여러분은 어떤 책이 재미있었나요?]]></title>
         <id>https://news.hada.io/topic?id=8326</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=7958"/>
         <updated>2023-01-14T02:52:52.228Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 나에 대한 무엇을 기록하고 어떻게 피드백하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=7862</id>
-        <link href="https://news.hada.io/topic?id=7862"/>
-        <updated>2023-02-06T01:02:37.952Z</updated>
-        <content type="html"><![CDATA[znagadeon]]></content>
     </entry>
 </feed>
