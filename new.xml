@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-02-16T11:12:59.819Z</updated>
+    <updated>2023-02-16T12:26:33.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8492"><a class="upvote" href="javascript:vote(8492, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2023/Feb/15/bing/" rel="nofollow" id="tr1"><h1>Bing AI: "당신이 나를 해치지 않는 한, 나는 당신을 해치지 않을 것입니다"</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=8492" class="c99 breakall">Bing AI 베타 공개 이후 일어난 일에 대한 정리.  
 - Bing AI 데모에 오류가 있음  
 - 사람들에게 가스라이팅을 시도함  
-- 실존적 위기를 겪음...</a></div><div class="topicinfo"><span id="tp8492">11</span> points by <a href="/user?id=kuroneko">kuroneko</a> 8시간전<span id="unvote8492"></span> | <a href="topic?id=8492" class="u">댓글 4개</a></div>]]></content>
+- 실존적 위기를 겪음...</a></div><div class="topicinfo"><span id="tp8492">11</span> points by <a href="/user?id=kuroneko">kuroneko</a> 9시간전<span id="unvote8492"></span> | <a href="topic?id=8492" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠버네티스 학습 로드맵]]></title>
@@ -23,7 +23,7 @@
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8491"><a class="upvote" href="javascript:vote(8491, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/techiescamp/kubernetes-learning-path" rel="nofollow" id="tr2"><h1>쿠버네티스 학습 로드맵</h1></a> <span class="topicurl">(github.com/techiescamp)</span></div><div class="topicdesc"><a href="topic?id=8491" class="c99 breakall">- Prerequisites  
 - Learn Kubernetes Architecture  
 - Learn to Setup Kuberntes Cluster (Free Credits)  
-- Understand KubeConfig File  ...</a></div><div class="topicinfo"><span id="tp8491">18</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote8491"></span> | <a href="topic?id=8491" class="u">댓글과 토론</a></div>]]></content>
+- Understand KubeConfig File  ...</a></div><div class="topicinfo"><span id="tp8491">18</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote8491"></span> | <a href="topic?id=8491" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플은 취미 앱 개발을 원하지 않습니다.]]></title>
@@ -33,7 +33,7 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8490"><a class="upvote" href="javascript:vote(8490, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/" rel="nofollow" id="tr3"><h1>애플은 취미 앱 개발을 원하지 않습니다.</h1></a> <span class="topicurl">(bennettnotes.com)</span></div><div class="topicdesc"><a href="topic?id=8490" class="c99 breakall">- 테스트용 앱은 1주일 간 유효  
 - 애플 개발자 구독(년 $99)을 통해 1년으로 연장 가능  
   
-저자는 자신이 취미삼아 개발한 앱을 앱스토어에...</a></div><div class="topicinfo"><span id="tp8490">8</span> points by <a href="/user?id=composite">composite</a> 9시간전<span id="unvote8490"></span> | <a href="topic?id=8490" class="u">댓글 5개</a></div>]]></content>
+저자는 자신이 취미삼아 개발한 앱을 앱스토어에...</a></div><div class="topicinfo"><span id="tp8490">8</span> points by <a href="/user?id=composite">composite</a> 10시간전<span id="unvote8490"></span> | <a href="topic?id=8490" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DB Webhooks - Postgres 변경시 웹훅 호출해주는 유틸리티]]></title>
@@ -43,7 +43,7 @@
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8489"><a class="upvote" href="javascript:vote(8489, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/portola-labs/db-webhooks" rel="nofollow" id="tr4"><h1>DB Webhooks - Postgres 변경시 웹훅 호출해주는 유틸리티</h1></a> <span class="topicurl">(github.com/portola-labs)</span></div><div class="topicdesc"><a href="topic?id=8489" class="c99 breakall">- 데이터베이스 트리거를 이용해 웹소켓으로 경량 Go 어플리케이션에 알림을 보내서 웹훅 호출   
 - Row 삽입/변경/삭제시  
 - 유스케이스   
- ...</a></div><div class="topicinfo"><span id="tp8489">11</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote8489"></span> | <a href="topic?id=8489" class="u">댓글과 토론</a></div>]]></content>
+ ...</a></div><div class="topicinfo"><span id="tp8489">12</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote8489"></span> | <a href="topic?id=8489" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DNS0 - 인터넷을 안전하게 사용하기 위한 유럽의 공용 DNS]]></title>
@@ -52,7 +52,7 @@
         <updated>2023-02-16T02:45:32.157Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8488"><a class="upvote" href="javascript:vote(8488, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dns0.eu/" rel="nofollow" id="tr5"><h1>DNS0 - 인터넷을 안전하게 사용하기 위한 유럽의 공용 DNS</h1></a> <span class="topicurl">(dns0.eu)</span></div><div class="topicdesc"><a href="topic?id=8488" class="c99 breakall">- 무료, 독립적이고, GDPR 준수하는 재귀 DNS 리졸버  
 - EU의 시민 및 조직을 보호하기 위해 보안에 중점을 둠   
-- dns0.eu 와 193.110.81.0 /...</a></div><div class="topicinfo"><span id="tp8488">11</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote8488"></span> | <a href="topic?id=8488" class="u">댓글과 토론</a></div>]]></content>
+- dns0.eu 와 193.110.81.0 /...</a></div><div class="topicinfo"><span id="tp8488">11</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote8488"></span> | <a href="topic?id=8488" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PocketPy - 게임 엔진을 위한 경량 파이썬 인터프리터]]></title>
@@ -60,7 +60,7 @@
         <link href="https://news.hada.io/topic?id=8487"/>
         <updated>2023-02-16T02:45:32.159Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8487"><a class="upvote" href="javascript:vote(8487, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/blueloveTH/pocketpy" rel="nofollow" id="tr6"><h1>PocketPy - 게임 엔진을 위한 경량 파이썬 인터프리터</h1></a> <span class="topicurl">(github.com/blueloveTH)</span></div><div class="topicdesc"><a href="topic?id=8487" class="c99 breakall">- 약 5000줄 내외의 경량 파이썬 인터프리터   
-- 한개의 C++17 헤더파일로 어디나 쉽게 임베드 가능 (컴파일러, 옵티마이저, 바이트코드 VM 포함...</a></div><div class="topicinfo"><span id="tp8487">5</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote8487"></span> | <a href="topic?id=8487" class="u">댓글과 토론</a></div>]]></content>
+- 한개의 C++17 헤더파일로 어디나 쉽게 임베드 가능 (컴파일러, 옵티마이저, 바이트코드 VM 포함...</a></div><div class="topicinfo"><span id="tp8487">5</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote8487"></span> | <a href="topic?id=8487" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년의 웹 개발 트렌드]]></title>
@@ -68,7 +68,7 @@
         <link href="https://news.hada.io/topic?id=8486"/>
         <updated>2023-02-16T01:06:46.616Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8486"><a class="upvote" href="javascript:vote(8486, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.robinwieruch.de/web-development-trends/" rel="nofollow" id="tr7"><h1>2023년의 웹 개발 트렌드</h1></a> <span class="topicurl">(robinwieruch.de)</span></div><div class="topicdesc"><a href="topic?id=8486" class="c99 breakall">- (Meta) Frameworks : Next.js, Remix, Sveltekit, SolidStart  
-- 어플리케이션과 렌더링 패턴 : CSR, SSR, SSG, ISR(Incremental Static Regen...</a></div><div class="topicinfo"><span id="tp8486">15</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote8486"></span> | <a href="topic?id=8486" class="u">댓글 5개</a></div>]]></content>
+- 어플리케이션과 렌더링 패턴 : CSR, SSR, SSG, ISR(Incremental Static Regen...</a></div><div class="topicinfo"><span id="tp8486">15</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote8486"></span> | <a href="topic?id=8486" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motion Canvas - Node 기반]]></title>
@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=H5GETOP7ivs
   
 ## 번역 by DeepL  
   
-모션 캔버스는 두 가지 주요 구성 요소로 이...</a></div><div class="topicinfo"><span id="tp8485">6</span> points by <a href="/user?id=hardboil">hardboil</a> 17시간전<span id="unvote8485"></span> | <a href="topic?id=8485" class="u">댓글 1개</a></div>]]></content>
+모션 캔버스는 두 가지 주요 구성 요소로 이...</a></div><div class="topicinfo"><span id="tp8485">6</span> points by <a href="/user?id=hardboil">hardboil</a> 18시간전<span id="unvote8485"></span> | <a href="topic?id=8485" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: PyKakao: 카카오 API 파이썬 패키지]]></title>
