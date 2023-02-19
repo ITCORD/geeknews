@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-02-19T13:18:40.503Z</updated>
+    <updated>2023-02-19T14:12:43.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 플래시카드 암기장 웹플랫폼 올로시아 입니다.]]></title>
+        <id>https://news.hada.io/topic?id=8515</id>
+        <link href="https://news.hada.io/topic?id=8515"/>
+        <updated>2023-02-19T14:12:19.610Z</updated>
+        <content type="html"><![CDATA[wavekr]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Infisical (YC W23) - 환경변수를 암호화하여 팀과 공유하는 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=8463</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8178"/>
         <updated>2023-01-14T02:52:47.419Z</updated>
         <content type="html"><![CDATA[samchon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 개발자를 위한 채용 경매 플랫폼]]></title>
-        <id>https://news.hada.io/topic?id=8175</id>
-        <link href="https://news.hada.io/topic?id=8175"/>
-        <updated>2023-01-14T02:52:47.419Z</updated>
-        <content type="html"><![CDATA[krow123]]></content>
     </entry>
 </feed>
