@@ -2,25 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2023-02-19T03:18:06.993Z</updated>
+    <updated>2023-02-19T04:16:08.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Awesome Rust Books]]></title>
-        <id>https://github.com/sger/RustBooks</id>
-        <link href="https://github.com/sger/RustBooks"/>
-        <updated>2023-02-19T02:47:23.064Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8511"><a class="upvote" href="javascript:vote(8511, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sger/RustBooks" rel="nofollow" id="tr1"><h1>Awesome Rust Books</h1></a> <span class="topicurl">(github.com/sger)</span></div><div class="topicdesc"><a href="topic?id=8511" class="c99 breakall">- 스타터 / 고급 으로 레벨에 따라 분류한 Rust 책들   
-- 각 책의 제목/링크와 함께 다루고 있는 내용 요약들 포함 </a></div><div class="topicinfo"><span id="tp8511">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8511"></span> | <a href="topic?id=8511" class="u">댓글 1개</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Broider - Pixel Art CSS Borders]]></title>
         <id>https://maxbittker.github.io/broider/</id>
         <link href="https://maxbittker.github.io/broider/"/>
         <updated>2023-02-19T01:07:59.956Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8510"><a class="upvote" href="javascript:vote(8510, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maxbittker.github.io/broider/" rel="nofollow" id="tr2"><h1>Broider - Pixel Art CSS Borders</h1></a> <span class="topicurl">(maxbittker.github.io)</span></div><div class="topicdesc"><a href="topic?id=8510" class="c99 breakall">- 픽셀 형식으로 9-patch 테두리를 만드는 도구   
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8510"><a class="upvote" href="javascript:vote(8510, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maxbittker.github.io/broider/" rel="nofollow" id="tr1"><h1>Broider - Pixel Art CSS Borders</h1></a> <span class="topicurl">(maxbittker.github.io)</span></div><div class="topicdesc"><a href="topic?id=8510" class="c99 breakall">- 픽셀 형식으로 9-patch 테두리를 만드는 도구   
 - 직접 7x7 영역에 도트로 그리기 &amp; 프리뷰 지원   
-- base64로 인코딩된 CSS 클래스로 자동 ...</a></div><div class="topicinfo"><span id="tp8510">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8510"></span> | <a href="topic?id=8510" class="u">댓글과 토론</a></div>]]></content>
+- base64로 인코딩된 CSS 클래스로 자동 ...</a></div><div class="topicinfo"><span id="tp8510">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8510"></span> | <a href="topic?id=8510" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome Rust Books]]></title>
+        <id>https://github.com/sger/RustBooks</id>
+        <link href="https://github.com/sger/RustBooks"/>
+        <updated>2023-02-19T02:47:23.064Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8511"><a class="upvote" href="javascript:vote(8511, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sger/RustBooks" rel="nofollow" id="tr2"><h1>Awesome Rust Books</h1></a> <span class="topicurl">(github.com/sger)</span></div><div class="topicdesc"><a href="topic?id=8511" class="c99 breakall">- 스타터 / 고급 으로 레벨에 따라 분류한 Rust 책들   
+- 각 책의 제목/링크와 함께 다루고 있는 내용 요약들 포함 </a></div><div class="topicinfo"><span id="tp8511">3</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8511"></span> | <a href="topic?id=8511" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Carreta - 쿠버네티스 디펜던시 맵 생성 도구]]></title>
@@ -28,7 +28,7 @@
         <link href="https://github.com/groundcover-com/caretta"/>
         <updated>2023-02-19T02:47:23.063Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8512"><a class="upvote" href="javascript:vote(8512, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/groundcover-com/caretta" rel="nofollow" id="tr3"><h1>Carreta - 쿠버네티스 디펜던시 맵 생성 도구</h1></a> <span class="topicurl">(github.com/groundcover-com)</span></div><div class="topicdesc"><a href="topic?id=8512" class="c99 breakall">- 쿠버네티스 클러스터내 서비스들의 비주얼 네트워크 맵을 그려주는 오픈소스   
-- eBPF를 사용하여 모든 네트워크 인터랙션을 효율적으로 매핑 ...</a></div><div class="topicinfo"><span id="tp8512">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8512"></span> | <a href="topic?id=8512" class="u">댓글과 토론</a></div>]]></content>
+- eBPF를 사용하여 모든 네트워크 인터랙션을 효율적으로 매핑 ...</a></div><div class="topicinfo"><span id="tp8512">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8512"></span> | <a href="topic?id=8512" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT 활용 방법 소개 슬라이드 [38p]]]></title>
@@ -41,20 +41,20 @@
   - 질문의 맥락과 요구...</a></div><div class="topicinfo"><span id="tp8497">29</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8497"></span> | <a href="topic?id=8497" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터, SMS를 이용한 2FA는 유료 사용자에게만 제공]]></title>
-        <id>https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter</id>
-        <link href="https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter"/>
-        <updated>2023-02-19T02:47:23.066Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8513"><a class="upvote" href="javascript:vote(8513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter" rel="nofollow" id="tr5"><h1>트위터, SMS를 이용한 2FA는 유료 사용자에게만 제공</h1></a> <span class="topicurl">(blog.twitter.com/en_us)</span></div><div class="topicdesc"><a href="topic?id=8513" class="c99 breakall">- 현재 SMS, 인증앱, 보안키 등 3가지 방식을 제공중  
-- 앞으로 트위터 Blue(유료) 사용자에게만 SMS를 이용한 2FA가 제공되며, 일반 사용자들은...</a></div><div class="topicinfo"><span id="tp8513">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8513"></span> | <a href="topic?id=8513" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Homebrew 4.0.0 릴리즈]]></title>
         <id>https://brew.sh/2023/02/16/homebrew-4.0.0/</id>
         <link href="https://brew.sh/2023/02/16/homebrew-4.0.0/"/>
         <updated>2023-02-18T02:41:52.429Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8508"><a class="upvote" href="javascript:vote(8508, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://brew.sh/2023/02/16/homebrew-4.0.0/" rel="nofollow" id="tr6"><h1>Homebrew 4.0.0 릴리즈</h1></a> <span class="topicurl">(brew.sh)</span></div><div class="topicdesc"><a href="topic?id=8508" class="c99 breakall">- 패키지 설치시 git fetch를 JSON 다운로드 방식으로 변경해서 속도 대폭 개선   
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8508"><a class="upvote" href="javascript:vote(8508, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://brew.sh/2023/02/16/homebrew-4.0.0/" rel="nofollow" id="tr5"><h1>Homebrew 4.0.0 릴리즈</h1></a> <span class="topicurl">(brew.sh)</span></div><div class="topicdesc"><a href="topic?id=8508" class="c99 breakall">- 패키지 설치시 git fetch를 JSON 다운로드 방식으로 변경해서 속도 대폭 개선   
 - 분석정보를 GoogleAnalytics와 InfluxDB(EU에 자체 호스팅) ...</a></div><div class="topicinfo"><span id="tp8508">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8508"></span> | <a href="topic?id=8508" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터, SMS를 이용한 2FA는 유료 사용자에게만 제공]]></title>
+        <id>https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter</id>
+        <link href="https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter"/>
+        <updated>2023-02-19T02:47:23.066Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8513"><a class="upvote" href="javascript:vote(8513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter" rel="nofollow" id="tr6"><h1>트위터, SMS를 이용한 2FA는 유료 사용자에게만 제공</h1></a> <span class="topicurl">(blog.twitter.com/en_us)</span></div><div class="topicdesc"><a href="topic?id=8513" class="c99 breakall">- 현재 SMS, 인증앱, 보안키 등 3가지 방식을 제공중  
+- 앞으로 트위터 Blue(유료) 사용자에게만 SMS를 이용한 2FA가 제공되며, 일반 사용자들은...</a></div><div class="topicinfo"><span id="tp8513">1</span> point by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8513"></span> | <a href="topic?id=8513" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++를 아는 사람들을 위한 언리얼엔진C++ 가이드]]></title>
@@ -62,7 +62,7 @@
         <link href="https://www.tomlooman.com/unreal-engine-cpp-guide/"/>
         <updated>2023-02-17T16:18:04.676Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8506"><a class="upvote" href="javascript:vote(8506, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.tomlooman.com/unreal-engine-cpp-guide/" rel="nofollow" id="tr7"><h1>C++를 아는 사람들을 위한 언리얼엔진C++ 가이드</h1></a> <span class="topicurl">(tomlooman.com)</span></div><div class="topicdesc"><a href="topic?id=8506" class="c99 breakall">- 언리얼엔진은 C++컴파일러만 빌렸을뿐 자체적으로 표준 라이브러리를 구축해서 사용  
-- C++문법은 아는데 이런 언리얼 방식을 모르는 사람에게...</a></div><div class="topicinfo"><span id="tp8506">13</span> points by <a href="/user?id=choijaekyu">choijaekyu</a> 1일전<span id="unvote8506"></span> | <a href="topic?id=8506" class="u">댓글과 토론</a></div>]]></content>
+- C++문법은 아는데 이런 언리얼 방식을 모르는 사람에게...</a></div><div class="topicinfo"><span id="tp8506">13</span> points by <a href="/user?id=choijaekyu">choijaekyu</a> 2일전<span id="unvote8506"></span> | <a href="topic?id=8506" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trigger.dev - 개발자를 위한 Zapier 대체제 오픈소스]]></title>
