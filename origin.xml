@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-02-26T20:15:11.270Z</updated>
+    <updated>2023-02-26T21:12:30.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -19,7 +19,7 @@
         <link href="https://atomicsemi.com/"/>
         <updated>2023-02-26T02:55:54.639Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8568"><a class="upvote" href="javascript:vote(8568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://atomicsemi.com/" rel="nofollow" id="tr2"><h1>Sam Zeloof와 Jim Keller가 Atomic Semi 라는 반도체 Fab회사 설립</h1></a> <span class="topicurl">(atomicsemi.com)</span></div><div class="topicdesc"><a href="topic?id=8568" class="c99 breakall">- Sam Zeloof는 17살때 자신의 차고에서 Z1 이라는 반도체 칩을 만든 것으로 유명한 현재 23살인 청년   
-- Jim Keller는 AMD의 K7과 K8을 개발하...</a></div><div class="topicinfo"><span id="tp8568">4</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote8568"></span> | <a href="topic?id=8568" class="u">댓글 2개</a></div>]]></content>
+- Jim Keller는 AMD의 K7과 K8을 개발하...</a></div><div class="topicinfo"><span id="tp8568">4</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote8568"></span> | <a href="topic?id=8568" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NoteSh - 터미널용 포스트잇 노트 앱]]></title>
@@ -29,7 +29,7 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8567"><a class="upvote" href="javascript:vote(8567, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Cvaniak/NoteSH" rel="nofollow" id="tr3"><h1>NoteSh - 터미널용 포스트잇 노트 앱 </h1></a> <span class="topicurl">(github.com/Cvaniak)</span></div><div class="topicdesc"><a href="topic?id=8567" class="c99 breakall">- 파이썬용 TUI 프레임워크인 Textual을 이용   
 - 하나의 JSON 파일로 노트들을 관리   
 - 마크다운 지원   
-- 노트별 색상/테두리 색상 조정 ...</a></div><div class="topicinfo"><span id="tp8567">3</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote8567"></span> | <a href="topic?id=8567" class="u">댓글과 토론</a></div>]]></content>
+- 노트별 색상/테두리 색상 조정 ...</a></div><div class="topicinfo"><span id="tp8567">3</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote8567"></span> | <a href="topic?id=8567" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[transcribe-anything - OpenAI Whisper를 이용해서 자막만들기]]></title>
@@ -37,7 +37,7 @@
         <link href="https://github.com/zackees/transcribe-anything"/>
         <updated>2023-02-26T01:13:26.177Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8566"><a class="upvote" href="javascript:vote(8566, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/zackees/transcribe-anything" rel="nofollow" id="tr4"><h1>transcribe-anything - OpenAI Whisper를 이용해서 자막만들기</h1></a> <span class="topicurl">(github.com/zackees)</span></div><div class="topicdesc"><a href="topic?id=8566" class="c99 breakall">- 음성인식 모델인 Whisper를 이용해서 로컬에 있는 다양한 파일의 음성을 인식해 자막(srt,vtt,txt) 파일로 만들어주는 오픈소스   
-- GPU/CUDA ...</a></div><div class="topicinfo"><span id="tp8566">3</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote8566"></span> | <a href="topic?id=8566" class="u">댓글과 토론</a></div>]]></content>
+- GPU/CUDA ...</a></div><div class="topicinfo"><span id="tp8566">3</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote8566"></span> | <a href="topic?id=8566" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[phind - 개발자를 위한 Generative AI 검색 엔진]]></title>
@@ -110,19 +110,11 @@
 - Replicate(머신러닝 모델 실행용 클라우드 SaaS) + C...</a></div><div class="topicinfo"><span id="tp8557">9</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8557"></span> | <a href="topic?id=8557" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Infinite-Storage-Glitch - 유튜브를 모든 종류의 파일 저장소로 사용하기]]></title>
-        <id>https://github.com/DvorakDwarf/Infinite-Storage-Glitch</id>
-        <link href="https://github.com/DvorakDwarf/Infinite-Storage-Glitch"/>
-        <updated>2023-02-23T02:43:52.626Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8550"><a class="upvote" href="javascript:vote(8550, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/DvorakDwarf/Infinite-Storage-Glitch" rel="nofollow" id="tr13"><h1>Infinite-Storage-Glitch - 유튜브를 모든 종류의 파일 저장소로 사용하기</h1></a> <span class="topicurl">(github.com/DvorakDwarf)</span></div><div class="topicdesc"><a href="topic?id=8550" class="c99 breakall">- 유튜브는 영상크기에 제한이 없으므로, 이론상 무한대의 파일저장소로 사용 가능   
-- Rust로 작성한 ISG 도구로 파일을 비디오에 임베딩한 후 ...</a></div><div class="topicinfo"><span id="tp8550">14</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote8550"></span> | <a href="topic?id=8550" class="u">댓글 5개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Local-First Web Development]]></title>
         <id>https://localfirstweb.dev/</id>
         <link href="https://localfirstweb.dev/"/>
         <updated>2023-02-21T01:09:19.203Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8530"><a class="upvote" href="javascript:vote(8530, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://localfirstweb.dev/" rel="nofollow" id="tr14"><h1>Local-First Web Development</h1></a> <span class="topicurl">(localfirstweb.dev)</span></div><div class="topicdesc"><a href="topic?id=8530" class="c99 breakall">- 오프라인에서 동작하며, 클라이언트간에 동기화되고, 사용자가 자신의 데이터를 소유하는 "로컬 우선 웹앱"을 만드는 방법과 기술들 정리   
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8530"><a class="upvote" href="javascript:vote(8530, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://localfirstweb.dev/" rel="nofollow" id="tr13"><h1>Local-First Web Development</h1></a> <span class="topicurl">(localfirstweb.dev)</span></div><div class="topicdesc"><a href="topic?id=8530" class="c99 breakall">- 오프라인에서 동작하며, 클라이언트간에 동기화되고, 사용자가 자신의 데이터를 소유하는 "로컬 우선 웹앱"을 만드는 방법과 기술들 정리   
 - ...</a></div><div class="topicinfo"><span id="tp8530">29</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote8530"></span> | <a href="topic?id=8530" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -130,9 +122,17 @@
         <id>https://github.com/robinmoisson/staticrypt</id>
         <link href="https://github.com/robinmoisson/staticrypt"/>
         <updated>2023-02-22T01:03:49.700Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8538"><a class="upvote" href="javascript:vote(8538, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/robinmoisson/staticrypt" rel="nofollow" id="tr15"><h1>StatiCrypt - 정적 HTML 페이지를 암호로 보호하기</h1></a> <span class="topicurl">(github.com/robinmoisson)</span></div><div class="topicdesc"><a href="topic?id=8538" class="c99 breakall">- AES-256을 사용해서 HTML 파일을 암호화   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8538"><a class="upvote" href="javascript:vote(8538, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/robinmoisson/staticrypt" rel="nofollow" id="tr14"><h1>StatiCrypt - 정적 HTML 페이지를 암호로 보호하기</h1></a> <span class="topicurl">(github.com/robinmoisson)</span></div><div class="topicdesc"><a href="topic?id=8538" class="c99 breakall">- AES-256을 사용해서 HTML 파일을 암호화   
 - 암호를 입력 받아서 매칭되면 내용을 볼 수 있게 함   
 - 정적인 HTML 파일도 가능하므로 백엔드...</a></div><div class="topicinfo"><span id="tp8538">21</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote8538"></span> | <a href="topic?id=8538" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infinite-Storage-Glitch - 유튜브를 모든 종류의 파일 저장소로 사용하기]]></title>
+        <id>https://github.com/DvorakDwarf/Infinite-Storage-Glitch</id>
+        <link href="https://github.com/DvorakDwarf/Infinite-Storage-Glitch"/>
+        <updated>2023-02-23T02:43:52.626Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8550"><a class="upvote" href="javascript:vote(8550, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/DvorakDwarf/Infinite-Storage-Glitch" rel="nofollow" id="tr15"><h1>Infinite-Storage-Glitch - 유튜브를 모든 종류의 파일 저장소로 사용하기</h1></a> <span class="topicurl">(github.com/DvorakDwarf)</span></div><div class="topicdesc"><a href="topic?id=8550" class="c99 breakall">- 유튜브는 영상크기에 제한이 없으므로, 이론상 무한대의 파일저장소로 사용 가능   
+- Rust로 작성한 ISG 도구로 파일을 비디오에 임베딩한 후 ...</a></div><div class="topicinfo"><span id="tp8550">14</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote8550"></span> | <a href="topic?id=8550" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ResearchGPT - 오픈소스 LLM 기반 연구 도우미]]></title>
