@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-03-05T13:18:44.963Z</updated>
+    <updated>2023-03-05T14:12:58.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-03-05T02:59:02.234Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8611"><a class="upvote" href="javascript:vote(8611, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hunkim/kakao-gpt" rel="nofollow" id="tr1"><h1>Kakao-gpt - 카카오톡에서 ChatGPT 이용하기</h1></a> <span class="topicurl">(github.com/hunkim)</span></div><div class="topicdesc"><a href="topic?id=8611" class="c99 breakall">- 카카오톡 봇을 이용해서 ChatGPT와 대화 가능   
 - UpOCR을 사용해서 이미지를 통한 컨텍스트 전달도 지원   
-- AskUp 계정을 친구로 추가해서...</a></div><div class="topicinfo"><span id="tp8611">9</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote8611"></span> | <a href="topic?id=8611" class="u">댓글과 토론</a></div>]]></content>
+- AskUp 계정을 친구로 추가해서...</a></div><div class="topicinfo"><span id="tp8611">9</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote8611"></span> | <a href="topic?id=8611" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scrollbar.app - CSS 스크롤바 인터랙티브 디자이너]]></title>
@@ -20,7 +20,7 @@
         <link href="https://news.hada.io/topic?id=8612"/>
         <updated>2023-03-05T02:59:02.251Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8612"><a class="upvote" href="javascript:vote(8612, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://scrollbar.app/" rel="nofollow" id="tr2"><h1>Scrollbar.app - CSS 스크롤바 인터랙티브 디자이너</h1></a> <span class="topicurl">(scrollbar.app)</span></div><div class="topicdesc"><a href="topic?id=8612" class="c99 breakall">- Webkit &amp; Blink 기반 브라우저용 Pseudo 셀렉터 지원   
-- Thumb Color, Track Color, Scrollbar Width, Border Radius, Thumb Border Width/Co...</a></div><div class="topicinfo"><span id="tp8612">6</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote8612"></span> | <a href="topic?id=8612" class="u">댓글과 토론</a></div>]]></content>
+- Thumb Color, Track Color, Scrollbar Width, Border Radius, Thumb Border Width/Co...</a></div><div class="topicinfo"><span id="tp8612">6</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote8612"></span> | <a href="topic?id=8612" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파이썬 코드 2줄로 ChatGPT 이용하기]]></title>
@@ -31,7 +31,7 @@
 ```python  
 def query_gpt_35_turbo(query):  
   response = openai.ChatCompletion.create(  
-   ...</a></div><div class="topicinfo"><span id="tp8613">5</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote8613"></span> | <a href="topic?id=8613" class="u">댓글과 토론</a></div>]]></content>
+   ...</a></div><div class="topicinfo"><span id="tp8613">5</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote8613"></span> | <a href="topic?id=8613" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scavenger - 런타임 데드코드 분석 도구 오픈소스]]></title>
@@ -39,7 +39,7 @@ def query_gpt_35_turbo(query):
         <link href="https://news.hada.io/topic?id=8610"/>
         <updated>2023-03-05T01:16:14.472Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8610"><a class="upvote" href="javascript:vote(8610, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/naver/scavenger" rel="nofollow" id="tr4"><h1>Scavenger - 런타임 데드코드 분석 도구 오픈소스</h1></a> <span class="topicurl">(github.com/naver)</span></div><div class="topicdesc"><a href="topic?id=8610" class="c99 breakall">- 네이버가 공개한 오픈소스. 네이버내 80여개 서비스에서 사용중   
-- 데드코드 : 실행되지 않는 코드 / 실행되더라도 어플리케이션 동작에 영향...</a></div><div class="topicinfo"><span id="tp8610">5</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote8610"></span> | <a href="topic?id=8610" class="u">댓글 2개</a></div>]]></content>
+- 데드코드 : 실행되지 않는 코드 / 실행되더라도 어플리케이션 동작에 영향...</a></div><div class="topicinfo"><span id="tp8610">5</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote8610"></span> | <a href="topic?id=8610" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta의 LLaMA 모델이 토렌트로 배포중]]></title>
@@ -47,7 +47,7 @@ def query_gpt_35_turbo(query):
         <link href="https://news.hada.io/topic?id=8614"/>
         <updated>2023-03-05T02:59:02.243Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8614"><a class="upvote" href="javascript:vote(8614, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/facebookresearch/llama/pull/73/files" rel="nofollow" id="tr5"><h1>Meta의 LLaMA 모델이 토렌트로 배포중</h1></a> <span class="topicurl">(github.com/facebookresearch)</span></div><div class="topicdesc"><a href="topic?id=8614" class="c99 breakall">- Meta가 오용을 방지하기 위해 학술적 용도로 비상업적 이용만 가능하게 배포함  
-- 별도 폼을 통해서 신청하고 승인 받아야 다운로드 가능했으...</a></div><div class="topicinfo"><span id="tp8614">4</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote8614"></span> | <a href="topic?id=8614" class="u">댓글 1개</a></div>]]></content>
+- 별도 폼을 통해서 신청하고 승인 받아야 다운로드 가능했으...</a></div><div class="topicinfo"><span id="tp8614">4</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote8614"></span> | <a href="topic?id=8614" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(당신이 훔칠수 있는) 50개의 스타트업 아이디어]]></title>
@@ -55,7 +55,7 @@ def query_gpt_35_turbo(query):
         <link href="https://news.hada.io/topic?id=8601"/>
         <updated>2023-03-03T02:58:03.281Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8601"><a class="upvote" href="javascript:vote(8601, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.google.com/presentation/d/1Jj6OqMqN9zRNet76G8PdmvMNjo8tZ5UqtpT5WGODkmc/edit" rel="nofollow" id="tr6"><h1>(당신이 훔칠수 있는) 50개의 스타트업 아이디어</h1></a> <span class="topicurl">(docs.google.com)</span></div><div class="topicdesc"><a href="topic?id=8601" class="c99 breakall">- CB Insights의 CEO인 Anand Sanwal 이 트위터에 2년간 올렸던 스타트업 아이디어들을 하나로 정리한 구글 슬라이드   
-- "이런게 없다면 그냥 ...</a></div><div class="topicinfo"><span id="tp8601">25</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8601"></span> | <a href="topic?id=8601" class="u">댓글과 토론</a></div>]]></content>
+- "이런게 없다면 그냥 ...</a></div><div class="topicinfo"><span id="tp8601">25</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8601"></span> | <a href="topic?id=8601" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go 프로젝트를 EC2에서 Fly.io로 이관한 후기: 더 재미나고, 월 $9 절약]]></title>
@@ -64,7 +64,7 @@ def query_gpt_35_turbo(query):
         <updated>2023-03-03T02:58:03.309Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8604"><a class="upvote" href="javascript:vote(8604, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://benhoyt.com/writings/flyio/" rel="nofollow" id="tr7"><h1>Go 프로젝트를 EC2에서 Fly.io로 이관한 후기: 더 재미나고, 월 $9 절약</h1></a> <span class="topicurl">(benhoyt.com)</span></div><div class="topicdesc"><a href="topic?id=8604" class="c99 breakall">- 2개의 사이드 프로젝트를 이관   
 - 500줄 가량의 Ansible 스크립트와 설정파일을 지웠고, 월 $9를 절약  
-- 스태틱 파일을 CDN을 사용하다가 ...</a></div><div class="topicinfo"><span id="tp8604">24</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8604"></span> | <a href="topic?id=8604" class="u">댓글 1개</a></div>]]></content>
+- 스태틱 파일을 CDN을 사용하다가 ...</a></div><div class="topicinfo"><span id="tp8604">24</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8604"></span> | <a href="topic?id=8604" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust 2KB로 FPS 게임 작성하기]]></title>
@@ -74,7 +74,7 @@ def query_gpt_35_turbo(query):
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8602"><a class="upvote" href="javascript:vote(8602, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://grantshandy.github.io/posts/raycasting/" rel="nofollow" id="tr8"><h1>Rust 2KB로 FPS 게임 작성하기</h1></a> <span class="topicurl">(grantshandy.github.io)</span></div><div class="topicdesc"><a href="topic?id=8602" class="c99 breakall">- 그래픽 API 없이 FPS(1인칭 슈팅 게임) 작성하기   
 - 필수 알고리듬 설명  
 - WASM-4(웹어셈블리 기반 초소형 게임엔진) 이용   
-- 프로젝트...</a></div><div class="topicinfo"><span id="tp8602">20</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8602"></span> | <a href="topic?id=8602" class="u">댓글과 토론</a></div>]]></content>
+- 프로젝트...</a></div><div class="topicinfo"><span id="tp8602">20</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8602"></span> | <a href="topic?id=8602" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[터미널용 Clipboard 유틸리티]]></title>
@@ -83,7 +83,7 @@ def query_gpt_35_turbo(query):
         <updated>2023-03-04T02:42:40.288Z</updated>
         <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8609"><a class="upvote" href="javascript:vote(8609, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Slackadays/Clipboard" rel="nofollow" id="tr9"><h1>터미널용 Clipboard 유틸리티</h1></a> <span class="topicurl">(github.com/Slackadays)</span></div><div class="topicdesc"><a href="topic?id=8609" class="c99 breakall">- 대부분의 플랫폼에서 매우 작은 실행파일로 동작. 의존성 없음  
   - 윈/리눅스/맥/BSD/안드로이드 등 C++20을 지원하는 모든 OS   
-- clipboa...</a></div><div class="topicinfo"><span id="tp8609">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8609"></span> | <a href="topic?id=8609" class="u">댓글과 토론</a></div>]]></content>
+- clipboa...</a></div><div class="topicinfo"><span id="tp8609">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8609"></span> | <a href="topic?id=8609" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gitinerary - Git을 이용한 조직내의 작업 진행 상황 추적 앱]]></title>
@@ -92,7 +92,7 @@ def query_gpt_35_turbo(query):
         <updated>2023-03-04T02:42:40.289Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8608"><a class="upvote" href="javascript:vote(8608, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/marketplace/gitinerary" rel="nofollow" id="tr10"><h1>Gitinerary - Git을 이용한 조직내의 작업 진행 상황 추적 앱</h1></a> <span class="topicurl">(github.com/marketplace)</span></div><div class="topicdesc"><a href="topic?id=8608" class="c99 breakall">- Github Repo내의 코드 활동을 추적해서 실시간 보고서 작성  
 - 타임라인 형태로 활동 내용을 표시   
-- 자신의 작업 내용 공유 가능 </a></div><div class="topicinfo"><span id="tp8608">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8608"></span> | <a href="topic?id=8608" class="u">댓글과 토론</a></div>]]></content>
+- 자신의 작업 내용 공유 가능 </a></div><div class="topicinfo"><span id="tp8608">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8608"></span> | <a href="topic?id=8608" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion로 게임 배경 이미지 만들기 (Tales of Syn의 사례)]]></title>
@@ -107,7 +107,7 @@ def query_gpt_35_turbo(query):
         <link href="https://news.hada.io/topic?id=8573"/>
         <updated>2023-02-27T02:47:40.542Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8573"><a class="upvote" href="javascript:vote(8573, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://anthonyhobday.com/sideprojects/saferules/" rel="nofollow" id="tr12"><h1>안전하게 따라 할 수 있는 비주얼 디자인 규칙들</h1></a> <span class="topicurl">(anthonyhobday.com)</span></div><div class="topicdesc"><a href="topic?id=8573" class="c99 breakall">- 꼭 따라야 할 필요는 없지만, 이 규칙들은 언제나 그대로 적용해도 괜찮음   
-# 순수한 검은색/흰색 대신 검은색과 흰색에 가까운 색을 사용하...</a></div><div class="topicinfo"><span id="tp8573">65</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote8573"></span> | <a href="topic?id=8573" class="u">댓글 4개</a></div>]]></content>
+# 순수한 검은색/흰색 대신 검은색과 흰색에 가까운 색을 사용하...</a></div><div class="topicinfo"><span id="tp8573">65</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote8573"></span> | <a href="topic?id=8573" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Loz: pipe 지원하는  chatGPT 기반 CLI 툴]]></title>
@@ -173,7 +173,7 @@ def query_gpt_35_turbo(query):
 - 2D 이동, 회전, 크기 변환 행렬 계산  
 - 3D  
 - Lighting  
-- Structure and ...</a></div><div class="topicinfo"><span id="tp8576">32</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote8576"></span> | <a href="topic?id=8576" class="u">댓글과 토론</a></div>]]></content>
+- Structure and ...</a></div><div class="topicinfo"><span id="tp8576">32</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote8576"></span> | <a href="topic?id=8576" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Icônes - 빠른 퍼지 검색을 지원하는 아이콘 탐색기]]></title>
