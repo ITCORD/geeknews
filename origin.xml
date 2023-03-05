@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-03-05T02:59:51.871Z</updated>
+    <updated>2023-03-05T03:28:54.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[파이썬 코드 2줄로 ChatGPT 이용하기]]></title>
-        <id>https://imgur.com/a/cw6TZl5</id>
-        <link href="https://imgur.com/a/cw6TZl5"/>
-        <updated>2023-03-05T02:59:07.936Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8613"><a class="upvote" href="javascript:vote(8613, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://imgur.com/a/cw6TZl5" rel="nofollow" id="tr1"><h1>파이썬 코드 2줄로 ChatGPT 이용하기</h1></a> <span class="topicurl">(imgur.com)</span></div><div class="topicdesc"><a href="topic?id=8613" class="c99 breakall">openai 모듈 import 후 쉽게 이용 가능   
-```python  
-def query_gpt_35_turbo(query):  
-  response = openai.ChatCompletion.create(  
-   ...</a></div><div class="topicinfo"><span id="tp8613">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8613"></span> | <a href="topic?id=8613" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kakao-gpt - 카카오톡에서 ChatGPT 이용하기]]></title>
         <id>https://github.com/hunkim/kakao-gpt</id>
         <link href="https://github.com/hunkim/kakao-gpt"/>
         <updated>2023-03-05T02:59:07.953Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8611"><a class="upvote" href="javascript:vote(8611, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hunkim/kakao-gpt" rel="nofollow" id="tr2"><h1>Kakao-gpt - 카카오톡에서 ChatGPT 이용하기</h1></a> <span class="topicurl">(github.com/hunkim)</span></div><div class="topicdesc"><a href="topic?id=8611" class="c99 breakall">- 카카오톡 봇을 이용해서 ChatGPT와 대화 가능   
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8611"><a class="upvote" href="javascript:vote(8611, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hunkim/kakao-gpt" rel="nofollow" id="tr1"><h1>Kakao-gpt - 카카오톡에서 ChatGPT 이용하기</h1></a> <span class="topicurl">(github.com/hunkim)</span></div><div class="topicdesc"><a href="topic?id=8611" class="c99 breakall">- 카카오톡 봇을 이용해서 ChatGPT와 대화 가능   
 - UpOCR을 사용해서 이미지를 통한 컨텍스트 전달도 지원   
-- AskUp 계정을 친구로 추가해서...</a></div><div class="topicinfo"><span id="tp8611">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8611"></span> | <a href="topic?id=8611" class="u">댓글과 토론</a></div>]]></content>
+- AskUp 계정을 친구로 추가해서...</a></div><div class="topicinfo"><span id="tp8611">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8611"></span> | <a href="topic?id=8611" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파이썬 코드 2줄로 ChatGPT 이용하기]]></title>
+        <id>https://imgur.com/a/cw6TZl5</id>
+        <link href="https://imgur.com/a/cw6TZl5"/>
+        <updated>2023-03-05T02:59:07.936Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8613"><a class="upvote" href="javascript:vote(8613, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://imgur.com/a/cw6TZl5" rel="nofollow" id="tr2"><h1>파이썬 코드 2줄로 ChatGPT 이용하기</h1></a> <span class="topicurl">(imgur.com)</span></div><div class="topicdesc"><a href="topic?id=8613" class="c99 breakall">openai 모듈 import 후 쉽게 이용 가능   
+```python  
+def query_gpt_35_turbo(query):  
+  response = openai.ChatCompletion.create(  
+   ...</a></div><div class="topicinfo"><span id="tp8613">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8613"></span> | <a href="topic?id=8613" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scavenger - 런타임 데드코드 분석 도구 오픈소스]]></title>
@@ -39,7 +39,7 @@ def query_gpt_35_turbo(query):
         <link href="https://github.com/facebookresearch/llama/pull/73/files"/>
         <updated>2023-03-05T02:59:07.956Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8614"><a class="upvote" href="javascript:vote(8614, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/facebookresearch/llama/pull/73/files" rel="nofollow" id="tr4"><h1>Meta의 LLaMA 모델이 토렌트로 배포중</h1></a> <span class="topicurl">(github.com/facebookresearch)</span></div><div class="topicdesc"><a href="topic?id=8614" class="c99 breakall">- Meta가 오용을 방지하기 위해 학술적 용도로 비상업적 이용만 가능하게 배포함  
-- 별도 폼을 통해서 신청하고 승인 받아야 다운로드 가능했으...</a></div><div class="topicinfo"><span id="tp8614">2</span> points by <a href="/user?id=xguru">xguru</a> 52분전<span id="unvote8614"></span> | <a href="topic?id=8614" class="u">댓글 1개</a></div>]]></content>
+- 별도 폼을 통해서 신청하고 승인 받아야 다운로드 가능했으...</a></div><div class="topicinfo"><span id="tp8614">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8614"></span> | <a href="topic?id=8614" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scrollbar.app - CSS 스크롤바 인터랙티브 디자이너]]></title>
@@ -47,7 +47,7 @@ def query_gpt_35_turbo(query):
         <link href="https://scrollbar.app/"/>
         <updated>2023-03-05T02:59:07.958Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8612"><a class="upvote" href="javascript:vote(8612, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://scrollbar.app/" rel="nofollow" id="tr5"><h1>Scrollbar.app - CSS 스크롤바 인터랙티브 디자이너</h1></a> <span class="topicurl">(scrollbar.app)</span></div><div class="topicdesc"><a href="topic?id=8612" class="c99 breakall">- Webkit &amp; Blink 기반 브라우저용 Pseudo 셀렉터 지원   
-- Thumb Color, Track Color, Scrollbar Width, Border Radius, Thumb Border Width/Co...</a></div><div class="topicinfo"><span id="tp8612">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8612"></span> | <a href="topic?id=8612" class="u">댓글과 토론</a></div>]]></content>
+- Thumb Color, Track Color, Scrollbar Width, Border Radius, Thumb Border Width/Co...</a></div><div class="topicinfo"><span id="tp8612">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8612"></span> | <a href="topic?id=8612" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(당신이 훔칠수 있는) 50개의 스타트업 아이디어]]></title>
@@ -119,21 +119,21 @@ def query_gpt_35_turbo(query):
 # 순수한 검은색/흰색 대신 검은색과 흰색에 가까운 색을 사용하...</a></div><div class="topicinfo"><span id="tp8573">65</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote8573"></span> | <a href="topic?id=8573" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KWOK: Kubernetes WithOut Kubelet]]></title>
-        <id>https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/</id>
-        <link href="https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/"/>
-        <updated>2023-03-03T02:58:08.781Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8600"><a class="upvote" href="javascript:vote(8600, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/" rel="nofollow" id="tr14"><h1>KWOK: Kubernetes WithOut Kubelet</h1></a> <span class="topicurl">(kubernetes.dev)</span></div><div class="topicdesc"><a href="topic?id=8600" class="c99 breakall">- Kubelet을 Mocking하여 수천대의 노드로 된 클러스터를 몇초만에 만들어주는 툴킷   
-  - 쿠버네티스 학습용으로 이용  
-  - 개발을 위해서 대...</a></div><div class="topicinfo"><span id="tp8600">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8600"></span> | <a href="topic?id=8600" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI, ChatGPT 와 Whisper API 공개]]></title>
         <id>https://openai.com/blog/introducing-chatgpt-and-whisper-apis</id>
         <link href="https://openai.com/blog/introducing-chatgpt-and-whisper-apis"/>
         <updated>2023-03-02T01:11:37.302Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8587"><a class="upvote" href="javascript:vote(8587, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/introducing-chatgpt-and-whisper-apis" rel="nofollow" id="tr15"><h1>OpenAI, ChatGPT 와 Whisper API 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=8587" class="c99 breakall">- 이제 ChatGPT 및 Speech-To-Text 기능을 자신의 앱 내에서 활용 가능   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8587"><a class="upvote" href="javascript:vote(8587, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/introducing-chatgpt-and-whisper-apis" rel="nofollow" id="tr14"><h1>OpenAI, ChatGPT 와 Whisper API 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=8587" class="c99 breakall">- 이제 ChatGPT 및 Speech-To-Text 기능을 자신의 앱 내에서 활용 가능   
 - 12월 ChatGPT 발표이후 최적화를 통해서 90% 비용 절감을 달성했고, ...</a></div><div class="topicinfo"><span id="tp8587">21</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8587"></span> | <a href="topic?id=8587" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KWOK: Kubernetes WithOut Kubelet]]></title>
+        <id>https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/</id>
+        <link href="https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/"/>
+        <updated>2023-03-03T02:58:08.781Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8600"><a class="upvote" href="javascript:vote(8600, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/" rel="nofollow" id="tr15"><h1>KWOK: Kubernetes WithOut Kubelet</h1></a> <span class="topicurl">(kubernetes.dev)</span></div><div class="topicdesc"><a href="topic?id=8600" class="c99 breakall">- Kubelet을 Mocking하여 수천대의 노드로 된 클러스터를 몇초만에 만들어주는 툴킷   
+  - 쿠버네티스 학습용으로 이용  
+  - 개발을 위해서 대...</a></div><div class="topicinfo"><span id="tp8600">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8600"></span> | <a href="topic?id=8600" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Konsta UI - Tailwind CSS로 만든 모바일 UI 컴포넌트]]></title>
