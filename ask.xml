@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2023-03-10T04:18:12.125Z</updated>
+    <updated>2023-03-10T05:14:06.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=8665</id>
+        <link href="https://news.hada.io/topic?id=8665"/>
+        <updated>2023-03-10T05:13:48.063Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2023년 3월)]]></title>
         <id>https://news.hada.io/topic?id=8637</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8339"/>
         <updated>2023-01-27T02:42:08.875Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 터미널을 볼때 주로 어떤 color preset을 사용하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=8251</id>
-        <link href="https://news.hada.io/topic?id=8251"/>
-        <updated>2023-01-14T02:52:52.205Z</updated>
-        <content type="html"><![CDATA[cjinzy]]></content>
     </entry>
 </feed>
