@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-03-12T23:13:31.275Z</updated>
+    <updated>2023-03-13T01:05:50.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Business 관점에서 바라본 AI]]></title>
+        <id>https://news.hada.io/weekly/202311</id>
+        <link href="https://news.hada.io/weekly/202311"/>
+        <updated>2023-03-13T01:05:38.123Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202311" class="u"> Business 관점에서 바라본 AI</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안전하게 따라 할 수 있는 비주얼 디자인 규칙들]]></title>
         <id>https://news.hada.io/weekly/202310</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202302"/>
         <updated>2023-01-17T23:52:18.159Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202302" class="u"> 가장 인상적인 1인 회사들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 2022년에 배운 52가지]]></title>
-        <id>https://news.hada.io/weekly/202301</id>
-        <link href="https://news.hada.io/weekly/202301"/>
-        <updated>2023-01-17T23:52:18.159Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202301" class="u"> 내가 2022년에 배운 52가지</a>]]></content>
     </entry>
 </feed>
