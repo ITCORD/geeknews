@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-03-14T06:18:36.449Z</updated>
+    <updated>2023-03-14T07:15:41.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
 - 미디어 타입  
 - 미디어 쿼리 사용  
 - 미디어 쿼리 기능들 사용하기  
-- 출시 예...</a></div><div class="topicinfo"><span id="tp8689">10</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote8689"></span> | <a href="topic?id=8689" class="u">댓글과 토론</a></div>]]></content>
+- 출시 예...</a></div><div class="topicinfo"><span id="tp8689">10</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote8689"></span> | <a href="topic?id=8689" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Protomaps - Serverless 지도를 오픈소스로 공개]]></title>
@@ -24,7 +24,7 @@
         <updated>2023-03-14T02:03:06.298Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8690"><a class="upvote" href="javascript:vote(8690, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://protomaps.com/blog/serverless-maps-now-open-source" rel="nofollow" id="tr2"><h1>Protomaps - Serverless 지도를 오픈소스로 공개</h1></a> <span class="topicurl">(protomaps.com)</span></div><div class="topicdesc"><a href="topic?id=8690" class="c99 breakall">- PMTiles 라는 아카이브 파일로 전세계 지도를 서버리스로 운용가능  
 - 포맷만 공개했었는데, 서버리스용 코드 부분도 오픈소스로 공개   
-- A...</a></div><div class="topicinfo"><span id="tp8690">7</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote8690"></span> | <a href="topic?id=8690" class="u">댓글 1개</a></div>]]></content>
+- A...</a></div><div class="topicinfo"><span id="tp8690">9</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote8690"></span> | <a href="topic?id=8690" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dalai - LLaMA를 당신의 컴퓨터에서 가장 간단히 실행하는 방법]]></title>
@@ -35,31 +35,31 @@
   `npx dalai llama`  
   `npx dalai serve`  
 - llama.cpp + llama-dl CDN   
-- 해...</a></div><div class="topicinfo"><span id="tp8693">5</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote8693"></span> | <a href="topic?id=8693" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpaca: GPT-3.5 수준의 강력한 오픈소스 Instruction-Following 모델]]></title>
-        <id>https://crfm.stanford.edu/2023/03/13/alpaca.html</id>
-        <link href="https://crfm.stanford.edu/2023/03/13/alpaca.html"/>
-        <updated>2023-03-14T03:14:55.266Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8692"><a class="upvote" href="javascript:vote(8692, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" rel="nofollow" id="tr4"><h1>Alpaca: GPT-3.5 수준의 강력한 오픈소스 Instruction-Following 모델 </h1></a> <span class="topicurl">(crfm.stanford.edu)</span></div><div class="topicdesc"><a href="topic?id=8692" class="c99 breakall">- 스탠포드 CRFM에서 메타의 LLaMA 7B를 52K Instruction-Following 데이터를 통해서 파인튜닝   
-- OpenAI의 GPT-3.5(text-davinci-003)와 비슷...</a></div><div class="topicinfo"><span id="tp8692">3</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote8692"></span> | <a href="topic?id=8692" class="u">댓글 1개</a></div>]]></content>
+- 해...</a></div><div class="topicinfo"><span id="tp8693">7</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote8693"></span> | <a href="topic?id=8693" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LLM에 Stable Diffusion Moment가 오고 있다]]></title>
         <id>https://simonwillison.net/2023/Mar/11/llama/</id>
         <link href="https://simonwillison.net/2023/Mar/11/llama/"/>
         <updated>2023-03-13T03:14:23.695Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8684"><a class="upvote" href="javascript:vote(8684, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2023/Mar/11/llama/" rel="nofollow" id="tr5"><h1>LLM에 Stable Diffusion Moment가 오고 있다</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=8684" class="c99 breakall">- 2022년 8월의 Stable Diffuion(SD) 공개는 중요한 순간이었고, 이로 인해 폭발적인 혁신이 지금까지도 진행되고 있음  
-- 최근에는 ControlNet...</a></div><div class="topicinfo"><span id="tp8684">21</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8684"></span> | <a href="topic?id=8684" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8684"><a class="upvote" href="javascript:vote(8684, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2023/Mar/11/llama/" rel="nofollow" id="tr4"><h1>LLM에 Stable Diffusion Moment가 오고 있다</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=8684" class="c99 breakall">- 2022년 8월의 Stable Diffuion(SD) 공개는 중요한 순간이었고, 이로 인해 폭발적인 혁신이 지금까지도 진행되고 있음  
+- 최근에는 ControlNet...</a></div><div class="topicinfo"><span id="tp8684">22</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8684"></span> | <a href="topic?id=8684" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust에서 "& 중심 개발" 극복하기]]></title>
         <id>https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust</id>
         <link href="https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust"/>
         <updated>2023-03-13T02:37:29.014Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8677"><a class="upvote" href="javascript:vote(8677, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust" rel="nofollow" id="tr6"><h1>Rust에서 "&amp; 중심 개발" 극복하기 </h1></a> <span class="topicurl">(fiberplane.com)</span></div><div class="topicdesc"><a href="topic?id=8677" class="c99 breakall">- Rust 입문자들이 종종 삽입하게 되는 &amp;에 대해 확실히 알기   
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8677"><a class="upvote" href="javascript:vote(8677, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust" rel="nofollow" id="tr5"><h1>Rust에서 "&amp; 중심 개발" 극복하기 </h1></a> <span class="topicurl">(fiberplane.com)</span></div><div class="topicdesc"><a href="topic?id=8677" class="c99 breakall">- Rust 입문자들이 종종 삽입하게 되는 &amp;에 대해 확실히 알기   
 - References (&amp;variable) : 장난감을 빌려주는 것과 같음 "볼 수 있지만, 만질 ...</a></div><div class="topicinfo"><span id="tp8677">23</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8677"></span> | <a href="topic?id=8677" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpaca: GPT-3.5 수준의 강력한 오픈소스 Instruction-Following 모델]]></title>
+        <id>https://crfm.stanford.edu/2023/03/13/alpaca.html</id>
+        <link href="https://crfm.stanford.edu/2023/03/13/alpaca.html"/>
+        <updated>2023-03-14T03:14:55.266Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8692"><a class="upvote" href="javascript:vote(8692, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" rel="nofollow" id="tr6"><h1>Alpaca: GPT-3.5 수준의 강력한 오픈소스 Instruction-Following 모델 </h1></a> <span class="topicurl">(crfm.stanford.edu)</span></div><div class="topicdesc"><a href="topic?id=8692" class="c99 breakall">- 스탠포드 CRFM에서 메타의 LLaMA 7B를 52K Instruction-Following 데이터를 통해서 파인튜닝   
+- OpenAI의 GPT-3.5(text-davinci-003)와 비슷...</a></div><div class="topicinfo"><span id="tp8692">3</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote8692"></span> | <a href="topic?id=8692" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78,.. 구분하기]]></title>
@@ -68,7 +68,7 @@
         <updated>2023-03-14T02:03:06.319Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8687"><a class="upvote" href="javascript:vote(8687, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/" rel="nofollow" id="tr7"><h1>Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78,.. 구분하기</h1></a> <span class="topicurl">(nickdesaulniers.github.io)</span></div><div class="topicdesc"><a href="topic?id=8687" class="c99 breakall">Arm 에코시스템 입문자를 위한 용어 정리   
 - Arm 아키텍처는 심플 어드레싱 모드를 가진 RISC 제품군  
-- Arm Limited는 Arm 아키텍처를 관리...</a></div><div class="topicinfo"><span id="tp8687">3</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote8687"></span> | <a href="topic?id=8687" class="u">댓글과 토론</a></div>]]></content>
+- Arm Limited는 Arm 아키텍처를 관리...</a></div><div class="topicinfo"><span id="tp8687">3</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote8687"></span> | <a href="topic?id=8687" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pgrok - Poor man's ngrok]]></title>
@@ -76,14 +76,22 @@
         <link href="https://github.com/pgrok/pgrok"/>
         <updated>2023-03-14T02:03:06.317Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8691"><a class="upvote" href="javascript:vote(8691, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pgrok/pgrok" rel="nofollow" id="tr8"><h1>pgrok - Poor man's ngrok</h1></a> <span class="topicurl">(github.com/pgrok)</span></div><div class="topicdesc"><a href="topic?id=8691" class="c99 breakall">- 로컬 개발 환경을 인터넷으로 공개해주는 도구 : "멀티-테넌트 HTTP 리버스 터널"  
-- 소규모 팀이 자신의 도메인 이름과 OIDC에 기반한 SSO를 ...</a></div><div class="topicinfo"><span id="tp8691">2</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote8691"></span> | <a href="topic?id=8691" class="u">댓글 3개</a></div>]]></content>
+- 소규모 팀이 자신의 도메인 이름과 OIDC에 기반한 SSO를 ...</a></div><div class="topicinfo"><span id="tp8691">2</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote8691"></span> | <a href="topic?id=8691" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flux Keyboard - HD 디스플레이와 Maglev 스위치의 결합]]></title>
+        <id>https://fluxkeyboard.com/</id>
+        <link href="https://fluxkeyboard.com/"/>
+        <updated>2023-03-14T02:03:06.317Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8688"><a class="upvote" href="javascript:vote(8688, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://fluxkeyboard.com/" rel="nofollow" id="tr9"><h1>Flux Keyboard - HD 디스플레이와 Maglev 스위치의 결합</h1></a> <span class="topicurl">(fluxkeyboard.com)</span></div><div class="topicdesc"><a href="topic?id=8688" class="c99 breakall">- 키보드 바닥이 Full HD IPS 디스플레이로 구성되어 이미지/비디오 표시 및 인터랙티브 가능  
+- 프로파일에 따라서 변경 및 소프트웨어용 단축...</a></div><div class="topicinfo"><span id="tp8688">2</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote8688"></span> | <a href="topic?id=8688" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenChatKit 공개 - ChatGPT를 구현 가능한 오픈소스 프로젝트]]></title>
         <id>https://www.together.xyz/blog/openchatkit</id>
         <link href="https://www.together.xyz/blog/openchatkit"/>
         <updated>2023-03-13T02:37:29.014Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8681"><a class="upvote" href="javascript:vote(8681, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.together.xyz/blog/openchatkit" rel="nofollow" id="tr9"><h1>OpenChatKit 공개 - ChatGPT를 구현 가능한 오픈소스 프로젝트</h1></a> <span class="topicurl">(together.xyz)</span></div><div class="topicdesc"><a href="topic?id=8681" class="c99 breakall">- 소스코드, 모델 가중치 및 학습 데이터셋 전체를 Apache-2.0으로 공개   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8681"><a class="upvote" href="javascript:vote(8681, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.together.xyz/blog/openchatkit" rel="nofollow" id="tr10"><h1>OpenChatKit 공개 - ChatGPT를 구현 가능한 오픈소스 프로젝트</h1></a> <span class="topicurl">(together.xyz)</span></div><div class="topicdesc"><a href="topic?id=8681" class="c99 breakall">- 소스코드, 모델 가중치 및 학습 데이터셋 전체를 Apache-2.0으로 공개   
 - 4개의 주요 컴포넌트   
   - GPT-NEOX-20B를 4300만개의 명령어셋...</a></div><div class="topicinfo"><span id="tp8681">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8681"></span> | <a href="topic?id=8681" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -92,14 +100,14 @@
         <id>https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases</id>
         <link href="https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases"/>
         <updated>2023-03-13T07:13:49.566Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8686"><a class="upvote" href="javascript:vote(8686, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases" rel="nofollow" id="tr10"><h1>이제 ChatGPT가 데이터베이스의 버그를 찾고 있습니다</h1></a> <span class="topicurl">(celerdata.com)</span></div><div class="topicdesc"><a href="topic?id=8686" class="c99 breakall">오픈소스 OLAP 프로젝트인 StarRocks가 ChatGPT와 다른 자동화 테스트 도구들을 비교</a></div><div class="topicinfo"><span id="tp8686">9</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8686"></span> | <a href="topic?id=8686" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8686"><a class="upvote" href="javascript:vote(8686, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases" rel="nofollow" id="tr11"><h1>이제 ChatGPT가 데이터베이스의 버그를 찾고 있습니다</h1></a> <span class="topicurl">(celerdata.com)</span></div><div class="topicdesc"><a href="topic?id=8686" class="c99 breakall">오픈소스 OLAP 프로젝트인 StarRocks가 ChatGPT와 다른 자동화 테스트 도구들을 비교</a></div><div class="topicinfo"><span id="tp8686">9</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8686"></span> | <a href="topic?id=8686" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[llama.cpp - 페이스북의 LLaMA 모델을 순수 C/C++로 추론하기]]></title>
         <id>https://github.com/ggerganov/llama.cpp</id>
         <link href="https://github.com/ggerganov/llama.cpp"/>
         <updated>2023-03-13T02:37:29.014Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8682"><a class="upvote" href="javascript:vote(8682, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ggerganov/llama.cpp" rel="nofollow" id="tr11"><h1>llama.cpp - 페이스북의 LLaMA 모델을 순수 C/C++로 추론하기</h1></a> <span class="topicurl">(github.com/ggerganov)</span></div><div class="topicdesc"><a href="topic?id=8682" class="c99 breakall">- 맥북에서 LLaMA 모델을 4-bit 양자화하여 실행하는 것을 목표   
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8682"><a class="upvote" href="javascript:vote(8682, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ggerganov/llama.cpp" rel="nofollow" id="tr12"><h1>llama.cpp - 페이스북의 LLaMA 모델을 순수 C/C++로 추론하기</h1></a> <span class="topicurl">(github.com/ggerganov)</span></div><div class="topicdesc"><a href="topic?id=8682" class="c99 breakall">- 맥북에서 LLaMA 모델을 4-bit 양자화하여 실행하는 것을 목표   
 - 의존성 없는 순수 C/C++ 구현   
 - Arm Neon/Accelerate 프레임워크에 최적...</a></div><div class="topicinfo"><span id="tp8682">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8682"></span> | <a href="topic?id=8682" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -108,7 +116,7 @@
         <id>https://mlc.ai/web-stable-diffusion/</id>
         <link href="https://mlc.ai/web-stable-diffusion/"/>
         <updated>2023-03-13T01:05:12.335Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8675"><a class="upvote" href="javascript:vote(8675, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mlc.ai/web-stable-diffusion/" rel="nofollow" id="tr12"><h1>Web Stable Diffusion - 웹 브라우저에서 SD 실행하기</h1></a> <span class="topicurl">(mlc.ai)</span></div><div class="topicdesc"><a href="topic?id=8675" class="c99 breakall">- 서버없이 브라우저 만으로 WebGPU를 이용해 Stable Diffusion을 실행   
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8675"><a class="upvote" href="javascript:vote(8675, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mlc.ai/web-stable-diffusion/" rel="nofollow" id="tr13"><h1>Web Stable Diffusion - 웹 브라우저에서 SD 실행하기</h1></a> <span class="topicurl">(mlc.ai)</span></div><div class="topicdesc"><a href="topic?id=8675" class="c99 breakall">- 서버없이 브라우저 만으로 WebGPU를 이용해 Stable Diffusion을 실행   
 - 현재는 애플실리콘 맥에서만 크롬 카나리 버전으로 실행 가능   
 - ...</a></div><div class="topicinfo"><span id="tp8675">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8675"></span> | <a href="topic?id=8675" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -117,15 +125,7 @@
         <id>https://hiddenest.dev/yarn-pnpm-3</id>
         <link href="https://hiddenest.dev/yarn-pnpm-3"/>
         <updated>2023-03-13T02:37:29.014Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8683"><a class="upvote" href="javascript:vote(8683, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hiddenest.dev/yarn-pnpm-3" rel="nofollow" id="tr13"><h1>Yarn 대신 pnpm으로 넘어간 3가지 이유</h1></a> <span class="topicurl">(hiddenest.dev)</span></div><div class="topicdesc"><a href="topic?id=8683" class="c99 breakall">[Airbridge](https://airbridge.io)의 프론트엔드에서 사용하는 패키지 매니저를 Yarn Berry에서 pnpm으로 옮긴 후 1년 동안 사용하며 느낀 점들을...</a></div><div class="topicinfo"><span id="tp8683">6</span> points by <a href="/user?id=hiddenest">hiddenest</a> 1일전<span id="unvote8683"></span> | <a href="topic?id=8683" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flux Keyboard - HD 디스플레이와 Maglev 스위치의 결합]]></title>
-        <id>https://fluxkeyboard.com/</id>
-        <link href="https://fluxkeyboard.com/"/>
-        <updated>2023-03-14T02:03:06.317Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8688"><a class="upvote" href="javascript:vote(8688, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://fluxkeyboard.com/" rel="nofollow" id="tr14"><h1>Flux Keyboard - HD 디스플레이와 Maglev 스위치의 결합</h1></a> <span class="topicurl">(fluxkeyboard.com)</span></div><div class="topicdesc"><a href="topic?id=8688" class="c99 breakall">- 키보드 바닥이 Full HD IPS 디스플레이로 구성되어 이미지/비디오 표시 및 인터랙티브 가능  
-- 프로파일에 따라서 변경 및 소프트웨어용 단축...</a></div><div class="topicinfo"><span id="tp8688">1</span> point by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote8688"></span> | <a href="topic?id=8688" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8683"><a class="upvote" href="javascript:vote(8683, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hiddenest.dev/yarn-pnpm-3" rel="nofollow" id="tr14"><h1>Yarn 대신 pnpm으로 넘어간 3가지 이유</h1></a> <span class="topicurl">(hiddenest.dev)</span></div><div class="topicdesc"><a href="topic?id=8683" class="c99 breakall">[Airbridge](https://airbridge.io)의 프론트엔드에서 사용하는 패키지 매니저를 Yarn Berry에서 pnpm으로 옮긴 후 1년 동안 사용하며 느낀 점들을...</a></div><div class="topicinfo"><span id="tp8683">6</span> points by <a href="/user?id=hiddenest">hiddenest</a> 1일전<span id="unvote8683"></span> | <a href="topic?id=8683" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사회적 가치 도입을 위한 제안 : 언어 모델로 일관성 있게 추론 가능한 의지를 구축하기 [번역]]]></title>
