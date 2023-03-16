@@ -2,74 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-03-16T01:07:39.909Z</updated>
+    <updated>2023-03-16T02:38:36.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 Bing은 OpenAI의 GPT-4 기반으로 동작합니다]]></title>
+        <id>https://news.hada.io/topic?id=8712</id>
+        <link href="https://news.hada.io/topic?id=8712"/>
+        <updated>2023-03-16T02:37:57.059Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8712"><a class="upvote" href="javascript:vote(8712, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4" rel="nofollow" id="tr1"><h1>새로운 Bing은 OpenAI의 GPT-4 기반으로 동작합니다</h1></a> <span class="topicurl">(blogs.bing.com)</span></div><div class="topicdesc"><a href="topic?id=8712" class="c99 breakall">- OpenAI의 GPT-4 발표를 축하하며, 새 Bing 역시 GPT-4 기반으로 동작중  
+- 지난 5주간 Bing 프리뷰를 사용해봤다면, 이 모델의 초기버전을 이...</a></div><div class="topicinfo"><span id="tp8712">1</span> point by <a href="/user?id=xguru">xguru</a> 11분전<span id="unvote8712"></span> | <a href="topic?id=8712" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈을 전혀 벌지 못하는 사이드 프로젝트를 소개해주세요]]></title>
+        <id>https://news.hada.io/topic?id=8711</id>
+        <link href="https://news.hada.io/topic?id=8711"/>
+        <updated>2023-03-16T02:37:57.060Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8711"><a class="upvote" href="javascript:vote(8711, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=34547265" rel="nofollow" id="tr2"><h1>돈을 전혀 벌지 못하는 사이드 프로젝트를 소개해주세요</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8711" class="c99 breakall">취미 또는 재미로 운영중인 서비스를 소개해 달라는 HN의 질문  
+- [SteamDB](https://steamdb.info/) : 스팀 게임 DB. 10+년째 운영중. 클라우드...</a></div><div class="topicinfo"><span id="tp8711">3</span> points by <a href="/user?id=xguru">xguru</a> 33분전<span id="unvote8711"></span> | <a href="topic?id=8711" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tsai - 시계열 및 시퀀스를 위한 오픈소스 딥러닝 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=8710</id>
+        <link href="https://news.hada.io/topic?id=8710"/>
+        <updated>2023-03-16T02:37:57.062Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8710"><a class="upvote" href="javascript:vote(8710, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/timeseriesAI/tsai" rel="nofollow" id="tr3"><h1>tsai - 시계열 및 시퀀스를 위한 오픈소스 딥러닝 라이브러리</h1></a> <span class="topicurl">(github.com/timeseriesAI)</span></div><div class="topicdesc"><a href="topic?id=8710" class="c99 breakall">- Pytorch 와 fastai 기반   
+- classification, regression, forecasting, imputation 같은 시계열 작업에 중점   
+- 사용 가능한 State-of-the...</a></div><div class="topicinfo"><span id="tp8710">1</span> point by <a href="/user?id=xguru">xguru</a> 53분전<span id="unvote8710"></span> | <a href="topic?id=8710" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MagicPrompt-Stable-Diffusion - SD용 프롬프트 생성기]]></title>
+        <id>https://news.hada.io/topic?id=8709</id>
+        <link href="https://news.hada.io/topic?id=8709"/>
+        <updated>2023-03-16T02:37:57.063Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8709"><a class="upvote" href="javascript:vote(8709, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion" rel="nofollow" id="tr4"><h1>MagicPrompt-Stable-Diffusion - SD용 프롬프트 생성기 </h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=8709" class="c99 breakall">- 이미지 생성 AI용 프롬프트를 만들어주는 GPT-2 모델  
+- 자신이 원하는 그림의 프롬프트를 입력하면, 더 좋은 품질의 이미지를 생성해내는 SD...</a></div><div class="topicinfo"><span id="tp8709">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8709"></span> | <a href="topic?id=8709" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이폰의 LiDAR센서로 항공 이미지 생성하기]]></title>
+        <id>https://news.hada.io/topic?id=8708</id>
+        <link href="https://news.hada.io/topic?id=8708"/>
+        <updated>2023-03-16T02:37:57.065Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8708"><a class="upvote" href="javascript:vote(8708, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jakecoppinger.com/2023/03/generating-aerial-imagery-with-your-iphones-lidar-sensor/" rel="nofollow" id="tr5"><h1>아이폰의 LiDAR센서로 항공 이미지 생성하기</h1></a> <span class="topicurl">(jakecoppinger.com)</span></div><div class="topicdesc"><a href="topic?id=8708" class="c99 breakall">- 아이폰을 들고 거리를 걸으면서 촬영한 이미지를 이용하여, 거리의 항공 이미지와 3D 모델을 생성하기   
+- 보통 드론으로 찍은 다음 WebODM(Op...</a></div><div class="topicinfo"><span id="tp8708">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8708"></span> | <a href="topic?id=8708" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyTorch 2.0 릴리즈]]></title>
         <id>https://news.hada.io/topic?id=8707</id>
         <link href="https://news.hada.io/topic?id=8707"/>
         <updated>2023-03-16T01:07:04.008Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8707"><a class="upvote" href="javascript:vote(8707, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pytorch.org/blog/pytorch-2.0-release/" rel="nofollow" id="tr1"><h1>PyTorch 2.0 릴리즈</h1></a> <span class="topicurl">(pytorch.org)</span></div><div class="topicdesc"><a href="topic?id=8707" class="c99 breakall">- 빠르고, 더 파이썬답고, 다이나믹한 차세대 릴리즈   
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8707"><a class="upvote" href="javascript:vote(8707, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pytorch.org/blog/pytorch-2.0-release/" rel="nofollow" id="tr6"><h1>PyTorch 2.0 릴리즈</h1></a> <span class="topicurl">(pytorch.org)</span></div><div class="topicdesc"><a href="topic?id=8707" class="c99 breakall">- 빠르고, 더 파이썬답고, 다이나믹한 차세대 릴리즈   
 - [Stable] Accelerated Transformers 포함   
-- [Beta] torch.compile, MPS 백엔드, Sc...</a></div><div class="topicinfo"><span id="tp8707">1</span> point by <a href="/user?id=xguru">xguru</a> 4분전<span id="unvote8707"></span> | <a href="topic?id=8707" class="u">댓글과 토론</a></div>]]></content>
+- [Beta] torch.compile, MPS 백엔드, Sc...</a></div><div class="topicinfo"><span id="tp8707">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8707"></span> | <a href="topic?id=8707" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docker가 무료 org 지원을 중단함에 따라 알아야 할 것들]]></title>
         <id>https://news.hada.io/topic?id=8706</id>
         <link href="https://news.hada.io/topic?id=8706"/>
         <updated>2023-03-15T18:17:18.958Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8706"><a class="upvote" href="javascript:vote(8706, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.alexellis.io/docker-is-deleting-open-source-images/" rel="nofollow" id="tr2"><h1>Docker가 무료 org 지원을 중단함에 따라 알아야 할 것들</h1></a> <span class="topicurl">(blog.alexellis.io)</span></div><div class="topicdesc"><a href="topic?id=8706" class="c99 breakall">- 며칠 전 갑작스럽게 Docker에서 메일 보낸 것처럼, 한달 뒤부터 팀 Org를 무료로 쓰는게 불가능 해짐.  
-- 연간 420달러짜리 유료 계정으로 바...</a></div><div class="topicinfo"><span id="tp8706">5</span> points by <a href="/user?id=laeyoung">laeyoung</a> 7시간전<span id="unvote8706"></span> | <a href="topic?id=8706" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8706"><a class="upvote" href="javascript:vote(8706, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.alexellis.io/docker-is-deleting-open-source-images/" rel="nofollow" id="tr7"><h1>Docker가 무료 org 지원을 중단함에 따라 알아야 할 것들</h1></a> <span class="topicurl">(blog.alexellis.io)</span></div><div class="topicdesc"><a href="topic?id=8706" class="c99 breakall">- 며칠 전 갑작스럽게 Docker에서 메일 보낸 것처럼, 한달 뒤부터 팀 Org를 무료로 쓰는게 불가능 해짐.  
+- 연간 420달러짜리 유료 계정으로 바...</a></div><div class="topicinfo"><span id="tp8706">6</span> points by <a href="/user?id=laeyoung">laeyoung</a> 9시간전<span id="unvote8706"></span> | <a href="topic?id=8706" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alpaca와 온디바이스 LLM개발의 가속화]]></title>
         <id>https://news.hada.io/topic?id=8705</id>
         <link href="https://news.hada.io/topic?id=8705"/>
         <updated>2023-03-15T02:36:23.301Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8705"><a class="upvote" href="javascript:vote(8705, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2023/Mar/13/alpaca/" rel="nofollow" id="tr3"><h1>Alpaca와 온디바이스 LLM개발의 가속화</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=8705" class="c99 breakall">- "[SD Moment가 온다](https://news.hada.io/topic?id=8684)" 글 이후 3일간의 변화들   
-  - [llama.cpp](https://news.hada.io/topic?id=8682)...</a></div><div class="topicinfo"><span id="tp8705">2</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8705"></span> | <a href="topic?id=8705" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8705"><a class="upvote" href="javascript:vote(8705, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2023/Mar/13/alpaca/" rel="nofollow" id="tr8"><h1>Alpaca와 온디바이스 LLM개발의 가속화</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=8705" class="c99 breakall">- "[SD Moment가 온다](https://news.hada.io/topic?id=8684)" 글 이후 3일간의 변화들   
+  - [llama.cpp](https://news.hada.io/topic?id=8682)...</a></div><div class="topicinfo"><span id="tp8705">2</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8705"></span> | <a href="topic?id=8705" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Duolingo가 사용자 성장률을 다시 끌어올린 방법]]></title>
         <id>https://news.hada.io/topic?id=8704</id>
         <link href="https://news.hada.io/topic?id=8704"/>
         <updated>2023-03-15T02:36:23.303Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8704"><a class="upvote" href="javascript:vote(8704, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth" rel="nofollow" id="tr4"><h1>Duolingo가 사용자 성장률을 다시 끌어올린 방법</h1></a> <span class="topicurl">(lennysnewsletter.com)</span></div><div class="topicdesc"><a href="topic?id=8704" class="c99 breakall">- 1단계: Gamification 강화(카운터 기능을 도입했지만 실패)  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8704"><a class="upvote" href="javascript:vote(8704, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth" rel="nofollow" id="tr9"><h1>Duolingo가 사용자 성장률을 다시 끌어올린 방법</h1></a> <span class="topicurl">(lennysnewsletter.com)</span></div><div class="topicdesc"><a href="topic?id=8704" class="c99 breakall">- 1단계: Gamification 강화(카운터 기능을 도입했지만 실패)  
 - 2단계: Referral 기능 도입(Uber를 따라했지만, 3% 증가에 그침)  
-- 2번의 실...</a></div><div class="topicinfo"><span id="tp8704">18</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8704"></span> | <a href="topic?id=8704" class="u">댓글 1개</a></div>]]></content>
+- 2번의 실...</a></div><div class="topicinfo"><span id="tp8704">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8704"></span> | <a href="topic?id=8704" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Highlight - 세션 리플레이 가능한 모니터링 플랫폼 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=8703</id>
         <link href="https://news.hada.io/topic?id=8703"/>
         <updated>2023-03-15T02:36:23.305Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8703"><a class="upvote" href="javascript:vote(8703, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/highlight/highlight" rel="nofollow" id="tr5"><h1>Highlight - 세션 리플레이 가능한 모니터링 플랫폼 오픈소스 </h1></a> <span class="topicurl">(github.com/highlight)</span></div><div class="topicdesc"><a href="topic?id=8703" class="c99 breakall">- 사용자들에게 발생하는 에러를 이해하고 재현할 수 있도록 세션 리플레이, 에러 모니터링, 로깅을 제공   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8703"><a class="upvote" href="javascript:vote(8703, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/highlight/highlight" rel="nofollow" id="tr10"><h1>Highlight - 세션 리플레이 가능한 모니터링 플랫폼 오픈소스 </h1></a> <span class="topicurl">(github.com/highlight)</span></div><div class="topicdesc"><a href="topic?id=8703" class="c99 breakall">- 사용자들에게 발생하는 에러를 이해하고 재현할 수 있도록 세션 리플레이, 에러 모니터링, 로깅을 제공   
 - Go &amp; TypeScript 오픈소스   
-- ...</a></div><div class="topicinfo"><span id="tp8703">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8703"></span> | <a href="topic?id=8703" class="u">댓글과 토론</a></div>]]></content>
+- ...</a></div><div class="topicinfo"><span id="tp8703">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8703"></span> | <a href="topic?id=8703" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Secretive - SSH 키를 맥의 Secure Enclave에 저장하는 앱]]></title>
         <id>https://news.hada.io/topic?id=8702</id>
         <link href="https://news.hada.io/topic?id=8702"/>
         <updated>2023-03-15T02:36:23.306Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8702"><a class="upvote" href="javascript:vote(8702, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maxgoedjen/secretive" rel="nofollow" id="tr6"><h1>Secretive - SSH 키를 맥의 Secure Enclave에 저장하는 앱 </h1></a> <span class="topicurl">(github.com/maxgoedjen)</span></div><div class="topicdesc"><a href="topic?id=8702" class="c99 breakall">- SSH 키를 Secure Enclave(SE)에 저장해서 터치ID 또는 애플워치 인증으로 사용가능하게 설정   
-- 하드에서 SSH 키를 복사해 가는게 불가능하며...</a></div><div class="topicinfo"><span id="tp8702">7</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8702"></span> | <a href="topic?id=8702" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8702"><a class="upvote" href="javascript:vote(8702, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maxgoedjen/secretive" rel="nofollow" id="tr11"><h1>Secretive - SSH 키를 맥의 Secure Enclave에 저장하는 앱 </h1></a> <span class="topicurl">(github.com/maxgoedjen)</span></div><div class="topicdesc"><a href="topic?id=8702" class="c99 breakall">- SSH 키를 Secure Enclave(SE)에 저장해서 터치ID 또는 애플워치 인증으로 사용가능하게 설정   
+- 하드에서 SSH 키를 복사해 가는게 불가능하며...</a></div><div class="topicinfo"><span id="tp8702">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8702"></span> | <a href="topic?id=8702" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인스타그램, NFT 관련 기능을 플랫폼 전체에서 비활성화]]></title>
         <id>https://news.hada.io/topic?id=8701</id>
         <link href="https://news.hada.io/topic?id=8701"/>
         <updated>2023-03-15T02:36:23.307Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8701"><a class="upvote" href="javascript:vote(8701, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/" rel="nofollow" id="tr7"><h1>인스타그램, NFT 관련 기능을 플랫폼 전체에서 비활성화</h1></a> <span class="topicurl">(nftnow.com)</span></div><div class="topicdesc"><a href="topic?id=8701" class="c99 breakall">- 사용자가 생성/수집한 NFT를 보여주는 기능을 2022년 5월에 테스트 시작해서 8월에 전세계 100여국에서 사용가능하게 배포했음   
-- 11월에는 ...</a></div><div class="topicinfo"><span id="tp8701">2</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8701"></span> | <a href="topic?id=8701" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8701"><a class="upvote" href="javascript:vote(8701, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/" rel="nofollow" id="tr12"><h1>인스타그램, NFT 관련 기능을 플랫폼 전체에서 비활성화</h1></a> <span class="topicurl">(nftnow.com)</span></div><div class="topicdesc"><a href="topic?id=8701" class="c99 breakall">- 사용자가 생성/수집한 NFT를 보여주는 기능을 2022년 5월에 테스트 시작해서 8월에 전세계 100여국에서 사용가능하게 배포했음   
+- 11월에는 ...</a></div><div class="topicinfo"><span id="tp8701">2</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8701"></span> | <a href="topic?id=8701" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, AI 조직 내의 "윤리 및 사회" 팀 전체를 해고]]></title>
         <id>https://news.hada.io/topic?id=8700</id>
         <link href="https://news.hada.io/topic?id=8700"/>
         <updated>2023-03-15T01:05:10.146Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8700"><a class="upvote" href="javascript:vote(8700, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.platformer.news/p/microsoft-just-laid-off-one-of-its" rel="nofollow" id="tr8"><h1>Microsoft, AI 조직 내의 "윤리 및 사회" 팀 전체를 해고</h1></a> <span class="topicurl">(platformer.news)</span></div><div class="topicdesc"><a href="topic?id=8700" class="c99 breakall">- AI 제품 출시에 박차를 가하면서 Ethics &amp; Society 팀은 정리해고   
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8700"><a class="upvote" href="javascript:vote(8700, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.platformer.news/p/microsoft-just-laid-off-one-of-its" rel="nofollow" id="tr13"><h1>Microsoft, AI 조직 내의 "윤리 및 사회" 팀 전체를 해고</h1></a> <span class="topicurl">(platformer.news)</span></div><div class="topicdesc"><a href="topic?id=8700" class="c99 breakall">- AI 제품 출시에 박차를 가하면서 Ethics &amp; Society 팀은 정리해고   
 - 회사측에선 아직 Responsible AI 팀은 운영중이며, 이에 대한 투자는 더...</a></div><div class="topicinfo"><span id="tp8700">2</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8700"></span> | <a href="topic?id=8700" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -77,28 +118,28 @@
         <id>https://news.hada.io/topic?id=8699</id>
         <link href="https://news.hada.io/topic?id=8699"/>
         <updated>2023-03-15T01:05:10.146Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8699"><a class="upvote" href="javascript:vote(8699, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.ycombinator.com/blog/changes-at-yc/" rel="nofollow" id="tr9"><h1>Y Combinator, 후기 단계 투자 하지 않기로</h1></a> <span class="topicurl">(ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8699" class="c99 breakall">앞으로 초기단계 투자에만 집중하며, 후기단계 투자팀 17명이 영향받음(정리해고)</a></div><div class="topicinfo"><span id="tp8699">4</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8699"></span> | <a href="topic?id=8699" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8699"><a class="upvote" href="javascript:vote(8699, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.ycombinator.com/blog/changes-at-yc/" rel="nofollow" id="tr14"><h1>Y Combinator, 후기 단계 투자 하지 않기로</h1></a> <span class="topicurl">(ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8699" class="c99 breakall">앞으로 초기단계 투자에만 집중하며, 후기단계 투자팀 17명이 영향받음(정리해고)</a></div><div class="topicinfo"><span id="tp8699">4</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8699"></span> | <a href="topic?id=8699" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta, 1만명 추가 정리해고 예정]]></title>
         <id>https://news.hada.io/topic?id=8698</id>
         <link href="https://news.hada.io/topic?id=8698"/>
         <updated>2023-03-15T01:05:10.149Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8698"><a class="upvote" href="javascript:vote(8698, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/" rel="nofollow" id="tr10"><h1>Meta, 1만명 추가 정리해고 예정</h1></a> <span class="topicurl">(about.fb.com)</span></div><div class="topicdesc"><a href="topic?id=8698" class="c99 breakall">조직 효율성 개선 목적. 1만명을 줄이고, 채용 예정인 5천개 포지션도 닫음</a></div><div class="topicinfo"><span id="tp8698">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8698"></span> | <a href="topic?id=8698" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8698"><a class="upvote" href="javascript:vote(8698, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/" rel="nofollow" id="tr15"><h1>Meta, 1만명 추가 정리해고 예정</h1></a> <span class="topicurl">(about.fb.com)</span></div><div class="topicdesc"><a href="topic?id=8698" class="c99 breakall">조직 효율성 개선 목적. 1만명을 줄이고, 채용 예정인 5천개 포지션도 닫음</a></div><div class="topicinfo"><span id="tp8698">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8698"></span> | <a href="topic?id=8698" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능]]></title>
         <id>https://news.hada.io/topic?id=8697</id>
         <link href="https://news.hada.io/topic?id=8697"/>
         <updated>2023-03-14T21:12:24.510Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8697"><a class="upvote" href="javascript:vote(8697, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/research/gpt-4" rel="nofollow" id="tr11"><h1>OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=8697" class="c99 breakall">- OpenAI가 밝히길, GPT-4는 GPT-3.5와 일상적인 대화에서 차이가 미묘할 수 있지만. 작업이 복잡할 수록 GPT-4가 더 안정적이며, 창의적이며, 미...</a></div><div class="topicinfo"><span id="tp8697">17</span> points by <a href="/user?id=ffdd270">ffdd270</a> 1일전<span id="unvote8697"></span> | <a href="topic?id=8697" class="u">댓글 8개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8697"><a class="upvote" href="javascript:vote(8697, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/research/gpt-4" rel="nofollow" id="tr16"><h1>OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=8697" class="c99 breakall">- OpenAI가 밝히길, GPT-4는 GPT-3.5와 일상적인 대화에서 차이가 미묘할 수 있지만. 작업이 복잡할 수록 GPT-4가 더 안정적이며, 창의적이며, 미...</a></div><div class="topicinfo"><span id="tp8697">17</span> points by <a href="/user?id=ffdd270">ffdd270</a> 1일전<span id="unvote8697"></span> | <a href="topic?id=8697" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 PaLM API와 메이커 스위트 발표]]></title>
         <id>https://news.hada.io/topic?id=8696</id>
         <link href="https://news.hada.io/topic?id=8696"/>
         <updated>2023-03-14T19:13:41.873Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8696"><a class="upvote" href="javascript:vote(8696, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/ai/ai-developers-google-cloud-workspace/" rel="nofollow" id="tr12"><h1>구글 PaLM API와 메이커 스위트 발표</h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=8696" class="c99 breakall"> - 최고의 언어 모델을 쉽고 안전하게 사용하기 위해 PaLM API를 배포함  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8696"><a class="upvote" href="javascript:vote(8696, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/ai/ai-developers-google-cloud-workspace/" rel="nofollow" id="tr17"><h1>구글 PaLM API와 메이커 스위트 발표</h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=8696" class="c99 breakall"> - 최고의 언어 모델을 쉽고 안전하게 사용하기 위해 PaLM API를 배포함  
  - MakerSuite라는 직관적인 도구를 같이 제공.  
    - 프로토타이핑...</a></div><div class="topicinfo"><span id="tp8696">8</span> points by <a href="/user?id=dalinaum">dalinaum</a> 1일전<span id="unvote8696"></span> | <a href="topic?id=8696" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -107,7 +148,7 @@
         <id>https://news.hada.io/topic?id=8694</id>
         <link href="https://news.hada.io/topic?id=8694"/>
         <updated>2023-03-14T12:32:38.987Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8694"><a class="upvote" href="javascript:vote(8694, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://android-developers.googleblog.com/2023/03/kakaonavi-increased-foldable-adoption-after-optimizing-app-for-large-screens.html" rel="nofollow" id="tr13"><h1>카카오네비가 폴더블을 지원하며 폴더블 디바이스 월 사용자 24.5% 증가</h1></a> <span class="topicurl">(android-developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=8694" class="c99 breakall">## 다양한 유저 패턴을 발견  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8694"><a class="upvote" href="javascript:vote(8694, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://android-developers.googleblog.com/2023/03/kakaonavi-increased-foldable-adoption-after-optimizing-app-for-large-screens.html" rel="nofollow" id="tr18"><h1>카카오네비가 폴더블을 지원하며 폴더블 디바이스 월 사용자 24.5% 증가</h1></a> <span class="topicurl">(android-developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=8694" class="c99 breakall">## 다양한 유저 패턴을 발견  
   
  * 폴더블 디바이스를 사용하는 사용자들이 다양한 형태로 사용하는 것을 발견.  
  * 접는 사용자도 있고 펼...</a></div><div class="topicinfo"><span id="tp8694">6</span> points by <a href="/user?id=dalinaum">dalinaum</a> 2일전<span id="unvote8694"></span> | <a href="topic?id=8694" class="u">댓글과 토론</a></div>]]></content>
@@ -117,64 +158,18 @@
         <id>https://news.hada.io/topic?id=8693</id>
         <link href="https://news.hada.io/topic?id=8693"/>
         <updated>2023-03-14T03:15:01.954Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8693"><a class="upvote" href="javascript:vote(8693, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cocktailpeanut.github.io/dalai/#/" rel="nofollow" id="tr14"><h1>Dalai - LLaMA를 당신의 컴퓨터에서 가장 간단히 실행하는 방법</h1></a> <span class="topicurl">(cocktailpeanut.github.io)</span></div><div class="topicdesc"><a href="topic?id=8693" class="c99 breakall">- 2 문장 만으로 LLaMA 7B 모델을 로컬에서 실행 가능   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8693"><a class="upvote" href="javascript:vote(8693, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cocktailpeanut.github.io/dalai/#/" rel="nofollow" id="tr19"><h1>Dalai - LLaMA를 당신의 컴퓨터에서 가장 간단히 실행하는 방법</h1></a> <span class="topicurl">(cocktailpeanut.github.io)</span></div><div class="topicdesc"><a href="topic?id=8693" class="c99 breakall">- 2 문장 만으로 LLaMA 7B 모델을 로컬에서 실행 가능   
   `npx dalai llama`  
   `npx dalai serve`  
 - llama.cpp + llama-dl CDN   
-- 해...</a></div><div class="topicinfo"><span id="tp8693">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8693"></span> | <a href="topic?id=8693" class="u">댓글 2개</a></div>]]></content>
+- 해...</a></div><div class="topicinfo"><span id="tp8693">14</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8693"></span> | <a href="topic?id=8693" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alpaca: GPT-3.5 수준의 강력한 오픈소스 Instruction-Following 모델]]></title>
         <id>https://news.hada.io/topic?id=8692</id>
         <link href="https://news.hada.io/topic?id=8692"/>
         <updated>2023-03-14T03:15:01.958Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8692"><a class="upvote" href="javascript:vote(8692, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" rel="nofollow" id="tr15"><h1>Alpaca: GPT-3.5 수준의 강력한 오픈소스 Instruction-Following 모델 </h1></a> <span class="topicurl">(crfm.stanford.edu)</span></div><div class="topicdesc"><a href="topic?id=8692" class="c99 breakall">- 스탠포드 CRFM에서 메타의 LLaMA 7B를 52K Instruction-Following 데이터를 통해서 파인튜닝   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote8692"><a class="upvote" href="javascript:vote(8692, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" rel="nofollow" id="tr20"><h1>Alpaca: GPT-3.5 수준의 강력한 오픈소스 Instruction-Following 모델 </h1></a> <span class="topicurl">(crfm.stanford.edu)</span></div><div class="topicdesc"><a href="topic?id=8692" class="c99 breakall">- 스탠포드 CRFM에서 메타의 LLaMA 7B를 52K Instruction-Following 데이터를 통해서 파인튜닝   
 - OpenAI의 GPT-3.5(text-davinci-003)와 비슷...</a></div><div class="topicinfo"><span id="tp8692">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8692"></span> | <a href="topic?id=8692" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pgrok - Poor man's ngrok]]></title>
-        <id>https://news.hada.io/topic?id=8691</id>
-        <link href="https://news.hada.io/topic?id=8691"/>
-        <updated>2023-03-14T02:03:11.175Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8691"><a class="upvote" href="javascript:vote(8691, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pgrok/pgrok" rel="nofollow" id="tr16"><h1>pgrok - Poor man's ngrok</h1></a> <span class="topicurl">(github.com/pgrok)</span></div><div class="topicdesc"><a href="topic?id=8691" class="c99 breakall">- 로컬 개발 환경을 인터넷으로 공개해주는 도구 : "멀티-테넌트 HTTP 리버스 터널"  
-- 소규모 팀이 자신의 도메인 이름과 OIDC에 기반한 SSO를 ...</a></div><div class="topicinfo"><span id="tp8691">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8691"></span> | <a href="topic?id=8691" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protomaps - Serverless 지도를 오픈소스로 공개]]></title>
-        <id>https://news.hada.io/topic?id=8690</id>
-        <link href="https://news.hada.io/topic?id=8690"/>
-        <updated>2023-03-14T02:03:11.177Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8690"><a class="upvote" href="javascript:vote(8690, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://protomaps.com/blog/serverless-maps-now-open-source" rel="nofollow" id="tr17"><h1>Protomaps - Serverless 지도를 오픈소스로 공개</h1></a> <span class="topicurl">(protomaps.com)</span></div><div class="topicdesc"><a href="topic?id=8690" class="c99 breakall">- PMTiles 라는 아카이브 파일로 전세계 지도를 서버리스로 운용가능  
-- 포맷만 공개했었는데, 서버리스용 코드 부분도 오픈소스로 공개   
-- A...</a></div><div class="topicinfo"><span id="tp8690">21</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8690"></span> | <a href="topic?id=8690" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Media Query 완벽 가이드]]></title>
-        <id>https://news.hada.io/topic?id=8689</id>
-        <link href="https://news.hada.io/topic?id=8689"/>
-        <updated>2023-03-14T02:03:11.178Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8689"><a class="upvote" href="javascript:vote(8689, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://polypane.app/blog/the-complete-guide-to-css-media-queries/" rel="nofollow" id="tr18"><h1>CSS Media Query 완벽 가이드</h1></a> <span class="topicurl">(polypane.app)</span></div><div class="topicdesc"><a href="topic?id=8689" class="c99 breakall">- 미디어 쿼리란 무엇인가요?  
-- 미디어 쿼리의 구조  
-- 미디어 타입  
-- 미디어 쿼리 사용  
-- 미디어 쿼리 기능들 사용하기  
-- 출시 예...</a></div><div class="topicinfo"><span id="tp8689">18</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8689"></span> | <a href="topic?id=8689" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flux Keyboard - HD 디스플레이와 Maglev 스위치의 결합]]></title>
-        <id>https://news.hada.io/topic?id=8688</id>
-        <link href="https://news.hada.io/topic?id=8688"/>
-        <updated>2023-03-14T02:03:11.179Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8688"><a class="upvote" href="javascript:vote(8688, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://fluxkeyboard.com/" rel="nofollow" id="tr19"><h1>Flux Keyboard - HD 디스플레이와 Maglev 스위치의 결합</h1></a> <span class="topicurl">(fluxkeyboard.com)</span></div><div class="topicdesc"><a href="topic?id=8688" class="c99 breakall">- 키보드 바닥이 Full HD IPS 디스플레이로 구성되어 이미지/비디오 표시 및 인터랙티브 가능  
-- 프로파일에 따라서 변경 및 소프트웨어용 단축...</a></div><div class="topicinfo"><span id="tp8688">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8688"></span> | <a href="topic?id=8688" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78,.. 구분하기]]></title>
-        <id>https://news.hada.io/topic?id=8687</id>
-        <link href="https://news.hada.io/topic?id=8687"/>
-        <updated>2023-03-14T02:03:11.181Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote8687"><a class="upvote" href="javascript:vote(8687, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/" rel="nofollow" id="tr20"><h1>Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78,.. 구분하기</h1></a> <span class="topicurl">(nickdesaulniers.github.io)</span></div><div class="topicdesc"><a href="topic?id=8687" class="c99 breakall">Arm 에코시스템 입문자를 위한 용어 정리   
-- Arm 아키텍처는 심플 어드레싱 모드를 가진 RISC 제품군  
-- Arm Limited는 Arm 아키텍처를 관리...</a></div><div class="topicinfo"><span id="tp8687">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8687"></span> | <a href="topic?id=8687" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
