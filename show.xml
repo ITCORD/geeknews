@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-03-24T02:11:53.954Z</updated>
+    <updated>2023-03-24T03:13:59.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 일간 ProductHunt]]></title>
+        <id>https://news.hada.io/topic?id=8794</id>
+        <link href="https://news.hada.io/topic?id=8794"/>
+        <updated>2023-03-24T03:13:35.857Z</updated>
+        <content type="html"><![CDATA[kidow]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 페이어블 - 내 주변 애플페이 가맹점 지도]]></title>
         <id>https://news.hada.io/topic?id=8758</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=7840"/>
         <updated>2023-01-14T02:52:47.428Z</updated>
         <content type="html"><![CDATA[wooiljeong]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 네이버 카페 중고나라에서 프로 셀러들의 글 제거하는 익스텐션]]></title>
-        <id>https://news.hada.io/topic?id=8268</id>
-        <link href="https://news.hada.io/topic?id=8268"/>
-        <updated>2023-03-22T15:14:35.228Z</updated>
-        <content type="html"><![CDATA[roeniss]]></content>
     </entry>
 </feed>
