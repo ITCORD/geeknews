@@ -2,172 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-03-28T01:04:22.365Z</updated>
+    <updated>2023-03-28T02:33:59.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio에 AV1 & HEVC RTMP 스트리밍 도입]]></title>
+        <id>https://news.hada.io/topic?id=8820</id>
+        <link href="https://news.hada.io/topic?id=8820"/>
+        <updated>2023-03-28T02:33:26.247Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8820"><a class="upvote" href="javascript:vote(8820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP" rel="nofollow" id="tr1"><h1>OBS Studio에 AV1 &amp; HEVC RTMP 스트리밍 도입</h1></a> <span class="topicurl">(phoronix.com)</span></div><div class="topicdesc"><a href="topic?id=8820" class="c99 breakall">- 현재 유튜브가 베타로 지원하는 AV1 RTMP 인제스트에 OBS에서 직접 스트리밍 가능해짐(기본은 H.264였음)  
+- 어도비/구글 등이 참여하는 비영...</a></div><div class="topicinfo"><span id="tp8820">2</span> points by <a href="/user?id=xguru">xguru</a> 14분전<span id="unvote8820"></span> | <a href="topic?id=8820" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cfnctl - Terraform의 경험을 AWS Cloudformation에 제공해주는 CLI]]></title>
+        <id>https://news.hada.io/topic?id=8819</id>
+        <link href="https://news.hada.io/topic?id=8819"/>
+        <updated>2023-03-28T02:33:26.252Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8819"><a class="upvote" href="javascript:vote(8819, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/rogerwelin/cfnctl" rel="nofollow" id="tr2"><h1>Cfnctl - Terraform의 경험을 AWS Cloudformation에 제공해주는 CLI </h1></a> <span class="topicurl">(github.com/rogerwelin)</span></div><div class="topicdesc"><a href="topic?id=8819" class="c99 breakall">- AWS Console 을 사용하지 않고 CLI로 Cloudformation 을 사용   
+- Terraform에 사용했던 것과 비슷하게 apply/plan/destroy/output 등의 명령 ...</a></div><div class="topicinfo"><span id="tp8819">1</span> point by <a href="/user?id=xguru">xguru</a> 30분전<span id="unvote8819"></span> | <a href="topic?id=8819" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTPAuth - One Time Password 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=8818</id>
+        <link href="https://news.hada.io/topic?id=8818"/>
+        <updated>2023-03-28T02:33:26.252Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8818"><a class="upvote" href="javascript:vote(8818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hectorm/otpauth" rel="nofollow" id="tr3"><h1>OTPAuth - One Time Password 라이브러리</h1></a> <span class="topicurl">(github.com/hectorm)</span></div><div class="topicdesc"><a href="topic?id=8818" class="c99 breakall">- Node.js/Deno/Bun/Browser 모두 사용 가능   
+- HOTP(Hash)/TOTP(Time) 둘다 지원   
+- Node.js 에서는 Crypto.createHmac 기반 알고리듬들, D...</a></div><div class="topicinfo"><span id="tp8818">5</span> points by <a href="/user?id=xguru">xguru</a> 47분전<span id="unvote8818"></span> | <a href="topic?id=8818" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scrapeghost - GPT를 이용한 웹 스크래핑 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=8817</id>
+        <link href="https://news.hada.io/topic?id=8817"/>
+        <updated>2023-03-28T02:33:26.252Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8817"><a class="upvote" href="javascript:vote(8817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jamesturk.github.io/scrapeghost/" rel="nofollow" id="tr4"><h1>Scrapeghost - GPT를 이용한 웹 스크래핑 라이브러리</h1></a> <span class="topicurl">(jamesturk.github.io)</span></div><div class="topicdesc"><a href="topic?id=8817" class="c99 breakall">- 페이지 관련 코드를 전혀 작성하지 않고, HTML로부터 데이터를 추출하는 실험적인 라이브러리   
+- 추출하고 싶은 데이터 형태만 지정한 뒤 URL...</a></div><div class="topicinfo"><span id="tp8817">4</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8817"></span> | <a href="topic?id=8817" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia CTO, "암호화폐는 사회에 전혀 도움이 안된다"]]></title>
+        <id>https://news.hada.io/topic?id=8816</id>
+        <link href="https://news.hada.io/topic?id=8816"/>
+        <updated>2023-03-28T02:33:26.252Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8816"><a class="upvote" href="javascript:vote(8816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining" rel="nofollow" id="tr5"><h1>Nvidia CTO, "암호화폐는 사회에 전혀 도움이 안된다"</h1></a> <span class="topicurl">(theguardian.com)</span></div><div class="topicdesc"><a href="topic?id=8816" class="c99 breakall">"컴퓨팅 파워를 AI 챗봇 ChatGPT 같은데 쓰는게 암호화폐 채굴보다 더 가치 있다"</a></div><div class="topicinfo"><span id="tp8816">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8816"></span> | <a href="topic?id=8816" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 CFTC, 바이낸스 CEO 제소 - 미등록 파생상품 제공혐의]]></title>
+        <id>https://news.hada.io/topic?id=8815</id>
+        <link href="https://news.hada.io/topic?id=8815"/>
+        <updated>2023-03-28T02:33:26.254Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8815"><a class="upvote" href="javascript:vote(8815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.coindeskkorea.com/news/articleView.html?idxno=90676" rel="nofollow" id="tr6"><h1>미 CFTC, 바이낸스 CEO 제소 - 미등록 파생상품 제공혐의</h1></a> <span class="topicurl">(coindeskkorea.com)</span></div><div class="topicdesc"><a href="topic?id=8815" class="c99 breakall">바이낸스, CEO, CCO 등을 모두 제소. 상품거래규정(CEA) 핵심 조항 8개를 위반한 혐의</a></div><div class="topicinfo"><span id="tp8815">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8815"></span> | <a href="topic?id=8815" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autodoc - LLM을 이용한 코드베이스 문서 자동 생성 툴킷]]></title>
+        <id>https://news.hada.io/topic?id=8814</id>
+        <link href="https://news.hada.io/topic?id=8814"/>
+        <updated>2023-03-28T02:33:26.257Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8814"><a class="upvote" href="javascript:vote(8814, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/context-labs/autodoc" rel="nofollow" id="tr7"><h1>Autodoc - LLM을 이용한 코드베이스 문서 자동 생성 툴킷</h1></a> <span class="topicurl">(github.com/context-labs)</span></div><div class="topicdesc"><a href="topic?id=8814" class="c99 breakall">- GPT-4/Alpaca등을 이용해서 Git Repo의 문서를 자동 생성   
+- Repo의 모든 콘텐츠를 깊이우선 탐색으로 인덱싱한 후, LLM에게 각 파일과 폴더...</a></div><div class="topicinfo"><span id="tp8814">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8814"></span> | <a href="topic?id=8814" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Little Snitch Mini]]></title>
         <id>https://news.hada.io/topic?id=8813</id>
         <link href="https://news.hada.io/topic?id=8813"/>
         <updated>2023-03-28T01:03:49.611Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8813"><a class="upvote" href="javascript:vote(8813, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://obdev.at/products/littlesnitch-mini/index.html" rel="nofollow" id="tr1"><h1>Little Snitch Mini</h1></a> <span class="topicurl">(obdev.at)</span></div><div class="topicdesc"><a href="topic?id=8813" class="c99 breakall">- 맥용 보안도구인 Little Snitch에서 주요 기능만 모은 무료 버전   
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8813"><a class="upvote" href="javascript:vote(8813, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://obdev.at/products/littlesnitch-mini/index.html" rel="nofollow" id="tr8"><h1>Little Snitch Mini</h1></a> <span class="topicurl">(obdev.at)</span></div><div class="topicdesc"><a href="topic?id=8813" class="c99 breakall">- 맥용 보안도구인 Little Snitch에서 주요 기능만 모은 무료 버전   
 - 모든 앱들의 네트워크 액티비티를 상세 모니터링 하고 제어 가능   
-- ...</a></div><div class="topicinfo"><span id="tp8813">1</span> point by <a href="/user?id=xguru">xguru</a> 47초전<span id="unvote8813"></span> | <a href="topic?id=8813" class="u">댓글과 토론</a></div>]]></content>
+- ...</a></div><div class="topicinfo"><span id="tp8813">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8813"></span> | <a href="topic?id=8813" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Runway, Gen-1 공개.]]></title>
         <id>https://news.hada.io/topic?id=8812</id>
         <link href="https://news.hada.io/topic?id=8812"/>
         <updated>2023-03-27T14:24:34.006Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8812"><a class="upvote" href="javascript:vote(8812, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/runwayml/status/1640337292542844928?s=46&amp;t=0ju2qOip1ejUB8hmcyERhQ" rel="nofollow" id="tr2"><h1>Runway, Gen-1 공개.</h1></a> <span class="topicurl">(twitter.com/runwayml)</span></div><div class="topicdesc"><a href="topic?id=8812" class="c99 breakall">Stable Diffusion의 개발한 스타트업 Runway에서 드디어 Video to Video 툴인 Gen-1을 모두에게 무료로 공개하기 시작.  
-회원가입 시 무료로 이...</a></div><div class="topicinfo"><span id="tp8812">4</span> points by <a href="/user?id=unsignd">unsignd</a> 11시간전<span id="unvote8812"></span> | <a href="topic?id=8812" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8812"><a class="upvote" href="javascript:vote(8812, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/runwayml/status/1640337292542844928?s=46&amp;t=0ju2qOip1ejUB8hmcyERhQ" rel="nofollow" id="tr9"><h1>Runway, Gen-1 공개.</h1></a> <span class="topicurl">(twitter.com/runwayml)</span></div><div class="topicdesc"><a href="topic?id=8812" class="c99 breakall">Stable Diffusion의 개발한 스타트업 Runway에서 드디어 Video to Video 툴인 Gen-1을 모두에게 무료로 공개하기 시작.  
+회원가입 시 무료로 이...</a></div><div class="topicinfo"><span id="tp8812">5</span> points by <a href="/user?id=unsignd">unsignd</a> 12시간전<span id="unvote8812"></span> | <a href="topic?id=8812" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 전국 민방위 교육 일정 (2023년)]]></title>
         <id>https://news.hada.io/topic?id=8811</id>
         <link href="https://news.hada.io/topic?id=8811"/>
         <updated>2023-03-27T09:14:30.271Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8811"><a class="upvote" href="javascript:vote(8811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8811" rel="nofollow" id="tr3"><h1>Show GN: 전국 민방위 교육 일정 (2023년)</h1></a> <span class="topicurl">(defense.hyunbin.page)</span></div><div class="topicdesc"><a href="topic?id=8811" class="c99 breakall">1-2년 차 민방위 소집 교육은 전국 어디서나 들을 수 있습니다. 하지만 행정안전부에서 운영하는 [국민재난안전포털]은 아래와 같은 이유로 사용성...</a></div><div class="topicinfo"><span id="tp8811">9</span> points by <a href="/user?id=hyunbin">hyunbin</a> 17시간전<span id="unvote8811"></span> | <a href="topic?id=8811" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8811"><a class="upvote" href="javascript:vote(8811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8811" rel="nofollow" id="tr10"><h1>Show GN: 전국 민방위 교육 일정 (2023년)</h1></a> <span class="topicurl">(defense.hyunbin.page)</span></div><div class="topicdesc"><a href="topic?id=8811" class="c99 breakall">1-2년 차 민방위 소집 교육은 전국 어디서나 들을 수 있습니다. 하지만 행정안전부에서 운영하는 [국민재난안전포털]은 아래와 같은 이유로 사용성...</a></div><div class="topicinfo"><span id="tp8811">12</span> points by <a href="/user?id=hyunbin">hyunbin</a> 18시간전<span id="unvote8811"></span> | <a href="topic?id=8811" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: AI로 3분만에 (무료 체험 가능) 랜딩페이지 만들기]]></title>
         <id>https://news.hada.io/topic?id=8810</id>
         <link href="https://news.hada.io/topic?id=8810"/>
         <updated>2023-03-27T08:17:45.171Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8810"><a class="upvote" href="javascript:vote(8810, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8810" rel="nofollow" id="tr4"><h1>Show GN: AI로 3분만에 (무료 체험 가능) 랜딩페이지 만들기</h1></a> <span class="topicurl">(waveon.io)</span></div><div class="topicdesc"><a href="topic?id=8810" class="c99 breakall">웨이브온에서 AI로 3분만에 랜딩페이지를 만드는 기능을 추가했습니다.  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8810"><a class="upvote" href="javascript:vote(8810, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8810" rel="nofollow" id="tr11"><h1>Show GN: AI로 3분만에 (무료 체험 가능) 랜딩페이지 만들기</h1></a> <span class="topicurl">(waveon.io)</span></div><div class="topicdesc"><a href="topic?id=8810" class="c99 breakall">웨이브온에서 AI로 3분만에 랜딩페이지를 만드는 기능을 추가했습니다.  
   
-회사 이름과 설명만 입력하면 바로 랜딩 페이지가 제작되며, 구글 ...</a></div><div class="topicinfo"><span id="tp8810">10</span> points by <a href="/user?id=waveon">waveon</a> 18시간전<span id="unvote8810"></span> | <a href="topic?id=8810" class="u">댓글과 토론</a></div>]]></content>
+회사 이름과 설명만 입력하면 바로 랜딩 페이지가 제작되며, 구글 ...</a></div><div class="topicinfo"><span id="tp8810">10</span> points by <a href="/user?id=waveon">waveon</a> 20시간전<span id="unvote8810"></span> | <a href="topic?id=8810" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선거용 PDF를 스프레드시트로 변환하는 과정에서 겪은 드라마틱한 경험]]></title>
         <id>https://news.hada.io/topic?id=8809</id>
         <link href="https://news.hada.io/topic?id=8809"/>
         <updated>2023-03-27T05:12:59.160Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8809"><a class="upvote" href="javascript:vote(8809, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://markessien.com/posts/drama_of_transcription/" rel="nofollow" id="tr5"><h1>선거용 PDF를 스프레드시트로 변환하는 과정에서 겪은 드라마틱한 경험</h1></a> <span class="topicurl">(markessien.com)</span></div><div class="topicdesc"><a href="topic?id=8809" class="c99 breakall">- 이 문서는 2023년 나이지리아 대통령 선거의 PDF를 스프레드시트로 변환하려는 시도에 대해 설명합니다.  
-- 2020년 나이지리아에서 발생한 #En...</a></div><div class="topicinfo"><span id="tp8809">3</span> points by <a href="/user?id=olivecake">olivecake</a> 20시간전<span id="unvote8809"></span> | <a href="topic?id=8809" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8809"><a class="upvote" href="javascript:vote(8809, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://markessien.com/posts/drama_of_transcription/" rel="nofollow" id="tr12"><h1>선거용 PDF를 스프레드시트로 변환하는 과정에서 겪은 드라마틱한 경험</h1></a> <span class="topicurl">(markessien.com)</span></div><div class="topicdesc"><a href="topic?id=8809" class="c99 breakall">- 이 문서는 2023년 나이지리아 대통령 선거의 PDF를 스프레드시트로 변환하려는 시도에 대해 설명합니다.  
+- 2020년 나이지리아에서 발생한 #En...</a></div><div class="topicinfo"><span id="tp8809">3</span> points by <a href="/user?id=olivecake">olivecake</a> 22시간전<span id="unvote8809"></span> | <a href="topic?id=8809" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, RSA SSH 호스트 키 변경]]></title>
         <id>https://news.hada.io/topic?id=8808</id>
         <link href="https://news.hada.io/topic?id=8808"/>
         <updated>2023-03-27T05:12:59.162Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8808"><a class="upvote" href="javascript:vote(8808, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/" rel="nofollow" id="tr6"><h1>GitHub, RSA SSH 호스트 키 변경</h1></a> <span class="topicurl">(github.blog)</span></div><div class="topicdesc"><a href="topic?id=8808" class="c99 breakall">- 3/24 05:00 UTC 에 변경완료  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8808"><a class="upvote" href="javascript:vote(8808, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/" rel="nofollow" id="tr13"><h1>GitHub, RSA SSH 호스트 키 변경</h1></a> <span class="topicurl">(github.blog)</span></div><div class="topicdesc"><a href="topic?id=8808" class="c99 breakall">- 3/24 05:00 UTC 에 변경완료  
 - 공격자가 GitHub을 사칭하거나, SSH를 통해 Git 작업을 도청할 가능성으로 부터 보호를 위해   
-- RSA SSH 키...</a></div><div class="topicinfo"><span id="tp8808">5</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote8808"></span> | <a href="topic?id=8808" class="u">댓글 1개</a></div>]]></content>
+- RSA SSH 키...</a></div><div class="topicinfo"><span id="tp8808">5</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote8808"></span> | <a href="topic?id=8808" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Alpaca - 코드 생성 명령으로 훈련된 LLaMA]]></title>
         <id>https://news.hada.io/topic?id=8807</id>
         <link href="https://news.hada.io/topic?id=8807"/>
         <updated>2023-03-27T03:13:51.311Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8807"><a class="upvote" href="javascript:vote(8807, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sahil280114/codealpaca" rel="nofollow" id="tr7"><h1>Code Alpaca - 코드 생성 명령으로 훈련된 LLaMA</h1></a> <span class="topicurl">(github.com/sahil280114)</span></div><div class="topicdesc"><a href="topic?id=8807" class="c99 breakall">- 스탠포드 Alpaca 7B/13B 기반으로 개발자가 코딩 작업에 사용하기 좋게 튜닝한 모델  
-- 코드 생성에 관련된 20K 짜리 Instruction Folowing 데...</a></div><div class="topicinfo"><span id="tp8807">15</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote8807"></span> | <a href="topic?id=8807" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8807"><a class="upvote" href="javascript:vote(8807, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sahil280114/codealpaca" rel="nofollow" id="tr14"><h1>Code Alpaca - 코드 생성 명령으로 훈련된 LLaMA</h1></a> <span class="topicurl">(github.com/sahil280114)</span></div><div class="topicdesc"><a href="topic?id=8807" class="c99 breakall">- 스탠포드 Alpaca 7B/13B 기반으로 개발자가 코딩 작업에 사용하기 좋게 튜닝한 모델  
+- 코드 생성에 관련된 20K 짜리 Instruction Folowing 데...</a></div><div class="topicinfo"><span id="tp8807">16</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8807"></span> | <a href="topic?id=8807" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Midjourney 때문에 내 일을 사랑하게 만들었던 모든 것을 잃었어요]]></title>
         <id>https://news.hada.io/topic?id=8806</id>
         <link href="https://news.hada.io/topic?id=8806"/>
         <updated>2023-03-27T03:13:51.313Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8806"><a class="upvote" href="javascript:vote(8806, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/" rel="nofollow" id="tr8"><h1>Midjourney 때문에 내 일을 사랑하게 만들었던 모든 것을 잃었어요</h1></a> <span class="topicurl">(old.reddit.com)</span></div><div class="topicdesc"><a href="topic?id=8806" class="c99 breakall">- 10명 모바일 게임 회사에서 일하는 3D 아티스트   
-- 2명의 아트팀이 3D 모델을 만들고, 렌더링해서 2D 스프라이트를 만드는 일을 햇었는데, Mi...</a></div><div class="topicinfo"><span id="tp8806">20</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8806"></span> | <a href="topic?id=8806" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8806"><a class="upvote" href="javascript:vote(8806, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/" rel="nofollow" id="tr15"><h1>Midjourney 때문에 내 일을 사랑하게 만들었던 모든 것을 잃었어요</h1></a> <span class="topicurl">(old.reddit.com)</span></div><div class="topicdesc"><a href="topic?id=8806" class="c99 breakall">- 10명 모바일 게임 회사에서 일하는 3D 아티스트   
+- 2명의 아트팀이 3D 모델을 만들고, 렌더링해서 2D 스프라이트를 만드는 일을 햇었는데, Mi...</a></div><div class="topicinfo"><span id="tp8806">21</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8806"></span> | <a href="topic?id=8806" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[68k.news - 텍스트 온리 버전의 구글 뉴스 (한국도 지원)]]></title>
         <id>https://news.hada.io/topic?id=8805</id>
         <link href="https://news.hada.io/topic?id=8805"/>
         <updated>2023-03-27T02:09:50.705Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8805"><a class="upvote" href="javascript:vote(8805, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://68k.news/index.php?section=nation&amp;loc=KR" rel="nofollow" id="tr9"><h1>68k.news - 텍스트 온리 버전의 구글 뉴스 (한국도 지원)</h1></a> <span class="topicurl">(68k.news)</span></div><div class="topicdesc"><a href="topic?id=8805" class="c99 breakall">- 구글 뉴스의 헤드라인만 가져와서 한눈에 볼 수 있게 만든 텍스트 뉴스 사이트   
-- 국가별로 지정해서 뉴스 보기 가능(한국,미국,일본,영국,독...</a></div><div class="topicinfo"><span id="tp8805">18</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8805"></span> | <a href="topic?id=8805" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8805"><a class="upvote" href="javascript:vote(8805, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://68k.news/index.php?section=nation&amp;loc=KR" rel="nofollow" id="tr16"><h1>68k.news - 텍스트 온리 버전의 구글 뉴스 (한국도 지원)</h1></a> <span class="topicurl">(68k.news)</span></div><div class="topicdesc"><a href="topic?id=8805" class="c99 breakall">- 구글 뉴스의 헤드라인만 가져와서 한눈에 볼 수 있게 만든 텍스트 뉴스 사이트   
+- 국가별로 지정해서 뉴스 보기 가능(한국,미국,일본,영국,독...</a></div><div class="topicinfo"><span id="tp8805">18</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8805"></span> | <a href="topic?id=8805" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Orange Pi 5는 Raspberry Pi 4의 훌륭하고 매우 빠른 대안]]></title>
         <id>https://news.hada.io/topic?id=8804</id>
         <link href="https://news.hada.io/topic?id=8804"/>
         <updated>2023-03-27T02:09:50.705Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8804"><a class="upvote" href="javascript:vote(8804, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.phoronix.com/review/orange-pi-5" rel="nofollow" id="tr10"><h1>Orange Pi 5는 Raspberry Pi 4의 훌륭하고 매우 빠른 대안</h1></a> <span class="topicurl">(phoronix.com)</span></div><div class="topicdesc"><a href="topic?id=8804" class="c99 breakall">- Rockchip RK3588S SoC + 4/8/16/32GB RAM  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8804"><a class="upvote" href="javascript:vote(8804, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.phoronix.com/review/orange-pi-5" rel="nofollow" id="tr17"><h1>Orange Pi 5는 Raspberry Pi 4의 훌륭하고 매우 빠른 대안</h1></a> <span class="topicurl">(phoronix.com)</span></div><div class="topicdesc"><a href="topic?id=8804" class="c99 breakall">- Rockchip RK3588S SoC + 4/8/16/32GB RAM  
   - Arm Cortex-A76 2.4Ghz 8코어 + Cortex-A55 1.8Ghz 4코어   
-- Mali G510 MP4 그래픽 프로세서...</a></div><div class="topicinfo"><span id="tp8804">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote8804"></span> | <a href="topic?id=8804" class="u">댓글 1개</a></div>]]></content>
+- Mali G510 MP4 그래픽 프로세서...</a></div><div class="topicinfo"><span id="tp8804">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8804"></span> | <a href="topic?id=8804" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT4가 내 반려견의 목숨을 살렸어요]]></title>
         <id>https://news.hada.io/topic?id=8803</id>
         <link href="https://news.hada.io/topic?id=8803"/>
         <updated>2023-03-27T02:09:50.705Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8803"><a class="upvote" href="javascript:vote(8803, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/peakcooper/status/1639716822680236032" rel="nofollow" id="tr11"><h1>GPT4가 내 반려견의 목숨을 살렸어요</h1></a> <span class="topicurl">(twitter.com/peakcooper)</span></div><div class="topicdesc"><a href="topic?id=8803" class="c99 breakall">- 진드기매개질환을 진단받아서 치료받고 호전되는 듯 하다가 다시 안좋아짐   
-- 테스트 해봐도 다른 문제를 못 찾아서, 다른 수의사를 찾아감  ...</a></div><div class="topicinfo"><span id="tp8803">13</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8803"></span> | <a href="topic?id=8803" class="u">댓글 10개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8803"><a class="upvote" href="javascript:vote(8803, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/peakcooper/status/1639716822680236032" rel="nofollow" id="tr18"><h1>GPT4가 내 반려견의 목숨을 살렸어요</h1></a> <span class="topicurl">(twitter.com/peakcooper)</span></div><div class="topicdesc"><a href="topic?id=8803" class="c99 breakall">- 진드기매개질환을 진단받아서 치료받고 호전되는 듯 하다가 다시 안좋아짐   
+- 테스트 해봐도 다른 문제를 못 찾아서, 다른 수의사를 찾아감  ...</a></div><div class="topicinfo"><span id="tp8803">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8803"></span> | <a href="topic?id=8803" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LLaMA에서 ChatGPT 플러그인들 이용하기]]></title>
         <id>https://news.hada.io/topic?id=8802</id>
         <link href="https://news.hada.io/topic?id=8802"/>
         <updated>2023-03-27T02:09:50.705Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8802"><a class="upvote" href="javascript:vote(8802, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14" rel="nofollow" id="tr12"><h1>LLaMA에서 ChatGPT 플러그인들 이용하기 </h1></a> <span class="topicurl">(blog.lastmileai.dev)</span></div><div class="topicdesc"><a href="topic?id=8802" class="c99 breakall">- OpenAI가 공개한 chatgpt-retrieval-plugin을 LLaMA에서 활용하는 PoC   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8802"><a class="upvote" href="javascript:vote(8802, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14" rel="nofollow" id="tr19"><h1>LLaMA에서 ChatGPT 플러그인들 이용하기 </h1></a> <span class="topicurl">(blog.lastmileai.dev)</span></div><div class="topicdesc"><a href="topic?id=8802" class="c99 breakall">- OpenAI가 공개한 chatgpt-retrieval-plugin을 LLaMA에서 활용하는 PoC   
 - 연동은 성공이지만 제한적임:   
-  - LLaMA 모델 자체가 ChatGPT에...</a></div><div class="topicinfo"><span id="tp8802">7</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8802"></span> | <a href="topic?id=8802" class="u">댓글과 토론</a></div>]]></content>
+  - LLaMA 모델 자체가 ChatGPT에...</a></div><div class="topicinfo"><span id="tp8802">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8802"></span> | <a href="topic?id=8802" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Epic, MetaHuman Animator 공개]]></title>
         <id>https://news.hada.io/topic?id=8801</id>
         <link href="https://news.hada.io/topic?id=8801"/>
         <updated>2023-03-27T01:00:31.551Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8801"><a class="upvote" href="javascript:vote(8801, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/" rel="nofollow" id="tr13"><h1>Epic, MetaHuman Animator 공개</h1></a> <span class="topicurl">(arstechnica.com)</span></div><div class="topicdesc"><a href="topic?id=8801" class="c99 breakall">- 아이폰 카메라로 촬영한 얼굴 영상캡쳐 만으로 고품질 애니메이션 생성 가능   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote8801"><a class="upvote" href="javascript:vote(8801, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/" rel="nofollow" id="tr20"><h1>Epic, MetaHuman Animator 공개</h1></a> <span class="topicurl">(arstechnica.com)</span></div><div class="topicdesc"><a href="topic?id=8801" class="c99 breakall">- 아이폰 카메라로 촬영한 얼굴 영상캡쳐 만으로 고품질 애니메이션 생성 가능   
 - 캡쳐한 영상을 고성능 AMD 머신에서 1분도 안되는 시간에 변...</a></div><div class="topicinfo"><span id="tp8801">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8801"></span> | <a href="topic?id=8801" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern iOS Navigation Patterns]]></title>
-        <id>https://news.hada.io/topic?id=8800</id>
-        <link href="https://news.hada.io/topic?id=8800"/>
-        <updated>2023-03-26T02:35:58.643Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8800"><a class="upvote" href="javascript:vote(8800, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://frankrausch.com/ios-navigation" rel="nofollow" id="tr14"><h1>Modern iOS Navigation Patterns</h1></a> <span class="topicurl">(frankrausch.com)</span></div><div class="topicdesc"><a href="topic?id=8800" class="c99 breakall">- Structural Navigation : Drill-Down, Flat, Pyramid, Hub-and-Spoke   
-- Overlay Navigation : High-Friction Modal, Low-Friction Modal, No...</a></div><div class="topicinfo"><span id="tp8800">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8800"></span> | <a href="topic?id=8800" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenis - 부드러운 스크롤 라이브러리]]></title>
-        <id>https://news.hada.io/topic?id=8799</id>
-        <link href="https://news.hada.io/topic?id=8799"/>
-        <updated>2023-03-26T02:35:58.643Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8799"><a class="upvote" href="javascript:vote(8799, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lenis.studiofreight.com/" rel="nofollow" id="tr15"><h1>Lenis - 부드러운 스크롤 라이브러리 </h1></a> <span class="topicurl">(lenis.studiofreight.com)</span></div><div class="topicdesc"><a href="topic?id=8799" class="c99 breakall">- 경량(~3KB), 빠른 스크롤을 지원하는 오픈소스   
-- 메인쓰레드에서 스크롤 실행, 접근성 지원   
-- 네이티브 스크롤바 이용  
-- 다른 애니메...</a></div><div class="topicinfo"><span id="tp8799">26</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8799"></span> | <a href="topic?id=8799" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sqlite Index Blaster - 대규모 SQlite 인덱스 초고속 생성 툴]]></title>
-        <id>https://news.hada.io/topic?id=8798</id>
-        <link href="https://news.hada.io/topic?id=8798"/>
-        <updated>2023-03-26T01:05:57.583Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8798"><a class="upvote" href="javascript:vote(8798, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/siara-cc/sqlite_blaster" rel="nofollow" id="tr16"><h1>Sqlite Index Blaster - 대규모 SQlite 인덱스 초고속 생성 툴</h1></a> <span class="topicurl">(github.com/siara-cc)</span></div><div class="topicdesc"><a href="topic?id=8798" class="c99 breakall">- 수백만개의 레코드에 대한 인덱스를 공식 라이브러리보다 훨씬 빠르게 생성 가능   
-- SQLite DB 파일 포맷의 잘 안알려진 기능을 활용하여 레...</a></div><div class="topicinfo"><span id="tp8798">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8798"></span> | <a href="topic?id=8798" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[typst - 마크업 기반의 조판 시스템]]></title>
-        <id>https://news.hada.io/topic?id=8797</id>
-        <link href="https://news.hada.io/topic?id=8797"/>
-        <updated>2023-03-25T02:07:15.775Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8797"><a class="upvote" href="javascript:vote(8797, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/typst/typst" rel="nofollow" id="tr17"><h1>typst - 마크업 기반의 조판 시스템 </h1></a> <span class="topicurl">(github.com/typst)</span></div><div class="topicdesc"><a href="topic?id=8797" class="c99 breakall">- LaTeX 만큼 강력하게 설계 되었지만 배우고 사용하기 훨씬 쉬움   
-- 공통적인 포맷에 대한 마크업 내장 및 그 외 모든 기능지원을 위한 유연한...</a></div><div class="topicinfo"><span id="tp8797">22</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8797"></span> | <a href="topic?id=8797" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YTsaurus - Exabyte-Scale 스토리지 & 처리 시스템 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=8796</id>
-        <link href="https://news.hada.io/topic?id=8796"/>
-        <updated>2023-03-25T02:07:15.777Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8796"><a class="upvote" href="javascript:vote(8796, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ytsaurus.tech/" rel="nofollow" id="tr18"><h1>YTsaurus - Exabyte-Scale 스토리지 &amp; 처리 시스템 오픈소스 </h1></a> <span class="topicurl">(ytsaurus.tech)</span></div><div class="topicdesc"><a href="topic?id=8796" class="c99 breakall">- Yandex가 공개한 분산 스토리지 &amp; 프로세싱 빅데이터 플랫폼 오픈소스   
-  - 유스케이스 : 배치 처리, 애드혹 분석, OLTP, 머신러닝, 메타데이...</a></div><div class="topicinfo"><span id="tp8796">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8796"></span> | <a href="topic?id=8796" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LlamaIndex - LLM을 외부 데이터와 연결해주는 프로젝트]]></title>
-        <id>https://news.hada.io/topic?id=8795</id>
-        <link href="https://news.hada.io/topic?id=8795"/>
-        <updated>2023-03-25T02:07:15.777Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8795"><a class="upvote" href="javascript:vote(8795, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jerryjliu/llama_index" rel="nofollow" id="tr19"><h1>LlamaIndex - LLM을 외부 데이터와 연결해주는 프로젝트</h1></a> <span class="topicurl">(github.com/jerryjliu)</span></div><div class="topicdesc"><a href="topic?id=8795" class="c99 breakall">- 기존 데이터로 학습되어있는 LLM을 자신의 데이터와 연결해주는 도구   
-- Data Connector를 통해서 기존 데이터 소스 및 포맷과 연동(API, PDF...</a></div><div class="topicinfo"><span id="tp8795">12</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8795"></span> | <a href="topic?id=8795" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 일간 ProductHunt]]></title>
-        <id>https://news.hada.io/topic?id=8794</id>
-        <link href="https://news.hada.io/topic?id=8794"/>
-        <updated>2023-03-24T03:13:25.953Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote8794"><a class="upvote" href="javascript:vote(8794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8794" rel="nofollow" id="tr20"><h1>Show GN: 일간 ProductHunt</h1></a> <span class="topicurl">(daily-producthunt.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=8794" class="c99 breakall">IT 메이커 플랫폼 ProductHunt에 올라오는 제품들을 긱뉴스처럼 요약해서 보내주는 서비스입니다. 슬랙에 채널을 연동하면 메세지를 보내드립니다....</a></div><div class="topicinfo"><span id="tp8794">13</span> points by <a href="/user?id=kidow">kidow</a> 4일전<span id="unvote8794"></span> | <a href="topic?id=8794" class="u">댓글 5개</a></div>]]></content>
     </entry>
 </feed>
