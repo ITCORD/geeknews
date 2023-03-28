@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-03-28T08:19:01.015Z</updated>
+    <updated>2023-03-28T09:14:26.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,27 +11,27 @@
         <link href="https://jamesturk.github.io/scrapeghost/"/>
         <updated>2023-03-28T02:33:21.359Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8817"><a class="upvote" href="javascript:vote(8817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jamesturk.github.io/scrapeghost/" rel="nofollow" id="tr1"><h1>Scrapeghost - GPT를 이용한 웹 스크래핑 라이브러리</h1></a> <span class="topicurl">(jamesturk.github.io)</span></div><div class="topicdesc"><a href="topic?id=8817" class="c99 breakall">- 페이지 관련 코드를 전혀 작성하지 않고, HTML로부터 데이터를 추출하는 실험적인 라이브러리   
-- 추출하고 싶은 데이터 형태만 지정한 뒤 URL...</a></div><div class="topicinfo"><span id="tp8817">11</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8817"></span> | <a href="topic?id=8817" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OTPAuth - One Time Password 라이브러리]]></title>
-        <id>https://github.com/hectorm/otpauth</id>
-        <link href="https://github.com/hectorm/otpauth"/>
-        <updated>2023-03-28T02:33:21.355Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8818"><a class="upvote" href="javascript:vote(8818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hectorm/otpauth" rel="nofollow" id="tr2"><h1>OTPAuth - One Time Password 라이브러리</h1></a> <span class="topicurl">(github.com/hectorm)</span></div><div class="topicdesc"><a href="topic?id=8818" class="c99 breakall">- Node.js/Deno/Bun/Browser 모두 사용 가능   
-- HOTP(Hash)/TOTP(Time) 둘다 지원   
-- Node.js 에서는 Crypto.createHmac 기반 알고리듬들, D...</a></div><div class="topicinfo"><span id="tp8818">9</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8818"></span> | <a href="topic?id=8818" class="u">댓글과 토론</a></div>]]></content>
+- 추출하고 싶은 데이터 형태만 지정한 뒤 URL...</a></div><div class="topicinfo"><span id="tp8817">11</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote8817"></span> | <a href="topic?id=8817" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[dhapi - 동행복권 로또 6/45 구매하는 파이썬 라이브러리]]></title>
         <id>https://github.com/roeniss/dhlottery-api</id>
         <link href="https://github.com/roeniss/dhlottery-api"/>
         <updated>2023-03-28T06:17:20.951Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8821"><a class="upvote" href="javascript:vote(8821, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/roeniss/dhlottery-api" rel="nofollow" id="tr3"><h1>dhapi - 동행복권 로또 6/45 구매하는 파이썬 라이브러리</h1></a> <span class="topicurl">(github.com/roeniss)</span></div><div class="topicdesc"><a href="topic?id=8821" class="c99 breakall">터미널에서 동행복권을 구매할 수 있게 만든 라이브러리입니다.  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8821"><a class="upvote" href="javascript:vote(8821, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/roeniss/dhlottery-api" rel="nofollow" id="tr2"><h1>dhapi - 동행복권 로또 6/45 구매하는 파이썬 라이브러리</h1></a> <span class="topicurl">(github.com/roeniss)</span></div><div class="topicdesc"><a href="topic?id=8821" class="c99 breakall">터미널에서 동행복권을 구매할 수 있게 만든 라이브러리입니다.  
   
 ```  
 pip install dhapi  
-dhapi -U $YOUR_ID -P -K lotto645 -T buy -M...</a></div><div class="topicinfo"><span id="tp8821">4</span> points by <a href="/user?id=roeniss">roeniss</a> 2시간전<span id="unvote8821"></span> | <a href="topic?id=8821" class="u">댓글과 토론</a></div>]]></content>
+dhapi -U $YOUR_ID -P -K lotto645 -T buy -M...</a></div><div class="topicinfo"><span id="tp8821">6</span> points by <a href="/user?id=roeniss">roeniss</a> 3시간전<span id="unvote8821"></span> | <a href="topic?id=8821" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTPAuth - One Time Password 라이브러리]]></title>
+        <id>https://github.com/hectorm/otpauth</id>
+        <link href="https://github.com/hectorm/otpauth"/>
+        <updated>2023-03-28T02:33:21.355Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8818"><a class="upvote" href="javascript:vote(8818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hectorm/otpauth" rel="nofollow" id="tr3"><h1>OTPAuth - One Time Password 라이브러리</h1></a> <span class="topicurl">(github.com/hectorm)</span></div><div class="topicdesc"><a href="topic?id=8818" class="c99 breakall">- Node.js/Deno/Bun/Browser 모두 사용 가능   
+- HOTP(Hash)/TOTP(Time) 둘다 지원   
+- Node.js 에서는 Crypto.createHmac 기반 알고리듬들, D...</a></div><div class="topicinfo"><span id="tp8818">9</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8818"></span> | <a href="topic?id=8818" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Little Snitch Mini]]></title>
@@ -40,22 +40,22 @@ dhapi -U $YOUR_ID -P -K lotto645 -T buy -M...</a></div><div class="topicinfo"><s
         <updated>2023-03-28T01:03:44.747Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8813"><a class="upvote" href="javascript:vote(8813, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://obdev.at/products/littlesnitch-mini/index.html" rel="nofollow" id="tr4"><h1>Little Snitch Mini</h1></a> <span class="topicurl">(obdev.at)</span></div><div class="topicdesc"><a href="topic?id=8813" class="c99 breakall">- 맥용 보안도구인 Little Snitch에서 주요 기능만 모은 무료 버전   
 - 모든 앱들의 네트워크 액티비티를 상세 모니터링 하고 제어 가능   
-- ...</a></div><div class="topicinfo"><span id="tp8813">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8813"></span> | <a href="topic?id=8813" class="u">댓글과 토론</a></div>]]></content>
+- ...</a></div><div class="topicinfo"><span id="tp8813">7</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote8813"></span> | <a href="topic?id=8813" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio에 AV1 & HEVC RTMP 스트리밍 도입]]></title>
+        <id>https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP</id>
+        <link href="https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP"/>
+        <updated>2023-03-28T02:33:21.363Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8820"><a class="upvote" href="javascript:vote(8820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP" rel="nofollow" id="tr5"><h1>OBS Studio에 AV1 &amp; HEVC RTMP 스트리밍 도입</h1></a> <span class="topicurl">(phoronix.com)</span></div><div class="topicdesc"><a href="topic?id=8820" class="c99 breakall">- 현재 유튜브가 베타로 지원하는 AV1 RTMP 인제스트에 OBS에서 직접 스트리밍 가능해짐(기본은 H.264였음)  
+- 어도비/구글 등이 참여하는 비영...</a></div><div class="topicinfo"><span id="tp8820">4</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8820"></span> | <a href="topic?id=8820" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia CTO, "암호화폐는 사회에 전혀 도움이 안된다"]]></title>
         <id>https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining</id>
         <link href="https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"/>
         <updated>2023-03-28T02:33:21.367Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8816"><a class="upvote" href="javascript:vote(8816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining" rel="nofollow" id="tr5"><h1>Nvidia CTO, "암호화폐는 사회에 전혀 도움이 안된다"</h1></a> <span class="topicurl">(theguardian.com)</span></div><div class="topicdesc"><a href="topic?id=8816" class="c99 breakall">"컴퓨팅 파워를 AI 챗봇 ChatGPT 같은데 쓰는게 암호화폐 채굴보다 더 가치 있다"</a></div><div class="topicinfo"><span id="tp8816">4</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8816"></span> | <a href="topic?id=8816" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midjourney 때문에 내 일을 사랑하게 만들었던 모든 것을 잃었어요]]></title>
-        <id>https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/</id>
-        <link href="https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/"/>
-        <updated>2023-03-27T03:13:46.325Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8806"><a class="upvote" href="javascript:vote(8806, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/" rel="nofollow" id="tr6"><h1>Midjourney 때문에 내 일을 사랑하게 만들었던 모든 것을 잃었어요</h1></a> <span class="topicurl">(old.reddit.com)</span></div><div class="topicdesc"><a href="topic?id=8806" class="c99 breakall">- 10명 모바일 게임 회사에서 일하는 3D 아티스트   
-- 2명의 아트팀이 3D 모델을 만들고, 렌더링해서 2D 스프라이트를 만드는 일을 햇었는데, Mi...</a></div><div class="topicinfo"><span id="tp8806">21</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8806"></span> | <a href="topic?id=8806" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8816"><a class="upvote" href="javascript:vote(8816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining" rel="nofollow" id="tr6"><h1>Nvidia CTO, "암호화폐는 사회에 전혀 도움이 안된다"</h1></a> <span class="topicurl">(theguardian.com)</span></div><div class="topicdesc"><a href="topic?id=8816" class="c99 breakall">"컴퓨팅 파워를 AI 챗봇 ChatGPT 같은데 쓰는게 암호화폐 채굴보다 더 가치 있다"</a></div><div class="topicinfo"><span id="tp8816">4</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote8816"></span> | <a href="topic?id=8816" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Autodoc - LLM을 이용한 코드베이스 문서 자동 생성 툴킷]]></title>
@@ -63,15 +63,15 @@ dhapi -U $YOUR_ID -P -K lotto645 -T buy -M...</a></div><div class="topicinfo"><s
         <link href="https://github.com/context-labs/autodoc"/>
         <updated>2023-03-28T02:33:21.368Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8814"><a class="upvote" href="javascript:vote(8814, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/context-labs/autodoc" rel="nofollow" id="tr7"><h1>Autodoc - LLM을 이용한 코드베이스 문서 자동 생성 툴킷</h1></a> <span class="topicurl">(github.com/context-labs)</span></div><div class="topicdesc"><a href="topic?id=8814" class="c99 breakall">- GPT-4/Alpaca등을 이용해서 Git Repo의 문서를 자동 생성   
-- Repo의 모든 콘텐츠를 깊이우선 탐색으로 인덱싱한 후, LLM에게 각 파일과 폴더...</a></div><div class="topicinfo"><span id="tp8814">4</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8814"></span> | <a href="topic?id=8814" class="u">댓글과 토론</a></div>]]></content>
+- Repo의 모든 콘텐츠를 깊이우선 탐색으로 인덱싱한 후, LLM에게 각 파일과 폴더...</a></div><div class="topicinfo"><span id="tp8814">4</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote8814"></span> | <a href="topic?id=8814" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OBS Studio에 AV1 & HEVC RTMP 스트리밍 도입]]></title>
-        <id>https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP</id>
-        <link href="https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP"/>
-        <updated>2023-03-28T02:33:21.363Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8820"><a class="upvote" href="javascript:vote(8820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP" rel="nofollow" id="tr8"><h1>OBS Studio에 AV1 &amp; HEVC RTMP 스트리밍 도입</h1></a> <span class="topicurl">(phoronix.com)</span></div><div class="topicdesc"><a href="topic?id=8820" class="c99 breakall">- 현재 유튜브가 베타로 지원하는 AV1 RTMP 인제스트에 OBS에서 직접 스트리밍 가능해짐(기본은 H.264였음)  
-- 어도비/구글 등이 참여하는 비영...</a></div><div class="topicinfo"><span id="tp8820">3</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote8820"></span> | <a href="topic?id=8820" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Midjourney 때문에 내 일을 사랑하게 만들었던 모든 것을 잃었어요]]></title>
+        <id>https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/</id>
+        <link href="https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/"/>
+        <updated>2023-03-27T03:13:46.325Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8806"><a class="upvote" href="javascript:vote(8806, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/" rel="nofollow" id="tr8"><h1>Midjourney 때문에 내 일을 사랑하게 만들었던 모든 것을 잃었어요</h1></a> <span class="topicurl">(old.reddit.com)</span></div><div class="topicdesc"><a href="topic?id=8806" class="c99 breakall">- 10명 모바일 게임 회사에서 일하는 3D 아티스트   
+- 2명의 아트팀이 3D 모델을 만들고, 렌더링해서 2D 스프라이트를 만드는 일을 햇었는데, Mi...</a></div><div class="topicinfo"><span id="tp8806">21</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8806"></span> | <a href="topic?id=8806" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[68k.news - 텍스트 온리 버전의 구글 뉴스 (한국도 지원)]]></title>
@@ -82,27 +82,27 @@ dhapi -U $YOUR_ID -P -K lotto645 -T buy -M...</a></div><div class="topicinfo"><s
 - 국가별로 지정해서 뉴스 보기 가능(한국,미국,일본,영국,독...</a></div><div class="topicinfo"><span id="tp8805">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8805"></span> | <a href="topic?id=8805" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cfnctl - Terraform의 경험을 AWS Cloudformation에 제공해주는 CLI]]></title>
-        <id>https://github.com/rogerwelin/cfnctl</id>
-        <link href="https://github.com/rogerwelin/cfnctl"/>
-        <updated>2023-03-28T02:33:21.383Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8819"><a class="upvote" href="javascript:vote(8819, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/rogerwelin/cfnctl" rel="nofollow" id="tr10"><h1>Cfnctl - Terraform의 경험을 AWS Cloudformation에 제공해주는 CLI </h1></a> <span class="topicurl">(github.com/rogerwelin)</span></div><div class="topicdesc"><a href="topic?id=8819" class="c99 breakall">- AWS Console 을 사용하지 않고 CLI로 Cloudformation 을 사용   
-- Terraform에 사용했던 것과 비슷하게 apply/plan/destroy/output 등의 명령 ...</a></div><div class="topicinfo"><span id="tp8819">3</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote8819"></span> | <a href="topic?id=8819" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 전국 민방위 교육 일정 (2023년)]]></title>
         <id>https://news.hada.io/topic?id=8811</id>
         <link href="https://news.hada.io/topic?id=8811"/>
         <updated>2023-03-27T09:14:24.735Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8811"><a class="upvote" href="javascript:vote(8811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8811" rel="nofollow" id="tr11"><h1>Show GN: 전국 민방위 교육 일정 (2023년)</h1></a> <span class="topicurl">(defense.hyunbin.page)</span></div><div class="topicdesc"><a href="topic?id=8811" class="c99 breakall">1-2년 차 민방위 소집 교육은 전국 어디서나 들을 수 있습니다. 하지만 행정안전부에서 운영하는 [국민재난안전포털]은 아래와 같은 이유로 사용성...</a></div><div class="topicinfo"><span id="tp8811">12</span> points by <a href="/user?id=hyunbin">hyunbin</a> 24시간전<span id="unvote8811"></span> | <a href="topic?id=8811" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8811"><a class="upvote" href="javascript:vote(8811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8811" rel="nofollow" id="tr10"><h1>Show GN: 전국 민방위 교육 일정 (2023년)</h1></a> <span class="topicurl">(defense.hyunbin.page)</span></div><div class="topicdesc"><a href="topic?id=8811" class="c99 breakall">1-2년 차 민방위 소집 교육은 전국 어디서나 들을 수 있습니다. 하지만 행정안전부에서 운영하는 [국민재난안전포털]은 아래와 같은 이유로 사용성...</a></div><div class="topicinfo"><span id="tp8811">12</span> points by <a href="/user?id=hyunbin">hyunbin</a> 1일전<span id="unvote8811"></span> | <a href="topic?id=8811" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Alpaca - 코드 생성 명령으로 훈련된 LLaMA]]></title>
         <id>https://github.com/sahil280114/codealpaca</id>
         <link href="https://github.com/sahil280114/codealpaca"/>
         <updated>2023-03-27T03:13:46.333Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8807"><a class="upvote" href="javascript:vote(8807, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sahil280114/codealpaca" rel="nofollow" id="tr12"><h1>Code Alpaca - 코드 생성 명령으로 훈련된 LLaMA</h1></a> <span class="topicurl">(github.com/sahil280114)</span></div><div class="topicdesc"><a href="topic?id=8807" class="c99 breakall">- 스탠포드 Alpaca 7B/13B 기반으로 개발자가 코딩 작업에 사용하기 좋게 튜닝한 모델  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8807"><a class="upvote" href="javascript:vote(8807, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sahil280114/codealpaca" rel="nofollow" id="tr11"><h1>Code Alpaca - 코드 생성 명령으로 훈련된 LLaMA</h1></a> <span class="topicurl">(github.com/sahil280114)</span></div><div class="topicdesc"><a href="topic?id=8807" class="c99 breakall">- 스탠포드 Alpaca 7B/13B 기반으로 개발자가 코딩 작업에 사용하기 좋게 튜닝한 모델  
 - 코드 생성에 관련된 20K 짜리 Instruction Folowing 데...</a></div><div class="topicinfo"><span id="tp8807">16</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8807"></span> | <a href="topic?id=8807" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cfnctl - Terraform의 경험을 AWS Cloudformation에 제공해주는 CLI]]></title>
+        <id>https://github.com/rogerwelin/cfnctl</id>
+        <link href="https://github.com/rogerwelin/cfnctl"/>
+        <updated>2023-03-28T02:33:21.383Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8819"><a class="upvote" href="javascript:vote(8819, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/rogerwelin/cfnctl" rel="nofollow" id="tr12"><h1>Cfnctl - Terraform의 경험을 AWS Cloudformation에 제공해주는 CLI </h1></a> <span class="topicurl">(github.com/rogerwelin)</span></div><div class="topicdesc"><a href="topic?id=8819" class="c99 breakall">- AWS Console 을 사용하지 않고 CLI로 Cloudformation 을 사용   
+- Terraform에 사용했던 것과 비슷하게 apply/plan/destroy/output 등의 명령 ...</a></div><div class="topicinfo"><span id="tp8819">3</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8819"></span> | <a href="topic?id=8819" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: AI로 3분만에 (무료 체험 가능) 랜딩페이지 만들기]]></title>
@@ -119,7 +119,7 @@ dhapi -U $YOUR_ID -P -K lotto645 -T buy -M...</a></div><div class="topicinfo"><s
         <link href="https://twitter.com/runwayml/status/1640337292542844928?s=46&amp;t=0ju2qOip1ejUB8hmcyERhQ"/>
         <updated>2023-03-27T14:24:28.793Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8812"><a class="upvote" href="javascript:vote(8812, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/runwayml/status/1640337292542844928?s=46&amp;t=0ju2qOip1ejUB8hmcyERhQ" rel="nofollow" id="tr14"><h1>Runway, Gen-1 공개.</h1></a> <span class="topicurl">(twitter.com/runwayml)</span></div><div class="topicdesc"><a href="topic?id=8812" class="c99 breakall">Stable Diffusion의 개발한 스타트업 Runway에서 드디어 Video to Video 툴인 Gen-1을 모두에게 무료로 공개하기 시작.  
-회원가입 시 무료로 이...</a></div><div class="topicinfo"><span id="tp8812">7</span> points by <a href="/user?id=unsignd">unsignd</a> 18시간전<span id="unvote8812"></span> | <a href="topic?id=8812" class="u">댓글 1개</a></div>]]></content>
+회원가입 시 무료로 이...</a></div><div class="topicinfo"><span id="tp8812">7</span> points by <a href="/user?id=unsignd">unsignd</a> 19시간전<span id="unvote8812"></span> | <a href="topic?id=8812" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT4가 내 반려견의 목숨을 살렸어요]]></title>
@@ -134,7 +134,7 @@ dhapi -U $YOUR_ID -P -K lotto645 -T buy -M...</a></div><div class="topicinfo"><s
         <id>https://www.coindeskkorea.com/news/articleView.html?idxno=90676</id>
         <link href="https://www.coindeskkorea.com/news/articleView.html?idxno=90676"/>
         <updated>2023-03-28T02:33:21.368Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8815"><a class="upvote" href="javascript:vote(8815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.coindeskkorea.com/news/articleView.html?idxno=90676" rel="nofollow" id="tr16"><h1>미 CFTC, 바이낸스 CEO 제소 - 미등록 파생상품 제공혐의</h1></a> <span class="topicurl">(coindeskkorea.com)</span></div><div class="topicdesc"><a href="topic?id=8815" class="c99 breakall">바이낸스, CEO, CCO 등을 모두 제소. 상품거래규정(CEA) 핵심 조항 8개를 위반한 혐의</a></div><div class="topicinfo"><span id="tp8815">2</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote8815"></span> | <a href="topic?id=8815" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8815"><a class="upvote" href="javascript:vote(8815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.coindeskkorea.com/news/articleView.html?idxno=90676" rel="nofollow" id="tr16"><h1>미 CFTC, 바이낸스 CEO 제소 - 미등록 파생상품 제공혐의</h1></a> <span class="topicurl">(coindeskkorea.com)</span></div><div class="topicdesc"><a href="topic?id=8815" class="c99 breakall">바이낸스, CEO, CCO 등을 모두 제소. 상품거래규정(CEA) 핵심 조항 8개를 위반한 혐의</a></div><div class="topicinfo"><span id="tp8815">2</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote8815"></span> | <a href="topic?id=8815" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lenis - 부드러운 스크롤 라이브러리]]></title>
