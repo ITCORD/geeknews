@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-03-31T04:16:26.718Z</updated>
+    <updated>2023-03-31T05:13:09.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=8837"/>
         <updated>2023-03-31T01:02:50.094Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8837"><a class="upvote" href="javascript:vote(8837, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sites.research.google/usm/" rel="nofollow" id="tr1"><h1>구글 Universal Speech Model - 모든 언어의 음성인식을 위한 모델</h1></a> <span class="topicurl">(sites.research.google)</span></div><div class="topicdesc"><a href="topic?id=8837" class="c99 breakall">- 20억개 파라미터 모델로 1200만 시간의 음성, 280억개의 문장, 300개의 언어로 학습   
-- 잘 알려진 언어부터 소수가 사용하는 언어까지 모두 ...</a></div><div class="topicinfo"><span id="tp8837">7</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8837"></span> | <a href="topic?id=8837" class="u">댓글 1개</a></div>]]></content>
+- 잘 알려진 언어부터 소수가 사용하는 언어까지 모두 ...</a></div><div class="topicinfo"><span id="tp8837">8</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote8837"></span> | <a href="topic?id=8837" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenFlamingo - 대규모 멀티모달 모델(LMM)을 훈련/평가하기 위한 오픈소스 프레임워크]]></title>
@@ -19,7 +19,7 @@
         <link href="https://news.hada.io/topic?id=8839"/>
         <updated>2023-03-31T02:34:14.479Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8839"><a class="upvote" href="javascript:vote(8839, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://laion.ai/blog/open-flamingo/" rel="nofollow" id="tr2"><h1>OpenFlamingo - 대규모 멀티모달 모델(LMM)을 훈련/평가하기 위한 오픈소스 프레임워크 </h1></a> <span class="topicurl">(laion.ai)</span></div><div class="topicdesc"><a href="topic?id=8839" class="c99 breakall">- GPT-4처럼 이미지/텍스트 입력을 같이 처리할수 있는 멀티 모달 시스템을 개발하는 것을 목표   
-- 이를 위해 이미지/동영상/텍스트를 처리하고...</a></div><div class="topicinfo"><span id="tp8839">6</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8839"></span> | <a href="topic?id=8839" class="u">댓글 1개</a></div>]]></content>
+- 이를 위해 이미지/동영상/텍스트를 처리하고...</a></div><div class="topicinfo"><span id="tp8839">6</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote8839"></span> | <a href="topic?id=8839" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ColossalChat - ChatGPT를 복제하기 위한 RLHF 파이프라인 오픈소스 솔루션]]></title>
@@ -30,7 +30,7 @@
   - Supervised 데이터 수집   
   - Supervised 파인 튜닝   
   - Reward 모델 학습   
-  - Reinforcement Learning 파...</a></div><div class="topicinfo"><span id="tp8845">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8845"></span> | <a href="topic?id=8845" class="u">댓글과 토론</a></div>]]></content>
+  - Reinforcement Learning 파...</a></div><div class="topicinfo"><span id="tp8845">5</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8845"></span> | <a href="topic?id=8845" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT4All - LLaMA 기반으로 800k 명령셋으로 훈련된 챗봇]]></title>
@@ -39,22 +39,30 @@
         <updated>2023-03-31T02:34:14.486Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8842"><a class="upvote" href="javascript:vote(8842, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nomic-ai/gpt4all" rel="nofollow" id="tr4"><h1>GPT4All - LLaMA 기반으로 800k 명령셋으로 훈련된 챗봇</h1></a> <span class="topicurl">(github.com/nomic-ai)</span></div><div class="topicdesc"><a href="topic?id=8842" class="c99 breakall">- 어시스턴트 스타일 대규모 언어모델   
 - 수집된 데이터, 데이터 수집 프로시져, 훈련 코드, 최종 모델 가중치 등을 모두 공개   
-- GPT 3.5 T...</a></div><div class="topicinfo"><span id="tp8842">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8842"></span> | <a href="topic?id=8842" class="u">댓글과 토론</a></div>]]></content>
+- GPT 3.5 T...</a></div><div class="topicinfo"><span id="tp8842">5</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8842"></span> | <a href="topic?id=8842" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈 레터 : 거대 AI 실험을 멈추세요]]></title>
+        <id>https://news.hada.io/topic?id=8846</id>
+        <link href="https://news.hada.io/topic?id=8846"/>
+        <updated>2023-03-31T03:14:11.285Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8846"><a class="upvote" href="javascript:vote(8846, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" rel="nofollow" id="tr5"><h1>오픈 레터 : 거대 AI 실험을 멈추세요</h1></a> <span class="topicurl">(futureoflife.org)</span></div><div class="topicdesc"><a href="topic?id=8846" class="c99 breakall">- "모든 AI랩들이 GPT-4보다 강력한 AI시스템을 훈련하는 것을 최소 6개월동안 즉시 중단할 것을 요청합니다."  
+- 인간과 경쟁하는 AI는 사회와 ...</a></div><div class="topicinfo"><span id="tp8846">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8846"></span> | <a href="topic?id=8846" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, GitHub에 대항하기 위해 AI 스타트업 Replit과 손잡다]]></title>
         <id>https://news.hada.io/topic?id=8844</id>
         <link href="https://news.hada.io/topic?id=8844"/>
         <updated>2023-03-31T02:34:14.482Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8844"><a class="upvote" href="javascript:vote(8844, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bloomberg.com/news/articles/2023-03-28/google-partners-with-ai-startup-replit-to-take-on-microsoft-s-github" rel="nofollow" id="tr5"><h1>구글, GitHub에 대항하기 위해 AI 스타트업 Replit과 손잡다</h1></a> <span class="topicurl">(bloomberg.com)</span></div><div class="topicdesc"><a href="topic?id=8844" class="c99 breakall">- 마이크로소프트 GitHub과 OpenAI의 연합인 CoPilot과 경쟁   
-- 2천만 사용자를 가진 Replit의 Ghostwriter가 구글의 언어 생성 AI를 이용할 예...</a></div><div class="topicinfo"><span id="tp8844">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8844"></span> | <a href="topic?id=8844" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8844"><a class="upvote" href="javascript:vote(8844, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bloomberg.com/news/articles/2023-03-28/google-partners-with-ai-startup-replit-to-take-on-microsoft-s-github" rel="nofollow" id="tr6"><h1>구글, GitHub에 대항하기 위해 AI 스타트업 Replit과 손잡다</h1></a> <span class="topicurl">(bloomberg.com)</span></div><div class="topicdesc"><a href="topic?id=8844" class="c99 breakall">- 마이크로소프트 GitHub과 OpenAI의 연합인 CoPilot과 경쟁   
+- 2천만 사용자를 가진 Replit의 Ghostwriter가 구글의 언어 생성 AI를 이용할 예...</a></div><div class="topicinfo"><span id="tp8844">3</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8844"></span> | <a href="topic?id=8844" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bicycle - 자전거가 움직이는 원리에 대한 모든 것]]></title>
         <id>https://news.hada.io/topic?id=8831</id>
         <link href="https://news.hada.io/topic?id=8831"/>
         <updated>2023-03-30T02:33:47.582Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8831"><a class="upvote" href="javascript:vote(8831, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ciechanow.ski/bicycle/" rel="nofollow" id="tr6"><h1>Bicycle - 자전거가 움직이는 원리에 대한 모든 것</h1></a> <span class="topicurl">(ciechanow.ski)</span></div><div class="topicdesc"><a href="topic?id=8831" class="c99 breakall">- 자전거가 쓰러지지 않고 빠르게 움직일 수 있는 이유에 대한 과학적 원리를 상세 애니메이션과 함께 설명  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8831"><a class="upvote" href="javascript:vote(8831, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ciechanow.ski/bicycle/" rel="nofollow" id="tr7"><h1>Bicycle - 자전거가 움직이는 원리에 대한 모든 것</h1></a> <span class="topicurl">(ciechanow.ski)</span></div><div class="topicdesc"><a href="topic?id=8831" class="c99 breakall">- 자전거가 쓰러지지 않고 빠르게 움직일 수 있는 이유에 대한 과학적 원리를 상세 애니메이션과 함께 설명  
   - 힘, 위/아래, 앞/뒤, 왼쪽/오른...</a></div><div class="topicinfo"><span id="tp8831">28</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8831"></span> | <a href="topic?id=8831" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -62,30 +70,14 @@
         <id>https://news.hada.io/topic?id=8838</id>
         <link href="https://news.hada.io/topic?id=8838"/>
         <updated>2023-03-31T02:34:14.487Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8838"><a class="upvote" href="javascript:vote(8838, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://venturebeat.com/games/e3-2023-is-canceled/" rel="nofollow" id="tr7"><h1>E3 2023이 취소되었습니다</h1></a> <span class="topicurl">(venturebeat.com)</span></div><div class="topicdesc"><a href="topic?id=8838" class="c99 breakall">5월 개최 예정이었으나, 소니/마이크로소프트/닌텐도 등 메이저 업체들의 불참이 이어져서 취소하기로</a></div><div class="topicinfo"><span id="tp8838">3</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8838"></span> | <a href="topic?id=8838" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈 레터 : 거대 AI 실험을 멈추세요]]></title>
-        <id>https://news.hada.io/topic?id=8846</id>
-        <link href="https://news.hada.io/topic?id=8846"/>
-        <updated>2023-03-31T03:14:11.285Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8846"><a class="upvote" href="javascript:vote(8846, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" rel="nofollow" id="tr8"><h1>오픈 레터 : 거대 AI 실험을 멈추세요</h1></a> <span class="topicurl">(futureoflife.org)</span></div><div class="topicdesc"><a href="topic?id=8846" class="c99 breakall">- "모든 AI랩들이 GPT-4보다 강력한 AI시스템을 훈련하는 것을 최소 6개월동안 즉시 중단할 것을 요청합니다."  
-- 인간과 경쟁하는 AI는 사회와 ...</a></div><div class="topicinfo"><span id="tp8846">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8846"></span> | <a href="topic?id=8846" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing Chat, 이제 광고가 노출됨]]></title>
-        <id>https://news.hada.io/topic?id=8840</id>
-        <link href="https://news.hada.io/topic?id=8840"/>
-        <updated>2023-03-31T02:34:14.496Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8840"><a class="upvote" href="javascript:vote(8840, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/debarghya_das/status/1640892791923572737" rel="nofollow" id="tr9"><h1>Bing Chat, 이제 광고가 노출됨</h1></a> <span class="topicurl">(twitter.com/debarghya_das)</span></div><div class="topicdesc"><a href="topic?id=8840" class="c99 breakall">- AI가 생성한 답변중에서 특정 브랜드 이름에 "Ad" 마크가 뜨면서 클릭 가능해짐   
-- 예시화면 에서는 "가장 싼 혼다 자동차"를 묻는 질문에 "T...</a></div><div class="topicinfo"><span id="tp8840">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8840"></span> | <a href="topic?id=8840" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8838"><a class="upvote" href="javascript:vote(8838, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://venturebeat.com/games/e3-2023-is-canceled/" rel="nofollow" id="tr8"><h1>E3 2023이 취소되었습니다</h1></a> <span class="topicurl">(venturebeat.com)</span></div><div class="topicdesc"><a href="topic?id=8838" class="c99 breakall">5월 개최 예정이었으나, 소니/마이크로소프트/닌텐도 등 메이저 업체들의 불참이 이어져서 취소하기로</a></div><div class="topicinfo"><span id="tp8838">3</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote8838"></span> | <a href="topic?id=8838" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cursor - AI와 함께 코딩을 하기위해 만들어진 에디터]]></title>
         <id>https://news.hada.io/topic?id=8829</id>
         <link href="https://news.hada.io/topic?id=8829"/>
         <updated>2023-03-30T01:04:11.010Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8829"><a class="upvote" href="javascript:vote(8829, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/getcursor/cursor" rel="nofollow" id="tr10"><h1>Cursor - AI와 함께 코딩을 하기위해 만들어진 에디터</h1></a> <span class="topicurl">(github.com/getcursor)</span></div><div class="topicdesc"><a href="topic?id=8829" class="c99 breakall">- 에디터에 확장으로 AI기능을 넣는 것이 아니라 AI 에 기반한 기능을 중점으로 에디터를 개발   
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8829"><a class="upvote" href="javascript:vote(8829, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/getcursor/cursor" rel="nofollow" id="tr9"><h1>Cursor - AI와 함께 코딩을 하기위해 만들어진 에디터</h1></a> <span class="topicurl">(github.com/getcursor)</span></div><div class="topicdesc"><a href="topic?id=8829" class="c99 breakall">- 에디터에 확장으로 AI기능을 넣는 것이 아니라 AI 에 기반한 기능을 중점으로 에디터를 개발   
   - Write : Copilot 보다 더 똑똑한 AI가 10~1...</a></div><div class="topicinfo"><span id="tp8829">18</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8829"></span> | <a href="topic?id=8829" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -93,11 +85,19 @@
         <id>https://news.hada.io/topic?id=8826</id>
         <link href="https://news.hada.io/topic?id=8826"/>
         <updated>2023-03-29T02:44:50.942Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8826"><a class="upvote" href="javascript:vote(8826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/learn/images" rel="nofollow" id="tr11"><h1>Learn Images - 웹개발자를 위한 이미지에 대한 모든 것</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=8826" class="c99 breakall">- 초보부터 고급 웹 개발자까지, 이미지의 기초부터 포맷, 전송방식까지   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8826"><a class="upvote" href="javascript:vote(8826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/learn/images" rel="nofollow" id="tr10"><h1>Learn Images - 웹개발자를 위한 이미지에 대한 모든 것</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=8826" class="c99 breakall">- 초보부터 고급 웹 개발자까지, 이미지의 기초부터 포맷, 전송방식까지   
 # 목차   
 - Learn Images  
 ## Images and performance  
 - A bri...</a></div><div class="topicinfo"><span id="tp8826">42</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8826"></span> | <a href="topic?id=8826" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bing Chat, 이제 광고가 노출됨]]></title>
+        <id>https://news.hada.io/topic?id=8840</id>
+        <link href="https://news.hada.io/topic?id=8840"/>
+        <updated>2023-03-31T02:34:14.496Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8840"><a class="upvote" href="javascript:vote(8840, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/debarghya_das/status/1640892791923572737" rel="nofollow" id="tr11"><h1>Bing Chat, 이제 광고가 노출됨</h1></a> <span class="topicurl">(twitter.com/debarghya_das)</span></div><div class="topicdesc"><a href="topic?id=8840" class="c99 breakall">- AI가 생성한 답변중에서 특정 브랜드 이름에 "Ad" 마크가 뜨면서 클릭 가능해짐   
+- 예시화면 에서는 "가장 싼 혼다 자동차"를 묻는 질문에 "T...</a></div><div class="topicinfo"><span id="tp8840">2</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote8840"></span> | <a href="topic?id=8840" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MiniLLM - 개인용 GPU에서 LLM 실행 하기]]></title>
@@ -116,7 +116,7 @@
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8836"><a class="upvote" href="javascript:vote(8836, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.ageofai.capital/freedomgpt" rel="nofollow" id="tr13"><h1>FreedomGPT: 검열 없는 AI 챗봇 공개</h1></a> <span class="topicurl">(ageofai.capital)</span></div><div class="topicdesc"><a href="topic?id=8836" class="c99 breakall">* FreedomGPT: 100% 비공개 AI 챗봇  
 * 목적: 편견 없고 검열되지 않은 AI 필요성 강조  
 * 투자: AgeOfAi.capital 투자 펀드 가능  
-* AI 안...</a></div><div class="topicinfo"><span id="tp8836">4</span> points by <a href="/user?id=tkwlsrl">tkwlsrl</a> 13시간전<span id="unvote8836"></span> | <a href="topic?id=8836" class="u">댓글 4개</a></div>]]></content>
+* AI 안...</a></div><div class="topicinfo"><span id="tp8836">5</span> points by <a href="/user?id=tkwlsrl">tkwlsrl</a> 14시간전<span id="unvote8836"></span> | <a href="topic?id=8836" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MiniSearch - JavaScript 인메모리 풀텍스트 검색 엔진]]></title>
@@ -134,7 +134,7 @@
         <updated>2023-03-31T02:34:14.502Z</updated>
         <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8843"><a class="upvote" href="javascript:vote(8843, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lwn.net/SubscriberLink/927262/6adb2350e2b0d2ce/" rel="nofollow" id="tr15"><h1>Ubuntu, Flatpak을 기본설치에서 제외하고 자체 패키지 매니저인 Snap에 집중할 것</h1></a> <span class="topicurl">(lwn.net)</span></div><div class="topicdesc"><a href="topic?id=8843" class="c99 breakall">- "신규 사용자의 기본 우분투 경험을 개선하기 위해"  
 - 2023/4월에 출시 예정인 Lunar Lobster 부터는 Flatpak이 기본 포함되지 않음   
-- 기...</a></div><div class="topicinfo"><span id="tp8843">1</span> point by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8843"></span> | <a href="topic?id=8843" class="u">댓글 1개</a></div>]]></content>
+- 기...</a></div><div class="topicinfo"><span id="tp8843">1</span> point by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote8843"></span> | <a href="topic?id=8843" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple, AI로 비디오를 압축하는 스타트업 WaveOne 인수]]></title>
