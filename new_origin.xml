@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2023-04-03T14:13:11.027Z</updated>
+    <updated>2023-04-03T15:13:52.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
   - AI 분야에서 프롬프트 (Prompt)의 정의   
   - 프롬프트의 구성 요소  
 - 프롬프트 엔지니어링이란?  
-- 프롬프트 작성을...</a></div><div class="topicinfo"><span id="tp8863">23</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote8863"></span> | <a href="topic?id=8863" class="u">댓글 1개</a></div>]]></content>
+- 프롬프트 작성을...</a></div><div class="topicinfo"><span id="tp8863">26</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote8863"></span> | <a href="topic?id=8863" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vicuna-13B - ChatGPT 90% 이상의 품질을 보여주는 오픈소스 챗봇]]></title>
@@ -23,7 +23,7 @@
         <updated>2023-04-03T02:03:38.106Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8862"><a class="upvote" href="javascript:vote(8862, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vicuna.lmsys.org/" rel="nofollow" id="tr2"><h1>Vicuna-13B - ChatGPT 90% 이상의 품질을 보여주는 오픈소스 챗봇</h1></a> <span class="topicurl">(vicuna.lmsys.org)</span></div><div class="topicdesc"><a href="topic?id=8862" class="c99 breakall">- LLaMA 를 ShareGPT에 공유된 7만개의 사용자 대화로 파인 튜닝   
 - ChatGPT 및 구글 Bard 대비 90% 이상의 품질을 보여줌   
-- 훈련/서빙 코...</a></div><div class="topicinfo"><span id="tp8862">13</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote8862"></span> | <a href="topic?id=8862" class="u">댓글과 토론</a></div>]]></content>
+- 훈련/서빙 코...</a></div><div class="topicinfo"><span id="tp8862">14</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote8862"></span> | <a href="topic?id=8862" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lit-LLaMA - nanoGPT 기반 오픈소스 LLaMA 구현체]]></title>
@@ -31,7 +31,7 @@
         <link href="https://github.com/Lightning-AI/lit-llama"/>
         <updated>2023-04-03T02:03:38.104Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8865"><a class="upvote" href="javascript:vote(8865, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Lightning-AI/lit-llama" rel="nofollow" id="tr3"><h1>Lit-LLaMA - nanoGPT 기반 오픈소스 LLaMA 구현체</h1></a> <span class="topicurl">(github.com/Lightning-AI)</span></div><div class="topicdesc"><a href="topic?id=8865" class="c99 breakall">- GPL 라이센스인 LLaMA 코드 대신, nanoGPT 기반으로 Apache 2.0 라이센스로 완전히 별도 개발된 오픈소스   
-- bolierplate 없이 단일 파일로 ...</a></div><div class="topicinfo"><span id="tp8865">9</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote8865"></span> | <a href="topic?id=8865" class="u">댓글 1개</a></div>]]></content>
+- bolierplate 없이 단일 파일로 ...</a></div><div class="topicinfo"><span id="tp8865">11</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote8865"></span> | <a href="topic?id=8865" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Llama.cpp 의 모델 가중치 로딩 속도를 10~100배 개선]]></title>
@@ -39,7 +39,7 @@
         <link href="https://github.com/ggerganov/llama.cpp/pull/613"/>
         <updated>2023-04-03T02:03:38.103Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8859"><a class="upvote" href="javascript:vote(8859, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ggerganov/llama.cpp/pull/613" rel="nofollow" id="tr4"><h1>Llama.cpp 의 모델 가중치 로딩 속도를 10~100배 개선</h1></a> <span class="topicurl">(github.com/ggerganov)</span></div><div class="topicdesc"><a href="topic?id=8859" class="c99 breakall">- 파일 포맷 변경으로 read() 없이 mmap() 가능해져서 가중치 로딩 속도가 10~100배 빨라짐   
-- 싱글 파일인 7B 및 멀티 파일인 13B 등도 지원해...</a></div><div class="topicinfo"><span id="tp8859">8</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote8859"></span> | <a href="topic?id=8859" class="u">댓글 1개</a></div>]]></content>
+- 싱글 파일인 7B 및 멀티 파일인 13B 등도 지원해...</a></div><div class="topicinfo"><span id="tp8859">8</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote8859"></span> | <a href="topic?id=8859" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BloombergGPT - 금융을 위한 대규모 언어 모델]]></title>
@@ -47,7 +47,7 @@
         <link href="https://arxiv.org/abs/2303.17564"/>
         <updated>2023-04-03T00:58:43.627Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8858"><a class="upvote" href="javascript:vote(8858, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arxiv.org/abs/2303.17564" rel="nofollow" id="tr5"><h1>BloombergGPT - 금융을 위한 대규모 언어 모델</h1></a> <span class="topicurl">(arxiv.org)</span></div><div class="topicdesc"><a href="topic?id=8858" class="c99 breakall">- 광범위한 금융 데이터로 학습된 500억개(50B) 파라미터 언어 모델   
-- 블룸버그의 데이터소스에 기반한 3630억개 토큰 데이터셋을 구성했고, 3...</a></div><div class="topicinfo"><span id="tp8858">8</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote8858"></span> | <a href="topic?id=8858" class="u">댓글과 토론</a></div>]]></content>
+- 블룸버그의 데이터소스에 기반한 3630억개 토큰 데이터셋을 구성했고, 3...</a></div><div class="topicinfo"><span id="tp8858">8</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote8858"></span> | <a href="topic?id=8858" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[krotoDC - protobuf plugin for Kotlin data class / gRPC service & stub generation]]></title>
@@ -55,7 +55,7 @@
         <link href="https://medium.com/@icycle0409/introducing-krotodc-use-protobuf-and-grpc-with-kotlin-dataclasses-3144d0b20032"/>
         <updated>2023-04-03T02:03:38.108Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8860"><a class="upvote" href="javascript:vote(8860, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@icycle0409/introducing-krotodc-use-protobuf-and-grpc-with-kotlin-dataclasses-3144d0b20032" rel="nofollow" id="tr6"><h1>krotoDC - protobuf plugin for Kotlin data class / gRPC service &amp; stub generation</h1></a> <span class="topicurl">(medium.com/@icycle0409)</span></div><div class="topicdesc"><a href="topic?id=8860" class="c99 breakall">- builder 로 다루어야 하는 기존 java protobuf class 들을 대신해 사용할 수 있는 data class 제너레이터  
-- 생성된 클래스들을 request/respo...</a></div><div class="topicinfo"><span id="tp8860">5</span> points by <a href="/user?id=mscheong">mscheong</a> 13시간전<span id="unvote8860"></span> | <a href="topic?id=8860" class="u">댓글 1개</a></div>]]></content>
+- 생성된 클래스들을 request/respo...</a></div><div class="topicinfo"><span id="tp8860">5</span> points by <a href="/user?id=mscheong">mscheong</a> 14시간전<span id="unvote8860"></span> | <a href="topic?id=8860" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Security Copilot 프리뷰 공개]]></title>
@@ -63,7 +63,7 @@
         <link href="https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot"/>
         <updated>2023-04-03T02:03:38.107Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8861"><a class="upvote" href="javascript:vote(8861, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot" rel="nofollow" id="tr7"><h1>Microsoft Security Copilot 프리뷰 공개</h1></a> <span class="topicurl">(microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=8861" class="c99 breakall">- 생성형 AI를 통해서 숨겨진 패턴을 탐지하고, 방어를 강화하고, 사고에 더 빠르게 대응   
-- 진행중인 공격을 식별, 규모 평가, 실제 전술 기반...</a></div><div class="topicinfo"><span id="tp8861">4</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote8861"></span> | <a href="topic?id=8861" class="u">댓글과 토론</a></div>]]></content>
+- 진행중인 공격을 식별, 규모 평가, 실제 전술 기반...</a></div><div class="topicinfo"><span id="tp8861">4</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote8861"></span> | <a href="topic?id=8861" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Text2Video-Zero : 제로샷 비디오 생성 모델]]></title>
@@ -95,7 +95,7 @@
         <id>https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/</id>
         <link href="https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/"/>
         <updated>2023-04-03T03:13:07.119Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8866"><a class="upvote" href="javascript:vote(8866, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/" rel="nofollow" id="tr11"><h1>Steam의 Top 100 플레이 게임 중 75%가 Steam Deck 에서 플레이 가능</h1></a> <span class="topicurl">(boilingsteam.com)</span></div><div class="topicdesc"><a href="topic?id=8866" class="c99 breakall">미지원 게임들은 주로 안티치팅 기능이 포함된 배틀그라운드, 데스티니2 등</a></div><div class="topicinfo"><span id="tp8866">2</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote8866"></span> | <a href="topic?id=8866" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8866"><a class="upvote" href="javascript:vote(8866, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/" rel="nofollow" id="tr11"><h1>Steam의 Top 100 플레이 게임 중 75%가 Steam Deck 에서 플레이 가능</h1></a> <span class="topicurl">(boilingsteam.com)</span></div><div class="topicdesc"><a href="topic?id=8866" class="c99 breakall">미지원 게임들은 주로 안티치팅 기능이 포함된 배틀그라운드, 데스티니2 등</a></div><div class="topicinfo"><span id="tp8866">2</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote8866"></span> | <a href="topic?id=8866" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 맞춤형 AI 챗봇 퍼스널리티 플랫폼: BooCae(부캐) 알파 테스트]]></title>
@@ -105,7 +105,7 @@
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8867"><a class="upvote" href="javascript:vote(8867, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=8867" rel="nofollow" id="tr12"><h1>Show GN: 맞춤형 AI 챗봇 퍼스널리티 플랫폼: BooCae(부캐) 알파 테스트</h1></a> <span class="topicurl">(boocae.oopy.io)</span></div><div class="topicdesc"><a href="topic?id=8867" class="c99 breakall">이곳의 여러분들도 같은 생각이시겠지만,   
 아이언맨의 자비스를 실제로 만들어 보고 싶었습니다.  
   
-맞춤형 AI 챗봇 퍼스널리티 플랫폼 서...</a></div><div class="topicinfo"><span id="tp8867">1</span> point by <a href="/user?id=seawolf">seawolf</a> 5시간전<span id="unvote8867"></span> | <a href="topic?id=8867" class="u">댓글과 토론</a></div>]]></content>
+맞춤형 AI 챗봇 퍼스널리티 플랫폼 서...</a></div><div class="topicinfo"><span id="tp8867">1</span> point by <a href="/user?id=seawolf">seawolf</a> 6시간전<span id="unvote8867"></span> | <a href="topic?id=8867" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bicycle - 자전거가 움직이는 원리에 대한 모든 것]]></title>
@@ -164,7 +164,7 @@
         <link href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/"/>
         <updated>2023-03-31T03:14:29.700Z</updated>
         <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8846"><a class="upvote" href="javascript:vote(8846, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" rel="nofollow" id="tr19"><h1>공개서한 : 거대 AI 실험을 멈추세요</h1></a> <span class="topicurl">(futureoflife.org)</span></div><div class="topicdesc"><a href="topic?id=8846" class="c99 breakall">- "모든 AI랩들이 GPT-4보다 강력한 AI시스템을 훈련하는 것을 최소 6개월동안 즉시 중단할 것을 요청합니다."  
-- 인간과 경쟁하는 AI는 사회와 ...</a></div><div class="topicinfo"><span id="tp8846">15</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8846"></span> | <a href="topic?id=8846" class="u">댓글 6개</a></div>]]></content>
+- 인간과 경쟁하는 AI는 사회와 ...</a></div><div class="topicinfo"><span id="tp8846">15</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote8846"></span> | <a href="topic?id=8846" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MiniLLM - 개인용 GPU에서 LLM 실행 하기]]></title>
