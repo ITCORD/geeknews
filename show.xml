@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-04-04T07:12:34.697Z</updated>
+    <updated>2023-04-04T08:16:52.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://news.hada.io/topic?id=8877"/>
         <updated>2023-04-04T03:13:06.629Z</updated>
         <content type="html"><![CDATA[wes5510]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: u2Docs - youtube에서 PPT문서만 추출해주는 크롬익스텐션을 만들었습니다]]></title>
+        <id>https://news.hada.io/topic?id=8882</id>
+        <link href="https://news.hada.io/topic?id=8882"/>
+        <updated>2023-04-04T08:16:29.489Z</updated>
+        <content type="html"><![CDATA[rednakta]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [NodeJS] Make Express to be faster than Fastify (also NestJS)]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8515"/>
         <updated>2023-02-19T14:12:19.610Z</updated>
         <content type="html"><![CDATA[wavekr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: AiShell - ChatGPT 기반의 자연어 셸 툴 킷]]></title>
-        <id>https://news.hada.io/topic?id=8426</id>
-        <link href="https://news.hada.io/topic?id=8426"/>
-        <updated>2023-02-08T05:13:01.289Z</updated>
-        <content type="html"><![CDATA[yeongyu]]></content>
     </entry>
 </feed>
