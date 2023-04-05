@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-04-05T08:17:50.481Z</updated>
+    <updated>2023-04-05T09:14:38.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: InvestGPT 워렌 버핏을 학습한 AI와의 대화]]></title>
+        <id>https://news.hada.io/topic?id=8889</id>
+        <link href="https://news.hada.io/topic?id=8889"/>
+        <updated>2023-04-05T09:14:14.035Z</updated>
+        <content type="html"><![CDATA[sungchi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 자모야 모여라 - 파일명 자소 분리 해결 도구 (웹/CLI)]]></title>
         <id>https://news.hada.io/topic?id=8872</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8515"/>
         <updated>2023-04-04T12:23:03.744Z</updated>
         <content type="html"><![CDATA[wavekr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: AiShell - ChatGPT 기반의 자연어 셸 툴 킷]]></title>
-        <id>https://news.hada.io/topic?id=8426</id>
-        <link href="https://news.hada.io/topic?id=8426"/>
-        <updated>2023-04-04T12:23:03.745Z</updated>
-        <content type="html"><![CDATA[yeongyu]]></content>
     </entry>
 </feed>
