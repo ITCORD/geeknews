@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-04-10T16:17:02.478Z</updated>
+    <updated>2023-04-10T17:11:30.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 가상키보드(vKeyboard) 우회를 도와주는 파이썬 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=8925</id>
+        <link href="https://news.hada.io/topic?id=8925"/>
+        <updated>2023-04-10T17:11:07.878Z</updated>
+        <content type="html"><![CDATA[soulee]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: InvestGPT 워렌 버핏을 학습한 AI와의 대화]]></title>
         <id>https://news.hada.io/topic?id=8889</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8463"/>
         <updated>2023-02-13T01:07:35.931Z</updated>
         <content type="html"><![CDATA[dangtony98]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 페이어블 - 내 주변 애플페이 가맹점 지도]]></title>
-        <id>https://news.hada.io/topic?id=8758</id>
-        <link href="https://news.hada.io/topic?id=8758"/>
-        <updated>2023-03-21T05:13:18.467Z</updated>
-        <content type="html"><![CDATA[stevejkang]]></content>
     </entry>
 </feed>
