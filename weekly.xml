@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-04-09T23:12:27.273Z</updated>
+    <updated>2023-04-10T00:59:06.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Meta의 SAM, AR을 위한 새로운 AI모델]]></title>
+        <id>https://news.hada.io/weekly/202315</id>
+        <link href="https://news.hada.io/weekly/202315"/>
+        <updated>2023-04-10T00:58:54.675Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202315" class="u"> Meta의 SAM, AR을 위한 새로운 AI모델 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI가 우리 삶에 끼치는 영향들]]></title>
         <id>https://news.hada.io/weekly/202314</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202306"/>
         <updated>2023-02-06T01:02:43.362Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202306" class="u"> 20년간 소프트웨어 엔지니어로서 배운 20가지 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신경망 개발을 밑바닥부터 코딩하며 배우기]]></title>
-        <id>https://news.hada.io/weekly/202305</id>
-        <link href="https://news.hada.io/weekly/202305"/>
-        <updated>2023-01-30T01:01:01.126Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202305" class="u"> 신경망 개발을 밑바닥부터 코딩하며 배우기</a>]]></content>
     </entry>
 </feed>
