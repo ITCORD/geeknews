@@ -2,69 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-04-13T02:03:56.526Z</updated>
+    <updated>2023-04-13T03:13:46.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Tabby - 셀프호스트 가능한 오픈소스 AI 코딩 비서]]></title>
-        <id>https://github.com/TabbyML/tabby</id>
-        <link href="https://github.com/TabbyML/tabby"/>
-        <updated>2023-04-13T02:03:17.246Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8944"><a class="upvote" href="javascript:vote(8944, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/TabbyML/tabby" rel="nofollow" id="tr1"><h1>Tabby - 셀프호스트 가능한 오픈소스 AI 코딩 비서</h1></a> <span class="topicurl">(github.com/TabbyML)</span></div><div class="topicdesc"><a href="topic?id=8944" class="c99 breakall">- GitHub Copilot 의 On-Prem 대체제   
-- DBMS 및 클라우드 없이 운용 가능   
-- 모델 및 MLOps 설정 &amp; 시각화용 웹 UI 제공   
-- OpenAPI 인...</a></div><div class="topicinfo"><span id="tp8944">2</span> points by <a href="/user?id=xguru">xguru</a> 46분전<span id="unvote8944"></span> | <a href="topic?id=8944" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supabase Edge Runtime 오픈소스 공개]]></title>
-        <id>https://supabase.com/blog/edge-runtime-self-hosted-deno-functions</id>
-        <link href="https://supabase.com/blog/edge-runtime-self-hosted-deno-functions"/>
-        <updated>2023-04-13T02:03:17.246Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8943"><a class="upvote" href="javascript:vote(8943, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://supabase.com/blog/edge-runtime-self-hosted-deno-functions" rel="nofollow" id="tr2"><h1>Supabase Edge Runtime 오픈소스 공개</h1></a> <span class="topicurl">(supabase.com)</span></div><div class="topicdesc"><a href="topic?id=8943" class="c99 breakall">- Deno Edge Functions를 셀프 호스팅 가능하게 해주는 오픈소스 런타임   
-- 1년전에 공개한 Supabase Edge Functions는 Deno Deploy로 Edge Fun...</a></div><div class="topicinfo"><span id="tp8943">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8943"></span> | <a href="topic?id=8943" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[SQL Maxis: RabbitMQ를 Postgres Queue로 교체한 이유]]></title>
+        <id>https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue</id>
+        <link href="https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue"/>
+        <updated>2023-04-13T02:03:17.256Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8947"><a class="upvote" href="javascript:vote(8947, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue" rel="nofollow" id="tr1"><h1>SQL Maxis: RabbitMQ를 Postgres Queue로 교체한 이유</h1></a> <span class="topicurl">(prequel.co)</span></div><div class="topicdesc"><a href="topic?id=8947" class="c99 breakall">- RabbitMQ를 걷어내고 PostgresDB에 SQL을 이용한 큐로 교체  
+- 교체에는 반나절 정도 걸렸고, 소스는 580라인 줄어듬  
+- 훨씬 중요한 것은 ...</a></div><div class="topicinfo"><span id="tp8947">5</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8947"></span> | <a href="topic?id=8947" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[phind - 개발자를 위한 GPT-4 기반 검색 엔진]]></title>
         <id>https://www.phind.com/</id>
         <link href="https://www.phind.com/"/>
         <updated>2023-04-13T00:57:30.607Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8942"><a class="upvote" href="javascript:vote(8942, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.phind.com" rel="nofollow" id="tr3"><h1>phind - 개발자를 위한 GPT-4 기반 검색 엔진</h1></a> <span class="topicurl">(phind.com)</span></div><div class="topicdesc"><a href="topic?id=8942" class="c99 breakall">- 개발자를 위한 Generative AI 검색 엔진인 phind에서 GPT-4 기반 검색을 출시.  
-- 전문가 (Expert) 토글을 활성화하면 GPT-4 모드로 동작함.  ...</a></div><div class="topicinfo"><span id="tp8942">2</span> points by <a href="/user?id=kuroneko">kuroneko</a> 1시간전<span id="unvote8942"></span> | <a href="topic?id=8942" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8942"><a class="upvote" href="javascript:vote(8942, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.phind.com" rel="nofollow" id="tr2"><h1>phind - 개발자를 위한 GPT-4 기반 검색 엔진</h1></a> <span class="topicurl">(phind.com)</span></div><div class="topicdesc"><a href="topic?id=8942" class="c99 breakall">- 개발자를 위한 Generative AI 검색 엔진인 phind에서 GPT-4 기반 검색을 출시.  
+- 전문가 (Expert) 토글을 활성화하면 GPT-4 모드로 동작함.  ...</a></div><div class="topicinfo"><span id="tp8942">5</span> points by <a href="/user?id=kuroneko">kuroneko</a> 2시간전<span id="unvote8942"></span> | <a href="topic?id=8942" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make Something Wonderful - Steve Jobs in his own words]]></title>
-        <id>https://stevejobsarchive.com/book</id>
-        <link href="https://stevejobsarchive.com/book"/>
-        <updated>2023-04-12T03:13:08.088Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8940"><a class="upvote" href="javascript:vote(8940, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stevejobsarchive.com/book" rel="nofollow" id="tr4"><h1>Make Something Wonderful - Steve Jobs in his own words</h1></a> <span class="topicurl">(stevejobsarchive.com)</span></div><div class="topicdesc"><a href="topic?id=8940" class="c99 breakall">- "뭔가 멋진 것을 만드세요 - 스티브 잡스가 직접 전하는 말"  
-- 스티브 잡스 아카이브가 발간한 무료 이북 (194p)  
-- 잡스가 생전에 했던 연...</a></div><div class="topicinfo"><span id="tp8940">15</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote8940"></span> | <a href="topic?id=8940" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Supabase Edge Runtime 오픈소스 공개]]></title>
+        <id>https://supabase.com/blog/edge-runtime-self-hosted-deno-functions</id>
+        <link href="https://supabase.com/blog/edge-runtime-self-hosted-deno-functions"/>
+        <updated>2023-04-13T02:03:17.246Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8943"><a class="upvote" href="javascript:vote(8943, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://supabase.com/blog/edge-runtime-self-hosted-deno-functions" rel="nofollow" id="tr3"><h1>Supabase Edge Runtime 오픈소스 공개</h1></a> <span class="topicurl">(supabase.com)</span></div><div class="topicdesc"><a href="topic?id=8943" class="c99 breakall">- Deno Edge Functions를 셀프 호스팅 가능하게 해주는 오픈소스 런타임   
+- 1년전에 공개한 Supabase Edge Functions는 Deno Deploy로 Edge Fun...</a></div><div class="topicinfo"><span id="tp8943">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8943"></span> | <a href="topic?id=8943" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Croner - Cron for JavaScript/TypeScript]]></title>
-        <id>https://github.com/hexagon/croner</id>
-        <link href="https://github.com/hexagon/croner"/>
-        <updated>2023-04-12T02:05:12.458Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8936"><a class="upvote" href="javascript:vote(8936, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hexagon/croner" rel="nofollow" id="tr5"><h1>Croner - Cron for JavaScript/TypeScript</h1></a> <span class="topicurl">(github.com/hexagon)</span></div><div class="topicdesc"><a href="topic?id=8936" class="c99 breakall">- Cron 문법으로 JavaScript 함수 트리거링 지원   
-- Cron 표현식을 평가하고, 예정된 실행 시간 목록 가져오기 가능   
-- Vixie Cron 패턴을 ...</a></div><div class="topicinfo"><span id="tp8936">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8936"></span> | <a href="topic?id=8936" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Maxis: RabbitMQ를 Postgres Queue로 교체한 이유]]></title>
-        <id>https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue</id>
-        <link href="https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue"/>
-        <updated>2023-04-13T02:03:17.256Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8947"><a class="upvote" href="javascript:vote(8947, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue" rel="nofollow" id="tr6"><h1>SQL Maxis: RabbitMQ를 Postgres Queue로 교체한 이유</h1></a> <span class="topicurl">(prequel.co)</span></div><div class="topicdesc"><a href="topic?id=8947" class="c99 breakall">- RabbitMQ를 걷어내고 PostgresDB에 SQL을 이용한 큐로 교체  
-- 교체에는 반나절 정도 걸렸고, 소스는 580라인 줄어듬  
-- 훨씬 중요한 것은 ...</a></div><div class="topicinfo"><span id="tp8947">1</span> point by <a href="/user?id=xguru">xguru</a> 14초전<span id="unvote8947"></span> | <a href="topic?id=8947" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Tabby - 셀프호스트 가능한 오픈소스 AI 코딩 비서]]></title>
+        <id>https://github.com/TabbyML/tabby</id>
+        <link href="https://github.com/TabbyML/tabby"/>
+        <updated>2023-04-13T02:03:17.246Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8944"><a class="upvote" href="javascript:vote(8944, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/TabbyML/tabby" rel="nofollow" id="tr4"><h1>Tabby - 셀프호스트 가능한 오픈소스 AI 코딩 비서</h1></a> <span class="topicurl">(github.com/TabbyML)</span></div><div class="topicdesc"><a href="topic?id=8944" class="c99 breakall">- GitHub Copilot 의 On-Prem 대체제   
+- DBMS 및 클라우드 없이 운용 가능   
+- 모델 및 MLOps 설정 &amp; 시각화용 웹 UI 제공   
+- OpenAPI 인...</a></div><div class="topicinfo"><span id="tp8944">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8944"></span> | <a href="topic?id=8944" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Browser-Cookie3 - 파이썬에서 브라우저의 쿠키 가져다 사용하기]]></title>
         <id>https://github.com/borisbabic/browser_cookie3</id>
         <link href="https://github.com/borisbabic/browser_cookie3"/>
         <updated>2023-04-13T02:03:17.257Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8945"><a class="upvote" href="javascript:vote(8945, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/borisbabic/browser_cookie3" rel="nofollow" id="tr7"><h1>Browser-Cookie3 - 파이썬에서 브라우저의 쿠키 가져다 사용하기</h1></a> <span class="topicurl">(github.com/borisbabic)</span></div><div class="topicdesc"><a href="topic?id=8945" class="c99 breakall">- 웹 페이지를 통한 사이트 로그인 필요없이 스크립트에서 직접 사이트에 접속해서 다양한 작업 가능   
-  - 브라우저의 SQLite DB에 저장된 쿠키...</a></div><div class="topicinfo"><span id="tp8945">1</span> point by <a href="/user?id=xguru">xguru</a> 32분전<span id="unvote8945"></span> | <a href="topic?id=8945" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8945"><a class="upvote" href="javascript:vote(8945, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/borisbabic/browser_cookie3" rel="nofollow" id="tr5"><h1>Browser-Cookie3 - 파이썬에서 브라우저의 쿠키 가져다 사용하기</h1></a> <span class="topicurl">(github.com/borisbabic)</span></div><div class="topicdesc"><a href="topic?id=8945" class="c99 breakall">- 웹 페이지를 통한 사이트 로그인 필요없이 스크립트에서 직접 사이트에 접속해서 다양한 작업 가능   
+  - 브라우저의 SQLite DB에 저장된 쿠키...</a></div><div class="topicinfo"><span id="tp8945">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8945"></span> | <a href="topic?id=8945" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Something Wonderful - Steve Jobs in his own words]]></title>
+        <id>https://stevejobsarchive.com/book</id>
+        <link href="https://stevejobsarchive.com/book"/>
+        <updated>2023-04-12T03:13:08.088Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8940"><a class="upvote" href="javascript:vote(8940, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stevejobsarchive.com/book" rel="nofollow" id="tr6"><h1>Make Something Wonderful - Steve Jobs in his own words</h1></a> <span class="topicurl">(stevejobsarchive.com)</span></div><div class="topicdesc"><a href="topic?id=8940" class="c99 breakall">- "뭔가 멋진 것을 만드세요 - 스티브 잡스가 직접 전하는 말"  
+- 스티브 잡스 아카이브가 발간한 무료 이북 (194p)  
+- 잡스가 생전에 했던 연...</a></div><div class="topicinfo"><span id="tp8940">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8940"></span> | <a href="topic?id=8940" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Croner - Cron for JavaScript/TypeScript]]></title>
+        <id>https://github.com/hexagon/croner</id>
+        <link href="https://github.com/hexagon/croner"/>
+        <updated>2023-04-12T02:05:12.458Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8936"><a class="upvote" href="javascript:vote(8936, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hexagon/croner" rel="nofollow" id="tr7"><h1>Croner - Cron for JavaScript/TypeScript</h1></a> <span class="topicurl">(github.com/hexagon)</span></div><div class="topicdesc"><a href="topic?id=8936" class="c99 breakall">- Cron 문법으로 JavaScript 함수 트리거링 지원   
+- Cron 표현식을 평가하고, 예정된 실행 시간 목록 가져오기 가능   
+- Vixie Cron 패턴을 ...</a></div><div class="topicinfo"><span id="tp8936">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8936"></span> | <a href="topic?id=8936" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hocus - GitHub Codespaces의 오픈소스 대체제]]></title>
@@ -117,7 +117,7 @@
         <updated>2023-04-12T07:11:27.463Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8941"><a class="upvote" href="javascript:vote(8941, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sesac.oopy.io" rel="nofollow" id="tr13"><h1>[서울시, SBA 서울경제진흥원] 수료생의 75%가 개발자로 데뷔! 새싹 영등포캠퍼스 5기 &amp; 강서캠퍼스 2기...</h1></a> <span class="topicurl">(sesac.oopy.io)</span></div><div class="topicdesc"><a href="topic?id=8941" class="c99 breakall">※ 본 프로그램은 서울시와 서울경제진흥원(SBA)이 진행하는 일자리 연계를 위한 전문교육 프로그램입니다.   
   
-기타 상업적인 이득을 위한 홍...</a></div><div class="topicinfo"><span id="tp8941">4</span> points by <a href="/user?id=ssac1234">ssac1234</a> 19시간전<span id="unvote8941"></span> | <a href="topic?id=8941" class="u">댓글과 토론</a></div>]]></content>
+기타 상업적인 이득을 위한 홍...</a></div><div class="topicinfo"><span id="tp8941">4</span> points by <a href="/user?id=ssac1234">ssac1234</a> 21시간전<span id="unvote8941"></span> | <a href="topic?id=8941" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[go/links - 사내용 짧은 주소 플랫폼]]></title>
