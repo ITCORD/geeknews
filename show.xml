@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-04-15T01:01:32.162Z</updated>
+    <updated>2023-04-15T02:09:03.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 문서를 스캔하고 Javascript로 PDF로 변환]]></title>
+        <id>https://news.hada.io/topic?id=8961</id>
+        <link href="https://news.hada.io/topic?id=8961"/>
+        <updated>2023-04-15T02:08:35.864Z</updated>
+        <content type="html"><![CDATA[colonelparrot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: BTCGPT, 비트코인 가격 예측 서비스 (당신의 비트코인 수정구슬)]]></title>
         <id>https://news.hada.io/topic?id=8950</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8615"/>
         <updated>2023-03-05T15:13:28.268Z</updated>
         <content type="html"><![CDATA[yeongyu]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Infisical (YC W23) - 환경변수를 암호화하여 팀과 공유하는 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=8463</id>
-        <link href="https://news.hada.io/topic?id=8463"/>
-        <updated>2023-02-13T01:07:35.931Z</updated>
-        <content type="html"><![CDATA[dangtony98]]></content>
     </entry>
 </feed>
