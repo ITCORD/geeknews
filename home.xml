@@ -2,62 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-04-18T23:13:01.317Z</updated>
+    <updated>2023-04-19T02:34:15.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테크니컬 라이팅 깔끔하게 완성하는 원칙]]></title>
+        <id>https://news.hada.io/topic?id=8983</id>
+        <link href="https://news.hada.io/topic?id=8983"/>
+        <updated>2023-04-19T02:33:25.884Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8983"><a class="upvote" href="javascript:vote(8983, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://insight.infograb.net/blog/2023/03/30/technical-writing-guide" rel="nofollow" id="tr1"><h1>테크니컬 라이팅 깔끔하게 완성하는 원칙</h1></a> <span class="topicurl">(insight.infograb.net)</span></div><div class="topicdesc"><a href="topic?id=8983" class="c99 breakall">1.지나치게 격식을 차린 말투 대신 일상 대화체로 씁니다  
+  
+2.글을 소리 내 읽고, '실제 사람이 하는 말로 들리는지' 점검합니다.  
+  
+3....</a></div><div class="topicinfo"><span id="tp8983">14</span> points by <a href="/user?id=ironlung">ironlung</a> 3시간전<span id="unvote8983"></span> | <a href="topic?id=8983" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Load Balancing - 부하 분산]]></title>
+        <id>https://news.hada.io/topic?id=8986</id>
+        <link href="https://news.hada.io/topic?id=8986"/>
+        <updated>2023-04-19T02:33:25.886Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8986"><a class="upvote" href="javascript:vote(8986, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://samwho.dev/load-balancing/" rel="nofollow" id="tr2"><h1>Load Balancing - 부하 분산</h1></a> <span class="topicurl">(samwho.dev)</span></div><div class="topicdesc"><a href="topic?id=8986" class="c99 breakall">- 1개의 로드 밸런서가 HTTP요청을 분산하는 것을 예제로 삼아서, 애니메이션을 통해 기초부터 최신 로드 밸런싱 알고리듬까지 설명하는 글   
+- ...</a></div><div class="topicinfo"><span id="tp8986">11</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8986"></span> | <a href="topic?id=8986" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedPajama - LLaMA 데이터셋을 재작성하는 오픈소스 프로젝트]]></title>
+        <id>https://news.hada.io/topic?id=8984</id>
+        <link href="https://news.hada.io/topic?id=8984"/>
+        <updated>2023-04-19T02:33:25.887Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8984"><a class="upvote" href="javascript:vote(8984, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.together.xyz/blog/redpajama" rel="nofollow" id="tr3"><h1>RedPajama - LLaMA 데이터셋을 재작성하는 오픈소스 프로젝트</h1></a> <span class="topicurl">(together.xyz)</span></div><div class="topicdesc"><a href="topic?id=8984" class="c99 breakall">- LLaMA, Alpaca, Vicuna 같은 반개방형 모델이 아니라 재현가능하고 완전한 개방형 언어 모델을 만들기 위한 프로젝트   
+- 3가지 구성요소  
+ ...</a></div><div class="topicinfo"><span id="tp8984">5</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote8984"></span> | <a href="topic?id=8984" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js v20 출시]]></title>
+        <id>https://news.hada.io/topic?id=8989</id>
+        <link href="https://news.hada.io/topic?id=8989"/>
+        <updated>2023-04-19T02:33:25.889Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8989"><a class="upvote" href="javascript:vote(8989, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nodejs.org/en/blog/announcements/v20-release-announce" rel="nofollow" id="tr4"><h1>Node.js v20 출시</h1></a> <span class="topicurl">(nodejs.org)</span></div><div class="topicdesc"><a href="topic?id=8989" class="c99 breakall">- Node.js의 새로운 LTS 버전이 될 v20 출시.  
+- 2023년 10월까지 현재 릴리즈이며, 이후 LTS로 변경되어 2026년까지 유지됨.  
+- Deno와 유사...</a></div><div class="topicinfo"><span id="tp8989">4</span> points by <a href="/user?id=kuroneko">kuroneko</a> 25분전<span id="unvote8989"></span> | <a href="topic?id=8989" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paella - 간단하고 효율적인 Text-to-Image 생성 모델]]></title>
+        <id>https://news.hada.io/topic?id=8987</id>
+        <link href="https://news.hada.io/topic?id=8987"/>
+        <updated>2023-04-19T02:33:25.891Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8987"><a class="upvote" href="javascript:vote(8987, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://laion.ai/blog/paella/" rel="nofollow" id="tr5"><h1>Paella - 간단하고 효율적인 Text-to-Image 생성 모델</h1></a> <span class="topicurl">(laion.ai)</span></div><div class="topicdesc"><a href="topic?id=8987" class="c99 breakall">- 누구나 이해할 수 있는 이미지 합성 모델을 만드는 것이 목표  
+  - 샘플링 코드가 단 12줄이라서 누구나 몇분만에 이해 가능   
+- 계산 파워...</a></div><div class="topicinfo"><span id="tp8987">4</span> points by <a href="/user?id=xguru">xguru</a> 46분전<span id="unvote8987"></span> | <a href="topic?id=8987" class="u">댓글 1개</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월 수익 $2000 이상인 사이드 프로젝트가 있으신가요?]]></title>
         <id>https://news.hada.io/topic?id=8980</id>
         <link href="https://news.hada.io/topic?id=8980"/>
         <updated>2023-04-18T02:03:28.054Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote8980"><a class="upvote" href="javascript:vote(8980, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=35567822" rel="nofollow" id="tr1"><h1>월 수익 $2000 이상인 사이드 프로젝트가 있으신가요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8980" class="c99 breakall">HN에 올라온 질문의 답변중에서 흥미로운 것들을 추려봅니다  
-- [Outcold Solutions](https://www.outcoldsolutions.com/): K8s/Docker/Openshif...</a></div><div class="topicinfo"><span id="tp8980">30</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote8980"></span> | <a href="topic?id=8980" class="u">댓글 7개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8980"><a class="upvote" href="javascript:vote(8980, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=35567822" rel="nofollow" id="tr6"><h1>월 수익 $2000 이상인 사이드 프로젝트가 있으신가요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=8980" class="c99 breakall">HN에 올라온 질문의 답변중에서 흥미로운 것들을 추려봅니다  
+- [Outcold Solutions](https://www.outcoldsolutions.com/): K8s/Docker/Openshif...</a></div><div class="topicinfo"><span id="tp8980">30</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8980"></span> | <a href="topic?id=8980" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기]]></title>
-        <id>https://news.hada.io/topic?id=8977</id>
-        <link href="https://news.hada.io/topic?id=8977"/>
-        <updated>2023-04-18T02:03:28.057Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote8977"><a class="upvote" href="javascript:vote(8977, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mlc-ai/web-llm" rel="nofollow" id="tr2"><h1>Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기 </h1></a> <span class="topicurl">(github.com/mlc-ai)</span></div><div class="topicdesc"><a href="topic?id=8977" class="c99 breakall">- 서버 없이 브라우저에서 LLaMA, Vicuna 같은 LLM을 WASM을 이용하여 구동  
-- WebGPU로 가속 하지만, 별도로 Apache TVM이 지원하는 GPU 백엔드...</a></div><div class="topicinfo"><span id="tp8977">12</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote8977"></span> | <a href="topic?id=8977" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Arroyo - Rust로 작성된 분산 스트림 처리 엔진]]></title>
+        <id>https://news.hada.io/topic?id=8985</id>
+        <link href="https://news.hada.io/topic?id=8985"/>
+        <updated>2023-04-19T02:33:25.912Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8985"><a class="upvote" href="javascript:vote(8985, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ArroyoSystems/arroyo" rel="nofollow" id="tr7"><h1>Arroyo - Rust로 작성된 분산 스트림 처리 엔진</h1></a> <span class="topicurl">(github.com/ArroyoSystems)</span></div><div class="topicdesc"><a href="topic?id=8985" class="c99 breakall">- 데이터 스트림에 대해서 효율적으로 Stateful Computation을 수행하기 위해 설계   
+- 대량의 실시간 데이터에 대해서 복잡한 쿼리를 1초내에 ...</a></div><div class="topicinfo"><span id="tp8985">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote8985"></span> | <a href="topic?id=8985" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smithsonian Open Access, 450만장의 이미지를 퍼블릭 도메인으로 공개]]></title>
+        <id>https://news.hada.io/topic?id=8988</id>
+        <link href="https://news.hada.io/topic?id=8988"/>
+        <updated>2023-04-19T02:33:25.914Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8988"><a class="upvote" href="javascript:vote(8988, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.si.edu/openaccess" rel="nofollow" id="tr8"><h1>Smithsonian Open Access, 450만장의 이미지를 퍼블릭 도메인으로 공개</h1></a> <span class="topicurl">(si.edu)</span></div><div class="topicdesc"><a href="topic?id=8988" class="c99 breakall">- 스미소니언의 21개 박물관, 9개의 연구센터, 도서관, 기록 보관소 및 국립 동물원의 자료  
+- 2D 및 3D 이미지를 포함. 모두 무료로 다운받아 ...</a></div><div class="topicinfo"><span id="tp8988">2</span> points by <a href="/user?id=xguru">xguru</a> 30분전<span id="unvote8988"></span> | <a href="topic?id=8988" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS 회사를 위한 독특하고 매력적인 브랜드 아이덴티티를 만드는 비결]]></title>
         <id>https://news.hada.io/topic?id=8982</id>
         <link href="https://news.hada.io/topic?id=8982"/>
         <updated>2023-04-18T17:09:47.293Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote8982"><a class="upvote" href="javascript:vote(8982, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://friendsofsaas.beehiiv.com/p/saas-branding?_gl=1*371n98*_ga*MjQxMTY4NDk3LjE2Nzg2MTc3OTg.*_ga_E6Y4WLQ2EC*MTY4MTgzNTczMi41NC4xLjE2ODE4MzU4MzAuMzIuMC4w" rel="nofollow" id="tr3"><h1>SaaS 회사를 위한 독특하고 매력적인 브랜드 아이덴티티를 만드는 비결</h1></a> <span class="topicurl">(friendsofsaas.beehiiv.com)</span></div><div class="topicdesc"><a href="topic?id=8982" class="c99 breakall">SaaS 메이커가 강력한 브랜드를 구축할 수 있도록 브랜딩에 사용할 수 있는 몇 가지 도구와 기법은 다음과 같습니다.</a></div><div class="topicinfo"><span id="tp8982">3</span> points by <a href="/user?id=manaayed">manaayed</a> 7시간전<span id="unvote8982"></span> | <a href="topic?id=8982" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8982"><a class="upvote" href="javascript:vote(8982, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://friendsofsaas.beehiiv.com/p/saas-branding?_gl=1*371n98*_ga*MjQxMTY4NDk3LjE2Nzg2MTc3OTg.*_ga_E6Y4WLQ2EC*MTY4MTgzNTczMi41NC4xLjE2ODE4MzU4MzAuMzIuMC4w" rel="nofollow" id="tr9"><h1>SaaS 회사를 위한 독특하고 매력적인 브랜드 아이덴티티를 만드는 비결</h1></a> <span class="topicurl">(friendsofsaas.beehiiv.com)</span></div><div class="topicdesc"><a href="topic?id=8982" class="c99 breakall">SaaS 메이커가 강력한 브랜드를 구축할 수 있도록 브랜딩에 사용할 수 있는 몇 가지 도구와 기법은 다음과 같습니다.</a></div><div class="topicinfo"><span id="tp8982">5</span> points by <a href="/user?id=manaayed">manaayed</a> 10시간전<span id="unvote8982"></span> | <a href="topic?id=8982" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gamma - AI를 이용한 프리젠테이션 작성 도우미]]></title>
-        <id>https://news.hada.io/topic?id=8979</id>
-        <link href="https://news.hada.io/topic?id=8979"/>
-        <updated>2023-04-18T02:03:28.055Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote8979"><a class="upvote" href="javascript:vote(8979, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gamma.app/" rel="nofollow" id="tr4"><h1>Gamma - AI를 이용한 프리젠테이션 작성 도우미</h1></a> <span class="topicurl">(gamma.app)</span></div><div class="topicdesc"><a href="topic?id=8979" class="c99 breakall">- AI와 대화형식으로 슬라이드, 문서, 웹페이지를 쉽게 생성하고 편집을 지원하는 웹 도구   
-- 주제를 잡으면 기본 목차를 추천해주고 사용자가 ...</a></div><div class="topicinfo"><span id="tp8979">11</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote8979"></span> | <a href="topic?id=8979" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기]]></title>
+        <id>https://news.hada.io/topic?id=8977</id>
+        <link href="https://news.hada.io/topic?id=8977"/>
+        <updated>2023-04-18T02:03:28.057Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8977"><a class="upvote" href="javascript:vote(8977, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mlc-ai/web-llm" rel="nofollow" id="tr10"><h1>Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기 </h1></a> <span class="topicurl">(github.com/mlc-ai)</span></div><div class="topicdesc"><a href="topic?id=8977" class="c99 breakall">- 서버 없이 브라우저에서 LLaMA, Vicuna 같은 LLM을 WASM을 이용하여 구동  
+- WebGPU로 가속 하지만, 별도로 Apache TVM이 지원하는 GPU 백엔드...</a></div><div class="topicinfo"><span id="tp8977">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8977"></span> | <a href="topic?id=8977" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MiniGPT-4 : 고급 LLM을 이용한 비젼-언어 이해도 향상]]></title>
         <id>https://news.hada.io/topic?id=8981</id>
         <link href="https://news.hada.io/topic?id=8981"/>
         <updated>2023-04-18T03:12:50.052Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote8981"><a class="upvote" href="javascript:vote(8981, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://minigpt-4.github.io/" rel="nofollow" id="tr5"><h1>MiniGPT-4 : 고급 LLM을 이용한 비젼-언어 이해도 향상</h1></a> <span class="topicurl">(minigpt-4.github.io)</span></div><div class="topicdesc"><a href="topic?id=8981" class="c99 breakall">- GPT-4에서 시연된 것과 유사한 새로운 비전-언어 기능을 제공   
-  - 이미지에 대해 자세히 설명하고, 음식사진으로 요리방법을 알려주거나, 문...</a></div><div class="topicinfo"><span id="tp8981">10</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote8981"></span> | <a href="topic?id=8981" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8981"><a class="upvote" href="javascript:vote(8981, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://minigpt-4.github.io/" rel="nofollow" id="tr11"><h1>MiniGPT-4 : 고급 LLM을 이용한 비젼-언어 이해도 향상</h1></a> <span class="topicurl">(minigpt-4.github.io)</span></div><div class="topicdesc"><a href="topic?id=8981" class="c99 breakall">- GPT-4에서 시연된 것과 유사한 새로운 비전-언어 기능을 제공   
+  - 이미지에 대해 자세히 설명하고, 음식사진으로 요리방법을 알려주거나, 문...</a></div><div class="topicinfo"><span id="tp8981">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8981"></span> | <a href="topic?id=8981" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gamma - AI를 이용한 프리젠테이션 작성 도우미]]></title>
+        <id>https://news.hada.io/topic?id=8979</id>
+        <link href="https://news.hada.io/topic?id=8979"/>
+        <updated>2023-04-18T02:03:28.055Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8979"><a class="upvote" href="javascript:vote(8979, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gamma.app/" rel="nofollow" id="tr12"><h1>Gamma - AI를 이용한 프리젠테이션 작성 도우미</h1></a> <span class="topicurl">(gamma.app)</span></div><div class="topicdesc"><a href="topic?id=8979" class="c99 breakall">- AI와 대화형식으로 슬라이드, 문서, 웹페이지를 쉽게 생성하고 편집을 지원하는 웹 도구   
+- 주제를 잡으면 기본 목차를 추천해주고 사용자가 ...</a></div><div class="topicinfo"><span id="tp8979">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8979"></span> | <a href="topic?id=8979" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Open Assistant - 모두를 위한 대화형 AI 공개]]></title>
         <id>https://news.hada.io/topic?id=8976</id>
         <link href="https://news.hada.io/topic?id=8976"/>
         <updated>2023-04-18T02:03:28.058Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote8976"><a class="upvote" href="javascript:vote(8976, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://open-assistant.io/ko" rel="nofollow" id="tr6"><h1>Open Assistant - 모두를 위한 대화형 AI 공개</h1></a> <span class="topicurl">(open-assistant.io)</span></div><div class="topicdesc"><a href="topic?id=8976" class="c99 breakall">- ChatGPT와 비슷한 채팅 기반 대규모 언어 모델 오픈소스  
-- 3달전에 오픈소스 Repo 부터 공개했고, 이번에 모델과 사용 가능한 첫 MVP를 공개 ...</a></div><div class="topicinfo"><span id="tp8976">10</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote8976"></span> | <a href="topic?id=8976" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8976"><a class="upvote" href="javascript:vote(8976, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://open-assistant.io/ko" rel="nofollow" id="tr13"><h1>Open Assistant - 모두를 위한 대화형 AI 공개</h1></a> <span class="topicurl">(open-assistant.io)</span></div><div class="topicdesc"><a href="topic?id=8976" class="c99 breakall">- ChatGPT와 비슷한 채팅 기반 대규모 언어 모델 오픈소스  
+- 3달전에 오픈소스 Repo 부터 공개했고, 이번에 모델과 사용 가능한 첫 MVP를 공개 ...</a></div><div class="topicinfo"><span id="tp8976">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8976"></span> | <a href="topic?id=8976" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI코딩 도우미 Amazon CodeWhisperer 정식출시, 개인 사용은 무료]]></title>
         <id>https://news.hada.io/topic?id=8969</id>
         <link href="https://news.hada.io/topic?id=8969"/>
         <updated>2023-04-17T01:00:59.601Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote8969"><a class="upvote" href="javascript:vote(8969, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://aws.amazon.com/ko/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/" rel="nofollow" id="tr7"><h1>AI코딩 도우미 Amazon CodeWhisperer 정식출시, 개인 사용은 무료</h1></a> <span class="topicurl">(aws.amazon.com)</span></div><div class="topicdesc"><a href="topic?id=8969" class="c99 breakall">- CodeWhisperer Individual 티어는 모든 개발자가 무료 사용 가능   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8969"><a class="upvote" href="javascript:vote(8969, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://aws.amazon.com/ko/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/" rel="nofollow" id="tr14"><h1>AI코딩 도우미 Amazon CodeWhisperer 정식출시, 개인 사용은 무료</h1></a> <span class="topicurl">(aws.amazon.com)</span></div><div class="topicdesc"><a href="topic?id=8969" class="c99 breakall">- CodeWhisperer Individual 티어는 모든 개발자가 무료 사용 가능   
   - 이메일 만으로 가입 가능하며, AWS 고객이 아니어도 됨   
 - VS Code,...</a></div><div class="topicinfo"><span id="tp8969">28</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8969"></span> | <a href="topic?id=8969" class="u">댓글 3개</a></div>]]></content>
     </entry>
@@ -66,16 +128,16 @@
         <id>https://news.hada.io/topic?id=8978</id>
         <link href="https://news.hada.io/topic?id=8978"/>
         <updated>2023-04-18T02:03:28.045Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote8978"><a class="upvote" href="javascript:vote(8978, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://servicedesign.tistory.com/388" rel="nofollow" id="tr8"><h1>chatGPT열풍, 공공기관의 이슈리포트를 모아보았습니다</h1></a> <span class="topicurl">(servicedesign.tistory.com)</span></div><div class="topicdesc"><a href="topic?id=8978" class="c99 breakall">- 인공지능(AI) 개발과 활용에서의 인권 가이드라인 연구 - 국가인권위원회  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8978"><a class="upvote" href="javascript:vote(8978, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://servicedesign.tistory.com/388" rel="nofollow" id="tr15"><h1>chatGPT열풍, 공공기관의 이슈리포트를 모아보았습니다</h1></a> <span class="topicurl">(servicedesign.tistory.com)</span></div><div class="topicdesc"><a href="topic?id=8978" class="c99 breakall">- 인공지능(AI) 개발과 활용에서의 인권 가이드라인 연구 - 국가인권위원회  
 - ChatGPT 현황과 저작권 이슈 보고서 - 한국저작권위원회  
-- Cha...</a></div><div class="topicinfo"><span id="tp8978">9</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote8978"></span> | <a href="topic?id=8978" class="u">댓글과 토론</a></div>]]></content>
+- Cha...</a></div><div class="topicinfo"><span id="tp8978">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote8978"></span> | <a href="topic?id=8978" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마이크로컨트롤러 개발 보드와 프레임워크 개발 후기]]></title>
         <id>https://news.hada.io/topic?id=8975</id>
         <link href="https://news.hada.io/topic?id=8975"/>
         <updated>2023-04-17T08:16:10.874Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote8975"><a class="upvote" href="javascript:vote(8975, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://libmcu.org/kr/blog/madi/" rel="nofollow" id="tr9"><h1>마이크로컨트롤러 개발 보드와 프레임워크 개발 후기</h1></a> <span class="topicurl">(libmcu.org)</span></div><div class="topicdesc"><a href="topic?id=8975" class="c99 breakall">최근에 개발 보드와 펌웨어 프레임워크를 개발한 경험을 회고하면서 글로 적었습니다.  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8975"><a class="upvote" href="javascript:vote(8975, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://libmcu.org/kr/blog/madi/" rel="nofollow" id="tr16"><h1>마이크로컨트롤러 개발 보드와 프레임워크 개발 후기</h1></a> <span class="topicurl">(libmcu.org)</span></div><div class="topicdesc"><a href="topic?id=8975" class="c99 breakall">최근에 개발 보드와 펌웨어 프레임워크를 개발한 경험을 회고하면서 글로 적었습니다.  
 chatGPT를 위시로 핫한 AI 관련 주제가 아니라 재미가 있...</a></div><div class="topicinfo"><span id="tp8975">21</span> points by <a href="/user?id=onkwon">onkwon</a> 2일전<span id="unvote8975"></span> | <a href="topic?id=8975" class="u">댓글 14개</a></div>]]></content>
     </entry>
     <entry>
@@ -83,7 +145,7 @@ chatGPT를 위시로 핫한 AI 관련 주제가 아니라 재미가 있...</a></
         <id>https://news.hada.io/topic?id=8968</id>
         <link href="https://news.hada.io/topic?id=8968"/>
         <updated>2023-04-17T01:00:59.592Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote8968"><a class="upvote" href="javascript:vote(8968, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/facebookresearch/AnimatedDrawings" rel="nofollow" id="tr10"><h1>AnimatedDrawings - 아이들 그림을 애니메이트 시키기 오픈소스</h1></a> <span class="topicurl">(github.com/facebookresearch)</span></div><div class="topicdesc"><a href="topic?id=8968" class="c99 breakall">- Meta AI가 1년전에 공개했던 Animated Drawings 데모의 코드와 18만개의 주석이 달린 그림 데이터셋을 오픈소스로 공개   
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8968"><a class="upvote" href="javascript:vote(8968, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/facebookresearch/AnimatedDrawings" rel="nofollow" id="tr17"><h1>AnimatedDrawings - 아이들 그림을 애니메이트 시키기 오픈소스</h1></a> <span class="topicurl">(github.com/facebookresearch)</span></div><div class="topicdesc"><a href="topic?id=8968" class="c99 breakall">- Meta AI가 1년전에 공개했던 Animated Drawings 데모의 코드와 18만개의 주석이 달린 그림 데이터셋을 오픈소스로 공개   
 - 아이들의 그림을 ...</a></div><div class="topicinfo"><span id="tp8968">23</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8968"></span> | <a href="topic?id=8968" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -91,7 +153,7 @@ chatGPT를 위시로 핫한 AI 관련 주제가 아니라 재미가 있...</a></
         <id>https://news.hada.io/topic?id=8974</id>
         <link href="https://news.hada.io/topic?id=8974"/>
         <updated>2023-04-17T02:08:08.209Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote8974"><a class="upvote" href="javascript:vote(8974, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huyenchip.com/2023/04/11/llm-engineering.html" rel="nofollow" id="tr11"><h1>프로덕션용 LLM 어플리케이션 구축하기</h1></a> <span class="topicurl">(huyenchip.com)</span></div><div class="topicdesc"><a href="topic?id=8974" class="c99 breakall">- LLM으로 쿨한 것을 만드는 것은 쉽지만, 프로덕션 수준으로 만드는 것은 매우 어려움   
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8974"><a class="upvote" href="javascript:vote(8974, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huyenchip.com/2023/04/11/llm-engineering.html" rel="nofollow" id="tr18"><h1>프로덕션용 LLM 어플리케이션 구축하기</h1></a> <span class="topicurl">(huyenchip.com)</span></div><div class="topicdesc"><a href="topic?id=8974" class="c99 breakall">- LLM으로 쿨한 것을 만드는 것은 쉽지만, 프로덕션 수준으로 만드는 것은 매우 어려움   
 - LLM 어플리케이션을 제품화 하기 위해 풀어야 하는 ...</a></div><div class="topicinfo"><span id="tp8974">18</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8974"></span> | <a href="topic?id=8974" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -99,7 +161,7 @@ chatGPT를 위시로 핫한 AI 관련 주제가 아니라 재미가 있...</a></
         <id>https://news.hada.io/topic?id=8971</id>
         <link href="https://news.hada.io/topic?id=8971"/>
         <updated>2023-04-17T02:08:08.211Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote8971"><a class="upvote" href="javascript:vote(8971, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Significant-Gravitas/Auto-GPT" rel="nofollow" id="tr12"><h1>Auto-GPT - GPT-4를 자동화 하는 실험적 오픈소스 </h1></a> <span class="topicurl">(github.com/Significant-Gravitas)</span></div><div class="topicdesc"><a href="topic?id=8971" class="c99 breakall">- LLM의 답변들을 자동화 해서 계획을 생성하고 해당 작업들을 자율적으로 수행 가능하게 만드는 실험   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8971"><a class="upvote" href="javascript:vote(8971, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Significant-Gravitas/Auto-GPT" rel="nofollow" id="tr19"><h1>Auto-GPT - GPT-4를 자동화 하는 실험적 오픈소스 </h1></a> <span class="topicurl">(github.com/Significant-Gravitas)</span></div><div class="topicdesc"><a href="topic?id=8971" class="c99 breakall">- LLM의 답변들을 자동화 해서 계획을 생성하고 해당 작업들을 자율적으로 수행 가능하게 만드는 실험   
   - 검색 및 정보 수집을 위한 인터넷 ...</a></div><div class="topicinfo"><span id="tp8971">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8971"></span> | <a href="topic?id=8971" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -107,68 +169,7 @@ chatGPT를 위시로 핫한 AI 관련 주제가 아니라 재미가 있...</a></
         <id>https://news.hada.io/topic?id=8964</id>
         <link href="https://news.hada.io/topic?id=8964"/>
         <updated>2023-04-16T01:02:21.019Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote8964"><a class="upvote" href="javascript:vote(8964, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ravenscroftj/turbopilot" rel="nofollow" id="tr13"><h1>TurboPilot - 셀프호스트 가능한 Copilot 클론</h1></a> <span class="topicurl">(github.com/ravenscroftj)</span></div><div class="topicdesc"><a href="topic?id=8964" class="c99 breakall">- llama.cpp 를 이용해서 6b 파라미터 Salesforce Codegen 모델을 4GiB 램에서 실행   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote8964"><a class="upvote" href="javascript:vote(8964, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ravenscroftj/turbopilot" rel="nofollow" id="tr20"><h1>TurboPilot - 셀프호스트 가능한 Copilot 클론</h1></a> <span class="topicurl">(github.com/ravenscroftj)</span></div><div class="topicdesc"><a href="topic?id=8964" class="c99 breakall">- llama.cpp 를 이용해서 6b 파라미터 Salesforce Codegen 모델을 4GiB 램에서 실행   
 - 미리 변환해둔 모델(2B/6B) 모델 제공 (C/C++/Go/Java/J...</a></div><div class="topicinfo"><span id="tp8964">25</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8964"></span> | <a href="topic?id=8964" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSpeed Chat - RLHF를 이용한 ChatGPT-like 모델 훈련용 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=8972</id>
-        <link href="https://news.hada.io/topic?id=8972"/>
-        <updated>2023-04-17T02:08:08.209Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote8972"><a class="upvote" href="javascript:vote(8972, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat" rel="nofollow" id="tr14"><h1>DeepSpeed Chat - RLHF를 이용한 ChatGPT-like 모델 훈련용 프레임워크</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=8972" class="c99 breakall">- 빠르고 저렴하며 확장 가능한 개방형 시스템 프레임워크   
-- End-to-End RLHF(Reinforcement Learning Human Feedback)를 통해 모든 규모의 고...</a></div><div class="topicinfo"><span id="tp8972">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8972"></span> | <a href="topic?id=8972" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iconhunt - 15만개의 무료/오픈소스 아이콘 검색엔진]]></title>
-        <id>https://news.hada.io/topic?id=8960</id>
-        <link href="https://news.hada.io/topic?id=8960"/>
-        <updated>2023-04-15T02:08:12.027Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote8960"><a class="upvote" href="javascript:vote(8960, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.iconhunt.site/" rel="nofollow" id="tr15"><h1>Iconhunt - 15만개의 무료/오픈소스 아이콘 검색엔진</h1></a> <span class="topicurl">(iconhunt.site)</span></div><div class="topicdesc"><a href="topic?id=8960" class="c99 breakall">- 15만개 이상의 무료, 오픈소스 아이콘을 검색   
-- 검색해서 나온 결과를 원클릭으로 이용 가능   
-  - SVG 링크(Notion) 복사  
-  - SVG 코...</a></div><div class="topicinfo"><span id="tp8960">29</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote8960"></span> | <a href="topic?id=8960" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AgentGPT - 브라우저에 AI Agent 도입하기]]></title>
-        <id>https://news.hada.io/topic?id=8966</id>
-        <link href="https://news.hada.io/topic?id=8966"/>
-        <updated>2023-04-16T02:33:25.708Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote8966"><a class="upvote" href="javascript:vote(8966, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/reworkd/AgentGPT" rel="nofollow" id="tr16"><h1>AgentGPT - 브라우저에 AI Agent 도입하기</h1></a> <span class="topicurl">(github.com/reworkd)</span></div><div class="topicdesc"><a href="topic?id=8966" class="c99 breakall">- AI Agent를 브라우저에 Assemble/Configure/Deploy 하는 도구   
-- AI 에게 달성해야할 목표를 지정하면 할일들을 찾고 실행한뒤에 결과로 부터...</a></div><div class="topicinfo"><span id="tp8966">17</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote8966"></span> | <a href="topic?id=8966" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databricks, ChatGPT와 비슷한 Dolly 2.0 오픈소스로 공개]]></title>
-        <id>https://news.hada.io/topic?id=8952</id>
-        <link href="https://news.hada.io/topic?id=8952"/>
-        <updated>2023-04-14T02:02:41.286Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote8952"><a class="upvote" href="javascript:vote(8952, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm" rel="nofollow" id="tr17"><h1>Databricks, ChatGPT와 비슷한 Dolly 2.0 오픈소스로 공개</h1></a> <span class="topicurl">(databricks.com)</span></div><div class="topicdesc"><a href="topic?id=8952" class="c99 breakall">- 세계 최초의 진정한 개방형 Instruction-Tuned LLM  
-- 전체 훈련 코드, 데이터 셋, 모델 가중치를 모두 공개. 즉 개인/회사 누구든 자신의 강...</a></div><div class="topicinfo"><span id="tp8952">35</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote8952"></span> | <a href="topic?id=8952" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tachyon - 페이지 로딩을 빠르게 해주는 스크립트]]></title>
-        <id>https://news.hada.io/topic?id=8959</id>
-        <link href="https://news.hada.io/topic?id=8959"/>
-        <updated>2023-04-15T02:08:12.035Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote8959"><a class="upvote" href="javascript:vote(8959, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/weebney/tachyon" rel="nofollow" id="tr18"><h1>Tachyon - 페이지 로딩을 빠르게 해주는 스크립트</h1></a> <span class="topicurl">(github.com/weebney)</span></div><div class="topicdesc"><a href="topic?id=8959" class="c99 breakall">- 사이트내 네비게이션 속도를 빠르게 해줌   
-- 마우스 포인터가 링크위에 올라가면 해당 페이지를 프리로드해주는 방식  
-  - a 태그위에 50ms...</a></div><div class="topicinfo"><span id="tp8959">20</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote8959"></span> | <a href="topic?id=8959" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL:2023에 새로 추가되는 것들]]></title>
-        <id>https://news.hada.io/topic?id=8973</id>
-        <link href="https://news.hada.io/topic?id=8973"/>
-        <updated>2023-04-17T02:08:08.209Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote8973"><a class="upvote" href="javascript:vote(8973, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new" rel="nofollow" id="tr19"><h1>SQL:2023에 새로 추가되는 것들</h1></a> <span class="topicurl">(peter.eisentraut.org)</span></div><div class="topicdesc"><a href="topic?id=8973" class="c99 breakall">- 워킹그룹이 최종본을 ISO에 전달했고, 승인 대기중   
-# 기존 SQL 언어의 변경  
-- UNIQUE 의 NULL 처리 명시   
-- GROUP된 테이블에서 SELEC...</a></div><div class="topicinfo"><span id="tp8973">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8973"></span> | <a href="topic?id=8973" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon, 생성형 AI 어플리케이션용 Bedrock 공개]]></title>
-        <id>https://news.hada.io/topic?id=8970</id>
-        <link href="https://news.hada.io/topic?id=8970"/>
-        <updated>2023-04-17T01:00:59.599Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote8970"><a class="upvote" href="javascript:vote(8970, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://aws.amazon.com/ko/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/" rel="nofollow" id="tr20"><h1>Amazon, 생성형 AI 어플리케이션용 Bedrock 공개</h1></a> <span class="topicurl">(aws.amazon.com)</span></div><div class="topicdesc"><a href="topic?id=8970" class="c99 breakall">- API로 다양한 Foundation Model(FM)을 손쉽게 이용 가능   
-  - AI21 Labs(Jurassic-2), Anthropic(Claude), Stability AI(Stable Diffusion), ...</a></div><div class="topicinfo"><span id="tp8970">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote8970"></span> | <a href="topic?id=8970" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
