@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-05-02T03:14:31.483Z</updated>
+    <updated>2023-05-02T04:14:55.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 공포 온라인 방탈출 게임 - 인피니티 큐브: Night House]]></title>
+        <id>https://news.hada.io/topic?id=9089</id>
+        <link href="https://news.hada.io/topic?id=9089"/>
+        <updated>2023-05-02T04:14:31.429Z</updated>
+        <content type="html"><![CDATA[robin]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Tilnote Saver - chatgpt 채팅, 선택한 텍스트 하이라이트, 이미지를 클릭 한 번에 노트에 저장]]></title>
         <id>https://news.hada.io/topic?id=9058</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8849"/>
         <updated>2023-03-31T08:16:34.568Z</updated>
         <content type="html"><![CDATA[wislan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ChatGPT 기술을 사용한 AI 면접 코칭 서비스]]></title>
-        <id>https://news.hada.io/topic?id=8666</id>
-        <link href="https://news.hada.io/topic?id=8666"/>
-        <updated>2023-04-28T11:10:50.189Z</updated>
-        <content type="html"><![CDATA[golbin]]></content>
     </entry>
 </feed>
