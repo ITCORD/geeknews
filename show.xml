@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-05-02T07:13:12.943Z</updated>
+    <updated>2023-05-02T08:16:05.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=9089"/>
         <updated>2023-05-02T04:14:31.429Z</updated>
         <content type="html"><![CDATA[robin]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Caveduck - 대화형 AI 캐릭터 제작 및 공유 플랫폼]]></title>
+        <id>https://news.hada.io/topic?id=9090</id>
+        <link href="https://news.hada.io/topic?id=9090"/>
+        <updated>2023-05-02T08:15:40.744Z</updated>
+        <content type="html"><![CDATA[ybabc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Tilnote Saver - chatgpt 채팅, 선택한 텍스트 하이라이트, 이미지를 클릭 한 번에 노트에 저장]]></title>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[soulee]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 외부 저장소 소스에서 Docker 이미지를 생성 및 등록하는 코드]]></title>
-        <id>https://news.hada.io/topic?id=9014</id>
-        <link href="https://news.hada.io/topic?id=9014"/>
-        <updated>2023-04-21T11:11:16.737Z</updated>
-        <content type="html"><![CDATA[wooseop]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: jscanify - 문서를 스캔하고 Javascript로 PDF로 변환]]></title>
         <id>https://news.hada.io/topic?id=8961</id>
         <link href="https://news.hada.io/topic?id=8961"/>
         <updated>2023-04-15T02:08:35.864Z</updated>
         <content type="html"><![CDATA[colonelparrot]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 외부 저장소 소스에서 Docker 이미지를 생성 및 등록하는 코드]]></title>
+        <id>https://news.hada.io/topic?id=9014</id>
+        <link href="https://news.hada.io/topic?id=9014"/>
+        <updated>2023-04-21T11:11:16.737Z</updated>
+        <content type="html"><![CDATA[wooseop]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 자모야 모여라 - 파일명 자소 분리 해결 도구 (웹/CLI)]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8950"/>
         <updated>2023-04-13T10:13:33.212Z</updated>
         <content type="html"><![CDATA[jaehong747]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Chatgpt 응답이 끝났을 때 알려주는 크롬 확장 프로그램]]></title>
-        <id>https://news.hada.io/topic?id=8849</id>
-        <link href="https://news.hada.io/topic?id=8849"/>
-        <updated>2023-03-31T08:16:34.568Z</updated>
-        <content type="html"><![CDATA[wislan]]></content>
     </entry>
 </feed>
