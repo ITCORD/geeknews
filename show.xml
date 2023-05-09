@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-05-09T18:15:38.252Z</updated>
+    <updated>2023-05-09T19:10:23.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Infisical Launch Week – 개발자를 위한 오픈소스 Secrets Manager]]></title>
+        <id>https://news.hada.io/topic?id=9142</id>
+        <link href="https://news.hada.io/topic?id=9142"/>
+        <updated>2023-05-09T19:10:01.118Z</updated>
+        <content type="html"><![CDATA[matsiiako]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 틸노트 챗 - 내 노트나 파일을 기반으로 인공지능으로 대화하기]]></title>
         <id>https://news.hada.io/topic?id=9141</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8810"/>
         <updated>2023-03-27T08:17:55.226Z</updated>
         <content type="html"><![CDATA[waveon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Plask - 원하는 구도와 자세로 Image Generative AI]]></title>
-        <id>https://news.hada.io/topic?id=8892</id>
-        <link href="https://news.hada.io/topic?id=8892"/>
-        <updated>2023-04-05T18:18:14.198Z</updated>
-        <content type="html"><![CDATA[csjunho]]></content>
     </entry>
 </feed>
