@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-05-13T09:11:12.479Z</updated>
+    <updated>2023-05-13T10:13:47.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,39 +11,39 @@
         <link href="https://news.hada.io/topic?id=9167"/>
         <updated>2023-05-13T02:02:18.474Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote9167"><a class="upvote" href="javascript:vote(9167, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/r2d4/openlm" rel="nofollow" id="tr1"><h1>OpenLM - 여러 LLM 호출이 가능한 OpenAI 호환 파이썬 클라이언트 </h1></a> <span class="topicurl">(github.com/r2d4)</span></div><div class="topicdesc"><a href="topic?id=9167" class="c99 breakall">- OpenAI의 API와 똑같은 파라미터로 HuggingFace, Cohere 및 자신의 모델등 다른 LLM을 호출 가능   
-- 현재는 Completion Endpoint만 지원하지...</a></div><div class="topicinfo"><span id="tp9167">5</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote9167"></span> | <a href="topic?id=9167" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Push Protection 정식 서비스 시작, 모든 공개 Repo에 무료 제공]]></title>
-        <id>https://news.hada.io/topic?id=9166</id>
-        <link href="https://news.hada.io/topic?id=9166"/>
-        <updated>2023-05-13T02:02:18.491Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9166"><a class="upvote" href="javascript:vote(9166, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/" rel="nofollow" id="tr2"><h1>GitHub Push Protection 정식 서비스 시작, 모든 공개 Repo에 무료 제공 </h1></a> <span class="topicurl">(github.blog)</span></div><div class="topicdesc"><a href="topic?id=9166" class="c99 breakall">- Repo에 Secret 정보들이 Push 되기전에 차단해 주는 서비스   
-  - Secret이 포함된 커밋을 푸시하는 경우 Secret의 유형과 위치 및 수정방법이...</a></div><div class="topicinfo"><span id="tp9166">4</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote9166"></span> | <a href="topic?id=9166" class="u">댓글과 토론</a></div>]]></content>
+- 현재는 Completion Endpoint만 지원하지...</a></div><div class="topicinfo"><span id="tp9167">5</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote9167"></span> | <a href="topic?id=9167" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HTTPS(TLS) 호출을 바이트 단위로 살펴보기]]></title>
         <id>https://news.hada.io/topic?id=9158</id>
         <link href="https://news.hada.io/topic?id=9158"/>
         <updated>2023-05-12T02:03:53.775Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9158"><a class="upvote" href="javascript:vote(9158, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://subtls.pages.dev/" rel="nofollow" id="tr3"><h1>HTTPS(TLS) 호출을 바이트 단위로 살펴보기 </h1></a> <span class="topicurl">(subtls.pages.dev)</span></div><div class="topicdesc"><a href="topic?id=9158" class="c99 breakall">- 현재 페이지 자체를 가져오는 액션을 TLS 핸드쉐이킹부터 실제 HTML 바디까지, 모든 데이터에 대해 바이트 단위로 설명을 붙여서 표시   
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9158"><a class="upvote" href="javascript:vote(9158, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://subtls.pages.dev/" rel="nofollow" id="tr2"><h1>HTTPS(TLS) 호출을 바이트 단위로 살펴보기 </h1></a> <span class="topicurl">(subtls.pages.dev)</span></div><div class="topicdesc"><a href="topic?id=9158" class="c99 breakall">- 현재 페이지 자체를 가져오는 액션을 TLS 핸드쉐이킹부터 실제 HTML 바디까지, 모든 데이터에 대해 바이트 단위로 설명을 붙여서 표시   
 - Typ...</a></div><div class="topicinfo"><span id="tp9158">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9158"></span> | <a href="topic?id=9158" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Youtube, 광고 차단기 실행시 영상 재생을 차단하는 기능을 테스트중]]></title>
-        <id>https://news.hada.io/topic?id=9168</id>
-        <link href="https://news.hada.io/topic?id=9168"/>
-        <updated>2023-05-13T02:02:18.493Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9168"><a class="upvote" href="javascript:vote(9168, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/" rel="nofollow" id="tr4"><h1>Youtube, 광고 차단기 실행시 영상 재생을 차단하는 기능을 테스트중 </h1></a> <span class="topicurl">(bleepingcomputer.com)</span></div><div class="topicdesc"><a href="topic?id=9168" class="c99 breakall">- 광고 차단기를 실행 중일 경우 "Ad blockers are not allowed on Youtube" 팝업이 뜸   
-- 알림이 뜨면, 광고를 허용하거나 프리미엄으로 전환...</a></div><div class="topicinfo"><span id="tp9168">2</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote9168"></span> | <a href="topic?id=9168" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[GitHub Push Protection 정식 서비스 시작, 모든 공개 Repo에 무료 제공]]></title>
+        <id>https://news.hada.io/topic?id=9166</id>
+        <link href="https://news.hada.io/topic?id=9166"/>
+        <updated>2023-05-13T02:02:18.491Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9166"><a class="upvote" href="javascript:vote(9166, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/" rel="nofollow" id="tr3"><h1>GitHub Push Protection 정식 서비스 시작, 모든 공개 Repo에 무료 제공 </h1></a> <span class="topicurl">(github.blog)</span></div><div class="topicdesc"><a href="topic?id=9166" class="c99 breakall">- Repo에 Secret 정보들이 Push 되기전에 차단해 주는 서비스   
+  - Secret이 포함된 커밋을 푸시하는 경우 Secret의 유형과 위치 및 수정방법이...</a></div><div class="topicinfo"><span id="tp9166">4</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote9166"></span> | <a href="topic?id=9166" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gandalf - 거대 언어 모델이 비밀번호를 유출하게 만드는 게임]]></title>
         <id>https://news.hada.io/topic?id=9160</id>
         <link href="https://news.hada.io/topic?id=9160"/>
         <updated>2023-05-12T02:03:53.775Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9160"><a class="upvote" href="javascript:vote(9160, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gandalf.lakera.ai/" rel="nofollow" id="tr5"><h1>Gandalf - 거대 언어 모델이 비밀번호를 유출하게 만드는 게임</h1></a> <span class="topicurl">(gandalf.lakera.ai)</span></div><div class="topicdesc"><a href="topic?id=9160" class="c99 breakall">- 사용자는 간달프에게 각 레벨의 암호를 물어보고 알아내는 것이 목표인 게임.  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9160"><a class="upvote" href="javascript:vote(9160, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gandalf.lakera.ai/" rel="nofollow" id="tr4"><h1>Gandalf - 거대 언어 모델이 비밀번호를 유출하게 만드는 게임</h1></a> <span class="topicurl">(gandalf.lakera.ai)</span></div><div class="topicdesc"><a href="topic?id=9160" class="c99 breakall">- 사용자는 간달프에게 각 레벨의 암호를 물어보고 알아내는 것이 목표인 게임.  
 - 레벨이 올라갈수록 암호를 철저하게 지키게 되며, 이를 우회...</a></div><div class="topicinfo"><span id="tp9160">11</span> points by <a href="/user?id=kuroneko">kuroneko</a> 1일전<span id="unvote9160"></span> | <a href="topic?id=9160" class="u">댓글 10개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Youtube, 광고 차단기 실행시 영상 재생을 차단하는 기능을 테스트중]]></title>
+        <id>https://news.hada.io/topic?id=9168</id>
+        <link href="https://news.hada.io/topic?id=9168"/>
+        <updated>2023-05-13T02:02:18.493Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9168"><a class="upvote" href="javascript:vote(9168, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/" rel="nofollow" id="tr5"><h1>Youtube, 광고 차단기 실행시 영상 재생을 차단하는 기능을 테스트중 </h1></a> <span class="topicurl">(bleepingcomputer.com)</span></div><div class="topicdesc"><a href="topic?id=9168" class="c99 breakall">- 광고 차단기를 실행 중일 경우 "Ad blockers are not allowed on Youtube" 팝업이 뜸   
+- 알림이 뜨면, 광고를 허용하거나 프리미엄으로 전환...</a></div><div class="topicinfo"><span id="tp9168">2</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote9168"></span> | <a href="topic?id=9168" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신 자신만을 위해 만든 가장 흥미로운 기술은?]]></title>
@@ -79,22 +79,22 @@
 - DSP를 속이며, SEO가 잘 되어서 트...</a></div><div class="topicinfo"><span id="tp9152">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9152"></span> | <a href="topic?id=9152" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pandas AI - Pandas에 생성형 AI를 도입]]></title>
-        <id>https://news.hada.io/topic?id=9162</id>
-        <link href="https://news.hada.io/topic?id=9162"/>
-        <updated>2023-05-12T02:03:53.775Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote9162"><a class="upvote" href="javascript:vote(9162, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gventuri/pandas-ai" rel="nofollow" id="tr10"><h1>Pandas AI - Pandas에 생성형 AI를 도입</h1></a> <span class="topicurl">(github.com/gventuri)</span></div><div class="topicdesc"><a href="topic?id=9162" class="c99 breakall">- Pandas를 대화형으로 만들어서 데이터에 대해 질의하고 Pandas DataFrame 형식으로 답변을 받는게 가능   
-- 원하는 데이터 찾기   
-→ `pandas...</a></div><div class="topicinfo"><span id="tp9162">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9162"></span> | <a href="topic?id=9162" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Omnivore - 오픈소스 read-it-later 솔루션]]></title>
         <id>https://news.hada.io/topic?id=9151</id>
         <link href="https://news.hada.io/topic?id=9151"/>
         <updated>2023-05-11T02:05:55.139Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote9151"><a class="upvote" href="javascript:vote(9151, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/omnivore-app/omnivore" rel="nofollow" id="tr11"><h1>Omnivore - 오픈소스 read-it-later 솔루션</h1></a> <span class="topicurl">(github.com/omnivore-app)</span></div><div class="topicdesc"><a href="topic?id=9151" class="c99 breakall">- 인스타페이퍼/Pocket의 대체제   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote9151"><a class="upvote" href="javascript:vote(9151, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/omnivore-app/omnivore" rel="nofollow" id="tr10"><h1>Omnivore - 오픈소스 read-it-later 솔루션</h1></a> <span class="topicurl">(github.com/omnivore-app)</span></div><div class="topicdesc"><a href="topic?id=9151" class="c99 breakall">- 인스타페이퍼/Pocket의 대체제   
 - iOS/macOS/Android 및 크롬/FF/사파리 확장 제공   
 - 글을 저장하고 하이라이팅, 노트, 검색, 공유 가능 ...</a></div><div class="topicinfo"><span id="tp9151">14</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9151"></span> | <a href="topic?id=9151" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandas AI - Pandas에 생성형 AI를 도입]]></title>
+        <id>https://news.hada.io/topic?id=9162</id>
+        <link href="https://news.hada.io/topic?id=9162"/>
+        <updated>2023-05-12T02:03:53.775Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote9162"><a class="upvote" href="javascript:vote(9162, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gventuri/pandas-ai" rel="nofollow" id="tr11"><h1>Pandas AI - Pandas에 생성형 AI를 도입</h1></a> <span class="topicurl">(github.com/gventuri)</span></div><div class="topicdesc"><a href="topic?id=9162" class="c99 breakall">- Pandas를 대화형으로 만들어서 데이터에 대해 질의하고 Pandas DataFrame 형식으로 답변을 받는게 가능   
+- 원하는 데이터 찾기   
+→ `pandas...</a></div><div class="topicinfo"><span id="tp9162">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9162"></span> | <a href="topic?id=9162" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MLC LLM - LLM모델을 어떤 디바이스에든 배포 가능하게 해주는 오픈소스 솔루션]]></title>
@@ -150,7 +150,7 @@
         <id>https://news.hada.io/topic?id=9165</id>
         <link href="https://news.hada.io/topic?id=9165"/>
         <updated>2023-05-12T12:21:41.681Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote9165"><a class="upvote" href="javascript:vote(9165, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/elonmusk/status/1656748197308674048" rel="nofollow" id="tr18"><h1>Elon Musk, 트위터 CEO 사임하고 의장 &amp; CTO로 </h1></a> <span class="topicurl">(twitter.com/elonmusk)</span></div><div class="topicdesc"><a href="topic?id=9165" class="c99 breakall">새 여성 CEO가 6주내로 일을 시작 할 것이라고 </a></div><div class="topicinfo"><span id="tp9165">2</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote9165"></span> | <a href="topic?id=9165" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote9165"><a class="upvote" href="javascript:vote(9165, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/elonmusk/status/1656748197308674048" rel="nofollow" id="tr18"><h1>Elon Musk, 트위터 CEO 사임하고 의장 &amp; CTO로 </h1></a> <span class="topicurl">(twitter.com/elonmusk)</span></div><div class="topicdesc"><a href="topic?id=9165" class="c99 breakall">새 여성 CEO가 6주내로 일을 시작 할 것이라고 </a></div><div class="topicinfo"><span id="tp9165">2</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote9165"></span> | <a href="topic?id=9165" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple, iOS VM을 금지하려는 소송에서 패배]]></title>
