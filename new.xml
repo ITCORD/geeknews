@@ -2,23 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-05-14T10:12:22.367Z</updated>
+    <updated>2023-05-14T11:10:21.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[github ci/cd pipeline의 속도 향상]]></title>
-        <id>https://news.hada.io/topic?id=9173</id>
-        <link href="https://news.hada.io/topic?id=9173"/>
-        <updated>2023-05-14T10:11:50.921Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote9173"><a class="upvote" href="javascript:vote(9173, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corca-ai/local-cache" rel="nofollow" id="tr1"><h1>github ci/cd pipeline의 속도 향상</h1></a> <span class="topicurl">(github.com/corca-ai)</span></div><div class="topicdesc"><a href="topic?id=9173" class="c99 breakall">github에서 git workflow를 활용하여 CI/CD pipeline을 돌리는 분들이 많을 겁니다.  
-처음에는 크게 문제가 없지만 시간이 지나면서 CI/CD를 많...</a></div><div class="topicinfo"><span id="tp9173">1</span> point by <a href="/user?id=adldotori">adldotori</a> 7분전<span id="unvote9173"></span> | <a href="topic?id=9173" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[local caching 을 통한 github action의 속도 향상]]></title>
+        <id>https://news.hada.io/topic?id=9174</id>
+        <link href="https://news.hada.io/topic?id=9174"/>
+        <updated>2023-05-14T11:09:48.620Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote9174"><a class="upvote" href="javascript:vote(9174, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corca-ai/local-cache" rel="nofollow" id="tr1"><h1>local caching 을 통한 github action의 속도 향상</h1></a> <span class="topicurl">(github.com/corca-ai)</span></div><div class="topicdesc"><a href="topic?id=9174" class="c99 breakall">github에서 git action을 활용하여 CI/CD pipeline을 돌리는 분들이 많을 겁니다. 빠른 빌드를 위해 cache를 많이 사용하는데, 처음에는 크게 문제...</a></div><div class="topicinfo"><span id="tp9174">1</span> point by <a href="/user?id=adldotori">adldotori</a> 51분전<span id="unvote9174"></span> | <a href="topic?id=9174" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아직도 아이디어를 찾는 데 어려움을 겪고 계신가요?]]></title>
         <id>https://news.hada.io/topic?id=9172</id>
         <link href="https://news.hada.io/topic?id=9172"/>
         <updated>2023-05-14T09:11:09.200Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9172"><a class="upvote" href="javascript:vote(9172, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://friendsofsaas.substack.com/p/where-to-find-ideas" rel="nofollow" id="tr2"><h1>아직도 아이디어를 찾는 데 어려움을 겪고 계신가요? </h1></a> <span class="topicurl">(friendsofsaas.substack.com)</span></div><div class="topicdesc"><a href="topic?id=9172" class="c99 breakall">모든 아이디어가 어떤 식으로든 구현되었거나 충분한 고통이없는 것 같습니까? 바로 사용할 수 있는 아이디어를 찾거나, 대체 퍼널 또는 마이크로 ...</a></div><div class="topicinfo"><span id="tp9172">2</span> points by <a href="/user?id=manaayed">manaayed</a> 1시간전<span id="unvote9172"></span> | <a href="topic?id=9172" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9172"><a class="upvote" href="javascript:vote(9172, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://friendsofsaas.substack.com/p/where-to-find-ideas" rel="nofollow" id="tr2"><h1>아직도 아이디어를 찾는 데 어려움을 겪고 계신가요? </h1></a> <span class="topicurl">(friendsofsaas.substack.com)</span></div><div class="topicdesc"><a href="topic?id=9172" class="c99 breakall">모든 아이디어가 어떤 식으로든 구현되었거나 충분한 고통이없는 것 같습니까? 바로 사용할 수 있는 아이디어를 찾거나, 대체 퍼널 또는 마이크로 ...</a></div><div class="topicinfo"><span id="tp9172">2</span> points by <a href="/user?id=manaayed">manaayed</a> 2시간전<span id="unvote9172"></span> | <a href="topic?id=9172" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[gridstack.js - 대쉬보드 생성을 위한 TypeScript 라이브러리]]></title>
@@ -27,7 +26,7 @@
         <updated>2023-05-14T02:32:04.266Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9171"><a class="upvote" href="javascript:vote(9171, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gridstack/gridstack.js" rel="nofollow" id="tr3"><h1>gridstack.js - 대쉬보드 생성을 위한 TypeScript 라이브러리</h1></a> <span class="topicurl">(github.com/gridstack)</span></div><div class="topicdesc"><a href="topic?id=9171" class="c99 breakall">- 몇 줄의 코드로 Drag &amp; Drop 및 리사이징, 멀티 컬럼, 모바일 지원 되는 대쉬보드를 생성   
 - 컬럼 기반의 반응형 레이아웃   
-- 아이템 위치...</a></div><div class="topicinfo"><span id="tp9171">6</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote9171"></span> | <a href="topic?id=9171" class="u">댓글과 토론</a></div>]]></content>
+- 아이템 위치...</a></div><div class="topicinfo"><span id="tp9171">7</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote9171"></span> | <a href="topic?id=9171" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta, 광고주를 위한 AI Sandbox 공개]]></title>
@@ -37,7 +36,7 @@
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9170"><a class="upvote" href="javascript:vote(9170, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.facebook.com/business/news/introducing-ai-sandbox-and-expanding-meta-advantage-suite" rel="nofollow" id="tr4"><h1>Meta, 광고주를 위한 AI Sandbox 공개 </h1></a> <span class="topicurl">(facebook.com)</span></div><div class="topicdesc"><a href="topic?id=9170" class="c99 breakall">- AI Sandbox : 생성형 AI에 기반한 광고 작성 도구   
   - 광고 텍스트 Variation   
   - 광고 배경 생성   
-  - 이미지 아웃크롭핑(광고 형식...</a></div><div class="topicinfo"><span id="tp9170">1</span> point by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote9170"></span> | <a href="topic?id=9170" class="u">댓글과 토론</a></div>]]></content>
+  - 이미지 아웃크롭핑(광고 형식...</a></div><div class="topicinfo"><span id="tp9170">1</span> point by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote9170"></span> | <a href="topic?id=9170" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic, Claude의 토큰을 기존 9K에서 100K까지 확장]]></title>
@@ -46,7 +45,7 @@
         <updated>2023-05-14T01:02:53.796Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9169"><a class="upvote" href="javascript:vote(9169, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.anthropic.com/index/100k-context-windows" rel="nofollow" id="tr5"><h1>Anthropic, Claude의 토큰을 기존 9K에서 100K까지 확장 </h1></a> <span class="topicurl">(anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=9169" class="c99 breakall">- 약 75000 단어 처리가 가능해져서 수백장의 페이지를 한번에 분석 가능   
   - 위대한 개츠비 전권이 72K 토큰  
-  - 100K는 약 6시간 분량의 ...</a></div><div class="topicinfo"><span id="tp9169">3</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote9169"></span> | <a href="topic?id=9169" class="u">댓글과 토론</a></div>]]></content>
+  - 100K는 약 6시간 분량의 ...</a></div><div class="topicinfo"><span id="tp9169">3</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote9169"></span> | <a href="topic?id=9169" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Youtube, 광고 차단기 실행시 영상 재생을 차단하는 기능을 테스트중]]></title>
@@ -121,7 +120,7 @@
         <link href="https://news.hada.io/topic?id=9158"/>
         <updated>2023-05-12T02:04:03.713Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote9158"><a class="upvote" href="javascript:vote(9158, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://subtls.pages.dev/" rel="nofollow" id="tr14"><h1>HTTPS(TLS) 호출을 바이트 단위로 살펴보기 </h1></a> <span class="topicurl">(subtls.pages.dev)</span></div><div class="topicdesc"><a href="topic?id=9158" class="c99 breakall">- 현재 페이지 자체를 가져오는 액션을 TLS 핸드쉐이킹부터 실제 HTML 바디까지, 모든 데이터에 대해 바이트 단위로 설명을 붙여서 표시   
-- Typ...</a></div><div class="topicinfo"><span id="tp9158">21</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9158"></span> | <a href="topic?id=9158" class="u">댓글 2개</a></div>]]></content>
+- Typ...</a></div><div class="topicinfo"><span id="tp9158">22</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9158"></span> | <a href="topic?id=9158" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple, iOS VM을 금지하려는 소송에서 패배]]></title>
