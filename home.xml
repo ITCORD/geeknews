@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-05-24T16:17:35.345Z</updated>
+    <updated>2023-05-24T17:11:51.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=9250"/>
         <updated>2023-05-24T02:33:50.696Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote9250"><a class="upvote" href="javascript:vote(9250, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pkolaczk.github.io/memory-consumption-of-async/" rel="nofollow" id="tr1"><h1>1백만개의 동시 작업을 실행하는데 메모리가 얼마나 필요할까?</h1></a> <span class="topicurl">(pkolaczk.github.io)</span></div><div class="topicdesc"><a href="topic?id=9250" class="c99 breakall">- 비동기 와 멀티쓰레드 간의 메모리 사용량을 Rust, Go, Java, C#, Python, Node.js, Elixir 언어로 비교   
-- 10초간 기다리는 태스크를 N개 실...</a></div><div class="topicinfo"><span id="tp9250">21</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote9250"></span> | <a href="topic?id=9250" class="u">댓글 7개</a></div>]]></content>
+- 10초간 기다리는 태스크를 N개 실...</a></div><div class="topicinfo"><span id="tp9250">21</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote9250"></span> | <a href="topic?id=9250" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팝오버 API]]></title>
@@ -19,39 +19,39 @@
         <link href="https://news.hada.io/topic?id=9251"/>
         <updated>2023-05-24T10:13:00.068Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9251"><a class="upvote" href="javascript:vote(9251, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.chrome.com/blog/introducing-popover-api/" rel="nofollow" id="tr2"><h1>팝오버 API</h1></a> <span class="topicurl">(developer.chrome.com)</span></div><div class="topicdesc"><a href="topic?id=9251" class="c99 breakall">- 팝업 UI를 구현하기 위한 새로운 웹 표준인 Popover API가 Chrome 114 버전에 구현됨.  
-- 많은 UI 라이브러리들에서 각각 구현하던 팝업(모달)...</a></div><div class="topicinfo"><span id="tp9251">9</span> points by <a href="/user?id=kuroneko">kuroneko</a> 7시간전<span id="unvote9251"></span> | <a href="topic?id=9251" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JunoDB - Paypal의 Key-Value Store를 오픈소스로 공개]]></title>
-        <id>https://news.hada.io/topic?id=9247</id>
-        <link href="https://news.hada.io/topic?id=9247"/>
-        <updated>2023-05-24T02:33:50.696Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9247"><a class="upvote" href="javascript:vote(9247, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1" rel="nofollow" id="tr3"><h1>JunoDB - Paypal의 Key-Value Store를 오픈소스로 공개</h1></a> <span class="topicurl">(medium.com)</span></div><div class="topicdesc"><a href="topic?id=9247" class="c99 breakall">- 무제한 확장 가능, 안전, 고가용성 분산 키밸류 스토어   
-- 매일 3500억건의 리퀘스트와 수십만 커넥션을 저 지연시간으로 처리해야하는 PayPa...</a></div><div class="topicinfo"><span id="tp9247">12</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote9247"></span> | <a href="topic?id=9247" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MMS - Meta가 공개한 1000+개 언어 음성 기술 프로젝트]]></title>
-        <id>https://news.hada.io/topic?id=9245</id>
-        <link href="https://news.hada.io/topic?id=9245"/>
-        <updated>2023-05-24T01:05:13.780Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9245"><a class="upvote" href="javascript:vote(9245, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/facebookresearch/fairseq/tree/main/examples/mms" rel="nofollow" id="tr4"><h1>MMS - Meta가 공개한 1000+개 언어 음성 기술 프로젝트 </h1></a> <span class="topicurl">(github.com/facebookresearch)</span></div><div class="topicdesc"><a href="topic?id=9245" class="c99 breakall">- Massively Multilingual Speech  
-- 기존 약 100개 언어만 지원하는 음성 인식 모델을 넘어 지구상에 사용되는 7000개 이상의 언어를 향해, 수...</a></div><div class="topicinfo"><span id="tp9245">12</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote9245"></span> | <a href="topic?id=9245" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangChain AI 핸드북]]></title>
-        <id>https://news.hada.io/topic?id=9248</id>
-        <link href="https://news.hada.io/topic?id=9248"/>
-        <updated>2023-05-24T02:33:50.700Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9248"><a class="upvote" href="javascript:vote(9248, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.pinecone.io/learn/langchain/" rel="nofollow" id="tr5"><h1>LangChain AI 핸드북 </h1></a> <span class="topicurl">(pinecone.io)</span></div><div class="topicdesc"><a href="topic?id=9248" class="c99 breakall">- LLM을 이용한 AI 어플리케이션을 만드는 LangChain 라이브러리에 대한 가이드 북   
-- 아직 작성중으로 7장까지 공개 (알림 받기 가능)  
-# 목...</a></div><div class="topicinfo"><span id="tp9248">11</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote9248"></span> | <a href="topic?id=9248" class="u">댓글과 토론</a></div>]]></content>
+- 많은 UI 라이브러리들에서 각각 구현하던 팝업(모달)...</a></div><div class="topicinfo"><span id="tp9251">9</span> points by <a href="/user?id=kuroneko">kuroneko</a> 8시간전<span id="unvote9251"></span> | <a href="topic?id=9251" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[x86S - 인텔의 레거시 모드 제거 제안]]></title>
         <id>https://news.hada.io/topic?id=9252</id>
         <link href="https://news.hada.io/topic?id=9252"/>
         <updated>2023-05-24T15:14:52.759Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote9252"><a class="upvote" href="javascript:vote(9252, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html" rel="nofollow" id="tr6"><h1>x86S - 인텔의 레거시 모드 제거 제안</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=9252" class="c99 breakall">x86 ISA에 64비트가 도입된 CPU가 출시된 지도 벌써 20년이나 지났지만, 아직도 x86 CPU를 사용하는 PC를 처음 켤 때는 잠깐이지만 CPU가 16비트 ...</a></div><div class="topicinfo"><span id="tp9252">2</span> points by <a href="/user?id=kunggom">kunggom</a> 2시간전<span id="unvote9252"></span> | <a href="topic?id=9252" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9252"><a class="upvote" href="javascript:vote(9252, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html" rel="nofollow" id="tr3"><h1>x86S - 인텔의 레거시 모드 제거 제안</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=9252" class="c99 breakall">x86 ISA에 64비트가 도입된 CPU가 출시된 지도 벌써 20년이나 지났지만, 아직도 x86 CPU를 사용하는 PC를 처음 켤 때는 잠깐이지만 CPU가 16비트 ...</a></div><div class="topicinfo"><span id="tp9252">3</span> points by <a href="/user?id=kunggom">kunggom</a> 3시간전<span id="unvote9252"></span> | <a href="topic?id=9252" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JunoDB - Paypal의 Key-Value Store를 오픈소스로 공개]]></title>
+        <id>https://news.hada.io/topic?id=9247</id>
+        <link href="https://news.hada.io/topic?id=9247"/>
+        <updated>2023-05-24T02:33:50.696Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9247"><a class="upvote" href="javascript:vote(9247, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1" rel="nofollow" id="tr4"><h1>JunoDB - Paypal의 Key-Value Store를 오픈소스로 공개</h1></a> <span class="topicurl">(medium.com)</span></div><div class="topicdesc"><a href="topic?id=9247" class="c99 breakall">- 무제한 확장 가능, 안전, 고가용성 분산 키밸류 스토어   
+- 매일 3500억건의 리퀘스트와 수십만 커넥션을 저 지연시간으로 처리해야하는 PayPa...</a></div><div class="topicinfo"><span id="tp9247">13</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote9247"></span> | <a href="topic?id=9247" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MMS - Meta가 공개한 1000+개 언어 음성 기술 프로젝트]]></title>
+        <id>https://news.hada.io/topic?id=9245</id>
+        <link href="https://news.hada.io/topic?id=9245"/>
+        <updated>2023-05-24T01:05:13.780Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9245"><a class="upvote" href="javascript:vote(9245, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/facebookresearch/fairseq/tree/main/examples/mms" rel="nofollow" id="tr5"><h1>MMS - Meta가 공개한 1000+개 언어 음성 기술 프로젝트 </h1></a> <span class="topicurl">(github.com/facebookresearch)</span></div><div class="topicdesc"><a href="topic?id=9245" class="c99 breakall">- Massively Multilingual Speech  
+- 기존 약 100개 언어만 지원하는 음성 인식 모델을 넘어 지구상에 사용되는 7000개 이상의 언어를 향해, 수...</a></div><div class="topicinfo"><span id="tp9245">13</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote9245"></span> | <a href="topic?id=9245" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain AI 핸드북]]></title>
+        <id>https://news.hada.io/topic?id=9248</id>
+        <link href="https://news.hada.io/topic?id=9248"/>
+        <updated>2023-05-24T02:33:50.700Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote9248"><a class="upvote" href="javascript:vote(9248, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.pinecone.io/learn/langchain/" rel="nofollow" id="tr6"><h1>LangChain AI 핸드북 </h1></a> <span class="topicurl">(pinecone.io)</span></div><div class="topicdesc"><a href="topic?id=9248" class="c99 breakall">- LLM을 이용한 AI 어플리케이션을 만드는 LangChain 라이브러리에 대한 가이드 북   
+- 아직 작성중으로 7장까지 공개 (알림 받기 가능)  
+# 목...</a></div><div class="topicinfo"><span id="tp9248">12</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote9248"></span> | <a href="topic?id=9248" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ONE-PEACE: 무제한 멀티 모달리티를 위한 일반 표현 모델]]></title>
@@ -59,7 +59,7 @@
         <link href="https://news.hada.io/topic?id=9249"/>
         <updated>2023-05-24T02:33:50.700Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote9249"><a class="upvote" href="javascript:vote(9249, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/OFA-Sys/ONE-PEACE" rel="nofollow" id="tr7"><h1>ONE-PEACE: 무제한 멀티 모달리티를 위한 일반 표현 모델</h1></a> <span class="topicurl">(github.com/OFA-Sys)</span></div><div class="topicdesc"><a href="topic?id=9249" class="c99 breakall">- 비젼, 오디오, 언어 모달리티를 모두 아우르는 General Represenation Model   
-- 사전학습된 모델 없이도 통합된 작업들에 훌륭한 결과를 냄  ...</a></div><div class="topicinfo"><span id="tp9249">8</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote9249"></span> | <a href="topic?id=9249" class="u">댓글 1개</a></div>]]></content>
+- 사전학습된 모델 없이도 통합된 작업들에 훌륭한 결과를 냄  ...</a></div><div class="topicinfo"><span id="tp9249">8</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote9249"></span> | <a href="topic?id=9249" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PrivateGPT - GPT를 데이터 유출없이 사용하기]]></title>
@@ -112,7 +112,7 @@
         <link href="https://news.hada.io/topic?id=9246"/>
         <updated>2023-05-24T01:05:13.780Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote9246"><a class="upvote" href="javascript:vote(9246, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/" rel="nofollow" id="tr13"><h1>MTIA v1: Meta의 1세대 AI 추론 가속기</h1></a> <span class="topicurl">(ai.facebook.com)</span></div><div class="topicdesc"><a href="topic?id=9246" class="c99 breakall">- GPU는 메타의 DLRM(딥러닝 추천 모델)을 실행하는데 최적이 아님   
-- 그래서 추천에 적합한 Meta Training and Inference Accelerator(MTIA) A...</a></div><div class="topicinfo"><span id="tp9246">4</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote9246"></span> | <a href="topic?id=9246" class="u">댓글과 토론</a></div>]]></content>
+- 그래서 추천에 적합한 Meta Training and Inference Accelerator(MTIA) A...</a></div><div class="topicinfo"><span id="tp9246">4</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote9246"></span> | <a href="topic?id=9246" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[접혀진 아코디언은 검색할 수 없나요?]]></title>
