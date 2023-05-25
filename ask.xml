@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2023-05-25T02:09:27.729Z</updated>
+    <updated>2023-05-25T03:13:39.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 임의의 메시지를 sign/verify 할 수 있는 passkeys extension?]]></title>
+        <id>https://news.hada.io/topic?id=9262</id>
+        <link href="https://news.hada.io/topic?id=9262"/>
+        <updated>2023-05-25T03:13:21.501Z</updated>
+        <content type="html"><![CDATA[yolatengo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: AI의 '인간 정렬'을 AI가 판단할 수 있을까요?]]></title>
         <id>https://news.hada.io/topic?id=9238</id>
@@ -136,13 +143,6 @@
         <id>https://news.hada.io/topic?id=8636</id>
         <link href="https://news.hada.io/topic?id=8636"/>
         <updated>2023-03-07T02:57:50.645Z</updated>
-        <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=8605</id>
-        <link href="https://news.hada.io/topic?id=8605"/>
-        <updated>2023-03-03T06:18:11.825Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
 </feed>
