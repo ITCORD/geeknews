@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-05-26T01:00:41.206Z</updated>
+    <updated>2023-05-26T02:08:01.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 컴포넌트의 다양한 모습을 테이블로 확인할 수 있는 Storybook 애드온]]></title>
+        <id>https://news.hada.io/topic?id=9268</id>
+        <link href="https://news.hada.io/topic?id=9268"/>
+        <updated>2023-05-26T02:07:39.450Z</updated>
+        <content type="html"><![CDATA[metis041]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 무료 문자, 이메일 인증 가능한 서비스를 소개합니다.]]></title>
         <id>https://news.hada.io/topic?id=9202</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8811"/>
         <updated>2023-03-27T09:14:41.120Z</updated>
         <content type="html"><![CDATA[hyunbin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 페이스AI - AI 아바타 생성 서비스]]></title>
-        <id>https://news.hada.io/topic?id=8848</id>
-        <link href="https://news.hada.io/topic?id=8848"/>
-        <updated>2023-03-31T07:12:11.070Z</updated>
-        <content type="html"><![CDATA[wally]]></content>
     </entry>
 </feed>
