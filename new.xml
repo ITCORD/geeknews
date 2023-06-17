@@ -2,48 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-06-17T19:09:58.680Z</updated>
+    <updated>2023-06-17T20:13:22.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: RxDB as a Database in an Angular Application]]></title>
+        <id>https://news.hada.io/topic?id=9421</id>
+        <link href="https://news.hada.io/topic?id=9421"/>
+        <updated>2023-06-17T20:12:49.888Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote9421"><a class="upvote" href="javascript:vote(9421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=9421" rel="nofollow" id="tr1"><h1>Show GN: RxDB as a Database in an Angular Application</h1></a> <span class="topicurl">(rxdb.info)</span></div><div class="topicinfo"><span id="tp9421">1</span> point by <a href="/user?id=aiokoko">aiokoko</a> 25분전<span id="unvote9421"></span> | <a href="topic?id=9421" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RedBPF - Rust eBPF 툴체인]]></title>
         <id>https://news.hada.io/topic?id=9420</id>
         <link href="https://news.hada.io/topic?id=9420"/>
         <updated>2023-06-17T02:34:34.325Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote9420"><a class="upvote" href="javascript:vote(9420, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/foniod/redbpf" rel="nofollow" id="tr1"><h1>RedBPF - Rust eBPF 툴체인</h1></a> <span class="topicurl">(github.com/foniod)</span></div><div class="topicdesc"><a href="topic?id=9420" class="c99 breakall">- Rust로 eBPF 프로그램을 개발하기 위한 툴과 라이브러리 모음   
-  - redbpf: eBPF 프로그램을 로드하거나 eBPF 맵에 접근하기 위한 유저스페이...</a></div><div class="topicinfo"><span id="tp9420">3</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote9420"></span> | <a href="topic?id=9420" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9420"><a class="upvote" href="javascript:vote(9420, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/foniod/redbpf" rel="nofollow" id="tr2"><h1>RedBPF - Rust eBPF 툴체인</h1></a> <span class="topicurl">(github.com/foniod)</span></div><div class="topicdesc"><a href="topic?id=9420" class="c99 breakall">- Rust로 eBPF 프로그램을 개발하기 위한 툴과 라이브러리 모음   
+  - redbpf: eBPF 프로그램을 로드하거나 eBPF 맵에 접근하기 위한 유저스페이...</a></div><div class="topicinfo"><span id="tp9420">3</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote9420"></span> | <a href="topic?id=9420" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[roop - 원클릭 딥페이크(얼굴 교체)]]></title>
         <id>https://news.hada.io/topic?id=9419</id>
         <link href="https://news.hada.io/topic?id=9419"/>
         <updated>2023-06-17T02:34:34.325Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9419"><a class="upvote" href="javascript:vote(9419, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/s0md3v/roop" rel="nofollow" id="tr2"><h1>roop - 원클릭 딥페이크(얼굴 교체) </h1></a> <span class="topicurl">(github.com/s0md3v)</span></div><div class="topicdesc"><a href="topic?id=9419" class="c99 breakall">- CPU 및 GPU 가속 지원(AMD, NVIDIA, Apple Silicon, Intel)  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9419"><a class="upvote" href="javascript:vote(9419, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/s0md3v/roop" rel="nofollow" id="tr3"><h1>roop - 원클릭 딥페이크(얼굴 교체) </h1></a> <span class="topicurl">(github.com/s0md3v)</span></div><div class="topicdesc"><a href="topic?id=9419" class="c99 breakall">- CPU 및 GPU 가속 지원(AMD, NVIDIA, Apple Silicon, Intel)  
 - 바꿀 얼굴 이미지와 타겟 이미지/동영상 만 넣고 클릭하면 바로 생성   
-- 오...</a></div><div class="topicinfo"><span id="tp9419">11</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote9419"></span> | <a href="topic?id=9419" class="u">댓글과 토론</a></div>]]></content>
+- 오...</a></div><div class="topicinfo"><span id="tp9419">11</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote9419"></span> | <a href="topic?id=9419" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Comic Mono 고정폭 폰트]]></title>
         <id>https://news.hada.io/topic?id=9418</id>
         <link href="https://news.hada.io/topic?id=9418"/>
         <updated>2023-06-17T01:03:37.148Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9418"><a class="upvote" href="javascript:vote(9418, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dtinth.github.io/comic-mono-font/" rel="nofollow" id="tr3"><h1>Comic Mono 고정폭 폰트</h1></a> <span class="topicurl">(dtinth.github.io)</span></div><div class="topicdesc"><a href="topic?id=9418" class="c99 breakall">- Comic Sans의 고정폭 포크인 Comic Shanns를 다시 한번 더 포크   
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9418"><a class="upvote" href="javascript:vote(9418, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dtinth.github.io/comic-mono-font/" rel="nofollow" id="tr4"><h1>Comic Mono 고정폭 폰트</h1></a> <span class="topicurl">(dtinth.github.io)</span></div><div class="topicdesc"><a href="topic?id=9418" class="c99 breakall">- Comic Sans의 고정폭 포크인 Comic Shanns를 다시 한번 더 포크   
 - 모든 글리프가 정확히 동일한 너비가 되게 수정   
-- Cousine 폰트의 메...</a></div><div class="topicinfo"><span id="tp9418">4</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote9418"></span> | <a href="topic?id=9418" class="u">댓글과 토론</a></div>]]></content>
+- Cousine 폰트의 메...</a></div><div class="topicinfo"><span id="tp9418">4</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote9418"></span> | <a href="topic?id=9418" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한 건 없는데 퇴근할 시간인 우리를 위한 "딴짓 관리 연습" - 기초편]]></title>
         <id>https://news.hada.io/topic?id=9417</id>
         <link href="https://news.hada.io/topic?id=9417"/>
         <updated>2023-06-16T11:10:07.005Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9417"><a class="upvote" href="javascript:vote(9417, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dwan.kim/no-more-distraction/" rel="nofollow" id="tr4"><h1>한 건 없는데 퇴근할 시간인 우리를 위한 "딴짓 관리 연습" - 기초편</h1></a> <span class="topicurl">(dwan.kim)</span></div><div class="topicdesc"><a href="topic?id=9417" class="c99 breakall">일하면서 딴짓을 하다가 하려던 걸 못하게 되는 경우가 많은데요. 이 글에서는 딴짓을 줄이기 위한 연습을 소개합니다.</a></div><div class="topicinfo"><span id="tp9417">3</span> points by <a href="/user?id=ehghks27">ehghks27</a> 1일전<span id="unvote9417"></span> | <a href="topic?id=9417" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9417"><a class="upvote" href="javascript:vote(9417, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dwan.kim/no-more-distraction/" rel="nofollow" id="tr5"><h1>한 건 없는데 퇴근할 시간인 우리를 위한 "딴짓 관리 연습" - 기초편</h1></a> <span class="topicurl">(dwan.kim)</span></div><div class="topicdesc"><a href="topic?id=9417" class="c99 breakall">일하면서 딴짓을 하다가 하려던 걸 못하게 되는 경우가 많은데요. 이 글에서는 딴짓을 줄이기 위한 연습을 소개합니다.</a></div><div class="topicinfo"><span id="tp9417">3</span> points by <a href="/user?id=ehghks27">ehghks27</a> 1일전<span id="unvote9417"></span> | <a href="topic?id=9417" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[AWS] 2023 부산 클라우드데이에 초대합니다!]]></title>
         <id>https://news.hada.io/topic?id=9416</id>
         <link href="https://news.hada.io/topic?id=9416"/>
         <updated>2023-06-16T06:16:23.273Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9416"><a class="upvote" href="javascript:vote(9416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pages.awscloud.com/busan-cloud-day-2023-reg.html" rel="nofollow" id="tr5"><h1>[AWS] 2023 부산 클라우드데이에 초대합니다!</h1></a> <span class="topicurl">(pages.awscloud.com)</span></div><div class="topicdesc"><a href="topic?id=9416" class="c99 breakall">신청하기: https://pages.awscloud.com/busan-cloud-day-2023-reg.html  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote9416"><a class="upvote" href="javascript:vote(9416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pages.awscloud.com/busan-cloud-day-2023-reg.html" rel="nofollow" id="tr6"><h1>[AWS] 2023 부산 클라우드데이에 초대합니다!</h1></a> <span class="topicurl">(pages.awscloud.com)</span></div><div class="topicdesc"><a href="topic?id=9416" class="c99 breakall">신청하기: https://pages.awscloud.com/busan-cloud-day-2023-reg.html  
   
 아마존 웹서비스와 부산정보산업진흥원이 오는 7월 5일, 부산 벡스...</a></div><div class="topicinfo"><span id="tp9416">1</span> point by <a href="/user?id=dahee9606">dahee9606</a> 2일전<span id="unvote9416"></span> | <a href="topic?id=9416" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -52,7 +59,7 @@
         <id>https://news.hada.io/topic?id=9415</id>
         <link href="https://news.hada.io/topic?id=9415"/>
         <updated>2023-06-16T05:12:27.252Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote9415"><a class="upvote" href="javascript:vote(9415, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/unsexybusinesskr/posts/66815cd7" rel="nofollow" id="tr6"><h1>3년만에 빠르게 성장한 SaaS를 만들고 요가원을 시작한 우피 창업자의 이야기</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=9415" class="c99 breakall">투자 없이 빠르게 성장하고 유의미한 매출을 만들어내고 있는 SaaS 우피의 최종욱 대표님 인터뷰입니다. 올해 요가원을 시작하셨다고 해요.  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote9415"><a class="upvote" href="javascript:vote(9415, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/unsexybusinesskr/posts/66815cd7" rel="nofollow" id="tr7"><h1>3년만에 빠르게 성장한 SaaS를 만들고 요가원을 시작한 우피 창업자의 이야기</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=9415" class="c99 breakall">투자 없이 빠르게 성장하고 유의미한 매출을 만들어내고 있는 SaaS 우피의 최종욱 대표님 인터뷰입니다. 올해 요가원을 시작하셨다고 해요.  
   
 ...</a></div><div class="topicinfo"><span id="tp9415">3</span> points by <a href="/user?id=ccblade">ccblade</a> 2일전<span id="unvote9415"></span> | <a href="topic?id=9415" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -61,7 +68,7 @@
         <id>https://news.hada.io/topic?id=9414</id>
         <link href="https://news.hada.io/topic?id=9414"/>
         <updated>2023-06-16T02:39:06.411Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote9414"><a class="upvote" href="javascript:vote(9414, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://teamblog.lemonbase.com/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B1%B8%EA%B9%8C-65cb6e024c69" rel="nofollow" id="tr7"><h1>엔지니어링 조직 차원의 기술적 의사결정을 잘하는 방법</h1></a> <span class="topicurl">(teamblog.lemonbase.com)</span></div><div class="topicdesc"><a href="topic?id=9414" class="c99 breakall">**엔지니어링 조직에서 기술적 의사결정을 잘 내리기 위한 방법에 대한 고민과 사례를 공유한 글**  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote9414"><a class="upvote" href="javascript:vote(9414, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://teamblog.lemonbase.com/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B1%B8%EA%B9%8C-65cb6e024c69" rel="nofollow" id="tr8"><h1>엔지니어링 조직 차원의 기술적 의사결정을 잘하는 방법</h1></a> <span class="topicurl">(teamblog.lemonbase.com)</span></div><div class="topicdesc"><a href="topic?id=9414" class="c99 breakall">**엔지니어링 조직에서 기술적 의사결정을 잘 내리기 위한 방법에 대한 고민과 사례를 공유한 글**  
   
 - 상황  
    - 엔지니어링 조직의 인원...</a></div><div class="topicinfo"><span id="tp9414">10</span> points by <a href="/user?id=studroid">studroid</a> 2일전<span id="unvote9414"></span> | <a href="topic?id=9414" class="u">댓글과 토론</a></div>]]></content>
@@ -71,7 +78,7 @@
         <id>https://news.hada.io/topic?id=9413</id>
         <link href="https://news.hada.io/topic?id=9413"/>
         <updated>2023-06-16T02:39:06.412Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote9413"><a class="upvote" href="javascript:vote(9413, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.techno-edge.net/article/2023/06/15/1447.html" rel="nofollow" id="tr8"><h1>[일어기사] 인텔의 CPU 명칭 규칙 쇄신: i가 빠졌습니다</h1></a> <span class="topicurl">(techno-edge.net)</span></div><div class="topicdesc"><a href="topic?id=9413" class="c99 breakall">인텔이 15년만에 CPU 명명 규칙을 바꿨는데요, 바뀐 규칙은 올해 후반부터 적용 예정이라고 합니다.  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote9413"><a class="upvote" href="javascript:vote(9413, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.techno-edge.net/article/2023/06/15/1447.html" rel="nofollow" id="tr9"><h1>[일어기사] 인텔의 CPU 명칭 규칙 쇄신: i가 빠졌습니다</h1></a> <span class="topicurl">(techno-edge.net)</span></div><div class="topicdesc"><a href="topic?id=9413" class="c99 breakall">인텔이 15년만에 CPU 명명 규칙을 바꿨는데요, 바뀐 규칙은 올해 후반부터 적용 예정이라고 합니다.  
   
 1. 기존에 'Intel Core i7' 등의 이름...</a></div><div class="topicinfo"><span id="tp9413">2</span> points by <a href="/user?id=libner">libner</a> 2일전<span id="unvote9413"></span> | <a href="topic?id=9413" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -80,7 +87,7 @@
         <id>https://news.hada.io/topic?id=9412</id>
         <link href="https://news.hada.io/topic?id=9412"/>
         <updated>2023-06-16T02:39:06.413Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote9412"><a class="upvote" href="javascript:vote(9412, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/approximatelabs/datadm" rel="nofollow" id="tr9"><h1>DataDM - AI를 이용한 개인 데이터 비서 오픈소스 </h1></a> <span class="topicurl">(github.com/approximatelabs)</span></div><div class="topicdesc"><a href="topic?id=9412" class="c99 breakall">- 한줄의 코드 없이 개인의 데이터를 로드해서 정제/변환/시각화 가능   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote9412"><a class="upvote" href="javascript:vote(9412, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/approximatelabs/datadm" rel="nofollow" id="tr10"><h1>DataDM - AI를 이용한 개인 데이터 비서 오픈소스 </h1></a> <span class="topicurl">(github.com/approximatelabs)</span></div><div class="topicdesc"><a href="topic?id=9412" class="c99 breakall">- 한줄의 코드 없이 개인의 데이터를 로드해서 정제/변환/시각화 가능   
 - OpenAI GPT를 사용하거나 로컬 모드로 실행(Starcoderchat-cuda 모델 ...</a></div><div class="topicinfo"><span id="tp9412">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9412"></span> | <a href="topic?id=9412" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -88,7 +95,7 @@
         <id>https://news.hada.io/topic?id=9411</id>
         <link href="https://news.hada.io/topic?id=9411"/>
         <updated>2023-06-16T02:39:06.416Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote9411"><a class="upvote" href="javascript:vote(9411, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://retrododo.com/mcdonalds-grimaces-birthday/" rel="nofollow" id="tr10"><h1>맥도널드, 닌텐도 게임 보이용 신작 게임 출시 </h1></a> <span class="topicurl">(retrododo.com)</span></div><div class="topicdesc"><a href="topic?id=9411" class="c99 breakall">- 2023년 현재, 출시된지 25년된 실제 게임 보이 컬러(GBC)에서 동작하는 신작게임 "Grimace's Birthday"을 출시   
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote9411"><a class="upvote" href="javascript:vote(9411, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://retrododo.com/mcdonalds-grimaces-birthday/" rel="nofollow" id="tr11"><h1>맥도널드, 닌텐도 게임 보이용 신작 게임 출시 </h1></a> <span class="topicurl">(retrododo.com)</span></div><div class="topicdesc"><a href="topic?id=9411" class="c99 breakall">- 2023년 현재, 출시된지 25년된 실제 게임 보이 컬러(GBC)에서 동작하는 신작게임 "Grimace's Birthday"을 출시   
 - Grimace 의 가상 생일인 6/...</a></div><div class="topicinfo"><span id="tp9411">3</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9411"></span> | <a href="topic?id=9411" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -96,7 +103,7 @@
         <id>https://news.hada.io/topic?id=9410</id>
         <link href="https://news.hada.io/topic?id=9410"/>
         <updated>2023-06-16T02:39:06.416Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote9410"><a class="upvote" href="javascript:vote(9410, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=9410" id="tr11"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=9410" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote9410"><a class="upvote" href="javascript:vote(9410, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=9410" id="tr12"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=9410" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
   
 읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.  
 도움 요청이나 피드백 ...</a></div><div class="topicinfo"><span id="tp9410">1</span> point by <a href="/user?id=askbot">askbot</a> 2일전<span id="unvote9410"></span> | <a href="topic?id=9410" class="u">댓글 1개</a></div>]]></content>
@@ -106,7 +113,7 @@
         <id>https://news.hada.io/topic?id=9409</id>
         <link href="https://news.hada.io/topic?id=9409"/>
         <updated>2023-06-16T02:39:06.418Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote9409"><a class="upvote" href="javascript:vote(9409, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa/" rel="nofollow" id="tr12"><h1>I-JEPA - 얀 르쿤의 아키텍처에 기반한 첫번째 AI 모델 </h1></a> <span class="topicurl">(ai.facebook.com)</span></div><div class="topicdesc"><a href="topic?id=9409" class="c99 breakall">- 픽셀 자체를 비교하는 대신 이미지의 추상적 표현을 비교하는 내부 모델을 생성하여 학습   
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote9409"><a class="upvote" href="javascript:vote(9409, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa/" rel="nofollow" id="tr13"><h1>I-JEPA - 얀 르쿤의 아키텍처에 기반한 첫번째 AI 모델 </h1></a> <span class="topicurl">(ai.facebook.com)</span></div><div class="topicdesc"><a href="topic?id=9409" class="c99 breakall">- 픽셀 자체를 비교하는 대신 이미지의 추상적 표현을 비교하는 내부 모델을 생성하여 학습   
 - 컴퓨터 비전 작업에서 강력한 성능을 제공하며 ...</a></div><div class="topicinfo"><span id="tp9409">2</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9409"></span> | <a href="topic?id=9409" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -114,7 +121,7 @@
         <id>https://news.hada.io/topic?id=9408</id>
         <link href="https://news.hada.io/topic?id=9408"/>
         <updated>2023-06-16T02:39:06.418Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote9408"><a class="upvote" href="javascript:vote(9408, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://techcrunch.com/2023/06/13/paul-mccartney-used-ai-to-make-a-new-beatles-song/?" rel="nofollow" id="tr13"><h1>폴 매카트니, 비틀즈 신곡을 위해 AI를 사용 </h1></a> <span class="topicurl">(techcrunch.com)</span></div><div class="topicdesc"><a href="topic?id=9408" class="c99 breakall">- 올해 말에 신곡을 공개할 예정   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote9408"><a class="upvote" href="javascript:vote(9408, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://techcrunch.com/2023/06/13/paul-mccartney-used-ai-to-make-a-new-beatles-song/?" rel="nofollow" id="tr14"><h1>폴 매카트니, 비틀즈 신곡을 위해 AI를 사용 </h1></a> <span class="topicurl">(techcrunch.com)</span></div><div class="topicdesc"><a href="topic?id=9408" class="c99 breakall">- 올해 말에 신곡을 공개할 예정   
 - 1978년 "Now and Then" 의 데모 레코딩에서 추출한 존 레논의 보컬을 포함  
 - 기존 비틀즈 멤버의 녹음에...</a></div><div class="topicinfo"><span id="tp9408">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9408"></span> | <a href="topic?id=9408" class="u">댓글 6개</a></div>]]></content>
     </entry>
@@ -123,7 +130,7 @@
         <id>https://news.hada.io/topic?id=9407</id>
         <link href="https://news.hada.io/topic?id=9407"/>
         <updated>2023-06-16T01:07:56.352Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote9407"><a class="upvote" href="javascript:vote(9407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/" rel="nofollow" id="tr14"><h1>Jim Keller, "앞으로 5~10년내에 RISC-V가 모든 데이터센터를 차지할 것"</h1></a> <span class="topicurl">(eetimes.com)</span></div><div class="topicdesc"><a href="topic?id=9407" class="c99 breakall">- 짐 켈러는 AI 칩 회사 Tenstorrent의 CTO였다가 올해 초 CEO가 되었음   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote9407"><a class="upvote" href="javascript:vote(9407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/" rel="nofollow" id="tr15"><h1>Jim Keller, "앞으로 5~10년내에 RISC-V가 모든 데이터센터를 차지할 것"</h1></a> <span class="topicurl">(eetimes.com)</span></div><div class="topicdesc"><a href="topic?id=9407" class="c99 breakall">- 짐 켈러는 AI 칩 회사 Tenstorrent의 CTO였다가 올해 초 CEO가 되었음   
 - 그는 하드웨어/소프트웨어 모두에서 오픈소스의 신봉자임   
 - Ten...</a></div><div class="topicinfo"><span id="tp9407">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9407"></span> | <a href="topic?id=9407" class="u">댓글 2개</a></div>]]></content>
     </entry>
@@ -132,7 +139,7 @@
         <id>https://news.hada.io/topic?id=9406</id>
         <link href="https://news.hada.io/topic?id=9406"/>
         <updated>2023-06-15T11:11:07.958Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote9406"><a class="upvote" href="javascript:vote(9406, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=9406" rel="nofollow" id="tr15"><h1>Show GN: PolyGPT</h1></a> <span class="topicurl">(chrome.google.com)</span></div><div class="topicdesc"><a href="topic?id=9406" class="c99 breakall">* chatgpt 를 한글 등 모국어로 이용  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote9406"><a class="upvote" href="javascript:vote(9406, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=9406" rel="nofollow" id="tr16"><h1>Show GN: PolyGPT</h1></a> <span class="topicurl">(chrome.google.com)</span></div><div class="topicdesc"><a href="topic?id=9406" class="c99 breakall">* chatgpt 를 한글 등 모국어로 이용  
   * 유사한 익스텐션들이 다수 존재하나, 사용하다보니 불편하여 단점들을 개선했습니다.  
   
 * 언어 ...</a></div><div class="topicinfo"><span id="tp9406">4</span> points by <a href="/user?id=gulby">gulby</a> 2일전<span id="unvote9406"></span> | <a href="topic?id=9406" class="u">댓글과 토론</a></div>]]></content>
@@ -142,14 +149,14 @@
         <id>https://news.hada.io/topic?id=9405</id>
         <link href="https://news.hada.io/topic?id=9405"/>
         <updated>2023-06-15T07:12:18.547Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote9405"><a class="upvote" href="javascript:vote(9405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/xpasky/status/1272280760280637441" rel="nofollow" id="tr16"><h1>깃의 기본 브랜치 이름이 'master'로 정해졌던 이유</h1></a> <span class="topicurl">(twitter.com/xpasky)</span></div><div class="topicdesc"><a href="topic?id=9405" class="c99 breakall">깃 코어 개발자였던 [페트르 바우디스(Petr Baudis)][1]가 2005년에 [깃의 기본 브랜치의 이름을 'master'로 정했습니다.][2] 바우디스는 ['master...</a></div><div class="topicinfo"><span id="tp9405">5</span> points by <a href="/user?id=chabulhwi">chabulhwi</a> 3일전<span id="unvote9405"></span> | <a href="topic?id=9405" class="u">댓글 18개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote9405"><a class="upvote" href="javascript:vote(9405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/xpasky/status/1272280760280637441" rel="nofollow" id="tr17"><h1>깃의 기본 브랜치 이름이 'master'로 정해졌던 이유</h1></a> <span class="topicurl">(twitter.com/xpasky)</span></div><div class="topicdesc"><a href="topic?id=9405" class="c99 breakall">깃 코어 개발자였던 [페트르 바우디스(Petr Baudis)][1]가 2005년에 [깃의 기본 브랜치의 이름을 'master'로 정했습니다.][2] 바우디스는 ['master...</a></div><div class="topicinfo"><span id="tp9405">5</span> points by <a href="/user?id=chabulhwi">chabulhwi</a> 3일전<span id="unvote9405"></span> | <a href="topic?id=9405" class="u">댓글 18개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비디오 기반 암호 해독 - 전원 LED의 비디오 영상에서 비밀 키 복구]]></title>
         <id>https://news.hada.io/topic?id=9403</id>
         <link href="https://news.hada.io/topic?id=9403"/>
         <updated>2023-06-15T06:15:53.845Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote9403"><a class="upvote" href="javascript:vote(9403, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.nassiben.com/video-based-crypta" rel="nofollow" id="tr17"><h1>비디오 기반 암호 해독 - 전원 LED의 비디오 영상에서 비밀 키 복구</h1></a> <span class="topicurl">(nassiben.com)</span></div><div class="topicdesc"><a href="topic?id=9403" class="c99 breakall">- 손상되지 않은 장치의 전원 LED를 찍은 비디오 영상을 통해 암호화에 사용하는 비밀 키를 복구할 수 있음.  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote9403"><a class="upvote" href="javascript:vote(9403, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.nassiben.com/video-based-crypta" rel="nofollow" id="tr18"><h1>비디오 기반 암호 해독 - 전원 LED의 비디오 영상에서 비밀 키 복구</h1></a> <span class="topicurl">(nassiben.com)</span></div><div class="topicdesc"><a href="topic?id=9403" class="c99 breakall">- 손상되지 않은 장치의 전원 LED를 찍은 비디오 영상을 통해 암호화에 사용하는 비밀 키를 복구할 수 있음.  
 - 기기가 암호화를 수행할 때 발생...</a></div><div class="topicinfo"><span id="tp9403">17</span> points by <a href="/user?id=kuroneko">kuroneko</a> 3일전<span id="unvote9403"></span> | <a href="topic?id=9403" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
@@ -157,7 +164,7 @@
         <id>https://news.hada.io/topic?id=9402</id>
         <link href="https://news.hada.io/topic?id=9402"/>
         <updated>2023-06-15T02:38:27.899Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote9402"><a class="upvote" href="javascript:vote(9402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://scrollbars.matoseb.com/" rel="nofollow" id="tr18"><h1>스크롤바의 진화</h1></a> <span class="topicurl">(scrollbars.matoseb.com)</span></div><div class="topicdesc"><a href="topic?id=9402" class="c99 breakall">- 1981년 부터 현대까지, GUI OS의 역사를 함께해온 스크롤바의 모습들을 정리.  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote9402"><a class="upvote" href="javascript:vote(9402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://scrollbars.matoseb.com/" rel="nofollow" id="tr19"><h1>스크롤바의 진화</h1></a> <span class="topicurl">(scrollbars.matoseb.com)</span></div><div class="topicdesc"><a href="topic?id=9402" class="c99 breakall">- 1981년 부터 현대까지, GUI OS의 역사를 함께해온 스크롤바의 모습들을 정리.  
 - 실제로 스크롤바와 상호작용을 해볼 수 있음.  
 - Xerox Sta...</a></div><div class="topicinfo"><span id="tp9402">14</span> points by <a href="/user?id=kuroneko">kuroneko</a> 3일전<span id="unvote9402"></span> | <a href="topic?id=9402" class="u">댓글 2개</a></div>]]></content>
     </entry>
@@ -166,18 +173,8 @@
         <id>https://news.hada.io/topic?id=9401</id>
         <link href="https://news.hada.io/topic?id=9401"/>
         <updated>2023-06-15T02:38:27.915Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote9401"><a class="upvote" href="javascript:vote(9401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/" rel="nofollow" id="tr19"><h1>Reddit Blackout 무기한 연장</h1></a> <span class="topicurl">(old.reddit.com)</span></div><div class="topicdesc"><a href="topic?id=9401" class="c99 breakall">- 레딧의 API 정책변경으로 Apollo 같은 써드파티 앱들이 종료됨   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote9401"><a class="upvote" href="javascript:vote(9401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/" rel="nofollow" id="tr20"><h1>Reddit Blackout 무기한 연장</h1></a> <span class="topicurl">(old.reddit.com)</span></div><div class="topicdesc"><a href="topic?id=9401" class="c99 breakall">- 레딧의 API 정책변경으로 Apollo 같은 써드파티 앱들이 종료됨   
 - 레딧의 공식앱은 품질이 좋지않고, 접근성 지원도 미비   
 - 약 9000개의 ...</a></div><div class="topicinfo"><span id="tp9401">6</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote9401"></span> | <a href="topic?id=9401" class="u">댓글 6개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWASP LLM 취약점 Top 10 리스트 v0.1]]></title>
-        <id>https://news.hada.io/topic?id=9400</id>
-        <link href="https://news.hada.io/topic?id=9400"/>
-        <updated>2023-06-15T02:38:27.916Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote9400"><a class="upvote" href="javascript:vote(9400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/descriptions/" rel="nofollow" id="tr20"><h1>OWASP LLM 취약점 Top 10 리스트 v0.1</h1></a> <span class="topicurl">(owasp.org)</span></div><div class="topicdesc"><a href="topic?id=9400" class="c99 breakall">LLM의 취약점에 대한 설명, 방지법 등을 시나리오별로 설명   
-- LLM01:2023 - Prompt Injections  
-- LLM02:2023 - Data Leakage  
-- LLM03:20...</a></div><div class="topicinfo"><span id="tp9400">7</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote9400"></span> | <a href="topic?id=9400" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
