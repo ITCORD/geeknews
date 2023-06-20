@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-06-20T01:05:40.344Z</updated>
+    <updated>2023-06-20T02:35:27.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: GOPT - GPT CLI made of Golang]]></title>
+        <id>https://news.hada.io/topic?id=9435</id>
+        <link href="https://news.hada.io/topic?id=9435"/>
+        <updated>2023-06-20T02:35:03.616Z</updated>
+        <content type="html"><![CDATA[nicewook]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: PolyGPT]]></title>
         <id>https://news.hada.io/topic?id=9406</id>
@@ -104,18 +111,18 @@
         <content type="html"><![CDATA[matsiiako]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 컴포넌트의 다양한 모습을 테이블로 확인할 수 있는 Storybook 애드온]]></title>
-        <id>https://news.hada.io/topic?id=9268</id>
-        <link href="https://news.hada.io/topic?id=9268"/>
-        <updated>2023-05-26T02:07:39.450Z</updated>
-        <content type="html"><![CDATA[metis041]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: dhapi - 동행복권 로또 6/45 구매하는 파이썬 라이브러리]]></title>
         <id>https://news.hada.io/topic?id=8821</id>
         <link href="https://news.hada.io/topic?id=8821"/>
         <updated>2023-03-30T01:04:31.069Z</updated>
         <content type="html"><![CDATA[roeniss]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 컴포넌트의 다양한 모습을 테이블로 확인할 수 있는 Storybook 애드온]]></title>
+        <id>https://news.hada.io/topic?id=9268</id>
+        <link href="https://news.hada.io/topic?id=9268"/>
+        <updated>2023-05-26T02:07:39.450Z</updated>
+        <content type="html"><![CDATA[metis041]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 자모야 모여라 - 파일명 자소 분리 해결 도구 (웹/CLI)]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9090"/>
         <updated>2023-05-02T08:15:40.744Z</updated>
         <content type="html"><![CDATA[ybabc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 가상키보드(vKeyboard) 우회를 도와주는 파이썬 라이브러리]]></title>
-        <id>https://news.hada.io/topic?id=8925</id>
-        <link href="https://news.hada.io/topic?id=8925"/>
-        <updated>2023-06-17T23:12:40.107Z</updated>
-        <content type="html"><![CDATA[soulee]]></content>
     </entry>
 </feed>
