@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-06-24T16:16:55.967Z</updated>
+    <updated>2023-06-24T17:12:53.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 자바로 나만의 체스 엔진을 만드세요!]]></title>
+        <id>https://news.hada.io/topic?id=9471</id>
+        <link href="https://news.hada.io/topic?id=9471"/>
+        <updated>2023-06-24T17:12:27.872Z</updated>
+        <content type="html"><![CDATA[colonelparrot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: GOPT - GPT CLI made of Golang]]></title>
         <id>https://news.hada.io/topic?id=9435</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9090"/>
         <updated>2023-06-22T11:10:30.467Z</updated>
         <content type="html"><![CDATA[ybabc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 가상키보드(vKeyboard) 우회를 도와주는 파이썬 라이브러리]]></title>
-        <id>https://news.hada.io/topic?id=8925</id>
-        <link href="https://news.hada.io/topic?id=8925"/>
-        <updated>2023-06-24T08:16:33.477Z</updated>
-        <content type="html"><![CDATA[soulee]]></content>
     </entry>
 </feed>
