@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-06-27T11:12:36.202Z</updated>
+    <updated>2023-06-27T12:30:46.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: zely - nodejs 파일 기반 라우팅 백엔드 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=9508</id>
+        <link href="https://news.hada.io/topic?id=9508"/>
+        <updated>2023-06-27T12:30:24.039Z</updated>
+        <content type="html"><![CDATA[do4ng]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Toolbox Dev , 개발자를 위한 툴 설치]]></title>
         <id>https://news.hada.io/topic?id=9475</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8872"/>
         <updated>2023-06-22T11:10:30.464Z</updated>
         <content type="html"><![CDATA[hyunbin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: InvestGPT 워렌 버핏을 학습한 AI와의 대화]]></title>
-        <id>https://news.hada.io/topic?id=8889</id>
-        <link href="https://news.hada.io/topic?id=8889"/>
-        <updated>2023-06-22T11:10:30.465Z</updated>
-        <content type="html"><![CDATA[sungchi]]></content>
     </entry>
 </feed>
