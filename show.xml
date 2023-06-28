@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-06-28T01:23:29.882Z</updated>
+    <updated>2023-06-28T02:56:53.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: GN⁺ - AI가 요약한 최신뉴스 보기]]></title>
+        <id>https://news.hada.io/topic?id=9521</id>
+        <link href="https://news.hada.io/topic?id=9521"/>
+        <updated>2023-06-28T02:56:27.485Z</updated>
+        <content type="html"><![CDATA[xguru]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: zely - nodejs 파일 기반 라우팅 백엔드 프레임워크]]></title>
         <id>https://news.hada.io/topic?id=9508</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=8821"/>
         <updated>2023-06-22T11:10:30.464Z</updated>
         <content type="html"><![CDATA[roeniss]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 자모야 모여라 - 파일명 자소 분리 해결 도구 (웹/CLI)]]></title>
-        <id>https://news.hada.io/topic?id=8872</id>
-        <link href="https://news.hada.io/topic?id=8872"/>
-        <updated>2023-06-22T11:10:30.464Z</updated>
-        <content type="html"><![CDATA[hyunbin]]></content>
     </entry>
 </feed>

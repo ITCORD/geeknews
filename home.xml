@@ -2,60 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-06-28T01:23:29.903Z</updated>
+    <updated>2023-06-28T02:56:53.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Hetty - 보안 연구를 위한 오픈소스 HTTP 툴킷]]></title>
-        <id>https://news.hada.io/topic?id=9503</id>
-        <link href="https://news.hada.io/topic?id=9503"/>
-        <updated>2023-06-27T02:57:39.784Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote9503"><a class="upvote" href="javascript:vote(9503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/dstotijn/hetty" rel="nofollow" id="tr1"><h1>Hetty - 보안 연구를 위한 오픈소스 HTTP 툴킷</h1></a> <span class="topicurl">(github.com/dstotijn)</span></div><div class="topicdesc"><a href="topic?id=9503" class="c99 breakall">- 상용인 Burp Suite Pro의 대체제   
-- infosec 및 bugbounty 를 위한 강력한 기능들 포함   
-- HTTP MITM(Man-in-the-Middle) 프록시  
-- 로...</a></div><div class="topicinfo"><span id="tp9503">13</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote9503"></span> | <a href="topic?id=9503" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Novel - Notion스타일 WYSIWIG 에디터 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=9516</id>
         <link href="https://news.hada.io/topic?id=9516"/>
         <updated>2023-06-28T01:22:44.537Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9516"><a class="upvote" href="javascript:vote(9516, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/steven-tey/novel" rel="nofollow" id="tr2"><h1>Novel - Notion스타일 WYSIWIG 에디터 오픈소스</h1></a> <span class="topicurl">(github.com/steven-tey)</span></div><div class="topicdesc"><a href="topic?id=9516" class="c99 breakall">- AI를 이용한 자동완성 기능 내장   
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote9516"><a class="upvote" href="javascript:vote(9516, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/steven-tey/novel" rel="nofollow" id="tr1"><h1>Novel - Notion스타일 WYSIWIG 에디터 오픈소스</h1></a> <span class="topicurl">(github.com/steven-tey)</span></div><div class="topicdesc"><a href="topic?id=9516" class="c99 breakall">- AI를 이용한 자동완성 기능 내장   
 - "/" 로 기능 팝업 (자동완성 및 스타일링)  
-- Next.js + Tiptap(에디터) + OpenAI + Vercel AI SDK + T...</a></div><div class="topicinfo"><span id="tp9516">1</span> point by <a href="/user?id=xguru">xguru</a> 7분전<span id="unvote9516"></span> | <a href="topic?id=9516" class="u">댓글과 토론</a></div>]]></content>
+- Next.js + Tiptap(에디터) + OpenAI + Vercel AI SDK + T...</a></div><div class="topicinfo"><span id="tp9516">7</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote9516"></span> | <a href="topic?id=9516" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepSpeed ZeRO++ : 통신량을 4배 줄이면서 LLM과 채팅 모델 트레이닝 속도의 획기적인 향상]]></title>
-        <id>https://news.hada.io/topic?id=9515</id>
-        <link href="https://news.hada.io/topic?id=9515"/>
-        <updated>2023-06-28T01:22:44.539Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9515"><a class="upvote" href="javascript:vote(9515, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/" rel="nofollow" id="tr3"><h1>DeepSpeed ZeRO++ : 통신량을 4배 줄이면서 LLM과 채팅 모델 트레이닝 속도의 획기적인 향상 </h1></a> <span class="topicurl">(microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=9515" class="c99 breakall">- LLM은 꽤 많은 양의 메모리와 컴퓨팅 리소스를 필요로 함   
-- DeppSpeed의 ZeRO 패밀리는 이런 문제에 대한 해결책을 제공하여 TNLG-17B, Bloo...</a></div><div class="topicinfo"><span id="tp9515">1</span> point by <a href="/user?id=xguru">xguru</a> 20분전<span id="unvote9515"></span> | <a href="topic?id=9515" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Show GN: GN⁺ - AI가 요약한 최신뉴스 보기]]></title>
+        <id>https://news.hada.io/topic?id=9521</id>
+        <link href="https://news.hada.io/topic?id=9521"/>
+        <updated>2023-06-28T02:56:04.058Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote9521"><a class="upvote" href="javascript:vote(9521, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=9521" rel="nofollow" id="tr2"><h1>Show GN: GN⁺ - AI가 요약한 최신뉴스 보기</h1></a> <span class="topicurl">(news.hada.io)</span></div><div class="topicdesc"><a href="topic?id=9521" class="c99 breakall">GN⁺ 는 "AI가 요약한 최신 뉴스"를 긱뉴스에서 제공하는 서비스입니다.   
+  
+저는 긱뉴스에 기사를 올리기 위해 꽤 많은 기술 뉴스레터와 블로...</a></div><div class="topicinfo"><span id="tp9521">5</span> points by <a href="/user?id=xguru">xguru</a> 30분전<span id="unvote9521"></span> | <a href="topic?id=9521" class="u">댓글 7개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailpit - 개발자를 위한 이메일 테스팅 도구]]></title>
+        <id>https://news.hada.io/topic?id=9518</id>
+        <link href="https://news.hada.io/topic?id=9518"/>
+        <updated>2023-06-28T02:56:04.058Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote9518"><a class="upvote" href="javascript:vote(9518, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/axllent/mailpit" rel="nofollow" id="tr3"><h1>Mailpit - 개발자를 위한 이메일 테스팅 도구</h1></a> <span class="topicurl">(github.com/axllent)</span></div><div class="topicdesc"><a href="topic?id=9518" class="c99 breakall">- 멀티 플랫폼 이메일 테스팅 도구 &amp; API   
+- Go로 만든 싱글 바이너리. 설치 필요 없음   
+- SMTP 서버로 동작하며, 모든 캡처된 이메일 보기 ...</a></div><div class="topicinfo"><span id="tp9518">5</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote9518"></span> | <a href="topic?id=9518" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CryptBoard.io - 익명 암호화 웹 클립보드 & 채팅 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=9517</id>
+        <link href="https://news.hada.io/topic?id=9517"/>
+        <updated>2023-06-28T02:56:04.058Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9517"><a class="upvote" href="javascript:vote(9517, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/MihanEntalpo/cryptboard.io" rel="nofollow" id="tr4"><h1>CryptBoard.io - 익명 암호화 웹 클립보드 &amp; 채팅 오픈소스</h1></a> <span class="topicurl">(github.com/MihanEntalpo)</span></div><div class="topicdesc"><a href="topic?id=9517" class="c99 breakall">- 다중 기기간에 텍스트 메시지 및 파일 전송을 지원   
+- 클립보드가 지원되지 않는 가상머신/원격접속 상에서 텍스트/파일 복사용   
+- 등록이...</a></div><div class="topicinfo"><span id="tp9517">5</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote9517"></span> | <a href="topic?id=9517" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vector는 PostgreSQL의 새 JSON 입니다]]></title>
+        <id>https://news.hada.io/topic?id=9520</id>
+        <link href="https://news.hada.io/topic?id=9520"/>
+        <updated>2023-06-28T02:56:04.058Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9520"><a class="upvote" href="javascript:vote(9520, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jkatz05.com/post/postgres/vectors-json-postgresql/" rel="nofollow" id="tr5"><h1>Vector는 PostgreSQL의 새 JSON 입니다</h1></a> <span class="topicurl">(jkatz05.com)</span></div><div class="topicdesc"><a href="topic?id=9520" class="c99 breakall">- 벡터는 잘 연구된 수학적 구조이고, JSON은 데이터 교환 형식임   
+- 하지만 데이터 저장 및 검색 세계에서 두가지 데이터 표현 방식은 공용어...</a></div><div class="topicinfo"><span id="tp9520">4</span> points by <a href="/user?id=xguru">xguru</a> 51분전<span id="unvote9520"></span> | <a href="topic?id=9520" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벤처기업 스톡옵션 부여가능 외부전문가 범위 확대]]></title>
         <id>https://news.hada.io/topic?id=9509</id>
         <link href="https://news.hada.io/topic?id=9509"/>
         <updated>2023-06-28T01:22:44.541Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote9509"><a class="upvote" href="javascript:vote(9509, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156577319" rel="nofollow" id="tr4"><h1>벤처기업 스톡옵션 부여가능 외부전문가 범위 확대</h1></a> <span class="topicurl">(korea.kr)</span></div><div class="topicdesc"><a href="topic?id=9509" class="c99 breakall">- 기존에는 변호사/회계사/의사등 13가지 전문자격만 가능해서 범위가 제한적  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote9509"><a class="upvote" href="javascript:vote(9509, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156577319" rel="nofollow" id="tr6"><h1>벤처기업 스톡옵션 부여가능 외부전문가 범위 확대</h1></a> <span class="topicurl">(korea.kr)</span></div><div class="topicdesc"><a href="topic?id=9509" class="c99 breakall">- 기존에는 변호사/회계사/의사등 13가지 전문자격만 가능해서 범위가 제한적  
 - 추가되는 외부 전문가 (벤처기업이 필요로 하는 분야에서)  
- ...</a></div><div class="topicinfo"><span id="tp9509">1</span> point by <a href="/user?id=xguru">xguru</a> 45분전<span id="unvote9509"></span> | <a href="topic?id=9509" class="u">댓글 1개</a></div>]]></content>
+ ...</a></div><div class="topicinfo"><span id="tp9509">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote9509"></span> | <a href="topic?id=9509" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 토스 NEXT 개발자 챌린지 (6/27~7/6)]]></title>
+        <id>https://news.hada.io/topic?id=9519</id>
+        <link href="https://news.hada.io/topic?id=9519"/>
+        <updated>2023-06-28T02:56:04.069Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote9519"><a class="upvote" href="javascript:vote(9519, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://toss.im/career/next-developer-2023" rel="nofollow" id="tr7"><h1>2023 토스 NEXT 개발자 챌린지 (6/27~7/6)</h1></a> <span class="topicurl">(toss.im)</span></div><div class="topicdesc"><a href="topic?id=9519" class="c99 breakall">토스에서 3년 이하 개발자를 모집하는 NEXT가 오픈했어요.   
+  
+지원 기간: 6/27~7/6  
+모집 분야: Android, Core Banking, Frontend, Server,...</a></div><div class="topicinfo"><span id="tp9519">2</span> points by <a href="/user?id=seoyi">seoyi</a> 1시간전<span id="unvote9519"></span> | <a href="topic?id=9519" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSpeed ZeRO++ : 통신량을 4배 줄이면서 LLM과 채팅 모델 트레이닝 속도의 획기적인 향상]]></title>
+        <id>https://news.hada.io/topic?id=9515</id>
+        <link href="https://news.hada.io/topic?id=9515"/>
+        <updated>2023-06-28T01:22:44.539Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote9515"><a class="upvote" href="javascript:vote(9515, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/" rel="nofollow" id="tr8"><h1>DeepSpeed ZeRO++ : 통신량을 4배 줄이면서 LLM과 채팅 모델 트레이닝 속도의 획기적인 향상 </h1></a> <span class="topicurl">(microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=9515" class="c99 breakall">- LLM은 꽤 많은 양의 메모리와 컴퓨팅 리소스를 필요로 함   
+- DeppSpeed의 ZeRO 패밀리는 이런 문제에 대한 해결책을 제공하여 TNLG-17B, Bloo...</a></div><div class="topicinfo"><span id="tp9515">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote9515"></span> | <a href="topic?id=9515" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hetty - 보안 연구를 위한 오픈소스 HTTP 툴킷]]></title>
+        <id>https://news.hada.io/topic?id=9503</id>
+        <link href="https://news.hada.io/topic?id=9503"/>
+        <updated>2023-06-27T02:57:39.784Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote9503"><a class="upvote" href="javascript:vote(9503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/dstotijn/hetty" rel="nofollow" id="tr9"><h1>Hetty - 보안 연구를 위한 오픈소스 HTTP 툴킷</h1></a> <span class="topicurl">(github.com/dstotijn)</span></div><div class="topicdesc"><a href="topic?id=9503" class="c99 breakall">- 상용인 Burp Suite Pro의 대체제   
+- infosec 및 bugbounty 를 위한 강력한 기능들 포함   
+- HTTP MITM(Man-in-the-Middle) 프록시  
+- 로...</a></div><div class="topicinfo"><span id="tp9503">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9503"></span> | <a href="topic?id=9503" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vrite -  협업 WYSIWYG 마크다운 편집기 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=9500</id>
         <link href="https://news.hada.io/topic?id=9500"/>
         <updated>2023-06-27T02:57:39.774Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote9500"><a class="upvote" href="javascript:vote(9500, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/vriteio/vrite" rel="nofollow" id="tr5"><h1>Vrite -  협업 WYSIWYG 마크다운 편집기 오픈소스</h1></a> <span class="topicurl">(github.com/vriteio)</span></div><div class="topicdesc"><a href="topic?id=9500" class="c99 breakall">- 프로그래밍 블로그 및 기술 문서를 위한 헤드리스 CMS   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote9500"><a class="upvote" href="javascript:vote(9500, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/vriteio/vrite" rel="nofollow" id="tr10"><h1>Vrite -  협업 WYSIWYG 마크다운 편집기 오픈소스</h1></a> <span class="topicurl">(github.com/vriteio)</span></div><div class="topicdesc"><a href="topic?id=9500" class="c99 breakall">- 프로그래밍 블로그 및 기술 문서를 위한 헤드리스 CMS   
 - 콘텐츠 제작 및 배포를 위한 칸반 대시보드 내장   
-- 마크다운 및 코드 편집기 지...</a></div><div class="topicinfo"><span id="tp9500">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9500"></span> | <a href="topic?id=9500" class="u">댓글 2개</a></div>]]></content>
+- 마크다운 및 코드 편집기 지...</a></div><div class="topicinfo"><span id="tp9500">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9500"></span> | <a href="topic?id=9500" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Facebook이 Waze를 거의 인수할 뻔했지만, Google과 함께하게된 실제 이야기]]></title>
         <id>https://news.hada.io/topic?id=9482</id>
         <link href="https://news.hada.io/topic?id=9482"/>
         <updated>2023-06-26T03:02:30.849Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote9482"><a class="upvote" href="javascript:vote(9482, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://post.news/@/noam/2RTRvTNNxSCQb3yNjqa0DPfr1Yk" rel="nofollow" id="tr6"><h1>Facebook이 Waze를 거의 인수할 뻔했지만, Google과 함께하게된 실제 이야기</h1></a> <span class="topicurl">(post.news)</span></div><div class="topicdesc"><a href="topic?id=9482" class="c99 breakall">- 2013년 6월에 구글이 Waze를 $1.15B에 인수   
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote9482"><a class="upvote" href="javascript:vote(9482, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://post.news/@/noam/2RTRvTNNxSCQb3yNjqa0DPfr1Yk" rel="nofollow" id="tr11"><h1>Facebook이 Waze를 거의 인수할 뻔했지만, Google과 함께하게된 실제 이야기</h1></a> <span class="topicurl">(post.news)</span></div><div class="topicdesc"><a href="topic?id=9482" class="c99 breakall">- 2013년 6월에 구글이 Waze를 $1.15B에 인수   
 - 그 시절에는 B단위(1조원)는 큰 숫자였음. 유니콘 이란 단어 자체가 몇 달후에 명명됨(가치가 ...</a></div><div class="topicinfo"><span id="tp9482">24</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9482"></span> | <a href="topic?id=9482" class="u">댓글 9개</a></div>]]></content>
     </entry>
     <entry>
@@ -63,15 +108,15 @@
         <id>https://news.hada.io/topic?id=9504</id>
         <link href="https://news.hada.io/topic?id=9504"/>
         <updated>2023-06-27T02:57:39.784Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote9504"><a class="upvote" href="javascript:vote(9504, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dotmeta.org/" rel="nofollow" id="tr7"><h1>DotMeta: .meta 폴더를 이용합시다</h1></a> <span class="topicurl">(dotmeta.org)</span></div><div class="topicdesc"><a href="topic?id=9504" class="c99 breakall">- 소프트웨어 라이브러리들이 설정 파일을 .meta 폴더에 넣자고 홍보하는 사이트   
-- 아래와 같이 설정 파일이 점점 더 많아지는데 루트 폴더에 ...</a></div><div class="topicinfo"><span id="tp9504">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote9504"></span> | <a href="topic?id=9504" class="u">댓글 5개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote9504"><a class="upvote" href="javascript:vote(9504, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dotmeta.org/" rel="nofollow" id="tr12"><h1>DotMeta: .meta 폴더를 이용합시다</h1></a> <span class="topicurl">(dotmeta.org)</span></div><div class="topicdesc"><a href="topic?id=9504" class="c99 breakall">- 소프트웨어 라이브러리들이 설정 파일을 .meta 폴더에 넣자고 홍보하는 사이트   
+- 아래와 같이 설정 파일이 점점 더 많아지는데 루트 폴더에 ...</a></div><div class="topicinfo"><span id="tp9504">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9504"></span> | <a href="topic?id=9504" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지도는 우리가 세상을 보는 방식을 왜곡하고 있다]]></title>
         <id>https://news.hada.io/topic?id=9478</id>
         <link href="https://news.hada.io/topic?id=9478"/>
         <updated>2023-06-26T01:16:49.099Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote9478"><a class="upvote" href="javascript:vote(9478, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world" rel="nofollow" id="tr8"><h1>지도는 우리가 세상을 보는 방식을 왜곡하고 있다</h1></a> <span class="topicurl">(unchartedterritories.tomaspueyo.com)</span></div><div class="topicdesc"><a href="topic?id=9478" class="c99 breakall">- 적도에 가까운 나라일수록 작아보임   
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote9478"><a class="upvote" href="javascript:vote(9478, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world" rel="nofollow" id="tr13"><h1>지도는 우리가 세상을 보는 방식을 왜곡하고 있다</h1></a> <span class="topicurl">(unchartedterritories.tomaspueyo.com)</span></div><div class="topicdesc"><a href="topic?id=9478" class="c99 breakall">- 적도에 가까운 나라일수록 작아보임   
 - 세상은 3D 구체인데, 지도는 2D에 투영하기 때문  
 - 가장 손해를 보는 것은 아프리카  
   - 미국+...</a></div><div class="topicinfo"><span id="tp9478">21</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9478"></span> | <a href="topic?id=9478" class="u">댓글 3개</a></div>]]></content>
@@ -81,32 +126,32 @@
         <id>https://news.hada.io/topic?id=9473</id>
         <link href="https://news.hada.io/topic?id=9473"/>
         <updated>2023-06-25T01:22:00.906Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote9473"><a class="upvote" href="javascript:vote(9473, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://auto-animate.formkit.com/" rel="nofollow" id="tr9"><h1>AutoAnimate - 한줄의 코드로 웹앱에 모션 추가하기</h1></a> <span class="topicurl">(auto-animate.formkit.com)</span></div><div class="topicdesc"><a href="topic?id=9473" class="c99 breakall">- 설정 없이 코드 한줄 추가만으로 애니메이션을 자동으로 추가   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote9473"><a class="upvote" href="javascript:vote(9473, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://auto-animate.formkit.com/" rel="nofollow" id="tr14"><h1>AutoAnimate - 한줄의 코드로 웹앱에 모션 추가하기</h1></a> <span class="topicurl">(auto-animate.formkit.com)</span></div><div class="topicdesc"><a href="topic?id=9473" class="c99 breakall">- 설정 없이 코드 한줄 추가만으로 애니메이션을 자동으로 추가   
 - React, Preact, Solid, Vue, Svelte, Angular 및 모든 JavaScript 앱에서 사...</a></div><div class="topicinfo"><span id="tp9473">36</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote9473"></span> | <a href="topic?id=9473" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[llama-tokenizer-js - 브라우저에서 실행되는 LLaMA 토크나이저]]></title>
-        <id>https://news.hada.io/topic?id=9501</id>
-        <link href="https://news.hada.io/topic?id=9501"/>
-        <updated>2023-06-27T02:57:39.785Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote9501"><a class="upvote" href="javascript:vote(9501, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/belladoreai/llama-tokenizer-js" rel="nofollow" id="tr10"><h1>llama-tokenizer-js - 브라우저에서 실행되는 LLaMA 토크나이저 </h1></a> <span class="topicurl">(github.com/belladoreai)</span></div><div class="topicdesc"><a href="topic?id=9501" class="c99 breakall">- 클라이언트 사이드에서 토큰을 정확하게 계산하기 위해 사용 가능   
-- 의존성 전혀없는 하나의 파일로 쉽게 사용 가능   
-- 대부분의 LLaMA ...</a></div><div class="topicinfo"><span id="tp9501">5</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote9501"></span> | <a href="topic?id=9501" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[try - 커맨드 실행에 따른 결과를 먼저 확인하게 해주는 도구]]></title>
         <id>https://news.hada.io/topic?id=9480</id>
         <link href="https://news.hada.io/topic?id=9480"/>
         <updated>2023-06-26T03:02:30.849Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote9480"><a class="upvote" href="javascript:vote(9480, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/binpash/try" rel="nofollow" id="tr11"><h1>try - 커맨드 실행에 따른 결과를 먼저 확인하게 해주는 도구</h1></a> <span class="topicurl">(github.com/binpash)</span></div><div class="topicdesc"><a href="topic?id=9480" class="c99 breakall">- 실제 프로덕션 서버에서 뭔가를 변경하기 전에 테스트 해 볼수 있음  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote9480"><a class="upvote" href="javascript:vote(9480, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/binpash/try" rel="nofollow" id="tr15"><h1>try - 커맨드 실행에 따른 결과를 먼저 확인하게 해주는 도구</h1></a> <span class="topicurl">(github.com/binpash)</span></div><div class="topicdesc"><a href="topic?id=9480" class="c99 breakall">- 실제 프로덕션 서버에서 뭔가를 변경하기 전에 테스트 해 볼수 있음  
   - `try pip install libdash` 같이 실행하면 변경되는 파일 리스트를 ...</a></div><div class="topicinfo"><span id="tp9480">14</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9480"></span> | <a href="topic?id=9480" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[llama-tokenizer-js - 브라우저에서 실행되는 LLaMA 토크나이저]]></title>
+        <id>https://news.hada.io/topic?id=9501</id>
+        <link href="https://news.hada.io/topic?id=9501"/>
+        <updated>2023-06-27T02:57:39.785Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote9501"><a class="upvote" href="javascript:vote(9501, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/belladoreai/llama-tokenizer-js" rel="nofollow" id="tr16"><h1>llama-tokenizer-js - 브라우저에서 실행되는 LLaMA 토크나이저 </h1></a> <span class="topicurl">(github.com/belladoreai)</span></div><div class="topicdesc"><a href="topic?id=9501" class="c99 breakall">- 클라이언트 사이드에서 토큰을 정확하게 계산하기 위해 사용 가능   
+- 의존성 전혀없는 하나의 파일로 쉽게 사용 가능   
+- 대부분의 LLaMA ...</a></div><div class="topicinfo"><span id="tp9501">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9501"></span> | <a href="topic?id=9501" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영양제 정보를 정리해서 연간 15억을 버는 웹사이트]]></title>
         <id>https://news.hada.io/topic?id=9476</id>
         <link href="https://news.hada.io/topic?id=9476"/>
         <updated>2023-06-26T01:16:49.097Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote9476"><a class="upvote" href="javascript:vote(9476, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/unsexybusinesskr/posts/e9402256" rel="nofollow" id="tr12"><h1>영양제 정보를 정리해서 연간 15억을 버는 웹사이트</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=9476" class="c99 breakall">개요 : 방문자가 월 200만명이나 되는 영양제 정보 정리 웹사이트  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote9476"><a class="upvote" href="javascript:vote(9476, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/unsexybusinesskr/posts/e9402256" rel="nofollow" id="tr17"><h1>영양제 정보를 정리해서 연간 15억을 버는 웹사이트</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=9476" class="c99 breakall">개요 : 방문자가 월 200만명이나 되는 영양제 정보 정리 웹사이트  
   
 Examine의 창업자 Sol은 어렸을 때부터 쿠키와 젤라또를 좋아하던 통통한...</a></div><div class="topicinfo"><span id="tp9476">12</span> points by <a href="/user?id=ccblade">ccblade</a> 2일전<span id="unvote9476"></span> | <a href="topic?id=9476" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -115,14 +160,14 @@ Examine의 창업자 Sol은 어렸을 때부터 쿠키와 젤라또를 좋아하
         <id>https://news.hada.io/topic?id=9508</id>
         <link href="https://news.hada.io/topic?id=9508"/>
         <updated>2023-06-27T12:30:03.947Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote9508"><a class="upvote" href="javascript:vote(9508, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=9508" rel="nofollow" id="tr13"><h1>Show GN: zely - nodejs 파일 기반 라우팅 백엔드 프레임워크</h1></a> <span class="topicurl">(zely.netlify.app)</span></div><div class="topicdesc"><a href="topic?id=9508" class="c99 breakall">nextjs와 같이 파일 경로를 기반으로 작동하는 백엔드용 프레임워크를 만들어봤습니다. 아직 백엔드에 대한 지식이 얕아 기능은 별로 없지만 피드...</a></div><div class="topicinfo"><span id="tp9508">2</span> points by <a href="/user?id=do4ng">do4ng</a> 13시간전<span id="unvote9508"></span> | <a href="topic?id=9508" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote9508"><a class="upvote" href="javascript:vote(9508, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=9508" rel="nofollow" id="tr18"><h1>Show GN: zely - nodejs 파일 기반 라우팅 백엔드 프레임워크</h1></a> <span class="topicurl">(zely.netlify.app)</span></div><div class="topicdesc"><a href="topic?id=9508" class="c99 breakall">nextjs와 같이 파일 경로를 기반으로 작동하는 백엔드용 프레임워크를 만들어봤습니다. 아직 백엔드에 대한 지식이 얕아 기능은 별로 없지만 피드...</a></div><div class="topicinfo"><span id="tp9508">2</span> points by <a href="/user?id=do4ng">do4ng</a> 15시간전<span id="unvote9508"></span> | <a href="topic?id=9508" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RSS Feed 스타일링 하기]]></title>
         <id>https://news.hada.io/topic?id=9479</id>
         <link href="https://news.hada.io/topic?id=9479"/>
         <updated>2023-06-26T03:02:30.850Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote9479"><a class="upvote" href="javascript:vote(9479, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://darekkay.com/blog/rss-styling/" rel="nofollow" id="tr14"><h1>RSS Feed 스타일링 하기</h1></a> <span class="topicurl">(darekkay.com)</span></div><div class="topicdesc"><a href="topic?id=9479" class="c99 breakall">- 아직 RSS는 죽지 않았음. 주류가 아니지만, 기술 사용자중에서는 여전히 번성중   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote9479"><a class="upvote" href="javascript:vote(9479, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://darekkay.com/blog/rss-styling/" rel="nofollow" id="tr19"><h1>RSS Feed 스타일링 하기</h1></a> <span class="topicurl">(darekkay.com)</span></div><div class="topicdesc"><a href="topic?id=9479" class="c99 breakall">- 아직 RSS는 죽지 않았음. 주류가 아니지만, 기술 사용자중에서는 여전히 번성중   
 - 대부분의 브라우저는 RSS를 그냥 XML로 렌더링 하고 있음 ...</a></div><div class="topicinfo"><span id="tp9479">10</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9479"></span> | <a href="topic?id=9479" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -130,49 +175,7 @@ Examine의 창업자 Sol은 어렸을 때부터 쿠키와 젤라또를 좋아하
         <id>https://news.hada.io/topic?id=9459</id>
         <link href="https://news.hada.io/topic?id=9459"/>
         <updated>2023-06-23T01:15:07.439Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote9459"><a class="upvote" href="javascript:vote(9459, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://computers-are-fast.github.io/" rel="nofollow" id="tr15"><h1>당신의 컴퓨터가 1초 안에 얼마나 많은 일을 할 수 있는지 아시나요?</h1></a> <span class="topicurl">(computers-are-fast.github.io)</span></div><div class="topicdesc"><a href="topic?id=9459" class="c99 breakall">- 주어진 소스 코드를 보고 해당 프로그램이 1초에 얼마나 많이 실행될 수 있을지 짐작하는 문제.  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote9459"><a class="upvote" href="javascript:vote(9459, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://computers-are-fast.github.io/" rel="nofollow" id="tr20"><h1>당신의 컴퓨터가 1초 안에 얼마나 많은 일을 할 수 있는지 아시나요?</h1></a> <span class="topicurl">(computers-are-fast.github.io)</span></div><div class="topicdesc"><a href="topic?id=9459" class="c99 breakall">- 주어진 소스 코드를 보고 해당 프로그램이 1초에 얼마나 많이 실행될 수 있을지 짐작하는 문제.  
   - 실행 이후 소스 코드에 포함된 `NUMBER` ...</a></div><div class="topicinfo"><span id="tp9459">39</span> points by <a href="/user?id=kuroneko">kuroneko</a> 5일전<span id="unvote9459"></span> | <a href="topic?id=9459" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[node-copy-paste - 크로스 플랫폼 시스템 클립보드 도구]]></title>
-        <id>https://news.hada.io/topic?id=9472</id>
-        <link href="https://news.hada.io/topic?id=9472"/>
-        <updated>2023-06-25T01:22:00.905Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote9472"><a class="upvote" href="javascript:vote(9472, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/xavi-/node-copy-paste" rel="nofollow" id="tr16"><h1>node-copy-paste - 크로스 플랫폼 시스템 클립보드 도구</h1></a> <span class="topicurl">(github.com/xavi-)</span></div><div class="topicdesc"><a href="topic?id=9472" class="c99 breakall">- OS별 시스템 클립보드 접근 도구들을 Wrapping 하여 어디서나 같은 방식으로 사용가능한 CLI   
-  - OSX: pbcopy/pbpaste   
-  - Windows: cli...</a></div><div class="topicinfo"><span id="tp9472">16</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote9472"></span> | <a href="topic?id=9472" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Softbank에서 2200억원 투자한 메시징앱 IRL, 95% 사용자가 가짜로 밝혀져 문을 닫음]]></title>
-        <id>https://news.hada.io/topic?id=9499</id>
-        <link href="https://news.hada.io/topic?id=9499"/>
-        <updated>2023-06-27T01:16:00.833Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote9499"><a class="upvote" href="javascript:vote(9499, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://fortune.com/2023/06/25/irl-shutting-down-startup-admits-95-percent-of-messaging-app-users-were-fake/" rel="nofollow" id="tr17"><h1>Softbank에서 2200억원 투자한 메시징앱 IRL, 95% 사용자가 가짜로 밝혀져 문을 닫음 </h1></a> <span class="topicurl">(fortune.com)</span></div><div class="topicdesc"><a href="topic?id=9499" class="c99 breakall">- IRL(In Real Life)은 2년전에 소프트뱅크 비젼펀드 2로부터 $170m 시리즈 C 펀딩을 받음   
-- 자신들을 "이벤트와 경험 공유를 통해 사람들을 ...</a></div><div class="topicinfo"><span id="tp9499">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote9499"></span> | <a href="topic?id=9499" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중고 클래식카와 중고 불도저를 팔아 수백억원을 벌고 있는 마켓플레이스 비즈니스]]></title>
-        <id>https://news.hada.io/topic?id=9489</id>
-        <link href="https://news.hada.io/topic?id=9489"/>
-        <updated>2023-06-26T14:13:02.082Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote9489"><a class="upvote" href="javascript:vote(9489, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/unsexybusinesskr/posts/b640240e" rel="nofollow" id="tr18"><h1>중고 클래식카와 중고 불도저를 팔아 수백억원을 벌고 있는 마켓플레이스 비즈니스</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=9489" class="c99 breakall">Cars &amp; Bids : 467만명의 구독자를 지니고 있는 자동차 유튜버 Doug Demuro가 2020년에 시작한 중고 클래식카 마켓 플레이스. 3년만에 1000억원에 ...</a></div><div class="topicinfo"><span id="tp9489">4</span> points by <a href="/user?id=ccblade">ccblade</a> 1일전<span id="unvote9489"></span> | <a href="topic?id=9489" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT Engineer - 개발하고 싶은걸 말하면 알아서 구축]]></title>
-        <id>https://news.hada.io/topic?id=9456</id>
-        <link href="https://news.hada.io/topic?id=9456"/>
-        <updated>2023-06-22T02:40:21.614Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote9456"><a class="upvote" href="javascript:vote(9456, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/AntonOsika/gpt-engineer" rel="nofollow" id="tr19"><h1>GPT Engineer - 개발하고 싶은걸 말하면 알아서 구축</h1></a> <span class="topicurl">(github.com/AntonOsika)</span></div><div class="topicdesc"><a href="topic?id=9456" class="c99 breakall">- 프롬프트 기반으로 전체 코드를 생성하는 오픈소스   
-- 개발하고 싶은걸 말하면, AI가 일부 설명을 요청한 다음 그걸 기반으로 빌드   
-- AI ...</a></div><div class="topicinfo"><span id="tp9456">32</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote9456"></span> | <a href="topic?id=9456" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropbox, AI기반 도구 Dropbox Dash, Dropbox AI 공개]]></title>
-        <id>https://news.hada.io/topic?id=9477</id>
-        <link href="https://news.hada.io/topic?id=9477"/>
-        <updated>2023-06-26T01:16:49.102Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote9477"><a class="upvote" href="javascript:vote(9477, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.dropbox.com/topics/product/introducing-AI-powered-tools" rel="nofollow" id="tr20"><h1>Dropbox, AI기반 도구 Dropbox Dash, Dropbox AI 공개</h1></a> <span class="topicurl">(blog.dropbox.com)</span></div><div class="topicdesc"><a href="topic?id=9477" class="c99 breakall">- Dropbox Dash : AI 기반 유니버설 검색 도구   
-  - 모든 도구, 콘텐츠, 앱을 하나의 검색바에 연결   
-  - 구글 워크스페이스, 아웃룩, 세일...</a></div><div class="topicinfo"><span id="tp9477">5</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote9477"></span> | <a href="topic?id=9477" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
