@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-07-02T23:13:42.074Z</updated>
+    <updated>2023-07-03T01:17:10.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GN⁺ - AI가 요약한 최신뉴스 보기]]></title>
+        <id>https://news.hada.io/weekly/202327</id>
+        <link href="https://news.hada.io/weekly/202327"/>
+        <updated>2023-07-03T01:16:58.045Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202327" class="u"> GN⁺ - AI가 요약한 최신뉴스 보기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스탠포드의 "엔지니어들을 위한 개인 재무 관리" 강의]]></title>
         <id>https://news.hada.io/weekly/202326</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202318"/>
         <updated>2023-05-01T01:04:01.817Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202318" class="u"> 제 기술중 90%의 가치가 0으로 떨어졌는데, 나머지 10%의 레버리지는 1000배 상승했어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StableLM과 RedPajama, 공개 언어 모델의 힘]]></title>
-        <id>https://news.hada.io/weekly/202317</id>
-        <link href="https://news.hada.io/weekly/202317"/>
-        <updated>2023-04-24T01:01:24.688Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202317" class="u"> StableLM과 RedPajama, 공개 언어 모델의 힘</a>]]></content>
     </entry>
 </feed>
