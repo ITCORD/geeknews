@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-07-09T04:16:49.466Z</updated>
+    <updated>2023-07-09T05:13:13.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Migration tool from Swagger to NestJS + SDK/Mockup Simulator generation]]></title>
+        <id>https://news.hada.io/topic?id=9705</id>
+        <link href="https://news.hada.io/topic?id=9705"/>
+        <updated>2023-07-09T05:12:50.080Z</updated>
+        <content type="html"><![CDATA[samchon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Threads API - 첫 번째 비공식 스레드 API 클라이언트]]></title>
         <id>https://news.hada.io/topic?id=9688</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9291"/>
         <updated>2023-06-22T11:10:30.459Z</updated>
         <content type="html"><![CDATA[composite]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: dhapi - 동행복권 로또 6/45 구매하는 파이썬 라이브러리]]></title>
-        <id>https://news.hada.io/topic?id=8821</id>
-        <link href="https://news.hada.io/topic?id=8821"/>
-        <updated>2023-07-08T12:24:52.682Z</updated>
-        <content type="html"><![CDATA[roeniss]]></content>
     </entry>
 </feed>
