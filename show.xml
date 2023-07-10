@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-07-09T23:13:28.164Z</updated>
+    <updated>2023-07-10T01:16:01.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 요약된 경제/테크 외신을 요약해주는 챗봇]]></title>
+        <id>https://news.hada.io/topic?id=9709</id>
+        <link href="https://news.hada.io/topic?id=9709"/>
+        <updated>2023-07-10T01:15:38.185Z</updated>
+        <content type="html"><![CDATA[sungchi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Migration tool from Swagger to NestJS + SDK/Mockup Simulator generation]]></title>
         <id>https://news.hada.io/topic?id=9705</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9232"/>
         <updated>2023-06-22T11:10:30.461Z</updated>
         <content type="html"><![CDATA[hankor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Awesome JSX]]></title>
-        <id>https://news.hada.io/topic?id=9291</id>
-        <link href="https://news.hada.io/topic?id=9291"/>
-        <updated>2023-06-22T11:10:30.459Z</updated>
-        <content type="html"><![CDATA[composite]]></content>
     </entry>
 </feed>
