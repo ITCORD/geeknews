@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-07-10T05:13:57.383Z</updated>
+    <updated>2023-07-10T06:19:04.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=9709"/>
         <updated>2023-07-10T01:15:38.185Z</updated>
         <content type="html"><![CDATA[sungchi]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 약간 더 구체적인 부동산 비용 계산기]]></title>
+        <id>https://news.hada.io/topic?id=9725</id>
+        <link href="https://news.hada.io/topic?id=9725"/>
+        <updated>2023-07-10T06:18:39.286Z</updated>
+        <content type="html"><![CDATA[seventeen]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Migration tool from Swagger to NestJS + SDK/Mockup Simulator generation]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9225"/>
         <updated>2023-06-22T11:10:30.460Z</updated>
         <content type="html"><![CDATA[rhea31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 1분 안에 SEO 친화적인 블로그 만들기]]></title>
-        <id>https://news.hada.io/topic?id=9232</id>
-        <link href="https://news.hada.io/topic?id=9232"/>
-        <updated>2023-06-22T11:10:30.461Z</updated>
-        <content type="html"><![CDATA[hankor]]></content>
     </entry>
 </feed>
