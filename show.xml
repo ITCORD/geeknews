@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-07-11T15:14:54.820Z</updated>
+    <updated>2023-07-11T16:17:53.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 경량 가상돔 UI 라이브러리 - 미리 그려진 SSR 페이지의 특정 부분에 가상 돔을 쉽게 추가, 제거, 업데...]]></title>
+        <id>https://news.hada.io/topic?id=9749</id>
+        <link href="https://news.hada.io/topic?id=9749"/>
+        <updated>2023-07-11T16:17:31.147Z</updated>
+        <content type="html"><![CDATA[superlucky84]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 요약된 경제/테크 외신을 요약해주는 챗봇]]></title>
         <id>https://news.hada.io/topic?id=9709</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9320"/>
         <updated>2023-06-22T11:10:30.458Z</updated>
         <content type="html"><![CDATA[ccblade]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: GraphQL Visualizer]]></title>
-        <id>https://news.hada.io/topic?id=9225</id>
-        <link href="https://news.hada.io/topic?id=9225"/>
-        <updated>2023-06-22T11:10:30.460Z</updated>
-        <content type="html"><![CDATA[rhea31]]></content>
     </entry>
 </feed>
