@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-07-16T23:13:28.629Z</updated>
+    <updated>2023-07-17T01:19:19.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소프트웨어 개발의 가장 어려운 점은 코딩이 아니라 요구사항]]></title>
+        <id>https://news.hada.io/weekly/202329</id>
+        <link href="https://news.hada.io/weekly/202329"/>
+        <updated>2023-07-17T01:19:05.751Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202329" class="u"> 소프트웨어 개발의 가장 어려운 점은 코딩이 아니라 요구사항</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LLM 어플리케이션을 위한 새로운 아키텍처]]></title>
         <id>https://news.hada.io/weekly/202328</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202320"/>
         <updated>2023-05-15T01:03:32.503Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202320" class="u"> 당신 자신만을 위해 만든 가장 흥미로운 기술은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자를 위한 ChatGPT 프롬프트 엔지니어링]]></title>
-        <id>https://news.hada.io/weekly/202319</id>
-        <link href="https://news.hada.io/weekly/202319"/>
-        <updated>2023-05-08T00:59:26.509Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202319" class="u"> 개발자를 위한 ChatGPT 프롬프트 엔지니어링</a>]]></content>
     </entry>
 </feed>
