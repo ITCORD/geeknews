@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-07-20T06:16:33.866Z</updated>
+    <updated>2023-07-20T07:12:29.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN:  Whale Console: Integrated Console for AI models, Chat, Bookmark Search Easily!]]></title>
+        <id>https://news.hada.io/topic?id=9900</id>
+        <link href="https://news.hada.io/topic?id=9900"/>
+        <updated>2023-07-20T07:12:05.846Z</updated>
+        <content type="html"><![CDATA[louischoi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Snake case To Camel case Online Converter]]></title>
         <id>https://news.hada.io/topic?id=9869</id>
@@ -41,18 +48,18 @@
         <content type="html"><![CDATA[junhoyeo]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Migration tool from Swagger to NestJS + SDK/Mockup Simulator generation]]></title>
-        <id>https://news.hada.io/topic?id=9705</id>
-        <link href="https://news.hada.io/topic?id=9705"/>
-        <updated>2023-07-09T05:12:50.080Z</updated>
-        <content type="html"><![CDATA[samchon]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: GN⁺ - AI가 요약한 최신뉴스 보기]]></title>
         <id>https://news.hada.io/topic?id=9521</id>
         <link href="https://news.hada.io/topic?id=9521"/>
         <updated>2023-06-28T02:56:27.485Z</updated>
         <content type="html"><![CDATA[xguru]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Migration tool from Swagger to NestJS + SDK/Mockup Simulator generation]]></title>
+        <id>https://news.hada.io/topic?id=9705</id>
+        <link href="https://news.hada.io/topic?id=9705"/>
+        <updated>2023-07-09T05:12:50.080Z</updated>
+        <content type="html"><![CDATA[samchon]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 경량 가상돔 UI 라이브러리 - 미리 그려진 SSR 페이지의 특정 부분에 가상 돔을 쉽게 추가, 제거, 업데...]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9306"/>
         <updated>2023-06-22T11:10:30.458Z</updated>
         <content type="html"><![CDATA[thenewseason]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 실리콘밸리에서 근무하는 개발자에게 멘토링을 받을 수 있습니다!]]></title>
-        <id>https://news.hada.io/topic?id=9320</id>
-        <link href="https://news.hada.io/topic?id=9320"/>
-        <updated>2023-07-19T17:11:50.084Z</updated>
-        <content type="html"><![CDATA[ccblade]]></content>
     </entry>
 </feed>
