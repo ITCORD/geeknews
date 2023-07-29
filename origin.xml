@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-07-29T20:15:02.513Z</updated>
+    <updated>2023-07-29T21:10:26.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython"/>
         <updated>2023-07-29T04:13:28.800Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10059"><a class="upvote" href="javascript:vote(10059, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython" rel="nofollow" id="tr1"><h1>CPython nogil 구현체를 업스트림에 머지하기로 결정</h1></a> <span class="topicurl">(discuss.python.org)</span></div><div class="topicdesc"><a href="topic?id=10059" class="c99 breakall">수 많은 논쟁과 파이썬 코어팀 내부의 투표 결과 끝에 CPython의 Steering Council은 PEP 703을 받아들이기로 결정.  
-단기적으로는 실험적 빌드 ...</a></div><div class="topicinfo"><span id="tp10059">8</span> points by <a href="/user?id=corona10">corona10</a> 16시간전<span id="unvote10059"></span> | <a href="topic?id=10059" class="u">댓글 1개</a></div>]]></content>
+단기적으로는 실험적 빌드 ...</a></div><div class="topicinfo"><span id="tp10059">8</span> points by <a href="/user?id=corona10">corona10</a> 17시간전<span id="unvote10059"></span> | <a href="topic?id=10059" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LPython - 새로운 고속 Python 컴파일러]]></title>
@@ -20,14 +20,14 @@
         <updated>2023-07-29T16:15:53.931Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote10063"><a class="upvote" href="javascript:vote(10063, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lpython.org" rel="nofollow" id="tr2"><h1>LPython - 새로운 고속 Python 컴파일러</h1></a> <span class="topicurl">(lpython.org)</span></div><div class="topicdesc"><a href="topic?id=10063" class="c99 breakall">- 타입 주석이 있는 Python 코드를 최적화된 코드로 컴파일하는 컴파일러  
 - 기계어(LLVM), C, C++, WASM 등 여러 백엔드 지원  
-- 기기 독립적...</a></div><div class="topicinfo"><span id="tp10063">2</span> points by <a href="/user?id=kunggom">kunggom</a> 5시간전<span id="unvote10063"></span> | <a href="topic?id=10063" class="u">댓글과 토론</a></div>]]></content>
+- 기기 독립적...</a></div><div class="topicinfo"><span id="tp10063">2</span> points by <a href="/user?id=kunggom">kunggom</a> 6시간전<span id="unvote10063"></span> | <a href="topic?id=10063" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Explaining Docker With Pizza]]></title>
         <id>https://substack.com/inbox/post/135549886</id>
         <link href="https://substack.com/inbox/post/135549886"/>
         <updated>2023-07-29T19:09:03.080Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10064"><a class="upvote" href="javascript:vote(10064, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://substack.com/inbox/post/135549886" rel="nofollow" id="tr3"><h1>Explaining Docker With Pizza</h1></a> <span class="topicurl">(substack.com)</span></div><div class="topicdesc"><a href="topic?id=10064" class="c99 breakall">이 기사에서는 피자 푸드 카트 비유의 렌즈를 통해 Docker의 개념을 살펴보겠습니다.</a></div><div class="topicinfo"><span id="tp10064">1</span> point by <a href="/user?id=fariabriya">fariabriya</a> 1시간전<span id="unvote10064"></span> | <a href="topic?id=10064" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10064"><a class="upvote" href="javascript:vote(10064, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://substack.com/inbox/post/135549886" rel="nofollow" id="tr3"><h1>Explaining Docker With Pizza</h1></a> <span class="topicurl">(substack.com)</span></div><div class="topicdesc"><a href="topic?id=10064" class="c99 breakall">이 기사에서는 피자 푸드 카트 비유의 렌즈를 통해 Docker의 개념을 살펴보겠습니다.</a></div><div class="topicinfo"><span id="tp10064">1</span> point by <a href="/user?id=fariabriya">fariabriya</a> 2시간전<span id="unvote10064"></span> | <a href="topic?id=10064" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Continue - ChatGPT를 VSCode에 결합한 오픈소스 AutoPilot 확장]]></title>
@@ -36,7 +36,7 @@
         <updated>2023-07-29T02:02:02.503Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote10057"><a class="upvote" href="javascript:vote(10057, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/continuedev/continue" rel="nofollow" id="tr4"><h1>Continue - ChatGPT를 VSCode에 결합한 오픈소스 AutoPilot 확장</h1></a> <span class="topicurl">(github.com/continuedev)</span></div><div class="topicdesc"><a href="topic?id=10057" class="c99 breakall">- VSCode 확장으로 ChatGPT의 기능을 IDE에 결합   
 - 코드의 일부를 선택한 후 질문해서 답변 받기 또는 리팩터링 하기 가능   
-  - “how can I...</a></div><div class="topicinfo"><span id="tp10057">5</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote10057"></span> | <a href="topic?id=10057" class="u">댓글 1개</a></div>]]></content>
+  - “how can I...</a></div><div class="topicinfo"><span id="tp10057">5</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote10057"></span> | <a href="topic?id=10057" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Cap'n Proto 1.0]]></title>
@@ -44,7 +44,7 @@
         <link href="https://capnproto.org/news/2023-07-28-capnproto-1.0.html"/>
         <updated>2023-07-29T03:12:01.540Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote10050"><a class="upvote" href="javascript:vote(10050, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://capnproto.org/news/2023-07-28-capnproto-1.0.html" rel="nofollow" id="tr5"><h1>GN⁺: Cap'n Proto 1.0</h1></a> <span class="topicurl">(capnproto.org)</span></div><div class="topicdesc"><a href="topic?id=10050" class="c99 breakall">- 매우 빠른 Serialization/RCP 시스템인 Cap'n Proto (C++ 구현체)의 1.0 릴리스, 첫 발표 이후 10년 만에 출시  
-- 이번 릴리스는 많은 새로운 ...</a></div><div class="topicinfo"><span id="tp10050">4</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote10050"></span> | <a href="topic?id=10050" class="u">댓글 2개</a></div>]]></content>
+- 이번 릴리스는 많은 새로운 ...</a></div><div class="topicinfo"><span id="tp10050">4</span> points by <a href="/user?id=neo">neo</a> 20시간전<span id="unvote10050"></span> | <a href="topic?id=10050" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MailDev - 개발시에 메일을 테스트 하기 위한 SMTP 서버]]></title>
@@ -82,25 +82,25 @@
 - 최적화된 Columnar 레...</a></div><div class="topicinfo"><span id="tp10041">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10041"></span> | <a href="topic?id=10041" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[당신이 본 최고의 강좌 시리즈는 ?]]></title>
+        <id>https://news.ycombinator.com/item?id=34591291</id>
+        <link href="https://news.ycombinator.com/item?id=34591291"/>
+        <updated>2023-07-24T02:33:18.982Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote9962"><a class="upvote" href="javascript:vote(9962, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=34591291" rel="nofollow" id="tr10"><h1>당신이 본 최고의 강좌 시리즈는 ?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=9962" class="c99 breakall">HN에 올라온 기술 또는 다른 것들에 대한 질문과 답변들  
+- [Neural Networks: From Zero to Hero](https://karpathy.ai/zero-to-hero.html)  
+...</a></div><div class="topicinfo"><span id="tp9962">50</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote9962"></span> | <a href="topic?id=9962" class="u">댓글 11개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[방구석팜(스마트팜) 구축 이야기]]></title>
         <id>https://present.do/documents/64aa897810ab9a5ae55bae90</id>
         <link href="https://present.do/documents/64aa897810ab9a5ae55bae90"/>
         <updated>2023-07-26T03:12:32.538Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote10007"><a class="upvote" href="javascript:vote(10007, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://present.do/documents/64aa897810ab9a5ae55bae90" rel="nofollow" id="tr10"><h1>방구석팜(스마트팜) 구축 이야기</h1></a> <span class="topicurl">(present.do)</span></div><div class="topicdesc"><a href="topic?id=10007" class="c99 breakall">강성욱  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote10007"><a class="upvote" href="javascript:vote(10007, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://present.do/documents/64aa897810ab9a5ae55bae90" rel="nofollow" id="tr11"><h1>방구석팜(스마트팜) 구축 이야기</h1></a> <span class="topicurl">(present.do)</span></div><div class="topicdesc"><a href="topic?id=10007" class="c99 breakall">강성욱  
 - 현 백수  
 - 전 AWS Sr.Solutions Architect(KOREA)  
 - 전 NHN GLOBAL SRE Manager (LA)  
 - 전 NEXON AMERICA Sr.DBA (LA)  
 - ...</a></div><div class="topicinfo"><span id="tp10007">24</span> points by <a href="/user?id=klog01">klog01</a> 4일전<span id="unvote10007"></span> | <a href="topic?id=10007" class="u">댓글 13개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 본 최고의 강좌 시리즈는 ?]]></title>
-        <id>https://news.ycombinator.com/item?id=34591291</id>
-        <link href="https://news.ycombinator.com/item?id=34591291"/>
-        <updated>2023-07-24T02:33:18.982Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote9962"><a class="upvote" href="javascript:vote(9962, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=34591291" rel="nofollow" id="tr11"><h1>당신이 본 최고의 강좌 시리즈는 ?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=9962" class="c99 breakall">HN에 올라온 기술 또는 다른 것들에 대한 질문과 답변들  
-- [Neural Networks: From Zero to Hero](https://karpathy.ai/zero-to-hero.html)  
-...</a></div><div class="topicinfo"><span id="tp9962">50</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote9962"></span> | <a href="topic?id=9962" class="u">댓글 11개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[필리핀 마케터를 고용해서 2년만에 연 100억의 매출을 만들었다.]]></title>
@@ -176,6 +176,6 @@ And from the perspective of starting a second business and running a company, it
         <link href="https://frontierbydoyeob.substack.com/p/frontier-14"/>
         <updated>2023-07-29T08:13:19.352Z</updated>
         <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote10060"><a class="upvote" href="javascript:vote(10060, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://frontierbydoyeob.substack.com/p/frontier-14" rel="nofollow" id="tr20"><h1>어떻게 위대한 일을 할 것인가? 내 삶에 적용하기</h1></a> <span class="topicurl">(frontierbydoyeob.substack.com)</span></div><div class="topicdesc"><a href="topic?id=10060" class="c99 breakall">&lt;요약&gt;  
-핵심은 행동이라 생각한다. 좋은 글을 백날 읽어보았자, 실천하지 않으면 아무 의미가 없다. 내가 결심한 바를 행할 첫 기회는 전역 후 ...</a></div><div class="topicinfo"><span id="tp10060">1</span> point by <a href="/user?id=toebee">toebee</a> 13시간전<span id="unvote10060"></span> | <a href="topic?id=10060" class="u">댓글 1개</a></div>]]></content>
+핵심은 행동이라 생각한다. 좋은 글을 백날 읽어보았자, 실천하지 않으면 아무 의미가 없다. 내가 결심한 바를 행할 첫 기회는 전역 후 ...</a></div><div class="topicinfo"><span id="tp10060">1</span> point by <a href="/user?id=toebee">toebee</a> 14시간전<span id="unvote10060"></span> | <a href="topic?id=10060" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
