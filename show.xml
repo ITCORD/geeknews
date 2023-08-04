@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-08-04T01:06:19.785Z</updated>
+    <updated>2023-08-04T02:27:22.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Kuberian: LLM 을 사용한 Kubernetes 소스코드 자연어 검색 서비스]]></title>
+        <id>https://news.hada.io/topic?id=10179</id>
+        <link href="https://news.hada.io/topic?id=10179"/>
+        <updated>2023-08-04T02:26:57.865Z</updated>
+        <content type="html"><![CDATA[kuber]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [어웨이큰] 원격 근무 팀, 유대감 강화, 워라밸 개선]]></title>
         <id>https://news.hada.io/topic?id=10147</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9089"/>
         <updated>2023-06-22T11:10:30.459Z</updated>
         <content type="html"><![CDATA[robin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: zely - nodejs 파일 기반 라우팅 백엔드 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=9508</id>
-        <link href="https://news.hada.io/topic?id=9508"/>
-        <updated>2023-06-27T12:30:24.039Z</updated>
-        <content type="html"><![CDATA[do4ng]]></content>
     </entry>
 </feed>
