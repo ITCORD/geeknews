@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-08-14T04:14:21.060Z</updated>
+    <updated>2023-08-14T05:11:40.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 그저 토마토를 주고받을 뿐인 서비스]]></title>
+        <id>https://news.hada.io/topic?id=10347</id>
+        <link href="https://news.hada.io/topic?id=10347"/>
+        <updated>2023-08-14T05:11:16.848Z</updated>
+        <content type="html"><![CDATA[robin]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 프롬프트 엔지니어링으로 수능 국어 1등급에 도전하는 오픈소스 프로젝트]]></title>
         <id>https://news.hada.io/topic?id=10237</id>
@@ -20,6 +27,13 @@
         <content type="html"><![CDATA[lucask0417]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: DevOps 파이프라인 에디터 'Plumber']]></title>
+        <id>https://news.hada.io/topic?id=10297</id>
+        <link href="https://news.hada.io/topic?id=10297"/>
+        <updated>2023-08-11T08:14:17.292Z</updated>
+        <content type="html"><![CDATA[ironlung]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: c++20 in-memory filesystem]]></title>
         <id>https://news.hada.io/topic?id=10235</id>
         <link href="https://news.hada.io/topic?id=10235"/>
@@ -32,13 +46,6 @@
         <link href="https://news.hada.io/topic?id=10179"/>
         <updated>2023-08-04T02:26:57.865Z</updated>
         <content type="html"><![CDATA[kuber]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: DevOps 파이프라인 에디터 'Plumber']]></title>
-        <id>https://news.hada.io/topic?id=10297</id>
-        <link href="https://news.hada.io/topic?id=10297"/>
-        <updated>2023-08-11T08:14:17.292Z</updated>
-        <content type="html"><![CDATA[ironlung]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Google search in videos]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9900"/>
         <updated>2023-07-20T07:12:05.846Z</updated>
         <content type="html"><![CDATA[louischoi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: leaked-system-prompts 유출된 시스템 프롬프트 저장소]]></title>
-        <id>https://news.hada.io/topic?id=9305</id>
-        <link href="https://news.hada.io/topic?id=9305"/>
-        <updated>2023-06-22T11:10:30.456Z</updated>
-        <content type="html"><![CDATA[jujumilk3]]></content>
     </entry>
 </feed>
