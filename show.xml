@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-08-14T03:12:49.141Z</updated>
+    <updated>2023-08-14T04:14:21.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[somnus]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: DevOps 파이프라인 에디터 'Plumber']]></title>
-        <id>https://news.hada.io/topic?id=10297</id>
-        <link href="https://news.hada.io/topic?id=10297"/>
-        <updated>2023-08-11T08:14:17.292Z</updated>
-        <content type="html"><![CDATA[ironlung]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Kuberian: LLM 을 사용한 Kubernetes 소스코드 자연어 검색 서비스]]></title>
         <id>https://news.hada.io/topic?id=10179</id>
         <link href="https://news.hada.io/topic?id=10179"/>
         <updated>2023-08-04T02:26:57.865Z</updated>
         <content type="html"><![CDATA[kuber]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: DevOps 파이프라인 에디터 'Plumber']]></title>
+        <id>https://news.hada.io/topic?id=10297</id>
+        <link href="https://news.hada.io/topic?id=10297"/>
+        <updated>2023-08-11T08:14:17.292Z</updated>
+        <content type="html"><![CDATA[ironlung]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Google search in videos]]></title>
