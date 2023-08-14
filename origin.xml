@@ -2,16 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-08-14T02:18:18.973Z</updated>
+    <updated>2023-08-14T03:12:49.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Node.js 백엔드 애플리케이션 환경에서 유효성 검사가 성능에 큰 영향이 있을까?]]></title>
-        <id>https://jhyeok.com/nodejs-validation-performance/</id>
-        <link href="https://jhyeok.com/nodejs-validation-performance/"/>
-        <updated>2023-08-14T00:51:10.443Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10331"><a class="upvote" href="javascript:vote(10331, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jhyeok.com/nodejs-validation-performance/" rel="nofollow" id="tr1"><h1>Node.js 백엔드 애플리케이션 환경에서 유효성 검사가 성능에 큰 영향이 있을까?</h1></a> <span class="topicurl">(jhyeok.com)</span></div><div class="topicdesc"><a href="topic?id=10331" class="c99 breakall">- JavaScript 및 Node.js 환경에서 유효성 검사 라이브러리인 Joi는 다른 라이브러리보다 성능이 느림  
-    - Joi를 다른 라이브러리로 교체하면...</a></div><div class="topicinfo"><span id="tp10331">5</span> points by <a href="/user?id=koeyh">koeyh</a> 2시간전<span id="unvote10331"></span> | <a href="topic?id=10331" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Postgres는 언제부터 멋있어졌을까]]></title>
+        <id>https://www.crunchydata.com/blog/when-did-postgres-become-cool</id>
+        <link href="https://www.crunchydata.com/blog/when-did-postgres-become-cool"/>
+        <updated>2023-08-14T02:17:36.982Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10344"><a class="upvote" href="javascript:vote(10344, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.crunchydata.com/blog/when-did-postgres-become-cool" rel="nofollow" id="tr1"><h1>Postgres는 언제부터 멋있어졌을까</h1></a> <span class="topicurl">(crunchydata.com)</span></div><div class="topicdesc"><a href="topic?id=10344" class="c99 breakall">- VC 펀딩도, DevRel 팀도 없이 25년간 천천히 진화함   
+- Ingres(UC 버클리, 1970~1985) —&gt; Postgres95 —&gt; PostgreSQL  
+  - Postgres = "Post...</a></div><div class="topicinfo"><span id="tp10344">9</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote10344"></span> | <a href="topic?id=10344" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[liteLLM - 50개 이상의 LLM을 지원하는 프록시 서버]]></title>
@@ -19,67 +20,66 @@
         <link href="https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md"/>
         <updated>2023-08-14T01:44:08.716Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote10336"><a class="upvote" href="javascript:vote(10336, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md" rel="nofollow" id="tr2"><h1>liteLLM - 50개 이상의 LLM을 지원하는 프록시 서버</h1></a> <span class="topicurl">(github.com/BerriAI)</span></div><div class="topicdesc"><a href="topic?id=10336" class="c99 breakall">- /chat/completion API를 Azure, OpenAI, Replicate, Anthropic, Hugging Face 등의 다양한 LLM에 대해서 호출 가능   
-- Input/Ouput 포맷을 Op...</a></div><div class="topicinfo"><span id="tp10336">3</span> points by <a href="/user?id=xguru">xguru</a> 60분전<span id="unvote10336"></span> | <a href="topic?id=10336" class="u">댓글과 토론</a></div>]]></content>
+- Input/Ouput 포맷을 Op...</a></div><div class="topicinfo"><span id="tp10336">7</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote10336"></span> | <a href="topic?id=10336" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postgres는 언제부터 멋있어졌을까]]></title>
-        <id>https://www.crunchydata.com/blog/when-did-postgres-become-cool</id>
-        <link href="https://www.crunchydata.com/blog/when-did-postgres-become-cool"/>
-        <updated>2023-08-14T02:17:36.982Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10344"><a class="upvote" href="javascript:vote(10344, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.crunchydata.com/blog/when-did-postgres-become-cool" rel="nofollow" id="tr3"><h1>Postgres는 언제부터 멋있어졌을까</h1></a> <span class="topicurl">(crunchydata.com)</span></div><div class="topicdesc"><a href="topic?id=10344" class="c99 breakall">- VC 펀딩도, DevRel 팀도 없이 25년간 천천히 진화함   
-- Ingres(UC 버클리, 1970~1985) —&gt; Postgres95 —&gt; PostgreSQL  
-  - Postgres = "Post...</a></div><div class="topicinfo"><span id="tp10344">1</span> point by <a href="/user?id=xguru">xguru</a> 14분전<span id="unvote10344"></span> | <a href="topic?id=10344" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dify - 사용하기 쉬운 LLMOps 플랫폼 오픈소스]]></title>
-        <id>https://github.com/langgenius/dify</id>
-        <link href="https://github.com/langgenius/dify"/>
-        <updated>2023-08-14T02:17:36.984Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote10342"><a class="upvote" href="javascript:vote(10342, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/langgenius/dify" rel="nofollow" id="tr4"><h1>Dify - 사용하기 쉬운 LLMOps 플랫폼 오픈소스</h1></a> <span class="topicurl">(github.com/langgenius)</span></div><div class="topicdesc"><a href="topic?id=10342" class="c99 breakall">- LLM 기반의 AI앱을 쉽게 생성하고 운영하게 해주는 플랫폼   
-- 다양한 어플리케이션 타입의 비쥬얼 오케스트레이션 지원   
-- Langchain 호환...</a></div><div class="topicinfo"><span id="tp10342">1</span> point by <a href="/user?id=xguru">xguru</a> 30분전<span id="unvote10342"></span> | <a href="topic?id=10342" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Node.js 백엔드 애플리케이션 환경에서 유효성 검사가 성능에 큰 영향이 있을까?]]></title>
+        <id>https://jhyeok.com/nodejs-validation-performance/</id>
+        <link href="https://jhyeok.com/nodejs-validation-performance/"/>
+        <updated>2023-08-14T00:51:10.443Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10331"><a class="upvote" href="javascript:vote(10331, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jhyeok.com/nodejs-validation-performance/" rel="nofollow" id="tr3"><h1>Node.js 백엔드 애플리케이션 환경에서 유효성 검사가 성능에 큰 영향이 있을까?</h1></a> <span class="topicurl">(jhyeok.com)</span></div><div class="topicdesc"><a href="topic?id=10331" class="c99 breakall">- JavaScript 및 Node.js 환경에서 유효성 검사 라이브러리인 Joi는 다른 라이브러리보다 성능이 느림  
+    - Joi를 다른 라이브러리로 교체하면...</a></div><div class="topicinfo"><span id="tp10331">5</span> points by <a href="/user?id=koeyh">koeyh</a> 3시간전<span id="unvote10331"></span> | <a href="topic?id=10331" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Retake - Postgres용 하이브리드 검색 오픈소스]]></title>
         <id>https://github.com/getretake/retake</id>
         <link href="https://github.com/getretake/retake"/>
         <updated>2023-08-14T01:44:08.741Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote10341"><a class="upvote" href="javascript:vote(10341, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/getretake/retake" rel="nofollow" id="tr5"><h1>Retake - Postgres용 하이브리드 검색 오픈소스</h1></a> <span class="topicurl">(github.com/getretake)</span></div><div class="topicdesc"><a href="topic?id=10341" class="c99 breakall">- 키워드(기존 검색) + 시맨틱 서치(벡터 기반 검색)를 하나의 SDK에서 통합하여 사용가능하게 추가 가능  
-  - query, with_semantic, with_neur...</a></div><div class="topicinfo"><span id="tp10341">1</span> point by <a href="/user?id=xguru">xguru</a> 45분전<span id="unvote10341"></span> | <a href="topic?id=10341" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote10341"><a class="upvote" href="javascript:vote(10341, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/getretake/retake" rel="nofollow" id="tr4"><h1>Retake - Postgres용 하이브리드 검색 오픈소스</h1></a> <span class="topicurl">(github.com/getretake)</span></div><div class="topicdesc"><a href="topic?id=10341" class="c99 breakall">- 키워드(기존 검색) + 시맨틱 서치(벡터 기반 검색)를 하나의 SDK에서 통합하여 사용가능하게 추가 가능  
+  - query, with_semantic, with_neur...</a></div><div class="topicinfo"><span id="tp10341">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote10341"></span> | <a href="topic?id=10341" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["Rust 기초 프로그래밍 + 인터프리터 만들기" 강의 자료]]></title>
         <id>https://github.com/utilForever/2023-MatKor-Rust-Interpreter</id>
         <link href="https://github.com/utilForever/2023-MatKor-Rust-Interpreter"/>
         <updated>2023-08-11T04:13:49.732Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote10296"><a class="upvote" href="javascript:vote(10296, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/utilForever/2023-MatKor-Rust-Interpreter" rel="nofollow" id="tr6"><h1>"Rust 기초 프로그래밍 + 인터프리터 만들기" 강의 자료</h1></a> <span class="topicurl">(github.com/utilForever)</span></div><div class="topicdesc"><a href="topic?id=10296" class="c99 breakall">2023년 고려대학교 사이버국방학과 동아리 MatKor에서 5개월 동안 Rust 기초 프로그래밍과 "밑바닥부터 만드는 인터프리터 in Go (인사이트, 2021)...</a></div><div class="topicinfo"><span id="tp10296">51</span> points by <a href="/user?id=utilforever">utilforever</a> 3일전<span id="unvote10296"></span> | <a href="topic?id=10296" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote10296"><a class="upvote" href="javascript:vote(10296, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/utilForever/2023-MatKor-Rust-Interpreter" rel="nofollow" id="tr5"><h1>"Rust 기초 프로그래밍 + 인터프리터 만들기" 강의 자료</h1></a> <span class="topicurl">(github.com/utilForever)</span></div><div class="topicdesc"><a href="topic?id=10296" class="c99 breakall">2023년 고려대학교 사이버국방학과 동아리 MatKor에서 5개월 동안 Rust 기초 프로그래밍과 "밑바닥부터 만드는 인터프리터 in Go (인사이트, 2021)...</a></div><div class="topicinfo"><span id="tp10296">52</span> points by <a href="/user?id=utilforever">utilforever</a> 3일전<span id="unvote10296"></span> | <a href="topic?id=10296" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Neovim으로 생산성 퀀텀점프하기" 발표자료]]></title>
-        <id>https://docs.google.com/presentation/d/1DaVImp6dEz7q5Vdz1U10Hh0hE_CDGEUa4DNy39cv6-w/edit#slide=id.p1</id>
-        <link href="https://docs.google.com/presentation/d/1DaVImp6dEz7q5Vdz1U10Hh0hE_CDGEUa4DNy39cv6-w/edit#slide=id.p1"/>
-        <updated>2023-08-11T10:12:50.732Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote10300"><a class="upvote" href="javascript:vote(10300, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.google.com/presentation/d/1DaVImp6dEz7q5Vdz1U10Hh0hE_CDGEUa4DNy39cv6-w/edit#slide=id.p1" rel="nofollow" id="tr7"><h1>"Neovim으로 생산성 퀀텀점프하기" 발표자료</h1></a> <span class="topicurl">(docs.google.com)</span></div><div class="topicdesc"><a href="topic?id=10300" class="c99 breakall">녹화영상 : https://www.youtube.com/watch?v=XYQnyJVGk-4&amp;t=1s  
-부록 : https://kodingwarrior.github.io/wiki/appendix/excelcon-2nd/  
-  
-...</a></div><div class="topicinfo"><span id="tp10300">29</span> points by <a href="/user?id=kodingwarrior">kodingwarrior</a> 3일전<span id="unvote10300"></span> | <a href="topic?id=10300" class="u">댓글 9개</a></div>]]></content>
+        <title type="html"><![CDATA[Dify - 사용하기 쉬운 LLMOps 플랫폼 오픈소스]]></title>
+        <id>https://github.com/langgenius/dify</id>
+        <link href="https://github.com/langgenius/dify"/>
+        <updated>2023-08-14T02:17:36.984Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote10342"><a class="upvote" href="javascript:vote(10342, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/langgenius/dify" rel="nofollow" id="tr6"><h1>Dify - 사용하기 쉬운 LLMOps 플랫폼 오픈소스</h1></a> <span class="topicurl">(github.com/langgenius)</span></div><div class="topicdesc"><a href="topic?id=10342" class="c99 breakall">- LLM 기반의 AI앱을 쉽게 생성하고 운영하게 해주는 플랫폼   
+- 다양한 어플리케이션 타입의 비쥬얼 오케스트레이션 지원   
+- Langchain 호환...</a></div><div class="topicinfo"><span id="tp10342">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote10342"></span> | <a href="topic?id=10342" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JIMP - 의존성 없는 Node.js용 이미지 프로세싱 라이브러리]]></title>
         <id>https://github.com/jimp-dev/jimp</id>
         <link href="https://github.com/jimp-dev/jimp"/>
         <updated>2023-08-13T01:45:11.662Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote10322"><a class="upvote" href="javascript:vote(10322, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jimp-dev/jimp" rel="nofollow" id="tr8"><h1>JIMP - 의존성 없는 Node.js용 이미지 프로세싱 라이브러리</h1></a> <span class="topicurl">(github.com/jimp-dev)</span></div><div class="topicdesc"><a href="topic?id=10322" class="c99 breakall">- JavaScript Image Manipulation Program  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote10322"><a class="upvote" href="javascript:vote(10322, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jimp-dev/jimp" rel="nofollow" id="tr7"><h1>JIMP - 의존성 없는 Node.js용 이미지 프로세싱 라이브러리</h1></a> <span class="topicurl">(github.com/jimp-dev)</span></div><div class="topicdesc"><a href="topic?id=10322" class="c99 breakall">- JavaScript Image Manipulation Program  
 - 포맷 지원 : bmp, gif, jpeg, png, tiff   
-- 이미지 조작 메소드 : blur, contain, cover, displ...</a></div><div class="topicinfo"><span id="tp10322">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10322"></span> | <a href="topic?id=10322" class="u">댓글과 토론</a></div>]]></content>
+- 이미지 조작 메소드 : blur, contain, cover, displ...</a></div><div class="topicinfo"><span id="tp10322">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10322"></span> | <a href="topic?id=10322" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고등학생이 매점에서 간편결제를 쓰고 싶어서 직접 개발한 이야기]]></title>
-        <id>https://tilnote.io/books/64947f47d15b21c6b91c9dff</id>
-        <link href="https://tilnote.io/books/64947f47d15b21c6b91c9dff"/>
-        <updated>2023-08-10T09:12:34.860Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote10280"><a class="upvote" href="javascript:vote(10280, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tilnote.io/books/64947f47d15b21c6b91c9dff" rel="nofollow" id="tr9"><h1>고등학생이 매점에서 간편결제를 쓰고 싶어서 직접 개발한 이야기</h1></a> <span class="topicurl">(tilnote.io)</span></div><div class="topicdesc"><a href="topic?id=10280" class="c99 breakall">- 디미페이는 한국디지털미디어고등학교의 교내매점에서 사용중인 간편결제 및 무인매장 관리시스템  
-- 재학생들이 1년 반동안 개발하여 출시함(...</a></div><div class="topicinfo"><span id="tp10280">42</span> points by <a href="/user?id=rycont">rycont</a> 4일전<span id="unvote10280"></span> | <a href="topic?id=10280" class="u">댓글 24개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: Linux v0.01의 내부 살펴보기]]></title>
+        <id>https://seiya.me/blog/reading-linux-v0.01</id>
+        <link href="https://seiya.me/blog/reading-linux-v0.01"/>
+        <updated>2023-08-14T01:44:08.762Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote10320"><a class="upvote" href="javascript:vote(10320, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://seiya.me/blog/reading-linux-v0.01" rel="nofollow" id="tr8"><h1>GN⁺: Linux v0.01의 내부 살펴보기</h1></a> <span class="topicurl">(seiya.me)</span></div><div class="topicdesc"><a href="topic?id=10320" class="c99 breakall">- 리눅스 커널은 3600만 라인짜리 거대한 오픈소스지만, 첫번째 버전은 10239 라인 이었음(주석/빈줄 제외하면 8670)  
+- Linux v0.01은 그 간결...</a></div><div class="topicinfo"><span id="tp10320">8</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10320"></span> | <a href="topic?id=10320" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Neovim으로 생산성 퀀텀점프하기" 발표자료]]></title>
+        <id>https://docs.google.com/presentation/d/1DaVImp6dEz7q5Vdz1U10Hh0hE_CDGEUa4DNy39cv6-w/edit#slide=id.p1</id>
+        <link href="https://docs.google.com/presentation/d/1DaVImp6dEz7q5Vdz1U10Hh0hE_CDGEUa4DNy39cv6-w/edit#slide=id.p1"/>
+        <updated>2023-08-11T10:12:50.732Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote10300"><a class="upvote" href="javascript:vote(10300, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.google.com/presentation/d/1DaVImp6dEz7q5Vdz1U10Hh0hE_CDGEUa4DNy39cv6-w/edit#slide=id.p1" rel="nofollow" id="tr9"><h1>"Neovim으로 생산성 퀀텀점프하기" 발표자료</h1></a> <span class="topicurl">(docs.google.com)</span></div><div class="topicdesc"><a href="topic?id=10300" class="c99 breakall">녹화영상 : https://www.youtube.com/watch?v=XYQnyJVGk-4&amp;t=1s  
+부록 : https://kodingwarrior.github.io/wiki/appendix/excelcon-2nd/  
+  
+...</a></div><div class="topicinfo"><span id="tp10300">29</span> points by <a href="/user?id=kodingwarrior">kodingwarrior</a> 3일전<span id="unvote10300"></span> | <a href="topic?id=10300" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta AI, Vision 모델을 위한 PUG(Photorealistic Unreal Graphics) 데이터셋 공개]]></title>
@@ -90,7 +90,7 @@
 Meta AI에서 Vision Model용 PUG 데이터셋 공개  
   
 - PUG: Animals, PUG: ImageNet, PUG: SPAR의 데이터셋 3종  
-  - PUG: Animals: 비전...</a></div><div class="topicinfo"><span id="tp10330">4</span> points by <a href="/user?id=ninebow">ninebow</a> 20시간전<span id="unvote10330"></span> | <a href="topic?id=10330" class="u">댓글 1개</a></div>]]></content>
+  - PUG: Animals: 비전...</a></div><div class="topicinfo"><span id="tp10330">5</span> points by <a href="/user?id=ninebow">ninebow</a> 21시간전<span id="unvote10330"></span> | <a href="topic?id=10330" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Orb - 윈도우즈와 비슷환 환경을 웹브라우저에 구현해주는 프리/오픈소스 웹 데스크탑]]></title>
@@ -98,15 +98,15 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <link href="https://gitlab.com/hsleisink/orb"/>
         <updated>2023-08-13T19:08:33.307Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote10326"><a class="upvote" href="javascript:vote(10326, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gitlab.com/hsleisink/orb" rel="nofollow" id="tr11"><h1>Orb - 윈도우즈와 비슷환 환경을 웹브라우저에 구현해주는 프리/오픈소스 웹 데스크탑 </h1></a> <span class="topicurl">(gitlab.com)</span></div><div class="topicdesc"><a href="topic?id=10326" class="c99 breakall">- 서버 또는 NAS 의 파일을 쉽게 접근하기 위한 용도로 사용 가능   
-- 압축 파일 관리, 오디오 재생, 계산기, 시계, 디스크 관리자, DosBox, 메...</a></div><div class="topicinfo"><span id="tp10326">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10326"></span> | <a href="topic?id=10326" class="u">댓글 1개</a></div>]]></content>
+- 압축 파일 관리, 오디오 재생, 계산기, 시계, 디스크 관리자, DosBox, 메...</a></div><div class="topicinfo"><span id="tp10326">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10326"></span> | <a href="topic?id=10326" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Linux v0.01의 내부 살펴보기]]></title>
-        <id>https://seiya.me/blog/reading-linux-v0.01</id>
-        <link href="https://seiya.me/blog/reading-linux-v0.01"/>
-        <updated>2023-08-14T01:44:08.762Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote10320"><a class="upvote" href="javascript:vote(10320, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://seiya.me/blog/reading-linux-v0.01" rel="nofollow" id="tr12"><h1>GN⁺: Linux v0.01의 내부 살펴보기</h1></a> <span class="topicurl">(seiya.me)</span></div><div class="topicdesc"><a href="topic?id=10320" class="c99 breakall">- 리눅스 커널은 3600만 라인짜리 거대한 오픈소스지만, 첫번째 버전은 10239 라인 이었음(주석/빈줄 제외하면 8670)  
-- Linux v0.01은 그 간결...</a></div><div class="topicinfo"><span id="tp10320">5</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10320"></span> | <a href="topic?id=10320" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[고등학생이 매점에서 간편결제를 쓰고 싶어서 직접 개발한 이야기]]></title>
+        <id>https://tilnote.io/books/64947f47d15b21c6b91c9dff</id>
+        <link href="https://tilnote.io/books/64947f47d15b21c6b91c9dff"/>
+        <updated>2023-08-10T09:12:34.860Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote10280"><a class="upvote" href="javascript:vote(10280, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tilnote.io/books/64947f47d15b21c6b91c9dff" rel="nofollow" id="tr12"><h1>고등학생이 매점에서 간편결제를 쓰고 싶어서 직접 개발한 이야기</h1></a> <span class="topicurl">(tilnote.io)</span></div><div class="topicdesc"><a href="topic?id=10280" class="c99 breakall">- 디미페이는 한국디지털미디어고등학교의 교내매점에서 사용중인 간편결제 및 무인매장 관리시스템  
+- 재학생들이 1년 반동안 개발하여 출시함(...</a></div><div class="topicinfo"><span id="tp10280">42</span> points by <a href="/user?id=rycont">rycont</a> 4일전<span id="unvote10280"></span> | <a href="topic?id=10280" class="u">댓글 24개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doculite - SQLite를 도큐먼트 데이터베이스로 사용하기]]></title>
@@ -115,29 +115,38 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <updated>2023-08-12T01:40:54.009Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote10311"><a class="upvote" href="javascript:vote(10311, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/thenorthbay/doculite" rel="nofollow" id="tr13"><h1>Doculite - SQLite를 도큐먼트 데이터베이스로 사용하기 </h1></a> <span class="topicurl">(github.com/thenorthbay)</span></div><div class="topicdesc"><a href="topic?id=10311" class="c99 breakall">- SQLite를 Firebase Firestore 처럼 사용 가능   
 - Typescript로 된 어댑터를 sqlite3 &amp; sqlite 위에 탑재   
-- Document, Collection, Basic ...</a></div><div class="topicinfo"><span id="tp10311">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10311"></span> | <a href="topic?id=10311" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 1%]]></title>
-        <id>https://jaredramsey.com/blog/20230808.html</id>
-        <link href="https://jaredramsey.com/blog/20230808.html"/>
-        <updated>2023-08-10T02:32:16.950Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote10272"><a class="upvote" href="javascript:vote(10272, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jaredramsey.com/blog/20230808.html" rel="nofollow" id="tr14"><h1>마지막 1%</h1></a> <span class="topicurl">(jaredramsey.com)</span></div><div class="topicdesc"><a href="topic?id=10272" class="c99 breakall">- 프로젝트를 마무리하는 마지막 1%는 '훌륭한 제품'과 '좋은 제품'을 구분하고, '실패하지 않을 제품'과 '실패할 제품'을 구분해 줌   
-- 그 1%...</a></div><div class="topicinfo"><span id="tp10272">33</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote10272"></span> | <a href="topic?id=10272" class="u">댓글 4개</a></div>]]></content>
+- Document, Collection, Basic ...</a></div><div class="topicinfo"><span id="tp10311">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10311"></span> | <a href="topic?id=10311" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Infisical – 오픈소스 HashiCorp Vault 대안]]></title>
         <id>https://github.com/Infisical/infisical</id>
         <link href="https://github.com/Infisical/infisical"/>
         <updated>2023-08-12T04:14:09.360Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote10313"><a class="upvote" href="javascript:vote(10313, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Infisical/infisical" rel="nofollow" id="tr15"><h1>Infisical – 오픈소스 HashiCorp Vault 대안</h1></a> <span class="topicurl">(github.com/Infisical)</span></div><div class="topicdesc"><a href="topic?id=10313" class="c99 breakall">HashiCorp은 어제 Vault의 라이센스를 MPL에서 BSL로 변경했습니다. 그들이 "경쟁" 제품을 정의하는 조건이 매우 모호해, Vault를 내부에 사용하는...</a></div><div class="topicinfo"><span id="tp10313">10</span> points by <a href="/user?id=dangtony98">dangtony98</a> 2일전<span id="unvote10313"></span> | <a href="topic?id=10313" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote10313"><a class="upvote" href="javascript:vote(10313, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Infisical/infisical" rel="nofollow" id="tr14"><h1>Infisical – 오픈소스 HashiCorp Vault 대안</h1></a> <span class="topicurl">(github.com/Infisical)</span></div><div class="topicdesc"><a href="topic?id=10313" class="c99 breakall">HashiCorp은 어제 Vault의 라이센스를 MPL에서 BSL로 변경했습니다. 그들이 "경쟁" 제품을 정의하는 조건이 매우 모호해, Vault를 내부에 사용하는...</a></div><div class="topicinfo"><span id="tp10313">11</span> points by <a href="/user?id=dangtony98">dangtony98</a> 2일전<span id="unvote10313"></span> | <a href="topic?id=10313" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마지막 1%]]></title>
+        <id>https://jaredramsey.com/blog/20230808.html</id>
+        <link href="https://jaredramsey.com/blog/20230808.html"/>
+        <updated>2023-08-10T02:32:16.950Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote10272"><a class="upvote" href="javascript:vote(10272, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jaredramsey.com/blog/20230808.html" rel="nofollow" id="tr15"><h1>마지막 1%</h1></a> <span class="topicurl">(jaredramsey.com)</span></div><div class="topicdesc"><a href="topic?id=10272" class="c99 breakall">- 프로젝트를 마무리하는 마지막 1%는 '훌륭한 제품'과 '좋은 제품'을 구분하고, '실패하지 않을 제품'과 '실패할 제품'을 구분해 줌   
+- 그 1%...</a></div><div class="topicinfo"><span id="tp10272">34</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote10272"></span> | <a href="topic?id=10272" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[api2ai - OpenAPI 스펙을 읽어서 코드를 작성해주는 API 비서]]></title>
+        <id>https://github.com/mquan/api2ai</id>
+        <link href="https://github.com/mquan/api2ai"/>
+        <updated>2023-08-12T01:40:54.003Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote10306"><a class="upvote" href="javascript:vote(10306, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mquan/api2ai" rel="nofollow" id="tr16"><h1>api2ai - OpenAPI 스펙을 읽어서 코드를 작성해주는 API 비서</h1></a> <span class="topicurl">(github.com/mquan)</span></div><div class="topicdesc"><a href="topic?id=10306" class="c99 breakall">- API를 자연언어로 지시하면 코드로 작성  
+- OpenAPI 스펙과 Auth Scheme을 자동으로 파싱   
+- 사용자 프롬프트를 통해서 엔드포인트를 선택...</a></div><div class="topicinfo"><span id="tp10306">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10306"></span> | <a href="topic?id=10306" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무엇이 개발자를 생산적이게 만드는가]]></title>
         <id>https://jeremymikkola.com/posts/developer_productivity.html</id>
         <link href="https://jeremymikkola.com/posts/developer_productivity.html"/>
         <updated>2023-08-07T03:12:47.696Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote10222"><a class="upvote" href="javascript:vote(10222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jeremymikkola.com/posts/developer_productivity.html" rel="nofollow" id="tr16"><h1>무엇이 개발자를 생산적이게 만드는가</h1></a> <span class="topicurl">(jeremymikkola.com)</span></div><div class="topicdesc"><a href="topic?id=10222" class="c99 breakall">- 많은 요소가 개발자 생산성에 영향을 미침  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote10222"><a class="upvote" href="javascript:vote(10222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jeremymikkola.com/posts/developer_productivity.html" rel="nofollow" id="tr17"><h1>무엇이 개발자를 생산적이게 만드는가</h1></a> <span class="topicurl">(jeremymikkola.com)</span></div><div class="topicdesc"><a href="topic?id=10222" class="c99 breakall">- 많은 요소가 개발자 생산성에 영향을 미침  
 - 일부는 명확하고 측정하기 쉽지만, 다른 것들은 측정하기 어려워서 놓치는 경향이 있음   
 # 뭘...</a></div><div class="topicinfo"><span id="tp10222">80</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote10222"></span> | <a href="topic?id=10222" class="u">댓글 7개</a></div>]]></content>
     </entry>
@@ -146,34 +155,25 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <id>https://google.github.io/typograms/</id>
         <link href="https://google.github.io/typograms/"/>
         <updated>2023-08-10T02:32:16.950Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote10268"><a class="upvote" href="javascript:vote(10268, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://google.github.io/typograms/" rel="nofollow" id="tr17"><h1>Typograms - 기술 문서에서 다이어그램을 표현하기 위한 텍스트 기반 경량 이미지 포맷</h1></a> <span class="topicurl">(google.github.io)</span></div><div class="topicdesc"><a href="topic?id=10268" class="c99 breakall">- by Google  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote10268"><a class="upvote" href="javascript:vote(10268, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://google.github.io/typograms/" rel="nofollow" id="tr18"><h1>Typograms - 기술 문서에서 다이어그램을 표현하기 위한 텍스트 기반 경량 이미지 포맷</h1></a> <span class="topicurl">(google.github.io)</span></div><div class="topicdesc"><a href="topic?id=10268" class="c99 breakall">- by Google  
 - 마크다운과 마찬가지로, 기존의 ASCII 다이어그램에서 볼 수 있는 기존 규칙에서 많은 영감을 받음   
 - 몇 개의 기본 요소와 ...</a></div><div class="topicinfo"><span id="tp10268">30</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote10268"></span> | <a href="topic?id=10268" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[api2ai - OpenAPI 스펙을 읽어서 코드를 작성해주는 API 비서]]></title>
-        <id>https://github.com/mquan/api2ai</id>
-        <link href="https://github.com/mquan/api2ai"/>
-        <updated>2023-08-12T01:40:54.003Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote10306"><a class="upvote" href="javascript:vote(10306, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mquan/api2ai" rel="nofollow" id="tr18"><h1>api2ai - OpenAPI 스펙을 읽어서 코드를 작성해주는 API 비서</h1></a> <span class="topicurl">(github.com/mquan)</span></div><div class="topicdesc"><a href="topic?id=10306" class="c99 breakall">- API를 자연언어로 지시하면 코드로 작성  
-- OpenAPI 스펙과 Auth Scheme을 자동으로 파싱   
-- 사용자 프롬프트를 통해서 엔드포인트를 선택...</a></div><div class="topicinfo"><span id="tp10306">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10306"></span> | <a href="topic?id=10306" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MagicEarth - 크라우드 소싱된 트래픽 데이터를 이용한 지도 & 네비게이션 서비스]]></title>
-        <id>https://www.magicearth.com/crowd-sourced-traffic/</id>
-        <link href="https://www.magicearth.com/crowd-sourced-traffic/"/>
-        <updated>2023-08-13T01:45:11.662Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote10317"><a class="upvote" href="javascript:vote(10317, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.magicearth.com/crowd-sourced-traffic/" rel="nofollow" id="tr19"><h1>MagicEarth - 크라우드 소싱된 트래픽 데이터를 이용한 지도 &amp; 네비게이션 서비스</h1></a> <span class="topicurl">(magicearth.com)</span></div><div class="topicdesc"><a href="topic?id=10317" class="c99 breakall">- Waze 가 하는 방식처럼 사용자의 트래픽 데이터를 수집하여 빠른 경로를 찾아주는 서비스  
-- iOS &amp; Android 앱 제공  
-- OpenStreetMap 기반 ...</a></div><div class="topicinfo"><span id="tp10317">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10317"></span> | <a href="topic?id=10317" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Cloudflare 가 제공하는 인터넷 속도 테스트]]></title>
         <id>https://speed.cloudflare.com/</id>
         <link href="https://speed.cloudflare.com/"/>
         <updated>2023-08-11T03:11:36.486Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote10287"><a class="upvote" href="javascript:vote(10287, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://speed.cloudflare.com/" rel="nofollow" id="tr20"><h1>GN⁺: Cloudflare 가 제공하는 인터넷 속도 테스트</h1></a> <span class="topicurl">(speed.cloudflare.com)</span></div><div class="topicdesc"><a href="topic?id=10287" class="c99 breakall">- ISP가 제공하는 인터넷 속도 테스트용: 다운로드/업로드 속도 및 Latency/Jitter 표시   
-- 전세계 300개 이상의 도시에 있는 Cloudflare 데이...</a></div><div class="topicinfo"><span id="tp10287">15</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote10287"></span> | <a href="topic?id=10287" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote10287"><a class="upvote" href="javascript:vote(10287, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://speed.cloudflare.com/" rel="nofollow" id="tr19"><h1>GN⁺: Cloudflare 가 제공하는 인터넷 속도 테스트</h1></a> <span class="topicurl">(speed.cloudflare.com)</span></div><div class="topicdesc"><a href="topic?id=10287" class="c99 breakall">- ISP가 제공하는 인터넷 속도 테스트용: 다운로드/업로드 속도 및 Latency/Jitter 표시   
+- 전세계 300개 이상의 도시에 있는 Cloudflare 데이...</a></div><div class="topicinfo"><span id="tp10287">16</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote10287"></span> | <a href="topic?id=10287" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MagicEarth - 크라우드 소싱된 트래픽 데이터를 이용한 지도 & 네비게이션 서비스]]></title>
+        <id>https://www.magicearth.com/crowd-sourced-traffic/</id>
+        <link href="https://www.magicearth.com/crowd-sourced-traffic/"/>
+        <updated>2023-08-13T01:45:11.662Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote10317"><a class="upvote" href="javascript:vote(10317, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.magicearth.com/crowd-sourced-traffic/" rel="nofollow" id="tr20"><h1>MagicEarth - 크라우드 소싱된 트래픽 데이터를 이용한 지도 &amp; 네비게이션 서비스</h1></a> <span class="topicurl">(magicearth.com)</span></div><div class="topicdesc"><a href="topic?id=10317" class="c99 breakall">- Waze 가 하는 방식처럼 사용자의 트래픽 데이터를 수집하여 빠른 경로를 찾아주는 서비스  
+- iOS &amp; Android 앱 제공  
+- OpenStreetMap 기반 ...</a></div><div class="topicinfo"><span id="tp10317">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10317"></span> | <a href="topic?id=10317" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>

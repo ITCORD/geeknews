@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-08-14T02:18:18.967Z</updated>
+    <updated>2023-08-14T03:12:49.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-08-14T02:17:42.350Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10344"><a class="upvote" href="javascript:vote(10344, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.crunchydata.com/blog/when-did-postgres-become-cool" rel="nofollow" id="tr1"><h1>Postgres는 언제부터 멋있어졌을까</h1></a> <span class="topicurl">(crunchydata.com)</span></div><div class="topicdesc"><a href="topic?id=10344" class="c99 breakall">- VC 펀딩도, DevRel 팀도 없이 25년간 천천히 진화함   
 - Ingres(UC 버클리, 1970~1985) —&gt; Postgres95 —&gt; PostgreSQL  
-  - Postgres = "Post...</a></div><div class="topicinfo"><span id="tp10344">1</span> point by <a href="/user?id=xguru">xguru</a> 14분전<span id="unvote10344"></span> | <a href="topic?id=10344" class="u">댓글과 토론</a></div>]]></content>
+  - Postgres = "Post...</a></div><div class="topicinfo"><span id="tp10344">9</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote10344"></span> | <a href="topic?id=10344" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dify - 사용하기 쉬운 LLMOps 플랫폼 오픈소스]]></title>
@@ -21,7 +21,7 @@
         <updated>2023-08-14T02:17:42.354Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote10342"><a class="upvote" href="javascript:vote(10342, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/langgenius/dify" rel="nofollow" id="tr2"><h1>Dify - 사용하기 쉬운 LLMOps 플랫폼 오픈소스</h1></a> <span class="topicurl">(github.com/langgenius)</span></div><div class="topicdesc"><a href="topic?id=10342" class="c99 breakall">- LLM 기반의 AI앱을 쉽게 생성하고 운영하게 해주는 플랫폼   
 - 다양한 어플리케이션 타입의 비쥬얼 오케스트레이션 지원   
-- Langchain 호환...</a></div><div class="topicinfo"><span id="tp10342">1</span> point by <a href="/user?id=xguru">xguru</a> 30분전<span id="unvote10342"></span> | <a href="topic?id=10342" class="u">댓글과 토론</a></div>]]></content>
+- Langchain 호환...</a></div><div class="topicinfo"><span id="tp10342">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote10342"></span> | <a href="topic?id=10342" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Retake - Postgres용 하이브리드 검색 오픈소스]]></title>
@@ -29,7 +29,7 @@
         <link href="https://news.hada.io/topic?id=10341"/>
         <updated>2023-08-14T01:44:14.742Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10341"><a class="upvote" href="javascript:vote(10341, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/getretake/retake" rel="nofollow" id="tr3"><h1>Retake - Postgres용 하이브리드 검색 오픈소스</h1></a> <span class="topicurl">(github.com/getretake)</span></div><div class="topicdesc"><a href="topic?id=10341" class="c99 breakall">- 키워드(기존 검색) + 시맨틱 서치(벡터 기반 검색)를 하나의 SDK에서 통합하여 사용가능하게 추가 가능  
-  - query, with_semantic, with_neur...</a></div><div class="topicinfo"><span id="tp10341">1</span> point by <a href="/user?id=xguru">xguru</a> 45분전<span id="unvote10341"></span> | <a href="topic?id=10341" class="u">댓글과 토론</a></div>]]></content>
+  - query, with_semantic, with_neur...</a></div><div class="topicinfo"><span id="tp10341">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote10341"></span> | <a href="topic?id=10341" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[liteLLM - 50개 이상의 LLM을 지원하는 프록시 서버]]></title>
@@ -37,7 +37,7 @@
         <link href="https://news.hada.io/topic?id=10336"/>
         <updated>2023-08-14T01:44:14.744Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote10336"><a class="upvote" href="javascript:vote(10336, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md" rel="nofollow" id="tr4"><h1>liteLLM - 50개 이상의 LLM을 지원하는 프록시 서버</h1></a> <span class="topicurl">(github.com/BerriAI)</span></div><div class="topicdesc"><a href="topic?id=10336" class="c99 breakall">- /chat/completion API를 Azure, OpenAI, Replicate, Anthropic, Hugging Face 등의 다양한 LLM에 대해서 호출 가능   
-- Input/Ouput 포맷을 Op...</a></div><div class="topicinfo"><span id="tp10336">3</span> points by <a href="/user?id=xguru">xguru</a> 60분전<span id="unvote10336"></span> | <a href="topic?id=10336" class="u">댓글과 토론</a></div>]]></content>
+- Input/Ouput 포맷을 Op...</a></div><div class="topicinfo"><span id="tp10336">7</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote10336"></span> | <a href="topic?id=10336" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 백엔드 애플리케이션 환경에서 유효성 검사가 성능에 큰 영향이 있을까?]]></title>
@@ -45,7 +45,7 @@
         <link href="https://news.hada.io/topic?id=10331"/>
         <updated>2023-08-14T00:51:15.934Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote10331"><a class="upvote" href="javascript:vote(10331, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jhyeok.com/nodejs-validation-performance/" rel="nofollow" id="tr5"><h1>Node.js 백엔드 애플리케이션 환경에서 유효성 검사가 성능에 큰 영향이 있을까?</h1></a> <span class="topicurl">(jhyeok.com)</span></div><div class="topicdesc"><a href="topic?id=10331" class="c99 breakall">- JavaScript 및 Node.js 환경에서 유효성 검사 라이브러리인 Joi는 다른 라이브러리보다 성능이 느림  
-    - Joi를 다른 라이브러리로 교체하면...</a></div><div class="topicinfo"><span id="tp10331">5</span> points by <a href="/user?id=koeyh">koeyh</a> 2시간전<span id="unvote10331"></span> | <a href="topic?id=10331" class="u">댓글과 토론</a></div>]]></content>
+    - Joi를 다른 라이브러리로 교체하면...</a></div><div class="topicinfo"><span id="tp10331">5</span> points by <a href="/user?id=koeyh">koeyh</a> 3시간전<span id="unvote10331"></span> | <a href="topic?id=10331" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta AI, Vision 모델을 위한 PUG(Photorealistic Unreal Graphics) 데이터셋 공개]]></title>
@@ -56,7 +56,7 @@
 Meta AI에서 Vision Model용 PUG 데이터셋 공개  
   
 - PUG: Animals, PUG: ImageNet, PUG: SPAR의 데이터셋 3종  
-  - PUG: Animals: 비전...</a></div><div class="topicinfo"><span id="tp10330">4</span> points by <a href="/user?id=ninebow">ninebow</a> 20시간전<span id="unvote10330"></span> | <a href="topic?id=10330" class="u">댓글 1개</a></div>]]></content>
+  - PUG: Animals: 비전...</a></div><div class="topicinfo"><span id="tp10330">5</span> points by <a href="/user?id=ninebow">ninebow</a> 21시간전<span id="unvote10330"></span> | <a href="topic?id=10330" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Orb - 윈도우즈와 비슷환 환경을 웹브라우저에 구현해주는 프리/오픈소스 웹 데스크탑]]></title>
@@ -64,7 +64,7 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <link href="https://news.hada.io/topic?id=10326"/>
         <updated>2023-08-13T01:45:16.774Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote10326"><a class="upvote" href="javascript:vote(10326, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gitlab.com/hsleisink/orb" rel="nofollow" id="tr7"><h1>Orb - 윈도우즈와 비슷환 환경을 웹브라우저에 구현해주는 프리/오픈소스 웹 데스크탑 </h1></a> <span class="topicurl">(gitlab.com)</span></div><div class="topicdesc"><a href="topic?id=10326" class="c99 breakall">- 서버 또는 NAS 의 파일을 쉽게 접근하기 위한 용도로 사용 가능   
-- 압축 파일 관리, 오디오 재생, 계산기, 시계, 디스크 관리자, DosBox, 메...</a></div><div class="topicinfo"><span id="tp10326">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10326"></span> | <a href="topic?id=10326" class="u">댓글 1개</a></div>]]></content>
+- 압축 파일 관리, 오디오 재생, 계산기, 시계, 디스크 관리자, DosBox, 메...</a></div><div class="topicinfo"><span id="tp10326">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10326"></span> | <a href="topic?id=10326" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JIMP - 의존성 없는 Node.js용 이미지 프로세싱 라이브러리]]></title>
@@ -73,7 +73,7 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <updated>2023-08-13T01:45:16.777Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote10322"><a class="upvote" href="javascript:vote(10322, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jimp-dev/jimp" rel="nofollow" id="tr8"><h1>JIMP - 의존성 없는 Node.js용 이미지 프로세싱 라이브러리</h1></a> <span class="topicurl">(github.com/jimp-dev)</span></div><div class="topicdesc"><a href="topic?id=10322" class="c99 breakall">- JavaScript Image Manipulation Program  
 - 포맷 지원 : bmp, gif, jpeg, png, tiff   
-- 이미지 조작 메소드 : blur, contain, cover, displ...</a></div><div class="topicinfo"><span id="tp10322">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10322"></span> | <a href="topic?id=10322" class="u">댓글과 토론</a></div>]]></content>
+- 이미지 조작 메소드 : blur, contain, cover, displ...</a></div><div class="topicinfo"><span id="tp10322">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote10322"></span> | <a href="topic?id=10322" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MagicEarth - 크라우드 소싱된 트래픽 데이터를 이용한 지도 & 네비게이션 서비스]]></title>
@@ -89,7 +89,7 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <id>https://news.hada.io/topic?id=10313</id>
         <link href="https://news.hada.io/topic?id=10313"/>
         <updated>2023-08-12T04:14:16.100Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote10313"><a class="upvote" href="javascript:vote(10313, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Infisical/infisical" rel="nofollow" id="tr10"><h1>Infisical – 오픈소스 HashiCorp Vault 대안</h1></a> <span class="topicurl">(github.com/Infisical)</span></div><div class="topicdesc"><a href="topic?id=10313" class="c99 breakall">HashiCorp은 어제 Vault의 라이센스를 MPL에서 BSL로 변경했습니다. 그들이 "경쟁" 제품을 정의하는 조건이 매우 모호해, Vault를 내부에 사용하는...</a></div><div class="topicinfo"><span id="tp10313">10</span> points by <a href="/user?id=dangtony98">dangtony98</a> 2일전<span id="unvote10313"></span> | <a href="topic?id=10313" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote10313"><a class="upvote" href="javascript:vote(10313, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Infisical/infisical" rel="nofollow" id="tr10"><h1>Infisical – 오픈소스 HashiCorp Vault 대안</h1></a> <span class="topicurl">(github.com/Infisical)</span></div><div class="topicdesc"><a href="topic?id=10313" class="c99 breakall">HashiCorp은 어제 Vault의 라이센스를 MPL에서 BSL로 변경했습니다. 그들이 "경쟁" 제품을 정의하는 조건이 매우 모호해, Vault를 내부에 사용하는...</a></div><div class="topicinfo"><span id="tp10313">11</span> points by <a href="/user?id=dangtony98">dangtony98</a> 2일전<span id="unvote10313"></span> | <a href="topic?id=10313" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doculite - SQLite를 도큐먼트 데이터베이스로 사용하기]]></title>
@@ -98,7 +98,7 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <updated>2023-08-12T01:41:00.255Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote10311"><a class="upvote" href="javascript:vote(10311, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/thenorthbay/doculite" rel="nofollow" id="tr11"><h1>Doculite - SQLite를 도큐먼트 데이터베이스로 사용하기 </h1></a> <span class="topicurl">(github.com/thenorthbay)</span></div><div class="topicdesc"><a href="topic?id=10311" class="c99 breakall">- SQLite를 Firebase Firestore 처럼 사용 가능   
 - Typescript로 된 어댑터를 sqlite3 &amp; sqlite 위에 탑재   
-- Document, Collection, Basic ...</a></div><div class="topicinfo"><span id="tp10311">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10311"></span> | <a href="topic?id=10311" class="u">댓글과 토론</a></div>]]></content>
+- Document, Collection, Basic ...</a></div><div class="topicinfo"><span id="tp10311">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10311"></span> | <a href="topic?id=10311" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChimeraOS - PC를 게임콘솔로 만들어 주는 OS]]></title>
@@ -107,7 +107,7 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <updated>2023-08-12T01:41:00.257Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote10310"><a class="upvote" href="javascript:vote(10310, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://chimeraos.org/" rel="nofollow" id="tr12"><h1>ChimeraOS - PC를 게임콘솔로 만들어 주는 OS</h1></a> <span class="topicurl">(chimeraos.org)</span></div><div class="topicdesc"><a href="topic?id=10310" class="c99 breakall">- Steam의 TV용 'Big Picture' 기반 Couch 게이밍 OS   
 - 쉬운 설치, 강력한 관리 앱, 게임 전용의 미니멀한 구성   
-- 다양한 컨트롤러 지원: ...</a></div><div class="topicinfo"><span id="tp10310">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10310"></span> | <a href="topic?id=10310" class="u">댓글 3개</a></div>]]></content>
+- 다양한 컨트롤러 지원: ...</a></div><div class="topicinfo"><span id="tp10310">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10310"></span> | <a href="topic?id=10310" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[api2ai - OpenAPI 스펙을 읽어서 코드를 작성해주는 API 비서]]></title>
@@ -116,7 +116,7 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <updated>2023-08-12T01:41:00.263Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote10306"><a class="upvote" href="javascript:vote(10306, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mquan/api2ai" rel="nofollow" id="tr13"><h1>api2ai - OpenAPI 스펙을 읽어서 코드를 작성해주는 API 비서</h1></a> <span class="topicurl">(github.com/mquan)</span></div><div class="topicdesc"><a href="topic?id=10306" class="c99 breakall">- API를 자연언어로 지시하면 코드로 작성  
 - OpenAPI 스펙과 Auth Scheme을 자동으로 파싱   
-- 사용자 프롬프트를 통해서 엔드포인트를 선택...</a></div><div class="topicinfo"><span id="tp10306">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10306"></span> | <a href="topic?id=10306" class="u">댓글과 토론</a></div>]]></content>
+- 사용자 프롬프트를 통해서 엔드포인트를 선택...</a></div><div class="topicinfo"><span id="tp10306">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10306"></span> | <a href="topic?id=10306" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["Neovim으로 생산성 퀀텀점프하기" 발표자료]]></title>
@@ -126,7 +126,7 @@ Meta AI에서 Vision Model용 PUG 데이터셋 공개
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote10300"><a class="upvote" href="javascript:vote(10300, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.google.com/presentation/d/1DaVImp6dEz7q5Vdz1U10Hh0hE_CDGEUa4DNy39cv6-w/edit#slide=id.p1" rel="nofollow" id="tr14"><h1>"Neovim으로 생산성 퀀텀점프하기" 발표자료</h1></a> <span class="topicurl">(docs.google.com)</span></div><div class="topicdesc"><a href="topic?id=10300" class="c99 breakall">녹화영상 : https://www.youtube.com/watch?v=XYQnyJVGk-4&amp;t=1s  
 부록 : https://kodingwarrior.github.io/wiki/appendix/excelcon-2nd/  
   
-...</a></div><div class="topicinfo"><span id="tp10300">29</span> points by <a href="/user?id=kodingwarrior">kodingwarrior</a> 3일전<span id="unvote10300"></span> | <a href="topic?id=10300" class="u">댓글 9개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp10300">29</span> points by <a href="/user?id=kodingwarrior">kodingwarrior</a> 3일전<span id="unvote10300"></span> | <a href="topic?id=10300" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: DevOps 파이프라인 에디터 'Plumber']]></title>
@@ -142,7 +142,7 @@ GeekNe...</a></div><div class="topicinfo"><span id="tp10297">2</span> points by 
         <id>https://news.hada.io/topic?id=10296</id>
         <link href="https://news.hada.io/topic?id=10296"/>
         <updated>2023-08-11T04:13:55.006Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote10296"><a class="upvote" href="javascript:vote(10296, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/utilForever/2023-MatKor-Rust-Interpreter" rel="nofollow" id="tr16"><h1>"Rust 기초 프로그래밍 + 인터프리터 만들기" 강의 자료</h1></a> <span class="topicurl">(github.com/utilForever)</span></div><div class="topicdesc"><a href="topic?id=10296" class="c99 breakall">2023년 고려대학교 사이버국방학과 동아리 MatKor에서 5개월 동안 Rust 기초 프로그래밍과 "밑바닥부터 만드는 인터프리터 in Go (인사이트, 2021)...</a></div><div class="topicinfo"><span id="tp10296">51</span> points by <a href="/user?id=utilforever">utilforever</a> 3일전<span id="unvote10296"></span> | <a href="topic?id=10296" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote10296"><a class="upvote" href="javascript:vote(10296, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/utilForever/2023-MatKor-Rust-Interpreter" rel="nofollow" id="tr16"><h1>"Rust 기초 프로그래밍 + 인터프리터 만들기" 강의 자료</h1></a> <span class="topicurl">(github.com/utilForever)</span></div><div class="topicdesc"><a href="topic?id=10296" class="c99 breakall">2023년 고려대학교 사이버국방학과 동아리 MatKor에서 5개월 동안 Rust 기초 프로그래밍과 "밑바닥부터 만드는 인터프리터 in Go (인사이트, 2021)...</a></div><div class="topicinfo"><span id="tp10296">52</span> points by <a href="/user?id=utilforever">utilforever</a> 3일전<span id="unvote10296"></span> | <a href="topic?id=10296" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta, 파이썬용 차세대 자동 수정 린터 Fixit 2 공개]]></title>
