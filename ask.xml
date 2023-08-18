@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2023-08-18T08:15:22.505Z</updated>
+    <updated>2023-08-18T09:11:52.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=10418"/>
         <updated>2023-08-18T06:15:10.565Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: mariadb 무료로 사용할수 있는 서비스 어디였나요?]]></title>
+        <id>https://news.hada.io/topic?id=10421</id>
+        <link href="https://news.hada.io/topic?id=10421"/>
+        <updated>2023-08-18T09:11:34.867Z</updated>
+        <content type="html"><![CDATA[japansea]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -136,13 +143,6 @@
         <id>https://news.hada.io/topic?id=9616</id>
         <link href="https://news.hada.io/topic?id=9616"/>
         <updated>2023-07-04T02:57:43.169Z</updated>
-        <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=9556</id>
-        <link href="https://news.hada.io/topic?id=9556"/>
-        <updated>2023-06-30T04:16:17.679Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
 </feed>
