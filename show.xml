@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-08-17T23:12:10.159Z</updated>
+    <updated>2023-08-18T00:50:32.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=10396"/>
         <updated>2023-08-17T09:12:10.426Z</updated>
         <content type="html"><![CDATA[0546530408]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 공포테마 <기괴학교>]]></title>
+        <id>https://news.hada.io/topic?id=10401</id>
+        <link href="https://news.hada.io/topic?id=10401"/>
+        <updated>2023-08-18T00:50:01.013Z</updated>
+        <content type="html"><![CDATA[pikozi]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 그저 토마토를 주고받을 뿐인 서비스]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=10126"/>
         <updated>2023-08-01T15:13:00.354Z</updated>
         <content type="html"><![CDATA[geekbini]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: leaked-system-prompts 유출된 시스템 프롬프트 저장소]]></title>
-        <id>https://news.hada.io/topic?id=9305</id>
-        <link href="https://news.hada.io/topic?id=9305"/>
-        <updated>2023-08-17T20:12:59.664Z</updated>
-        <content type="html"><![CDATA[jujumilk3]]></content>
     </entry>
 </feed>
