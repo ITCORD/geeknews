@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-08-20T23:11:56.911Z</updated>
+    <updated>2023-08-21T00:50:59.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Postgres는 언제부터 멋있어졌을까]]></title>
+        <id>https://news.hada.io/weekly/202334</id>
+        <link href="https://news.hada.io/weekly/202334"/>
+        <updated>2023-08-21T00:50:44.711Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202334" class="u"> Postgres는 언제부터 멋있어졌을까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무엇이 개발자를 생산적이게 만드는가]]></title>
         <id>https://news.hada.io/weekly/202333</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202325"/>
         <updated>2023-06-19T01:07:28.747Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202325" class="u"> 텍스트 편집기의 데이터 구조 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗봇에 기름칠 하는 방법: 이커머스 회사들이 AI 답변의 백도어를 찾는 중]]></title>
-        <id>https://news.hada.io/weekly/202324</id>
-        <link href="https://news.hada.io/weekly/202324"/>
-        <updated>2023-06-12T01:12:56.123Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202324" class="u"> 챗봇에 기름칠 하는 방법: 이커머스 회사들이 AI 답변의 백도어를 찾는 중</a>]]></content>
     </entry>
 </feed>
