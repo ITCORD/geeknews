@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-08-21T07:11:53.726Z</updated>
+    <updated>2023-08-21T08:15:50.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 웹 방탈출 카페 데모]]></title>
+        <id>https://news.hada.io/topic?id=10465</id>
+        <link href="https://news.hada.io/topic?id=10465"/>
+        <updated>2023-08-21T08:15:25.530Z</updated>
+        <content type="html"><![CDATA[robin]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Awesome-Korean-LLM : 한국어 오픈소스 LLM awesome list]]></title>
         <id>https://news.hada.io/topic?id=10419</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9845"/>
         <updated>2023-07-17T07:13:13.983Z</updated>
         <content type="html"><![CDATA[sgwannabe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 약간 더 구체적인 부동산 비용 계산기]]></title>
-        <id>https://news.hada.io/topic?id=9725</id>
-        <link href="https://news.hada.io/topic?id=9725"/>
-        <updated>2023-07-10T06:18:39.286Z</updated>
-        <content type="html"><![CDATA[seventeen]]></content>
     </entry>
 </feed>
