@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2023-08-25T00:52:13.513Z</updated>
+    <updated>2023-08-25T01:45:35.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=10540</id>
+        <link href="https://news.hada.io/topic?id=10540"/>
+        <updated>2023-08-25T01:45:17.131Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: mariadb 무료로 사용할수 있는 서비스 어디였나요?]]></title>
         <id>https://news.hada.io/topic?id=10421</id>
@@ -83,18 +90,18 @@
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=10042</id>
-        <link href="https://news.hada.io/topic?id=10042"/>
-        <updated>2023-07-28T02:05:29.392Z</updated>
-        <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 해외여행 갈 때 따로 쓰는 지도 앱이 있나요?]]></title>
         <id>https://news.hada.io/topic?id=9706</id>
         <link href="https://news.hada.io/topic?id=9706"/>
         <updated>2023-07-09T06:16:58.775Z</updated>
         <content type="html"><![CDATA[roxie]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=10042</id>
+        <link href="https://news.hada.io/topic?id=10042"/>
+        <updated>2023-07-28T02:05:29.392Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 혹시 GeekNews RSS 서비스에 Description을 추가해 주실 수 있나요?]]></title>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2023년 7월)]]></title>
         <id>https://news.hada.io/topic?id=9617</id>
         <link href="https://news.hada.io/topic?id=9617"/>
-        <updated>2023-07-04T02:57:43.169Z</updated>
-        <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2023년 7월)]]></title>
-        <id>https://news.hada.io/topic?id=9616</id>
-        <link href="https://news.hada.io/topic?id=9616"/>
         <updated>2023-07-04T02:57:43.169Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
