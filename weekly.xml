@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-08-27T23:11:52.707Z</updated>
+    <updated>2023-08-28T00:52:11.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LLM 연구의 공개 과제들]]></title>
+        <id>https://news.hada.io/weekly/202335</id>
+        <link href="https://news.hada.io/weekly/202335"/>
+        <updated>2023-08-28T00:51:58.370Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202335" class="u"> LLM 연구의 공개 과제들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postgres는 언제부터 멋있어졌을까]]></title>
         <id>https://news.hada.io/weekly/202334</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202326"/>
         <updated>2023-06-26T01:17:20.959Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202326" class="u"> 스탠포드의 "엔지니어들을 위한 개인 재무 관리" 강의</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텍스트 편집기의 데이터 구조]]></title>
-        <id>https://news.hada.io/weekly/202325</id>
-        <link href="https://news.hada.io/weekly/202325"/>
-        <updated>2023-06-19T01:07:28.747Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202325" class="u"> 텍스트 편집기의 데이터 구조 </a>]]></content>
     </entry>
 </feed>
