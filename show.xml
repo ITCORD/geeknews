@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-09-06T13:16:59.329Z</updated>
+    <updated>2023-09-06T14:12:18.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 셀럽미: 아이돌 닮은꼴 테스트]]></title>
+        <id>https://news.hada.io/topic?id=10748</id>
+        <link href="https://news.hada.io/topic?id=10748"/>
+        <updated>2023-09-06T14:11:50.242Z</updated>
+        <content type="html"><![CDATA[honth]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: dalgona - GIF meme을 찾아주는 Desktop App (Tauri)]]></title>
         <id>https://news.hada.io/topic?id=10747</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=10297"/>
         <updated>2023-08-11T08:14:17.292Z</updated>
         <content type="html"><![CDATA[ironlung]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Google search in videos]]></title>
-        <id>https://news.hada.io/topic?id=10226</id>
-        <link href="https://news.hada.io/topic?id=10226"/>
-        <updated>2023-08-07T12:23:33.788Z</updated>
-        <content type="html"><![CDATA[ysc7064]]></content>
     </entry>
 </feed>
