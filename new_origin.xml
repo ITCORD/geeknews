@@ -2,25 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2023-09-07T20:13:06.453Z</updated>
+    <updated>2023-09-07T21:11:27.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AI를 활용한 교육]]></title>
-        <id>https://openai.com/blog/teaching-with-ai</id>
-        <link href="https://openai.com/blog/teaching-with-ai"/>
-        <updated>2023-09-07T01:45:08.642Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10753"><a class="upvote" href="javascript:vote(10753, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/teaching-with-ai" rel="nofollow" id="tr1"><h1>AI를 활용한 교육</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=10753" class="c99 breakall">- OpenAI가 ChatGPT를 교실에서 사용하는 교사들을 위한 가이드를 발표  
-  - 프롬프트 제안부터 ChatGPT 작동 방식, 한계, AI 탐지기의 효과성, ...</a></div><div class="topicinfo"><span id="tp10753">9</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote10753"></span> | <a href="topic?id=10753" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[C++을 만든 Bjarne Stroustrup의 인생 조언]]></title>
         <id>https://www.youtube.com/watch?v=-QxI-RP6-HM</id>
         <link href="https://www.youtube.com/watch?v=-QxI-RP6-HM"/>
         <updated>2023-09-05T02:17:07.510Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote10726"><a class="upvote" href="javascript:vote(10726, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=-QxI-RP6-HM" rel="nofollow" id="tr2"><h1>C++을 만든 Bjarne Stroustrup의 인생 조언</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=10726" class="c99 breakall">- 지나치게 전문화하지 마세요(overspecialize)  
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10726"><a class="upvote" href="javascript:vote(10726, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=-QxI-RP6-HM" rel="nofollow" id="tr1"><h1>C++을 만든 Bjarne Stroustrup의 인생 조언</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=10726" class="c99 breakall">- 지나치게 전문화하지 마세요(overspecialize)  
   - 미래를 알고 있다고 너무 확신하지 마세요.   
   - 융통성을 가지고, 커리어와 직업은 장...</a></div><div class="topicinfo"><span id="tp10726">54</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote10726"></span> | <a href="topic?id=10726" class="u">댓글 6개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI를 활용한 교육]]></title>
+        <id>https://openai.com/blog/teaching-with-ai</id>
+        <link href="https://openai.com/blog/teaching-with-ai"/>
+        <updated>2023-09-07T01:45:08.642Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote10753"><a class="upvote" href="javascript:vote(10753, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/teaching-with-ai" rel="nofollow" id="tr2"><h1>AI를 활용한 교육</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=10753" class="c99 breakall">- OpenAI가 ChatGPT를 교실에서 사용하는 교사들을 위한 가이드를 발표  
+  - 프롬프트 제안부터 ChatGPT 작동 방식, 한계, AI 탐지기의 효과성, ...</a></div><div class="topicinfo"><span id="tp10753">9</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote10753"></span> | <a href="topic?id=10753" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SAM.cpp - Meta의 Segment Anything Model을 순수 C/C++ 로 구현]]></title>
@@ -29,7 +29,7 @@
         <updated>2023-09-07T01:45:08.641Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10758"><a class="upvote" href="javascript:vote(10758, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/YavorGIvanov/sam.cpp" rel="nofollow" id="tr3"><h1>SAM.cpp - Meta의 Segment Anything Model을 순수 C/C++ 로 구현</h1></a> <span class="topicurl">(github.com/YavorGIvanov)</span></div><div class="topicdesc"><a href="topic?id=10758" class="c99 breakall">- 원래 Python 으로 구현되어 있던 모델을 GGML 라이브러리를 이용해서 C++로 포팅   
 - 경량화된 코드를 통해 다양한 곳에서 이용 가능   
-- 원...</a></div><div class="topicinfo"><span id="tp10758">8</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote10758"></span> | <a href="topic?id=10758" class="u">댓글과 토론</a></div>]]></content>
+- 원...</a></div><div class="topicinfo"><span id="tp10758">8</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote10758"></span> | <a href="topic?id=10758" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Astro 3.0 릴리즈]]></title>
@@ -37,7 +37,7 @@
         <link href="https://astro.build/blog/astro-3/"/>
         <updated>2023-09-07T02:17:42.326Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote10761"><a class="upvote" href="javascript:vote(10761, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://astro.build/blog/astro-3/" rel="nofollow" id="tr4"><h1>Astro 3.0 릴리즈</h1></a> <span class="topicurl">(astro.build)</span></div><div class="topicdesc"><a href="topic?id=10761" class="c99 breakall">- View Transitions API를 지원하는 최초의 메이저 웹 프레임워크  
-  - SPA에서만 가능하던 페이드, 슬라이드, 모핑 등 페이지 전환 효과를 어디...</a></div><div class="topicinfo"><span id="tp10761">6</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote10761"></span> | <a href="topic?id=10761" class="u">댓글 2개</a></div>]]></content>
+  - SPA에서만 가능하던 페이드, 슬라이드, 모핑 등 페이지 전환 효과를 어디...</a></div><div class="topicinfo"><span id="tp10761">6</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote10761"></span> | <a href="topic?id=10761" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Curl 마스터하기: 인터랙티브 텍스트 가이드]]></title>
@@ -109,7 +109,7 @@
         <link href="https://huggingface.co/blog/falcon-180b"/>
         <updated>2023-09-07T01:45:08.643Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote10759"><a class="upvote" href="javascript:vote(10759, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/falcon-180b" rel="nofollow" id="tr13"><h1>Falcon 180B 모델 공개</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=10759" class="c99 breakall">- 1800억개의 파라미터가 포함된 최대 규모의 공개 언어 모델   
-- 공개 모델중에선 리더보드 1위에 랭크. Llama 2 70B 및 GPT-3.5를 능가하며 Pa...</a></div><div class="topicinfo"><span id="tp10759">2</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote10759"></span> | <a href="topic?id=10759" class="u">댓글 1개</a></div>]]></content>
+- 공개 모델중에선 리더보드 1위에 랭크. Llama 2 70B 및 GPT-3.5를 능가하며 Pa...</a></div><div class="topicinfo"><span id="tp10759">2</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote10759"></span> | <a href="topic?id=10759" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SiFive의 P870, RISC-V를 한 단계 더 발전시키다]]></title>
