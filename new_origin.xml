@@ -2,65 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2023-09-07T02:18:14.919Z</updated>
+    <updated>2023-09-07T03:13:20.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SAM.cpp - Meta의 Segment Anything Model을 순수 C/C++ 로 구현]]></title>
-        <id>https://github.com/YavorGIvanov/sam.cpp</id>
-        <link href="https://github.com/YavorGIvanov/sam.cpp"/>
-        <updated>2023-09-07T01:45:08.641Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10758"><a class="upvote" href="javascript:vote(10758, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/YavorGIvanov/sam.cpp" rel="nofollow" id="tr1"><h1>SAM.cpp - Meta의 Segment Anything Model을 순수 C/C++ 로 구현</h1></a> <span class="topicurl">(github.com/YavorGIvanov)</span></div><div class="topicdesc"><a href="topic?id=10758" class="c99 breakall">- 원래 Python 으로 구현되어 있던 모델을 GGML 라이브러리를 이용해서 C++로 포팅   
-- 경량화된 코드를 통해 다양한 곳에서 이용 가능   
-- 원...</a></div><div class="topicinfo"><span id="tp10758">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote10758"></span> | <a href="topic?id=10758" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[AI를 활용한 교육]]></title>
         <id>https://openai.com/blog/teaching-with-ai</id>
         <link href="https://openai.com/blog/teaching-with-ai"/>
         <updated>2023-09-07T01:45:08.642Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote10753"><a class="upvote" href="javascript:vote(10753, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/teaching-with-ai" rel="nofollow" id="tr2"><h1>AI를 활용한 교육</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=10753" class="c99 breakall">- OpenAI가 ChatGPT를 교실에서 사용하는 교사들을 위한 가이드를 발표  
-  - 프롬프트 제안부터 ChatGPT 작동 방식, 한계, AI 탐지기의 효과성, ...</a></div><div class="topicinfo"><span id="tp10753">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote10753"></span> | <a href="topic?id=10753" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10753"><a class="upvote" href="javascript:vote(10753, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/teaching-with-ai" rel="nofollow" id="tr1"><h1>AI를 활용한 교육</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=10753" class="c99 breakall">- OpenAI가 ChatGPT를 교실에서 사용하는 교사들을 위한 가이드를 발표  
+  - 프롬프트 제안부터 ChatGPT 작동 방식, 한계, AI 탐지기의 효과성, ...</a></div><div class="topicinfo"><span id="tp10753">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote10753"></span> | <a href="topic?id=10753" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C++을 만든 Bjarne Stroustrup의 인생 조언]]></title>
-        <id>https://www.youtube.com/watch?v=-QxI-RP6-HM</id>
-        <link href="https://www.youtube.com/watch?v=-QxI-RP6-HM"/>
-        <updated>2023-09-05T02:17:07.510Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10726"><a class="upvote" href="javascript:vote(10726, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=-QxI-RP6-HM" rel="nofollow" id="tr3"><h1>C++을 만든 Bjarne Stroustrup의 인생 조언</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=10726" class="c99 breakall">- 지나치게 전문화하지 마세요(overspecialize)  
-  - 미래를 알고 있다고 너무 확신하지 마세요.   
-  - 융통성을 가지고, 커리어와 직업은 장...</a></div><div class="topicinfo"><span id="tp10726">52</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10726"></span> | <a href="topic?id=10726" class="u">댓글 6개</a></div>]]></content>
+        <title type="html"><![CDATA[SAM.cpp - Meta의 Segment Anything Model을 순수 C/C++ 로 구현]]></title>
+        <id>https://github.com/YavorGIvanov/sam.cpp</id>
+        <link href="https://github.com/YavorGIvanov/sam.cpp"/>
+        <updated>2023-09-07T01:45:08.641Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote10758"><a class="upvote" href="javascript:vote(10758, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/YavorGIvanov/sam.cpp" rel="nofollow" id="tr2"><h1>SAM.cpp - Meta의 Segment Anything Model을 순수 C/C++ 로 구현</h1></a> <span class="topicurl">(github.com/YavorGIvanov)</span></div><div class="topicdesc"><a href="topic?id=10758" class="c99 breakall">- 원래 Python 으로 구현되어 있던 모델을 GGML 라이브러리를 이용해서 C++로 포팅   
+- 경량화된 코드를 통해 다양한 곳에서 이용 가능   
+- 원...</a></div><div class="topicinfo"><span id="tp10758">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote10758"></span> | <a href="topic?id=10758" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Astro 3.0 릴리즈]]></title>
         <id>https://astro.build/blog/astro-3/</id>
         <link href="https://astro.build/blog/astro-3/"/>
         <updated>2023-09-07T02:17:42.326Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote10761"><a class="upvote" href="javascript:vote(10761, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://astro.build/blog/astro-3/" rel="nofollow" id="tr4"><h1>Astro 3.0 릴리즈</h1></a> <span class="topicurl">(astro.build)</span></div><div class="topicdesc"><a href="topic?id=10761" class="c99 breakall">- View Transitions API를 지원하는 최초의 메이저 웹 프레임워크  
-  - SPA에서만 가능하던 페이드, 슬라이드, 모핑 등 페이지 전환 효과를 어디...</a></div><div class="topicinfo"><span id="tp10761">1</span> point by <a href="/user?id=xguru">xguru</a> 12분전<span id="unvote10761"></span> | <a href="topic?id=10761" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10761"><a class="upvote" href="javascript:vote(10761, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://astro.build/blog/astro-3/" rel="nofollow" id="tr3"><h1>Astro 3.0 릴리즈</h1></a> <span class="topicurl">(astro.build)</span></div><div class="topicdesc"><a href="topic?id=10761" class="c99 breakall">- View Transitions API를 지원하는 최초의 메이저 웹 프레임워크  
+  - SPA에서만 가능하던 페이드, 슬라이드, 모핑 등 페이지 전환 효과를 어디...</a></div><div class="topicinfo"><span id="tp10761">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote10761"></span> | <a href="topic?id=10761" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCSFuse - Google Cloud Storage FUSE]]></title>
-        <id>https://github.com/GoogleCloudPlatform/gcsfuse</id>
-        <link href="https://github.com/GoogleCloudPlatform/gcsfuse"/>
-        <updated>2023-09-07T02:17:42.328Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote10760"><a class="upvote" href="javascript:vote(10760, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/GoogleCloudPlatform/gcsfuse" rel="nofollow" id="tr5"><h1>GCSFuse - Google Cloud Storage FUSE</h1></a> <span class="topicurl">(github.com/GoogleCloudPlatform)</span></div><div class="topicdesc"><a href="topic?id=10760" class="c99 breakall">- 구글 Cloud Storage 버킷을 로컷 파일 시스템으로 마운트하고 액세스할 수 있게 해주는 FUSE 어댑터   
-- 2015년부터 개발되었고, 올해 6월에 1...</a></div><div class="topicinfo"><span id="tp10760">1</span> point by <a href="/user?id=xguru">xguru</a> 32분전<span id="unvote10760"></span> | <a href="topic?id=10760" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falcon 180B 모델 공개]]></title>
-        <id>https://huggingface.co/blog/falcon-180b</id>
-        <link href="https://huggingface.co/blog/falcon-180b"/>
-        <updated>2023-09-07T01:45:08.643Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote10759"><a class="upvote" href="javascript:vote(10759, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/falcon-180b" rel="nofollow" id="tr6"><h1>Falcon 180B 모델 공개</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=10759" class="c99 breakall">- 1800억개의 파라미터가 포함된 최대 규모의 공개 언어 모델   
-- 공개 모델중에선 리더보드 1위에 랭크. Llama 2 70B 및 GPT-3.5를 능가하며 Pa...</a></div><div class="topicinfo"><span id="tp10759">1</span> point by <a href="/user?id=xguru">xguru</a> 47분전<span id="unvote10759"></span> | <a href="topic?id=10759" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[C++을 만든 Bjarne Stroustrup의 인생 조언]]></title>
+        <id>https://www.youtube.com/watch?v=-QxI-RP6-HM</id>
+        <link href="https://www.youtube.com/watch?v=-QxI-RP6-HM"/>
+        <updated>2023-09-05T02:17:07.510Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote10726"><a class="upvote" href="javascript:vote(10726, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=-QxI-RP6-HM" rel="nofollow" id="tr4"><h1>C++을 만든 Bjarne Stroustrup의 인생 조언</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=10726" class="c99 breakall">- 지나치게 전문화하지 마세요(overspecialize)  
+  - 미래를 알고 있다고 너무 확신하지 마세요.   
+  - 융통성을 가지고, 커리어와 직업은 장...</a></div><div class="topicinfo"><span id="tp10726">52</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10726"></span> | <a href="topic?id=10726" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈 소스를 활용하면 하드웨어도 만들 수 있다]]></title>
         <id>https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware</id>
         <link href="https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware"/>
         <updated>2023-09-06T00:52:32.533Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote10734"><a class="upvote" href="javascript:vote(10734, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware" rel="nofollow" id="tr7"><h1>오픈 소스를 활용하면 하드웨어도 만들 수 있다</h1></a> <span class="topicurl">(redeem-tomorrow.com)</span></div><div class="topicdesc"><a href="topic?id=10734" class="c99 breakall">- 실제 하드웨어를 만드는 것은 어려워 보이지만, 요즘은 소프트웨어를 만드는 것만큼 쉬움.  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote10734"><a class="upvote" href="javascript:vote(10734, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware" rel="nofollow" id="tr5"><h1>오픈 소스를 활용하면 하드웨어도 만들 수 있다</h1></a> <span class="topicurl">(redeem-tomorrow.com)</span></div><div class="topicdesc"><a href="topic?id=10734" class="c99 breakall">- 실제 하드웨어를 만드는 것은 어려워 보이지만, 요즘은 소프트웨어를 만드는 것만큼 쉬움.  
 - 히트 펌프 컨트롤러를 직접 제작하여 자동화 시...</a></div><div class="topicinfo"><span id="tp10734">12</span> points by <a href="/user?id=kuroneko">kuroneko</a> 1일전<span id="unvote10734"></span> | <a href="topic?id=10734" class="u">댓글 13개</a></div>]]></content>
     </entry>
     <entry>
@@ -68,23 +52,39 @@
         <id>https://antonz.org/mastering-curl/</id>
         <link href="https://antonz.org/mastering-curl/"/>
         <updated>2023-09-05T01:43:25.757Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote10723"><a class="upvote" href="javascript:vote(10723, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://antonz.org/mastering-curl/" rel="nofollow" id="tr8"><h1>Curl 마스터하기: 인터랙티브 텍스트 가이드</h1></a> <span class="topicurl">(antonz.org)</span></div><div class="topicdesc"><a href="topic?id=10723" class="c99 breakall">- Curl 개발자 Daniel Stenberg 의 3.5시간 짜리 "Mastering the curl command line" 워크샵 영상을 보고 텍스트로 짧게 정리한 가이드   
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote10723"><a class="upvote" href="javascript:vote(10723, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://antonz.org/mastering-curl/" rel="nofollow" id="tr6"><h1>Curl 마스터하기: 인터랙티브 텍스트 가이드</h1></a> <span class="topicurl">(antonz.org)</span></div><div class="topicdesc"><a href="topic?id=10723" class="c99 breakall">- Curl 개발자 Daniel Stenberg 의 3.5시간 짜리 "Mastering the curl command line" 워크샵 영상을 보고 텍스트로 짧게 정리한 가이드   
 - 웹페...</a></div><div class="topicinfo"><span id="tp10723">29</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10723"></span> | <a href="topic?id=10723" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rockstar는 Steam에서 게임의 크랙을 판매했었습니다.]]></title>
-        <id>https://twitter.com/__silent_/status/1698345924840296801</id>
-        <link href="https://twitter.com/__silent_/status/1698345924840296801"/>
-        <updated>2023-09-06T01:44:37.614Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote10743"><a class="upvote" href="javascript:vote(10743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/__silent_/status/1698345924840296801" rel="nofollow" id="tr9"><h1>Rockstar는 Steam에서 게임의 크랙을 판매했었습니다.</h1></a> <span class="topicurl">(twitter.com/__silent_)</span></div><div class="topicdesc"><a href="topic?id=10743" class="c99 breakall">- 20년 된 CD 게임인 [Midnight Club II의 Steam 버전](https://store.steampowered.com/app/12160/Midnight_Club_2/)에서 CD 없이 게임을 실행하...</a></div><div class="topicinfo"><span id="tp10743">7</span> points by <a href="/user?id=kuroneko">kuroneko</a> 1일전<span id="unvote10743"></span> | <a href="topic?id=10743" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[GCSFuse - Google Cloud Storage FUSE]]></title>
+        <id>https://github.com/GoogleCloudPlatform/gcsfuse</id>
+        <link href="https://github.com/GoogleCloudPlatform/gcsfuse"/>
+        <updated>2023-09-07T02:17:42.328Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote10760"><a class="upvote" href="javascript:vote(10760, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/GoogleCloudPlatform/gcsfuse" rel="nofollow" id="tr7"><h1>GCSFuse - Google Cloud Storage FUSE</h1></a> <span class="topicurl">(github.com/GoogleCloudPlatform)</span></div><div class="topicdesc"><a href="topic?id=10760" class="c99 breakall">- 구글 Cloud Storage 버킷을 로컷 파일 시스템으로 마운트하고 액세스할 수 있게 해주는 FUSE 어댑터   
+- 2015년부터 개발되었고, 올해 6월에 1...</a></div><div class="topicinfo"><span id="tp10760">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote10760"></span> | <a href="topic?id=10760" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falcon 180B 모델 공개]]></title>
+        <id>https://huggingface.co/blog/falcon-180b</id>
+        <link href="https://huggingface.co/blog/falcon-180b"/>
+        <updated>2023-09-07T01:45:08.643Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote10759"><a class="upvote" href="javascript:vote(10759, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/falcon-180b" rel="nofollow" id="tr8"><h1>Falcon 180B 모델 공개</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=10759" class="c99 breakall">- 1800억개의 파라미터가 포함된 최대 규모의 공개 언어 모델   
+- 공개 모델중에선 리더보드 1위에 랭크. Llama 2 70B 및 GPT-3.5를 능가하며 Pa...</a></div><div class="topicinfo"><span id="tp10759">1</span> point by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote10759"></span> | <a href="topic?id=10759" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Puck - React를 위한 오픈소스 Drag & Drop 편집기]]></title>
         <id>https://github.com/measuredco/puck</id>
         <link href="https://github.com/measuredco/puck"/>
         <updated>2023-09-06T03:12:15.680Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote10740"><a class="upvote" href="javascript:vote(10740, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/measuredco/puck" rel="nofollow" id="tr10"><h1>GN⁺: Puck - React를 위한 오픈소스 Drag &amp; Drop 편집기 </h1></a> <span class="topicurl">(github.com/measuredco)</span></div><div class="topicdesc"><a href="topic?id=10740" class="c99 breakall">- 기존 React 컴포넌트 라이브러리의 시각적 편집을 위한 **드래그 앤 드롭** 기능 제공  
-- 셀프호스팅 하거나 자신의 기존 어플리케이션에 연동...</a></div><div class="topicinfo"><span id="tp10740">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote10740"></span> | <a href="topic?id=10740" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote10740"><a class="upvote" href="javascript:vote(10740, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/measuredco/puck" rel="nofollow" id="tr9"><h1>GN⁺: Puck - React를 위한 오픈소스 Drag &amp; Drop 편집기 </h1></a> <span class="topicurl">(github.com/measuredco)</span></div><div class="topicdesc"><a href="topic?id=10740" class="c99 breakall">- 기존 React 컴포넌트 라이브러리의 시각적 편집을 위한 **드래그 앤 드롭** 기능 제공  
+- 셀프호스팅 하거나 자신의 기존 어플리케이션에 연동...</a></div><div class="topicinfo"><span id="tp10740">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote10740"></span> | <a href="topic?id=10740" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockstar는 Steam에서 게임의 크랙을 판매했었습니다.]]></title>
+        <id>https://twitter.com/__silent_/status/1698345924840296801</id>
+        <link href="https://twitter.com/__silent_/status/1698345924840296801"/>
+        <updated>2023-09-06T01:44:37.614Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote10743"><a class="upvote" href="javascript:vote(10743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/__silent_/status/1698345924840296801" rel="nofollow" id="tr10"><h1>Rockstar는 Steam에서 게임의 크랙을 판매했었습니다.</h1></a> <span class="topicurl">(twitter.com/__silent_)</span></div><div class="topicdesc"><a href="topic?id=10743" class="c99 breakall">- 20년 된 CD 게임인 [Midnight Club II의 Steam 버전](https://store.steampowered.com/app/12160/Midnight_Club_2/)에서 CD 없이 게임을 실행하...</a></div><div class="topicinfo"><span id="tp10743">7</span> points by <a href="/user?id=kuroneko">kuroneko</a> 1일전<span id="unvote10743"></span> | <a href="topic?id=10743" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Graphweaver - 여러 데이터소스를 하나의 GraphQL API로 묶기]]></title>
@@ -112,21 +112,21 @@
 - ...</a></div><div class="topicinfo"><span id="tp10707">22</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote10707"></span> | <a href="topic?id=10707" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SiFive의 P870, RISC-V를 한 단계 더 발전시키다]]></title>
-        <id>https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/</id>
-        <link href="https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/"/>
-        <updated>2023-09-05T01:43:25.749Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote10722"><a class="upvote" href="javascript:vote(10722, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/" rel="nofollow" id="tr14"><h1>SiFive의 P870, RISC-V를 한 단계 더 발전시키다</h1></a> <span class="topicurl">(chipsandcheese.com)</span></div><div class="topicdesc"><a href="topic?id=10722" class="c99 breakall">- ARM Cortex X2 또는 AMD Zen 4c 정도에 해당하는 고성능 3세대 코어   
-- OOO(Out-Of-Order) 실행을 갖춘 6폭(Six-Wide)코어   
-- 대규모 리오...</a></div><div class="topicinfo"><span id="tp10722">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10722"></span> | <a href="topic?id=10722" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI의 GPT 모범 사례: 개요. 더 나은 답변을 얻기 위한 6가지 프롬프트 작성 전략]]></title>
         <id>https://discuss.pytorch.kr/t/openai-gpt-6-six-strategies-for-getting-better-results/2350/1</id>
         <link href="https://discuss.pytorch.kr/t/openai-gpt-6-six-strategies-for-getting-better-results/2350/1"/>
         <updated>2023-09-02T08:13:52.397Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote10678"><a class="upvote" href="javascript:vote(10678, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/openai-gpt-6-six-strategies-for-getting-better-results/2350/1" rel="nofollow" id="tr15"><h1>OpenAI의 GPT 모범 사례: 개요. 더 나은 답변을 얻기 위한 6가지 프롬프트 작성 전략</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=10678" class="c99 breakall">  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote10678"><a class="upvote" href="javascript:vote(10678, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/openai-gpt-6-six-strategies-for-getting-better-results/2350/1" rel="nofollow" id="tr14"><h1>OpenAI의 GPT 모범 사례: 개요. 더 나은 답변을 얻기 위한 6가지 프롬프트 작성 전략</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=10678" class="c99 breakall">  
 [OpenAI의 문서들 중, `GPT 모범 사례(GPT Best Practices)` 문서](https://platform.openai.com/docs/guides/gpt-best-practices)를 번역해보...</a></div><div class="topicinfo"><span id="tp10678">44</span> points by <a href="/user?id=ninebow">ninebow</a> 5일전<span id="unvote10678"></span> | <a href="topic?id=10678" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SiFive의 P870, RISC-V를 한 단계 더 발전시키다]]></title>
+        <id>https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/</id>
+        <link href="https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/"/>
+        <updated>2023-09-05T01:43:25.749Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote10722"><a class="upvote" href="javascript:vote(10722, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/" rel="nofollow" id="tr15"><h1>SiFive의 P870, RISC-V를 한 단계 더 발전시키다</h1></a> <span class="topicurl">(chipsandcheese.com)</span></div><div class="topicdesc"><a href="topic?id=10722" class="c99 breakall">- ARM Cortex X2 또는 AMD Zen 4c 정도에 해당하는 고성능 3세대 코어   
+- OOO(Out-Of-Order) 실행을 갖춘 6폭(Six-Wide)코어   
+- 대규모 리오...</a></div><div class="topicinfo"><span id="tp10722">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10722"></span> | <a href="topic?id=10722" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LangFuse - LLM앱을 위한 오픈소스 Observability & Analytics 솔루션]]></title>
@@ -156,19 +156,19 @@
   - 출력값 측정...</a></div><div class="topicinfo"><span id="tp10709">15</span> points by <a href="/user?id=ironlung">ironlung</a> 3일전<span id="unvote10709"></span> | <a href="topic?id=10709" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생성형 AI를 이용한 마케팅/SEO/PR용 자동화 스크립트 모음]]></title>
-        <id>https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT</id>
-        <link href="https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT"/>
-        <updated>2023-09-04T02:18:22.494Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote10706"><a class="upvote" href="javascript:vote(10706, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT" rel="nofollow" id="tr19"><h1>생성형 AI를 이용한 마케팅/SEO/PR용 자동화 스크립트 모음</h1></a> <span class="topicurl">(github.com/ktynski)</span></div><div class="topicdesc"><a href="topic?id=10706" class="c99 breakall">- Google Colab에서 바로 실험가능한 20개 이상의 스크립트  
-- TikTok 동영상 자동 분석 및 바이럴 성공 요인 보고서 생성: Apify + OpenAI Whis...</a></div><div class="topicinfo"><span id="tp10706">14</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote10706"></span> | <a href="topic?id=10706" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Python 500줄로 C 컴파일러 작성하기]]></title>
         <id>https://vgel.me/posts/c500/</id>
         <link href="https://vgel.me/posts/c500/"/>
         <updated>2023-09-06T06:15:38.229Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote10727"><a class="upvote" href="javascript:vote(10727, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vgel.me/posts/c500/" rel="nofollow" id="tr20"><h1>GN⁺: Python 500줄로 C 컴파일러 작성하기</h1></a> <span class="topicurl">(vgel.me)</span></div><div class="topicdesc"><a href="topic?id=10727" class="c99 breakall">- 저자는 파이썬 코드 500줄로 C 컴파일러를 작성하는 어려운 도전을 수행했음  
-- 컴파일러는 단일 패스로, 구문 트리를 먼저 구축하고 기계 코...</a></div><div class="topicinfo"><span id="tp10727">7</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote10727"></span> | <a href="topic?id=10727" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote10727"><a class="upvote" href="javascript:vote(10727, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vgel.me/posts/c500/" rel="nofollow" id="tr19"><h1>GN⁺: Python 500줄로 C 컴파일러 작성하기</h1></a> <span class="topicurl">(vgel.me)</span></div><div class="topicdesc"><a href="topic?id=10727" class="c99 breakall">- 저자는 파이썬 코드 500줄로 C 컴파일러를 작성하는 어려운 도전을 수행했음  
+- 컴파일러는 단일 패스로, 구문 트리를 먼저 구축하고 기계 코...</a></div><div class="topicinfo"><span id="tp10727">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote10727"></span> | <a href="topic?id=10727" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생성형 AI를 이용한 마케팅/SEO/PR용 자동화 스크립트 모음]]></title>
+        <id>https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT</id>
+        <link href="https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT"/>
+        <updated>2023-09-04T02:18:22.494Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote10706"><a class="upvote" href="javascript:vote(10706, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT" rel="nofollow" id="tr20"><h1>생성형 AI를 이용한 마케팅/SEO/PR용 자동화 스크립트 모음</h1></a> <span class="topicurl">(github.com/ktynski)</span></div><div class="topicdesc"><a href="topic?id=10706" class="c99 breakall">- Google Colab에서 바로 실험가능한 20개 이상의 스크립트  
+- TikTok 동영상 자동 분석 및 바이럴 성공 요인 보고서 생성: Apify + OpenAI Whis...</a></div><div class="topicinfo"><span id="tp10706">14</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote10706"></span> | <a href="topic?id=10706" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
