@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-09-11T09:14:31.685Z</updated>
+    <updated>2023-09-11T10:13:33.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-09-11T02:19:55.249Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote10825"><a class="upvote" href="javascript:vote(10825, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://snyk.io/blog/javascript-runtime-compare-node-deno-bun/" rel="nofollow" id="tr1"><h1>Node.js vs. Deno vs. Bun: JavaScript 런타임 비교</h1></a> <span class="topicurl">(snyk.io)</span></div><div class="topicdesc"><a href="topic?id=10825" class="c99 breakall">- 런타임은 성능과 안전성, 개발자 경험에 중요   
   - Node.js : 풍부한 리소스와 에코시스템. V8(크롬)   
-  - Deno : Rust 기반. 보안을 향상...</a></div><div class="topicinfo"><span id="tp10825">5</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote10825"></span> | <a href="topic?id=10825" class="u">댓글 2개</a></div>]]></content>
+  - Deno : Rust 기반. 보안을 향상...</a></div><div class="topicinfo"><span id="tp10825">6</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote10825"></span> | <a href="topic?id=10825" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bun 1.0]]></title>
@@ -22,14 +22,14 @@
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote10824"><a class="upvote" href="javascript:vote(10824, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bun.sh/blog/bun-v1.0" rel="nofollow" id="tr2"><h1>Bun 1.0</h1></a> <span class="topicurl">(bun.sh)</span></div><div class="topicdesc"><a href="topic?id=10824" class="c99 breakall">자바스크립트 런타임 도구인 Bun 1.0 이 출시되었습니다!  
   
 - node.js 도구 호환  
-- 별도로 설치해야 하는 모니터링 `nodemon`, 환경설정 `...</a></div><div class="topicinfo"><span id="tp10824">5</span> points by <a href="/user?id=composite">composite</a> 7시간전<span id="unvote10824"></span> | <a href="topic?id=10824" class="u">댓글 1개</a></div>]]></content>
+- 별도로 설치해야 하는 모니터링 `nodemon`, 환경설정 `...</a></div><div class="topicinfo"><span id="tp10824">6</span> points by <a href="/user?id=composite">composite</a> 8시간전<span id="unvote10824"></span> | <a href="topic?id=10824" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[속도와 파이썬, 두 마리 토끼 잡기: 딥러닝 시 빠른 파이썬 코드 실행을 위한 CUDA 그래프 사용법]]></title>
         <id>https://news.hada.io/topic?id=10813</id>
         <link href="https://news.hada.io/topic?id=10813"/>
         <updated>2023-09-10T15:10:44.066Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10813"><a class="upvote" href="javascript:vote(10813, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/cuda-speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning/2441?utm_source=geeknews" rel="nofollow" id="tr3"><h1>속도와 파이썬, 두 마리 토끼 잡기: 딥러닝 시 빠른 파이썬 코드 실행을 위한 CUDA 그래프 사용법</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=10813" class="c99 breakall">지난 몇 년간 GPU 속도가 폭발적으로 증가하며 딥러닝 워크로드의 최적화 방법 또한 변화하고 있습니다. PyTorch에서도 `torch.compile()`과 같이 ...</a></div><div class="topicinfo"><span id="tp10813">9</span> points by <a href="/user?id=ninebow">ninebow</a> 18시간전<span id="unvote10813"></span> | <a href="topic?id=10813" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote10813"><a class="upvote" href="javascript:vote(10813, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/cuda-speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning/2441?utm_source=geeknews" rel="nofollow" id="tr3"><h1>속도와 파이썬, 두 마리 토끼 잡기: 딥러닝 시 빠른 파이썬 코드 실행을 위한 CUDA 그래프 사용법</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=10813" class="c99 breakall">지난 몇 년간 GPU 속도가 폭발적으로 증가하며 딥러닝 워크로드의 최적화 방법 또한 변화하고 있습니다. PyTorch에서도 `torch.compile()`과 같이 ...</a></div><div class="topicinfo"><span id="tp10813">9</span> points by <a href="/user?id=ninebow">ninebow</a> 19시간전<span id="unvote10813"></span> | <a href="topic?id=10813" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Youtube-to-Webpage - 유튜브를 웹페이지로 만들기]]></title>
@@ -76,7 +76,7 @@
         <updated>2023-09-09T01:42:10.467Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote10795"><a class="upvote" href="javascript:vote(10795, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.getlocalcert.net/" rel="nofollow" id="tr8"><h1>getlocalcert - 사설 네트웍을 위한 쓰기 편한 HTTPS</h1></a> <span class="topicurl">(getlocalcert.net)</span></div><div class="topicdesc"><a href="topic?id=10795" class="c99 breakall">- 내부 어플리케이션 호스팅 하는데 적합한, 퍼블릭 DNS에 루트를 둔 무료 서브도메인 제공  
   - "Free local-only domain names"  
-  - exampl...</a></div><div class="topicinfo"><span id="tp10795">14</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10795"></span> | <a href="topic?id=10795" class="u">댓글과 토론</a></div>]]></content>
+  - exampl...</a></div><div class="topicinfo"><span id="tp10795">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote10795"></span> | <a href="topic?id=10795" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Poozle - 서비스 연동을 위한 오픈소스 싱글 API]]></title>
@@ -164,7 +164,7 @@
         <updated>2023-09-08T01:45:50.445Z</updated>
         <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote10776"><a class="upvote" href="javascript:vote(10776, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://principles.design/" rel="nofollow" id="tr18"><h1>Design Principles - 디자인 원칙과 방법에 대한 오픈소스 컬렉션</h1></a> <span class="topicurl">(principles.design)</span></div><div class="topicdesc"><a href="topic?id=10776" class="c99 breakall">- 회사 또는 개인이 정리한 다양한 디자인 원칙 및 디자인 방법을 보기 쉽게 정리   
 - 195개의 예제, 1448개의 디자인 원칙, 167명의 창작자   
-...</a></div><div class="topicinfo"><span id="tp10776">22</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote10776"></span> | <a href="topic?id=10776" class="u">댓글과 토론</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp10776">23</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote10776"></span> | <a href="topic?id=10776" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보안 연구자를 대상으로 하는 북한의 활발한 캠페인]]></title>
