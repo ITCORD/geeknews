@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-09-10T23:11:47.784Z</updated>
+    <updated>2023-09-11T00:52:43.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[C++을 만든 Bjarne Stroustrup의 인생 조언]]></title>
+        <id>https://news.hada.io/weekly/202337</id>
+        <link href="https://news.hada.io/weekly/202337"/>
+        <updated>2023-09-11T00:52:31.086Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202337" class="u"> C++을 만든 Bjarne Stroustrup의 인생 조언</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LLM 기반의 시스템 & 제품 구축 패턴들]]></title>
         <id>https://news.hada.io/weekly/202336</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202328"/>
         <updated>2023-07-10T01:15:48.899Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202328" class="u"> LLM 어플리케이션을 위한 새로운 아키텍처</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺ - AI가 요약한 최신뉴스 보기]]></title>
-        <id>https://news.hada.io/weekly/202327</id>
-        <link href="https://news.hada.io/weekly/202327"/>
-        <updated>2023-07-03T01:16:58.045Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202327" class="u"> GN⁺ - AI가 요약한 최신뉴스 보기</a>]]></content>
     </entry>
 </feed>
