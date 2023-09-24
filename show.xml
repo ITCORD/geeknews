@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-09-24T11:10:10.599Z</updated>
+    <updated>2023-09-24T12:20:52.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: ERD 및 해설서 자동 생성기 for Prisma ORM]]></title>
+        <id>https://news.hada.io/topic?id=11026</id>
+        <link href="https://news.hada.io/topic?id=11026"/>
+        <updated>2023-09-24T12:20:29.382Z</updated>
+        <content type="html"><![CDATA[samchon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 업무에 집중해야 하는 개발자를 위한 뉴스레터]]></title>
         <id>https://news.hada.io/topic?id=10999</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=10748"/>
         <updated>2023-09-06T14:11:50.242Z</updated>
         <content type="html"><![CDATA[honth]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 클라우드타입 - Kubernetes기반 배포 플랫폼]]></title>
-        <id>https://news.hada.io/topic?id=10479</id>
-        <link href="https://news.hada.io/topic?id=10479"/>
-        <updated>2023-08-22T03:12:46.285Z</updated>
-        <content type="html"><![CDATA[dabda17]]></content>
     </entry>
 </feed>
