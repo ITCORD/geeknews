@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2023-09-29T00:53:24.315Z</updated>
+    <updated>2023-09-29T01:48:16.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=11102</id>
+        <link href="https://news.hada.io/topic?id=11102"/>
+        <updated>2023-09-29T01:47:55.063Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 국내 isp가  r2.cloudflarestorage.com를 막아버린건가요?]]></title>
         <id>https://news.hada.io/topic?id=11000</id>
@@ -136,13 +143,6 @@
         <id>https://news.hada.io/topic?id=9665</id>
         <link href="https://news.hada.io/topic?id=9665"/>
         <updated>2023-09-26T02:19:30.128Z</updated>
-        <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2023년 8월)]]></title>
-        <id>https://news.hada.io/topic?id=10137</id>
-        <link href="https://news.hada.io/topic?id=10137"/>
-        <updated>2023-08-02T01:58:41.762Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
 </feed>
