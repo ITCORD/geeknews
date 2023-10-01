@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2023-10-01T02:29:40.284Z</updated>
+    <updated>2023-10-01T03:13:23.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,24 +11,24 @@
         <link href="https://github.com/ArchGPT/insomnium"/>
         <updated>2023-10-01T01:59:31.173Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11130"><a class="upvote" href="javascript:vote(11130, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ArchGPT/insomnium" rel="nofollow" id="tr1"><h1>Insomnium - 로컬 API 테스팅 도구</h1></a> <span class="topicurl">(github.com/ArchGPT)</span></div><div class="topicdesc"><a href="topic?id=11130" class="c99 breakall">- GraphQL/REST/WebSocket/SSE/gRPC를 지원하는 크로스 플랫폼 API 클라이언트   
-- Kong의 Insomnia 오픈소스를 계정 로그인이 의무화 되기 전 ...</a></div><div class="topicinfo"><span id="tp11130">2</span> points by <a href="/user?id=xguru">xguru</a> 57분전<span id="unvote11130"></span> | <a href="topic?id=11130" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Azure가 2025년 9월에 MariaDB 지원을 중단 예정, 그 전까지 MySQL로 마이그레이션 권고]]></title>
-        <id>https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/</id>
-        <link href="https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/"/>
-        <updated>2023-10-01T01:59:31.176Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote11123"><a class="upvote" href="javascript:vote(11123, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/" rel="nofollow" id="tr2"><h1>GN⁺: Azure가 2025년 9월에 MariaDB 지원을 중단 예정, 그 전까지 MySQL로 마이그레이션 권고</h1></a> <span class="topicurl">(azure.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=11123" class="c99 breakall">- 2025년 9월 19일에 Azure Database for MariaDB 서비스 종료 예정  
-- 사용자들은 서비스 종료일까지 Azure Database for MySQL Flexible Serve...</a></div><div class="topicinfo"><span id="tp11123">2</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote11123"></span> | <a href="topic?id=11123" class="u">댓글 1개</a></div>]]></content>
+- Kong의 Insomnia 오픈소스를 계정 로그인이 의무화 되기 전 ...</a></div><div class="topicinfo"><span id="tp11130">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote11130"></span> | <a href="topic?id=11130" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yazi - 매우 빠른 터미널 파일 관리자]]></title>
         <id>https://github.com/sxyazi/yazi</id>
         <link href="https://github.com/sxyazi/yazi"/>
         <updated>2023-09-30T01:44:01.408Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote11113"><a class="upvote" href="javascript:vote(11113, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sxyazi/yazi" rel="nofollow" id="tr3"><h1>Yazi - 매우 빠른 터미널 파일 관리자</h1></a> <span class="topicurl">(github.com/sxyazi)</span></div><div class="topicdesc"><a href="topic?id=11113" class="c99 breakall">- 넌블럭킹 Async I/O 기반으로 Rust로 개발  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote11113"><a class="upvote" href="javascript:vote(11113, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sxyazi/yazi" rel="nofollow" id="tr2"><h1>Yazi - 매우 빠른 터미널 파일 관리자</h1></a> <span class="topicurl">(github.com/sxyazi)</span></div><div class="topicdesc"><a href="topic?id=11113" class="c99 breakall">- 넌블럭킹 Async I/O 기반으로 Rust로 개발  
 - 효율적이고 사용자 친화적이며 사용자 정의 가능한 파일 관리자  
 - Tokio + Pre-Caching + Dis...</a></div><div class="topicinfo"><span id="tp11113">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote11113"></span> | <a href="topic?id=11113" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Azure가 2025년 9월에 MariaDB 지원을 중단 예정, 그 전까지 MySQL로 마이그레이션 권고]]></title>
+        <id>https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/</id>
+        <link href="https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/"/>
+        <updated>2023-10-01T01:59:31.176Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote11123"><a class="upvote" href="javascript:vote(11123, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/" rel="nofollow" id="tr3"><h1>GN⁺: Azure가 2025년 9월에 MariaDB 지원을 중단 예정, 그 전까지 MySQL로 마이그레이션 권고</h1></a> <span class="topicurl">(azure.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=11123" class="c99 breakall">- 2025년 9월 19일에 Azure Database for MariaDB 서비스 종료 예정  
+- 사용자들은 서비스 종료일까지 Azure Database for MySQL Flexible Serve...</a></div><div class="topicinfo"><span id="tp11123">2</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote11123"></span> | <a href="topic?id=11123" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dataherald - 자연어-to-SQL 엔진]]></title>
