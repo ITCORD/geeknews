@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-10-01T20:12:39.045Z</updated>
+    <updated>2023-10-01T21:10:49.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=11130"/>
         <updated>2023-10-01T01:59:15.937Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11130"><a class="upvote" href="javascript:vote(11130, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ArchGPT/insomnium" rel="nofollow" id="tr1"><h1>Insomnium - 로컬 API 테스팅 도구</h1></a> <span class="topicurl">(github.com/ArchGPT)</span></div><div class="topicdesc"><a href="topic?id=11130" class="c99 breakall">- GraphQL/REST/WebSocket/SSE/gRPC를 지원하는 크로스 플랫폼 API 클라이언트   
-- Kong의 Insomnia 오픈소스를 계정 로그인이 의무화 되기 전 ...</a></div><div class="topicinfo"><span id="tp11130">7</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote11130"></span> | <a href="topic?id=11130" class="u">댓글 1개</a></div>]]></content>
+- Kong의 Insomnia 오픈소스를 계정 로그인이 의무화 되기 전 ...</a></div><div class="topicinfo"><span id="tp11130">7</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote11130"></span> | <a href="topic?id=11130" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yazi - 매우 빠른 터미널 파일 관리자]]></title>
@@ -51,21 +51,21 @@
 - 다수 파일 및...</a></div><div class="topicinfo"><span id="tp11093">19</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote11093"></span> | <a href="topic?id=11093" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Azure가 2025년 9월에 MariaDB 지원을 중단 예정, 그 전까지 MySQL로 마이그레이션 권고]]></title>
-        <id>https://news.hada.io/topic?id=11123</id>
-        <link href="https://news.hada.io/topic?id=11123"/>
-        <updated>2023-10-01T01:59:15.946Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11123"><a class="upvote" href="javascript:vote(11123, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/" rel="nofollow" id="tr6"><h1>GN⁺: Azure가 2025년 9월에 MariaDB 지원을 중단 예정, 그 전까지 MySQL로 마이그레이션 권고</h1></a> <span class="topicurl">(azure.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=11123" class="c99 breakall">- 2025년 9월 19일에 Azure Database for MariaDB 서비스 종료 예정  
-- 사용자들은 서비스 종료일까지 Azure Database for MySQL Flexible Serve...</a></div><div class="topicinfo"><span id="tp11123">2</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote11123"></span> | <a href="topic?id=11123" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LotusDB - Go로 작성된 초고속 키-밸류 스토어]]></title>
         <id>https://news.hada.io/topic?id=11118</id>
         <link href="https://news.hada.io/topic?id=11118"/>
         <updated>2023-09-30T01:43:45.088Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11118"><a class="upvote" href="javascript:vote(11118, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/lotusdblabs/lotusdb" rel="nofollow" id="tr7"><h1>LotusDB - Go로 작성된 초고속 키-밸류 스토어</h1></a> <span class="topicurl">(github.com/lotusdblabs)</span></div><div class="topicdesc"><a href="topic?id=11118" class="c99 breakall">- LSM(log-structured merge) 트리 및 B+ 트리의 장점을 결합하고 호환  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11118"><a class="upvote" href="javascript:vote(11118, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/lotusdblabs/lotusdb" rel="nofollow" id="tr6"><h1>LotusDB - Go로 작성된 초고속 키-밸류 스토어</h1></a> <span class="topicurl">(github.com/lotusdblabs)</span></div><div class="topicdesc"><a href="topic?id=11118" class="c99 breakall">- LSM(log-structured merge) 트리 및 B+ 트리의 장점을 결합하고 호환  
 - 빠른 읽기/쓰기 성능   
 - 일반 LSM 보다 훨씬 낮은 읽기 및 공간 증...</a></div><div class="topicinfo"><span id="tp11118">5</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11118"></span> | <a href="topic?id=11118" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Azure가 2025년 9월에 MariaDB 지원을 중단 예정, 그 전까지 MySQL로 마이그레이션 권고]]></title>
+        <id>https://news.hada.io/topic?id=11123</id>
+        <link href="https://news.hada.io/topic?id=11123"/>
+        <updated>2023-10-01T01:59:15.946Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11123"><a class="upvote" href="javascript:vote(11123, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/" rel="nofollow" id="tr7"><h1>GN⁺: Azure가 2025년 9월에 MariaDB 지원을 중단 예정, 그 전까지 MySQL로 마이그레이션 권고</h1></a> <span class="topicurl">(azure.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=11123" class="c99 breakall">- 2025년 9월 19일에 Azure Database for MariaDB 서비스 종료 예정  
+- 사용자들은 서비스 종료일까지 Azure Database for MySQL Flexible Serve...</a></div><div class="topicinfo"><span id="tp11123">2</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote11123"></span> | <a href="topic?id=11123" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kopia - 빠르고 안전한 오픈소스 백업 소프트웨어]]></title>
