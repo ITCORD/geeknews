@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-10-12T03:13:09.078Z</updated>
+    <updated>2023-10-12T04:15:24.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-10-12T02:17:48.953Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11303"><a class="upvote" href="javascript:vote(11303, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/jenniferphn_20-books-every-creator-should-read-activity-7113500181051895808-dBCA" rel="nofollow" id="tr1"><h1>크리에이터들이 꼭 읽어야 할 추천 도서들</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=11303" class="c99 breakall">- 훔쳐라, 아티스트처럼(Steal like an Artist) Austin Kleon  
 - 슈퍼팬: 비즈니스를 성장시키는 이 시대의 가장 큰손(Superfans) Pat Flynn  
-...</a></div><div class="topicinfo"><span id="tp11303">8</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote11303"></span> | <a href="topic?id=11303" class="u">댓글 2개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp11303">10</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote11303"></span> | <a href="topic?id=11303" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shortbread - AI를 이용해 만화 만들기]]></title>
@@ -21,7 +21,7 @@
         <updated>2023-10-12T01:44:36.444Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote11301"><a class="upvote" href="javascript:vote(11301, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shortbread.ai/" rel="nofollow" id="tr2"><h1>Shortbread - AI를 이용해 만화 만들기</h1></a> <span class="topicurl">(shortbread.ai)</span></div><div class="topicdesc"><a href="topic?id=11301" class="c99 breakall">- 누구나 만화를 만들수 있게 도와주는 도구   
 - 온보딩 프로세스를 통해 60%를 만든 후에, 에디터를 통해 자신만의 만화로 만들기   
-- GPT 3....</a></div><div class="topicinfo"><span id="tp11301">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote11301"></span> | <a href="topic?id=11301" class="u">댓글과 토론</a></div>]]></content>
+- GPT 3....</a></div><div class="topicinfo"><span id="tp11301">6</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote11301"></span> | <a href="topic?id=11301" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fury - 엄청 빠른 멀티 랭귀지 직렬화(Serialization) 프레임워크]]></title>
@@ -30,31 +30,39 @@
         <updated>2023-10-12T01:44:36.444Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote11300"><a class="upvote" href="javascript:vote(11300, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alipay/fury" rel="nofollow" id="tr3"><h1>fury - 엄청 빠른 멀티 랭귀지 직렬화(Serialization) 프레임워크</h1></a> <span class="topicurl">(github.com/alipay)</span></div><div class="topicdesc"><a href="topic?id=11300" class="c99 breakall">- JIT 과 Zero-Copy 기반으로 빠른 속도 및 쉬운 사용법을 제공   
 - Java/Python/C++/Golang/Javascript 지원   
-  - Java의 JDK/Kryo/Hessian ...</a></div><div class="topicinfo"><span id="tp11300">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote11300"></span> | <a href="topic?id=11300" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pg_bm25 - Postgres에서 Elastic 수준의 품질을 제공하는 Full-Text 검색 확장]]></title>
-        <id>https://docs.paradedb.com/blog/introducing_bm25</id>
-        <link href="https://docs.paradedb.com/blog/introducing_bm25"/>
-        <updated>2023-10-11T02:19:04.270Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote11287"><a class="upvote" href="javascript:vote(11287, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.paradedb.com/blog/introducing_bm25" rel="nofollow" id="tr4"><h1>pg_bm25 - Postgres에서 Elastic 수준의 품질을 제공하는 Full-Text 검색 확장</h1></a> <span class="topicurl">(docs.paradedb.com)</span></div><div class="topicdesc"><a href="topic?id=11287" class="c99 breakall">- Rust 기반의 Postgres 확장으로 Full Text 검색을 향상시켜줌   
-- 최신 검색 엔진들이 이용하는 BM25 알고리듬(검색 결과의 관련성 점수를 계...</a></div><div class="topicinfo"><span id="tp11287">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote11287"></span> | <a href="topic?id=11287" class="u">댓글 1개</a></div>]]></content>
+  - Java의 JDK/Kryo/Hessian ...</a></div><div class="topicinfo"><span id="tp11300">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote11300"></span> | <a href="topic?id=11300" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Replit AI, 모든 사용자에게 무료로 공개]]></title>
         <id>https://blog.replit.com/ai4all</id>
         <link href="https://blog.replit.com/ai4all"/>
         <updated>2023-10-12T01:44:36.444Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11298"><a class="upvote" href="javascript:vote(11298, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.replit.com/ai4all" rel="nofollow" id="tr5"><h1>Replit AI, 모든 사용자에게 무료로 공개</h1></a> <span class="topicurl">(blog.replit.com)</span></div><div class="topicdesc"><a href="topic?id=11298" class="c99 breakall">- 기존에 사용하던 Ghostwriter 이름대신 Replit AI로 변경   
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote11298"><a class="upvote" href="javascript:vote(11298, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.replit.com/ai4all" rel="nofollow" id="tr4"><h1>Replit AI, 모든 사용자에게 무료로 공개</h1></a> <span class="topicurl">(blog.replit.com)</span></div><div class="topicdesc"><a href="topic?id=11298" class="c99 breakall">- 기존에 사용하던 Ghostwriter 이름대신 Replit AI로 변경   
 - 코드 자동완성 및 코드 어시스턴트 기능을 무료 플랜에도 제공   
-- Pro 사용자...</a></div><div class="topicinfo"><span id="tp11298">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote11298"></span> | <a href="topic?id=11298" class="u">댓글 2개</a></div>]]></content>
+- Pro 사용자...</a></div><div class="topicinfo"><span id="tp11298">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote11298"></span> | <a href="topic?id=11298" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bindiff - 구글이 만든 바이너리 파일을 위한 Diff 도구]]></title>
+        <id>https://github.com/google/bindiff</id>
+        <link href="https://github.com/google/bindiff"/>
+        <updated>2023-10-12T02:17:48.973Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11304"><a class="upvote" href="javascript:vote(11304, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/google/bindiff" rel="nofollow" id="tr5"><h1>bindiff - 구글이 만든 바이너리 파일을 위한 Diff 도구</h1></a> <span class="topicurl">(github.com/google)</span></div><div class="topicdesc"><a href="topic?id=11304" class="c99 breakall">- 디스어셈블된 코드 기반으로 차이점 및 유사점을 쉽게 찾을 수 있게 도와줌   
+- 연구자들의 업체 제공 패치의 취약점을 식별하고 격리하는 데 ...</a></div><div class="topicinfo"><span id="tp11304">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote11304"></span> | <a href="topic?id=11304" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pg_bm25 - Postgres에서 Elastic 수준의 품질을 제공하는 Full-Text 검색 확장]]></title>
+        <id>https://docs.paradedb.com/blog/introducing_bm25</id>
+        <link href="https://docs.paradedb.com/blog/introducing_bm25"/>
+        <updated>2023-10-11T02:19:04.270Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11287"><a class="upvote" href="javascript:vote(11287, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.paradedb.com/blog/introducing_bm25" rel="nofollow" id="tr6"><h1>pg_bm25 - Postgres에서 Elastic 수준의 품질을 제공하는 Full-Text 검색 확장</h1></a> <span class="topicurl">(docs.paradedb.com)</span></div><div class="topicdesc"><a href="topic?id=11287" class="c99 breakall">- Rust 기반의 Postgres 확장으로 Full Text 검색을 향상시켜줌   
+- 최신 검색 엔진들이 이용하는 BM25 알고리듬(검색 결과의 관련성 점수를 계...</a></div><div class="topicinfo"><span id="tp11287">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote11287"></span> | <a href="topic?id=11287" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Dall-E 3 시스템 프롬프트 유출]]></title>
         <id>https://twitter.com/Suhail/status/1710653717081653712</id>
         <link href="https://twitter.com/Suhail/status/1710653717081653712"/>
         <updated>2023-10-11T01:47:40.284Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11279"><a class="upvote" href="javascript:vote(11279, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/Suhail/status/1710653717081653712" rel="nofollow" id="tr6"><h1>ChatGPT Dall-E 3 시스템 프롬프트 유출</h1></a> <span class="topicurl">(twitter.com/Suhail)</span></div><div class="topicdesc"><a href="topic?id=11279" class="c99 breakall">1. If the description is not in English, then translate it.  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11279"><a class="upvote" href="javascript:vote(11279, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/Suhail/status/1710653717081653712" rel="nofollow" id="tr7"><h1>ChatGPT Dall-E 3 시스템 프롬프트 유출</h1></a> <span class="topicurl">(twitter.com/Suhail)</span></div><div class="topicdesc"><a href="topic?id=11279" class="c99 breakall">1. If the description is not in English, then translate it.  
 2. Do not create more than 4 images, even if the user requests more.  
 3....</a></div><div class="topicinfo"><span id="tp11279">17</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote11279"></span> | <a href="topic?id=11279" class="u">댓글 3개</a></div>]]></content>
     </entry>
@@ -63,7 +71,7 @@
         <id>https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/?hl=en</id>
         <link href="https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/?hl=en"/>
         <updated>2023-10-11T00:52:23.752Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11274"><a class="upvote" href="javascript:vote(11274, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/?hl=en" rel="nofollow" id="tr7"><h1>HTTP/2 신속한 재설정 취약점으로 인해 역대 규모의 DDoS 발생</h1></a> <span class="topicurl">(cloud.google.com)</span></div><div class="topicdesc"><a href="topic?id=11274" class="c99 breakall">- Google은 초당 3억 9800만 개의 요청이 들어오는 역대 규모의 DDoS를 처리함.  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote11274"><a class="upvote" href="javascript:vote(11274, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/?hl=en" rel="nofollow" id="tr8"><h1>HTTP/2 신속한 재설정 취약점으로 인해 역대 규모의 DDoS 발생</h1></a> <span class="topicurl">(cloud.google.com)</span></div><div class="topicdesc"><a href="topic?id=11274" class="c99 breakall">- Google은 초당 3억 9800만 개의 요청이 들어오는 역대 규모의 DDoS를 처리함.  
   - 공격이 있던 2분간 발생한 요청 수는 위키피디아의 1달 트...</a></div><div class="topicinfo"><span id="tp11274">14</span> points by <a href="/user?id=kuroneko">kuroneko</a> 1일전<span id="unvote11274"></span> | <a href="topic?id=11274" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -71,23 +79,15 @@
         <id>https://engineering.ab180.co/stories/thanos-redis</id>
         <link href="https://engineering.ab180.co/stories/thanos-redis"/>
         <updated>2023-10-10T09:12:26.187Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote11270"><a class="upvote" href="javascript:vote(11270, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineering.ab180.co/stories/thanos-redis" rel="nofollow" id="tr8"><h1>Redis 사용량 타노스하기</h1></a> <span class="topicurl">(engineering.ab180.co)</span></div><div class="topicdesc"><a href="topic?id=11270" class="c99 breakall">Redis에 수많은 데이터들이 JSON 형태로 압축 없이 저장되고, Redis 서비스 간 모델 공유가 되지 않아 발생하는 비용을 절감하기 위한 엔지니어링 ...</a></div><div class="topicinfo"><span id="tp11270">25</span> points by <a href="/user?id=hiddenest">hiddenest</a> 2일전<span id="unvote11270"></span> | <a href="topic?id=11270" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote11270"><a class="upvote" href="javascript:vote(11270, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineering.ab180.co/stories/thanos-redis" rel="nofollow" id="tr9"><h1>Redis 사용량 타노스하기</h1></a> <span class="topicurl">(engineering.ab180.co)</span></div><div class="topicdesc"><a href="topic?id=11270" class="c99 breakall">Redis에 수많은 데이터들이 JSON 형태로 압축 없이 저장되고, Redis 서비스 간 모델 공유가 되지 않아 발생하는 비용을 절감하기 위한 엔지니어링 ...</a></div><div class="topicinfo"><span id="tp11270">26</span> points by <a href="/user?id=hiddenest">hiddenest</a> 2일전<span id="unvote11270"></span> | <a href="topic?id=11270" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[회사 문화는 지난 50일에서 보여집니다]]></title>
         <id>https://world.hey.com/jason/company-culture-is-the-last-50-days-dab19416</id>
         <link href="https://world.hey.com/jason/company-culture-is-the-last-50-days-dab19416"/>
         <updated>2023-10-10T02:19:20.030Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote11266"><a class="upvote" href="javascript:vote(11266, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://world.hey.com/jason/company-culture-is-the-last-50-days-dab19416" rel="nofollow" id="tr9"><h1>회사 문화는 지난 50일에서 보여집니다</h1></a> <span class="topicurl">(world.hey.com)</span></div><div class="topicdesc"><a href="topic?id=11266" class="c99 breakall">- 회사의 문화는 복잡한 개념이 아니라, 회사 내에서 집단적으로 나타나는 행동과 행위에서 자연스럽게 나타남  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote11266"><a class="upvote" href="javascript:vote(11266, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://world.hey.com/jason/company-culture-is-the-last-50-days-dab19416" rel="nofollow" id="tr10"><h1>회사 문화는 지난 50일에서 보여집니다</h1></a> <span class="topicurl">(world.hey.com)</span></div><div class="topicdesc"><a href="topic?id=11266" class="c99 breakall">- 회사의 문화는 복잡한 개념이 아니라, 회사 내에서 집단적으로 나타나는 행동과 행위에서 자연스럽게 나타남  
 - 회사의 문화는 50일 이동 평균...</a></div><div class="topicinfo"><span id="tp11266">29</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11266"></span> | <a href="topic?id=11266" class="u">댓글 6개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bindiff - 구글이 만든 바이너리 파일을 위한 Diff 도구]]></title>
-        <id>https://github.com/google/bindiff</id>
-        <link href="https://github.com/google/bindiff"/>
-        <updated>2023-10-12T02:17:48.973Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote11304"><a class="upvote" href="javascript:vote(11304, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/google/bindiff" rel="nofollow" id="tr10"><h1>bindiff - 구글이 만든 바이너리 파일을 위한 Diff 도구</h1></a> <span class="topicurl">(github.com/google)</span></div><div class="topicdesc"><a href="topic?id=11304" class="c99 breakall">- 디스어셈블된 코드 기반으로 차이점 및 유사점을 쉽게 찾을 수 있게 도와줌   
-- 연구자들의 업체 제공 패치의 취약점을 식별하고 격리하는 데 ...</a></div><div class="topicinfo"><span id="tp11304">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote11304"></span> | <a href="topic?id=11304" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DataLens - Yandex가 오픈소스로 공개한 BI 도구]]></title>
