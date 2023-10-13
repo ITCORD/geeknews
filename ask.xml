@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2023-10-12T23:12:55.729Z</updated>
+    <updated>2023-10-13T00:54:27.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=11308</id>
+        <link href="https://news.hada.io/topic?id=11308"/>
+        <updated>2023-10-13T00:54:08.779Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=11200</id>
@@ -13,18 +20,18 @@
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 슬랙 GeekNews 봇에서 GN+ 를 제외하는 방법이 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=11208</id>
-        <link href="https://news.hada.io/topic?id=11208"/>
-        <updated>2023-10-06T07:11:26.500Z</updated>
-        <content type="html"><![CDATA[charo]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 국내 isp가  r2.cloudflarestorage.com를 막아버린건가요?]]></title>
         <id>https://news.hada.io/topic?id=11000</id>
         <link href="https://news.hada.io/topic?id=11000"/>
         <updated>2023-09-22T14:11:58.996Z</updated>
         <content type="html"><![CDATA[cyflux]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 슬랙 GeekNews 봇에서 GN+ 를 제외하는 방법이 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=11208</id>
+        <link href="https://news.hada.io/topic?id=11208"/>
+        <updated>2023-10-06T07:11:26.500Z</updated>
+        <content type="html"><![CDATA[charo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2023년 10월)]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=10274"/>
         <updated>2023-08-10T02:32:41.030Z</updated>
         <content type="html"><![CDATA[cosine20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 에러 해결 관리 어떻게 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=10143</id>
-        <link href="https://news.hada.io/topic?id=10143"/>
-        <updated>2023-08-02T02:35:30.694Z</updated>
-        <content type="html"><![CDATA[nin1212]]></content>
     </entry>
 </feed>
