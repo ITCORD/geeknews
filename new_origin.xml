@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2023-10-28T16:15:02.736Z</updated>
+    <updated>2023-10-28T17:10:24.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-10-28T08:13:59.580Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11568"><a class="upvote" href="javascript:vote(11568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://insight.infograb.net/blog/2023/01/25/terraform-basic" rel="nofollow" id="tr1"><h1>Terraform 개념 잡기</h1></a> <span class="topicurl">(insight.infograb.net)</span></div><div class="topicdesc"><a href="topic?id=11568" class="c99 breakall">- 이제는 AWS 콘솔에서 클릭 몇 번으로 서버 배포, 명령어 한 줄로 다양한 인프라 구축하는 시대  
 - IaC  
-    - 코드로 인프라 관리하고 프로...</a></div><div class="topicinfo"><span id="tp11568">3</span> points by <a href="/user?id=ironlung">ironlung</a> 8시간전<span id="unvote11568"></span> | <a href="topic?id=11568" class="u">댓글과 토론</a></div>]]></content>
+    - 코드로 인프라 관리하고 프로...</a></div><div class="topicinfo"><span id="tp11568">3</span> points by <a href="/user?id=ironlung">ironlung</a> 9시간전<span id="unvote11568"></span> | <a href="topic?id=11568" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pypipe - 데이터 파이프라인 처리를 위한 파이썬 CLI 도구]]></title>
@@ -21,7 +21,7 @@
         <updated>2023-10-28T01:43:30.936Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote11555"><a class="upvote" href="javascript:vote(11555, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bugen/pypipe" rel="nofollow" id="tr2"><h1>Pypipe - 데이터 파이프라인 처리를 위한 파이썬 CLI 도구</h1></a> <span class="topicurl">(github.com/bugen)</span></div><div class="topicdesc"><a href="topic?id=11555" class="c99 breakall">- `ppp line`   
   - `$ cat staff.txt |ppp 'i, line.upper()'`  
-  - 라인당 처리. 각 라인번호는 i, 라인 전체 스트링은 line/l 로 받아서 처...</a></div><div class="topicinfo"><span id="tp11555">5</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote11555"></span> | <a href="topic?id=11555" class="u">댓글과 토론</a></div>]]></content>
+  - 라인당 처리. 각 라인번호는 i, 라인 전체 스트링은 line/l 로 받아서 처...</a></div><div class="topicinfo"><span id="tp11555">5</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote11555"></span> | <a href="topic?id=11555" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oh-auth - OAuth를 악용하여 수백만 개의 계정 탈취]]></title>
@@ -31,20 +31,11 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote11551"><a class="upvote" href="javascript:vote(11551, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts" rel="nofollow" id="tr3"><h1>Oh-auth - OAuth를 악용하여 수백만 개의 계정 탈취</h1></a> <span class="topicurl">(salt.security)</span></div><div class="topicdesc"><a href="topic?id=11551" class="c99 breakall">- Salt Labs는 OAuth 구현의 취약점을 통해 수억 명이 사용하는 초대형 서비스인 Booking.com, Grammarly, Vidio, Bukalapak과 모바일 프레임워크...</a></div><div class="topicinfo"><span id="tp11551">13</span> points by <a href="/user?id=kuroneko">kuroneko</a> 2일전<span id="unvote11551"></span> | <a href="topic?id=11551" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[nghttp3 - C로 작성된 HTTP/3 라이브러리]]></title>
-        <id>https://github.com/ngtcp2/nghttp3</id>
-        <link href="https://github.com/ngtcp2/nghttp3"/>
-        <updated>2023-10-28T01:43:30.923Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote11564"><a class="upvote" href="javascript:vote(11564, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ngtcp2/nghttp3" rel="nofollow" id="tr4"><h1>nghttp3 - C로 작성된 HTTP/3 라이브러리</h1></a> <span class="topicurl">(github.com/ngtcp2)</span></div><div class="topicdesc"><a href="topic?id=11564" class="c99 breakall">- RFC 9114 "HTTP/3 mapping over QUIC" 과 RFC 9204 "QPACK in C" 의 구현체   
-- 다른 QUIC 트랜스포트 구현체 의존성 없음   
-- 서버 푸시는 ...</a></div><div class="topicinfo"><span id="tp11564">3</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote11564"></span> | <a href="topic?id=11564" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[백엔드 엔지니어의 더하기에서 곱하기로 가는 여정]]></title>
         <id>https://blog.lemonbase.team/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%EB%8D%94%ED%95%98%EA%B8%B0%EC%97%90%EC%84%9C-%EA%B3%B1%ED%95%98%EA%B8%B0%EB%A1%9C-%EA%B0%80%EB%8A%94-%EC%97%AC%EC%A0%95-ac01ea36bb5c</id>
         <link href="https://blog.lemonbase.team/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%EB%8D%94%ED%95%98%EA%B8%B0%EC%97%90%EC%84%9C-%EA%B3%B1%ED%95%98%EA%B8%B0%EB%A1%9C-%EA%B0%80%EB%8A%94-%EC%97%AC%EC%A0%95-ac01ea36bb5c"/>
         <updated>2023-10-27T02:18:43.053Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11552"><a class="upvote" href="javascript:vote(11552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lemonbase.team/레몬베이스-엔지니어의-더하기에서-곱하기로-가는-여정-ac01ea36bb5c" rel="nofollow" id="tr5"><h1>백엔드 엔지니어의 더하기에서 곱하기로 가는 여정</h1></a> <span class="topicurl">(blog.lemonbase.team)</span></div><div class="topicdesc"><a href="topic?id=11552" class="c99 breakall"># 소프트웨어 엔지니어가 성장하는 과정에서 겪은 시행착오와 배움들을 공유한 글  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote11552"><a class="upvote" href="javascript:vote(11552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lemonbase.team/레몬베이스-엔지니어의-더하기에서-곱하기로-가는-여정-ac01ea36bb5c" rel="nofollow" id="tr4"><h1>백엔드 엔지니어의 더하기에서 곱하기로 가는 여정</h1></a> <span class="topicurl">(blog.lemonbase.team)</span></div><div class="topicdesc"><a href="topic?id=11552" class="c99 breakall"># 소프트웨어 엔지니어가 성장하는 과정에서 겪은 시행착오와 배움들을 공유한 글  
   
 1. 개인의 생산성과 성장에 대한 고민  
    - 기술 및 ...</a></div><div class="topicinfo"><span id="tp11552">11</span> points by <a href="/user?id=studroid">studroid</a> 2일전<span id="unvote11552"></span> | <a href="topic?id=11552" class="u">댓글과 토론</a></div>]]></content>
@@ -54,8 +45,17 @@
         <id>https://neal.fun/internet-artifacts/</id>
         <link href="https://neal.fun/internet-artifacts/"/>
         <updated>2023-10-26T01:45:03.609Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11526"><a class="upvote" href="javascript:vote(11526, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neal.fun/internet-artifacts/" rel="nofollow" id="tr6"><h1>인터넷 유물 박물관</h1></a> <span class="topicurl">(neal.fun)</span></div><div class="topicdesc"><a href="topic?id=11526" class="c99 breakall">- 1977년 ARPANET부터 시작된 인터넷의 역사를 다양한 유물(스크린 샷, 터미널, 웹 페이지 등)을 통해 알려주는 웹 박물관.  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11526"><a class="upvote" href="javascript:vote(11526, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neal.fun/internet-artifacts/" rel="nofollow" id="tr5"><h1>인터넷 유물 박물관</h1></a> <span class="topicurl">(neal.fun)</span></div><div class="topicdesc"><a href="topic?id=11526" class="c99 breakall">- 1977년 ARPANET부터 시작된 인터넷의 역사를 다양한 유물(스크린 샷, 터미널, 웹 페이지 등)을 통해 알려주는 웹 박물관.  
 - 대부분의 유물은 ...</a></div><div class="topicinfo"><span id="tp11526">23</span> points by <a href="/user?id=kuroneko">kuroneko</a> 3일전<span id="unvote11526"></span> | <a href="topic?id=11526" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nghttp3 - C로 작성된 HTTP/3 라이브러리]]></title>
+        <id>https://github.com/ngtcp2/nghttp3</id>
+        <link href="https://github.com/ngtcp2/nghttp3"/>
+        <updated>2023-10-28T01:43:30.923Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11564"><a class="upvote" href="javascript:vote(11564, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ngtcp2/nghttp3" rel="nofollow" id="tr6"><h1>nghttp3 - C로 작성된 HTTP/3 라이브러리</h1></a> <span class="topicurl">(github.com/ngtcp2)</span></div><div class="topicdesc"><a href="topic?id=11564" class="c99 breakall">- RFC 9114 "HTTP/3 mapping over QUIC" 과 RFC 9204 "QPACK in C" 의 구현체   
+- 다른 QUIC 트랜스포트 구현체 의존성 없음   
+- 서버 푸시는 ...</a></div><div class="topicinfo"><span id="tp11564">3</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote11564"></span> | <a href="topic?id=11564" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언젠가 써먹는 심리효과 101]]></title>
@@ -78,7 +78,7 @@
         <link href="https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art"/>
         <updated>2023-10-28T01:43:30.924Z</updated>
         <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote11557"><a class="upvote" href="javascript:vote(11557, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art" rel="nofollow" id="tr9"><h1>유튜브 뮤직, 플레이리스트 커버를 AI로 생성 가능</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=11557" class="c99 breakall">- 유튜브가 드디어 자신의 플레이리스트 커버를 변경하는 기능을 추가   
-- 커버 변경시 자신의 이미지를 업로드 해도 되지만, 우하단의 펜 아이...</a></div><div class="topicinfo"><span id="tp11557">2</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote11557"></span> | <a href="topic?id=11557" class="u">댓글과 토론</a></div>]]></content>
+- 커버 변경시 자신의 이미지를 업로드 해도 되지만, 우하단의 펜 아이...</a></div><div class="topicinfo"><span id="tp11557">2</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote11557"></span> | <a href="topic?id=11557" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불확실한 상황의 의사 결정 원칙(feat. 안티프래질)]]></title>
@@ -129,41 +129,41 @@
 - Dropbox, OneDri...</a></div><div class="topicinfo"><span id="tp11485">30</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote11485"></span> | <a href="topic?id=11485" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: 0xide의 Cloud Computer, 일반 출시(GA)]]></title>
-        <id>https://oxide.computer/blog/the-cloud-computer</id>
-        <link href="https://oxide.computer/blog/the-cloud-computer"/>
-        <updated>2023-10-27T02:18:43.051Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote11540"><a class="upvote" href="javascript:vote(11540, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://oxide.computer/blog/the-cloud-computer" rel="nofollow" id="tr16"><h1>GN⁺: 0xide의 Cloud Computer, 일반 출시(GA)</h1></a> <span class="topicurl">(oxide.computer)</span></div><div class="topicdesc"><a href="topic?id=11540" class="c99 breakall">- Oxide, 세계 최초의 상업용 클라우드 컴퓨터 일반 공개  
-- HW + SW + FW 를 밑바닥부터 설계한 서버랙  
-- 랙에 모든 것이 설치된 채 하나의 ...</a></div><div class="topicinfo"><span id="tp11540">5</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote11540"></span> | <a href="topic?id=11540" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법]]></title>
         <id>https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/</id>
         <link href="https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/"/>
         <updated>2023-10-24T02:21:24.955Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote11498"><a class="upvote" href="javascript:vote(11498, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/" rel="nofollow" id="tr17"><h1>Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법</h1></a> <span class="topicurl">(uber.com)</span></div><div class="topicdesc"><a href="topic?id=11498" class="c99 breakall">- "Up: Portable Microservices Ready for the Cloud"  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote11498"><a class="upvote" href="javascript:vote(11498, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/" rel="nofollow" id="tr16"><h1>Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법</h1></a> <span class="topicurl">(uber.com)</span></div><div class="topicdesc"><a href="topic?id=11498" class="c99 breakall">- "Up: Portable Microservices Ready for the Cloud"  
 - Uber는 4,500명의 엔지니어와 수많은 자동 시스템이 매주 4,000회 이상 4,500개의 Stat...</a></div><div class="topicinfo"><span id="tp11498">26</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote11498"></span> | <a href="topic?id=11498" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[굿바이 Node.js Buffer. 이제 Unit8Array로 넘어가야 할 때]]></title>
-        <id>https://sindresorhus.com/blog/goodbye-nodejs-buffer</id>
-        <link href="https://sindresorhus.com/blog/goodbye-nodejs-buffer"/>
-        <updated>2023-10-26T00:51:59.014Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote11519"><a class="upvote" href="javascript:vote(11519, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sindresorhus.com/blog/goodbye-nodejs-buffer" rel="nofollow" id="tr18"><h1>굿바이 Node.js Buffer. 이제 Unit8Array로 넘어가야 할 때</h1></a> <span class="topicurl">(sindresorhus.com)</span></div><div class="topicdesc"><a href="topic?id=11519" class="c99 breakall">- Buffer 타입은 Node.js 초기부터 바이너리 데이터 처리의 초석이었음   
-- 하지만 요즘은 Unit8Array가 기본 JavaScript 타입이고, 크로스플랫...</a></div><div class="topicinfo"><span id="tp11519">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote11519"></span> | <a href="topic?id=11519" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: 0xide의 Cloud Computer, 일반 출시(GA)]]></title>
+        <id>https://oxide.computer/blog/the-cloud-computer</id>
+        <link href="https://oxide.computer/blog/the-cloud-computer"/>
+        <updated>2023-10-27T02:18:43.051Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote11540"><a class="upvote" href="javascript:vote(11540, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://oxide.computer/blog/the-cloud-computer" rel="nofollow" id="tr17"><h1>GN⁺: 0xide의 Cloud Computer, 일반 출시(GA)</h1></a> <span class="topicurl">(oxide.computer)</span></div><div class="topicdesc"><a href="topic?id=11540" class="c99 breakall">- Oxide, 세계 최초의 상업용 클라우드 컴퓨터 일반 공개  
+- HW + SW + FW 를 밑바닥부터 설계한 서버랙  
+- 랙에 모든 것이 설치된 채 하나의 ...</a></div><div class="topicinfo"><span id="tp11540">5</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote11540"></span> | <a href="topic?id=11540" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)]]></title>
         <id>https://slashpage.com/haebom/llm-model-test</id>
         <link href="https://slashpage.com/haebom/llm-model-test"/>
         <updated>2023-10-25T07:12:20.865Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote11517"><a class="upvote" href="javascript:vote(11517, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slashpage.com/haebom/llm-model-test" rel="nofollow" id="tr19"><h1>LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)</h1></a> <span class="topicurl">(slashpage.com)</span></div><div class="topicdesc"><a href="topic?id=11517" class="c99 breakall">### 테스트한 모델  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote11517"><a class="upvote" href="javascript:vote(11517, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slashpage.com/haebom/llm-model-test" rel="nofollow" id="tr18"><h1>LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)</h1></a> <span class="topicurl">(slashpage.com)</span></div><div class="topicdesc"><a href="topic?id=11517" class="c99 breakall">### 테스트한 모델  
 -   7B 규모 14개 모델  
 -   13B 규모 7개 모델  
 -   20B 규모 4개 모델  
 -   70B 규모 11개 모델  
 -   GPT-3.5 Tur...</a></div><div class="topicinfo"><span id="tp11517">15</span> points by <a href="/user?id=haebom">haebom</a> 3일전<span id="unvote11517"></span> | <a href="topic?id=11517" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[굿바이 Node.js Buffer. 이제 Unit8Array로 넘어가야 할 때]]></title>
+        <id>https://sindresorhus.com/blog/goodbye-nodejs-buffer</id>
+        <link href="https://sindresorhus.com/blog/goodbye-nodejs-buffer"/>
+        <updated>2023-10-26T00:51:59.014Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote11519"><a class="upvote" href="javascript:vote(11519, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sindresorhus.com/blog/goodbye-nodejs-buffer" rel="nofollow" id="tr19"><h1>굿바이 Node.js Buffer. 이제 Unit8Array로 넘어가야 할 때</h1></a> <span class="topicurl">(sindresorhus.com)</span></div><div class="topicdesc"><a href="topic?id=11519" class="c99 breakall">- Buffer 타입은 Node.js 초기부터 바이너리 데이터 처리의 초석이었음   
+- 하지만 요즘은 Unit8Array가 기본 JavaScript 타입이고, 크로스플랫...</a></div><div class="topicinfo"><span id="tp11519">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote11519"></span> | <a href="topic?id=11519" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 2023 컨퍼런스 후기]]></title>
