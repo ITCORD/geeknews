@@ -2,88 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2023-10-28T00:51:38.429Z</updated>
+    <updated>2023-10-28T01:44:01.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[nghttp3 - C로 작성된 HTTP/3 라이브러리]]></title>
+        <id>https://github.com/ngtcp2/nghttp3</id>
+        <link href="https://github.com/ngtcp2/nghttp3"/>
+        <updated>2023-10-28T01:43:30.923Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11564"><a class="upvote" href="javascript:vote(11564, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ngtcp2/nghttp3" rel="nofollow" id="tr1"><h1>nghttp3 - C로 작성된 HTTP/3 라이브러리</h1></a> <span class="topicurl">(github.com/ngtcp2)</span></div><div class="topicdesc"><a href="topic?id=11564" class="c99 breakall">- RFC 9114 "HTTP/3 mapping over QUIC" 과 RFC 9204 "QPACK in C" 의 구현체   
+- 다른 QUIC 트랜스포트 구현체 의존성 없음   
+- 서버 푸시는 ...</a></div><div class="topicinfo"><span id="tp11564">1</span> point by <a href="/user?id=xguru">xguru</a> 9분전<span id="unvote11564"></span> | <a href="topic?id=11564" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜브 뮤직, 플레이리스트 커버를 AI로 생성 가능]]></title>
+        <id>https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art</id>
+        <link href="https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art"/>
+        <updated>2023-10-28T01:43:30.924Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote11557"><a class="upvote" href="javascript:vote(11557, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art" rel="nofollow" id="tr2"><h1>유튜브 뮤직, 플레이리스트 커버를 AI로 생성 가능</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=11557" class="c99 breakall">- 유튜브가 드디어 자신의 플레이리스트 커버를 변경하는 기능을 추가   
+- 커버 변경시 자신의 이미지를 업로드 해도 되지만, 우하단의 펜 아이...</a></div><div class="topicinfo"><span id="tp11557">1</span> point by <a href="/user?id=xguru">xguru</a> 26분전<span id="unvote11557"></span> | <a href="topic?id=11557" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pypipe - 데이터 파이프라인 처리를 위한 파이썬 CLI 도구]]></title>
+        <id>https://github.com/bugen/pypipe</id>
+        <link href="https://github.com/bugen/pypipe"/>
+        <updated>2023-10-28T01:43:30.936Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote11555"><a class="upvote" href="javascript:vote(11555, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bugen/pypipe" rel="nofollow" id="tr3"><h1>Pypipe - 데이터 파이프라인 처리를 위한 파이썬 CLI 도구</h1></a> <span class="topicurl">(github.com/bugen)</span></div><div class="topicdesc"><a href="topic?id=11555" class="c99 breakall">- `ppp line`   
+  - `$ cat staff.txt |ppp 'i, line.upper()'`  
+  - 라인당 처리. 각 라인번호는 i, 라인 전체 스트링은 line/l 로 받아서 처...</a></div><div class="topicinfo"><span id="tp11555">1</span> point by <a href="/user?id=xguru">xguru</a> 39분전<span id="unvote11555"></span> | <a href="topic?id=11555" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh-auth - OAuth를 악용하여 수백만 개의 계정 탈취]]></title>
         <id>https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts</id>
         <link href="https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts"/>
         <updated>2023-10-27T01:45:39.859Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11551"><a class="upvote" href="javascript:vote(11551, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts" rel="nofollow" id="tr1"><h1>Oh-auth - OAuth를 악용하여 수백만 개의 계정 탈취</h1></a> <span class="topicurl">(salt.security)</span></div><div class="topicdesc"><a href="topic?id=11551" class="c99 breakall">- Salt Labs는 OAuth 구현의 취약점을 통해 수억 명이 사용하는 초대형 서비스인 Booking.com, Grammarly, Vidio, Bukalapak과 모바일 프레임워크...</a></div><div class="topicinfo"><span id="tp11551">11</span> points by <a href="/user?id=kuroneko">kuroneko</a> 23시간전<span id="unvote11551"></span> | <a href="topic?id=11551" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote11551"><a class="upvote" href="javascript:vote(11551, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts" rel="nofollow" id="tr4"><h1>Oh-auth - OAuth를 악용하여 수백만 개의 계정 탈취</h1></a> <span class="topicurl">(salt.security)</span></div><div class="topicdesc"><a href="topic?id=11551" class="c99 breakall">- Salt Labs는 OAuth 구현의 취약점을 통해 수억 명이 사용하는 초대형 서비스인 Booking.com, Grammarly, Vidio, Bukalapak과 모바일 프레임워크...</a></div><div class="topicinfo"><span id="tp11551">11</span> points by <a href="/user?id=kuroneko">kuroneko</a> 1일전<span id="unvote11551"></span> | <a href="topic?id=11551" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백엔드 엔지니어의 더하기에서 곱하기로 가는 여정]]></title>
         <id>https://blog.lemonbase.team/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%EB%8D%94%ED%95%98%EA%B8%B0%EC%97%90%EC%84%9C-%EA%B3%B1%ED%95%98%EA%B8%B0%EB%A1%9C-%EA%B0%80%EB%8A%94-%EC%97%AC%EC%A0%95-ac01ea36bb5c</id>
         <link href="https://blog.lemonbase.team/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%EB%8D%94%ED%95%98%EA%B8%B0%EC%97%90%EC%84%9C-%EA%B3%B1%ED%95%98%EA%B8%B0%EB%A1%9C-%EA%B0%80%EB%8A%94-%EC%97%AC%EC%A0%95-ac01ea36bb5c"/>
         <updated>2023-10-27T02:18:43.053Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote11552"><a class="upvote" href="javascript:vote(11552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lemonbase.team/레몬베이스-엔지니어의-더하기에서-곱하기로-가는-여정-ac01ea36bb5c" rel="nofollow" id="tr2"><h1>백엔드 엔지니어의 더하기에서 곱하기로 가는 여정</h1></a> <span class="topicurl">(blog.lemonbase.team)</span></div><div class="topicdesc"><a href="topic?id=11552" class="c99 breakall"># 소프트웨어 엔지니어가 성장하는 과정에서 겪은 시행착오와 배움들을 공유한 글  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11552"><a class="upvote" href="javascript:vote(11552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lemonbase.team/레몬베이스-엔지니어의-더하기에서-곱하기로-가는-여정-ac01ea36bb5c" rel="nofollow" id="tr5"><h1>백엔드 엔지니어의 더하기에서 곱하기로 가는 여정</h1></a> <span class="topicurl">(blog.lemonbase.team)</span></div><div class="topicdesc"><a href="topic?id=11552" class="c99 breakall"># 소프트웨어 엔지니어가 성장하는 과정에서 겪은 시행착오와 배움들을 공유한 글  
   
 1. 개인의 생산성과 성장에 대한 고민  
-   - 기술 및 ...</a></div><div class="topicinfo"><span id="tp11552">10</span> points by <a href="/user?id=studroid">studroid</a> 23시간전<span id="unvote11552"></span> | <a href="topic?id=11552" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터넷 유물 박물관]]></title>
-        <id>https://neal.fun/internet-artifacts/</id>
-        <link href="https://neal.fun/internet-artifacts/"/>
-        <updated>2023-10-26T01:45:03.609Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote11526"><a class="upvote" href="javascript:vote(11526, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neal.fun/internet-artifacts/" rel="nofollow" id="tr3"><h1>인터넷 유물 박물관</h1></a> <span class="topicurl">(neal.fun)</span></div><div class="topicdesc"><a href="topic?id=11526" class="c99 breakall">- 1977년 ARPANET부터 시작된 인터넷의 역사를 다양한 유물(스크린 샷, 터미널, 웹 페이지 등)을 통해 알려주는 웹 박물관.  
-- 대부분의 유물은 ...</a></div><div class="topicinfo"><span id="tp11526">23</span> points by <a href="/user?id=kuroneko">kuroneko</a> 2일전<span id="unvote11526"></span> | <a href="topic?id=11526" class="u">댓글 1개</a></div>]]></content>
+   - 기술 및 ...</a></div><div class="topicinfo"><span id="tp11552">10</span> points by <a href="/user?id=studroid">studroid</a> 24시간전<span id="unvote11552"></span> | <a href="topic?id=11552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Jina AI, 세계 최초 오픈소스 8K 텍스트 임베딩 모델 공개]]></title>
         <id>https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/</id>
         <link href="https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/"/>
         <updated>2023-10-27T02:18:43.048Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote11544"><a class="upvote" href="javascript:vote(11544, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/" rel="nofollow" id="tr4"><h1>GN⁺: Jina AI, 세계 최초 오픈소스 8K 텍스트 임베딩 모델 공개</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=11544" class="c99 breakall">- 8192개의 토큰 길이를 지원하는 텍스트 임베딩 모델 jina-embeddings-v2   
-- OpenAI의 text-embedding-ada-002와 경쟁하며, 벤치마크에서 분류...</a></div><div class="topicinfo"><span id="tp11544">8</span> points by <a href="/user?id=neo">neo</a> 24시간전<span id="unvote11544"></span> | <a href="topic?id=11544" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11544"><a class="upvote" href="javascript:vote(11544, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/" rel="nofollow" id="tr6"><h1>GN⁺: Jina AI, 세계 최초 오픈소스 8K 텍스트 임베딩 모델 공개</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=11544" class="c99 breakall">- 8192개의 토큰 길이를 지원하는 텍스트 임베딩 모델 jina-embeddings-v2   
+- OpenAI의 text-embedding-ada-002와 경쟁하며, 벤치마크에서 분류...</a></div><div class="topicinfo"><span id="tp11544">9</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote11544"></span> | <a href="topic?id=11544" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인터넷 유물 박물관]]></title>
+        <id>https://neal.fun/internet-artifacts/</id>
+        <link href="https://neal.fun/internet-artifacts/"/>
+        <updated>2023-10-26T01:45:03.609Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11526"><a class="upvote" href="javascript:vote(11526, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neal.fun/internet-artifacts/" rel="nofollow" id="tr7"><h1>인터넷 유물 박물관</h1></a> <span class="topicurl">(neal.fun)</span></div><div class="topicdesc"><a href="topic?id=11526" class="c99 breakall">- 1977년 ARPANET부터 시작된 인터넷의 역사를 다양한 유물(스크린 샷, 터미널, 웹 페이지 등)을 통해 알려주는 웹 박물관.  
+- 대부분의 유물은 ...</a></div><div class="topicinfo"><span id="tp11526">23</span> points by <a href="/user?id=kuroneko">kuroneko</a> 2일전<span id="unvote11526"></span> | <a href="topic?id=11526" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언젠가 써먹는 심리효과 101]]></title>
         <id>https://slashpage.com/haebom/psychology101</id>
         <link href="https://slashpage.com/haebom/psychology101"/>
         <updated>2023-10-23T16:15:58.155Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11481"><a class="upvote" href="javascript:vote(11481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slashpage.com/haebom/psychology101" rel="nofollow" id="tr5"><h1>언젠가 써먹는 심리효과 101</h1></a> <span class="topicurl">(slashpage.com)</span></div><div class="topicdesc"><a href="topic?id=11481" class="c99 breakall">일상생활부터 마케팅, 디자인, 인사관리까지 써먹는 심리학 법칙/효과/이론을 모아져 있는 페이지 입니다. 크게 4가지 분류(행동 및 경험, 기억 및...</a></div><div class="topicinfo"><span id="tp11481">64</span> points by <a href="/user?id=haebom">haebom</a> 4일전<span id="unvote11481"></span> | <a href="topic?id=11481" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote11481"><a class="upvote" href="javascript:vote(11481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slashpage.com/haebom/psychology101" rel="nofollow" id="tr8"><h1>언젠가 써먹는 심리효과 101</h1></a> <span class="topicurl">(slashpage.com)</span></div><div class="topicdesc"><a href="topic?id=11481" class="c99 breakall">일상생활부터 마케팅, 디자인, 인사관리까지 써먹는 심리학 법칙/효과/이론을 모아져 있는 페이지 입니다. 크게 4가지 분류(행동 및 경험, 기억 및...</a></div><div class="topicinfo"><span id="tp11481">64</span> points by <a href="/user?id=haebom">haebom</a> 4일전<span id="unvote11481"></span> | <a href="topic?id=11481" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flawless - Rust용 Durable한 계산을 위한 실행 엔진]]></title>
         <id>https://flawless.dev/</id>
         <link href="https://flawless.dev/"/>
         <updated>2023-10-27T01:45:39.859Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11550"><a class="upvote" href="javascript:vote(11550, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://flawless.dev/" rel="nofollow" id="tr6"><h1>Flawless - Rust용 Durable한 계산을 위한 실행 엔진</h1></a> <span class="topicurl">(flawless.dev)</span></div><div class="topicdesc"><a href="topic?id=11550" class="c99 breakall">- 하드웨어 또는 소프트웨어 장애가 발생하더라도 코드가 완료될 때까지 실행하게 만들어주는 엔진   
-- 코드와 로컬 변수만으로 Persistent Stat...</a></div><div class="topicinfo"><span id="tp11550">6</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote11550"></span> | <a href="topic?id=11550" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote11550"><a class="upvote" href="javascript:vote(11550, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://flawless.dev/" rel="nofollow" id="tr9"><h1>Flawless - Rust용 Durable한 계산을 위한 실행 엔진</h1></a> <span class="topicurl">(flawless.dev)</span></div><div class="topicdesc"><a href="topic?id=11550" class="c99 breakall">- 하드웨어 또는 소프트웨어 장애가 발생하더라도 코드가 완료될 때까지 실행하게 만들어주는 엔진   
+- 코드와 로컬 변수만으로 Persistent Stat...</a></div><div class="topicinfo"><span id="tp11550">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote11550"></span> | <a href="topic?id=11550" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 14 릴리즈]]></title>
         <id>https://nextjs.org/blog/next-14</id>
         <link href="https://nextjs.org/blog/next-14"/>
         <updated>2023-10-26T22:12:01.985Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11538"><a class="upvote" href="javascript:vote(11538, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nextjs.org/blog/next-14" rel="nofollow" id="tr7"><h1>Next.js 14 릴리즈</h1></a> <span class="topicurl">(nextjs.org)</span></div><div class="topicdesc"><a href="topic?id=11538" class="c99 breakall">- Next compiler: Turbopack 기반, 5,000 여개의 테스트 통과 상태 약 90% 정도. 개발 서버에서 지원. 개발 서버가 53%의 더 빨라지도 업데이트는 ...</a></div><div class="topicinfo"><span id="tp11538">7</span> points by <a href="/user?id=ragingwind">ragingwind</a> 1일전<span id="unvote11538"></span> | <a href="topic?id=11538" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 0xide의 Cloud Computer, 일반 출시(GA)]]></title>
-        <id>https://oxide.computer/blog/the-cloud-computer</id>
-        <link href="https://oxide.computer/blog/the-cloud-computer"/>
-        <updated>2023-10-27T02:18:43.051Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote11540"><a class="upvote" href="javascript:vote(11540, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://oxide.computer/blog/the-cloud-computer" rel="nofollow" id="tr8"><h1>GN⁺: 0xide의 Cloud Computer, 일반 출시(GA)</h1></a> <span class="topicurl">(oxide.computer)</span></div><div class="topicdesc"><a href="topic?id=11540" class="c99 breakall">- Oxide, 세계 최초의 상업용 클라우드 컴퓨터 일반 공개  
-- HW + SW + FW 를 밑바닥부터 설계한 서버랙  
-- 랙에 모든 것이 설치된 채 하나의 ...</a></div><div class="topicinfo"><span id="tp11540">5</span> points by <a href="/user?id=neo">neo</a> 24시간전<span id="unvote11540"></span> | <a href="topic?id=11540" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불확실한 상황의 의사 결정 원칙(feat. 안티프래질)]]></title>
-        <id>https://zzsza.github.io/diary/2023/10/25/principles-of-decision-making/</id>
-        <link href="https://zzsza.github.io/diary/2023/10/25/principles-of-decision-making/"/>
-        <updated>2023-10-26T14:11:51.433Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote11535"><a class="upvote" href="javascript:vote(11535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zzsza.github.io/diary/2023/10/25/principles-of-decision-making/" rel="nofollow" id="tr9"><h1>불확실한 상황의 의사 결정 원칙(feat. 안티프래질)</h1></a> <span class="topicurl">(zzsza.github.io)</span></div><div class="topicdesc"><a href="topic?id=11535" class="c99 breakall">불확실한 상황에서 의사 결정을 어떻게 하시나요?  
-안티프래질이란 책을 읽고, 불확실한 상황에서 어떻게 대처하는지가 더 중요하다는 생각이 들...</a></div><div class="topicinfo"><span id="tp11535">8</span> points by <a href="/user?id=zzsza">zzsza</a> 1일전<span id="unvote11535"></span> | <a href="topic?id=11535" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XFaaS: 매일 수조(Trillion)건 호출을 처리하는 Meta의 서버리스 플랫폼]]></title>
-        <id>https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained</id>
-        <link href="https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained"/>
-        <updated>2023-10-26T01:45:03.621Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote11527"><a class="upvote" href="javascript:vote(11527, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained" rel="nofollow" id="tr10"><h1>XFaaS: 매일 수조(Trillion)건 호출을 처리하는 Meta의 서버리스 플랫폼</h1></a> <span class="topicurl">(engineercodex.substack.com)</span></div><div class="topicdesc"><a href="topic?id=11527" class="c99 breakall">- Meta가 내부적으로 사용하는 FaaS 플랫폼   
-- 수십 개의 데이터센터 리전들에 분산된 10만 대 이상의 서버에서 매일 수조 건의 함수 호출을 처...</a></div><div class="topicinfo"><span id="tp11527">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11527"></span> | <a href="topic?id=11527" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote11538"><a class="upvote" href="javascript:vote(11538, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nextjs.org/blog/next-14" rel="nofollow" id="tr10"><h1>Next.js 14 릴리즈</h1></a> <span class="topicurl">(nextjs.org)</span></div><div class="topicdesc"><a href="topic?id=11538" class="c99 breakall">- Next compiler: Turbopack 기반, 5,000 여개의 테스트 통과 상태 약 90% 정도. 개발 서버에서 지원. 개발 서버가 53%의 더 빨라지도 업데이트는 ...</a></div><div class="topicinfo"><span id="tp11538">7</span> points by <a href="/user?id=ragingwind">ragingwind</a> 1일전<span id="unvote11538"></span> | <a href="topic?id=11538" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퀄컴의 Snapdragon X Elite는 애플 실리콘에 대한 윈도우 세계의 대답]]></title>
@@ -91,14 +92,39 @@
         <link href="https://arstechnica.com/gadgets/2023/10/qualcomm-snapdragon-x-elite-looks-like-the-windows-worlds-answer-to-apple-silicon/"/>
         <updated>2023-10-27T01:45:39.861Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote11547"><a class="upvote" href="javascript:vote(11547, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arstechnica.com/gadgets/2023/10/qualcomm-snapdragon-x-elite-looks-like-the-windows-worlds-answer-to-apple-silicon/" rel="nofollow" id="tr11"><h1>퀄컴의 Snapdragon X Elite는 애플 실리콘에 대한 윈도우 세계의 대답</h1></a> <span class="topicurl">(arstechnica.com)</span></div><div class="topicdesc"><a href="topic?id=11547" class="c99 breakall">- 몇년간 퀄컴은 윈도우PC용 스냅드래곤 칩을 만들었지만 성능상 Intel/AMD를 앞지르는데는 실패했음   
-- 3년전 퀄컴은 Arm 서버 프로세서를 만...</a></div><div class="topicinfo"><span id="tp11547">4</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote11547"></span> | <a href="topic?id=11547" class="u">댓글 2개</a></div>]]></content>
+- 3년전 퀄컴은 Arm 서버 프로세서를 만...</a></div><div class="topicinfo"><span id="tp11547">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote11547"></span> | <a href="topic?id=11547" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 0xide의 Cloud Computer, 일반 출시(GA)]]></title>
+        <id>https://oxide.computer/blog/the-cloud-computer</id>
+        <link href="https://oxide.computer/blog/the-cloud-computer"/>
+        <updated>2023-10-27T02:18:43.051Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote11540"><a class="upvote" href="javascript:vote(11540, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://oxide.computer/blog/the-cloud-computer" rel="nofollow" id="tr12"><h1>GN⁺: 0xide의 Cloud Computer, 일반 출시(GA)</h1></a> <span class="topicurl">(oxide.computer)</span></div><div class="topicdesc"><a href="topic?id=11540" class="c99 breakall">- Oxide, 세계 최초의 상업용 클라우드 컴퓨터 일반 공개  
+- HW + SW + FW 를 밑바닥부터 설계한 서버랙  
+- 랙에 모든 것이 설치된 채 하나의 ...</a></div><div class="topicinfo"><span id="tp11540">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote11540"></span> | <a href="topic?id=11540" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불확실한 상황의 의사 결정 원칙(feat. 안티프래질)]]></title>
+        <id>https://zzsza.github.io/diary/2023/10/25/principles-of-decision-making/</id>
+        <link href="https://zzsza.github.io/diary/2023/10/25/principles-of-decision-making/"/>
+        <updated>2023-10-26T14:11:51.433Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote11535"><a class="upvote" href="javascript:vote(11535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zzsza.github.io/diary/2023/10/25/principles-of-decision-making/" rel="nofollow" id="tr13"><h1>불확실한 상황의 의사 결정 원칙(feat. 안티프래질)</h1></a> <span class="topicurl">(zzsza.github.io)</span></div><div class="topicdesc"><a href="topic?id=11535" class="c99 breakall">불확실한 상황에서 의사 결정을 어떻게 하시나요?  
+안티프래질이란 책을 읽고, 불확실한 상황에서 어떻게 대처하는지가 더 중요하다는 생각이 들...</a></div><div class="topicinfo"><span id="tp11535">8</span> points by <a href="/user?id=zzsza">zzsza</a> 1일전<span id="unvote11535"></span> | <a href="topic?id=11535" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XFaaS: 매일 수조(Trillion)건 호출을 처리하는 Meta의 서버리스 플랫폼]]></title>
+        <id>https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained</id>
+        <link href="https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained"/>
+        <updated>2023-10-26T01:45:03.621Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote11527"><a class="upvote" href="javascript:vote(11527, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained" rel="nofollow" id="tr14"><h1>XFaaS: 매일 수조(Trillion)건 호출을 처리하는 Meta의 서버리스 플랫폼</h1></a> <span class="topicurl">(engineercodex.substack.com)</span></div><div class="topicdesc"><a href="topic?id=11527" class="c99 breakall">- Meta가 내부적으로 사용하는 FaaS 플랫폼   
+- 수십 개의 데이터센터 리전들에 분산된 10만 대 이상의 서버에서 매일 수조 건의 함수 호출을 처...</a></div><div class="topicinfo"><span id="tp11527">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11527"></span> | <a href="topic?id=11527" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vectorpea - 벡터 그래픽 온라인 편집기]]></title>
         <id>https://www.vectorpea.com/</id>
         <link href="https://www.vectorpea.com/"/>
         <updated>2023-10-24T01:48:37.856Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote11485"><a class="upvote" href="javascript:vote(11485, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.vectorpea.com/" rel="nofollow" id="tr12"><h1>Vectorpea - 벡터 그래픽 온라인 편집기</h1></a> <span class="topicurl">(vectorpea.com)</span></div><div class="topicdesc"><a href="topic?id=11485" class="c99 breakall">- Photopea 개발자가 만든 웹용 무료 벡터 편집기   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote11485"><a class="upvote" href="javascript:vote(11485, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.vectorpea.com/" rel="nofollow" id="tr15"><h1>Vectorpea - 벡터 그래픽 온라인 편집기</h1></a> <span class="topicurl">(vectorpea.com)</span></div><div class="topicdesc"><a href="topic?id=11485" class="c99 breakall">- Photopea 개발자가 만든 웹용 무료 벡터 편집기   
 - PSD, AI, XD, FIG, Sketch, PDF, RAW 및 JPG/PNG/GIF 등 파일 지원   
 - Dropbox, OneDri...</a></div><div class="topicinfo"><span id="tp11485">30</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote11485"></span> | <a href="topic?id=11485" class="u">댓글 3개</a></div>]]></content>
     </entry>
@@ -107,7 +133,7 @@
         <id>https://sindresorhus.com/blog/goodbye-nodejs-buffer</id>
         <link href="https://sindresorhus.com/blog/goodbye-nodejs-buffer"/>
         <updated>2023-10-26T00:51:59.014Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote11519"><a class="upvote" href="javascript:vote(11519, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sindresorhus.com/blog/goodbye-nodejs-buffer" rel="nofollow" id="tr13"><h1>굿바이 Node.js Buffer. 이제 Unit8Array로 넘어가야 할 때</h1></a> <span class="topicurl">(sindresorhus.com)</span></div><div class="topicdesc"><a href="topic?id=11519" class="c99 breakall">- Buffer 타입은 Node.js 초기부터 바이너리 데이터 처리의 초석이었음   
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote11519"><a class="upvote" href="javascript:vote(11519, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sindresorhus.com/blog/goodbye-nodejs-buffer" rel="nofollow" id="tr16"><h1>굿바이 Node.js Buffer. 이제 Unit8Array로 넘어가야 할 때</h1></a> <span class="topicurl">(sindresorhus.com)</span></div><div class="topicdesc"><a href="topic?id=11519" class="c99 breakall">- Buffer 타입은 Node.js 초기부터 바이너리 데이터 처리의 초석이었음   
 - 하지만 요즘은 Unit8Array가 기본 JavaScript 타입이고, 크로스플랫...</a></div><div class="topicinfo"><span id="tp11519">10</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11519"></span> | <a href="topic?id=11519" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -115,7 +141,7 @@
         <id>https://slashpage.com/haebom/llm-model-test</id>
         <link href="https://slashpage.com/haebom/llm-model-test"/>
         <updated>2023-10-25T07:12:20.865Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote11517"><a class="upvote" href="javascript:vote(11517, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slashpage.com/haebom/llm-model-test" rel="nofollow" id="tr14"><h1>LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)</h1></a> <span class="topicurl">(slashpage.com)</span></div><div class="topicdesc"><a href="topic?id=11517" class="c99 breakall">### 테스트한 모델  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote11517"><a class="upvote" href="javascript:vote(11517, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slashpage.com/haebom/llm-model-test" rel="nofollow" id="tr17"><h1>LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)</h1></a> <span class="topicurl">(slashpage.com)</span></div><div class="topicdesc"><a href="topic?id=11517" class="c99 breakall">### 테스트한 모델  
 -   7B 규모 14개 모델  
 -   13B 규모 7개 모델  
 -   20B 규모 4개 모델  
@@ -127,7 +153,7 @@
         <id>https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/</id>
         <link href="https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/"/>
         <updated>2023-10-24T02:21:24.955Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote11498"><a class="upvote" href="javascript:vote(11498, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/" rel="nofollow" id="tr15"><h1>Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법</h1></a> <span class="topicurl">(uber.com)</span></div><div class="topicdesc"><a href="topic?id=11498" class="c99 breakall">- "Up: Portable Microservices Ready for the Cloud"  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote11498"><a class="upvote" href="javascript:vote(11498, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/" rel="nofollow" id="tr18"><h1>Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법</h1></a> <span class="topicurl">(uber.com)</span></div><div class="topicdesc"><a href="topic?id=11498" class="c99 breakall">- "Up: Portable Microservices Ready for the Cloud"  
 - Uber는 4,500명의 엔지니어와 수많은 자동 시스템이 매주 4,000회 이상 4,500개의 Stat...</a></div><div class="topicinfo"><span id="tp11498">26</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote11498"></span> | <a href="topic?id=11498" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -135,40 +161,14 @@
         <id>https://jimmymoondev.notion.site/Next-js-Conf-2023-e0bd500c3b0a4148ba48bdaf06c88796</id>
         <link href="https://jimmymoondev.notion.site/Next-js-Conf-2023-e0bd500c3b0a4148ba48bdaf06c88796"/>
         <updated>2023-10-26T22:12:01.985Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote11537"><a class="upvote" href="javascript:vote(11537, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jimmymoondev.notion.site/Next-js-Conf-2023-e0bd500c3b0a4148ba48bdaf06c88796" rel="nofollow" id="tr16"><h1>Next.js 2023 컨퍼런스 후기</h1></a> <span class="topicurl">(jimmymoondev.notion.site)</span></div><div class="topicdesc"><a href="topic?id=11537" class="c99 breakall">이번에 참석한 Next.js 2023 컨퍼런스 후기입니다.</a></div><div class="topicinfo"><span id="tp11537">3</span> points by <a href="/user?id=ragingwind">ragingwind</a> 1일전<span id="unvote11537"></span> | <a href="topic?id=11537" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote11537"><a class="upvote" href="javascript:vote(11537, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jimmymoondev.notion.site/Next-js-Conf-2023-e0bd500c3b0a4148ba48bdaf06c88796" rel="nofollow" id="tr19"><h1>Next.js 2023 컨퍼런스 후기</h1></a> <span class="topicurl">(jimmymoondev.notion.site)</span></div><div class="topicdesc"><a href="topic?id=11537" class="c99 breakall">이번에 참석한 Next.js 2023 컨퍼런스 후기입니다.</a></div><div class="topicinfo"><span id="tp11537">3</span> points by <a href="/user?id=ragingwind">ragingwind</a> 1일전<span id="unvote11537"></span> | <a href="topic?id=11537" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Revert - 프로덕트 연동을 쉽게하는 오픈소스 통합 API]]></title>
         <id>https://github.com/revertinc/revert</id>
         <link href="https://github.com/revertinc/revert"/>
         <updated>2023-10-26T01:45:03.624Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote11528"><a class="upvote" href="javascript:vote(11528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/revertinc/revert" rel="nofollow" id="tr17"><h1>Revert - 프로덕트 연동을 쉽게하는 오픈소스 통합 API</h1></a> <span class="topicurl">(github.com/revertinc)</span></div><div class="topicdesc"><a href="topic?id=11528" class="c99 breakall">- 어떤 써드파티 API와도 쉽게 연동할 수 있게 해주는 오픈소스   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote11528"><a class="upvote" href="javascript:vote(11528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/revertinc/revert" rel="nofollow" id="tr20"><h1>Revert - 프로덕트 연동을 쉽게하는 오픈소스 통합 API</h1></a> <span class="topicurl">(github.com/revertinc)</span></div><div class="topicdesc"><a href="topic?id=11528" class="c99 breakall">- 어떤 써드파티 API와도 쉽게 연동할 수 있게 해주는 오픈소스   
   - CRM(Salesforce, Hubspot), 커뮤니케이션(Slack,Teams), 티켓팅(Jira, Asa...</a></div><div class="topicinfo"><span id="tp11528">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11528"></span> | <a href="topic?id=11528" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lordicon - 1490개의 무료 애니메이션 아이콘 콜렉션]]></title>
-        <id>https://lordicon.com/icons</id>
-        <link href="https://lordicon.com/icons"/>
-        <updated>2023-10-27T17:10:16.302Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote11452"><a class="upvote" href="javascript:vote(11452, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lordicon.com/icons" rel="nofollow" id="tr18"><h1>lordicon - 1490개의 무료 애니메이션 아이콘 콜렉션 </h1></a> <span class="topicurl">(lordicon.com)</span></div><div class="topicdesc"><a href="topic?id=11452" class="c99 breakall">- 아이콘 별로 여러 애니메이션 옵션 제공   
-- 색상 및 Stroke 크기 지정 가능   
-- HTML, GIF, MP4, APNG, WebP 및 Lottie(JSON) 포맷으로도 E...</a></div><div class="topicinfo"><span id="tp11452">28</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote11452"></span> | <a href="topic?id=11452" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹 푸시는 이제 iOS 17에서 사용할만합니다 [번역]]]></title>
-        <id>https://velog.io/@eunbinn/web-push-ios17</id>
-        <link href="https://velog.io/@eunbinn/web-push-ios17"/>
-        <updated>2023-10-27T15:12:09.953Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote11511"><a class="upvote" href="javascript:vote(11511, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://velog.io/@eunbinn/web-push-ios17" rel="nofollow" id="tr19"><h1>웹 푸시는 이제 iOS 17에서 사용할만합니다 [번역]</h1></a> <span class="topicurl">(velog.io)</span></div><div class="topicdesc"><a href="topic?id=11511" class="c99 breakall">- 더 이상 기능 플래그/실험적 기능이 필요하지 않습니다  
-- 홈 화면에 추가는 여전히 필요하며, 여전히 알려지지 않았습니다  
-- 이제 (대부분...</a></div><div class="topicinfo"><span id="tp11511">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote11511"></span> | <a href="topic?id=11511" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: NASA, 12B 마일 떨어진 우주선에 소프트웨어 업데이트 전송]]></title>
-        <id>https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/</id>
-        <link href="https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/"/>
-        <updated>2023-10-28T00:51:07.743Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote11504"><a class="upvote" href="javascript:vote(11504, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/" rel="nofollow" id="tr20"><h1>GN⁺: NASA, 12B 마일 떨어진 우주선에 소프트웨어 업데이트 전송</h1></a> <span class="topicurl">(bgr.com)</span></div><div class="topicdesc"><a href="topic?id=11504" class="c99 breakall">- NASA, 120억 마일 떨어진 Voyager 2 우주선에 성공적으로 소프트웨어 업데이트 전송  
-- Voyager 1이 지난해 Attitude Articular and Control S...</a></div><div class="topicinfo"><span id="tp11504">8</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote11504"></span> | <a href="topic?id=11504" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
