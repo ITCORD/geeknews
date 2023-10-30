@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-10-29T23:11:54.166Z</updated>
+    <updated>2023-10-30T00:53:52.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법]]></title>
+        <id>https://news.hada.io/weekly/202344</id>
+        <link href="https://news.hada.io/weekly/202344"/>
+        <updated>2023-10-30T00:53:38.965Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202344" class="u"> Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상위 1% 엔지니어의 7가지 간단한 습관]]></title>
         <id>https://news.hada.io/weekly/202343</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202335"/>
         <updated>2023-08-28T00:51:58.370Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202335" class="u"> LLM 연구의 공개 과제들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres는 언제부터 멋있어졌을까]]></title>
-        <id>https://news.hada.io/weekly/202334</id>
-        <link href="https://news.hada.io/weekly/202334"/>
-        <updated>2023-08-21T00:50:44.711Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202334" class="u"> Postgres는 언제부터 멋있어졌을까</a>]]></content>
     </entry>
 </feed>
