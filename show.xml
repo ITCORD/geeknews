@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-11-01T09:14:06.034Z</updated>
+    <updated>2023-11-01T10:13:43.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 널위한물결 - 다양한 국내 웹사이트를 서핑할 수 있는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=11632</id>
+        <link href="https://news.hada.io/topic?id=11632"/>
+        <updated>2023-11-01T10:13:19.356Z</updated>
+        <content type="html"><![CDATA[nova940116]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [Bookleet] 솔직히 책 한 '줄' 읽을 시간은 있잖아요?]]></title>
         <id>https://news.hada.io/topic?id=11615</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=9521"/>
         <updated>2023-09-26T21:11:06.729Z</updated>
         <content type="html"><![CDATA[xguru]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Kuberian: LLM 을 사용한 Kubernetes 소스코드 자연어 검색 서비스]]></title>
-        <id>https://news.hada.io/topic?id=10179</id>
-        <link href="https://news.hada.io/topic?id=10179"/>
-        <updated>2023-08-04T02:26:57.865Z</updated>
-        <content type="html"><![CDATA[kuber]]></content>
     </entry>
 </feed>
