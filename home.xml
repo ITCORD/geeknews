@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-11-04T17:10:10.259Z</updated>
+    <updated>2023-11-04T18:15:02.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=11675"/>
         <updated>2023-11-04T01:47:03.665Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11675"><a class="upvote" href="javascript:vote(11675, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/huggingface/distil-whisper" rel="nofollow" id="tr1"><h1>Distil-Whisper - 6배 빠르고, 49% 작은 버전의 Whisper</h1></a> <span class="topicurl">(github.com/huggingface)</span></div><div class="topicdesc"><a href="topic?id=11675" class="c99 breakall">- OpenAI Whisper 음성인식 모델을 정제(Distill)하여 더 작고 빠르게 만든 모델   
-- 6배 더 빠르고 49% 더 작으며 1% WER(Word Error Rate) 이...</a></div><div class="topicinfo"><span id="tp11675">7</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote11675"></span> | <a href="topic?id=11675" class="u">댓글과 토론</a></div>]]></content>
+- 6배 더 빠르고 49% 더 작으며 1% WER(Word Error Rate) 이...</a></div><div class="topicinfo"><span id="tp11675">7</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote11675"></span> | <a href="topic?id=11675" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[액센추어의 Life Trends 2024 [65p PDF]]]></title>
@@ -40,13 +40,11 @@
 - 타이틀 화면, 배경, 캐릭터 및 박스/해골 등 물체를 생성...</a></div><div class="topicinfo"><span id="tp11646">18</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote11646"></span> | <a href="topic?id=11646" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI가 광고와 마케팅을 어떻게 변화시키고 있는가]]></title>
-        <id>https://news.hada.io/topic?id=11678</id>
-        <link href="https://news.hada.io/topic?id=11678"/>
-        <updated>2023-11-04T01:47:03.662Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11678"><a class="upvote" href="javascript:vote(11678, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.forbes.com/sites/kimberlywhitler/2023/10/29/4-ways-ai-is-changing-marketing/" rel="nofollow" id="tr5"><h1>AI가 광고와 마케팅을 어떻게 변화시키고 있는가</h1></a> <span class="topicurl">(forbes.com)</span></div><div class="topicdesc"><a href="topic?id=11678" class="c99 breakall"># 소비자 이해  
-- 이제 대량의 소비자 정보를 통합하고 집계하여 소비자에 대한 이해를 더욱 깊게 할 수 있다는 것  
-- 예를 들어, 영업 담당자...</a></div><div class="topicinfo"><span id="tp11678">2</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote11678"></span> | <a href="topic?id=11678" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: 'Asahi Linux', 애플 실리콘 포트 프로젝트에서 macOS 버그 헌터로 전환]]></title>
+        <id>https://news.hada.io/topic?id=11650</id>
+        <link href="https://news.hada.io/topic?id=11650"/>
+        <updated>2023-11-04T01:47:03.681Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11650"><a class="upvote" href="javascript:vote(11650, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/" rel="nofollow" id="tr5"><h1>GN⁺: 'Asahi Linux', 애플 실리콘 포트 프로젝트에서 macOS 버그 헌터로 전환 </h1></a> <span class="topicurl">(theregister.com)</span></div><div class="topicdesc"><a href="topic?id=11650" class="c99 breakall">- Asahi Linux, Apple Silicon Mac에 Linux를 포팅하는 것을 목표로 시작한 프로젝트에서, Apple의 macOS에서 하드웨어 복구가 어려운 버그들을 발...</a></div><div class="topicinfo"><span id="tp11650">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote11650"></span> | <a href="topic?id=11650" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[htmx, Rust & Shuttle : Rust 기반의 빠른 프로토타이핑 스택]]></title>
@@ -57,19 +55,21 @@
 - htmx: HTML내에서 HTML 속성만으로 AJAX,웹소켓,SSE 등을...</a></div><div class="topicinfo"><span id="tp11656">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11656"></span> | <a href="topic?id=11656" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI가 광고와 마케팅을 어떻게 변화시키고 있는가]]></title>
+        <id>https://news.hada.io/topic?id=11678</id>
+        <link href="https://news.hada.io/topic?id=11678"/>
+        <updated>2023-11-04T01:47:03.662Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11678"><a class="upvote" href="javascript:vote(11678, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.forbes.com/sites/kimberlywhitler/2023/10/29/4-ways-ai-is-changing-marketing/" rel="nofollow" id="tr7"><h1>AI가 광고와 마케팅을 어떻게 변화시키고 있는가</h1></a> <span class="topicurl">(forbes.com)</span></div><div class="topicdesc"><a href="topic?id=11678" class="c99 breakall"># 소비자 이해  
+- 이제 대량의 소비자 정보를 통합하고 집계하여 소비자에 대한 이해를 더욱 깊게 할 수 있다는 것  
+- 예를 들어, 영업 담당자...</a></div><div class="topicinfo"><span id="tp11678">2</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote11678"></span> | <a href="topic?id=11678" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Black 4.0 - 가장 검은 블랙 페인트(The Blackest Black)]]></title>
         <id>https://news.hada.io/topic?id=11655</id>
         <link href="https://news.hada.io/topic?id=11655"/>
         <updated>2023-11-03T01:50:22.519Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11655"><a class="upvote" href="javascript:vote(11655, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.culturehustleusa.com/products/black-4-0" rel="nofollow" id="tr7"><h1>Black 4.0 - 가장 검은 블랙 페인트(The Blackest Black)</h1></a> <span class="topicurl">(culturehustleusa.com)</span></div><div class="topicdesc"><a href="topic?id=11655" class="c99 breakall">- Anish Kapoor와 Vantablack에 대항하기 위해 Stuart Semple이 만든 블랙 컬러의 신 버전   
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote11655"><a class="upvote" href="javascript:vote(11655, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.culturehustleusa.com/products/black-4-0" rel="nofollow" id="tr8"><h1>Black 4.0 - 가장 검은 블랙 페인트(The Blackest Black)</h1></a> <span class="topicurl">(culturehustleusa.com)</span></div><div class="topicdesc"><a href="topic?id=11655" class="c99 breakall">- Anish Kapoor와 Vantablack에 대항하기 위해 Stuart Semple이 만든 블랙 컬러의 신 버전   
   - 밴타블랙은 반사율이 가장 낮은 물질중 하나로,...</a></div><div class="topicinfo"><span id="tp11655">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11655"></span> | <a href="topic?id=11655" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 'Asahi Linux', 애플 실리콘 포트 프로젝트에서 macOS 버그 헌터로 전환]]></title>
-        <id>https://news.hada.io/topic?id=11650</id>
-        <link href="https://news.hada.io/topic?id=11650"/>
-        <updated>2023-11-04T01:47:03.681Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote11650"><a class="upvote" href="javascript:vote(11650, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/" rel="nofollow" id="tr8"><h1>GN⁺: 'Asahi Linux', 애플 실리콘 포트 프로젝트에서 macOS 버그 헌터로 전환 </h1></a> <span class="topicurl">(theregister.com)</span></div><div class="topicdesc"><a href="topic?id=11650" class="c99 breakall">- Asahi Linux, Apple Silicon Mac에 Linux를 포팅하는 것을 목표로 시작한 프로젝트에서, Apple의 macOS에서 하드웨어 복구가 어려운 버그들을 발...</a></div><div class="topicinfo"><span id="tp11650">7</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote11650"></span> | <a href="topic?id=11650" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docker 이미지 가볍고 안전하게 만들기]]></title>
@@ -108,11 +108,19 @@ Github gist, Pastebin 대용 서비스. 간단한 메모 공유
 - 해결책: 모든 것을 모니터링하고 Core 팀에 알림  ...</a></div><div class="topicinfo"><span id="tp11610">20</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote11610"></span> | <a href="topic?id=11610" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Android 와 RISC-V: 준비를 위해 알아야할 것들]]></title>
+        <id>https://news.hada.io/topic?id=11641</id>
+        <link href="https://news.hada.io/topic?id=11641"/>
+        <updated>2023-11-02T01:48:27.647Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote11641"><a class="upvote" href="javascript:vote(11641, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html" rel="nofollow" id="tr13"><h1>Android 와 RISC-V: 준비를 위해 알아야할 것들</h1></a> <span class="topicurl">(opensource.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=11641" class="c99 breakall">- Android는 다양한 기기와 아키텍처에 자유롭게 이식할 수 있는 오픈소스 운영 체제  
+- 여기에 무료/개방형 ISA(명령어 집합 아키텍처)인 RISC-...</a></div><div class="topicinfo"><span id="tp11641">6</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote11641"></span> | <a href="topic?id=11641" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iOS용 크롬, 드디어 하단 주소바 기능 공개]]></title>
         <id>https://news.hada.io/topic?id=11654</id>
         <link href="https://news.hada.io/topic?id=11654"/>
         <updated>2023-11-03T01:50:22.519Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote11654"><a class="upvote" href="javascript:vote(11654, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.androidpolice.com/chrome-for-ios-bottom-bar-official/" rel="nofollow" id="tr13"><h1>iOS용 크롬, 드디어 하단 주소바 기능 공개</h1></a> <span class="topicurl">(androidpolice.com)</span></div><div class="topicdesc"><a href="topic?id=11654" class="c99 breakall">- 주소바를 꾹 눌러서 "Move address bar to bottom" 으로 하단 이동 가능. 같은 방식으로 다시 상단으로 옮기는 것도 가능   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote11654"><a class="upvote" href="javascript:vote(11654, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.androidpolice.com/chrome-for-ios-bottom-bar-official/" rel="nofollow" id="tr14"><h1>iOS용 크롬, 드디어 하단 주소바 기능 공개</h1></a> <span class="topicurl">(androidpolice.com)</span></div><div class="topicdesc"><a href="topic?id=11654" class="c99 breakall">- 주소바를 꾹 눌러서 "Move address bar to bottom" 으로 하단 이동 가능. 같은 방식으로 다시 상단으로 옮기는 것도 가능   
 - 사파리에 적용된...</a></div><div class="topicinfo"><span id="tp11654">3</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11654"></span> | <a href="topic?id=11654" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -120,16 +128,8 @@ Github gist, Pastebin 대용 서비스. 간단한 메모 공유
         <id>https://news.hada.io/topic?id=11652</id>
         <link href="https://news.hada.io/topic?id=11652"/>
         <updated>2023-11-04T10:11:32.936Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote11652"><a class="upvote" href="javascript:vote(11652, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results" rel="nofollow" id="tr14"><h1>GN⁺: 사람들이 Google의 유용성에 대해 의심하기 시작하면, SEO에는 어떤 변화가 일어날까?</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=11652" class="c99 breakall">- Google의 유용성에 대한 사람들의 신뢰 하락이 검색 엔진 최적화(SEO) 산업에 미치는 영향에 대해 논의  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote11652"><a class="upvote" href="javascript:vote(11652, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results" rel="nofollow" id="tr15"><h1>GN⁺: 사람들이 Google의 유용성에 대해 의심하기 시작하면, SEO에는 어떤 변화가 일어날까?</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=11652" class="c99 breakall">- Google의 유용성에 대한 사람들의 신뢰 하락이 검색 엔진 최적화(SEO) 산업에 미치는 영향에 대해 논의  
 - SEO 전문가들은 이전에 Google의 검...</a></div><div class="topicinfo"><span id="tp11652">3</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote11652"></span> | <a href="topic?id=11652" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 와 RISC-V: 준비를 위해 알아야할 것들]]></title>
-        <id>https://news.hada.io/topic?id=11641</id>
-        <link href="https://news.hada.io/topic?id=11641"/>
-        <updated>2023-11-02T01:48:27.647Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote11641"><a class="upvote" href="javascript:vote(11641, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html" rel="nofollow" id="tr15"><h1>Android 와 RISC-V: 준비를 위해 알아야할 것들</h1></a> <span class="topicurl">(opensource.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=11641" class="c99 breakall">- Android는 다양한 기기와 아키텍처에 자유롭게 이식할 수 있는 오픈소스 운영 체제  
-- 여기에 무료/개방형 ISA(명령어 집합 아키텍처)인 RISC-...</a></div><div class="topicinfo"><span id="tp11641">6</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote11641"></span> | <a href="topic?id=11641" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[State of Brand 보고서 2023]]></title>
@@ -149,22 +149,22 @@ Github gist, Pastebin 대용 서비스. 간단한 메모 공유
 - 공식적으로 많이 알려진 Prompt 팁들이 공표(?)된 느낌입니다.  ...</a></div><div class="topicinfo"><span id="tp11648">4</span> points by <a href="/user?id=haebom">haebom</a> 2일전<span id="unvote11648"></span> | <a href="topic?id=11648" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 널위한물결 - 다양한 국내 웹사이트를 서핑할 수 있는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=11632</id>
-        <link href="https://news.hada.io/topic?id=11632"/>
-        <updated>2023-11-01T10:12:58.684Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote11632"><a class="upvote" href="javascript:vote(11632, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=11632" rel="nofollow" id="tr18"><h1>Show GN: 널위한물결 - 다양한 국내 웹사이트를 서핑할 수 있는 서비스</h1></a> <span class="topicurl">(foryouwave.com)</span></div><div class="topicdesc"><a href="topic?id=11632" class="c99 breakall">널위한물결은 다양한 국내 웹사이트들을 소개해주는 서비스 입니다  
-  
-카테고리 별로 사이트를 구분해두었고 사이트 제목으로 검색도 가능합니...</a></div><div class="topicinfo"><span id="tp11632">8</span> points by <a href="/user?id=nova940116">nova940116</a> 3일전<span id="unvote11632"></span> | <a href="topic?id=11632" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nile - 최신 SaaS를 위한 Serverless Postgres]]></title>
         <id>https://news.hada.io/topic?id=11607</id>
         <link href="https://news.hada.io/topic?id=11607"/>
         <updated>2023-11-04T05:11:37.051Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote11607"><a class="upvote" href="javascript:vote(11607, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.thenile.dev/blog/introducing-nile" rel="nofollow" id="tr19"><h1>Nile - 최신 SaaS를 위한 Serverless Postgres</h1></a> <span class="topicurl">(thenile.dev)</span></div><div class="topicdesc"><a href="topic?id=11607" class="c99 breakall">- 현대적인 SaaS들은 모두 Multi-Tenant임  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote11607"><a class="upvote" href="javascript:vote(11607, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.thenile.dev/blog/introducing-nile" rel="nofollow" id="tr18"><h1>Nile - 최신 SaaS를 위한 Serverless Postgres</h1></a> <span class="topicurl">(thenile.dev)</span></div><div class="topicdesc"><a href="topic?id=11607" class="c99 breakall">- 현대적인 SaaS들은 모두 Multi-Tenant임  
 - Nile은 Tenant를 DB에 가상화하는 첫번째 DB   
 - 테넌트 가상화를 통해 어디서든 테넌트 격리, ...</a></div><div class="topicinfo"><span id="tp11607">14</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote11607"></span> | <a href="topic?id=11607" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 널위한물결 - 다양한 국내 웹사이트를 서핑할 수 있는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=11632</id>
+        <link href="https://news.hada.io/topic?id=11632"/>
+        <updated>2023-11-01T10:12:58.684Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote11632"><a class="upvote" href="javascript:vote(11632, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=11632" rel="nofollow" id="tr19"><h1>Show GN: 널위한물결 - 다양한 국내 웹사이트를 서핑할 수 있는 서비스</h1></a> <span class="topicurl">(foryouwave.com)</span></div><div class="topicdesc"><a href="topic?id=11632" class="c99 breakall">널위한물결은 다양한 국내 웹사이트들을 소개해주는 서비스 입니다  
+  
+카테고리 별로 사이트를 구분해두었고 사이트 제목으로 검색도 가능합니...</a></div><div class="topicinfo"><span id="tp11632">8</span> points by <a href="/user?id=nova940116">nova940116</a> 3일전<span id="unvote11632"></span> | <a href="topic?id=11632" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI에서 창업가에게 기회가 있는 5가지 분야]]></title>
