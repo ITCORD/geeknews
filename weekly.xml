@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-11-05T23:12:08.156Z</updated>
+    <updated>2023-11-06T00:54:54.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임베딩(Embeddings)은 무엇이고 왜 중요한가]]></title>
+        <id>https://news.hada.io/weekly/202345</id>
+        <link href="https://news.hada.io/weekly/202345"/>
+        <updated>2023-11-06T00:54:42.204Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202345" class="u"> 임베딩(Embeddings)은 무엇이고 왜 중요한가</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법]]></title>
         <id>https://news.hada.io/weekly/202344</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202336"/>
         <updated>2023-09-04T00:52:45.040Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202336" class="u"> LLM 기반의 시스템 &amp; 제품 구축 패턴들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM 연구의 공개 과제들]]></title>
-        <id>https://news.hada.io/weekly/202335</id>
-        <link href="https://news.hada.io/weekly/202335"/>
-        <updated>2023-08-28T00:51:58.370Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202335" class="u"> LLM 연구의 공개 과제들</a>]]></content>
     </entry>
 </feed>
