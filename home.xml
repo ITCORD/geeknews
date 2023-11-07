@@ -2,33 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-11-07T15:13:18.477Z</updated>
+    <updated>2023-11-07T16:16:40.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 우리말 Wordle2]]></title>
+        <id>https://news.hada.io/topic?id=11732</id>
+        <link href="https://news.hada.io/topic?id=11732"/>
+        <updated>2023-11-07T12:22:26.306Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11732"><a class="upvote" href="javascript:vote(11732, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=11732" rel="nofollow" id="tr1"><h1>Show GN: 우리말 Wordle2</h1></a> <span class="topicurl">(plan9.kr)</span></div><div class="topicdesc"><a href="topic?id=11732" class="c99 breakall">2년 전에 wordle이 화제였을 때 오픈소스 버전을 수정해서 만들었던 우리말 wordle을 이번에 Solidjs+Vite로 완전히 새로 만들었습니다.   
+  
+...</a></div><div class="topicinfo"><span id="tp11732">4</span> points by <a href="/user?id=sungchi">sungchi</a> 4시간전<span id="unvote11732"></span> | <a href="topic?id=11732" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPTs - ChatGPT의 커스텀 버전]]></title>
         <id>https://news.hada.io/topic?id=11719</id>
         <link href="https://news.hada.io/topic?id=11719"/>
         <updated>2023-11-07T00:53:29.307Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote11719"><a class="upvote" href="javascript:vote(11719, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/introducing-gpts" rel="nofollow" id="tr1"><h1>GPTs - ChatGPT의 커스텀 버전</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=11719" class="c99 breakall">- 특정 목적을 위해 생성된 ChatGPT의 사용자 정의 버전인 GPTs 공개.  
-- 기존에 있던 맞춤형 지침을 개선하여 매번 동일한 지침을 ChatGPT에 입...</a></div><div class="topicinfo"><span id="tp11719">11</span> points by <a href="/user?id=kuroneko">kuroneko</a> 15시간전<span id="unvote11719"></span> | <a href="topic?id=11719" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote11719"><a class="upvote" href="javascript:vote(11719, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/introducing-gpts" rel="nofollow" id="tr2"><h1>GPTs - ChatGPT의 커스텀 버전</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=11719" class="c99 breakall">- 특정 목적을 위해 생성된 ChatGPT의 사용자 정의 버전인 GPTs 공개.  
+- 기존에 있던 맞춤형 지침을 개선하여 매번 동일한 지침을 ChatGPT에 입...</a></div><div class="topicinfo"><span id="tp11719">12</span> points by <a href="/user?id=kuroneko">kuroneko</a> 16시간전<span id="unvote11719"></span> | <a href="topic?id=11719" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LLaVaVision - llama.cpp/llava로 만든 "Be My Eyes" 웹앱]]></title>
         <id>https://news.hada.io/topic?id=11729</id>
         <link href="https://news.hada.io/topic?id=11729"/>
         <updated>2023-11-07T01:51:59.049Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote11729"><a class="upvote" href="javascript:vote(11729, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/lxe/llavavision" rel="nofollow" id="tr2"><h1>LLaVaVision - llama.cpp/llava로 만든 "Be My Eyes" 웹앱</h1></a> <span class="topicurl">(github.com/lxe)</span></div><div class="topicdesc"><a href="topic?id=11729" class="c99 breakall">- 시각장애인을 위해 자원봉사자와 연결해서 화면을 읽어주는 "Be My Eyes" 서비스를 AI로 비슷하게 구현   
-- 멀티모달 백엔드를 통해서 영상을 ...</a></div><div class="topicinfo"><span id="tp11729">10</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote11729"></span> | <a href="topic?id=11729" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 우리말 Wordle2]]></title>
-        <id>https://news.hada.io/topic?id=11732</id>
-        <link href="https://news.hada.io/topic?id=11732"/>
-        <updated>2023-11-07T12:22:26.306Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote11732"><a class="upvote" href="javascript:vote(11732, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=11732" rel="nofollow" id="tr3"><h1>Show GN: 우리말 Wordle2</h1></a> <span class="topicurl">(plan9.kr)</span></div><div class="topicdesc"><a href="topic?id=11732" class="c99 breakall">2년 전에 wordle이 화제였을 때 오픈소스 버전을 수정해서 만들었던 우리말 wordle을 이번에 Solidjs+Vite로 완전히 새로 만들었습니다.   
-  
-...</a></div><div class="topicinfo"><span id="tp11732">3</span> points by <a href="/user?id=sungchi">sungchi</a> 3시간전<span id="unvote11732"></span> | <a href="topic?id=11732" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote11729"><a class="upvote" href="javascript:vote(11729, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/lxe/llavavision" rel="nofollow" id="tr3"><h1>LLaVaVision - llama.cpp/llava로 만든 "Be My Eyes" 웹앱</h1></a> <span class="topicurl">(github.com/lxe)</span></div><div class="topicdesc"><a href="topic?id=11729" class="c99 breakall">- 시각장애인을 위해 자원봉사자와 연결해서 화면을 읽어주는 "Be My Eyes" 서비스를 AI로 비슷하게 구현   
+- 멀티모달 백엔드를 통해서 영상을 ...</a></div><div class="topicinfo"><span id="tp11729">10</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote11729"></span> | <a href="topic?id=11729" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[좋은 엔지니어가 되는 것은 경험을 쌓는 것]]></title>
@@ -45,23 +45,23 @@
         <updated>2023-11-07T02:22:49.953Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote11726"><a class="upvote" href="javascript:vote(11726, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/kubero-dev/ladder" rel="nofollow" id="tr5"><h1>GN⁺: Show HN: Ladder - Paywall을 패스하는 웹 프록시</h1></a> <span class="topicurl">(github.com/kubero-dev)</span></div><div class="topicdesc"><a href="topic?id=11726" class="c99 breakall">- "교육 목적이며 비윤리적이거나 불법적인 활동을 지지하거나 권장하지 않음"  
 - Paywall을 바이패스  
-- Response에서 CORS 헤더를 제거하고,...</a></div><div class="topicinfo"><span id="tp11726">6</span> points by <a href="/user?id=neo">neo</a> 14시간전<span id="unvote11726"></span> | <a href="topic?id=11726" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[touchHLE - 아이폰 OS 앱을 위한 High-Level Emulator]]></title>
-        <id>https://news.hada.io/topic?id=11720</id>
-        <link href="https://news.hada.io/topic?id=11720"/>
-        <updated>2023-11-07T01:51:59.047Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11720"><a class="upvote" href="javascript:vote(11720, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hikari-no-yume/touchHLE" rel="nofollow" id="tr6"><h1>touchHLE - 아이폰 OS 앱을 위한 High-Level Emulator</h1></a> <span class="topicurl">(github.com/hikari-no-yume)</span></div><div class="topicdesc"><a href="topic?id=11720" class="c99 breakall">- Rust로 작성되어, 데스크탑 OS 및 Android 에서 실행되는 iPhone OS 앱용 에뮬레이터   
-- HLE(High-Level Emulation) 방법은 LLE(Low-Level)과...</a></div><div class="topicinfo"><span id="tp11720">6</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote11720"></span> | <a href="topic?id=11720" class="u">댓글과 토론</a></div>]]></content>
+- Response에서 CORS 헤더를 제거하고,...</a></div><div class="topicinfo"><span id="tp11726">7</span> points by <a href="/user?id=neo">neo</a> 15시간전<span id="unvote11726"></span> | <a href="topic?id=11726" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI, DevDay에서 새로운 모델 및 개발자 제품 공개]]></title>
         <id>https://news.hada.io/topic?id=11718</id>
         <link href="https://news.hada.io/topic?id=11718"/>
         <updated>2023-11-07T00:53:29.307Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11718"><a class="upvote" href="javascript:vote(11718, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/new-models-and-developer-products-announced-at-devday" rel="nofollow" id="tr7"><h1>OpenAI, DevDay에서 새로운 모델 및 개발자 제품 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=11718" class="c99 breakall">- 128K 문맥 창을 지원하는 GPT-4 Turbo 모델, Vision이 포함된 GPT-4 API, Assistant API, DALL-E 3 API, 새로운 GPT-3.5 Turbo 등 공개.  
-- **...</a></div><div class="topicinfo"><span id="tp11718">6</span> points by <a href="/user?id=kuroneko">kuroneko</a> 15시간전<span id="unvote11718"></span> | <a href="topic?id=11718" class="u">댓글 6개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote11718"><a class="upvote" href="javascript:vote(11718, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/blog/new-models-and-developer-products-announced-at-devday" rel="nofollow" id="tr6"><h1>OpenAI, DevDay에서 새로운 모델 및 개발자 제품 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=11718" class="c99 breakall">- 128K 문맥 창을 지원하는 GPT-4 Turbo 모델, Vision이 포함된 GPT-4 API, Assistant API, DALL-E 3 API, 새로운 GPT-3.5 Turbo 등 공개.  
+- **...</a></div><div class="topicinfo"><span id="tp11718">7</span> points by <a href="/user?id=kuroneko">kuroneko</a> 16시간전<span id="unvote11718"></span> | <a href="topic?id=11718" class="u">댓글 6개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[touchHLE - 아이폰 OS 앱을 위한 High-Level Emulator]]></title>
+        <id>https://news.hada.io/topic?id=11720</id>
+        <link href="https://news.hada.io/topic?id=11720"/>
+        <updated>2023-11-07T01:51:59.047Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote11720"><a class="upvote" href="javascript:vote(11720, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hikari-no-yume/touchHLE" rel="nofollow" id="tr7"><h1>touchHLE - 아이폰 OS 앱을 위한 High-Level Emulator</h1></a> <span class="topicurl">(github.com/hikari-no-yume)</span></div><div class="topicdesc"><a href="topic?id=11720" class="c99 breakall">- Rust로 작성되어, 데스크탑 OS 및 Android 에서 실행되는 iPhone OS 앱용 에뮬레이터   
+- HLE(High-Level Emulation) 방법은 LLE(Low-Level)과...</a></div><div class="topicinfo"><span id="tp11720">6</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote11720"></span> | <a href="topic?id=11720" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Email 난독화는 ChatGPT앞에 거의 무용지물]]></title>
@@ -69,7 +69,7 @@
         <link href="https://news.hada.io/topic?id=11730"/>
         <updated>2023-11-07T05:11:31.791Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote11730"><a class="upvote" href="javascript:vote(11730, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4" rel="nofollow" id="tr8"><h1>Email 난독화는 ChatGPT앞에 거의 무용지물</h1></a> <span class="topicurl">(bulkninja.notion.site)</span></div><div class="topicdesc"><a href="topic?id=11730" class="c99 breakall">- 수집봇에 의한 이메일 스팸을 방지하기 위해 @ 대신 (at)을 쓰는 등의 기술이 사용되어 왔는데 이제 AI때문에 효용이 없어짐   
-- HN의 구인공...</a></div><div class="topicinfo"><span id="tp11730">4</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote11730"></span> | <a href="topic?id=11730" class="u">댓글 3개</a></div>]]></content>
+- HN의 구인공...</a></div><div class="topicinfo"><span id="tp11730">4</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote11730"></span> | <a href="topic?id=11730" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kotlin Multiplaform이 안정화 및 Production-Ready됨]]></title>
@@ -88,22 +88,22 @@
 # 조사 결과 요약 ...</a></div><div class="topicinfo"><span id="tp11702">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11702"></span> | <a href="topic?id=11702" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hono - 경량, 초고속, 웹표준 기반 Edge용 웹프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=11685</id>
-        <link href="https://news.hada.io/topic?id=11685"/>
-        <updated>2023-11-05T01:55:09.401Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote11685"><a class="upvote" href="javascript:vote(11685, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/honojs/hono" rel="nofollow" id="tr11"><h1>Hono - 경량, 초고속, 웹표준 기반 Edge용 웹프레임워크</h1></a> <span class="topicurl">(github.com/honojs)</span></div><div class="topicdesc"><a href="topic?id=11685" class="c99 breakall">- 초고속 라우터 RegExpRouter   
-- 12kB 의 초경량. 웹표준 API 만 사용하여 의존성 없음   
-- 모든 JavaScript 런타임에서 동작가능: Cloudfla...</a></div><div class="topicinfo"><span id="tp11685">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote11685"></span> | <a href="topic?id=11685" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글의 반독점 재판에서 공개된 '가장 수익성 높은 검색어들']]></title>
         <id>https://news.hada.io/topic?id=11701</id>
         <link href="https://news.hada.io/topic?id=11701"/>
         <updated>2023-11-06T01:53:30.570Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote11701"><a class="upvote" href="javascript:vote(11701, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2023/11/1/23941766/google-antitrust-trial-search-queries-ad-money" rel="nofollow" id="tr12"><h1>구글의 반독점 재판에서 공개된 '가장 수익성 높은 검색어들'</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=11701" class="c99 breakall">- 모든 구글 검색이 구글에 돈을 벌어주는 것은 아님  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote11701"><a class="upvote" href="javascript:vote(11701, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2023/11/1/23941766/google-antitrust-trial-search-queries-ad-money" rel="nofollow" id="tr11"><h1>구글의 반독점 재판에서 공개된 '가장 수익성 높은 검색어들'</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=11701" class="c99 breakall">- 모든 구글 검색이 구글에 돈을 벌어주는 것은 아님  
 - 구글은 검색어의 20%인 상업적 검색어에 대해서만 광고를 표시한다고 주장   
-- 2018년...</a></div><div class="topicinfo"><span id="tp11701">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11701"></span> | <a href="topic?id=11701" class="u">댓글과 토론</a></div>]]></content>
+- 2018년...</a></div><div class="topicinfo"><span id="tp11701">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote11701"></span> | <a href="topic?id=11701" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hono - 경량, 초고속, 웹표준 기반 Edge용 웹프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=11685</id>
+        <link href="https://news.hada.io/topic?id=11685"/>
+        <updated>2023-11-05T01:55:09.401Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote11685"><a class="upvote" href="javascript:vote(11685, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/honojs/hono" rel="nofollow" id="tr12"><h1>Hono - 경량, 초고속, 웹표준 기반 Edge용 웹프레임워크</h1></a> <span class="topicurl">(github.com/honojs)</span></div><div class="topicdesc"><a href="topic?id=11685" class="c99 breakall">- 초고속 라우터 RegExpRouter   
+- 12kB 의 초경량. 웹표준 API 만 사용하여 의존성 없음   
+- 모든 JavaScript 런타임에서 동작가능: Cloudfla...</a></div><div class="topicinfo"><span id="tp11685">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote11685"></span> | <a href="topic?id=11685" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일런 머스크의 xAi, 챗봇 AI Grok 발표]]></title>
