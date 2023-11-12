@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-11-12T10:12:41.350Z</updated>
+    <updated>2023-11-12T11:10:08.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[haebom]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Dev feed - 개발 트랜드 구독 슬랙 워크스페이스]]></title>
-        <id>https://news.hada.io/topic?id=11477</id>
-        <link href="https://news.hada.io/topic?id=11477"/>
-        <updated>2023-10-23T09:13:10.310Z</updated>
-        <content type="html"><![CDATA[gracefullight]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: KiwiTalk - Tauri(Rust) + SolidJS로 구현한 오픈소스 KakaoTalk 클라이언트]]></title>
         <id>https://news.hada.io/topic?id=11177</id>
         <link href="https://news.hada.io/topic?id=11177"/>
         <updated>2023-10-04T09:12:48.640Z</updated>
         <content type="html"><![CDATA[shlee1503]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Dev feed - 개발 트랜드 구독 슬랙 워크스페이스]]></title>
+        <id>https://news.hada.io/topic?id=11477</id>
+        <link href="https://news.hada.io/topic?id=11477"/>
+        <updated>2023-10-23T09:13:10.310Z</updated>
+        <content type="html"><![CDATA[gracefullight]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: RAGchain : 고급 RAG 시스템을 만드는 Langchain의 확장 프레임워크]]></title>
