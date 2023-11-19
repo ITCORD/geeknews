@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-11-19T05:11:38.289Z</updated>
+    <updated>2023-11-19T06:16:03.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 간단한 ChatGPT 사진 번역기]]></title>
+        <id>https://news.hada.io/topic?id=11934</id>
+        <link href="https://news.hada.io/topic?id=11934"/>
+        <updated>2023-11-19T06:15:41.227Z</updated>
+        <content type="html"><![CDATA[sungchi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 비즈니스를 위한 무료 웹 서비스 모음]]></title>
         <id>https://news.hada.io/topic?id=11855</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=10347"/>
         <updated>2023-08-14T05:11:16.848Z</updated>
         <content type="html"><![CDATA[robin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 업무에 집중해야 하는 개발자를 위한 뉴스레터]]></title>
-        <id>https://news.hada.io/topic?id=10999</id>
-        <link href="https://news.hada.io/topic?id=10999"/>
-        <updated>2023-09-22T08:15:59.865Z</updated>
-        <content type="html"><![CDATA[safethecode]]></content>
     </entry>
 </feed>
