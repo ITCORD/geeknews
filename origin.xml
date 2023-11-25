@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-11-25T04:14:53.858Z</updated>
+    <updated>2023-11-25T05:11:51.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,23 +11,14 @@
         <link href="https://github.com/arcataroger/awesome-engineering-games"/>
         <updated>2023-11-25T01:50:07.149Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12024"><a class="upvote" href="javascript:vote(12024, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/arcataroger/awesome-engineering-games" rel="nofollow" id="tr1"><h1>Awesome Engineering Games</h1></a> <span class="topicurl">(github.com/arcataroger)</span></div><div class="topicdesc"><a href="topic?id=12024" class="c99 breakall">- 스팀에서 "매우 긍정적" 이상의 평가를 받는 엔지니어링 관련된 게임들 정리   
-- 토목 공학, 도시 건설, 교통 및 경로 구축, 컴퓨터 과학, 전...</a></div><div class="topicinfo"><span id="tp12024">3</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote12024"></span> | <a href="topic?id=12024" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Interpreter - OpenAI 의 Code Interpreter와 같은 기능을 로컬에서 오픈소스로 실행하기]]></title>
-        <id>https://github.com/KillianLucas/open-interpreter</id>
-        <link href="https://github.com/KillianLucas/open-interpreter"/>
-        <updated>2023-11-25T01:50:07.148Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12023"><a class="upvote" href="javascript:vote(12023, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/KillianLucas/open-interpreter" rel="nofollow" id="tr2"><h1>Open Interpreter - OpenAI 의 Code Interpreter와 같은 기능을 로컬에서 오픈소스로 실행하기 </h1></a> <span class="topicurl">(github.com/KillianLucas)</span></div><div class="topicdesc"><a href="topic?id=12023" class="c99 breakall">- LLM이 파이썬/자바스크립트/쉘 등의 코드를 로컬에서 실행하게 해줌   
-- ChatGPT와 비슷한 인터페이스를 통해서 채팅으로 명령 가능   
-  - ...</a></div><div class="topicinfo"><span id="tp12023">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote12023"></span> | <a href="topic?id=12023" class="u">댓글과 토론</a></div>]]></content>
+- 토목 공학, 도시 건설, 교통 및 경로 구축, 컴퓨터 과학, 전...</a></div><div class="topicinfo"><span id="tp12024">4</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote12024"></span> | <a href="topic?id=12024" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Git 브랜치 : 직관과 현실]]></title>
         <id>https://jvns.ca/blog/2023/11/23/branches-intuition-reality/</id>
         <link href="https://jvns.ca/blog/2023/11/23/branches-intuition-reality/"/>
         <updated>2023-11-24T01:52:09.459Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12008"><a class="upvote" href="javascript:vote(12008, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jvns.ca/blog/2023/11/23/branches-intuition-reality/" rel="nofollow" id="tr3"><h1>GN⁺: Git 브랜치 : 직관과 현실</h1></a> <span class="topicurl">(jvns.ca)</span></div><div class="topicdesc"><a href="topic?id=12008" class="c99 breakall">- 많은 사람들이 Git branch의 작동 방식을 직관적이지 않다고 생각함  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12008"><a class="upvote" href="javascript:vote(12008, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jvns.ca/blog/2023/11/23/branches-intuition-reality/" rel="nofollow" id="tr2"><h1>GN⁺: Git 브랜치 : 직관과 현실</h1></a> <span class="topicurl">(jvns.ca)</span></div><div class="topicdesc"><a href="topic?id=12008" class="c99 breakall">- 많은 사람들이 Git branch의 작동 방식을 직관적이지 않다고 생각함  
 - Git 브랜치에 대한 일반적인 직관적 모델과 실제 Git 내부에서 브랜치...</a></div><div class="topicinfo"><span id="tp12008">19</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote12008"></span> | <a href="topic?id=12008" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -35,17 +26,26 @@
         <id>https://discuss.pytorch.kr/t/llm-the-developers-guide-to-production-grade-llm-apps/2919?utm_source=geeknews</id>
         <link href="https://discuss.pytorch.kr/t/llm-the-developers-guide-to-production-grade-llm-apps/2919?utm_source=geeknews"/>
         <updated>2023-11-24T04:14:36.943Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12011"><a class="upvote" href="javascript:vote(12011, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/llm-the-developers-guide-to-production-grade-llm-apps/2919?utm_source=geeknews" rel="nofollow" id="tr4"><h1>상용 수준의 LLM 애플리케이션을 위한 개발자 가이드 (번역 글)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=12011" class="c99 breakall">  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12011"><a class="upvote" href="javascript:vote(12011, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/llm-the-developers-guide-to-production-grade-llm-apps/2919?utm_source=geeknews" rel="nofollow" id="tr3"><h1>상용 수준의 LLM 애플리케이션을 위한 개발자 가이드 (번역 글)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=12011" class="c99 breakall">  
 - Zapier의 AI 제품 개발자 Tal Peretz가 작성한 글을 허락 하에 번역하였습니다.   
   
-- 원문은 [여기](https://buildingaistuff.com/p/th...</a></div><div class="topicinfo"><span id="tp12011">16</span> points by <a href="/user?id=ninebow">ninebow</a> 1일전<span id="unvote12011"></span> | <a href="topic?id=12011" class="u">댓글 1개</a></div>]]></content>
+- 원문은 [여기](https://buildingaistuff.com/p/th...</a></div><div class="topicinfo"><span id="tp12011">17</span> points by <a href="/user?id=ninebow">ninebow</a> 1일전<span id="unvote12011"></span> | <a href="topic?id=12011" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Interpreter - OpenAI 의 Code Interpreter와 같은 기능을 로컬에서 오픈소스로 실행하기]]></title>
+        <id>https://github.com/KillianLucas/open-interpreter</id>
+        <link href="https://github.com/KillianLucas/open-interpreter"/>
+        <updated>2023-11-25T01:50:07.148Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12023"><a class="upvote" href="javascript:vote(12023, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/KillianLucas/open-interpreter" rel="nofollow" id="tr4"><h1>Open Interpreter - OpenAI 의 Code Interpreter와 같은 기능을 로컬에서 오픈소스로 실행하기 </h1></a> <span class="topicurl">(github.com/KillianLucas)</span></div><div class="topicdesc"><a href="topic?id=12023" class="c99 breakall">- LLM이 파이썬/자바스크립트/쉘 등의 코드를 로컬에서 실행하게 해줌   
+- ChatGPT와 비슷한 인터페이스를 통해서 채팅으로 명령 가능   
+  - ...</a></div><div class="topicinfo"><span id="tp12023">2</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote12023"></span> | <a href="topic?id=12023" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기]]></title>
         <id>https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability</id>
         <link href="https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability"/>
         <updated>2023-11-24T06:15:47.426Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote12012"><a class="upvote" href="javascript:vote(12012, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability" rel="nofollow" id="tr5"><h1>모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기</h1></a> <span class="topicurl">(engineering.ab180.co)</span></div><div class="topicdesc"><a href="topic?id=12012" class="c99 breakall">- 마틴 파울러 블로그의 [‘Domain-Oriented Observability’](https://martinfowler.com/articles/domain-oriented-observability.html) 개념을 도...</a></div><div class="topicinfo"><span id="tp12012">9</span> points by <a href="/user?id=hiddenest">hiddenest</a> 23시간전<span id="unvote12012"></span> | <a href="topic?id=12012" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote12012"><a class="upvote" href="javascript:vote(12012, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability" rel="nofollow" id="tr5"><h1>모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기</h1></a> <span class="topicurl">(engineering.ab180.co)</span></div><div class="topicdesc"><a href="topic?id=12012" class="c99 breakall">- 마틴 파울러 블로그의 [‘Domain-Oriented Observability’](https://martinfowler.com/articles/domain-oriented-observability.html) 개념을 도...</a></div><div class="topicinfo"><span id="tp12012">9</span> points by <a href="/user?id=hiddenest">hiddenest</a> 24시간전<span id="unvote12012"></span> | <a href="topic?id=12012" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, Generative AI for Beginners 강의 공개]]></title>
@@ -88,7 +88,7 @@
         <link href="https://www.teslarati.com/tesla-roadster-open-source-design-engineering/"/>
         <updated>2023-11-25T01:50:07.149Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote12020"><a class="upvote" href="javascript:vote(12020, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.teslarati.com/tesla-roadster-open-source-design-engineering/" rel="nofollow" id="tr10"><h1>테슬라, 오리지널 Roadster 의 모든 디자인과 엔지니어링을 오픈소스로 공개</h1></a> <span class="topicurl">(teslarati.com)</span></div><div class="topicdesc"><a href="topic?id=12020" class="c99 breakall">- 15년전인 2008년에 첫번째 프로젝트였던 로드스터의 사용자/서비스/부속 매뉴얼부터 회로 및 커넥터까지 모든 것을 공개   
-- 아마도 이 발표는...</a></div><div class="topicinfo"><span id="tp12020">1</span> point by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote12020"></span> | <a href="topic?id=12020" class="u">댓글 1개</a></div>]]></content>
+- 아마도 이 발표는...</a></div><div class="topicinfo"><span id="tp12020">1</span> point by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote12020"></span> | <a href="topic?id=12020" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Windmill - 빠르게 셀프 호스팅 가능한 오픈소스 워크플로우 엔진]]></title>
@@ -121,7 +121,7 @@
         <link href="https://ansel.photos/en/"/>
         <updated>2023-11-25T00:52:37.537Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote12013"><a class="upvote" href="javascript:vote(12013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ansel.photos/en/" rel="nofollow" id="tr14"><h1>GN⁺: Ansel - 오픈소스 사진 편집 소프트웨어</h1></a> <span class="topicurl">(ansel.photos)</span></div><div class="topicdesc"><a href="topic?id=12013" class="c99 breakall">- Ansel은 디지털 아티스트를 위한 오픈소스 사진 편집 소프트웨어로, 원본 디지털 사진에 자신만의 해석을 더하는 데 도움을 줌.  
-- "Darktable...</a></div><div class="topicinfo"><span id="tp12013">4</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote12013"></span> | <a href="topic?id=12013" class="u">댓글 2개</a></div>]]></content>
+- "Darktable...</a></div><div class="topicinfo"><span id="tp12013">4</span> points by <a href="/user?id=neo">neo</a> 23시간전<span id="unvote12013"></span> | <a href="topic?id=12013" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Setenv는 쓰레드세이프 하지 않으며, C는 이를 수정하고 싶지 않음]]></title>
