@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2023-11-30T23:13:05.815Z</updated>
+    <updated>2023-12-01T01:00:10.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=12102</id>
+        <link href="https://news.hada.io/topic?id=12102"/>
+        <updated>2023-12-01T00:59:54.520Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 올해 읽었던 책 중 가장 인상깊었던 책을 추천해주세요]]></title>
         <id>https://news.hada.io/topic?id=12084</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=10770"/>
         <updated>2023-09-08T01:46:05.918Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 슬랙 GeekNews 봇에서 GN+ 를 제외하는 방법이 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=11208</id>
-        <link href="https://news.hada.io/topic?id=11208"/>
-        <updated>2023-10-06T07:11:26.500Z</updated>
-        <content type="html"><![CDATA[charo]]></content>
     </entry>
 </feed>
