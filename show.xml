@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-12-02T03:13:37.910Z</updated>
+    <updated>2023-12-02T04:14:48.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Noiselith - Stable Diffusion XL 을 로컬에서 쉽게!]]></title>
+        <id>https://news.hada.io/topic?id=12130</id>
+        <link href="https://news.hada.io/topic?id=12130"/>
+        <updated>2023-12-02T04:14:27.191Z</updated>
+        <content type="html"><![CDATA[jayhanx]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: IETF RFC문서 한글 번역 서비스]]></title>
         <id>https://news.hada.io/topic?id=11996</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=11026"/>
         <updated>2023-09-24T12:20:29.382Z</updated>
         <content type="html"><![CDATA[samchon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 그저 토마토를 주고받을 뿐인 서비스]]></title>
-        <id>https://news.hada.io/topic?id=10347</id>
-        <link href="https://news.hada.io/topic?id=10347"/>
-        <updated>2023-08-14T05:11:16.848Z</updated>
-        <content type="html"><![CDATA[robin]]></content>
     </entry>
 </feed>
