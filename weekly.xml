@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-12-03T23:12:39.966Z</updated>
+    <updated>2023-12-04T00:56:09.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서버리스 데이터 시스템의 아키텍처]]></title>
+        <id>https://news.hada.io/weekly/202349</id>
+        <link href="https://news.hada.io/weekly/202349"/>
+        <updated>2023-12-04T00:55:58.740Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202349" class="u"> 서버리스 데이터 시스템의 아키텍처</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투자자는 AI 스타트업을 어떻게 분류할까?]]></title>
         <id>https://news.hada.io/weekly/202348</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202340"/>
         <updated>2023-10-02T00:53:54.207Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202340" class="u"> Generative AI의 2막</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["실패"라고 말하지 마세요]]></title>
-        <id>https://news.hada.io/weekly/202339</id>
-        <link href="https://news.hada.io/weekly/202339"/>
-        <updated>2023-09-25T00:52:49.385Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202339" class="u"> "실패"라고 말하지 마세요 </a>]]></content>
     </entry>
 </feed>
