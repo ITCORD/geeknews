@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-12-05T04:14:56.802Z</updated>
+    <updated>2023-12-05T05:12:26.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: ArXiv GPT - 전세계 논문을 AI가 자동으로 한글 번역, 요약, 분석, QnA를 한방에!!!]]></title>
+        <id>https://news.hada.io/topic?id=12187</id>
+        <link href="https://news.hada.io/topic?id=12187"/>
+        <updated>2023-12-05T05:12:06.430Z</updated>
+        <content type="html"><![CDATA[aitechtree]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Noiselith - Stable Diffusion XL 을 로컬에서 쉽게!]]></title>
         <id>https://news.hada.io/topic?id=12130</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=11345"/>
         <updated>2023-10-15T01:54:07.926Z</updated>
         <content type="html"><![CDATA[rycont]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ERD 및 해설서 자동 생성기 for Prisma ORM]]></title>
-        <id>https://news.hada.io/topic?id=11026</id>
-        <link href="https://news.hada.io/topic?id=11026"/>
-        <updated>2023-09-24T12:20:29.382Z</updated>
-        <content type="html"><![CDATA[samchon]]></content>
     </entry>
 </feed>
