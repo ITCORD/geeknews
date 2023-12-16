@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-12-16T17:10:45.097Z</updated>
+    <updated>2023-12-16T18:14:51.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code"/>
         <updated>2023-12-16T01:53:04.449Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12365"><a class="upvote" href="javascript:vote(12365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code" rel="nofollow" id="tr1"><h1>gigaGPT - 565줄의 코드로 만든 GPT-3 모델</h1></a> <span class="topicurl">(cerebras.net)</span></div><div class="topicdesc"><a href="topic?id=12365" class="c99 breakall">- 100M(1억개) 파라미터만 가능한 Andrei Karpathy의 nanoGPT 를 개선하여 100B(100억개) 까지 훈련 가능   
-- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">7</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
+- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">8</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개]]></title>
@@ -39,24 +39,24 @@
         <updated>2023-12-16T01:53:04.458Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr4"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
 - craw: CGO 기반 솔루션. database/sql 드라이버가 아님   
-- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 1.39: WebGPU 의 귀환]]></title>
-        <id>https://deno.com/blog/v1.39</id>
-        <link href="https://deno.com/blog/v1.39"/>
-        <updated>2023-12-16T01:53:04.458Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr5"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
-- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trippy - Traceroute 와 ping을 결합한 네트워크 이슈 분석 도구 오픈소스]]></title>
         <id>https://trippy.cli.rs/</id>
         <link href="https://trippy.cli.rs/"/>
         <updated>2023-12-14T00:54:59.737Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote12321"><a class="upvote" href="javascript:vote(12321, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://trippy.cli.rs/" rel="nofollow" id="tr6"><h1>Trippy - Traceroute 와 ping을 결합한 네트워크 이슈 분석 도구 오픈소스</h1></a> <span class="topicurl">(trippy.cli.rs)</span></div><div class="topicdesc"><a href="topic?id=12321" class="c99 breakall">- 멀티 프로토콜 추적 : ICMP, UDP, TCP, IPv4 &amp; IPv6  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote12321"><a class="upvote" href="javascript:vote(12321, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://trippy.cli.rs/" rel="nofollow" id="tr5"><h1>Trippy - Traceroute 와 ping을 결합한 네트워크 이슈 분석 도구 오픈소스</h1></a> <span class="topicurl">(trippy.cli.rs)</span></div><div class="topicdesc"><a href="topic?id=12321" class="c99 breakall">- 멀티 프로토콜 추적 : ICMP, UDP, TCP, IPv4 &amp; IPv6  
 - 멀티 플랫폼(Rust): 맥,리눅스,BSD,윈도우  
 - 다양한 추적 옵션 커스터마이징: 패킷 ...</a></div><div class="topicinfo"><span id="tp12321">21</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12321"></span> | <a href="topic?id=12321" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 1.39: WebGPU 의 귀환]]></title>
+        <id>https://deno.com/blog/v1.39</id>
+        <link href="https://deno.com/blog/v1.39"/>
+        <updated>2023-12-16T01:53:04.458Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr6"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
+- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Windows AI Studio 프리뷰]]></title>
