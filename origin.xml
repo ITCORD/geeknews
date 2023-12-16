@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2023-12-16T03:13:26.774Z</updated>
+    <updated>2023-12-16T04:15:27.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code"/>
         <updated>2023-12-16T01:53:04.449Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12365"><a class="upvote" href="javascript:vote(12365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code" rel="nofollow" id="tr1"><h1>gigaGPT - 565줄의 코드로 만든 GPT-3 모델</h1></a> <span class="topicurl">(cerebras.net)</span></div><div class="topicdesc"><a href="topic?id=12365" class="c99 breakall">- 100M(1억개) 파라미터만 가능한 Andrei Karpathy의 nanoGPT 를 개선하여 100B(100억개) 까지 훈련 가능   
-- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
+- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">5</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Golang용 SQLite 드라이버 벤치마크]]></title>
@@ -20,7 +20,7 @@
         <updated>2023-12-16T01:53:04.458Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr2"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
 - craw: CGO 기반 솔루션. database/sql 드라이버가 아님   
-- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
+- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.39: WebGPU 의 귀환]]></title>
@@ -28,7 +28,7 @@
         <link href="https://deno.com/blog/v1.39"/>
         <updated>2023-12-16T01:53:04.458Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr3"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
-- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개]]></title>
@@ -169,12 +169,11 @@
 - 폴란드 남서부 지역 철도 회사의 기차가 독립 정비 업체의 수리 후 제조사에 의해 작동 불가 상태로 만들...</a></div><div class="topicinfo"><span id="tp12323">7</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote12323"></span> | <a href="topic?id=12323" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, Imagen 2 이미지 생성 AI 정식 출시]]></title>
-        <id>https://cloud.google.com/blog/products/ai-machine-learning/imagen-2-on-vertex-ai-is-now-generally-available</id>
-        <link href="https://cloud.google.com/blog/products/ai-machine-learning/imagen-2-on-vertex-ai-is-now-generally-available"/>
-        <updated>2023-12-14T01:54:01.883Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote12329"><a class="upvote" href="javascript:vote(12329, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cloud.google.com/blog/products/ai-machine-learning/imagen-2-on-vertex-ai-is-now-generally-available" rel="nofollow" id="tr20"><h1>구글, Imagen 2 이미지 생성 AI 정식 출시</h1></a> <span class="topicurl">(cloud.google.com)</span></div><div class="topicdesc"><a href="topic?id=12329" class="c99 breakall">- Google Cloud가 이제 Imagen 2를 Vertex AI 고객들에게 제공 시작  
-- Google DeepMind 기술을 사용하여 개발  
-- 매우 사실적인 고품질, 고해...</a></div><div class="topicinfo"><span id="tp12329">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12329"></span> | <a href="topic?id=12329" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: Ask HN: 해커를 위한 최고의 UI 디자인 강좌는?]]></title>
+        <id>https://news.ycombinator.com/item?id=38591437</id>
+        <link href="https://news.ycombinator.com/item?id=38591437"/>
+        <updated>2023-12-16T04:14:56.767Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote12288"><a class="upvote" href="javascript:vote(12288, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=38591437" rel="nofollow" id="tr20"><h1>GN⁺: Ask HN: 해커를 위한 최고의 UI 디자인 강좌는?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=12288" class="c99 breakall">- 실용적인 UI 기술을 구축하기 위한 더 현실적인 튜토리얼, 예시, 연습이 들어있는 UI 디자인 과정을 추천해 주세요  
+- "react tutorials"보다...</a></div><div class="topicinfo"><span id="tp12288">26</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote12288"></span> | <a href="topic?id=12288" class="u">댓글 2개</a></div>]]></content>
     </entry>
 </feed>
