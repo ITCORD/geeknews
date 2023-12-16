@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-12-16T16:14:41.935Z</updated>
+    <updated>2023-12-16T17:10:45.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=12365"/>
         <updated>2023-12-16T01:53:00.608Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12365"><a class="upvote" href="javascript:vote(12365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code" rel="nofollow" id="tr1"><h1>gigaGPT - 565줄의 코드로 만든 GPT-3 모델</h1></a> <span class="topicurl">(cerebras.net)</span></div><div class="topicdesc"><a href="topic?id=12365" class="c99 breakall">- 100M(1억개) 파라미터만 가능한 Andrei Karpathy의 nanoGPT 를 개선하여 100B(100억개) 까지 훈련 가능   
-- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">7</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
+- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">7</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개]]></title>
@@ -23,23 +23,23 @@
   - Mistral 7B, Llama-7B/13B 성능을 능...</a></div><div class="topicinfo"><span id="tp12342">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12342"></span> | <a href="topic?id=12342" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golang용 SQLite 드라이버 벤치마크]]></title>
-        <id>https://news.hada.io/topic?id=12362</id>
-        <link href="https://news.hada.io/topic?id=12362"/>
-        <updated>2023-12-16T01:53:00.608Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr3"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
-- craw: CGO 기반 솔루션. database/sql 드라이버가 아님   
-- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아름다운 코드에 대하여]]></title>
         <id>https://news.hada.io/topic?id=12348</id>
         <link href="https://news.hada.io/topic?id=12348"/>
         <updated>2023-12-15T01:56:00.052Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12348"><a class="upvote" href="javascript:vote(12348, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/what-is-beautiful-code" rel="nofollow" id="tr4"><h1>아름다운 코드에 대하여</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=12348" class="c99 breakall">* 아름다움이란?  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12348"><a class="upvote" href="javascript:vote(12348, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/what-is-beautiful-code" rel="nofollow" id="tr3"><h1>아름다운 코드에 대하여</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=12348" class="c99 breakall">* 아름다움이란?  
   * 아름다움은 사람이 느끼는 가치  
   * 놀라움, 새로움, 안정성, 편안함, 단순성 등을 주는 것  
   * 놀라운 것과 자연스...</a></div><div class="topicinfo"><span id="tp12348">11</span> points by <a href="/user?id=kciter1">kciter1</a> 2일전<span id="unvote12348"></span> | <a href="topic?id=12348" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golang용 SQLite 드라이버 벤치마크]]></title>
+        <id>https://news.hada.io/topic?id=12362</id>
+        <link href="https://news.hada.io/topic?id=12362"/>
+        <updated>2023-12-16T01:53:00.608Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr4"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
+- craw: CGO 기반 솔루션. database/sql 드라이버가 아님   
+- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.39: WebGPU 의 귀환]]></title>
@@ -47,7 +47,7 @@
         <link href="https://news.hada.io/topic?id=12356"/>
         <updated>2023-12-16T01:53:00.613Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr5"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
-- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trippy - Traceroute 와 ping을 결합한 네트워크 이슈 분석 도구 오픈소스]]></title>
@@ -94,11 +94,20 @@
 - **2014년 9월**: 테슬라의 자율주행 시스템(FSD)이 6년 내에 사람보다 10배 안...</a></div><div class="topicinfo"><span id="tp12347">6</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote12347"></span> | <a href="topic?id=12347" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Safari 17.2의 새로운 WebKit 기능들]]></title>
+        <id>https://news.hada.io/topic?id=12343</id>
+        <link href="https://news.hada.io/topic?id=12343"/>
+        <updated>2023-12-15T00:56:13.017Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote12343"><a class="upvote" href="javascript:vote(12343, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://webkit.org/blog/14787/webkit-features-in-safari-17-2/" rel="nofollow" id="tr11"><h1>Safari 17.2의 새로운 WebKit 기능들</h1></a> <span class="topicurl">(webkit.org)</span></div><div class="topicdesc"><a href="topic?id=12343" class="c99 breakall"># HTML   
+- Exclusive Accordion: &lt;details&gt; 엘리먼트에 name 속성 지원. 하나 선택시 다른 아이템 자동으로 닫음   
+- &lt;input&gt; 필드에 autocom...</a></div><div class="topicinfo"><span id="tp12343">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12343"></span> | <a href="topic?id=12343" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Upstage, 10.7B SOLAR 모델을 상용화 가능한 라이선스로 공개]]></title>
         <id>https://news.hada.io/topic?id=12338</id>
         <link href="https://news.hada.io/topic?id=12338"/>
         <updated>2023-12-15T00:56:13.016Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote12338"><a class="upvote" href="javascript:vote(12338, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/upstage/SOLAR-10.7B-v1.0" rel="nofollow" id="tr11"><h1>Upstage, 10.7B SOLAR 모델을 상용화 가능한 라이선스로 공개</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=12338" class="c99 breakall">- 기존의 Llama2 7B의 능력을 극대화하기 위해 Depth Up-Scaling 기술을 개발하여 적용  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12338"><a class="upvote" href="javascript:vote(12338, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/upstage/SOLAR-10.7B-v1.0" rel="nofollow" id="tr12"><h1>Upstage, 10.7B SOLAR 모델을 상용화 가능한 라이선스로 공개</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=12338" class="c99 breakall">- 기존의 Llama2 7B의 능력을 극대화하기 위해 Depth Up-Scaling 기술을 개발하여 적용  
 - 벤치마크상 매개변수가 30억개 미만인 모델에서는 뛰...</a></div><div class="topicinfo"><span id="tp12338">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12338"></span> | <a href="topic?id=12338" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -106,17 +115,8 @@
         <id>https://news.hada.io/topic?id=12346</id>
         <link href="https://news.hada.io/topic?id=12346"/>
         <updated>2023-12-15T01:56:00.047Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12346"><a class="upvote" href="javascript:vote(12346, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain" rel="nofollow" id="tr12"><h1>GN⁺: 바르셀로나 슈퍼컴퓨팅 센터, 새로운 오픈소스 RISC-V 칩 'Sargantana' 발표 </h1></a> <span class="topicurl">(bsc.es)</span></div><div class="topicdesc"><a href="topic?id=12346" class="c99 breakall">- BSC가 설계한 Lagarto 프로세서 패밀리의 3세대는 유럽 고성능 칩 개발에서 한 걸음 나아감  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote12346"><a class="upvote" href="javascript:vote(12346, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain" rel="nofollow" id="tr13"><h1>GN⁺: 바르셀로나 슈퍼컴퓨팅 센터, 새로운 오픈소스 RISC-V 칩 'Sargantana' 발표 </h1></a> <span class="topicurl">(bsc.es)</span></div><div class="topicdesc"><a href="topic?id=12346" class="c99 breakall">- BSC가 설계한 Lagarto 프로세서 패밀리의 3세대는 유럽 고성능 칩 개발에서 한 걸음 나아감  
 - RISC-V 오픈 하드웨어 기술을 기반으로 한 새 ...</a></div><div class="topicinfo"><span id="tp12346">5</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote12346"></span> | <a href="topic?id=12346" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 17.2의 새로운 WebKit 기능들]]></title>
-        <id>https://news.hada.io/topic?id=12343</id>
-        <link href="https://news.hada.io/topic?id=12343"/>
-        <updated>2023-12-15T00:56:13.017Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote12343"><a class="upvote" href="javascript:vote(12343, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://webkit.org/blog/14787/webkit-features-in-safari-17-2/" rel="nofollow" id="tr13"><h1>Safari 17.2의 새로운 WebKit 기능들</h1></a> <span class="topicurl">(webkit.org)</span></div><div class="topicdesc"><a href="topic?id=12343" class="c99 breakall"># HTML   
-- Exclusive Accordion: &lt;details&gt; 엘리먼트에 name 속성 지원. 하나 선택시 다른 아이템 자동으로 닫음   
-- &lt;input&gt; 필드에 autocom...</a></div><div class="topicinfo"><span id="tp12343">5</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12343"></span> | <a href="topic?id=12343" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI Assistant의 사용화, 앞으로 프로그래머는 어떻게 될까?]]></title>
