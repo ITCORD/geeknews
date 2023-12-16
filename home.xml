@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-12-16T06:15:22.565Z</updated>
+    <updated>2023-12-16T07:11:35.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=12365"/>
         <updated>2023-12-16T01:53:00.608Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12365"><a class="upvote" href="javascript:vote(12365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code" rel="nofollow" id="tr1"><h1>gigaGPT - 565줄의 코드로 만든 GPT-3 모델</h1></a> <span class="topicurl">(cerebras.net)</span></div><div class="topicdesc"><a href="topic?id=12365" class="c99 breakall">- 100M(1억개) 파라미터만 가능한 Andrei Karpathy의 nanoGPT 를 개선하여 100B(100억개) 까지 훈련 가능   
-- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">6</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
+- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">6</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Golang용 SQLite 드라이버 벤치마크]]></title>
@@ -20,7 +20,7 @@
         <updated>2023-12-16T01:53:00.608Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr2"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
 - craw: CGO 기반 솔루션. database/sql 드라이버가 아님   
-- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
+- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.39: WebGPU 의 귀환]]></title>
@@ -28,7 +28,7 @@
         <link href="https://news.hada.io/topic?id=12356"/>
         <updated>2023-12-16T01:53:00.613Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr3"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
-- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개]]></title>
@@ -85,11 +85,20 @@
   - M1 Pro(2021모델) + MLX + 32GB...</a></div><div class="topicinfo"><span id="tp12331">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12331"></span> | <a href="topic?id=12331" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Critique - 구글이 개발자 만족도 97%로 코드 리뷰의 고통을 덜어주는 방법]]></title>
+        <id>https://news.hada.io/topic?id=12289</id>
+        <link href="https://news.hada.io/topic?id=12289"/>
+        <updated>2023-12-11T01:56:24.856Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote12289"><a class="upvote" href="javascript:vote(12289, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of" rel="nofollow" id="tr10"><h1>Critique - 구글이 개발자 만족도 97%로 코드 리뷰의 고통을 덜어주는 방법</h1></a> <span class="topicurl">(engineercodex.substack.com)</span></div><div class="topicdesc"><a href="topic?id=12289" class="c99 breakall">- 많은 ex-구글러들이 그리워하는 구글의 코드 리뷰 도구 "Critique"  
+- 구글 내부에서 조사한 결과 개발자 97%가 Critique에 만족한다고 함   
+...</a></div><div class="topicinfo"><span id="tp12289">49</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote12289"></span> | <a href="topic?id=12289" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GN⁺: 바르셀로나 슈퍼컴퓨팅 센터, 새로운 오픈소스 RISC-V 칩 'Sargantana' 발표]]></title>
         <id>https://news.hada.io/topic?id=12346</id>
         <link href="https://news.hada.io/topic?id=12346"/>
         <updated>2023-12-15T01:56:00.047Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote12346"><a class="upvote" href="javascript:vote(12346, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain" rel="nofollow" id="tr10"><h1>GN⁺: 바르셀로나 슈퍼컴퓨팅 센터, 새로운 오픈소스 RISC-V 칩 'Sargantana' 발표 </h1></a> <span class="topicurl">(bsc.es)</span></div><div class="topicdesc"><a href="topic?id=12346" class="c99 breakall">- BSC가 설계한 Lagarto 프로세서 패밀리의 3세대는 유럽 고성능 칩 개발에서 한 걸음 나아감  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote12346"><a class="upvote" href="javascript:vote(12346, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain" rel="nofollow" id="tr11"><h1>GN⁺: 바르셀로나 슈퍼컴퓨팅 센터, 새로운 오픈소스 RISC-V 칩 'Sargantana' 발표 </h1></a> <span class="topicurl">(bsc.es)</span></div><div class="topicdesc"><a href="topic?id=12346" class="c99 breakall">- BSC가 설계한 Lagarto 프로세서 패밀리의 3세대는 유럽 고성능 칩 개발에서 한 걸음 나아감  
 - RISC-V 오픈 하드웨어 기술을 기반으로 한 새 ...</a></div><div class="topicinfo"><span id="tp12346">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote12346"></span> | <a href="topic?id=12346" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -97,18 +106,9 @@
         <id>https://news.hada.io/topic?id=12343</id>
         <link href="https://news.hada.io/topic?id=12343"/>
         <updated>2023-12-15T00:56:13.017Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote12343"><a class="upvote" href="javascript:vote(12343, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://webkit.org/blog/14787/webkit-features-in-safari-17-2/" rel="nofollow" id="tr11"><h1>Safari 17.2의 새로운 WebKit 기능들</h1></a> <span class="topicurl">(webkit.org)</span></div><div class="topicdesc"><a href="topic?id=12343" class="c99 breakall"># HTML   
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12343"><a class="upvote" href="javascript:vote(12343, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://webkit.org/blog/14787/webkit-features-in-safari-17-2/" rel="nofollow" id="tr12"><h1>Safari 17.2의 새로운 WebKit 기능들</h1></a> <span class="topicurl">(webkit.org)</span></div><div class="topicdesc"><a href="topic?id=12343" class="c99 breakall"># HTML   
 - Exclusive Accordion: &lt;details&gt; 엘리먼트에 name 속성 지원. 하나 선택시 다른 아이템 자동으로 닫음   
 - &lt;input&gt; 필드에 autocom...</a></div><div class="topicinfo"><span id="tp12343">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12343"></span> | <a href="topic?id=12343" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critique - 구글이 개발자 만족도 97%로 코드 리뷰의 고통을 덜어주는 방법]]></title>
-        <id>https://news.hada.io/topic?id=12289</id>
-        <link href="https://news.hada.io/topic?id=12289"/>
-        <updated>2023-12-11T01:56:24.856Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12289"><a class="upvote" href="javascript:vote(12289, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of" rel="nofollow" id="tr12"><h1>Critique - 구글이 개발자 만족도 97%로 코드 리뷰의 고통을 덜어주는 방법</h1></a> <span class="topicurl">(engineercodex.substack.com)</span></div><div class="topicdesc"><a href="topic?id=12289" class="c99 breakall">- 많은 ex-구글러들이 그리워하는 구글의 코드 리뷰 도구 "Critique"  
-- 구글 내부에서 조사한 결과 개발자 97%가 Critique에 만족한다고 함   
-...</a></div><div class="topicinfo"><span id="tp12289">48</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote12289"></span> | <a href="topic?id=12289" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Upstage, 10.7B SOLAR 모델을 상용화 가능한 라이선스로 공개]]></title>
