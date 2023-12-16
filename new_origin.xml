@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2023-12-16T02:23:59.406Z</updated>
+    <updated>2023-12-16T03:13:26.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,33 +11,33 @@
         <link href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code"/>
         <updated>2023-12-16T01:53:12.142Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12365"><a class="upvote" href="javascript:vote(12365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code" rel="nofollow" id="tr1"><h1>gigaGPT - 565줄의 코드로 만든 GPT-3 모델</h1></a> <span class="topicurl">(cerebras.net)</span></div><div class="topicdesc"><a href="topic?id=12365" class="c99 breakall">- 100M(1억개) 파라미터만 가능한 Andrei Karpathy의 nanoGPT 를 개선하여 100B(100억개) 까지 훈련 가능   
-- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">2</span> points by <a href="/user?id=xguru">xguru</a> 53분전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개]]></title>
-        <id>https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/</id>
-        <link href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/"/>
-        <updated>2023-12-15T00:56:25.669Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12342"><a class="upvote" href="javascript:vote(12342, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/" rel="nofollow" id="tr2"><h1>Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개</h1></a> <span class="topicurl">(microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=12342" class="c99 breakall">- SLM: Small Language Model  
-- 2.7B 모델임에도 최대 25배 큰 모델과 같거나 더 좋은 성능을 보임  
-  - Mistral 7B, Llama-7B/13B 성능을 능...</a></div><div class="topicinfo"><span id="tp12342">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12342"></span> | <a href="topic?id=12342" class="u">댓글 2개</a></div>]]></content>
+- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Golang용 SQLite 드라이버 벤치마크]]></title>
         <id>https://github.com/cvilsmeier/go-sqlite-bench</id>
         <link href="https://github.com/cvilsmeier/go-sqlite-bench"/>
         <updated>2023-12-16T01:53:12.143Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr3"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr2"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
 - craw: CGO 기반 솔루션. database/sql 드라이버가 아님   
-- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
+- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.39: WebGPU 의 귀환]]></title>
         <id>https://deno.com/blog/v1.39</id>
         <link href="https://deno.com/blog/v1.39"/>
         <updated>2023-12-16T01:53:12.143Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr4"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
-- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr3"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
+- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개]]></title>
+        <id>https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/</id>
+        <link href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/"/>
+        <updated>2023-12-15T00:56:25.669Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12342"><a class="upvote" href="javascript:vote(12342, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/" rel="nofollow" id="tr4"><h1>Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개</h1></a> <span class="topicurl">(microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=12342" class="c99 breakall">- SLM: Small Language Model  
+- 2.7B 모델임에도 최대 25배 큰 모델과 같거나 더 좋은 성능을 보임  
+  - Mistral 7B, Llama-7B/13B 성능을 능...</a></div><div class="topicinfo"><span id="tp12342">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12342"></span> | <a href="topic?id=12342" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아름다운 코드에 대하여]]></title>
@@ -136,19 +136,19 @@
 - "Pinterest Predicts"는 *아직-트렌드가-아닌* 내년...</a></div><div class="topicinfo"><span id="tp12332">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12332"></span> | <a href="topic?id=12332" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Mozilla, Android용 Firefox의 확장 기능 지원 확대]]></title>
-        <id>https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/</id>
-        <link href="https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/"/>
-        <updated>2023-12-15T01:56:13.001Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote12345"><a class="upvote" href="javascript:vote(12345, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/" rel="nofollow" id="tr16"><h1>GN⁺: Mozilla, Android용 Firefox의 확장 기능 지원 확대</h1></a> <span class="topicurl">(blog.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=12345" class="c99 breakall">- 모질라가 안드로이드용 파이어폭스 사용자를 위해 450개 이상의 새로운 확장 프로그램을 AMO(Android용 Addons.mozilla.org) 페이지에서 출시함....</a></div><div class="topicinfo"><span id="tp12345">3</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote12345"></span> | <a href="topic?id=12345" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: 2024년에 공공 도메인에 들어갈 작품들]]></title>
         <id>https://publicdomainreview.org/features/entering-the-public-domain/2024/</id>
         <link href="https://publicdomainreview.org/features/entering-the-public-domain/2024/"/>
         <updated>2023-12-14T01:54:09.733Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote12327"><a class="upvote" href="javascript:vote(12327, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://publicdomainreview.org/features/entering-the-public-domain/2024/" rel="nofollow" id="tr17"><h1>GN⁺: 2024년에 공공 도메인에 들어갈 작품들</h1></a> <span class="topicurl">(publicdomainreview.org)</span></div><div class="topicdesc"><a href="topic?id=12327" class="c99 breakall">- 디즈니의 스팀보트 윌리(미키마우스), J.R.R. 톨킨, 아가사 크리스티, 버지니아 울프 등이 포함  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote12327"><a class="upvote" href="javascript:vote(12327, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://publicdomainreview.org/features/entering-the-public-domain/2024/" rel="nofollow" id="tr16"><h1>GN⁺: 2024년에 공공 도메인에 들어갈 작품들</h1></a> <span class="topicurl">(publicdomainreview.org)</span></div><div class="topicdesc"><a href="topic?id=12327" class="c99 breakall">- 디즈니의 스팀보트 윌리(미키마우스), J.R.R. 톨킨, 아가사 크리스티, 버지니아 울프 등이 포함  
 - 매년 1월 1일, 새로운 작품들이 공공 도메...</a></div><div class="topicinfo"><span id="tp12327">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote12327"></span> | <a href="topic?id=12327" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Mozilla, Android용 Firefox의 확장 기능 지원 확대]]></title>
+        <id>https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/</id>
+        <link href="https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/"/>
+        <updated>2023-12-15T01:56:13.001Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote12345"><a class="upvote" href="javascript:vote(12345, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/" rel="nofollow" id="tr17"><h1>GN⁺: Mozilla, Android용 Firefox의 확장 기능 지원 확대</h1></a> <span class="topicurl">(blog.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=12345" class="c99 breakall">- 모질라가 안드로이드용 파이어폭스 사용자를 위해 450개 이상의 새로운 확장 프로그램을 AMO(Android용 Addons.mozilla.org) 페이지에서 출시함....</a></div><div class="topicinfo"><span id="tp12345">3</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote12345"></span> | <a href="topic?id=12345" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netflix, 년 2회 인게이지먼트(시청 현황) 보고서 발행]]></title>
