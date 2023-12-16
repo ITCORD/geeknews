@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2023-12-16T05:11:52.119Z</updated>
+    <updated>2023-12-16T06:15:22.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=12365"/>
         <updated>2023-12-16T01:53:00.608Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12365"><a class="upvote" href="javascript:vote(12365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code" rel="nofollow" id="tr1"><h1>gigaGPT - 565줄의 코드로 만든 GPT-3 모델</h1></a> <span class="topicurl">(cerebras.net)</span></div><div class="topicdesc"><a href="topic?id=12365" class="c99 breakall">- 100M(1억개) 파라미터만 가능한 Andrei Karpathy의 nanoGPT 를 개선하여 100B(100억개) 까지 훈련 가능   
-- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">5</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
+- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">6</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Golang용 SQLite 드라이버 벤치마크]]></title>
@@ -20,24 +20,24 @@
         <updated>2023-12-16T01:53:00.608Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr2"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
 - craw: CGO 기반 솔루션. database/sql 드라이버가 아님   
-- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개]]></title>
-        <id>https://news.hada.io/topic?id=12342</id>
-        <link href="https://news.hada.io/topic?id=12342"/>
-        <updated>2023-12-15T00:56:13.012Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12342"><a class="upvote" href="javascript:vote(12342, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/" rel="nofollow" id="tr3"><h1>Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개</h1></a> <span class="topicurl">(microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=12342" class="c99 breakall">- SLM: Small Language Model  
-- 2.7B 모델임에도 최대 25배 큰 모델과 같거나 더 좋은 성능을 보임  
-  - Mistral 7B, Llama-7B/13B 성능을 능...</a></div><div class="topicinfo"><span id="tp12342">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12342"></span> | <a href="topic?id=12342" class="u">댓글 2개</a></div>]]></content>
+- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.39: WebGPU 의 귀환]]></title>
         <id>https://news.hada.io/topic?id=12356</id>
         <link href="https://news.hada.io/topic?id=12356"/>
         <updated>2023-12-16T01:53:00.613Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr4"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
-- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">2</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr3"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
+- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개]]></title>
+        <id>https://news.hada.io/topic?id=12342</id>
+        <link href="https://news.hada.io/topic?id=12342"/>
+        <updated>2023-12-15T00:56:13.012Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12342"><a class="upvote" href="javascript:vote(12342, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/" rel="nofollow" id="tr4"><h1>Microsoft, 2.7B로 작지만 강력한 Phi-2 언어 모델 공개</h1></a> <span class="topicurl">(microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=12342" class="c99 breakall">- SLM: Small Language Model  
+- 2.7B 모델임에도 최대 25배 큰 모델과 같거나 더 좋은 성능을 보임  
+  - Mistral 7B, Llama-7B/13B 성능을 능...</a></div><div class="topicinfo"><span id="tp12342">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12342"></span> | <a href="topic?id=12342" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아름다운 코드에 대하여]]></title>
@@ -50,21 +50,21 @@
   * 놀라운 것과 자연스...</a></div><div class="topicinfo"><span id="tp12348">9</span> points by <a href="/user?id=kciter1">kciter1</a> 1일전<span id="unvote12348"></span> | <a href="topic?id=12348" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Windows AI Studio 프리뷰]]></title>
-        <id>https://news.hada.io/topic?id=12350</id>
-        <link href="https://news.hada.io/topic?id=12350"/>
-        <updated>2023-12-15T01:56:00.043Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote12350"><a class="upvote" href="javascript:vote(12350, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/windows-ai-studio" rel="nofollow" id="tr6"><h1>Microsoft Windows AI Studio 프리뷰</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=12350" class="c99 breakall">- 최신 AI 개발 도구와 모델 카달로그를 연동하여 생성형 AI 앱 개발을 간소화   
-  - Azure AI Studio Catalog 와 Hugging Faces 등을 검색하고 ...</a></div><div class="topicinfo"><span id="tp12350">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12350"></span> | <a href="topic?id=12350" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trippy - Traceroute 와 ping을 결합한 네트워크 이슈 분석 도구 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=12321</id>
         <link href="https://news.hada.io/topic?id=12321"/>
         <updated>2023-12-14T00:54:55.797Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote12321"><a class="upvote" href="javascript:vote(12321, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://trippy.cli.rs/" rel="nofollow" id="tr7"><h1>Trippy - Traceroute 와 ping을 결합한 네트워크 이슈 분석 도구 오픈소스</h1></a> <span class="topicurl">(trippy.cli.rs)</span></div><div class="topicdesc"><a href="topic?id=12321" class="c99 breakall">- 멀티 프로토콜 추적 : ICMP, UDP, TCP, IPv4 &amp; IPv6  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote12321"><a class="upvote" href="javascript:vote(12321, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://trippy.cli.rs/" rel="nofollow" id="tr6"><h1>Trippy - Traceroute 와 ping을 결합한 네트워크 이슈 분석 도구 오픈소스</h1></a> <span class="topicurl">(trippy.cli.rs)</span></div><div class="topicdesc"><a href="topic?id=12321" class="c99 breakall">- 멀티 프로토콜 추적 : ICMP, UDP, TCP, IPv4 &amp; IPv6  
 - 멀티 플랫폼(Rust): 맥,리눅스,BSD,윈도우  
 - 다양한 추적 옵션 커스터마이징: 패킷 ...</a></div><div class="topicinfo"><span id="tp12321">21</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12321"></span> | <a href="topic?id=12321" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Windows AI Studio 프리뷰]]></title>
+        <id>https://news.hada.io/topic?id=12350</id>
+        <link href="https://news.hada.io/topic?id=12350"/>
+        <updated>2023-12-15T01:56:00.043Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote12350"><a class="upvote" href="javascript:vote(12350, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/windows-ai-studio" rel="nofollow" id="tr7"><h1>Microsoft Windows AI Studio 프리뷰</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=12350" class="c99 breakall">- 최신 AI 개발 도구와 모델 카달로그를 연동하여 생성형 AI 앱 개발을 간소화   
+  - Azure AI Studio Catalog 와 Hugging Faces 등을 검색하고 ...</a></div><div class="topicinfo"><span id="tp12350">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12350"></span> | <a href="topic?id=12350" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 테슬라 FSD Timeline]]></title>
@@ -102,38 +102,38 @@
 - &lt;input&gt; 필드에 autocom...</a></div><div class="topicinfo"><span id="tp12343">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12343"></span> | <a href="topic?id=12343" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upstage, 10.7B SOLAR 모델을 상용화 가능한 라이선스로 공개]]></title>
-        <id>https://news.hada.io/topic?id=12338</id>
-        <link href="https://news.hada.io/topic?id=12338"/>
-        <updated>2023-12-15T00:56:13.016Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12338"><a class="upvote" href="javascript:vote(12338, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/upstage/SOLAR-10.7B-v1.0" rel="nofollow" id="tr12"><h1>Upstage, 10.7B SOLAR 모델을 상용화 가능한 라이선스로 공개</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=12338" class="c99 breakall">- 기존의 Llama2 7B의 능력을 극대화하기 위해 Depth Up-Scaling 기술을 개발하여 적용  
-- 벤치마크상 매개변수가 30억개 미만인 모델에서는 뛰...</a></div><div class="topicinfo"><span id="tp12338">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12338"></span> | <a href="topic?id=12338" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Critique - 구글이 개발자 만족도 97%로 코드 리뷰의 고통을 덜어주는 방법]]></title>
         <id>https://news.hada.io/topic?id=12289</id>
         <link href="https://news.hada.io/topic?id=12289"/>
         <updated>2023-12-11T01:56:24.856Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote12289"><a class="upvote" href="javascript:vote(12289, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of" rel="nofollow" id="tr13"><h1>Critique - 구글이 개발자 만족도 97%로 코드 리뷰의 고통을 덜어주는 방법</h1></a> <span class="topicurl">(engineercodex.substack.com)</span></div><div class="topicdesc"><a href="topic?id=12289" class="c99 breakall">- 많은 ex-구글러들이 그리워하는 구글의 코드 리뷰 도구 "Critique"  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12289"><a class="upvote" href="javascript:vote(12289, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of" rel="nofollow" id="tr12"><h1>Critique - 구글이 개발자 만족도 97%로 코드 리뷰의 고통을 덜어주는 방법</h1></a> <span class="topicurl">(engineercodex.substack.com)</span></div><div class="topicdesc"><a href="topic?id=12289" class="c99 breakall">- 많은 ex-구글러들이 그리워하는 구글의 코드 리뷰 도구 "Critique"  
 - 구글 내부에서 조사한 결과 개발자 97%가 Critique에 만족한다고 함   
 ...</a></div><div class="topicinfo"><span id="tp12289">48</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote12289"></span> | <a href="topic?id=12289" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinterest가 정리한 2024년 주요 트렌드]]></title>
-        <id>https://news.hada.io/topic?id=12332</id>
-        <link href="https://news.hada.io/topic?id=12332"/>
-        <updated>2023-12-14T02:24:55.456Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote12332"><a class="upvote" href="javascript:vote(12332, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://business.pinterest.com/en-in/pinterest-predicts/" rel="nofollow" id="tr14"><h1>Pinterest가 정리한 2024년 주요 트렌드</h1></a> <span class="topicurl">(business.pinterest.com)</span></div><div class="topicdesc"><a href="topic?id=12332" class="c99 breakall">- 4.8억명의 사람들이 Pinterest를 이용하여 인생의 다음 계획에 필요한 것들을 수집함   
-- "Pinterest Predicts"는 *아직-트렌드가-아닌* 내년...</a></div><div class="topicinfo"><span id="tp12332">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12332"></span> | <a href="topic?id=12332" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[Upstage, 10.7B SOLAR 모델을 상용화 가능한 라이선스로 공개]]></title>
+        <id>https://news.hada.io/topic?id=12338</id>
+        <link href="https://news.hada.io/topic?id=12338"/>
+        <updated>2023-12-15T00:56:13.016Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote12338"><a class="upvote" href="javascript:vote(12338, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/upstage/SOLAR-10.7B-v1.0" rel="nofollow" id="tr13"><h1>Upstage, 10.7B SOLAR 모델을 상용화 가능한 라이선스로 공개</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=12338" class="c99 breakall">- 기존의 Llama2 7B의 능력을 극대화하기 위해 Depth Up-Scaling 기술을 개발하여 적용  
+- 벤치마크상 매개변수가 30억개 미만인 모델에서는 뛰...</a></div><div class="topicinfo"><span id="tp12338">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12338"></span> | <a href="topic?id=12338" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI Assistant의 사용화, 앞으로 프로그래머는 어떻게 될까?]]></title>
         <id>https://news.hada.io/topic?id=12320</id>
         <link href="https://news.hada.io/topic?id=12320"/>
         <updated>2023-12-13T12:22:49.260Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote12320"><a class="upvote" href="javascript:vote(12320, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/z7vgjr4m1y84gmdwpy86" rel="nofollow" id="tr15"><h1>AI Assistant의 사용화, 앞으로 프로그래머는 어떻게 될까?</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=12320" class="c99 breakall">### 주니어 엔지니어  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote12320"><a class="upvote" href="javascript:vote(12320, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/z7vgjr4m1y84gmdwpy86" rel="nofollow" id="tr14"><h1>AI Assistant의 사용화, 앞으로 프로그래머는 어떻게 될까?</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=12320" class="c99 breakall">### 주니어 엔지니어  
   
 -   AI 도구의 이점과 위험성: 신입 개발자는 AI 도구로부터 가장 큰 이득과 손실을 동시에 경험할 수 있습니다. AI ...</a></div><div class="topicinfo"><span id="tp12320">12</span> points by <a href="/user?id=haebom">haebom</a> 3일전<span id="unvote12320"></span> | <a href="topic?id=12320" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinterest가 정리한 2024년 주요 트렌드]]></title>
+        <id>https://news.hada.io/topic?id=12332</id>
+        <link href="https://news.hada.io/topic?id=12332"/>
+        <updated>2023-12-14T02:24:55.456Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote12332"><a class="upvote" href="javascript:vote(12332, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://business.pinterest.com/en-in/pinterest-predicts/" rel="nofollow" id="tr15"><h1>Pinterest가 정리한 2024년 주요 트렌드</h1></a> <span class="topicurl">(business.pinterest.com)</span></div><div class="topicdesc"><a href="topic?id=12332" class="c99 breakall">- 4.8억명의 사람들이 Pinterest를 이용하여 인생의 다음 계획에 필요한 것들을 수집함   
+- "Pinterest Predicts"는 *아직-트렌드가-아닌* 내년...</a></div><div class="topicinfo"><span id="tp12332">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12332"></span> | <a href="topic?id=12332" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 2024년에 공공 도메인에 들어갈 작품들]]></title>
