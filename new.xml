@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-12-16T13:13:38.683Z</updated>
+    <updated>2023-12-16T14:11:34.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=12365"/>
         <updated>2023-12-16T01:53:08.274Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12365"><a class="upvote" href="javascript:vote(12365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code" rel="nofollow" id="tr1"><h1>gigaGPT - 565줄의 코드로 만든 GPT-3 모델</h1></a> <span class="topicurl">(cerebras.net)</span></div><div class="topicdesc"><a href="topic?id=12365" class="c99 breakall">- 100M(1억개) 파라미터만 가능한 Andrei Karpathy의 nanoGPT 를 개선하여 100B(100억개) 까지 훈련 가능   
-- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">7</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
+- 다른 코드 및 타사 프레임워크 의...</a></div><div class="topicinfo"><span id="tp12365">7</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote12365"></span> | <a href="topic?id=12365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Golang용 SQLite 드라이버 벤치마크]]></title>
@@ -20,7 +20,7 @@
         <updated>2023-12-16T01:53:08.274Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12362"><a class="upvote" href="javascript:vote(12362, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cvilsmeier/go-sqlite-bench" rel="nofollow" id="tr2"><h1>Golang용 SQLite 드라이버 벤치마크</h1></a> <span class="topicurl">(github.com/cvilsmeier)</span></div><div class="topicdesc"><a href="topic?id=12362" class="c99 breakall"># 사용한 라이브러리들   
 - craw: CGO 기반 솔루션. database/sql 드라이버가 아님   
-- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
+- mattn: CGO 기반 솔루션. 여전히 de-facto standard 이...</a></div><div class="topicinfo"><span id="tp12362">3</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote12362"></span> | <a href="topic?id=12362" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.39: WebGPU 의 귀환]]></title>
@@ -28,7 +28,7 @@
         <link href="https://news.hada.io/topic?id=12356"/>
         <updated>2023-12-16T01:53:08.275Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12356"><a class="upvote" href="javascript:vote(12356, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v1.39" rel="nofollow" id="tr3"><h1>Deno 1.39: WebGPU 의 귀환</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=12356" class="c99 breakall">- 2021년에 도입되었다가 올해초 성능문제로 제거되었던 WebGPU가 다시 복귀. 모든 성능문제가 해결됨.   
-- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
+- 새로운 `deno coverage` 리포터 `sum...</a></div><div class="topicinfo"><span id="tp12356">3</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote12356"></span> | <a href="topic?id=12356" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Windows AI Studio 프리뷰]]></title>
@@ -36,7 +36,7 @@
         <link href="https://news.hada.io/topic?id=12350"/>
         <updated>2023-12-15T01:56:08.656Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12350"><a class="upvote" href="javascript:vote(12350, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/windows-ai-studio" rel="nofollow" id="tr4"><h1>Microsoft Windows AI Studio 프리뷰</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=12350" class="c99 breakall">- 최신 AI 개발 도구와 모델 카달로그를 연동하여 생성형 AI 앱 개발을 간소화   
-  - Azure AI Studio Catalog 와 Hugging Faces 등을 검색하고 ...</a></div><div class="topicinfo"><span id="tp12350">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12350"></span> | <a href="topic?id=12350" class="u">댓글과 토론</a></div>]]></content>
+  - Azure AI Studio Catalog 와 Hugging Faces 등을 검색하고 ...</a></div><div class="topicinfo"><span id="tp12350">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12350"></span> | <a href="topic?id=12350" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아름다운 코드에 대하여]]></title>
@@ -46,7 +46,7 @@
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote12348"><a class="upvote" href="javascript:vote(12348, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/what-is-beautiful-code" rel="nofollow" id="tr5"><h1>아름다운 코드에 대하여</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=12348" class="c99 breakall">* 아름다움이란?  
   * 아름다움은 사람이 느끼는 가치  
   * 놀라움, 새로움, 안정성, 편안함, 단순성 등을 주는 것  
-  * 놀라운 것과 자연스...</a></div><div class="topicinfo"><span id="tp12348">9</span> points by <a href="/user?id=kciter1">kciter1</a> 1일전<span id="unvote12348"></span> | <a href="topic?id=12348" class="u">댓글 4개</a></div>]]></content>
+  * 놀라운 것과 자연스...</a></div><div class="topicinfo"><span id="tp12348">9</span> points by <a href="/user?id=kciter1">kciter1</a> 2일전<span id="unvote12348"></span> | <a href="topic?id=12348" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Safari 17.2의 새로운 WebKit 기능들]]></title>
@@ -99,7 +99,7 @@
         <updated>2023-12-14T02:25:03.241Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote12331"><a class="upvote" href="javascript:vote(12331, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://owehrens.com/whisper-nvidia-rtx-4090-vs-m1pro-with-mlx/" rel="nofollow" id="tr11"><h1>Whisper로 비교한 Nvidia 4090과 M1/M2/M3 with MLX</h1></a> <span class="topicurl">(owehrens.com)</span></div><div class="topicdesc"><a href="topic?id=12331" class="c99 breakall">- 애플이 공개한 머신러닝 프레임워크 MLX의 성능 벤치마크  
 - 10분짜리 오디오를 Whisper로 Transcribe   
-  - M1 Pro(2021모델) + MLX + 32GB...</a></div><div class="topicinfo"><span id="tp12331">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12331"></span> | <a href="topic?id=12331" class="u">댓글 1개</a></div>]]></content>
+  - M1 Pro(2021모델) + MLX + 32GB...</a></div><div class="topicinfo"><span id="tp12331">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12331"></span> | <a href="topic?id=12331" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, Imagen 2 이미지 생성 AI 정식 출시]]></title>
@@ -108,7 +108,7 @@
         <updated>2023-12-14T01:54:05.892Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12329"><a class="upvote" href="javascript:vote(12329, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cloud.google.com/blog/products/ai-machine-learning/imagen-2-on-vertex-ai-is-now-generally-available" rel="nofollow" id="tr12"><h1>구글, Imagen 2 이미지 생성 AI 정식 출시</h1></a> <span class="topicurl">(cloud.google.com)</span></div><div class="topicdesc"><a href="topic?id=12329" class="c99 breakall">- Google Cloud가 이제 Imagen 2를 Vertex AI 고객들에게 제공 시작  
 - Google DeepMind 기술을 사용하여 개발  
-- 매우 사실적인 고품질, 고해...</a></div><div class="topicinfo"><span id="tp12329">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12329"></span> | <a href="topic?id=12329" class="u">댓글과 토론</a></div>]]></content>
+- 매우 사실적인 고품질, 고해...</a></div><div class="topicinfo"><span id="tp12329">6</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12329"></span> | <a href="topic?id=12329" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netflix, 년 2회 인게이지먼트(시청 현황) 보고서 발행]]></title>
@@ -144,7 +144,7 @@
         <updated>2023-12-13T02:26:54.220Z</updated>
         <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote12317"><a class="upvote" href="javascript:vote(12317, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.apple.com/kr/newsroom/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/" rel="nofollow" id="tr16"><h1>Apple, iPhone 15 Pro에 공간 동영상 촬영 도입</h1></a> <span class="topicurl">(apple.com)</span></div><div class="topicdesc"><a href="topic?id=12317" class="c99 breakall">- 오늘 iOS 17.2 출시와 함께 공간 동영상(Spatial Video) 촬영이 가능해짐  
 - 촬영된 영상은 내년 출시될 Apple Vision Pro에서 감상 가능   
-...</a></div><div class="topicinfo"><span id="tp12317">7</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12317"></span> | <a href="topic?id=12317" class="u">댓글 1개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp12317">7</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote12317"></span> | <a href="topic?id=12317" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stability AI, Edge 기기를 위한 Stable LM Zephyr 3B LLM 공개]]></title>
@@ -153,7 +153,7 @@
         <updated>2023-12-13T01:56:12.057Z</updated>
         <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote12311"><a class="upvote" href="javascript:vote(12311, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/stablelm-zephyr-3b-stability-llm" rel="nofollow" id="tr17"><h1>Stability AI, Edge 기기를 위한 Stable LM Zephyr 3B LLM 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=12311" class="c99 breakall">- 7B 모델보다 60% 작은 30억개의 파라미터를 가진 LLM  
 - 명령어 추종 및 Q&amp;A 작업에 알맞게 튜닝된 모델   
-- 고성능 하드웨어 없이도 다양한...</a></div><div class="topicinfo"><span id="tp12311">6</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12311"></span> | <a href="topic?id=12311" class="u">댓글과 토론</a></div>]]></content>
+- 고성능 하드웨어 없이도 다양한...</a></div><div class="topicinfo"><span id="tp12311">6</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote12311"></span> | <a href="topic?id=12311" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FrankenPHP v1.0 릴리즈]]></title>
@@ -179,6 +179,6 @@
         <updated>2023-12-12T01:56:34.657Z</updated>
         <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote12303"><a class="upvote" href="javascript:vote(12303, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cbinsights.com/research/report/big-tech-future-charts/" rel="nofollow" id="tr20"><h1>10개의 차트로 살펴본 빅테크의 미래 </h1></a> <span class="topicurl">(cbinsights.com)</span></div><div class="topicdesc"><a href="topic?id=12303" class="c99 breakall">- 빅테크의 지배력:   
   - 빅테크 6개사(마이크로소프트, 애플, Meta, 구글, 아마존, Nvidia) 시가총액은 $11T가 넘음  
-  - 전체 10억달러 유...</a></div><div class="topicinfo"><span id="tp12303">17</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote12303"></span> | <a href="topic?id=12303" class="u">댓글 1개</a></div>]]></content>
+  - 전체 10억달러 유...</a></div><div class="topicinfo"><span id="tp12303">17</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote12303"></span> | <a href="topic?id=12303" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
