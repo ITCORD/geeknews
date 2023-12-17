@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-12-17T12:21:26.892Z</updated>
+    <updated>2023-12-17T13:13:30.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 올해 당신에게 영감을 준 것]]></title>
+        <id>https://news.hada.io/topic?id=12383</id>
+        <link href="https://news.hada.io/topic?id=12383"/>
+        <updated>2023-12-17T13:13:11.575Z</updated>
+        <content type="html"><![CDATA[haebom]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ArXiv GPT - 전세계 논문을 AI가 자동으로 한글 번역, 요약, 분석, QnA를 한방에!!!]]></title>
         <id>https://news.hada.io/topic?id=12187</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=10900"/>
         <updated>2023-09-16T11:09:37.188Z</updated>
         <content type="html"><![CDATA[cyflux]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 랜덤달리기]]></title>
-        <id>https://news.hada.io/topic?id=11363</id>
-        <link href="https://news.hada.io/topic?id=11363"/>
-        <updated>2023-10-16T02:22:07.067Z</updated>
-        <content type="html"><![CDATA[imjhua]]></content>
     </entry>
 </feed>
