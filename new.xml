@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-12-21T01:53:53.187Z</updated>
+    <updated>2023-12-21T02:24:53.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=12457"/>
         <updated>2023-12-21T01:53:27.243Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12457"><a class="upvote" href="javascript:vote(12457, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/SJTU-IPADS/PowerInfer" rel="nofollow" id="tr1"><h1>PowerInfer - 소비자용 GPU를 사용해서 빠르게 LLM 서빙하기</h1></a> <span class="topicurl">(github.com/SJTU-IPADS)</span></div><div class="topicdesc"><a href="topic?id=12457" class="c99 breakall">- RTX 4090(24G)에서 Falcon(ReLU)-40B-FP16 실행시 llama.cpp 보다 11배 빠름   
-- 기기의 Activation Locality를 활용하는 CPU/GPU 하이브리드 ...</a></div><div class="topicinfo"><span id="tp12457">1</span> point by <a href="/user?id=xguru">xguru</a> 2분전<span id="unvote12457"></span> | <a href="topic?id=12457" class="u">댓글과 토론</a></div>]]></content>
+- 기기의 Activation Locality를 활용하는 CPU/GPU 하이브리드 ...</a></div><div class="topicinfo"><span id="tp12457">3</span> points by <a href="/user?id=xguru">xguru</a> 33분전<span id="unvote12457"></span> | <a href="topic?id=12457" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년은 오픈 LLM의 해]]></title>
@@ -20,7 +20,7 @@
         <updated>2023-12-21T01:53:27.243Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12455"><a class="upvote" href="javascript:vote(12455, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/2023-in-llms" rel="nofollow" id="tr2"><h1>2023년은 오픈 LLM의 해</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=12455" class="c99 breakall">- 대규모 언어 모델(LLM)에 대한 대중의 관심이 증가하고, 오픈 소스와 비공개 소스에 대한 논의가 확산됨  
   
-# Pretrained LLM을 위한 레시피...</a></div><div class="topicinfo"><span id="tp12455">3</span> points by <a href="/user?id=xguru">xguru</a> 20분전<span id="unvote12455"></span> | <a href="topic?id=12455" class="u">댓글과 토론</a></div>]]></content>
+# Pretrained LLM을 위한 레시피...</a></div><div class="topicinfo"><span id="tp12455">4</span> points by <a href="/user?id=xguru">xguru</a> 51분전<span id="unvote12455"></span> | <a href="topic?id=12455" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 아마도 몰랐을 Apache 프로젝트들]]></title>
@@ -29,14 +29,14 @@
         <updated>2023-12-21T01:53:27.245Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12452"><a class="upvote" href="javascript:vote(12452, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.frankel.ch/five-apache-projects/" rel="nofollow" id="tr3"><h1>당신이 아마도 몰랐을 Apache 프로젝트들</h1></a> <span class="topicurl">(blog.frankel.ch)</span></div><div class="topicdesc"><a href="topic?id=12452" class="c99 breakall">- APISIX, ShardingSphere, SeaTunnel, SkyWalking, Doris  
 # Apache APISIX  
-- Apache APISIX는 API 게이트웨이로, 유명한 nginx 리버스 프록...</a></div><div class="topicinfo"><span id="tp12452">2</span> points by <a href="/user?id=xguru">xguru</a> 51분전<span id="unvote12452"></span> | <a href="topic?id=12452" class="u">댓글과 토론</a></div>]]></content>
+- Apache APISIX는 API 게이트웨이로, 유명한 nginx 리버스 프록...</a></div><div class="topicinfo"><span id="tp12452">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote12452"></span> | <a href="topic?id=12452" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹플랫폼 Baseline 2023]]></title>
         <id>https://news.hada.io/topic?id=12446</id>
         <link href="https://news.hada.io/topic?id=12446"/>
         <updated>2023-12-21T00:54:33.240Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12446"><a class="upvote" href="javascript:vote(12446, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/blog/baseline2023" rel="nofollow" id="tr4"><h1>웹플랫폼 Baseline 2023</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=12446" class="c99 breakall">- Baseline: 웹플랫폼의 기능을 주요 브라우저에서 사용할 준비가 되었는지를 알려주는 기준선. 2단계(Newly로 들어와서, 30개월후 Widely가 됨)  ...</a></div><div class="topicinfo"><span id="tp12446">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote12446"></span> | <a href="topic?id=12446" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12446"><a class="upvote" href="javascript:vote(12446, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/blog/baseline2023" rel="nofollow" id="tr4"><h1>웹플랫폼 Baseline 2023</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=12446" class="c99 breakall">- Baseline: 웹플랫폼의 기능을 주요 브라우저에서 사용할 준비가 되었는지를 알려주는 기준선. 2단계(Newly로 들어와서, 30개월후 Widely가 됨)  ...</a></div><div class="topicinfo"><span id="tp12446">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote12446"></span> | <a href="topic?id=12446" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 보일다운, 수많은 탭을 하나로. 흩어진 업무용 툴 정보, 메시지를 한 곳에서]]></title>
@@ -56,14 +56,14 @@
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote12441"><a class="upvote" href="javascript:vote(12441, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/" rel="nofollow" id="tr6"><h1>Beeper 대 Apple 싸움 격화: 의원들, 법무부 조사 요구</h1></a> <span class="topicurl">(androidauthority.com)</span></div><div class="topicdesc"><a href="topic?id=12441" class="c99 breakall"># 미국 상원의원들, 애플에 대한 법무부 조사 촉구
 
 - 양당 소속의 미국 상원의원들이 법무부에 애플의 반경쟁적 행위에 대한 조사를 요청함.
-- 애...</a></div><div class="topicinfo"><span id="tp12441">3</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote12441"></span> | <a href="topic?id=12441" class="u">댓글과 토론</a></div>]]></content>
+- 애...</a></div><div class="topicinfo"><span id="tp12441">3</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote12441"></span> | <a href="topic?id=12441" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DebConf24 - 한국 부산 개최 예정]]></title>
         <id>https://news.hada.io/topic?id=12440</id>
         <link href="https://news.hada.io/topic?id=12440"/>
         <updated>2023-12-20T03:10:52.086Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote12440"><a class="upvote" href="javascript:vote(12440, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lists.debian.org/debconf-announce/2023/12/msg00000.html" rel="nofollow" id="tr7"><h1>DebConf24 - 한국 부산 개최 예정</h1></a> <span class="topicurl">(lists.debian.org)</span></div><div class="topicdesc"><a href="topic?id=12440" class="c99 breakall">- 연례 데비안 프로젝트 개발자의 회의인 DebConf가 원래 2024년에는 이스라엘 하이파에서 열릴 예정 이였으나, 전쟁으로 인한 이스라엘 현지 상황...</a></div><div class="topicinfo"><span id="tp12440">8</span> points by <a href="/user?id=sukso96100">sukso96100</a> 24시간전<span id="unvote12440"></span> | <a href="topic?id=12440" class="u">댓글 7개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote12440"><a class="upvote" href="javascript:vote(12440, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lists.debian.org/debconf-announce/2023/12/msg00000.html" rel="nofollow" id="tr7"><h1>DebConf24 - 한국 부산 개최 예정</h1></a> <span class="topicurl">(lists.debian.org)</span></div><div class="topicdesc"><a href="topic?id=12440" class="c99 breakall">- 연례 데비안 프로젝트 개발자의 회의인 DebConf가 원래 2024년에는 이스라엘 하이파에서 열릴 예정 이였으나, 전쟁으로 인한 이스라엘 현지 상황...</a></div><div class="topicinfo"><span id="tp12440">8</span> points by <a href="/user?id=sukso96100">sukso96100</a> 1일전<span id="unvote12440"></span> | <a href="topic?id=12440" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fedora Asahi Remix - 애플 실리콘 맥을 위한 가장 세련된 리눅스]]></title>
@@ -72,14 +72,14 @@
         <updated>2023-12-20T02:10:51.957Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote12438"><a class="upvote" href="javascript:vote(12438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://asahilinux.org/fedora/" rel="nofollow" id="tr8"><h1>Fedora Asahi Remix - 애플 실리콘 맥을 위한 가장 세련된 리눅스</h1></a> <span class="topicurl">(asahilinux.org)</span></div><div class="topicdesc"><a href="topic?id=12438" class="c99 breakall">- Fedora Linux 39 + Apple Silicon  
 - 모든 M1/M2 시리즈 맥북/맥미니/맥스튜디오/iMac 기기 지원   
-- 맥에서 `curl https://alx.sh | sh` 입...</a></div><div class="topicinfo"><span id="tp12438">13</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote12438"></span> | <a href="topic?id=12438" class="u">댓글 5개</a></div>]]></content>
+- 맥에서 `curl https://alx.sh | sh` 입...</a></div><div class="topicinfo"><span id="tp12438">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12438"></span> | <a href="topic?id=12438" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Snack - 여러 AI에게 한 번에 물어보세요]]></title>
         <id>https://news.hada.io/topic?id=12437</id>
         <link href="https://news.hada.io/topic?id=12437"/>
         <updated>2023-12-20T02:10:51.959Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote12437"><a class="upvote" href="javascript:vote(12437, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12437" rel="nofollow" id="tr9"><h1>Show GN: Snack - 여러 AI에게 한 번에 물어보세요</h1></a> <span class="topicurl">(snack.tools)</span></div><div class="topicdesc"><a href="topic?id=12437" class="c99 breakall">더 이상 만족스러운 답변을 얻기 위해 프롬프트를 깎지마세요! 한 번에 여러 AI에게 물어보면 간단한 프롬프트로도 훨씬 더 빠르게 원하는 수준의 ...</a></div><div class="topicinfo"><span id="tp12437">6</span> points by <a href="/user?id=sunghyunzz">sunghyunzz</a> 24시간전<span id="unvote12437"></span> | <a href="topic?id=12437" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote12437"><a class="upvote" href="javascript:vote(12437, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12437" rel="nofollow" id="tr9"><h1>Show GN: Snack - 여러 AI에게 한 번에 물어보세요</h1></a> <span class="topicurl">(snack.tools)</span></div><div class="topicdesc"><a href="topic?id=12437" class="c99 breakall">더 이상 만족스러운 답변을 얻기 위해 프롬프트를 깎지마세요! 한 번에 여러 AI에게 물어보면 간단한 프롬프트로도 훨씬 더 빠르게 원하는 수준의 ...</a></div><div class="topicinfo"><span id="tp12437">6</span> points by <a href="/user?id=sunghyunzz">sunghyunzz</a> 1일전<span id="unvote12437"></span> | <a href="topic?id=12437" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft가 실수로 microsoft.com 도메인에 192.168.1.1을 등록했습니다]]></title>
@@ -87,7 +87,7 @@
         <link href="https://news.hada.io/topic?id=12436"/>
         <updated>2023-12-20T02:10:51.960Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote12436"><a class="upvote" href="javascript:vote(12436, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=38702783" rel="nofollow" id="tr10"><h1>Microsoft가 실수로 microsoft.com 도메인에 192.168.1.1을 등록했습니다</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=12436" class="c99 breakall">- Microsft가 microsft.com 도메인의 DNS를 업데이트 하며 192.168.1.1을 추가함.  
-- 만약 192.168.1.1에 라우터 같은 로컬 네트워크가 있는 경...</a></div><div class="topicinfo"><span id="tp12436">6</span> points by <a href="/user?id=kuroneko">kuroneko</a> 24시간전<span id="unvote12436"></span> | <a href="topic?id=12436" class="u">댓글 2개</a></div>]]></content>
+- 만약 192.168.1.1에 라우터 같은 로컬 네트워크가 있는 경...</a></div><div class="topicinfo"><span id="tp12436">7</span> points by <a href="/user?id=kuroneko">kuroneko</a> 1일전<span id="unvote12436"></span> | <a href="topic?id=12436" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[microsoft/promptbase - 프롬프트 관련 자료, 모범사례, 예제 모음]]></title>
