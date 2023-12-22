@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-12-21T23:13:03.232Z</updated>
+    <updated>2023-12-22T00:54:45.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 스레드(Threads) 게시물을 500글자씩 자동으로 나눠주는 웹서비스]]></title>
+        <id>https://news.hada.io/topic?id=12465</id>
+        <link href="https://news.hada.io/topic?id=12465"/>
+        <updated>2023-12-22T00:54:26.526Z</updated>
+        <content type="html"><![CDATA[lucask0417]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 보일다운, 수많은 탭을 하나로. 흩어진 업무용 툴 정보, 메시지를 한 곳에서]]></title>
         <id>https://news.hada.io/topic?id=12442</id>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[luckydaun]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 올해 당신에게 영감을 준 것]]></title>
-        <id>https://news.hada.io/topic?id=12383</id>
-        <link href="https://news.hada.io/topic?id=12383"/>
-        <updated>2023-12-17T13:13:11.575Z</updated>
-        <content type="html"><![CDATA[haebom]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: ArXiv GPT - 전세계 논문을 AI가 자동으로 한글 번역, 요약, 분석, QnA를 한방에!!!]]></title>
         <id>https://news.hada.io/topic?id=12187</id>
         <link href="https://news.hada.io/topic?id=12187"/>
         <updated>2023-12-05T05:12:06.430Z</updated>
         <content type="html"><![CDATA[aitechtree]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 올해 당신에게 영감을 준 것]]></title>
+        <id>https://news.hada.io/topic?id=12383</id>
+        <link href="https://news.hada.io/topic?id=12383"/>
+        <updated>2023-12-17T13:13:11.575Z</updated>
+        <content type="html"><![CDATA[haebom]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Noiselith - Stable Diffusion XL 을 로컬에서 쉽게!]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=11477"/>
         <updated>2023-10-23T09:13:10.310Z</updated>
         <content type="html"><![CDATA[gracefullight]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 서브폰에서 메인폰으로 푸시를 전달 해주는 Notina]]></title>
-        <id>https://news.hada.io/topic?id=10662</id>
-        <link href="https://news.hada.io/topic?id=10662"/>
-        <updated>2023-12-20T06:13:20.034Z</updated>
-        <content type="html"><![CDATA[zxavi]]></content>
     </entry>
 </feed>
