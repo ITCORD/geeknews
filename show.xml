@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2023-12-24T23:12:47.251Z</updated>
+    <updated>2023-12-25T00:56:14.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Open World Puzzle Game 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=12513</id>
+        <link href="https://news.hada.io/topic?id=12513"/>
+        <updated>2023-12-25T00:55:55.366Z</updated>
+        <content type="html"><![CDATA[popup]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 보일다운, 수많은 탭을 하나로. 흩어진 업무용 툴 정보, 메시지를 한 곳에서]]></title>
         <id>https://news.hada.io/topic?id=12442</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=11632"/>
         <updated>2023-11-01T10:13:19.356Z</updated>
         <content type="html"><![CDATA[nova940116]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Dev feed - 개발 트랜드 구독 슬랙 워크스페이스]]></title>
-        <id>https://news.hada.io/topic?id=11477</id>
-        <link href="https://news.hada.io/topic?id=11477"/>
-        <updated>2023-10-23T09:13:10.310Z</updated>
-        <content type="html"><![CDATA[gracefullight]]></content>
     </entry>
 </feed>
