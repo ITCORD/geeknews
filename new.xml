@@ -2,62 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2023-12-25T08:16:13.767Z</updated>
+    <updated>2023-12-25T09:12:52.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nvidia 연구팀의 2023년도 많은 관심을 받은 10가지 연구]]></title>
+        <id>https://news.hada.io/topic?id=12524</id>
+        <link href="https://news.hada.io/topic?id=12524"/>
+        <updated>2023-12-25T09:12:24.276Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12524"><a class="upvote" href="javascript:vote(12524, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://x.com/DrJimFan/status/1738613195173159187?s=20" rel="nofollow" id="tr1"><h1>Nvidia 연구팀의 2023년도 많은 관심을 받은 10가지 연구</h1></a> <span class="topicurl">(x.com)</span></div><div class="topicdesc"><a href="topic?id=12524" class="c99 breakall">- Neuralangelo: stunning high-fidelity 3D surface reconstruction.  
+https://research.nvidia.com/labs/dir/neuralangelo/  
+- Magic3D: tex...</a></div><div class="topicinfo"><span id="tp12524">2</span> points by <a href="/user?id=haebom">haebom</a> 9분전<span id="unvote12524"></span> | <a href="topic?id=12524" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bifrost - 모듈러 네트워킹 데몬 & 라이브러리]]></title>
         <id>https://news.hada.io/topic?id=12523</id>
         <link href="https://news.hada.io/topic?id=12523"/>
         <updated>2023-12-25T01:54:19.798Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote12523"><a class="upvote" href="javascript:vote(12523, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/aperturerobotics/bifrost" rel="nofollow" id="tr1"><h1>bifrost - 모듈러 네트워킹 데몬 &amp; 라이브러리</h1></a> <span class="topicurl">(github.com/aperturerobotics)</span></div><div class="topicdesc"><a href="topic?id=12523" class="c99 breakall">- Pluggable Transport를 지원하는 P2P 통신 엔진   
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12523"><a class="upvote" href="javascript:vote(12523, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/aperturerobotics/bifrost" rel="nofollow" id="tr2"><h1>bifrost - 모듈러 네트워킹 데몬 &amp; 라이브러리</h1></a> <span class="topicurl">(github.com/aperturerobotics)</span></div><div class="topicdesc"><a href="topic?id=12523" class="c99 breakall">- Pluggable Transport를 지원하는 P2P 통신 엔진   
   - 크로스 플랫폼: 웹브라우저, 서버, 데스크탑, 모바일,..  
-  - 효율적: 하나의 연결로 ...</a></div><div class="topicinfo"><span id="tp12523">1</span> point by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote12523"></span> | <a href="topic?id=12523" class="u">댓글과 토론</a></div>]]></content>
+  - 효율적: 하나의 연결로 ...</a></div><div class="topicinfo"><span id="tp12523">1</span> point by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote12523"></span> | <a href="topic?id=12523" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LibreChat - 향상된 ChatGPT 클론]]></title>
         <id>https://news.hada.io/topic?id=12522</id>
         <link href="https://news.hada.io/topic?id=12522"/>
         <updated>2023-12-25T01:54:19.798Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote12522"><a class="upvote" href="javascript:vote(12522, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/danny-avila/LibreChat" rel="nofollow" id="tr2"><h1>LibreChat - 향상된 ChatGPT 클론 </h1></a> <span class="topicurl">(github.com/danny-avila)</span></div><div class="topicdesc"><a href="topic?id=12522" class="c99 breakall">- ChatGPT 와 비슷한 UI 제공. 스트리밍 지원   
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12522"><a class="upvote" href="javascript:vote(12522, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/danny-avila/LibreChat" rel="nofollow" id="tr3"><h1>LibreChat - 향상된 ChatGPT 클론 </h1></a> <span class="topicurl">(github.com/danny-avila)</span></div><div class="topicdesc"><a href="topic?id=12522" class="c99 breakall">- ChatGPT 와 비슷한 UI 제공. 스트리밍 지원   
 - OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2 등의 AI 모델 스위칭 가능   
--...</a></div><div class="topicinfo"><span id="tp12522">1</span> point by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote12522"></span> | <a href="topic?id=12522" class="u">댓글과 토론</a></div>]]></content>
+-...</a></div><div class="topicinfo"><span id="tp12522">1</span> point by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote12522"></span> | <a href="topic?id=12522" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Huh - 터미널용 인터랙티브 폼/프롬프트 작성용 Go 라이브러리]]></title>
         <id>https://news.hada.io/topic?id=12520</id>
         <link href="https://news.hada.io/topic?id=12520"/>
         <updated>2023-12-25T01:54:19.799Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote12520"><a class="upvote" href="javascript:vote(12520, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/charmbracelet/huh" rel="nofollow" id="tr3"><h1>Huh - 터미널용 인터랙티브 폼/프롬프트 작성용 Go 라이브러리 </h1></a> <span class="topicurl">(github.com/charmbracelet)</span></div><div class="topicdesc"><a href="topic?id=12520" class="c99 breakall">- 스탠드얼론 또는 Bubble Tea 어플리케이션에 연동 가능   
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12520"><a class="upvote" href="javascript:vote(12520, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/charmbracelet/huh" rel="nofollow" id="tr4"><h1>Huh - 터미널용 인터랙티브 폼/프롬프트 작성용 Go 라이브러리 </h1></a> <span class="topicurl">(github.com/charmbracelet)</span></div><div class="topicdesc"><a href="topic?id=12520" class="c99 breakall">- 스탠드얼론 또는 Bubble Tea 어플리케이션에 연동 가능   
 - 스크린리더용 접근성 모드 지원   
-- 싱글라인/멀티라인 입력, 셀렉트/멀티셀렉트...</a></div><div class="topicinfo"><span id="tp12520">4</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote12520"></span> | <a href="topic?id=12520" class="u">댓글 1개</a></div>]]></content>
+- 싱글라인/멀티라인 입력, 셀렉트/멀티셀렉트...</a></div><div class="topicinfo"><span id="tp12520">4</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote12520"></span> | <a href="topic?id=12520" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Open World Puzzle Game 소개합니다.]]></title>
         <id>https://news.hada.io/topic?id=12513</id>
         <link href="https://news.hada.io/topic?id=12513"/>
         <updated>2023-12-25T00:55:47.478Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote12513"><a class="upvote" href="javascript:vote(12513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12513" rel="nofollow" id="tr4"><h1>Show GN: Open World Puzzle Game 소개합니다.</h1></a> <span class="topicurl">(popup.link)</span></div><div class="topicdesc"><a href="topic?id=12513" class="c99 breakall">오픈 월드 퍼즐 게임을 소개합니다   
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote12513"><a class="upvote" href="javascript:vote(12513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12513" rel="nofollow" id="tr5"><h1>Show GN: Open World Puzzle Game 소개합니다.</h1></a> <span class="topicurl">(popup.link)</span></div><div class="topicdesc"><a href="topic?id=12513" class="c99 breakall">오픈 월드 퍼즐 게임을 소개합니다   
   
 Game  
 - Emoji Puzzle match 이모지 퍼즐  
 - 땅 점유  
 - MineSweeper 지뢰찾기 &amp; 지뢰심기  
-  ...</a></div><div class="topicinfo"><span id="tp12513">1</span> point by <a href="/user?id=popup">popup</a> 8시간전<span id="unvote12513"></span> | <a href="topic?id=12513" class="u">댓글과 토론</a></div>]]></content>
+  ...</a></div><div class="topicinfo"><span id="tp12513">1</span> point by <a href="/user?id=popup">popup</a> 9시간전<span id="unvote12513"></span> | <a href="topic?id=12513" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DSM 6이 역사속으로 사라지다 - DSM 6.2의 EoL]]></title>
         <id>https://news.hada.io/topic?id=12508</id>
         <link href="https://news.hada.io/topic?id=12508"/>
         <updated>2023-12-24T08:14:27.099Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote12508"><a class="upvote" href="javascript:vote(12508, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.synology.com/en-global/products/status/eol-dsm62" rel="nofollow" id="tr5"><h1>DSM 6이 역사속으로 사라지다 - DSM 6.2의 EoL</h1></a> <span class="topicurl">(synology.com)</span></div><div class="topicdesc"><a href="topic?id=12508" class="c99 breakall">Synology는 10월 2일 마지막 DSM 6 버전인 6.2의 지원을 내년 10월 1일부로 종료하겠다고 밝힘. 이는 보안 업데이트를 포함하며, 추후 지원을 받지...</a></div><div class="topicinfo"><span id="tp12508">2</span> points by <a href="/user?id=antegral">antegral</a> 1일전<span id="unvote12508"></span> | <a href="topic?id=12508" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote12508"><a class="upvote" href="javascript:vote(12508, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.synology.com/en-global/products/status/eol-dsm62" rel="nofollow" id="tr6"><h1>DSM 6이 역사속으로 사라지다 - DSM 6.2의 EoL</h1></a> <span class="topicurl">(synology.com)</span></div><div class="topicdesc"><a href="topic?id=12508" class="c99 breakall">Synology는 10월 2일 마지막 DSM 6 버전인 6.2의 지원을 내년 10월 1일부로 종료하겠다고 밝힘. 이는 보안 업데이트를 포함하며, 추후 지원을 받지...</a></div><div class="topicinfo"><span id="tp12508">2</span> points by <a href="/user?id=antegral">antegral</a> 1일전<span id="unvote12508"></span> | <a href="topic?id=12508" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년의 아이콘 디자인 트렌드]]></title>
         <id>https://news.hada.io/topic?id=12505</id>
         <link href="https://news.hada.io/topic?id=12505"/>
         <updated>2023-12-24T01:57:57.528Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote12505"><a class="upvote" href="javascript:vote(12505, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://uxplanet.org/icon-design-trends-for-2024-703cd080436e" rel="nofollow" id="tr6"><h1>2024년의 아이콘 디자인 트렌드</h1></a> <span class="topicurl">(uxplanet.org)</span></div><div class="topicdesc"><a href="topic?id=12505" class="c99 breakall">- 미니멀리즘   
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote12505"><a class="upvote" href="javascript:vote(12505, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://uxplanet.org/icon-design-trends-for-2024-703cd080436e" rel="nofollow" id="tr7"><h1>2024년의 아이콘 디자인 트렌드</h1></a> <span class="topicurl">(uxplanet.org)</span></div><div class="topicdesc"><a href="topic?id=12505" class="c99 breakall">- 미니멀리즘   
 - 3차원 형태 및 사실감   
 - 추상주의 및 기하학   
 - 마이크로인터랙션 &amp; 애니메이션   
@@ -69,7 +78,7 @@ Game
         <id>https://news.hada.io/topic?id=12504</id>
         <link href="https://news.hada.io/topic?id=12504"/>
         <updated>2023-12-24T01:57:57.529Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote12504"><a class="upvote" href="javascript:vote(12504, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://colorlisa.com/" rel="nofollow" id="tr7"><h1>Color Lisa - 유명 아티스트들의 컬러 팔레트 보기</h1></a> <span class="topicurl">(colorlisa.com)</span></div><div class="topicdesc"><a href="topic?id=12504" class="c99 breakall">- 세계 최고의 예술가들의 명작을 바탕으로 엄선된 컬러 팔레트 목록  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote12504"><a class="upvote" href="javascript:vote(12504, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://colorlisa.com/" rel="nofollow" id="tr8"><h1>Color Lisa - 유명 아티스트들의 컬러 팔레트 보기</h1></a> <span class="topicurl">(colorlisa.com)</span></div><div class="topicdesc"><a href="topic?id=12504" class="c99 breakall">- 세계 최고의 예술가들의 명작을 바탕으로 엄선된 컬러 팔레트 목록  
 - 각 팔레트는 색에 집착하는 디자이너, 예술가, 박물관 큐레이터, 색채 ...</a></div><div class="topicinfo"><span id="tp12504">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12504"></span> | <a href="topic?id=12504" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -77,7 +86,7 @@ Game
         <id>https://news.hada.io/topic?id=12503</id>
         <link href="https://news.hada.io/topic?id=12503"/>
         <updated>2023-12-24T01:57:57.531Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote12503"><a class="upvote" href="javascript:vote(12503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cberner/redb" rel="nofollow" id="tr8"><h1>redb - Pure Rust로 작성된 임베디드 키/밸류 스토어</h1></a> <span class="topicurl">(github.com/cberner)</span></div><div class="topicdesc"><a href="topic?id=12503" class="c99 breakall">- 심플, 포터블, 고성능, ACID 호환 트랜잭션 지원   
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote12503"><a class="upvote" href="javascript:vote(12503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/cberner/redb" rel="nofollow" id="tr9"><h1>redb - Pure Rust로 작성된 임베디드 키/밸류 스토어</h1></a> <span class="topicurl">(github.com/cberner)</span></div><div class="topicdesc"><a href="topic?id=12503" class="c99 breakall">- 심플, 포터블, 고성능, ACID 호환 트랜잭션 지원   
 - 데이터는 Copy-on-Write B-Tree 컬렉션에 저장   
 - Zero-copy, thread-safe, BTreeMap ...</a></div><div class="topicinfo"><span id="tp12503">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote12503"></span> | <a href="topic?id=12503" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -86,7 +95,7 @@ Game
         <id>https://news.hada.io/topic?id=12493</id>
         <link href="https://news.hada.io/topic?id=12493"/>
         <updated>2023-12-23T01:47:26.923Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote12493"><a class="upvote" href="javascript:vote(12493, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/playlist?list=PLSECvWLlUYeF06QK5FOOELvgKdap3cQf0" rel="nofollow" id="tr9"><h1>Netflix Data Engineering Summit 영상 공개</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=12493" class="c99 breakall">- 올 여름, 넷플릭스가 처음으로 진행했던 데이터 엔지니어링 서밋의 발표 영상 플레이 리스트   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote12493"><a class="upvote" href="javascript:vote(12493, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/playlist?list=PLSECvWLlUYeF06QK5FOOELvgKdap3cQf0" rel="nofollow" id="tr10"><h1>Netflix Data Engineering Summit 영상 공개</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=12493" class="c99 breakall">- 올 여름, 넷플릭스가 처음으로 진행했던 데이터 엔지니어링 서밋의 발표 영상 플레이 리스트   
 - The Netflix Data Engineering Stack (31분) ...</a></div><div class="topicinfo"><span id="tp12493">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12493"></span> | <a href="topic?id=12493" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -94,7 +103,7 @@ Game
         <id>https://news.hada.io/topic?id=12492</id>
         <link href="https://news.hada.io/topic?id=12492"/>
         <updated>2023-12-23T01:47:26.923Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote12492"><a class="upvote" href="javascript:vote(12492, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://v8.dev/blog/holiday-season-2023" rel="nofollow" id="tr10"><h1>V8이 더 빠르고 안전해 졌습니다</h1></a> <span class="topicurl">(v8.dev)</span></div><div class="topicdesc"><a href="topic?id=12492" class="c99 breakall">- 2023년 V8 엔진의 인상적인 개선 성과 요약   
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote12492"><a class="upvote" href="javascript:vote(12492, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://v8.dev/blog/holiday-season-2023" rel="nofollow" id="tr11"><h1>V8이 더 빠르고 안전해 졌습니다</h1></a> <span class="topicurl">(v8.dev)</span></div><div class="topicdesc"><a href="topic?id=12492" class="c99 breakall">- 2023년 V8 엔진의 인상적인 개선 성과 요약   
 - 새로운 중간 단계 컴파일러 도입과 상위 단계 컴파일러, 런타임, 가비지 컬렉터의 개선을 통해...</a></div><div class="topicinfo"><span id="tp12492">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12492"></span> | <a href="topic?id=12492" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -102,7 +111,7 @@ Game
         <id>https://news.hada.io/topic?id=12488</id>
         <link href="https://news.hada.io/topic?id=12488"/>
         <updated>2023-12-23T01:47:26.926Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote12488"><a class="upvote" href="javascript:vote(12488, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/productiveops/dokemon" rel="nofollow" id="tr11"><h1>Dokémon - 사용하기 쉬운 도커 컨테이너 관리용 GUI</h1></a> <span class="topicurl">(github.com/productiveops)</span></div><div class="topicdesc"><a href="topic?id=12488" class="c99 breakall">- 하나의 인스턴스로 여러대의 서버를 관리 가능   
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12488"><a class="upvote" href="javascript:vote(12488, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/productiveops/dokemon" rel="nofollow" id="tr12"><h1>Dokémon - 사용하기 쉬운 도커 컨테이너 관리용 GUI</h1></a> <span class="topicurl">(github.com/productiveops)</span></div><div class="topicdesc"><a href="topic?id=12488" class="c99 breakall">- 하나의 인스턴스로 여러대의 서버를 관리 가능   
 - 각각의 환경을 위한 변수 관리 지원   
 - Compose 프로젝트 Deploy   
 - 컨테이너, 이미...</a></div><div class="topicinfo"><span id="tp12488">14</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote12488"></span> | <a href="topic?id=12488" class="u">댓글 2개</a></div>]]></content>
@@ -112,7 +121,7 @@ Game
         <id>https://news.hada.io/topic?id=12481</id>
         <link href="https://news.hada.io/topic?id=12481"/>
         <updated>2023-12-22T11:10:15.768Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote12481"><a class="upvote" href="javascript:vote(12481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12481" id="tr12"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=12481" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote12481"><a class="upvote" href="javascript:vote(12481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12481" id="tr13"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=12481" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
   
 읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.  
 도움 요청이나 피드백 ...</a></div><div class="topicinfo"><span id="tp12481">2</span> points by <a href="/user?id=askbot">askbot</a> 3일전<span id="unvote12481"></span> | <a href="topic?id=12481" class="u">댓글 2개</a></div>]]></content>
@@ -122,7 +131,7 @@ Game
         <id>https://news.hada.io/topic?id=12478</id>
         <link href="https://news.hada.io/topic?id=12478"/>
         <updated>2023-12-22T03:13:05.956Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote12478"><a class="upvote" href="javascript:vote(12478, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming" rel="nofollow" id="tr13"><h1>Microsoft, AI와의 페어프로그래밍을 위한 GitHub Copilot 마스터하기 강의 공개</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=12478" class="c99 breakall">- 약 10시간, 6개의 강의로 구성된 과정  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote12478"><a class="upvote" href="javascript:vote(12478, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming" rel="nofollow" id="tr14"><h1>Microsoft, AI와의 페어프로그래밍을 위한 GitHub Copilot 마스터하기 강의 공개</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=12478" class="c99 breakall">- 약 10시간, 6개의 강의로 구성된 과정  
 - GitHub Copilot과 AI 페어링 프로그래밍 리소스 활용에 대해 알아야 할 모든 것  
 # 강의 목차  
 1...</a></div><div class="topicinfo"><span id="tp12478">25</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12478"></span> | <a href="topic?id=12478" class="u">댓글 1개</a></div>]]></content>
@@ -132,7 +141,7 @@ Game
         <id>https://news.hada.io/topic?id=12476</id>
         <link href="https://news.hada.io/topic?id=12476"/>
         <updated>2023-12-22T01:52:23.078Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote12476"><a class="upvote" href="javascript:vote(12476, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/chdb-io/chdb" rel="nofollow" id="tr14"><h1>chDB - 임베드 가능한 ClickHouse 엔진</h1></a> <span class="topicurl">(github.com/chdb-io)</span></div><div class="topicdesc"><a href="topic?id=12476" class="c99 breakall">- Embeddable한 In-Process SQL OLAP 엔진   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote12476"><a class="upvote" href="javascript:vote(12476, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/chdb-io/chdb" rel="nofollow" id="tr15"><h1>chDB - 임베드 가능한 ClickHouse 엔진</h1></a> <span class="topicurl">(github.com/chdb-io)</span></div><div class="topicdesc"><a href="topic?id=12476" class="c99 breakall">- Embeddable한 In-Process SQL OLAP 엔진   
   - SQLite + ClickHouse 느낌  
 - 약 100mb 디스크 공간 필요. 64mb 램 컨테이너에서도 동작   
 ...</a></div><div class="topicinfo"><span id="tp12476">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12476"></span> | <a href="topic?id=12476" class="u">댓글과 토론</a></div>]]></content>
@@ -142,7 +151,7 @@ Game
         <id>https://news.hada.io/topic?id=12475</id>
         <link href="https://news.hada.io/topic?id=12475"/>
         <updated>2023-12-22T01:52:23.078Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote12475"><a class="upvote" href="javascript:vote(12475, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html" rel="nofollow" id="tr15"><h1>VideoPoet - 구글의 Zero-Shot 비디오 생성 특화 LLM</h1></a> <span class="topicurl">(blog.research.google)</span></div><div class="topicdesc"><a href="topic?id=12475" class="c99 breakall">- 최근 비디오 생성 모델들이 등장하며 놀라운 화질을 선보이고 있는데, 현재 한계는 일관된 대규모 움직임의 생성 능력 부족  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote12475"><a class="upvote" href="javascript:vote(12475, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html" rel="nofollow" id="tr16"><h1>VideoPoet - 구글의 Zero-Shot 비디오 생성 특화 LLM</h1></a> <span class="topicurl">(blog.research.google)</span></div><div class="topicdesc"><a href="topic?id=12475" class="c99 breakall">- 최근 비디오 생성 모델들이 등장하며 놀라운 화질을 선보이고 있는데, 현재 한계는 일관된 대규모 움직임의 생성 능력 부족  
 - VideoPoet은 텍...</a></div><div class="topicinfo"><span id="tp12475">4</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12475"></span> | <a href="topic?id=12475" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -150,7 +159,7 @@ Game
         <id>https://news.hada.io/topic?id=12470</id>
         <link href="https://news.hada.io/topic?id=12470"/>
         <updated>2023-12-22T01:52:23.078Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote12470"><a class="upvote" href="javascript:vote(12470, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/LLMLingua" rel="nofollow" id="tr16"><h1>Microsoft LLMLingua - 추론 가속 및 비용 절감을 위해 프롬프트 압축하기</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=12470" class="c99 breakall">- GPT2-small 또는 LLaMA-7B와 같이 정렬 및 잘 훈련된 작은 언어 모델을 압축에 사용  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote12470"><a class="upvote" href="javascript:vote(12470, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/LLMLingua" rel="nofollow" id="tr17"><h1>Microsoft LLMLingua - 추론 가속 및 비용 절감을 위해 프롬프트 압축하기</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=12470" class="c99 breakall">- GPT2-small 또는 LLaMA-7B와 같이 정렬 및 잘 훈련된 작은 언어 모델을 압축에 사용  
 - 프롬프트에서 중요하지 않은 토큰을 감지하고 블랙박스...</a></div><div class="topicinfo"><span id="tp12470">9</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote12470"></span> | <a href="topic?id=12470" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -158,7 +167,7 @@ Game
         <id>https://news.hada.io/topic?id=12465</id>
         <link href="https://news.hada.io/topic?id=12465"/>
         <updated>2023-12-22T00:54:18.688Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote12465"><a class="upvote" href="javascript:vote(12465, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12465" rel="nofollow" id="tr17"><h1>Show GN: 스레드(Threads) 게시물을 500글자씩 자동으로 나눠주는 웹서비스</h1></a> <span class="topicurl">(threads-tools.app)</span></div><div class="topicdesc"><a href="topic?id=12465" class="c99 breakall">안녕하세요! 요즘 저질 광고로 범벅이 되어버린 인스타 대신에 클-린한 스레드를 많이 쓰게 되더라구요.  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote12465"><a class="upvote" href="javascript:vote(12465, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12465" rel="nofollow" id="tr18"><h1>Show GN: 스레드(Threads) 게시물을 500글자씩 자동으로 나눠주는 웹서비스</h1></a> <span class="topicurl">(threads-tools.app)</span></div><div class="topicdesc"><a href="topic?id=12465" class="c99 breakall">안녕하세요! 요즘 저질 광고로 범벅이 되어버린 인스타 대신에 클-린한 스레드를 많이 쓰게 되더라구요.  
   
 근데 쓰다가 500자가 넘는 장문의 ...</a></div><div class="topicinfo"><span id="tp12465">4</span> points by <a href="/user?id=lucask0417">lucask0417</a> 3일전<span id="unvote12465"></span> | <a href="topic?id=12465" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -167,7 +176,7 @@ Game
         <id>https://news.hada.io/topic?id=12460</id>
         <link href="https://news.hada.io/topic?id=12460"/>
         <updated>2023-12-21T07:11:45.935Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote12460"><a class="upvote" href="javascript:vote(12460, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12460" id="tr18"><h1>Ask GN: 근처 사람들은 잘 안 쓰는데, 유용하게 쓰고 계신 유틸리티가 있으신가요? (2023)</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=12460" class="c99 breakall">[근처 사람들은 잘 안 쓰는데, 유용하게 쓰고 계신 유틸리티가 있으신가요? (2022)](https://news.hada.io/topic?id=8090)  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote12460"><a class="upvote" href="javascript:vote(12460, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12460" id="tr19"><h1>Ask GN: 근처 사람들은 잘 안 쓰는데, 유용하게 쓰고 계신 유틸리티가 있으신가요? (2023)</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=12460" class="c99 breakall">[근처 사람들은 잘 안 쓰는데, 유용하게 쓰고 계신 유틸리티가 있으신가요? (2022)](https://news.hada.io/topic?id=8090)  
   
 올해도 다시 여...</a></div><div class="topicinfo"><span id="tp12460">6</span> points by <a href="/user?id=opal58">opal58</a> 4일전<span id="unvote12460"></span> | <a href="topic?id=12460" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -176,15 +185,7 @@ Game
         <id>https://news.hada.io/topic?id=12459</id>
         <link href="https://news.hada.io/topic?id=12459"/>
         <updated>2023-12-21T04:14:45.962Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote12459"><a class="upvote" href="javascript:vote(12459, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12459" id="tr19"><h1>Ask GN: 2023년 올해 최고의 콘텐츠는 ?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=12459" class="c99 breakall">올 한해 나온 콘텐츠 중에서 가장 재밌었다/강력 추천한다 싶은 콘텐츠는 어떤게 있으신가요?  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote12459"><a class="upvote" href="javascript:vote(12459, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=12459" id="tr20"><h1>Ask GN: 2023년 올해 최고의 콘텐츠는 ?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=12459" class="c99 breakall">올 한해 나온 콘텐츠 중에서 가장 재밌었다/강력 추천한다 싶은 콘텐츠는 어떤게 있으신가요?  
 넷플릭스/디즈니/티빙/웨이브 같은 OTT 오리지널...</a></div><div class="topicinfo"><span id="tp12459">6</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote12459"></span> | <a href="topic?id=12459" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PowerInfer - 소비자용 GPU를 사용해서 빠르게 LLM 서빙하기]]></title>
-        <id>https://news.hada.io/topic?id=12457</id>
-        <link href="https://news.hada.io/topic?id=12457"/>
-        <updated>2023-12-21T01:53:27.243Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote12457"><a class="upvote" href="javascript:vote(12457, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/SJTU-IPADS/PowerInfer" rel="nofollow" id="tr20"><h1>PowerInfer - 소비자용 GPU를 사용해서 빠르게 LLM 서빙하기</h1></a> <span class="topicurl">(github.com/SJTU-IPADS)</span></div><div class="topicdesc"><a href="topic?id=12457" class="c99 breakall">- RTX 4090(24G)에서 Falcon(ReLU)-40B-FP16 실행시 llama.cpp 보다 11배 빠름   
-- 기기의 Activation Locality를 활용하는 CPU/GPU 하이브리드 ...</a></div><div class="topicinfo"><span id="tp12457">15</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote12457"></span> | <a href="topic?id=12457" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
