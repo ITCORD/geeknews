@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2023-12-31T23:12:50.943Z</updated>
+    <updated>2024-01-01T01:00:25.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 기술분야 빅 아이디어들]]></title>
+        <id>https://news.hada.io/weekly/202401</id>
+        <link href="https://news.hada.io/weekly/202401"/>
+        <updated>2024-01-01T01:00:15.169Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202401" class="u"> 2024 기술분야 빅 아이디어들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 기술 트렌드: AI, 그리고 그외 모든 것들]]></title>
         <id>https://news.hada.io/weekly/202352</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202344"/>
         <updated>2023-10-30T00:53:38.965Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202344" class="u"> Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상위 1% 엔지니어의 7가지 간단한 습관]]></title>
-        <id>https://news.hada.io/weekly/202343</id>
-        <link href="https://news.hada.io/weekly/202343"/>
-        <updated>2023-10-23T00:53:46.900Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202343" class="u"> 상위 1% 엔지니어의 7가지 간단한 습관</a>]]></content>
     </entry>
 </feed>
