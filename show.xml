@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-01-04T14:11:41.681Z</updated>
+    <updated>2024-01-04T15:14:22.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: MarkSlides, 마크다운을 사용하여 슬라이드를 작성할 수 있게 해주는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=12690</id>
+        <link href="https://news.hada.io/topic?id=12690"/>
+        <updated>2024-01-04T15:14:01.358Z</updated>
+        <content type="html"><![CDATA[laeyoung]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 전직장닷컴 - 퇴사 후에 전직장 동료들과 이야기할 수 있는 커뮤니티]]></title>
         <id>https://news.hada.io/topic?id=12685</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=12383"/>
         <updated>2023-12-17T13:13:11.575Z</updated>
         <content type="html"><![CDATA[haebom]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: KiwiTalk - Tauri(Rust) + SolidJS로 구현한 오픈소스 KakaoTalk 클라이언트]]></title>
-        <id>https://news.hada.io/topic?id=11177</id>
-        <link href="https://news.hada.io/topic?id=11177"/>
-        <updated>2024-01-04T13:14:38.567Z</updated>
-        <content type="html"><![CDATA[shlee1503]]></content>
     </entry>
 </feed>
