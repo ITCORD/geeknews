@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-01-29T07:12:03.710Z</updated>
+    <updated>2024-01-29T08:15:28.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: LLM을 이용한 git commit 메시지 자동 작성 툴]]></title>
+        <id>https://news.hada.io/topic?id=13097</id>
+        <link href="https://news.hada.io/topic?id=13097"/>
+        <updated>2024-01-29T08:15:08.420Z</updated>
+        <content type="html"><![CDATA[joone]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Notion 페이지를 OpenAI Knowledge로 만들어주는 무료 도구]]></title>
         <id>https://news.hada.io/topic?id=13079</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=12808"/>
         <updated>2024-01-11T06:16:58.423Z</updated>
         <content type="html"><![CDATA[hankor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 출근길 1분, 빠른 AI 소식 뉴스레터]]></title>
-        <id>https://news.hada.io/topic?id=12689</id>
-        <link href="https://news.hada.io/topic?id=12689"/>
-        <updated>2024-01-04T09:12:25.670Z</updated>
-        <content type="html"><![CDATA[logistra]]></content>
     </entry>
 </feed>
