@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-02-01T13:13:22.432Z</updated>
+    <updated>2024-02-01T14:12:08.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=13150"/>
         <updated>2024-02-01T08:15:08.008Z</updated>
         <content type="html"><![CDATA[yein0712]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Slack 이모지로 Jira 이슈 생성 간소화하기. wanted_jira_bolt]]></title>
+        <id>https://news.hada.io/topic?id=13153</id>
+        <link href="https://news.hada.io/topic?id=13153"/>
+        <updated>2024-02-01T14:11:48.929Z</updated>
+        <content type="html"><![CDATA[jongwony]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 메일포켓 - 뉴스레터를 3줄 요약으로 Slack에서 즐기세요.]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=12653"/>
         <updated>2024-01-02T06:16:27.496Z</updated>
         <content type="html"><![CDATA[luckydaun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: AI로 유명인의 목소리 복제, TTS 생성 서비스 시험판 개발]]></title>
-        <id>https://news.hada.io/topic?id=12631</id>
-        <link href="https://news.hada.io/topic?id=12631"/>
-        <updated>2024-01-01T04:15:16.266Z</updated>
-        <content type="html"><![CDATA[aitechtree]]></content>
     </entry>
 </feed>
