@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2024-02-09T00:52:01.002Z</updated>
+    <updated>2024-02-09T01:43:39.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=13266</id>
+        <link href="https://news.hada.io/topic?id=13266"/>
+        <updated>2024-02-09T01:43:22.650Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 매일 사용하는 브라우저 확장이 있으신가요?]]></title>
         <id>https://news.hada.io/topic?id=13211</id>
@@ -136,13 +143,6 @@
         <id>https://news.hada.io/topic?id=12145</id>
         <link href="https://news.hada.io/topic?id=12145"/>
         <updated>2023-12-04T00:55:53.598Z</updated>
-        <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2023년 12월)]]></title>
-        <id>https://news.hada.io/topic?id=12144</id>
-        <link href="https://news.hada.io/topic?id=12144"/>
-        <updated>2024-02-08T15:12:39.354Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
 </feed>
