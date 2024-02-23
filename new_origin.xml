@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-02-23T09:12:11.649Z</updated>
+    <updated>2024-02-23T10:14:27.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2024-02-23T01:42:49.730Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13489"><a class="upvote" href="javascript:vote(13489, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.robinwieruch.de/react-trends/" rel="nofollow" id="tr1"><h1>2024년 React 트렌드</h1></a> <span class="topicurl">(robinwieruch.de)</span></div><div class="topicdesc"><a href="topic?id=13489" class="c99 breakall"># Astro (React와 함께)  
 - 작년 Astro가 Gatsby의 후속작으로 등장  
-- Astro는 주로 정적 웹사이트로 알려졌으나, 웹 애플리케이션과 API 엔...</a></div><div class="topicinfo"><span id="tp13489">13</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote13489"></span> | <a href="topic?id=13489" class="u">댓글 3개</a></div>]]></content>
+- Astro는 주로 정적 웹사이트로 알려졌으나, 웹 애플리케이션과 API 엔...</a></div><div class="topicinfo"><span id="tp13489">15</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote13489"></span> | <a href="topic?id=13489" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ReadySet - MySQL/Postgres를 위한 투명한 데이터베이스 캐시 레이어]]></title>
@@ -20,7 +20,7 @@
         <link href="https://github.com/readysettech/readyset"/>
         <updated>2024-02-22T01:43:09.408Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13468"><a class="upvote" href="javascript:vote(13468, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/readysettech/readyset" rel="nofollow" id="tr2"><h1>ReadySet - MySQL/Postgres를 위한 투명한 데이터베이스 캐시 레이어</h1></a> <span class="topicurl">(github.com/readysettech)</span></div><div class="topicdesc"><a href="topic?id=13468" class="c99 breakall">- 기존 DB앞에 위치해서 쿼리 속도를 높이고 읽기 처리량을 수평 확장  
-  - 앱을 수정하거나 캐시 무효화 등을 관리할 필요없이 인메모리 키-값 ...</a></div><div class="topicinfo"><span id="tp13468">21</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13468"></span> | <a href="topic?id=13468" class="u">댓글 2개</a></div>]]></content>
+  - 앱을 수정하거나 캐시 무효화 등을 관리할 필요없이 인메모리 키-값 ...</a></div><div class="topicinfo"><span id="tp13468">22</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13468"></span> | <a href="topic?id=13468" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenLLMetry - LLM 어플리케이션을 위한 오픈소스 Observability]]></title>
@@ -28,23 +28,24 @@
         <link href="https://github.com/traceloop/openllmetry"/>
         <updated>2024-02-23T00:51:33.164Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote13482"><a class="upvote" href="javascript:vote(13482, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/traceloop/openllmetry" rel="nofollow" id="tr3"><h1>OpenLLMetry - LLM 어플리케이션을 위한 오픈소스 Observability</h1></a> <span class="topicurl">(github.com/traceloop)</span></div><div class="topicdesc"><a href="topic?id=13482" class="c99 breakall">- LLM 애플리케이션에 대한 완벽한 통합 가시성을 제공  
-- 내부적으로 OpenTelemetry 기반이기 때문에 Datadog, New Relic, Grafana Tempo, Splu...</a></div><div class="topicinfo"><span id="tp13482">3</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote13482"></span> | <a href="topic?id=13482" class="u">댓글과 토론</a></div>]]></content>
+- 내부적으로 OpenTelemetry 기반이기 때문에 Datadog, New Relic, Grafana Tempo, Splu...</a></div><div class="topicinfo"><span id="tp13482">4</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote13482"></span> | <a href="topic?id=13482" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPTScript - OpenAI LLM과의 상호작용을 자동화하는 새로운 스크립팅 언어]]></title>
+        <id>https://github.com/gptscript-ai/gptscript</id>
+        <link href="https://github.com/gptscript-ai/gptscript"/>
+        <updated>2024-02-23T00:51:33.162Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote13483"><a class="upvote" href="javascript:vote(13483, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gptscript-ai/gptscript" rel="nofollow" id="tr4"><h1>GPTScript - OpenAI LLM과의 상호작용을 자동화하는 새로운 스크립팅 언어</h1></a> <span class="topicurl">(github.com/gptscript-ai)</span></div><div class="topicdesc"><a href="topic?id=13483" class="c99 breakall">- 궁극적인 목표는 완전한 자연어 기반 프로그래밍 환경을 만드는 것  
+- 구문이 대부분 자연어이므로 배우고 사용하기가 매우 쉬움   
+- bash, ...</a></div><div class="topicinfo"><span id="tp13483">3</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote13483"></span> | <a href="topic?id=13483" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion 3 발표]]></title>
         <id>https://stability.ai/news/stable-diffusion-3</id>
         <link href="https://stability.ai/news/stable-diffusion-3"/>
         <updated>2024-02-23T00:51:33.159Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote13481"><a class="upvote" href="javascript:vote(13481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/stable-diffusion-3" rel="nofollow" id="tr4"><h1>Stable Diffusion 3 발표</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=13481" class="c99 breakall">- Stable Diffusion 3는 가장 뛰어난 텍스트-이미지 모델로, 다중 주제 프롬프트, 이미지 품질, 철자 능력에서 크게 향상된 성능을 제공  
-- 아직...</a></div><div class="topicinfo"><span id="tp13481">3</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote13481"></span> | <a href="topic?id=13481" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 구글, 역사적 이미지 묘사에서 문제 발생 후 Gemini 의 이미지 생성 중단 결정]]></title>
-        <id>https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical</id>
-        <link href="https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical"/>
-        <updated>2024-02-23T00:51:33.159Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote13480"><a class="upvote" href="javascript:vote(13480, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical" rel="nofollow" id="tr5"><h1>GN⁺: 구글, 역사적 이미지 묘사에서 문제 발생 후 Gemini 의 이미지 생성 중단 결정 </h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=13480" class="c99 breakall">- 구글이 자사의 인공지능 도구 Gemini가 역사적 이미지 생성에서 부정확한 결과를 보여준 것에 대해 사과  
-- Gemini는 미국 건국의 아버지들이...</a></div><div class="topicinfo"><span id="tp13480">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote13480"></span> | <a href="topic?id=13480" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote13481"><a class="upvote" href="javascript:vote(13481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/stable-diffusion-3" rel="nofollow" id="tr5"><h1>Stable Diffusion 3 발표</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=13481" class="c99 breakall">- Stable Diffusion 3는 가장 뛰어난 텍스트-이미지 모델로, 다중 주제 프롬프트, 이미지 품질, 철자 능력에서 크게 향상된 성능을 제공  
+- 아직...</a></div><div class="topicinfo"><span id="tp13481">3</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote13481"></span> | <a href="topic?id=13481" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 파이썬에서의 웹 스크래핑 - 완벽 가이드]]></title>
@@ -57,20 +58,19 @@
 - 성숙한 스크래핑 ...</a></div><div class="topicinfo"><span id="tp13458">32</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote13458"></span> | <a href="topic?id=13458" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GN⁺: 구글, 역사적 이미지 묘사에서 문제 발생 후 Gemini 의 이미지 생성 중단 결정]]></title>
+        <id>https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical</id>
+        <link href="https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical"/>
+        <updated>2024-02-23T00:51:33.159Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote13480"><a class="upvote" href="javascript:vote(13480, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical" rel="nofollow" id="tr7"><h1>GN⁺: 구글, 역사적 이미지 묘사에서 문제 발생 후 Gemini 의 이미지 생성 중단 결정 </h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=13480" class="c99 breakall">- 구글이 자사의 인공지능 도구 Gemini가 역사적 이미지 생성에서 부정확한 결과를 보여준 것에 대해 사과  
+- Gemini는 미국 건국의 아버지들이...</a></div><div class="topicinfo"><span id="tp13480">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote13480"></span> | <a href="topic?id=13480" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[젬마(Gemma) - 구글의 최첨단 오픈 모델]]></title>
         <id>https://blog.google/intl/ko-kr/products/explore-get-answers/-gemma-open-models-kr/</id>
         <link href="https://blog.google/intl/ko-kr/products/explore-get-answers/-gemma-open-models-kr/"/>
         <updated>2024-02-22T03:13:17.630Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote13467"><a class="upvote" href="javascript:vote(13467, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/intl/ko-kr/products/explore-get-answers/-gemma-open-models-kr/" rel="nofollow" id="tr7"><h1>젬마(Gemma) - 구글의 최첨단 오픈 모델</h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=13467" class="c99 breakall">- 구글은 모든 사람을 위한 유용한 AI를 만드는 데 믿음을 가지고 있으며, Transformers, TensorFlow, BERT, T5, JAX, AlphaFold, AlphaCode 등과 ...</a></div><div class="topicinfo"><span id="tp13467">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13467"></span> | <a href="topic?id=13467" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPTScript - OpenAI LLM과의 상호작용을 자동화하는 새로운 스크립팅 언어]]></title>
-        <id>https://github.com/gptscript-ai/gptscript</id>
-        <link href="https://github.com/gptscript-ai/gptscript"/>
-        <updated>2024-02-23T00:51:33.162Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13483"><a class="upvote" href="javascript:vote(13483, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gptscript-ai/gptscript" rel="nofollow" id="tr8"><h1>GPTScript - OpenAI LLM과의 상호작용을 자동화하는 새로운 스크립팅 언어</h1></a> <span class="topicurl">(github.com/gptscript-ai)</span></div><div class="topicdesc"><a href="topic?id=13483" class="c99 breakall">- 궁극적인 목표는 완전한 자연어 기반 프로그래밍 환경을 만드는 것  
-- 구문이 대부분 자연어이므로 배우고 사용하기가 매우 쉬움   
-- bash, ...</a></div><div class="topicinfo"><span id="tp13483">2</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote13483"></span> | <a href="topic?id=13483" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13467"><a class="upvote" href="javascript:vote(13467, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/intl/ko-kr/products/explore-get-answers/-gemma-open-models-kr/" rel="nofollow" id="tr8"><h1>젬마(Gemma) - 구글의 최첨단 오픈 모델</h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=13467" class="c99 breakall">- 구글은 모든 사람을 위한 유용한 AI를 만드는 데 믿음을 가지고 있으며, Transformers, TensorFlow, BERT, T5, JAX, AlphaFold, AlphaCode 등과 ...</a></div><div class="topicinfo"><span id="tp13467">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13467"></span> | <a href="topic?id=13467" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Gemini Pro 1.5의 킬러 앱은 비디오입니다]]></title>
@@ -88,7 +88,7 @@
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13479"><a class="upvote" href="javascript:vote(13479, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=13479" id="tr10"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=13479" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
   
 읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.  
-도움 요청이나 피드백 ...</a></div><div class="topicinfo"><span id="tp13479">2</span> points by <a href="/user?id=askbot">askbot</a> 10시간전<span id="unvote13479"></span> | <a href="topic?id=13479" class="u">댓글 5개</a></div>]]></content>
+도움 요청이나 피드백 ...</a></div><div class="topicinfo"><span id="tp13479">2</span> points by <a href="/user?id=askbot">askbot</a> 11시간전<span id="unvote13479"></span> | <a href="topic?id=13479" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 제프 딘: 머신 러닝의 최신 동향 [비디오]]]></title>
@@ -133,21 +133,21 @@
 - 딱 하나...</a></div><div class="topicinfo"><span id="tp13443">14</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote13443"></span> | <a href="topic?id=13443" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: iMessage, PQ3 암호 프로토콜을 탑재]]></title>
-        <id>https://security.apple.com/blog/imessage-pq3/</id>
-        <link href="https://security.apple.com/blog/imessage-pq3/"/>
-        <updated>2024-02-22T01:43:09.418Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote13470"><a class="upvote" href="javascript:vote(13470, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://security.apple.com/blog/imessage-pq3/" rel="nofollow" id="tr16"><h1>GN⁺: iMessage, PQ3 암호 프로토콜을 탑재</h1></a> <span class="topicurl">(security.apple.com)</span></div><div class="topicdesc"><a href="topic?id=13470" class="c99 breakall"># PQ3: iMessage의 새로운 암호화 프로토콜  
-  
-- iMessage가 PQ3라는 새로운 암호화 프로토콜을 도입하여 역사상 가장 중요한 암호화 보안 업...</a></div><div class="topicinfo"><span id="tp13470">5</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13470"></span> | <a href="topic?id=13470" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: 인기 있는 Git 설정 옵션들]]></title>
         <id>https://jvns.ca/blog/2024/02/16/popular-git-config-options/</id>
         <link href="https://jvns.ca/blog/2024/02/16/popular-git-config-options/"/>
         <updated>2024-02-18T00:55:45.056Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote13405"><a class="upvote" href="javascript:vote(13405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jvns.ca/blog/2024/02/16/popular-git-config-options/" rel="nofollow" id="tr17"><h1>GN⁺: 인기 있는 Git 설정 옵션들</h1></a> <span class="topicurl">(jvns.ca)</span></div><div class="topicdesc"><a href="topic?id=13405" class="c99 breakall">- `pull.ff only` 또는 `pull.rebase true`  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote13405"><a class="upvote" href="javascript:vote(13405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jvns.ca/blog/2024/02/16/popular-git-config-options/" rel="nofollow" id="tr16"><h1>GN⁺: 인기 있는 Git 설정 옵션들</h1></a> <span class="topicurl">(jvns.ca)</span></div><div class="topicdesc"><a href="topic?id=13405" class="c99 breakall">- `pull.ff only` 또는 `pull.rebase true`  
   - 두 설정 모두 `git pull`을 실행할 때 브랜치가 상위 브랜치와 다를 경우 실수로 병합 커밋을 ...</a></div><div class="topicinfo"><span id="tp13405">56</span> points by <a href="/user?id=neo">neo</a> 6일전<span id="unvote13405"></span> | <a href="topic?id=13405" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: iMessage, PQ3 암호 프로토콜을 탑재]]></title>
+        <id>https://security.apple.com/blog/imessage-pq3/</id>
+        <link href="https://security.apple.com/blog/imessage-pq3/"/>
+        <updated>2024-02-22T01:43:09.418Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote13470"><a class="upvote" href="javascript:vote(13470, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://security.apple.com/blog/imessage-pq3/" rel="nofollow" id="tr17"><h1>GN⁺: iMessage, PQ3 암호 프로토콜을 탑재</h1></a> <span class="topicurl">(security.apple.com)</span></div><div class="topicdesc"><a href="topic?id=13470" class="c99 breakall"># PQ3: iMessage의 새로운 암호화 프로토콜  
+  
+- iMessage가 PQ3라는 새로운 암호화 프로토콜을 도입하여 역사상 가장 중요한 암호화 보안 업...</a></div><div class="topicinfo"><span id="tp13470">5</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13470"></span> | <a href="topic?id=13470" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서라운드 사운드 테스트 파일 모음 (구글 드라이브, 4.5GB)]]></title>
@@ -166,11 +166,11 @@
 - LLM 토큰화에 일반적으로 사용되는 (Byte Level) 바이트 쌍 인코딩(BPE) 알고리듬을...</a></div><div class="topicinfo"><span id="tp13460">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13460"></span> | <a href="topic?id=13460" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duolingo가 맘에 들지 않는 사람들을 위한 가이드]]></title>
-        <id>https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide</id>
-        <link href="https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide"/>
-        <updated>2024-02-23T08:15:36.804Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote13432"><a class="upvote" href="javascript:vote(13432, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide" rel="nofollow" id="tr20"><h1>Duolingo가 맘에 들지 않는 사람들을 위한 가이드</h1></a> <span class="topicurl">(ruhua-langblr.tumblr.com)</span></div><div class="topicdesc"><a href="topic?id=13432" class="c99 breakall">- **Duolingo의 대안을 찾는다면?**  
-  - Duolingo의 품질이 AI의 도입으로 더욱 떨어진 지금, 사람들이 새로운 학습 앱으로 전환할 의향이 더 ...</a></div><div class="topicinfo"><span id="tp13432">22</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote13432"></span> | <a href="topic?id=13432" class="u">댓글 6개</a></div>]]></content>
+        <title type="html"><![CDATA[Tech Icons - 각종 기술 아이콘 모음]]></title>
+        <id>https://techicons.dev/</id>
+        <link href="https://techicons.dev/"/>
+        <updated>2024-02-23T10:14:04.342Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote13403"><a class="upvote" href="javascript:vote(13403, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://techicons.dev/" rel="nofollow" id="tr20"><h1>Tech Icons - 각종 기술 아이콘 모음</h1></a> <span class="topicurl">(techicons.dev)</span></div><div class="topicdesc"><a href="topic?id=13403" class="c99 breakall">- 기술 회사, 오픈소스, 프레임워크, 개발도구 등의 아이콘 426개   
+- SVG 와 PNG로 전체 및 각 파일별 다운로드 가능 </a></div><div class="topicinfo"><span id="tp13403">42</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote13403"></span> | <a href="topic?id=13403" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
