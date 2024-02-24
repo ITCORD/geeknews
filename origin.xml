@@ -2,25 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-02-24T03:15:07.608Z</updated>
+    <updated>2024-02-24T04:15:02.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[NotesOllama - 애플 메모 앱 안에서 LLM과 대화하기]]></title>
-        <id>https://github.com/andersrex/notesollama</id>
-        <link href="https://github.com/andersrex/notesollama"/>
-        <updated>2024-02-24T01:41:19.957Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13501"><a class="upvote" href="javascript:vote(13501, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andersrex/notesollama" rel="nofollow" id="tr1"><h1>NotesOllama - 애플 메모 앱 안에서 LLM과 대화하기</h1></a> <span class="topicurl">(github.com/andersrex)</span></div><div class="topicdesc"><a href="topic?id=13501" class="c99 breakall">- Ollama를 이용하여 애플의 메모(Notes) 앱 안에서 로컬 LLM과 대화하기   
-- Obsidian Ollama에서 영감을 받음 (왜 옵시디언만 훌륭한 플러그인...</a></div><div class="topicinfo"><span id="tp13501">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote13501"></span> | <a href="topic?id=13501" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 React 트렌드]]></title>
         <id>https://www.robinwieruch.de/react-trends/</id>
         <link href="https://www.robinwieruch.de/react-trends/"/>
         <updated>2024-02-23T01:42:41.430Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13489"><a class="upvote" href="javascript:vote(13489, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.robinwieruch.de/react-trends/" rel="nofollow" id="tr2"><h1>2024년 React 트렌드</h1></a> <span class="topicurl">(robinwieruch.de)</span></div><div class="topicdesc"><a href="topic?id=13489" class="c99 breakall"># Astro (React와 함께)  
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13489"><a class="upvote" href="javascript:vote(13489, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.robinwieruch.de/react-trends/" rel="nofollow" id="tr1"><h1>2024년 React 트렌드</h1></a> <span class="topicurl">(robinwieruch.de)</span></div><div class="topicdesc"><a href="topic?id=13489" class="c99 breakall"># Astro (React와 함께)  
 - 작년 Astro가 Gatsby의 후속작으로 등장  
 - Astro는 주로 정적 웹사이트로 알려졌으나, 웹 애플리케이션과 API 엔...</a></div><div class="topicinfo"><span id="tp13489">17</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13489"></span> | <a href="topic?id=13489" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NotesOllama - 애플 메모 앱 안에서 LLM과 대화하기]]></title>
+        <id>https://github.com/andersrex/notesollama</id>
+        <link href="https://github.com/andersrex/notesollama"/>
+        <updated>2024-02-24T01:41:19.957Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13501"><a class="upvote" href="javascript:vote(13501, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andersrex/notesollama" rel="nofollow" id="tr2"><h1>NotesOllama - 애플 메모 앱 안에서 LLM과 대화하기</h1></a> <span class="topicurl">(github.com/andersrex)</span></div><div class="topicdesc"><a href="topic?id=13501" class="c99 breakall">- Ollama를 이용하여 애플의 메모(Notes) 앱 안에서 로컬 LLM과 대화하기   
+- Obsidian Ollama에서 영감을 받음 (왜 옵시디언만 훌륭한 플러그인...</a></div><div class="topicinfo"><span id="tp13501">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote13501"></span> | <a href="topic?id=13501" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ReadySet - MySQL/Postgres를 위한 투명한 데이터베이스 캐시 레이어]]></title>
@@ -66,11 +66,19 @@
 - 기계 학습은 최근 몇 년 동안 우리가 컴퓨터...</a></div><div class="topicinfo"><span id="tp13451">20</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13451"></span> | <a href="topic?id=13451" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GN⁺: GPT 토크나이저 구축하기 by Andrej Karpathy [동영상]]]></title>
+        <id>https://www.youtube.com/watch?v=zduSFxRajkE</id>
+        <link href="https://www.youtube.com/watch?v=zduSFxRajkE"/>
+        <updated>2024-02-21T03:12:50.696Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13459"><a class="upvote" href="javascript:vote(13459, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=zduSFxRajkE" rel="nofollow" id="tr8"><h1>GN⁺: GPT 토크나이저 구축하기 by Andrej Karpathy [동영상]</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=13459" class="c99 breakall">- Tokenizer는 대규모 언어 모델(LLM)의 필수적이고 많이 사용되는 구성 요소로, 문자열과 토큰(텍스트 덩어리) 사이를 변환  
+- Tokenizer는 LLM...</a></div><div class="topicinfo"><span id="tp13459">19</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13459"></span> | <a href="topic?id=13459" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPTScript - OpenAI LLM과의 상호작용을 자동화하는 새로운 스크립팅 언어]]></title>
         <id>https://github.com/gptscript-ai/gptscript</id>
         <link href="https://github.com/gptscript-ai/gptscript"/>
         <updated>2024-02-23T00:51:24.626Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13483"><a class="upvote" href="javascript:vote(13483, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gptscript-ai/gptscript" rel="nofollow" id="tr8"><h1>GPTScript - OpenAI LLM과의 상호작용을 자동화하는 새로운 스크립팅 언어</h1></a> <span class="topicurl">(github.com/gptscript-ai)</span></div><div class="topicdesc"><a href="topic?id=13483" class="c99 breakall">- 궁극적인 목표는 완전한 자연어 기반 프로그래밍 환경을 만드는 것  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13483"><a class="upvote" href="javascript:vote(13483, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gptscript-ai/gptscript" rel="nofollow" id="tr9"><h1>GPTScript - OpenAI LLM과의 상호작용을 자동화하는 새로운 스크립팅 언어</h1></a> <span class="topicurl">(github.com/gptscript-ai)</span></div><div class="topicdesc"><a href="topic?id=13483" class="c99 breakall">- 궁극적인 목표는 완전한 자연어 기반 프로그래밍 환경을 만드는 것  
 - 구문이 대부분 자연어이므로 배우고 사용하기가 매우 쉬움   
 - bash, ...</a></div><div class="topicinfo"><span id="tp13483">4</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13483"></span> | <a href="topic?id=13483" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -79,16 +87,8 @@
         <id>https://stability.ai/news/stable-diffusion-3</id>
         <link href="https://stability.ai/news/stable-diffusion-3"/>
         <updated>2024-02-23T00:51:24.624Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13481"><a class="upvote" href="javascript:vote(13481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/stable-diffusion-3" rel="nofollow" id="tr9"><h1>Stable Diffusion 3 발표</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=13481" class="c99 breakall">- Stable Diffusion 3는 가장 뛰어난 텍스트-이미지 모델로, 다중 주제 프롬프트, 이미지 품질, 철자 능력에서 크게 향상된 성능을 제공  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13481"><a class="upvote" href="javascript:vote(13481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/stable-diffusion-3" rel="nofollow" id="tr10"><h1>Stable Diffusion 3 발표</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=13481" class="c99 breakall">- Stable Diffusion 3는 가장 뛰어난 텍스트-이미지 모델로, 다중 주제 프롬프트, 이미지 품질, 철자 능력에서 크게 향상된 성능을 제공  
 - 아직...</a></div><div class="topicinfo"><span id="tp13481">4</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13481"></span> | <a href="topic?id=13481" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: GPT 토크나이저 구축하기 by Andrej Karpathy [동영상]]]></title>
-        <id>https://www.youtube.com/watch?v=zduSFxRajkE</id>
-        <link href="https://www.youtube.com/watch?v=zduSFxRajkE"/>
-        <updated>2024-02-21T03:12:50.696Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13459"><a class="upvote" href="javascript:vote(13459, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=zduSFxRajkE" rel="nofollow" id="tr10"><h1>GN⁺: GPT 토크나이저 구축하기 by Andrej Karpathy [동영상]</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=13459" class="c99 breakall">- Tokenizer는 대규모 언어 모델(LLM)의 필수적이고 많이 사용되는 구성 요소로, 문자열과 토큰(텍스트 덩어리) 사이를 변환  
-- Tokenizer는 LLM...</a></div><div class="topicinfo"><span id="tp13459">19</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13459"></span> | <a href="topic?id=13459" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Gemini Pro 1.5의 킬러 앱은 비디오입니다]]></title>
@@ -132,19 +132,19 @@
 - Gemini는 미국 건국의 아버지들이...</a></div><div class="topicinfo"><span id="tp13480">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13480"></span> | <a href="topic?id=13480" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LlamaCloud 와 LlamaParse 공개]]></title>
-        <id>https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b</id>
-        <link href="https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b"/>
-        <updated>2024-02-22T00:51:39.906Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote13466"><a class="upvote" href="javascript:vote(13466, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b" rel="nofollow" id="tr16"><h1>LlamaCloud 와 LlamaParse 공개</h1></a> <span class="topicurl">(blog.llamaindex.ai)</span></div><div class="topicdesc"><a href="topic?id=13466" class="c99 breakall">- *LlamaCloud*: 새로운 세대의 관리형 파싱, 수집, 검색 서비스. LLM과 RAG 애플리케이션에 프로덕션급 Context-Augmentation을 제공하기 위해 설...</a></div><div class="topicinfo"><span id="tp13466">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13466"></span> | <a href="topic?id=13466" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[서라운드 사운드 테스트 파일 모음 (구글 드라이브, 4.5GB)]]></title>
         <id>https://www.reddit.com/r/hometheater/comments/11qqv95/surround_sound_test_files_in_almost_every_format/</id>
         <link href="https://www.reddit.com/r/hometheater/comments/11qqv95/surround_sound_test_files_in_almost_every_format/"/>
         <updated>2024-02-20T03:13:04.234Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote13437"><a class="upvote" href="javascript:vote(13437, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.reddit.com/r/hometheater/comments/11qqv95/surround_sound_test_files_in_almost_every_format/" rel="nofollow" id="tr17"><h1>서라운드 사운드 테스트 파일 모음 (구글 드라이브, 4.5GB)</h1></a> <span class="topicurl">(reddit.com)</span></div><div class="topicdesc"><a href="topic?id=13437" class="c99 breakall">- 돌비 애트모스/디지털/TrueHD, DTS-EX/HD/X, FLAC, LPCM 등 다양한 포맷을 위한 테스트 파일들   
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote13437"><a class="upvote" href="javascript:vote(13437, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.reddit.com/r/hometheater/comments/11qqv95/surround_sound_test_files_in_almost_every_format/" rel="nofollow" id="tr16"><h1>서라운드 사운드 테스트 파일 모음 (구글 드라이브, 4.5GB)</h1></a> <span class="topicurl">(reddit.com)</span></div><div class="topicdesc"><a href="topic?id=13437" class="c99 breakall">- 돌비 애트모스/디지털/TrueHD, DTS-EX/HD/X, FLAC, LPCM 등 다양한 포맷을 위한 테스트 파일들   
 - 5.1, 5.1.2, 7.1, 9.1.6 등 각 스피커를 통...</a></div><div class="topicinfo"><span id="tp13437">20</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote13437"></span> | <a href="topic?id=13437" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LlamaCloud 와 LlamaParse 공개]]></title>
+        <id>https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b</id>
+        <link href="https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b"/>
+        <updated>2024-02-22T00:51:39.906Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote13466"><a class="upvote" href="javascript:vote(13466, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b" rel="nofollow" id="tr17"><h1>LlamaCloud 와 LlamaParse 공개</h1></a> <span class="topicurl">(blog.llamaindex.ai)</span></div><div class="topicdesc"><a href="topic?id=13466" class="c99 breakall">- *LlamaCloud*: 새로운 세대의 관리형 파싱, 수집, 검색 서비스. LLM과 RAG 애플리케이션에 프로덕션급 Context-Augmentation을 제공하기 위해 설...</a></div><div class="topicinfo"><span id="tp13466">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13466"></span> | <a href="topic?id=13466" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: iMessage, PQ3 암호 프로토콜을 탑재]]></title>
@@ -164,12 +164,11 @@
 - SVG 와 PNG로 전체 및 각 파일별 다운로드 가능 </a></div><div class="topicinfo"><span id="tp13403">42</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote13403"></span> | <a href="topic?id=13403" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Phind-70B 공개 - GPT-4 Turbo와 코드 품질 격차를 줄이면서 4배 빠른 실행 가능한 모델]]></title>
-        <id>https://www.phind.com/blog/introducing-phind-70b</id>
-        <link href="https://www.phind.com/blog/introducing-phind-70b"/>
-        <updated>2024-02-24T01:41:19.987Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote13492"><a class="upvote" href="javascript:vote(13492, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.phind.com/blog/introducing-phind-70b" rel="nofollow" id="tr20"><h1>GN⁺: Phind-70B 공개 - GPT-4 Turbo와 코드 품질 격차를 줄이면서 4배 빠른 실행 가능한 모델</h1></a> <span class="topicurl">(phind.com)</span></div><div class="topicdesc"><a href="topic?id=13492" class="c99 breakall">- 초당 최대 80개의 토큰을 처리(GPT-4 Turbo는 초당 ~20토큰)  
-- 32K 토큰 윈도우를 지원   
-- CodeLlama-70B 모델 기반으로 추가적인 50B 토...</a></div><div class="topicinfo"><span id="tp13492">2</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote13492"></span> | <a href="topic?id=13492" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[minbpe - LLM 토큰화에 사용하는 Byte Pair Encoding 구현체]]></title>
+        <id>https://github.com/karpathy/minbpe</id>
+        <link href="https://github.com/karpathy/minbpe"/>
+        <updated>2024-02-24T04:14:30.287Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote13460"><a class="upvote" href="javascript:vote(13460, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/karpathy/minbpe" rel="nofollow" id="tr20"><h1>minbpe - LLM 토큰화에 사용하는 Byte Pair Encoding 구현체</h1></a> <span class="topicurl">(github.com/karpathy)</span></div><div class="topicdesc"><a href="topic?id=13460" class="c99 breakall">- OpenAI를 그만둔 Andrej Karpathy가 새로 공개한 코드   
+- LLM 토큰화에 일반적으로 사용되는 (Byte Level) 바이트 쌍 인코딩(BPE) 알고리듬을...</a></div><div class="topicinfo"><span id="tp13460">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13460"></span> | <a href="topic?id=13460" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
