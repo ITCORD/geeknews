@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-02-29T07:13:12.206Z</updated>
+    <updated>2024-02-29T08:14:52.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,7 +20,7 @@
         <link href="https://news.ycombinator.com/item?id=39519692"/>
         <updated>2024-02-29T01:42:42.242Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13580"><a class="upvote" href="javascript:vote(13580, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=39519692" rel="nofollow" id="tr2"><h1>Ask HN: GPT에서 자체 모델로 전환한 분들, 경험은 어땠나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=13580" class="c99 breakall">HN에 올라온 질문에 대한 답변들을 정리  
-- 수십 명의 고객에게 OpenPipe위에서 GPT-4/GPT-3.5를 자체적인 미세 조정된 모델로 전환하는데 도움...</a></div><div class="topicinfo"><span id="tp13580">9</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote13580"></span> | <a href="topic?id=13580" class="u">댓글 1개</a></div>]]></content>
+- 수십 명의 고객에게 OpenPipe위에서 GPT-4/GPT-3.5를 자체적인 미세 조정된 모델로 전환하는데 도움...</a></div><div class="topicinfo"><span id="tp13580">10</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote13580"></span> | <a href="topic?id=13580" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ingestr - 명령 하나로 DB간 데이터를 복사해주는 CLI 도구]]></title>
@@ -28,7 +28,7 @@
         <link href="https://github.com/bruin-data/ingestr"/>
         <updated>2024-02-29T01:42:42.241Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote13578"><a class="upvote" href="javascript:vote(13578, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bruin-data/ingestr" rel="nofollow" id="tr3"><h1>ingestr - 명령 하나로 DB간 데이터를 복사해주는 CLI 도구</h1></a> <span class="topicurl">(github.com/bruin-data)</span></div><div class="topicdesc"><a href="topic?id=13578" class="c99 breakall">- 코드 없이 명령 하나만으로 데이터 복사 가능   
-  - `ingestr ingest --source-uri $POSTGRES_URI --source-table 'schema.table_name' --dest...</a></div><div class="topicinfo"><span id="tp13578">8</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote13578"></span> | <a href="topic?id=13578" class="u">댓글과 토론</a></div>]]></content>
+  - `ingestr ingest --source-uri $POSTGRES_URI --source-table 'schema.table_name' --dest...</a></div><div class="topicinfo"><span id="tp13578">8</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote13578"></span> | <a href="topic?id=13578" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[litestar - 고성능 API를 손쉽게 구축하게 해주는 ASGI 프레임워크]]></title>
@@ -36,7 +36,7 @@
         <link href="https://litestar.dev/"/>
         <updated>2024-02-29T01:42:42.242Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote13579"><a class="upvote" href="javascript:vote(13579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://litestar.dev/" rel="nofollow" id="tr4"><h1>litestar - 고성능 API를 손쉽게 구축하게 해주는 ASGI 프레임워크 </h1></a> <span class="topicurl">(litestar.dev)</span></div><div class="topicdesc"><a href="topic?id=13579" class="c99 breakall">- 강력하고 유연하지만, opionated 한 ASGI 프레임워크   
-- API 구축에 중점을 두고 있으며, 고성능 데이터 검증 및 파싱, 디펜던시 인젝션, ORM...</a></div><div class="topicinfo"><span id="tp13579">7</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote13579"></span> | <a href="topic?id=13579" class="u">댓글과 토론</a></div>]]></content>
+- API 구축에 중점을 두고 있으며, 고성능 데이터 검증 및 파싱, 디펜던시 인젝션, ORM...</a></div><div class="topicinfo"><span id="tp13579">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote13579"></span> | <a href="topic?id=13579" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 1비트 LLM 시대: 비용 효율적인 컴퓨팅을 위한 삼진 파라미터]]></title>
@@ -45,49 +45,49 @@
         <updated>2024-02-29T02:17:13.560Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote13573"><a class="upvote" href="javascript:vote(13573, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arxiv.org/abs/2402.17764" rel="nofollow" id="tr5"><h1>GN⁺: 1비트 LLM 시대: 비용 효율적인 컴퓨팅을 위한 삼진 파라미터</h1></a> <span class="topicurl">(arxiv.org)</span></div><div class="topicdesc"><a href="topic?id=13573" class="c99 breakall"># 1비트 대형 언어 모델의 시대: 모든 대형 언어 모델은 1.58비트에 있다
 
-- 최근 연구인 BitNet은 1비트 대형 언어 모델(LLMs)의 새로운 시대를 ...</a></div><div class="topicinfo"><span id="tp13573">5</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote13573"></span> | <a href="topic?id=13573" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백악관, 개발자들에게 C와 C++를 피하고 '메모리 안전' 언어 사용 촉구]]></title>
-        <id>https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html</id>
-        <link href="https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html"/>
-        <updated>2024-02-29T05:13:37.735Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote13581"><a class="upvote" href="javascript:vote(13581, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html" rel="nofollow" id="tr6"><h1>백악관, 개발자들에게 C와 C++를 피하고 '메모리 안전' 언어 사용 촉구</h1></a> <span class="topicurl">(infoworld.com)</span></div><div class="topicdesc"><a href="topic?id=13581" class="c99 breakall">- 조 바이든 행정부는 소프트웨어 개발자들이 메모리 안전 프로그래밍 언어를 사용하고 C/C++ 와 같은 취약한 프로그래밍 언어를 버리기 원함.  
-...</a></div><div class="topicinfo"><span id="tp13581">2</span> points by <a href="/user?id=mammal">mammal</a> 2시간전<span id="unvote13581"></span> | <a href="topic?id=13581" class="u">댓글 6개</a></div>]]></content>
+- 최근 연구인 BitNet은 1비트 대형 언어 모델(LLMs)의 새로운 시대를 ...</a></div><div class="topicinfo"><span id="tp13573">5</span> points by <a href="/user?id=neo">neo</a> 8시간전<span id="unvote13573"></span> | <a href="topic?id=13573" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Speakz - 7살 아이와 함께 외국어 동영상을 보기 위해 제작한 AI 더빙 도구]]></title>
         <id>https://speakz.ai/</id>
         <link href="https://speakz.ai/"/>
         <updated>2024-02-29T02:17:13.558Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote13571"><a class="upvote" href="javascript:vote(13571, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://speakz.ai" rel="nofollow" id="tr7"><h1>GN⁺: Speakz - 7살 아이와 함께 외국어 동영상을 보기 위해 제작한 AI 더빙 도구</h1></a> <span class="topicurl">(speakz.ai)</span></div><div class="topicdesc"><a href="topic?id=13571" class="c99 breakall"># Speakz: 다국어 미디어 번역 서비스  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote13571"><a class="upvote" href="javascript:vote(13571, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://speakz.ai" rel="nofollow" id="tr6"><h1>GN⁺: Speakz - 7살 아이와 함께 외국어 동영상을 보기 위해 제작한 AI 더빙 도구</h1></a> <span class="topicurl">(speakz.ai)</span></div><div class="topicdesc"><a href="topic?id=13571" class="c99 breakall"># Speakz: 다국어 미디어 번역 서비스  
   
 - 한 언어로 된 비디오를 다른 언어로 번역하여 새로운 오디오 트랙을 생성  
-- 원본의 목소리, 기...</a></div><div class="topicinfo"><span id="tp13571">4</span> points by <a href="/user?id=neo">neo</a> 8시간전<span id="unvote13571"></span> | <a href="topic?id=13571" class="u">댓글 1개</a></div>]]></content>
+- 원본의 목소리, 기...</a></div><div class="topicinfo"><span id="tp13571">4</span> points by <a href="/user?id=neo">neo</a> 9시간전<span id="unvote13571"></span> | <a href="topic?id=13571" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Klarna, AI 봇이 700명의 일을 대신하고 있다고 밝혀]]></title>
-        <id>https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/</id>
-        <link href="https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/"/>
-        <updated>2024-02-29T00:51:39.019Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13575"><a class="upvote" href="javascript:vote(13575, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/" rel="nofollow" id="tr8"><h1>Klarna, AI 봇이 700명의 일을 대신하고 있다고 밝혀</h1></a> <span class="topicurl">(klarna.com)</span></div><div class="topicdesc"><a href="topic?id=13575" class="c99 breakall">- Buy Now Pay Later 서비스 회사인 Klarna가 OpenAI에 의해 구동되는 AI 어시스턴트를 발표  
-- 전 세계적으로 1개월간 운영된 결과, AI 봇은 클...</a></div><div class="topicinfo"><span id="tp13575">3</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote13575"></span> | <a href="topic?id=13575" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RecurseChat - 매일 사용을 위한 로컬 AI 대화 앱]]></title>
-        <id>https://recurse.chat/</id>
-        <link href="https://recurse.chat/"/>
-        <updated>2024-02-29T02:17:13.567Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13574"><a class="upvote" href="javascript:vote(13574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://recurse.chat/" rel="nofollow" id="tr9"><h1>RecurseChat - 매일 사용을 위한 로컬 AI 대화 앱</h1></a> <span class="topicurl">(recurse.chat)</span></div><div class="topicdesc"><a href="topic?id=13574" class="c99 breakall">- **로컬 우선, 오프라인 가능**: 복잡한 설정 없이 오프라인에서 AI와 대화 가능.  
-- **전문 검색**: 수천 개의 메시지에 대해 빠른 검색 기능 ...</a></div><div class="topicinfo"><span id="tp13574">3</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote13574"></span> | <a href="topic?id=13574" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[백악관, 개발자들에게 C와 C++를 피하고 '메모리 안전' 언어 사용 촉구]]></title>
+        <id>https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html</id>
+        <link href="https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html"/>
+        <updated>2024-02-29T05:13:37.735Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote13581"><a class="upvote" href="javascript:vote(13581, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html" rel="nofollow" id="tr7"><h1>백악관, 개발자들에게 C와 C++를 피하고 '메모리 안전' 언어 사용 촉구</h1></a> <span class="topicurl">(infoworld.com)</span></div><div class="topicdesc"><a href="topic?id=13581" class="c99 breakall">- 조 바이든 행정부는 소프트웨어 개발자들이 메모리 안전 프로그래밍 언어를 사용하고 C/C++ 와 같은 취약한 프로그래밍 언어를 버리기 원함.  
+...</a></div><div class="topicinfo"><span id="tp13581">2</span> points by <a href="/user?id=mammal">mammal</a> 3시간전<span id="unvote13581"></span> | <a href="topic?id=13581" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 오픈소스 프로젝트를 사업으로 전환한 방법]]></title>
         <id>https://docs.emailengine.app/how-i-turned-my-open-source-project-into/</id>
         <link href="https://docs.emailengine.app/how-i-turned-my-open-source-project-into/"/>
         <updated>2024-02-28T02:18:19.454Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13559"><a class="upvote" href="javascript:vote(13559, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.emailengine.app/how-i-turned-my-open-source-project-into/" rel="nofollow" id="tr10"><h1>GN⁺: 오픈소스 프로젝트를 사업으로 전환한 방법  </h1></a> <span class="topicurl">(docs.emailengine.app)</span></div><div class="topicdesc"><a href="topic?id=13559" class="c99 breakall">- 오픈소스 소프트웨어를 처음 작성하고 배포하기 시작한 것은 약 15년 전이었으며, 당시에는 MIT나 BSD와 같은 허용적 라이선스만을 사용했음.  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13559"><a class="upvote" href="javascript:vote(13559, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.emailengine.app/how-i-turned-my-open-source-project-into/" rel="nofollow" id="tr8"><h1>GN⁺: 오픈소스 프로젝트를 사업으로 전환한 방법  </h1></a> <span class="topicurl">(docs.emailengine.app)</span></div><div class="topicdesc"><a href="topic?id=13559" class="c99 breakall">- 오픈소스 소프트웨어를 처음 작성하고 배포하기 시작한 것은 약 15년 전이었으며, 당시에는 MIT나 BSD와 같은 허용적 라이선스만을 사용했음.  
 ...</a></div><div class="topicinfo"><span id="tp13559">17</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote13559"></span> | <a href="topic?id=13559" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klarna, AI 봇이 700명의 일을 대신하고 있다고 밝혀]]></title>
+        <id>https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/</id>
+        <link href="https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/"/>
+        <updated>2024-02-29T00:51:39.019Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13575"><a class="upvote" href="javascript:vote(13575, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/" rel="nofollow" id="tr9"><h1>Klarna, AI 봇이 700명의 일을 대신하고 있다고 밝혀</h1></a> <span class="topicurl">(klarna.com)</span></div><div class="topicdesc"><a href="topic?id=13575" class="c99 breakall">- Buy Now Pay Later 서비스 회사인 Klarna가 OpenAI에 의해 구동되는 AI 어시스턴트를 발표  
+- 전 세계적으로 1개월간 운영된 결과, AI 봇은 클...</a></div><div class="topicinfo"><span id="tp13575">3</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote13575"></span> | <a href="topic?id=13575" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RecurseChat - 매일 사용을 위한 로컬 AI 대화 앱]]></title>
+        <id>https://recurse.chat/</id>
+        <link href="https://recurse.chat/"/>
+        <updated>2024-02-29T02:17:13.567Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13574"><a class="upvote" href="javascript:vote(13574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://recurse.chat/" rel="nofollow" id="tr10"><h1>RecurseChat - 매일 사용을 위한 로컬 AI 대화 앱</h1></a> <span class="topicurl">(recurse.chat)</span></div><div class="topicdesc"><a href="topic?id=13574" class="c99 breakall">- **로컬 우선, 오프라인 가능**: 복잡한 설정 없이 오프라인에서 AI와 대화 가능.  
+- **전문 검색**: 수천 개의 메시지에 대해 빠른 검색 기능 ...</a></div><div class="topicinfo"><span id="tp13574">3</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote13574"></span> | <a href="topic?id=13574" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호기심 많은 소프트웨어 엔지니어를 위한 학습자료 모음]]></title>
@@ -145,19 +145,19 @@
 - REST API와 HTTPS 암호화를 사용...</a></div><div class="topicinfo"><span id="tp13530">22</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13530"></span> | <a href="topic?id=13530" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: 애플, 전기차 개발 중단하고 팀을 생성형 AI로 전환]]></title>
-        <id>https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai</id>
-        <link href="https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai"/>
-        <updated>2024-02-28T01:44:51.315Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote13558"><a class="upvote" href="javascript:vote(13558, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai" rel="nofollow" id="tr18"><h1>GN⁺: 애플, 전기차 개발 중단하고 팀을 생성형 AI로 전환</h1></a> <span class="topicurl">(bloomberg.com)</span></div><div class="topicdesc"><a href="topic?id=13558" class="c99 breakall">- Apple이 10년간의 노력 끝에 전기차 개발 프로젝트를 중단하기로 결정함.  
-- 내부적으로 발표된 이 소식은 프로젝트에 참여하던 약 2,000명의 ...</a></div><div class="topicinfo"><span id="tp13558">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote13558"></span> | <a href="topic?id=13558" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인플루언서 마케팅 ROI: 팔로워 수가 적은 인플루언서가 더 비용 효과적임]]></title>
         <id>https://www.ama.org/2024/02/20/influencer-marketing-roi-research-shows-influencers-with-smaller-followings-are-more-cost-effective/?utm_source=tldrmarketing</id>
         <link href="https://www.ama.org/2024/02/20/influencer-marketing-roi-research-shows-influencers-with-smaller-followings-are-more-cost-effective/?utm_source=tldrmarketing"/>
         <updated>2024-02-27T00:51:29.614Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote13539"><a class="upvote" href="javascript:vote(13539, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.ama.org/2024/02/20/influencer-marketing-roi-research-shows-influencers-with-smaller-followings-are-more-cost-effective/?utm_source=tldrmarketing" rel="nofollow" id="tr19"><h1>인플루언서 마케팅 ROI: 팔로워 수가 적은 인플루언서가 더 비용 효과적임</h1></a> <span class="topicurl">(ama.org)</span></div><div class="topicdesc"><a href="topic?id=13539" class="c99 breakall">- 인플루언서 마케팅 산업은 빠르게 성장하여 174억 달러 규모에 이르렀으며, 미국의 80% 이상의 회사들이 마케팅 목적으로 인플루언서를 활용함  ...</a></div><div class="topicinfo"><span id="tp13539">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13539"></span> | <a href="topic?id=13539" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote13539"><a class="upvote" href="javascript:vote(13539, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.ama.org/2024/02/20/influencer-marketing-roi-research-shows-influencers-with-smaller-followings-are-more-cost-effective/?utm_source=tldrmarketing" rel="nofollow" id="tr18"><h1>인플루언서 마케팅 ROI: 팔로워 수가 적은 인플루언서가 더 비용 효과적임</h1></a> <span class="topicurl">(ama.org)</span></div><div class="topicdesc"><a href="topic?id=13539" class="c99 breakall">- 인플루언서 마케팅 산업은 빠르게 성장하여 174억 달러 규모에 이르렀으며, 미국의 80% 이상의 회사들이 마케팅 목적으로 인플루언서를 활용함  ...</a></div><div class="topicinfo"><span id="tp13539">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13539"></span> | <a href="topic?id=13539" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 애플, 전기차 개발 중단하고 팀을 생성형 AI로 전환]]></title>
+        <id>https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai</id>
+        <link href="https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai"/>
+        <updated>2024-02-28T01:44:51.315Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote13558"><a class="upvote" href="javascript:vote(13558, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai" rel="nofollow" id="tr19"><h1>GN⁺: 애플, 전기차 개발 중단하고 팀을 생성형 AI로 전환</h1></a> <span class="topicurl">(bloomberg.com)</span></div><div class="topicdesc"><a href="topic?id=13558" class="c99 breakall">- Apple이 10년간의 노력 끝에 전기차 개발 프로젝트를 중단하기로 결정함.  
+- 내부적으로 발표된 이 소식은 프로젝트에 참여하던 약 2,000명의 ...</a></div><div class="topicinfo"><span id="tp13558">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote13558"></span> | <a href="topic?id=13558" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Empty Canvas: 애니메이션 화풍 이미지 생성 & 검색 엔진]]></title>
