@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-03-09T02:15:22.708Z</updated>
+    <updated>2024-03-09T03:16:38.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Fedify: Deno로 만든 ActivityPub 서버 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=13726</id>
+        <link href="https://news.hada.io/topic?id=13726"/>
+        <updated>2024-03-09T03:16:16.711Z</updated>
+        <content type="html"><![CDATA[hongminhee]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 리포지토리, 협업도구에서 Credential / Secret 노출을 막는 방법]]></title>
         <id>https://news.hada.io/topic?id=13725</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=12803"/>
         <updated>2024-01-11T01:56:54.453Z</updated>
         <content type="html"><![CDATA[tpdns90321]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: LLM을 통해 구하기 힘든 데이터를 만들어 드립니다.]]></title>
-        <id>https://news.hada.io/topic?id=12984</id>
-        <link href="https://news.hada.io/topic?id=12984"/>
-        <updated>2024-01-22T05:12:46.296Z</updated>
-        <content type="html"><![CDATA[kalinch1]]></content>
     </entry>
 </feed>
