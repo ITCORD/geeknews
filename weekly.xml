@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2024-03-10T23:13:18.628Z</updated>
+    <updated>2024-03-11T00:53:55.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소프트웨어 개발에서 배운 교훈들]]></title>
+        <id>https://news.hada.io/weekly/202411</id>
+        <link href="https://news.hada.io/weekly/202411"/>
+        <updated>2024-03-11T00:53:45.557Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202411" class="u"> 소프트웨어 개발에서 배운 교훈들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타트업에서 좋았던/후회하는 (거의) 모든 인프라 결정들]]></title>
         <id>https://news.hada.io/weekly/202410</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202402"/>
         <updated>2024-01-08T00:57:05.517Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202402" class="u">  내가 2023년에 배운 52가지</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 기술분야 빅 아이디어들]]></title>
-        <id>https://news.hada.io/weekly/202401</id>
-        <link href="https://news.hada.io/weekly/202401"/>
-        <updated>2024-01-01T01:00:15.169Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202401" class="u"> 2024 기술분야 빅 아이디어들</a>]]></content>
     </entry>
 </feed>
