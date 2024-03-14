@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-03-14T04:15:07.459Z</updated>
+    <updated>2024-03-14T05:12:26.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 개발 관련 유튜브 영상 모음]]></title>
+        <id>https://news.hada.io/topic?id=13806</id>
+        <link href="https://news.hada.io/topic?id=13806"/>
+        <updated>2024-03-14T05:12:04.896Z</updated>
+        <content type="html"><![CDATA[kenuheo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 괜찮은 스타트업들의 채용 공고를 한번에 찾아볼수 있는 탐색 및 분석 서비스]]></title>
         <id>https://news.hada.io/topic?id=13775</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13097"/>
         <updated>2024-01-29T08:15:08.420Z</updated>
         <content type="html"><![CDATA[joone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: WebViewBridge - 리액트 네이티브 웹뷰와 웹 통합 인터페이스]]></title>
-        <id>https://news.hada.io/topic?id=12869</id>
-        <link href="https://news.hada.io/topic?id=12869"/>
-        <updated>2024-03-13T02:20:51.242Z</updated>
-        <content type="html"><![CDATA[gronxb]]></content>
     </entry>
 </feed>
