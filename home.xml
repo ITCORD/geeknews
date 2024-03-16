@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-03-16T13:13:52.842Z</updated>
+    <updated>2024-03-16T14:11:46.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,24 +11,24 @@
         <link href="https://news.hada.io/topic?id=13842"/>
         <updated>2024-03-16T12:22:00.810Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13842"><a class="upvote" href="javascript:vote(13842, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/apple-llm-mm1-x/3772?utm_source=geeknews" rel="nofollow" id="tr1"><h1>Apple이 Multimodal LLM인 MM1에 대해 공개한 논문을 정리해 보았습니다.</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=13842" class="c99 breakall">  
-Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하였습니다. (모델 코드나 가중치는 공개하지 않았고, 앞으로도 안 할 것 같습니다...</a></div><div class="topicinfo"><span id="tp13842">2</span> points by <a href="/user?id=ninebow">ninebow</a> 2시간전<span id="unvote13842"></span> | <a href="topic?id=13842" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanos - 빠른 코드 실행을 위한 Unikernel]]></title>
-        <id>https://news.hada.io/topic?id=13841</id>
-        <link href="https://news.hada.io/topic?id=13841"/>
-        <updated>2024-03-16T01:41:53.005Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13841"><a class="upvote" href="javascript:vote(13841, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nanos.org/" rel="nofollow" id="tr2"><h1>Nanos - 빠른 코드 실행을 위한 Unikernel</h1></a> <span class="topicurl">(nanos.org)</span></div><div class="topicdesc"><a href="topic?id=13841" class="c99 breakall">- Nanos는 가상화 환경에서 단 하나의 애플리케이션만을 실행하는 유니커널  
-  - 즉, 여러 프로그램 실행을 지원하지 않는 단일 프로세스 시스템...</a></div><div class="topicinfo"><span id="tp13841">6</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote13841"></span> | <a href="topic?id=13841" class="u">댓글 1개</a></div>]]></content>
+Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하였습니다. (모델 코드나 가중치는 공개하지 않았고, 앞으로도 안 할 것 같습니다...</a></div><div class="topicinfo"><span id="tp13842">3</span> points by <a href="/user?id=ninebow">ninebow</a> 3시간전<span id="unvote13842"></span> | <a href="topic?id=13842" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bebop - 엄청 빠른 데이터 교환 포맷]]></title>
         <id>https://news.hada.io/topic?id=13820</id>
         <link href="https://news.hada.io/topic?id=13820"/>
         <updated>2024-03-15T01:46:57.758Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote13820"><a class="upvote" href="javascript:vote(13820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/betwixt-labs/bebop" rel="nofollow" id="tr3"><h1>Bebop - 엄청 빠른 데이터 교환 포맷</h1></a> <span class="topicurl">(github.com/betwixt-labs)</span></div><div class="topicdesc"><a href="topic?id=13820" class="c99 breakall">- Typesafe Binary Serialization   
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13820"><a class="upvote" href="javascript:vote(13820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/betwixt-labs/bebop" rel="nofollow" id="tr2"><h1>Bebop - 엄청 빠른 데이터 교환 포맷</h1></a> <span class="topicurl">(github.com/betwixt-labs)</span></div><div class="topicdesc"><a href="topic?id=13820" class="c99 breakall">- Typesafe Binary Serialization   
 - 기존 직렬화 형식을 대체하는 현대적이고 개발자 친화적, 고성능 설계  
 - 벤치마크상 Protocol Buffers ...</a></div><div class="topicinfo"><span id="tp13820">26</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13820"></span> | <a href="topic?id=13820" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nanos - 빠른 코드 실행을 위한 Unikernel]]></title>
+        <id>https://news.hada.io/topic?id=13841</id>
+        <link href="https://news.hada.io/topic?id=13841"/>
+        <updated>2024-03-16T01:41:53.005Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote13841"><a class="upvote" href="javascript:vote(13841, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nanos.org/" rel="nofollow" id="tr3"><h1>Nanos - 빠른 코드 실행을 위한 Unikernel</h1></a> <span class="topicurl">(nanos.org)</span></div><div class="topicdesc"><a href="topic?id=13841" class="c99 breakall">- Nanos는 가상화 환경에서 단 하나의 애플리케이션만을 실행하는 유니커널  
+  - 즉, 여러 프로그램 실행을 지원하지 않는 단일 프로세스 시스템...</a></div><div class="topicinfo"><span id="tp13841">6</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote13841"></span> | <a href="topic?id=13841" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Figma 데이터베이스 팀이 100배 규모 확장을 견뎌낸 방법]]></title>
@@ -71,7 +71,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
         <link href="https://news.hada.io/topic?id=13840"/>
         <updated>2024-03-16T01:41:53.006Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13840"><a class="upvote" href="javascript:vote(13840, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bytecodealliance/jco" rel="nofollow" id="tr8"><h1>jco - WebAssembly 컴포넌트와 협업하기 위한 자바스크립트 툴체인</h1></a> <span class="topicurl">(github.com/bytecodealliance)</span></div><div class="topicdesc"><a href="topic?id=13840" class="c99 breakall">- 자바스크립트에서 웹어셈블리 컴포넌트로 작업할 수 있는 완전한 네이티브 JS 툴체인  
-- Wasm 컴포넌트 바이너리를 모든 JS 환경에서 실행할 ...</a></div><div class="topicinfo"><span id="tp13840">3</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote13840"></span> | <a href="topic?id=13840" class="u">댓글과 토론</a></div>]]></content>
+- Wasm 컴포넌트 바이너리를 모든 JS 환경에서 실행할 ...</a></div><div class="topicinfo"><span id="tp13840">3</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote13840"></span> | <a href="topic?id=13840" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: 더 인정 받아야 할 저평가된 오픈 소스 프로젝트는?]]></title>
@@ -81,7 +81,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
         <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13788"><a class="upvote" href="javascript:vote(13788, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=39635486" rel="nofollow" id="tr9"><h1>Ask HN: 더 인정 받아야 할 저평가된 오픈 소스 프로젝트는?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=13788" class="c99 breakall">해커뉴스에 올라온 질문과 답변들 정리   
 # Bruno  
 - *Postman의 대안으로, 완전히 로컬에서 동작하며 Git과 쉽게 동기화됨*  
-- 다른 무료 ...</a></div><div class="topicinfo"><span id="tp13788">42</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13788"></span> | <a href="topic?id=13788" class="u">댓글 1개</a></div>]]></content>
+- 다른 무료 ...</a></div><div class="topicinfo"><span id="tp13788">42</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote13788"></span> | <a href="topic?id=13788" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[React Print - React로 고품질 PDF 작성하기 오픈소스]]></title>
@@ -89,7 +89,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
         <link href="https://news.hada.io/topic?id=13802"/>
         <updated>2024-03-14T02:17:53.532Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13802"><a class="upvote" href="javascript:vote(13802, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/OnedocLabs/react-print-pdf" rel="nofollow" id="tr10"><h1>React Print - React로 고품질 PDF 작성하기 오픈소스</h1></a> <span class="topicurl">(github.com/OnedocLabs)</span></div><div class="topicdesc"><a href="topic?id=13802" class="c99 breakall">- PDF용 React UI 키트를 사용하여 PDF를 빌드 및 생성하고 문서를 인쇄  
-- 간단하고 재사용 가능한 컴포넌트와 템플릿으로 인보이스, 문서, 브...</a></div><div class="topicinfo"><span id="tp13802">24</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13802"></span> | <a href="topic?id=13802" class="u">댓글 2개</a></div>]]></content>
+- 간단하고 재사용 가능한 컴포넌트와 템플릿으로 인보이스, 문서, 브...</a></div><div class="topicinfo"><span id="tp13802">24</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13802"></span> | <a href="topic?id=13802" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Enterprise SaaS 개발용 Next.js 기반 스타터킷 오픈소스]]></title>
@@ -125,7 +125,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
         <updated>2024-03-12T01:43:04.531Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote13769"><a class="upvote" href="javascript:vote(13769, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://graphite.dev/blog/why-facebook-doesnt-use-git" rel="nofollow" id="tr14"><h1>페이스북이 Git을 사용하지 않는 이유</h1></a> <span class="topicurl">(graphite.dev)</span></div><div class="topicdesc"><a href="topic?id=13769" class="c99 breakall"># Graphite 개발자 Greg Foster가 이에 관심을 가진 이유   
 - 그는 페이스북 내부 도구에서 영감을 받아 Graphite 프로젝트를 시작  
-- 페이스...</a></div><div class="topicinfo"><span id="tp13769">34</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote13769"></span> | <a href="topic?id=13769" class="u">댓글 2개</a></div>]]></content>
+- 페이스...</a></div><div class="topicinfo"><span id="tp13769">34</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote13769"></span> | <a href="topic?id=13769" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성장을 위한 피드백 문화 경험담]]></title>
@@ -146,7 +146,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
   
 - **L1 캐시 참조**: 1나노초  
 - **분기 예측 실패**: 3나노초  
-- **L2 ...</a></div><div class="topicinfo"><span id="tp13749">44</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote13749"></span> | <a href="topic?id=13749" class="u">댓글 3개</a></div>]]></content>
+- **L2 ...</a></div><div class="topicinfo"><span id="tp13749">44</span> points by <a href="/user?id=neo">neo</a> 6일전<span id="unvote13749"></span> | <a href="topic?id=13749" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단순한 아키텍처를 옹호하며 (2022)]]></title>
@@ -154,7 +154,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
         <link href="https://news.hada.io/topic?id=13754"/>
         <updated>2024-03-15T13:13:35.683Z</updated>
         <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote13754"><a class="upvote" href="javascript:vote(13754, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://danluu.com/simple-architectures/" rel="nofollow" id="tr17"><h1>단순한 아키텍처를 옹호하며 (2022)</h1></a> <span class="topicurl">(danluu.com)</span></div><div class="topicdesc"><a href="topic?id=13754" class="c99 breakall">- Wave는 70명의 엔지니어를 보유한 $1.7B(2.3조원) 규모의 회사 (아프리카를 위한 모바일 뱅킹 서비스 제공)  
-- Postgres 기반의 Python 모놀리...</a></div><div class="topicinfo"><span id="tp13754">42</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote13754"></span> | <a href="topic?id=13754" class="u">댓글 5개</a></div>]]></content>
+- Postgres 기반의 Python 모놀리...</a></div><div class="topicinfo"><span id="tp13754">42</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote13754"></span> | <a href="topic?id=13754" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Nvtop - Nvidia/AMD/Intel GPU를 위한 리눅스 태스크 모니터]]></title>
