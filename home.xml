@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-03-17T18:13:47.221Z</updated>
+    <updated>2024-03-17T19:10:23.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2024-03-17T01:50:44.507Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13847"><a class="upvote" href="javascript:vote(13847, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/soorajshankar/logScreen" rel="nofollow" id="tr1"><h1>LogScreen - 로그 검색 및 브라우저에서 편하게 보기</h1></a> <span class="topicurl">(github.com/soorajshankar)</span></div><div class="topicdesc"><a href="topic?id=13847" class="c99 breakall">- 로그를 Piping 해서 보내면 웹앱으로 표시해주는 오픈소스   
   - `docker-compose up | npx logscreen`  
-  - `tail -f /var/log/syslog | np...</a></div><div class="topicinfo"><span id="tp13847">9</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote13847"></span> | <a href="topic?id=13847" class="u">댓글과 토론</a></div>]]></content>
+  - `tail -f /var/log/syslog | np...</a></div><div class="topicinfo"><span id="tp13847">9</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote13847"></span> | <a href="topic?id=13847" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bebop - 엄청 빠른 데이터 교환 포맷]]></title>
@@ -24,18 +24,11 @@
 - 벤치마크상 Protocol Buffers ...</a></div><div class="topicinfo"><span id="tp13820">29</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13820"></span> | <a href="topic?id=13820" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: LeetCode Click 대안 오늘의 문제 Link 서비스]]></title>
-        <id>https://news.hada.io/topic?id=13856</id>
-        <link href="https://news.hada.io/topic?id=13856"/>
-        <updated>2024-03-17T14:09:41.522Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote13856"><a class="upvote" href="javascript:vote(13856, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=13856" rel="nofollow" id="tr3"><h1>Show GN: LeetCode Click 대안 오늘의 문제 Link 서비스</h1></a> <span class="topicurl">(shorturl.at)</span></div><div class="topicdesc"><a href="topic?id=13856" class="c99 breakall">[leetcode.click](https://news.hada.io/topic?id=8011) 만들어 주셔서 잘 쓰고 있었는데 [운영 중단](https://leetcode.click) 소식에 만들어 봤...</a></div><div class="topicinfo"><span id="tp13856">1</span> point by <a href="/user?id=yhkee">yhkee</a> 4시간전<span id="unvote13856"></span> | <a href="topic?id=13856" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Figma 데이터베이스 팀이 100배 규모 확장을 견뎌낸 방법]]></title>
         <id>https://news.hada.io/topic?id=13821</id>
         <link href="https://news.hada.io/topic?id=13821"/>
         <updated>2024-03-15T03:13:49.785Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote13821"><a class="upvote" href="javascript:vote(13821, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/" rel="nofollow" id="tr4"><h1>GN⁺: Figma 데이터베이스 팀이 100배 규모 확장을 견뎌낸 방법</h1></a> <span class="topicurl">(figma.com)</span></div><div class="topicdesc"><a href="topic?id=13821" class="c99 breakall">- Figma의 데이터베이스 팀이 Postgres 스택을 수평적으로 샤딩한 아홉 달간의 여정과 거의 무한한 확장성을 가능하게 한 방법을 정리  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote13821"><a class="upvote" href="javascript:vote(13821, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/" rel="nofollow" id="tr3"><h1>GN⁺: Figma 데이터베이스 팀이 100배 규모 확장을 견뎌낸 방법</h1></a> <span class="topicurl">(figma.com)</span></div><div class="topicdesc"><a href="topic?id=13821" class="c99 breakall">- Figma의 데이터베이스 팀이 Postgres 스택을 수평적으로 샤딩한 아홉 달간의 여정과 거의 무한한 확장성을 가능하게 한 방법을 정리  
   
 # Fi...</a></div><div class="topicinfo"><span id="tp13821">24</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13821"></span> | <a href="topic?id=13821" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -44,8 +37,15 @@
         <id>https://news.hada.io/topic?id=13841</id>
         <link href="https://news.hada.io/topic?id=13841"/>
         <updated>2024-03-16T01:41:53.005Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote13841"><a class="upvote" href="javascript:vote(13841, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nanos.org/" rel="nofollow" id="tr5"><h1>Nanos - 빠른 코드 실행을 위한 Unikernel</h1></a> <span class="topicurl">(nanos.org)</span></div><div class="topicdesc"><a href="topic?id=13841" class="c99 breakall">- Nanos는 가상화 환경에서 단 하나의 애플리케이션만을 실행하는 유니커널  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote13841"><a class="upvote" href="javascript:vote(13841, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nanos.org/" rel="nofollow" id="tr4"><h1>Nanos - 빠른 코드 실행을 위한 Unikernel</h1></a> <span class="topicurl">(nanos.org)</span></div><div class="topicdesc"><a href="topic?id=13841" class="c99 breakall">- Nanos는 가상화 환경에서 단 하나의 애플리케이션만을 실행하는 유니커널  
   - 즉, 여러 프로그램 실행을 지원하지 않는 단일 프로세스 시스템...</a></div><div class="topicinfo"><span id="tp13841">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13841"></span> | <a href="topic?id=13841" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: LeetCode Click 대안 오늘의 문제 Link 서비스]]></title>
+        <id>https://news.hada.io/topic?id=13856</id>
+        <link href="https://news.hada.io/topic?id=13856"/>
+        <updated>2024-03-17T14:09:41.522Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote13856"><a class="upvote" href="javascript:vote(13856, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=13856" rel="nofollow" id="tr5"><h1>Show GN: LeetCode Click 대안 오늘의 문제 Link 서비스</h1></a> <span class="topicurl">(shorturl.at)</span></div><div class="topicdesc"><a href="topic?id=13856" class="c99 breakall">[leetcode.click](https://news.hada.io/topic?id=8011) 만들어 주셔서 잘 쓰고 있었는데 [운영 중단](https://leetcode.click) 소식에 만들어 봤...</a></div><div class="topicinfo"><span id="tp13856">1</span> point by <a href="/user?id=yhkee">yhkee</a> 5시간전<span id="unvote13856"></span> | <a href="topic?id=13856" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: 더 인정 받아야 할 저평가된 오픈 소스 프로젝트는?]]></title>
