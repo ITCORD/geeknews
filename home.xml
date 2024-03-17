@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-03-17T12:20:52.240Z</updated>
+    <updated>2024-03-17T13:14:25.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2024-03-17T01:50:44.507Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13847"><a class="upvote" href="javascript:vote(13847, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/soorajshankar/logScreen" rel="nofollow" id="tr1"><h1>LogScreen - 로그 검색 및 브라우저에서 편하게 보기</h1></a> <span class="topicurl">(github.com/soorajshankar)</span></div><div class="topicdesc"><a href="topic?id=13847" class="c99 breakall">- 로그를 Piping 해서 보내면 웹앱으로 표시해주는 오픈소스   
   - `docker-compose up | npx logscreen`  
-  - `tail -f /var/log/syslog | np...</a></div><div class="topicinfo"><span id="tp13847">6</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote13847"></span> | <a href="topic?id=13847" class="u">댓글과 토론</a></div>]]></content>
+  - `tail -f /var/log/syslog | np...</a></div><div class="topicinfo"><span id="tp13847">8</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote13847"></span> | <a href="topic?id=13847" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bebop - 엄청 빠른 데이터 교환 포맷]]></title>
@@ -21,7 +21,7 @@
         <updated>2024-03-15T01:46:57.758Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13820"><a class="upvote" href="javascript:vote(13820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/betwixt-labs/bebop" rel="nofollow" id="tr2"><h1>Bebop - 엄청 빠른 데이터 교환 포맷</h1></a> <span class="topicurl">(github.com/betwixt-labs)</span></div><div class="topicdesc"><a href="topic?id=13820" class="c99 breakall">- Typesafe Binary Serialization   
 - 기존 직렬화 형식을 대체하는 현대적이고 개발자 친화적, 고성능 설계  
-- 벤치마크상 Protocol Buffers ...</a></div><div class="topicinfo"><span id="tp13820">29</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13820"></span> | <a href="topic?id=13820" class="u">댓글 3개</a></div>]]></content>
+- 벤치마크상 Protocol Buffers ...</a></div><div class="topicinfo"><span id="tp13820">29</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13820"></span> | <a href="topic?id=13820" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nanos - 빠른 코드 실행을 위한 Unikernel]]></title>
@@ -38,7 +38,7 @@
         <updated>2024-03-15T03:13:49.785Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote13821"><a class="upvote" href="javascript:vote(13821, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/" rel="nofollow" id="tr4"><h1>GN⁺: Figma 데이터베이스 팀이 100배 규모 확장을 견뎌낸 방법</h1></a> <span class="topicurl">(figma.com)</span></div><div class="topicdesc"><a href="topic?id=13821" class="c99 breakall">- Figma의 데이터베이스 팀이 Postgres 스택을 수평적으로 샤딩한 아홉 달간의 여정과 거의 무한한 확장성을 가능하게 한 방법을 정리  
   
-# Fi...</a></div><div class="topicinfo"><span id="tp13821">24</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote13821"></span> | <a href="topic?id=13821" class="u">댓글 1개</a></div>]]></content>
+# Fi...</a></div><div class="topicinfo"><span id="tp13821">24</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13821"></span> | <a href="topic?id=13821" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple이 Multimodal LLM인 MM1에 대해 공개한 논문을 정리해 보았습니다.]]></title>
@@ -65,7 +65,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
         <updated>2024-03-15T01:46:57.766Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote13816"><a class="upvote" href="javascript:vote(13816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://spreadsheets-are-all-you-need.ai/index.html" rel="nofollow" id="tr7"><h1>GN⁺: Spreadsheets are all you need - 스프레드시트로 배우는 AI </h1></a> <span class="topicurl">(spreadsheets-are-all-you-need.ai)</span></div><div class="topicdesc"><a href="topic?id=13816" class="c99 breakall"># 엑셀로 AI 배우기  
 - 엑셀에서 구현한 실제 LLM을 통해 AI가 어떻게 동작하는지 배우기   
-- GPT-2의 Forward Pass를 외부 API 호출없이 엑셀...</a></div><div class="topicinfo"><span id="tp13816">15</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote13816"></span> | <a href="topic?id=13816" class="u">댓글 2개</a></div>]]></content>
+- GPT-2의 Forward Pass를 외부 API 호출없이 엑셀...</a></div><div class="topicinfo"><span id="tp13816">15</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13816"></span> | <a href="topic?id=13816" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[React Print - React로 고품질 PDF 작성하기 오픈소스]]></title>
@@ -82,7 +82,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
         <updated>2024-03-15T00:53:10.937Z</updated>
         <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13814"><a class="upvote" href="javascript:vote(13814, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://browserbench.org/announcements/speedometer3/" rel="nofollow" id="tr9"><h1>Speedometer 3.0 발표</h1></a> <span class="topicurl">(browserbench.org)</span></div><div class="topicdesc"><a href="topic?id=13814" class="c99 breakall"># 웹 애플리케이션 반응성을 위한 공동 브라우저 벤치마크 도구   
 - Apple, Google, Microsoft, Mozilla의 기여자들이 참여하여 개발  
-- 웹 애...</a></div><div class="topicinfo"><span id="tp13814">14</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13814"></span> | <a href="topic?id=13814" class="u">댓글과 토론</a></div>]]></content>
+- 웹 애...</a></div><div class="topicinfo"><span id="tp13814">14</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13814"></span> | <a href="topic?id=13814" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[jco - WebAssembly 컴포넌트와 협업하기 위한 자바스크립트 툴체인]]></title>
@@ -90,7 +90,7 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
         <link href="https://news.hada.io/topic?id=13840"/>
         <updated>2024-03-16T01:41:53.006Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13840"><a class="upvote" href="javascript:vote(13840, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bytecodealliance/jco" rel="nofollow" id="tr10"><h1>jco - WebAssembly 컴포넌트와 협업하기 위한 자바스크립트 툴체인</h1></a> <span class="topicurl">(github.com/bytecodealliance)</span></div><div class="topicdesc"><a href="topic?id=13840" class="c99 breakall">- 자바스크립트에서 웹어셈블리 컴포넌트로 작업할 수 있는 완전한 네이티브 JS 툴체인  
-- Wasm 컴포넌트 바이너리를 모든 JS 환경에서 실행할 ...</a></div><div class="topicinfo"><span id="tp13840">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13840"></span> | <a href="topic?id=13840" class="u">댓글과 토론</a></div>]]></content>
+- Wasm 컴포넌트 바이너리를 모든 JS 환경에서 실행할 ...</a></div><div class="topicinfo"><span id="tp13840">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13840"></span> | <a href="topic?id=13840" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: LaVague - Selenium 자동화를 위한 오픈소스 Large Action Model 프레임워크]]></title>
@@ -156,27 +156,27 @@ Apple에서 MM1이라는 멀티모달 LLM에 대한 연구 결과를 공개하�
   - 특정 시기에만 진행되는 평가는 ...</a></div><div class="topicinfo"><span id="tp13807">11</span> points by <a href="/user?id=whatsup">whatsup</a> 3일전<span id="unvote13807"></span> | <a href="topic?id=13807" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GN⁺: Nvtop - Nvidia/AMD/Intel GPU를 위한 리눅스 태스크 모니터]]></title>
+        <id>https://news.hada.io/topic?id=13792</id>
+        <link href="https://news.hada.io/topic?id=13792"/>
+        <updated>2024-03-14T01:43:38.297Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote13792"><a class="upvote" href="javascript:vote(13792, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Syllo/nvtop" rel="nofollow" id="tr18"><h1>GN⁺: Nvtop - Nvidia/AMD/Intel GPU를 위한 리눅스 태스크 모니터</h1></a> <span class="topicurl">(github.com/Syllo)</span></div><div class="topicdesc"><a href="topic?id=13792" class="c99 breakall">- NVTop = "Neat Videocard TOP"   
+- GPU와 가속기를 위한 태스크 모니터  
+- 여러대의 GPU에 대한 정보를 처리하며, htop과 비슷한 방식으로 ...</a></div><div class="topicinfo"><span id="tp13792">12</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote13792"></span> | <a href="topic?id=13792" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GN⁺: Ollama, 이제 AMD 그래픽 카드 지원]]></title>
         <id>https://news.hada.io/topic?id=13838</id>
         <link href="https://news.hada.io/topic?id=13838"/>
         <updated>2024-03-17T01:50:44.523Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote13838"><a class="upvote" href="javascript:vote(13838, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ollama.com/blog/amd-preview" rel="nofollow" id="tr18"><h1>GN⁺: Ollama, 이제 AMD 그래픽 카드 지원</h1></a> <span class="topicurl">(ollama.com)</span></div><div class="topicdesc"><a href="topic?id=13838" class="c99 breakall">- Ollama가 프리뷰 버전에서 Windows와 Linux에서 AMD 그래픽 카드를 지원하기 시작함  
-- Ollama의 모든 기능이 이제 Linux와 Windows에서 AMD ...</a></div><div class="topicinfo"><span id="tp13838">3</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote13838"></span> | <a href="topic?id=13838" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote13838"><a class="upvote" href="javascript:vote(13838, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ollama.com/blog/amd-preview" rel="nofollow" id="tr19"><h1>GN⁺: Ollama, 이제 AMD 그래픽 카드 지원</h1></a> <span class="topicurl">(ollama.com)</span></div><div class="topicdesc"><a href="topic?id=13838" class="c99 breakall">- Ollama가 프리뷰 버전에서 Windows와 Linux에서 AMD 그래픽 카드를 지원하기 시작함  
+- Ollama의 모든 기능이 이제 Linux와 Windows에서 AMD ...</a></div><div class="topicinfo"><span id="tp13838">3</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote13838"></span> | <a href="topic?id=13838" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Getty 미술관, 약 8만 8천 점의 예술 이미지를 무료 사용으로 개방]]></title>
         <id>https://news.hada.io/topic?id=13835</id>
         <link href="https://news.hada.io/topic?id=13835"/>
         <updated>2024-03-17T08:13:53.346Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote13835"><a class="upvote" href="javascript:vote(13835, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html" rel="nofollow" id="tr19"><h1>GN⁺: Getty 미술관, 약 8만 8천 점의 예술 이미지를 무료 사용으로 개방</h1></a> <span class="topicurl">(openculture.com)</span></div><div class="topicdesc"><a href="topic?id=13835" class="c99 breakall">- 2013년에 시작된 게티 미술관의 오픈 콘텐츠 프로그램은 문화 예술품의 대규모 컬렉션을 온라인에서 자유롭게 접근할 수 있게 하는 노력의 일환...</a></div><div class="topicinfo"><span id="tp13835">3</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote13835"></span> | <a href="topic?id=13835" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Nvtop - Nvidia/AMD/Intel GPU를 위한 리눅스 태스크 모니터]]></title>
-        <id>https://news.hada.io/topic?id=13792</id>
-        <link href="https://news.hada.io/topic?id=13792"/>
-        <updated>2024-03-14T01:43:38.297Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote13792"><a class="upvote" href="javascript:vote(13792, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Syllo/nvtop" rel="nofollow" id="tr20"><h1>GN⁺: Nvtop - Nvidia/AMD/Intel GPU를 위한 리눅스 태스크 모니터</h1></a> <span class="topicurl">(github.com/Syllo)</span></div><div class="topicdesc"><a href="topic?id=13792" class="c99 breakall">- NVTop = "Neat Videocard TOP"   
-- GPU와 가속기를 위한 태스크 모니터  
-- 여러대의 GPU에 대한 정보를 처리하며, htop과 비슷한 방식으로 ...</a></div><div class="topicinfo"><span id="tp13792">11</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13792"></span> | <a href="topic?id=13792" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote13835"><a class="upvote" href="javascript:vote(13835, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html" rel="nofollow" id="tr20"><h1>GN⁺: Getty 미술관, 약 8만 8천 점의 예술 이미지를 무료 사용으로 개방</h1></a> <span class="topicurl">(openculture.com)</span></div><div class="topicdesc"><a href="topic?id=13835" class="c99 breakall">- 2013년에 시작된 게티 미술관의 오픈 콘텐츠 프로그램은 문화 예술품의 대규모 컬렉션을 온라인에서 자유롭게 접근할 수 있게 하는 노력의 일환...</a></div><div class="topicinfo"><span id="tp13835">3</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote13835"></span> | <a href="topic?id=13835" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
