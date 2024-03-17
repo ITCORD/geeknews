@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-03-17T13:14:25.096Z</updated>
+    <updated>2024-03-17T14:10:17.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: LeetCode Click 대안 오늘의 문제 Link 서비스]]></title>
+        <id>https://news.hada.io/topic?id=13856</id>
+        <link href="https://news.hada.io/topic?id=13856"/>
+        <updated>2024-03-17T14:09:57.821Z</updated>
+        <content type="html"><![CDATA[yhkee]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 초보자를 위한 BigQuery(SQL) 입문( 무료 강의)]]></title>
         <id>https://news.hada.io/topic?id=13811</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13362"/>
         <updated>2024-02-14T08:15:19.376Z</updated>
         <content type="html"><![CDATA[fcbayernmuller]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 무료 AI 유튜브 동영상 요약 서비스, Corely (코얼리)]]></title>
-        <id>https://news.hada.io/topic?id=13035</id>
-        <link href="https://news.hada.io/topic?id=13035"/>
-        <updated>2024-01-25T09:13:07.019Z</updated>
-        <content type="html"><![CDATA[corelyai]]></content>
     </entry>
 </feed>
