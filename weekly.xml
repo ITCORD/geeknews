@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2024-03-17T23:14:12.907Z</updated>
+    <updated>2024-03-18T00:53:47.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단순한 아키텍처를 옹호하며]]></title>
+        <id>https://news.hada.io/weekly/202412</id>
+        <link href="https://news.hada.io/weekly/202412"/>
+        <updated>2024-03-18T00:53:37.901Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202412" class="u"> 단순한 아키텍처를 옹호하며</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 개발에서 배운 교훈들]]></title>
         <id>https://news.hada.io/weekly/202411</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202403"/>
         <updated>2024-01-15T00:58:35.753Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202403" class="u"> Dropbox처럼 추천 프로그램을 설계하는 방법</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 2023년에 배운 52가지]]></title>
-        <id>https://news.hada.io/weekly/202402</id>
-        <link href="https://news.hada.io/weekly/202402"/>
-        <updated>2024-01-08T00:57:05.517Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202402" class="u">  내가 2023년에 배운 52가지</a>]]></content>
     </entry>
 </feed>
