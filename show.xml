@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-03-18T04:14:43.709Z</updated>
+    <updated>2024-03-18T05:13:53.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 토글 v 0.2: 슬랙, 노션, 지메일 등 모든 앱들의 정보를 한 번에 검색, 이용할 수 있는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=13870</id>
+        <link href="https://news.hada.io/topic?id=13870"/>
+        <updated>2024-03-18T05:13:32.997Z</updated>
+        <content type="html"><![CDATA[baegyutae]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: LeetCode Click 대안 오늘의 문제 Link 서비스]]></title>
         <id>https://news.hada.io/topic?id=13856</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=12955"/>
         <updated>2024-01-20T23:13:28.757Z</updated>
         <content type="html"><![CDATA[necoco]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Vroom, 영상 편집앱 Vrew 의 렌더링 속도를 빠르게 해주는 패치]]></title>
-        <id>https://news.hada.io/topic?id=13362</id>
-        <link href="https://news.hada.io/topic?id=13362"/>
-        <updated>2024-02-14T08:15:19.376Z</updated>
-        <content type="html"><![CDATA[fcbayernmuller]]></content>
     </entry>
 </feed>
