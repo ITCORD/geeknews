@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-03-23T20:13:45.932Z</updated>
+    <updated>2024-03-23T21:10:39.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2024-03-23T01:41:48.410Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13950"><a class="upvote" href="javascript:vote(13950, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/thevahidal/soul" rel="nofollow" id="tr1"><h1>SOUL - SQLite REST 및 실시간 서버</h1></a> <span class="topicurl">(github.com/thevahidal)</span></div><div class="topicdesc"><a href="topic?id=13950" class="c99 breakall">- CLI로 SQLite DB 파일을 REST 및 WebSocket API로 공개해주는 도구   
   - `soul -d sqlite.db -p 8000`  
-  - 이렇게 하면 http://localhost:...</a></div><div class="topicinfo"><span id="tp13950">9</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote13950"></span> | <a href="topic?id=13950" class="u">댓글과 토론</a></div>]]></content>
+  - 이렇게 하면 http://localhost:...</a></div><div class="topicinfo"><span id="tp13950">10</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote13950"></span> | <a href="topic?id=13950" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반응형 폰트 사이즈를 위한 공식]]></title>
@@ -46,12 +46,11 @@
 - 개발 환경에서도 프로덕션 환경과 동일한 보안 브라...</a></div><div class="topicinfo"><span id="tp13921">31</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13921"></span> | <a href="topic?id=13921" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI의 Sora 모델 작동 원리]]></title>
-        <id>https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works</id>
-        <link href="https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works"/>
-        <updated>2024-03-22T00:52:40.321Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote13929"><a class="upvote" href="javascript:vote(13929, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works" rel="nofollow" id="tr6"><h1>OpenAI의 Sora 모델 작동 원리</h1></a> <span class="topicurl">(factorialfunds.com)</span></div><div class="topicdesc"><a href="topic?id=13929" class="c99 breakall">- Sora(소라)는 Diffusion Transformers(DiT), Latent Diffusion을 기반으로 하며, 모델과 훈련 데이터셋을 대규모로 확장  
-- 소라는 비디오 모...</a></div><div class="topicinfo"><span id="tp13929">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13929"></span> | <a href="topic?id=13929" class="u">댓글 3개</a></div>]]></content>
+        <title type="html"><![CDATA[애플의 M시리즈 칩에서 새로운 패치 불가능한 취약성은 암호화 키의 추출을 허용한다]]></title>
+        <id>https://www.macrumors.com/2024/03/22/apple-silicon-vulnerability-encryption-keys/</id>
+        <link href="https://www.macrumors.com/2024/03/22/apple-silicon-vulnerability-encryption-keys/"/>
+        <updated>2024-03-23T10:12:21.953Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote13955"><a class="upvote" href="javascript:vote(13955, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.macrumors.com/2024/03/22/apple-silicon-vulnerability-encryption-keys/" rel="nofollow" id="tr6"><h1>애플의 M시리즈 칩에서 새로운 패치 불가능한 취약성은 암호화 키의 추출을 허용한다</h1></a> <span class="topicurl">(macrumors.com)</span></div><div class="topicdesc"><a href="topic?id=13955" class="c99 breakall">• 새로운 학술 연구 논문은 "GoFetch"라고 불리는 애플의 M-시리즈 칩에서 심각한 취약성을 보여주는데, 이것은 공격자들이 특정 조건에서 맥에서 ...</a></div><div class="topicinfo"><span id="tp13955">2</span> points by <a href="/user?id=brainer">brainer</a> 11시간전<span id="unvote13955"></span> | <a href="topic?id=13955" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Retina – 쿠버네티스를 위한 eBPF 기반 분산 네트워킹 관찰 플랫폼 오픈소스]]></title>
@@ -59,14 +58,22 @@
         <link href="https://github.com/microsoft/retina"/>
         <updated>2024-03-22T01:43:34.698Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote13936"><a class="upvote" href="javascript:vote(13936, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/retina" rel="nofollow" id="tr7"><h1>Microsoft Retina – 쿠버네티스를 위한 eBPF 기반 분산 네트워킹 관찰 플랫폼 오픈소스 </h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=13936" class="c99 breakall">- 클라우드에 구애받지 않는 오픈소스 Kubernetes network observability platform  
-- 애플리케이션 헬스, 네트워크 헬스, 보안을 모니터링하는 ...</a></div><div class="topicinfo"><span id="tp13936">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13936"></span> | <a href="topic?id=13936" class="u">댓글과 토론</a></div>]]></content>
+- 애플리케이션 헬스, 네트워크 헬스, 보안을 모니터링하는 ...</a></div><div class="topicinfo"><span id="tp13936">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13936"></span> | <a href="topic?id=13936" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI의 Sora 모델 작동 원리]]></title>
+        <id>https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works</id>
+        <link href="https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works"/>
+        <updated>2024-03-22T00:52:40.321Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13929"><a class="upvote" href="javascript:vote(13929, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works" rel="nofollow" id="tr8"><h1>OpenAI의 Sora 모델 작동 원리</h1></a> <span class="topicurl">(factorialfunds.com)</span></div><div class="topicdesc"><a href="topic?id=13929" class="c99 breakall">- Sora(소라)는 Diffusion Transformers(DiT), Latent Diffusion을 기반으로 하며, 모델과 훈련 데이터셋을 대규모로 확장  
+- 소라는 비디오 모...</a></div><div class="topicinfo"><span id="tp13929">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13929"></span> | <a href="topic?id=13929" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic의 프롬프트 라이브러리]]></title>
         <id>https://docs.anthropic.com/claude/prompt-library</id>
         <link href="https://docs.anthropic.com/claude/prompt-library"/>
         <updated>2024-03-21T00:53:50.269Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13912"><a class="upvote" href="javascript:vote(13912, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.anthropic.com/claude/prompt-library" rel="nofollow" id="tr8"><h1>Anthropic의 프롬프트 라이브러리</h1></a> <span class="topicurl">(docs.anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=13912" class="c99 breakall">- 다양한 비즈니스 및 개인 작업에 최적화된 프롬프트를 Anthropic이 직접 정리하여 공개   
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13912"><a class="upvote" href="javascript:vote(13912, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.anthropic.com/claude/prompt-library" rel="nofollow" id="tr9"><h1>Anthropic의 프롬프트 라이브러리</h1></a> <span class="topicurl">(docs.anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=13912" class="c99 breakall">- 다양한 비즈니스 및 개인 작업에 최적화된 프롬프트를 Anthropic이 직접 정리하여 공개   
 - 개발자용 프롬프트 : Google Apps Scripter, SQL S...</a></div><div class="topicinfo"><span id="tp13912">21</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13912"></span> | <a href="topic?id=13912" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -74,14 +81,7 @@
         <id>https://redis.com/blog/redis-adopts-dual-source-available-licensing/</id>
         <link href="https://redis.com/blog/redis-adopts-dual-source-available-licensing/"/>
         <updated>2024-03-22T03:13:36.345Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13942"><a class="upvote" href="javascript:vote(13942, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://redis.com/blog/redis-adopts-dual-source-available-licensing/" rel="nofollow" id="tr9"><h1>Redis, 라이선스를 BSD 에서 듀얼 라이선스로 변경</h1></a> <span class="topicurl">(redis.com)</span></div><div class="topicdesc"><a href="topic?id=13942" class="c99 breakall">Redis 가 기존 BSD 라이선스에서 Redis Source Available License (RSALv2) 과 Server Side Public License (SSPLv1) 의 듀얼 라이선스로 변경되었...</a></div><div class="topicinfo"><span id="tp13942">7</span> points by <a href="/user?id=kbumsik">kbumsik</a> 2일전<span id="unvote13942"></span> | <a href="topic?id=13942" class="u">댓글 6개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플의 M시리즈 칩에서 새로운 패치 불가능한 취약성은 암호화 키의 추출을 허용한다]]></title>
-        <id>https://www.macrumors.com/2024/03/22/apple-silicon-vulnerability-encryption-keys/</id>
-        <link href="https://www.macrumors.com/2024/03/22/apple-silicon-vulnerability-encryption-keys/"/>
-        <updated>2024-03-23T10:12:21.953Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13955"><a class="upvote" href="javascript:vote(13955, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.macrumors.com/2024/03/22/apple-silicon-vulnerability-encryption-keys/" rel="nofollow" id="tr10"><h1>애플의 M시리즈 칩에서 새로운 패치 불가능한 취약성은 암호화 키의 추출을 허용한다</h1></a> <span class="topicurl">(macrumors.com)</span></div><div class="topicdesc"><a href="topic?id=13955" class="c99 breakall">• 새로운 학술 연구 논문은 "GoFetch"라고 불리는 애플의 M-시리즈 칩에서 심각한 취약성을 보여주는데, 이것은 공격자들이 특정 조건에서 맥에서 ...</a></div><div class="topicinfo"><span id="tp13955">1</span> point by <a href="/user?id=brainer">brainer</a> 10시간전<span id="unvote13955"></span> | <a href="topic?id=13955" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13942"><a class="upvote" href="javascript:vote(13942, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://redis.com/blog/redis-adopts-dual-source-available-licensing/" rel="nofollow" id="tr10"><h1>Redis, 라이선스를 BSD 에서 듀얼 라이선스로 변경</h1></a> <span class="topicurl">(redis.com)</span></div><div class="topicdesc"><a href="topic?id=13942" class="c99 breakall">Redis 가 기존 BSD 라이선스에서 Redis Source Available License (RSALv2) 과 Server Side Public License (SSPLv1) 의 듀얼 라이선스로 변경되었...</a></div><div class="topicinfo"><span id="tp13942">7</span> points by <a href="/user?id=kbumsik">kbumsik</a> 2일전<span id="unvote13942"></span> | <a href="topic?id=13942" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LlamaGym - 온라인 강화 학습을 통한 LLM 에이전트의 파인 튜닝]]></title>
@@ -155,7 +155,7 @@
         <id>https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/</id>
         <link href="https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/"/>
         <updated>2024-03-23T01:41:48.412Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote13953"><a class="upvote" href="javascript:vote(13953, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/" rel="nofollow" id="tr19"><h1>OpenAI 챗봇 스토어가 스팸으로 가득 차고 있음</h1></a> <span class="topicurl">(techcrunch.com)</span></div><div class="topicdesc"><a href="topic?id=13953" class="c99 breakall">- OpenAI의 CEO Sam Altman은 GPTs를 발표하며, 프로그래밍부터 과학 주제 학습, 운동 팁 제공까지 다양한 작업을 수행할 수 있는 방법으로 설명함...</a></div><div class="topicinfo"><span id="tp13953">1</span> point by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote13953"></span> | <a href="topic?id=13953" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote13953"><a class="upvote" href="javascript:vote(13953, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/" rel="nofollow" id="tr19"><h1>OpenAI 챗봇 스토어가 스팸으로 가득 차고 있음</h1></a> <span class="topicurl">(techcrunch.com)</span></div><div class="topicdesc"><a href="topic?id=13953" class="c99 breakall">- OpenAI의 CEO Sam Altman은 GPTs를 발표하며, 프로그래밍부터 과학 주제 학습, 운동 팁 제공까지 다양한 작업을 수행할 수 있는 방법으로 설명함...</a></div><div class="topicinfo"><span id="tp13953">1</span> point by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote13953"></span> | <a href="topic?id=13953" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베네딕트 에반스의 애플 Vision Pro 한달 사용기]]></title>
