@@ -2,69 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-03-23T00:52:09.590Z</updated>
+    <updated>2024-03-23T01:42:10.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SOUL - SQLite REST 및 실시간 서버]]></title>
+        <id>https://news.hada.io/topic?id=13950</id>
+        <link href="https://news.hada.io/topic?id=13950"/>
+        <updated>2024-03-23T01:41:37.044Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13950"><a class="upvote" href="javascript:vote(13950, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/thevahidal/soul" rel="nofollow" id="tr1"><h1>SOUL - SQLite REST 및 실시간 서버</h1></a> <span class="topicurl">(github.com/thevahidal)</span></div><div class="topicdesc"><a href="topic?id=13950" class="c99 breakall">- CLI로 SQLite DB 파일을 REST 및 WebSocket API로 공개해주는 도구   
+  - `soul -d sqlite.db -p 8000`  
+  - 이렇게 하면 http://localhost:...</a></div><div class="topicinfo"><span id="tp13950">2</span> points by <a href="/user?id=xguru">xguru</a> 39분전<span id="unvote13950"></span> | <a href="topic?id=13950" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반응형 폰트 사이즈를 위한 공식]]></title>
         <id>https://news.hada.io/topic?id=13940</id>
         <link href="https://news.hada.io/topic?id=13940"/>
         <updated>2024-03-22T01:43:22.183Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote13940"><a class="upvote" href="javascript:vote(13940, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/" rel="nofollow" id="tr1"><h1>반응형 폰트 사이즈를 위한 공식</h1></a> <span class="topicurl">(jameshfisher.com)</span></div><div class="topicdesc"><a href="topic?id=13940" class="c99 breakall">- 뉴욕타임즈, Medium, Substack 등 많은 웹사이트는 브레이크포인트(768px 같은)를 두어서 그 기준으로 폰트 크기를 변경함 (1.125 rem 과 1.25re...</a></div><div class="topicinfo"><span id="tp13940">16</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote13940"></span> | <a href="topic?id=13940" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13940"><a class="upvote" href="javascript:vote(13940, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/" rel="nofollow" id="tr2"><h1>반응형 폰트 사이즈를 위한 공식</h1></a> <span class="topicurl">(jameshfisher.com)</span></div><div class="topicdesc"><a href="topic?id=13940" class="c99 breakall">- 뉴욕타임즈, Medium, Substack 등 많은 웹사이트는 브레이크포인트(768px 같은)를 두어서 그 기준으로 폰트 크기를 변경함 (1.125 rem 과 1.25re...</a></div><div class="topicinfo"><span id="tp13940">16</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13940"></span> | <a href="topic?id=13940" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AVIF는 웹 이미지의 미래다]]></title>
         <id>https://news.hada.io/topic?id=13927</id>
         <link href="https://news.hada.io/topic?id=13927"/>
         <updated>2024-03-22T00:52:27.885Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote13927"><a class="upvote" href="javascript:vote(13927, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@fbrkovic/avif-is-the-future-of-web-images-a0b94d7f483e" rel="nofollow" id="tr2"><h1>AVIF는 웹 이미지의 미래다</h1></a> <span class="topicurl">(medium.com/@fbrkovic)</span></div><div class="topicdesc"><a href="topic?id=13927" class="c99 breakall">- AVIF(AV1 Image File Format)는 고품질의 시각적 콘텐츠를 빠르게 로드하고 대역폭 소비를 줄이는 완벽한 이미지 포맷을 찾는 노력의 결과물  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote13927"><a class="upvote" href="javascript:vote(13927, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@fbrkovic/avif-is-the-future-of-web-images-a0b94d7f483e" rel="nofollow" id="tr3"><h1>AVIF는 웹 이미지의 미래다</h1></a> <span class="topicurl">(medium.com/@fbrkovic)</span></div><div class="topicdesc"><a href="topic?id=13927" class="c99 breakall">- AVIF(AV1 Image File Format)는 고품질의 시각적 콘텐츠를 빠르게 로드하고 대역폭 소비를 줄이는 완벽한 이미지 포맷을 찾는 노력의 결과물  
 ...</a></div><div class="topicinfo"><span id="tp13927">16</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13927"></span> | <a href="topic?id=13927" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 챗봇 스토어가 스팸으로 가득 차고 있음]]></title>
+        <id>https://news.hada.io/topic?id=13953</id>
+        <link href="https://news.hada.io/topic?id=13953"/>
+        <updated>2024-03-23T01:41:37.047Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote13953"><a class="upvote" href="javascript:vote(13953, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/" rel="nofollow" id="tr4"><h1>OpenAI 챗봇 스토어가 스팸으로 가득 차고 있음</h1></a> <span class="topicurl">(techcrunch.com)</span></div><div class="topicdesc"><a href="topic?id=13953" class="c99 breakall">- OpenAI의 CEO Sam Altman은 GPTs를 발표하며, 프로그래밍부터 과학 주제 학습, 운동 팁 제공까지 다양한 작업을 수행할 수 있는 방법으로 설명함...</a></div><div class="topicinfo"><span id="tp13953">1</span> point by <a href="/user?id=xguru">xguru</a> 26분전<span id="unvote13953"></span> | <a href="topic?id=13953" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI의 Sora 모델 작동 원리]]></title>
         <id>https://news.hada.io/topic?id=13929</id>
         <link href="https://news.hada.io/topic?id=13929"/>
         <updated>2024-03-22T00:52:27.885Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote13929"><a class="upvote" href="javascript:vote(13929, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works" rel="nofollow" id="tr3"><h1>OpenAI의 Sora 모델 작동 원리</h1></a> <span class="topicurl">(factorialfunds.com)</span></div><div class="topicdesc"><a href="topic?id=13929" class="c99 breakall">- Sora(소라)는 Diffusion Transformers(DiT), Latent Diffusion을 기반으로 하며, 모델과 훈련 데이터셋을 대규모로 확장  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote13929"><a class="upvote" href="javascript:vote(13929, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works" rel="nofollow" id="tr5"><h1>OpenAI의 Sora 모델 작동 원리</h1></a> <span class="topicurl">(factorialfunds.com)</span></div><div class="topicdesc"><a href="topic?id=13929" class="c99 breakall">- Sora(소라)는 Diffusion Transformers(DiT), Latent Diffusion을 기반으로 하며, 모델과 훈련 데이터셋을 대규모로 확장  
 - 소라는 비디오 모...</a></div><div class="topicinfo"><span id="tp13929">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13929"></span> | <a href="topic?id=13929" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lcl.host: 로컬 개발 환경에서 빠르고 쉬운 HTTPS 구현]]></title>
-        <id>https://news.hada.io/topic?id=13921</id>
-        <link href="https://news.hada.io/topic?id=13921"/>
-        <updated>2024-03-21T01:46:40.817Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote13921"><a class="upvote" href="javascript:vote(13921, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://anchor.dev/blog/introducing-lcl-host" rel="nofollow" id="tr4"><h1>Lcl.host: 로컬 개발 환경에서 빠르고 쉬운 HTTPS 구현</h1></a> <span class="topicurl">(anchor.dev)</span></div><div class="topicdesc"><a href="topic?id=13921" class="c99 breakall">- 웹 개발자들이 로컬에서 빠르게 HTTPS 환경을 구축하고 사용할 수 있는 무료 개발 도구  
-- 개발 환경에서도 프로덕션 환경과 동일한 보안 브라...</a></div><div class="topicinfo"><span id="tp13921">29</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13921"></span> | <a href="topic?id=13921" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글을 시작하는 방법]]></title>
         <id>https://news.hada.io/topic?id=13903</id>
         <link href="https://news.hada.io/topic?id=13903"/>
         <updated>2024-03-20T03:13:49.906Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote13903"><a class="upvote" href="javascript:vote(13903, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://paulgraham.com/google.html" rel="nofollow" id="tr5"><h1>구글을 시작하는 방법</h1></a> <span class="topicurl">(paulgraham.com)</span></div><div class="topicdesc"><a href="topic?id=13903" class="c99 breakall">- Paul Graham이 14세와 15세 청소년들에게 나중에 스타트업을 시작하고 싶다면 지금 무엇을 해야 하는지에 대해 강연한 내용  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote13903"><a class="upvote" href="javascript:vote(13903, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://paulgraham.com/google.html" rel="nofollow" id="tr6"><h1>구글을 시작하는 방법</h1></a> <span class="topicurl">(paulgraham.com)</span></div><div class="topicdesc"><a href="topic?id=13903" class="c99 breakall">- Paul Graham이 14세와 15세 청소년들에게 나중에 스타트업을 시작하고 싶다면 지금 무엇을 해야 하는지에 대해 강연한 내용  
   - 그는 많은 학...</a></div><div class="topicinfo"><span id="tp13903">54</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13903"></span> | <a href="topic?id=13903" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lcl.host: 로컬 개발 환경에서 빠르고 쉬운 HTTPS 구현]]></title>
+        <id>https://news.hada.io/topic?id=13921</id>
+        <link href="https://news.hada.io/topic?id=13921"/>
+        <updated>2024-03-21T01:46:40.817Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote13921"><a class="upvote" href="javascript:vote(13921, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://anchor.dev/blog/introducing-lcl-host" rel="nofollow" id="tr7"><h1>Lcl.host: 로컬 개발 환경에서 빠르고 쉬운 HTTPS 구현</h1></a> <span class="topicurl">(anchor.dev)</span></div><div class="topicdesc"><a href="topic?id=13921" class="c99 breakall">- 웹 개발자들이 로컬에서 빠르게 HTTPS 환경을 구축하고 사용할 수 있는 무료 개발 도구  
+- 개발 환경에서도 프로덕션 환경과 동일한 보안 브라...</a></div><div class="topicinfo"><span id="tp13921">29</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13921"></span> | <a href="topic?id=13921" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Retina – 쿠버네티스를 위한 eBPF 기반 분산 네트워킹 관찰 플랫폼 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=13936</id>
         <link href="https://news.hada.io/topic?id=13936"/>
         <updated>2024-03-22T01:43:22.175Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote13936"><a class="upvote" href="javascript:vote(13936, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/retina" rel="nofollow" id="tr6"><h1>Microsoft Retina – 쿠버네티스를 위한 eBPF 기반 분산 네트워킹 관찰 플랫폼 오픈소스 </h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=13936" class="c99 breakall">- 클라우드에 구애받지 않는 오픈소스 Kubernetes network observability platform  
-- 애플리케이션 헬스, 네트워크 헬스, 보안을 모니터링하는 ...</a></div><div class="topicinfo"><span id="tp13936">9</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote13936"></span> | <a href="topic?id=13936" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13936"><a class="upvote" href="javascript:vote(13936, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/retina" rel="nofollow" id="tr8"><h1>Microsoft Retina – 쿠버네티스를 위한 eBPF 기반 분산 네트워킹 관찰 플랫폼 오픈소스 </h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=13936" class="c99 breakall">- 클라우드에 구애받지 않는 오픈소스 Kubernetes network observability platform  
+- 애플리케이션 헬스, 네트워크 헬스, 보안을 모니터링하는 ...</a></div><div class="topicinfo"><span id="tp13936">9</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13936"></span> | <a href="topic?id=13936" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Redis, 라이선스를 BSD 에서 듀얼 라이선스로 변경]]></title>
         <id>https://news.hada.io/topic?id=13942</id>
         <link href="https://news.hada.io/topic?id=13942"/>
         <updated>2024-03-22T03:13:23.910Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote13942"><a class="upvote" href="javascript:vote(13942, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://redis.com/blog/redis-adopts-dual-source-available-licensing/" rel="nofollow" id="tr7"><h1>Redis, 라이선스를 BSD 에서 듀얼 라이선스로 변경</h1></a> <span class="topicurl">(redis.com)</span></div><div class="topicdesc"><a href="topic?id=13942" class="c99 breakall">Redis 가 기존 BSD 라이선스에서 Redis Source Available License (RSALv2) 과 Server Side Public License (SSPLv1) 의 듀얼 라이선스로 변경되었...</a></div><div class="topicinfo"><span id="tp13942">7</span> points by <a href="/user?id=kbumsik">kbumsik</a> 22시간전<span id="unvote13942"></span> | <a href="topic?id=13942" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13942"><a class="upvote" href="javascript:vote(13942, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://redis.com/blog/redis-adopts-dual-source-available-licensing/" rel="nofollow" id="tr9"><h1>Redis, 라이선스를 BSD 에서 듀얼 라이선스로 변경</h1></a> <span class="topicurl">(redis.com)</span></div><div class="topicdesc"><a href="topic?id=13942" class="c99 breakall">Redis 가 기존 BSD 라이선스에서 Redis Source Available License (RSALv2) 과 Server Side Public License (SSPLv1) 의 듀얼 라이선스로 변경되었...</a></div><div class="topicinfo"><span id="tp13942">7</span> points by <a href="/user?id=kbumsik">kbumsik</a> 23시간전<span id="unvote13942"></span> | <a href="topic?id=13942" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic의 프롬프트 라이브러리]]></title>
         <id>https://news.hada.io/topic?id=13912</id>
         <link href="https://news.hada.io/topic?id=13912"/>
         <updated>2024-03-21T00:53:38.969Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote13912"><a class="upvote" href="javascript:vote(13912, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.anthropic.com/claude/prompt-library" rel="nofollow" id="tr8"><h1>Anthropic의 프롬프트 라이브러리</h1></a> <span class="topicurl">(docs.anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=13912" class="c99 breakall">- 다양한 비즈니스 및 개인 작업에 최적화된 프롬프트를 Anthropic이 직접 정리하여 공개   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13912"><a class="upvote" href="javascript:vote(13912, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.anthropic.com/claude/prompt-library" rel="nofollow" id="tr10"><h1>Anthropic의 프롬프트 라이브러리</h1></a> <span class="topicurl">(docs.anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=13912" class="c99 breakall">- 다양한 비즈니스 및 개인 작업에 최적화된 프롬프트를 Anthropic이 직접 정리하여 공개   
 - 개발자용 프롬프트 : Google Apps Scripter, SQL S...</a></div><div class="topicinfo"><span id="tp13912">20</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13912"></span> | <a href="topic?id=13912" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -72,15 +88,15 @@
         <id>https://news.hada.io/topic?id=13938</id>
         <link href="https://news.hada.io/topic?id=13938"/>
         <updated>2024-03-22T01:43:22.175Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote13938"><a class="upvote" href="javascript:vote(13938, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/KhoomeiK/LlamaGym" rel="nofollow" id="tr9"><h1>LlamaGym - 온라인 강화 학습을 통한 LLM 에이전트의 파인 튜닝</h1></a> <span class="topicurl">(github.com/KhoomeiK)</span></div><div class="topicdesc"><a href="topic?id=13938" class="c99 breakall">- LLM기반 에이전트를 강화학습(RL)을 통해 미세조정하는 것을 단순화함  
-- 현재 LlamaGym은 Gym 환경에서 에이전트 프롬프팅 및 하이퍼파라미터...</a></div><div class="topicinfo"><span id="tp13938">6</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote13938"></span> | <a href="topic?id=13938" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote13938"><a class="upvote" href="javascript:vote(13938, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/KhoomeiK/LlamaGym" rel="nofollow" id="tr11"><h1>LlamaGym - 온라인 강화 학습을 통한 LLM 에이전트의 파인 튜닝</h1></a> <span class="topicurl">(github.com/KhoomeiK)</span></div><div class="topicdesc"><a href="topic?id=13938" class="c99 breakall">- LLM기반 에이전트를 강화학습(RL)을 통해 미세조정하는 것을 단순화함  
+- 현재 LlamaGym은 Gym 환경에서 에이전트 프롬프팅 및 하이퍼파라미터...</a></div><div class="topicinfo"><span id="tp13938">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote13938"></span> | <a href="topic?id=13938" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tlm - CodeLLaMa로 구동되는 로컬 CLI 코파일럿]]></title>
         <id>https://news.hada.io/topic?id=13919</id>
         <link href="https://news.hada.io/topic?id=13919"/>
         <updated>2024-03-21T01:46:40.821Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote13919"><a class="upvote" href="javascript:vote(13919, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/yusufcanb/tlm" rel="nofollow" id="tr10"><h1>tlm - CodeLLaMa로 구동되는 로컬 CLI 코파일럿</h1></a> <span class="topicurl">(github.com/yusufcanb)</span></div><div class="topicdesc"><a href="topic?id=13919" class="c99 breakall">- CLI에 대해서 자연어로 요청하면 명령을 생성해주는 코파일럿 도구   
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote13919"><a class="upvote" href="javascript:vote(13919, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/yusufcanb/tlm" rel="nofollow" id="tr12"><h1>tlm - CodeLLaMa로 구동되는 로컬 CLI 코파일럿</h1></a> <span class="topicurl">(github.com/yusufcanb)</span></div><div class="topicdesc"><a href="topic?id=13919" class="c99 breakall">- CLI에 대해서 자연어로 요청하면 명령을 생성해주는 코파일럿 도구   
 `$ tlm suggest 'list all network interfaces but only their ip addres...</a></div><div class="topicinfo"><span id="tp13919">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13919"></span> | <a href="topic?id=13919" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -88,7 +104,7 @@
         <id>https://news.hada.io/topic?id=13898</id>
         <link href="https://news.hada.io/topic?id=13898"/>
         <updated>2024-03-20T01:43:23.088Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote13898"><a class="upvote" href="javascript:vote(13898, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/PeterJ_Walker/status/1767947258639823338" rel="nofollow" id="tr11"><h1>스타트업의 첫 번째 채용 직원이 받는 주식은 약 1~1.5%</h1></a> <span class="topicurl">(twitter.com/PeterJ_Walker)</span></div><div class="topicdesc"><a href="topic?id=13898" class="c99 breakall">- 미국 기준. 2023년 스타트업 1~5번째 채용자 4922명 조사  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote13898"><a class="upvote" href="javascript:vote(13898, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/PeterJ_Walker/status/1767947258639823338" rel="nofollow" id="tr13"><h1>스타트업의 첫 번째 채용 직원이 받는 주식은 약 1~1.5%</h1></a> <span class="topicurl">(twitter.com/PeterJ_Walker)</span></div><div class="topicdesc"><a href="topic?id=13898" class="c99 breakall">- 미국 기준. 2023년 스타트업 1~5번째 채용자 4922명 조사  
 - 코파운더 기준을 ( 5% / 10% ) 이상으로 생각하는 경우에 따라 다르게 표시하고 2...</a></div><div class="topicinfo"><span id="tp13898">19</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote13898"></span> | <a href="topic?id=13898" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
@@ -96,42 +112,42 @@
         <id>https://news.hada.io/topic?id=13891</id>
         <link href="https://news.hada.io/topic?id=13891"/>
         <updated>2024-03-20T00:51:55.272Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote13891"><a class="upvote" href="javascript:vote(13891, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://wasmer.io/posts/winterjs-v1" rel="nofollow" id="tr12"><h1>WinterJS 1.0 발표 Cloudflare, RSC 지원</h1></a> <span class="topicurl">(wasmer.io)</span></div><div class="topicdesc"><a href="topic?id=13891" class="c99 breakall">WinterJS 1.0은 Rust로 작성된 매우 빠른 WinterCG 호환 자바스크립트 런타임. SpiderMonkey 엔진을 사용하여 JavaScript를 실행하고, Tokio로 HTT...</a></div><div class="topicinfo"><span id="tp13891">17</span> points by <a href="/user?id=ragingwind">ragingwind</a> 3일전<span id="unvote13891"></span> | <a href="topic?id=13891" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote13891"><a class="upvote" href="javascript:vote(13891, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://wasmer.io/posts/winterjs-v1" rel="nofollow" id="tr14"><h1>WinterJS 1.0 발표 Cloudflare, RSC 지원</h1></a> <span class="topicurl">(wasmer.io)</span></div><div class="topicdesc"><a href="topic?id=13891" class="c99 breakall">WinterJS 1.0은 Rust로 작성된 매우 빠른 WinterCG 호환 자바스크립트 런타임. SpiderMonkey 엔진을 사용하여 JavaScript를 실행하고, Tokio로 HTT...</a></div><div class="topicinfo"><span id="tp13891">17</span> points by <a href="/user?id=ragingwind">ragingwind</a> 3일전<span id="unvote13891"></span> | <a href="topic?id=13891" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Planka - Trello 스타일의 프로젝트 관리 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=13894</id>
         <link href="https://news.hada.io/topic?id=13894"/>
         <updated>2024-03-20T02:17:42.457Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote13894"><a class="upvote" href="javascript:vote(13894, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plankanban/planka" rel="nofollow" id="tr13"><h1>GN⁺: Planka - Trello 스타일의 프로젝트 관리 오픈소스 </h1></a> <span class="topicurl">(github.com/plankanban)</span></div><div class="topicdesc"><a href="topic?id=13894" class="c99 breakall">- Planka는 우아한 오픈소스 프로젝트 추적 도구임  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote13894"><a class="upvote" href="javascript:vote(13894, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plankanban/planka" rel="nofollow" id="tr15"><h1>GN⁺: Planka - Trello 스타일의 프로젝트 관리 오픈소스 </h1></a> <span class="topicurl">(github.com/plankanban)</span></div><div class="topicdesc"><a href="topic?id=13894" class="c99 breakall">- Planka는 우아한 오픈소스 프로젝트 추적 도구임  
 - 클라이언트 데모는 서버 기능 없이 사용 가능함.  
   
 # 주요 기능  
   - 프로젝트, 보...</a></div><div class="topicinfo"><span id="tp13894">15</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13894"></span> | <a href="topic?id=13894" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voici.js - 터미널에서 테이블 출력하기]]></title>
-        <id>https://news.hada.io/topic?id=13875</id>
-        <link href="https://news.hada.io/topic?id=13875"/>
-        <updated>2024-03-19T00:52:22.037Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote13875"><a class="upvote" href="javascript:vote(13875, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://voici.larswaechter.dev/" rel="nofollow" id="tr14"><h1>Voici.js - 터미널에서 테이블 출력하기</h1></a> <span class="topicurl">(voici.larswaechter.dev)</span></div><div class="topicdesc"><a href="topic?id=13875" class="c99 breakall">- 터미널에서 테이블 형태의 데이터를 예쁘게 출력 가능   
-- TypeScript로 작성된 Node.js 용 라이브러리   
-- 텍스트 및 열&amp;행 스타일 지정   ...</a></div><div class="topicinfo"><span id="tp13875">19</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote13875"></span> | <a href="topic?id=13875" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[베네딕트 에반스의 애플 Vision Pro 한달 사용기]]></title>
         <id>https://news.hada.io/topic?id=13923</id>
         <link href="https://news.hada.io/topic?id=13923"/>
         <updated>2024-03-21T01:46:40.820Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote13923"><a class="upvote" href="javascript:vote(13923, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.ben-evans.com/benedictevans/2024/3/17/a-month-of-the-vision-pro" rel="nofollow" id="tr15"><h1>베네딕트 에반스의 애플 Vision Pro 한달 사용기</h1></a> <span class="topicurl">(ben-evans.com)</span></div><div class="topicdesc"><a href="topic?id=13923" class="c99 breakall">- 비전 프로는 놀라운 제품이지만, VR 및 AR과 마찬가지로 대중 시장에 도달하기까지는 아직 수년이 걸릴 것으로 보임  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote13923"><a class="upvote" href="javascript:vote(13923, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.ben-evans.com/benedictevans/2024/3/17/a-month-of-the-vision-pro" rel="nofollow" id="tr16"><h1>베네딕트 에반스의 애플 Vision Pro 한달 사용기</h1></a> <span class="topicurl">(ben-evans.com)</span></div><div class="topicdesc"><a href="topic?id=13923" class="c99 breakall">- 비전 프로는 놀라운 제품이지만, VR 및 AR과 마찬가지로 대중 시장에 도달하기까지는 아직 수년이 걸릴 것으로 보임  
 - 애플이 대중 시장에 도...</a></div><div class="topicinfo"><span id="tp13923">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote13923"></span> | <a href="topic?id=13923" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voici.js - 터미널에서 테이블 출력하기]]></title>
+        <id>https://news.hada.io/topic?id=13875</id>
+        <link href="https://news.hada.io/topic?id=13875"/>
+        <updated>2024-03-19T00:52:22.037Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote13875"><a class="upvote" href="javascript:vote(13875, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://voici.larswaechter.dev/" rel="nofollow" id="tr17"><h1>Voici.js - 터미널에서 테이블 출력하기</h1></a> <span class="topicurl">(voici.larswaechter.dev)</span></div><div class="topicdesc"><a href="topic?id=13875" class="c99 breakall">- 터미널에서 테이블 형태의 데이터를 예쁘게 출력 가능   
+- TypeScript로 작성된 Node.js 용 라이브러리   
+- 텍스트 및 열&amp;행 스타일 지정   ...</a></div><div class="topicinfo"><span id="tp13875">19</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote13875"></span> | <a href="topic?id=13875" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Garnet - Microsoft Research가 공개한 새로운 원격 캐시 저장소]]></title>
         <id>https://news.hada.io/topic?id=13886</id>
         <link href="https://news.hada.io/topic?id=13886"/>
         <updated>2024-03-19T06:15:30.048Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote13886"><a class="upvote" href="javascript:vote(13886, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/garnet" rel="nofollow" id="tr16"><h1>Garnet - Microsoft Research가 공개한 새로운 원격 캐시 저장소</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=13886" class="c99 breakall">- Microsoft Research가 C#으로 작성된 새로운 원격 캐시 저장소를 오픈 소스로 공개함.  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote13886"><a class="upvote" href="javascript:vote(13886, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/microsoft/garnet" rel="nofollow" id="tr18"><h1>Garnet - Microsoft Research가 공개한 새로운 원격 캐시 저장소</h1></a> <span class="topicurl">(github.com/microsoft)</span></div><div class="topicdesc"><a href="topic?id=13886" class="c99 breakall">- Microsoft Research가 C#으로 작성된 새로운 원격 캐시 저장소를 오픈 소스로 공개함.  
   - RESP 프로토콜을 채택하여 대부분의 Redis 클라이...</a></div><div class="topicinfo"><span id="tp13886">16</span> points by <a href="/user?id=kuroneko">kuroneko</a> 4일전<span id="unvote13886"></span> | <a href="topic?id=13886" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
@@ -139,7 +155,7 @@
         <id>https://news.hada.io/topic?id=13909</id>
         <link href="https://news.hada.io/topic?id=13909"/>
         <updated>2024-03-20T13:15:20.932Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote13909"><a class="upvote" href="javascript:vote(13909, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=13909" rel="nofollow" id="tr17"><h1>Show GN: [K-Agent Service] 병역특례 업체 조회 웹사이트</h1></a> <span class="topicurl">(k-agent.services)</span></div><div class="topicdesc"><a href="topic?id=13909" class="c99 breakall">산업기능요원, 전문연구요원, 승선근무예비역등 병역특례 업체들을 한 번에 검색할 수 있는 웹사이트입니다.  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote13909"><a class="upvote" href="javascript:vote(13909, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=13909" rel="nofollow" id="tr19"><h1>Show GN: [K-Agent Service] 병역특례 업체 조회 웹사이트</h1></a> <span class="topicurl">(k-agent.services)</span></div><div class="topicdesc"><a href="topic?id=13909" class="c99 breakall">산업기능요원, 전문연구요원, 승선근무예비역등 병역특례 업체들을 한 번에 검색할 수 있는 웹사이트입니다.  
   
 잡플레닛, 원티드, 원티드 인...</a></div><div class="topicinfo"><span id="tp13909">8</span> points by <a href="/user?id=jin225675">jin225675</a> 3일전<span id="unvote13909"></span> | <a href="topic?id=13909" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -148,25 +164,7 @@
         <id>https://news.hada.io/topic?id=13855</id>
         <link href="https://news.hada.io/topic?id=13855"/>
         <updated>2024-03-22T08:15:34.300Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote13855"><a class="upvote" href="javascript:vote(13855, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cs251.com" rel="nofollow" id="tr18"><h1>GN⁺: CS251: 이론 컴퓨터 과학에서의 훌륭한 아이디어들</h1></a> <span class="topicurl">(cs251.com)</span></div><div class="topicdesc"><a href="topic?id=13855" class="c99 breakall">- CMU의 CS251 과정은 우주, 사회, 새로운 기술, 그리고 이를 이해하는 우리의 마음에 근본적인 요소인 계산에 대한 엄격한 연구에 관한 것임.  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote13855"><a class="upvote" href="javascript:vote(13855, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cs251.com" rel="nofollow" id="tr20"><h1>GN⁺: CS251: 이론 컴퓨터 과학에서의 훌륭한 아이디어들</h1></a> <span class="topicurl">(cs251.com)</span></div><div class="topicdesc"><a href="topic?id=13855" class="c99 breakall">- CMU의 CS251 과정은 우주, 사회, 새로운 기술, 그리고 이를 이해하는 우리의 마음에 근본적인 요소인 계산에 대한 엄격한 연구에 관한 것임.  
 ...</a></div><div class="topicinfo"><span id="tp13855">30</span> points by <a href="/user?id=neo">neo</a> 6일전<span id="unvote13855"></span> | <a href="topic?id=13855" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: "어머나, 내 앱이 성공했는데 접근성을 고려하지 않았네"]]></title>
-        <id>https://news.hada.io/topic?id=13897</id>
-        <link href="https://news.hada.io/topic?id=13897"/>
-        <updated>2024-03-20T02:17:42.455Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote13897"><a class="upvote" href="javascript:vote(13897, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i" rel="nofollow" id="tr19"><h1>GN⁺: "어머나, 내 앱이 성공했는데 접근성을 고려하지 않았네"</h1></a> <span class="topicurl">(jacobbartlett.substack.com)</span></div><div class="topicdesc"><a href="topic?id=13897" class="c99 breakall"># SwiftUI에서 a11y(접근성) 빠르게 적용하기
-
-- SwiftUI 앱에서 접근성을 간과한 경우, 이를 신속하게 해결하는 방법 제시.
-- 접근성은 사용자의 ...</a></div><div class="topicinfo"><span id="tp13897">9</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote13897"></span> | <a href="topic?id=13897" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비전 프로는 과도하게 설계된 "개발자 키트"임. 오큘러스에서 실수한 것과 애플이 올바르게 한 것]]></title>
-        <id>https://news.hada.io/topic?id=13869</id>
-        <link href="https://news.hada.io/topic?id=13869"/>
-        <updated>2024-03-22T16:16:08.122Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote13869"><a class="upvote" href="javascript:vote(13869, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hugo.blog/2024/03/11/vision-pro/" rel="nofollow" id="tr20"><h1>비전 프로는 과도하게 설계된 "개발자 키트"임. 오큘러스에서 실수한 것과 애플이 올바르게 한 것</h1></a> <span class="topicurl">(hugo.blog)</span></div><div class="topicdesc"><a href="topic?id=13869" class="c99 breakall">- 메타의 오큘러스 리드였던 Hugo Barra가 애플의 Vision Pro에 대한 자신의 관점을 공유하면서 Oculus에서 경험한 것들과 비교   
-- 하드웨어의 ...</a></div><div class="topicinfo"><span id="tp13869">19</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote13869"></span> | <a href="topic?id=13869" class="u">댓글 9개</a></div>]]></content>
     </entry>
 </feed>
