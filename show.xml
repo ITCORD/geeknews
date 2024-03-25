@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-03-25T09:12:50.573Z</updated>
+    <updated>2024-03-25T10:14:03.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 상업용 LLM 해킹하기 게임]]></title>
+        <id>https://news.hada.io/topic?id=13989</id>
+        <link href="https://news.hada.io/topic?id=13989"/>
+        <updated>2024-03-25T10:13:43.500Z</updated>
+        <content type="html"><![CDATA[ide127]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [K-Agent Service] 병역특례 업체 조회 웹사이트]]></title>
         <id>https://news.hada.io/topic?id=13909</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13150"/>
         <updated>2024-02-01T08:15:08.008Z</updated>
         <content type="html"><![CDATA[yein0712]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: AutoRAG: 자동으로 최적의 RAG 파이프라인을 찾아주는 자동화 툴]]></title>
-        <id>https://news.hada.io/topic?id=13343</id>
-        <link href="https://news.hada.io/topic?id=13343"/>
-        <updated>2024-02-13T23:12:31.276Z</updated>
-        <content type="html"><![CDATA[vkehfdl1]]></content>
     </entry>
 </feed>
