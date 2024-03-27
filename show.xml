@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-03-27T01:45:53.758Z</updated>
+    <updated>2024-03-27T02:18:42.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 제22대 총선 여론조사 통합지표 (Poll Aggregator)]]></title>
+        <id>https://news.hada.io/topic?id=14017</id>
+        <link href="https://news.hada.io/topic?id=14017"/>
+        <updated>2024-03-27T02:18:21.380Z</updated>
+        <content type="html"><![CDATA[politicslibrary]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 상업용 LLM 해킹하기 게임]]></title>
         <id>https://news.hada.io/topic?id=13989</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13709"/>
         <updated>2024-03-08T08:14:19.394Z</updated>
         <content type="html"><![CDATA[haebom]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Empty Canvas: 애니메이션 화풍 이미지 생성 & 검색 엔진]]></title>
-        <id>https://news.hada.io/topic?id=13566</id>
-        <link href="https://news.hada.io/topic?id=13566"/>
-        <updated>2024-02-28T04:15:06.561Z</updated>
-        <content type="html"><![CDATA[luckydaun]]></content>
     </entry>
 </feed>
