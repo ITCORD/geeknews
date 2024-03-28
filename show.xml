@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-03-28T21:12:34.130Z</updated>
+    <updated>2024-03-28T22:11:49.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[yein0712]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: ERD Editor]]></title>
+        <id>https://news.hada.io/topic?id=12955</id>
+        <link href="https://news.hada.io/topic?id=12955"/>
+        <updated>2024-03-28T03:13:17.520Z</updated>
+        <content type="html"><![CDATA[necoco]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: 리포지토리, 협업도구에서 Credential / Secret 노출을 막는 방법]]></title>
         <id>https://news.hada.io/topic?id=13725</id>
         <link href="https://news.hada.io/topic?id=13725"/>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13723"/>
         <updated>2024-03-09T01:39:50.429Z</updated>
         <content type="html"><![CDATA[honth]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ERD Editor]]></title>
-        <id>https://news.hada.io/topic?id=12955</id>
-        <link href="https://news.hada.io/topic?id=12955"/>
-        <updated>2024-03-28T03:13:17.520Z</updated>
-        <content type="html"><![CDATA[necoco]]></content>
     </entry>
 </feed>
