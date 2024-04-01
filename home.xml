@@ -2,50 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-04-01T01:59:50.006Z</updated>
+    <updated>2024-04-01T02:31:28.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신은 사람들을 너무 늦게 해고하고 있어요]]></title>
+        <id>https://news.hada.io/topic?id=14096</id>
+        <link href="https://news.hada.io/topic?id=14096"/>
+        <updated>2024-04-01T02:30:52.493Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14096"><a class="upvote" href="javascript:vote(14096, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zaidesanton.substack.com/p/you-are-firing-people-too-late" rel="nofollow" id="tr1"><h1>당신은 사람들을 너무 늦게 해고하고 있어요</h1></a> <span class="topicurl">(zaidesanton.substack.com)</span></div><div class="topicdesc"><a href="topic?id=14096" class="c99 breakall">- 처음으로 직원을 해고하는데 6개월이나 걸린 경험을 통해 적은 글   
+# 직원을 해고해야 하는지 알아내는 방법  
+- 직원을 해고해야 할지 고민...</a></div><div class="topicinfo"><span id="tp14096">7</span> points by <a href="/user?id=xguru">xguru</a> 26분전<span id="unvote14096"></span> | <a href="topic?id=14096" class="u">댓글 2개</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache Kvrocks - 분산 키/밸류 NoSQL DB]]></title>
         <id>https://news.hada.io/topic?id=14086</id>
         <link href="https://news.hada.io/topic?id=14086"/>
         <updated>2024-04-01T00:58:43.204Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14086"><a class="upvote" href="javascript:vote(14086, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/apache/kvrocks" rel="nofollow" id="tr1"><h1>Apache Kvrocks - 분산 키/밸류 NoSQL DB</h1></a> <span class="topicurl">(github.com/apache)</span></div><div class="topicdesc"><a href="topic?id=14086" class="c99 breakall">- RocksDB를 스토리지 엔진으로 사용하며, Redis 프로토콜과 호환   
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14086"><a class="upvote" href="javascript:vote(14086, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/apache/kvrocks" rel="nofollow" id="tr2"><h1>Apache Kvrocks - 분산 키/밸류 NoSQL DB</h1></a> <span class="topicurl">(github.com/apache)</span></div><div class="topicdesc"><a href="topic?id=14086" class="c99 breakall">- RocksDB를 스토리지 엔진으로 사용하며, Redis 프로토콜과 호환   
 - Redis 대비 메모리 비용을 낮추고 용량을 늘리는 것을 목표로 함   
-- 주...</a></div><div class="topicinfo"><span id="tp14086">4</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14086"></span> | <a href="topic?id=14086" class="u">댓글과 토론</a></div>]]></content>
+- 주...</a></div><div class="topicinfo"><span id="tp14086">4</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote14086"></span> | <a href="topic?id=14086" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SSPL(Server Side Public License)은 나빠요]]></title>
         <id>https://news.hada.io/topic?id=14094</id>
         <link href="https://news.hada.io/topic?id=14094"/>
         <updated>2024-04-01T01:59:12.217Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14094"><a class="upvote" href="javascript:vote(14094, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ssplisbad.com/" rel="nofollow" id="tr2"><h1>SSPL(Server Side Public License)은 나빠요</h1></a> <span class="topicurl">(ssplisbad.com)</span></div><div class="topicdesc"><a href="topic?id=14094" class="c99 breakall"># SSPL이 나쁜 이유  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14094"><a class="upvote" href="javascript:vote(14094, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ssplisbad.com/" rel="nofollow" id="tr3"><h1>SSPL(Server Side Public License)은 나빠요</h1></a> <span class="topicurl">(ssplisbad.com)</span></div><div class="topicdesc"><a href="topic?id=14094" class="c99 breakall"># SSPL이 나쁜 이유  
   
 - SSPL(Server Side Public License)은 모든 사용자, 기업, 그리고 일반적으로 커뮤니티에게 **끔찍한** 라이선스임  
-...</a></div><div class="topicinfo"><span id="tp14094">3</span> points by <a href="/user?id=xguru">xguru</a> 55분전<span id="unvote14094"></span> | <a href="topic?id=14094" class="u">댓글 2개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp14094">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14094"></span> | <a href="topic?id=14094" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pgwire - PostgreSQL Wire Protocol의 Rust 구현체]]></title>
         <id>https://news.hada.io/topic?id=14087</id>
         <link href="https://news.hada.io/topic?id=14087"/>
         <updated>2024-04-01T00:58:43.203Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14087"><a class="upvote" href="javascript:vote(14087, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sunng87/pgwire" rel="nofollow" id="tr3"><h1>pgwire - PostgreSQL Wire Protocol의 Rust 구현체</h1></a> <span class="topicurl">(github.com/sunng87)</span></div><div class="topicdesc"><a href="topic?id=14087" class="c99 breakall">- 자신의 데이터 서비스에 Postgres 호환 억세스 레이어를 추가하기 위한 라이브러리   
-- PostgreSQL 와이어 프로토콜을 구현하며, PostgreSQL ...</a></div><div class="topicinfo"><span id="tp14087">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14087"></span> | <a href="topic?id=14087" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14087"><a class="upvote" href="javascript:vote(14087, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sunng87/pgwire" rel="nofollow" id="tr4"><h1>pgwire - PostgreSQL Wire Protocol의 Rust 구현체</h1></a> <span class="topicurl">(github.com/sunng87)</span></div><div class="topicdesc"><a href="topic?id=14087" class="c99 breakall">- 자신의 데이터 서비스에 Postgres 호환 억세스 레이어를 추가하기 위한 라이브러리   
+- PostgreSQL 와이어 프로토콜을 구현하며, PostgreSQL ...</a></div><div class="topicinfo"><span id="tp14087">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote14087"></span> | <a href="topic?id=14087" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 오픈 소스 프로젝트 내 상호작용의 축소판인 xz 백도어 이슈]]></title>
         <id>https://news.hada.io/topic?id=14084</id>
         <link href="https://news.hada.io/topic?id=14084"/>
         <updated>2024-04-01T01:59:12.217Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14084"><a class="upvote" href="javascript:vote(14084, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/" rel="nofollow" id="tr4"><h1>GN⁺: 오픈 소스 프로젝트 내 상호작용의 축소판인 xz 백도어 이슈</h1></a> <span class="topicurl">(robmensching.com)</span></div><div class="topicdesc"><a href="topic?id=14084" class="c99 breakall">- xz/liblzma 취약점에 대한 많은 분석이 있겠지만, 대부분 공격의 첫 단계를 건너뛰는 경향이 있음  
-  - 원래 유지보수자가 탈진하고, 공격자만...</a></div><div class="topicinfo"><span id="tp14084">6</span> points by <a href="/user?id=neo">neo</a> 12시간전<span id="unvote14084"></span> | <a href="topic?id=14084" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14084"><a class="upvote" href="javascript:vote(14084, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/" rel="nofollow" id="tr5"><h1>GN⁺: 오픈 소스 프로젝트 내 상호작용의 축소판인 xz 백도어 이슈</h1></a> <span class="topicurl">(robmensching.com)</span></div><div class="topicdesc"><a href="topic?id=14084" class="c99 breakall">- xz/liblzma 취약점에 대한 많은 분석이 있겠지만, 대부분 공격의 첫 단계를 건너뛰는 경향이 있음  
+  - 원래 유지보수자가 탈진하고, 공격자만...</a></div><div class="topicinfo"><span id="tp14084">6</span> points by <a href="/user?id=neo">neo</a> 13시간전<span id="unvote14084"></span> | <a href="topic?id=14084" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grok-1.5 발표]]></title>
         <id>https://news.hada.io/topic?id=14070</id>
         <link href="https://news.hada.io/topic?id=14070"/>
         <updated>2024-03-31T00:57:42.502Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14070"><a class="upvote" href="javascript:vote(14070, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://x.ai/blog/grok-1.5" rel="nofollow" id="tr5"><h1>Grok-1.5 발표</h1></a> <span class="topicurl">(x.ai)</span></div><div class="topicdesc"><a href="topic?id=14070" class="c99 breakall">- Grok-1.5는 개선된 추론 능력과 128,000 토큰의 컨텍스트 길이를 가짐  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14070"><a class="upvote" href="javascript:vote(14070, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://x.ai/blog/grok-1.5" rel="nofollow" id="tr6"><h1>Grok-1.5 발표</h1></a> <span class="topicurl">(x.ai)</span></div><div class="topicdesc"><a href="topic?id=14070" class="c99 breakall">- Grok-1.5는 개선된 추론 능력과 128,000 토큰의 컨텍스트 길이를 가짐  
   - 코딩 및 수학 관련 작업에서 눈에 띄는 성능 향상  
   - MATH 벤...</a></div><div class="topicinfo"><span id="tp14070">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14070"></span> | <a href="topic?id=14070" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -54,7 +63,7 @@
         <id>https://news.hada.io/topic?id=14020</id>
         <link href="https://news.hada.io/topic?id=14020"/>
         <updated>2024-03-27T08:16:37.682Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14020"><a class="upvote" href="javascript:vote(14020, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqVDzw/edit?usp=sharing" rel="nofollow" id="tr6"><h1>폴 그레이엄 에세이 한글 번역본 아카이브 </h1></a> <span class="topicurl">(docs.google.com)</span></div><div class="topicdesc"><a href="topic?id=14020" class="c99 breakall">## 폴 그레이엄 에세이 번역본 아카이브  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14020"><a class="upvote" href="javascript:vote(14020, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqVDzw/edit?usp=sharing" rel="nofollow" id="tr7"><h1>폴 그레이엄 에세이 한글 번역본 아카이브 </h1></a> <span class="topicurl">(docs.google.com)</span></div><div class="topicdesc"><a href="topic?id=14020" class="c99 breakall">## 폴 그레이엄 에세이 번역본 아카이브  
   
 긱뉴스에도 자주 올라오는 폴 그레이엄의 에세이는 올라올 때마다 upvote를 많이 받는 베스트셀러...</a></div><div class="topicinfo"><span id="tp14020">52</span> points by <a href="/user?id=dukjin">dukjin</a> 5일전<span id="unvote14020"></span> | <a href="topic?id=14020" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -63,7 +72,7 @@
         <id>https://news.hada.io/topic?id=14068</id>
         <link href="https://news.hada.io/topic?id=14068"/>
         <updated>2024-03-30T01:41:11.063Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14068"><a class="upvote" href="javascript:vote(14068, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/shizunge/endlessh-go" rel="nofollow" id="tr7"><h1>Endlessh-Go - SSH 봇/스캐너용 함정의 Go 구현체</h1></a> <span class="topicurl">(github.com/shizunge)</span></div><div class="topicdesc"><a href="topic?id=14068" class="c99 breakall">- Endlesssh 는 무차별 SSH 공격을 차단하고, 의도적으로 딜레이를 주어서 공격자의 시간을 낭비하게 만드는 도구   
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14068"><a class="upvote" href="javascript:vote(14068, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/shizunge/endlessh-go" rel="nofollow" id="tr8"><h1>Endlessh-Go - SSH 봇/스캐너용 함정의 Go 구현체</h1></a> <span class="topicurl">(github.com/shizunge)</span></div><div class="topicdesc"><a href="topic?id=14068" class="c99 breakall">- Endlesssh 는 무차별 SSH 공격을 차단하고, 의도적으로 딜레이를 주어서 공격자의 시간을 낭비하게 만드는 도구   
   - 하지만 원래의 C구현체...</a></div><div class="topicinfo"><span id="tp14068">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14068"></span> | <a href="topic?id=14068" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -71,54 +80,54 @@
         <id>https://news.hada.io/topic?id=14057</id>
         <link href="https://news.hada.io/topic?id=14057"/>
         <updated>2024-03-29T07:12:32.138Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14057"><a class="upvote" href="javascript:vote(14057, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community" rel="nofollow" id="tr8"><h1>Valkey - 리눅스 재단(Linux Foundation)이 발표한 Redis의 오픈소스 대체재</h1></a> <span class="topicurl">(linuxfoundation.org)</span></div><div class="topicdesc"><a href="topic?id=14057" class="c99 breakall">- Redis Inc.가 최근 발표한 라이선스 변경에 대응하기 위해 여러 메인테이너, 커뮤니티, 기업 지원을 빠르게 모아서 재조직  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14057"><a class="upvote" href="javascript:vote(14057, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community" rel="nofollow" id="tr9"><h1>Valkey - 리눅스 재단(Linux Foundation)이 발표한 Redis의 오픈소스 대체재</h1></a> <span class="topicurl">(linuxfoundation.org)</span></div><div class="topicdesc"><a href="topic?id=14057" class="c99 breakall">- Redis Inc.가 최근 발표한 라이선스 변경에 대응하기 위해 여러 메인테이너, 커뮤니티, 기업 지원을 빠르게 모아서 재조직  
 - Redis 7.2.4 기...</a></div><div class="topicinfo"><span id="tp14057">19</span> points by <a href="/user?id=ssssut">ssssut</a> 3일전<span id="unvote14057"></span> | <a href="topic?id=14057" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Github용 static site generator]]></title>
-        <id>https://news.hada.io/topic?id=14056</id>
-        <link href="https://news.hada.io/topic?id=14056"/>
-        <updated>2024-03-29T06:15:22.175Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14056"><a class="upvote" href="javascript:vote(14056, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14056" rel="nofollow" id="tr9"><h1>Show GN: Github용 static site generator </h1></a> <span class="topicurl">(github.com/joone)</span></div><div class="topicdesc"><a href="topic?id=14056" class="c99 breakall">현재 연재를 마친 "만화로 나누는 자유/오픈소스 소프트웨어 이야기"의 영문 사이트를 만들고 있습니다. 이전에는 워드프레스를 사용하여 직접 호...</a></div><div class="topicinfo"><span id="tp14056">15</span> points by <a href="/user?id=joone">joone</a> 3일전<span id="unvote14056"></span> | <a href="topic?id=14056" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: MongoDB에서 PostgreSQL로 대규모 이전한 후기]]></title>
-        <id>https://news.hada.io/topic?id=14067</id>
-        <link href="https://news.hada.io/topic?id=14067"/>
-        <updated>2024-03-31T05:12:05.185Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14067"><a class="upvote" href="javascript:vote(14067, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://infisical.com/blog/postgresql-migration-technical" rel="nofollow" id="tr10"><h1>GN⁺: MongoDB에서 PostgreSQL로 대규모 이전한 후기</h1></a> <span class="topicurl">(infisical.com)</span></div><div class="topicdesc"><a href="topic?id=14067" class="c99 breakall">- Infisical은 하루에 5천만 개 이상의 Secret을 처리하는 플랫폼으로 급성장  
-- 사용량 증가에 따라 스택을 지속적으로 업그레이드해야 했으며,...</a></div><div class="topicinfo"><span id="tp14067">9</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14067"></span> | <a href="topic?id=14067" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Ask HN: LLM들의 소음에 묻히지 않는 ML 분야의 동향은 무엇인가?]]></title>
-        <id>https://news.hada.io/topic?id=14047</id>
-        <link href="https://news.hada.io/topic?id=14047"/>
-        <updated>2024-03-29T01:44:12.891Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14047"><a class="upvote" href="javascript:vote(14047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=39848847" rel="nofollow" id="tr11"><h1>GN⁺: Ask HN: LLM들의 소음에 묻히지 않는 ML 분야의 동향은 무엇인가?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=14047" class="c99 breakall">- 대형 언어 모델(LLMs)의 소음에 묻혀 들리지 않는 기계학습(ML) 및 데이터 과학 분야에서는 여러 가지 흥미로운 일들이 발생하고 있음  
-- Cynt...</a></div><div class="topicinfo"><span id="tp14047">16</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote14047"></span> | <a href="topic?id=14047" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia가 개설한 무료 AI 강좌들]]></title>
-        <id>https://news.hada.io/topic?id=14007</id>
-        <link href="https://news.hada.io/topic?id=14007"/>
-        <updated>2024-03-27T00:52:44.070Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14007"><a class="upvote" href="javascript:vote(14007, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.nvidia.com/en-us/training/online/#free-courses" rel="nofollow" id="tr12"><h1>Nvidia가 개설한 무료 AI 강좌들</h1></a> <span class="topicurl">(nvidia.com)</span></div><div class="topicdesc"><a href="topic?id=14007" class="c99 breakall">- 10분/1시간/2시간/8시간 등 다양한 길이의 강좌들이 있음   
-- Self-Paced Courses 에는 유료/무료가 섞여있는데, 이쪽에도 무료 강좌들 괜찮은...</a></div><div class="topicinfo"><span id="tp14007">36</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14007"></span> | <a href="topic?id=14007" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: OpenVoice - 다재다능한 인스턴트 음성 복제 기술]]></title>
         <id>https://news.hada.io/topic?id=14065</id>
         <link href="https://news.hada.io/topic?id=14065"/>
         <updated>2024-03-31T06:14:23.526Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14065"><a class="upvote" href="javascript:vote(14065, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://research.myshell.ai/open-voice" rel="nofollow" id="tr13"><h1>GN⁺: OpenVoice - 다재다능한 인스턴트 음성 복제 기술</h1></a> <span class="topicurl">(research.myshell.ai)</span></div><div class="topicdesc"><a href="topic?id=14065" class="c99 breakall">- 참조하는 화자의 짧은 오디오 클립만으로 그들의 목소리를 복제하고 여러 언어로 음성을 생성할 수 있는 다목적 즉각적 음성 복제 방법  
-- 목...</a></div><div class="topicinfo"><span id="tp14065">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14065"></span> | <a href="topic?id=14065" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14065"><a class="upvote" href="javascript:vote(14065, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://research.myshell.ai/open-voice" rel="nofollow" id="tr10"><h1>GN⁺: OpenVoice - 다재다능한 인스턴트 음성 복제 기술</h1></a> <span class="topicurl">(research.myshell.ai)</span></div><div class="topicdesc"><a href="topic?id=14065" class="c99 breakall">- 참조하는 화자의 짧은 오디오 클립만으로 그들의 목소리를 복제하고 여러 언어로 음성을 생성할 수 있는 다목적 즉각적 음성 복제 방법  
+- 목...</a></div><div class="topicinfo"><span id="tp14065">10</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14065"></span> | <a href="topic?id=14065" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: MongoDB에서 PostgreSQL로 대규모 이전한 후기]]></title>
+        <id>https://news.hada.io/topic?id=14067</id>
+        <link href="https://news.hada.io/topic?id=14067"/>
+        <updated>2024-03-31T05:12:05.185Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14067"><a class="upvote" href="javascript:vote(14067, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://infisical.com/blog/postgresql-migration-technical" rel="nofollow" id="tr11"><h1>GN⁺: MongoDB에서 PostgreSQL로 대규모 이전한 후기</h1></a> <span class="topicurl">(infisical.com)</span></div><div class="topicdesc"><a href="topic?id=14067" class="c99 breakall">- Infisical은 하루에 5천만 개 이상의 Secret을 처리하는 플랫폼으로 급성장  
+- 사용량 증가에 따라 스택을 지속적으로 업그레이드해야 했으며,...</a></div><div class="topicinfo"><span id="tp14067">9</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14067"></span> | <a href="topic?id=14067" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Github용 static site generator]]></title>
+        <id>https://news.hada.io/topic?id=14056</id>
+        <link href="https://news.hada.io/topic?id=14056"/>
+        <updated>2024-03-29T06:15:22.175Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14056"><a class="upvote" href="javascript:vote(14056, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14056" rel="nofollow" id="tr12"><h1>Show GN: Github용 static site generator </h1></a> <span class="topicurl">(github.com/joone)</span></div><div class="topicdesc"><a href="topic?id=14056" class="c99 breakall">현재 연재를 마친 "만화로 나누는 자유/오픈소스 소프트웨어 이야기"의 영문 사이트를 만들고 있습니다. 이전에는 워드프레스를 사용하여 직접 호...</a></div><div class="topicinfo"><span id="tp14056">15</span> points by <a href="/user?id=joone">joone</a> 3일전<span id="unvote14056"></span> | <a href="topic?id=14056" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia가 개설한 무료 AI 강좌들]]></title>
+        <id>https://news.hada.io/topic?id=14007</id>
+        <link href="https://news.hada.io/topic?id=14007"/>
+        <updated>2024-03-27T00:52:44.070Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14007"><a class="upvote" href="javascript:vote(14007, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.nvidia.com/en-us/training/online/#free-courses" rel="nofollow" id="tr13"><h1>Nvidia가 개설한 무료 AI 강좌들</h1></a> <span class="topicurl">(nvidia.com)</span></div><div class="topicdesc"><a href="topic?id=14007" class="c99 breakall">- 10분/1시간/2시간/8시간 등 다양한 길이의 강좌들이 있음   
+- Self-Paced Courses 에는 유료/무료가 섞여있는데, 이쪽에도 무료 강좌들 괜찮은...</a></div><div class="topicinfo"><span id="tp14007">37</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14007"></span> | <a href="topic?id=14007" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Ask HN: LLM들의 소음에 묻히지 않는 ML 분야의 동향은 무엇인가?]]></title>
+        <id>https://news.hada.io/topic?id=14047</id>
+        <link href="https://news.hada.io/topic?id=14047"/>
+        <updated>2024-03-29T01:44:12.891Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14047"><a class="upvote" href="javascript:vote(14047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=39848847" rel="nofollow" id="tr14"><h1>GN⁺: Ask HN: LLM들의 소음에 묻히지 않는 ML 분야의 동향은 무엇인가?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=14047" class="c99 breakall">- 대형 언어 모델(LLMs)의 소음에 묻혀 들리지 않는 기계학습(ML) 및 데이터 과학 분야에서는 여러 가지 흥미로운 일들이 발생하고 있음  
+- Cynt...</a></div><div class="topicinfo"><span id="tp14047">16</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote14047"></span> | <a href="topic?id=14047" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jamba - 프로덕션급 Mamba 기반 AI 모델]]></title>
         <id>https://news.hada.io/topic?id=14062</id>
         <link href="https://news.hada.io/topic?id=14062"/>
         <updated>2024-03-30T00:51:11.491Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14062"><a class="upvote" href="javascript:vote(14062, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/" rel="nofollow" id="tr14"><h1>Jamba - 프로덕션급 Mamba 기반 AI 모델</h1></a> <span class="topicurl">(maginative.com)</span></div><div class="topicdesc"><a href="topic?id=14062" class="c99 breakall">- AI21 Labs가 맘바 아키텍처를 기반으로 한 세계 최초의 프로덕션급 AI 모델인 잠바(Jamba)를 출시  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14062"><a class="upvote" href="javascript:vote(14062, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/" rel="nofollow" id="tr15"><h1>Jamba - 프로덕션급 Mamba 기반 AI 모델</h1></a> <span class="topicurl">(maginative.com)</span></div><div class="topicdesc"><a href="topic?id=14062" class="c99 breakall">- AI21 Labs가 맘바 아키텍처를 기반으로 한 세계 최초의 프로덕션급 AI 모델인 잠바(Jamba)를 출시  
 - 잠바는 Mamba SSM(구조화 상태 공간 모델...</a></div><div class="topicinfo"><span id="tp14062">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14062"></span> | <a href="topic?id=14062" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -126,16 +135,16 @@
         <id>https://news.hada.io/topic?id=14036</id>
         <link href="https://news.hada.io/topic?id=14036"/>
         <updated>2024-03-28T01:45:25.226Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14036"><a class="upvote" href="javascript:vote(14036, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.toolify.ai/" rel="nofollow" id="tr15"><h1>Toolify - AI 웹사이트 &amp; 도구 디렉토리</h1></a> <span class="topicurl">(toolify.ai)</span></div><div class="topicdesc"><a href="topic?id=14036" class="c99 breakall">- 1만개 이상, 233개 카테고리를 가진 AI 도구 디렉토리   
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14036"><a class="upvote" href="javascript:vote(14036, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.toolify.ai/" rel="nofollow" id="tr16"><h1>Toolify - AI 웹사이트 &amp; 도구 디렉토리</h1></a> <span class="topicurl">(toolify.ai)</span></div><div class="topicdesc"><a href="topic?id=14036" class="c99 breakall">- 1만개 이상, 233개 카테고리를 가진 AI 도구 디렉토리   
 - 매일 ChatGPT에 의해서 도구 리스트 및 GPTs 스토어를 업데이트  
-- 각 도구의 상...</a></div><div class="topicinfo"><span id="tp14036">22</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14036"></span> | <a href="topic?id=14036" class="u">댓글 1개</a></div>]]></content>
+- 각 도구의 상...</a></div><div class="topicinfo"><span id="tp14036">23</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14036"></span> | <a href="topic?id=14036" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금까지 본 최고의 Visualization Tool(Extremely Fast, rustlang based)]]></title>
         <id>https://news.hada.io/topic?id=14018</id>
         <link href="https://news.hada.io/topic?id=14018"/>
         <updated>2024-03-27T05:13:26.921Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14018"><a class="upvote" href="javascript:vote(14018, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.rerun.io/" rel="nofollow" id="tr16"><h1>지금까지 본 최고의 Visualization Tool(Extremely Fast, rustlang based)</h1></a> <span class="topicurl">(rerun.io)</span></div><div class="topicdesc"><a href="topic?id=14018" class="c99 breakall">Why? 왜 이 제품을 사용해야 하죠 ?  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14018"><a class="upvote" href="javascript:vote(14018, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.rerun.io/" rel="nofollow" id="tr17"><h1>지금까지 본 최고의 Visualization Tool(Extremely Fast, rustlang based)</h1></a> <span class="topicurl">(rerun.io)</span></div><div class="topicdesc"><a href="topic?id=14018" class="c99 breakall">Why? 왜 이 제품을 사용해야 하죠 ?  
 - W&amp;B, clearml, 등 에서 시각화된 결과를 돌려보려면 얼마나 느리게 확인해야 했습니까?   
 -&gt; rerun에서...</a></div><div class="topicinfo"><span id="tp14018">30</span> points by <a href="/user?id=bohblue23">bohblue23</a> 5일전<span id="unvote14018"></span> | <a href="topic?id=14018" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -144,15 +153,15 @@
         <id>https://news.hada.io/topic?id=14063</id>
         <link href="https://news.hada.io/topic?id=14063"/>
         <updated>2024-04-01T01:59:12.243Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14063"><a class="upvote" href="javascript:vote(14063, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.openwall.com/lists/oss-security/2024/03/29/4" rel="nofollow" id="tr17"><h1>GN⁺: xz/liblzma의 상위 스트림에 존재하는 백도어로 인한 SSH 서버 침해(compromise)</h1></a> <span class="topicurl">(openwall.com)</span></div><div class="topicdesc"><a href="topic?id=14063" class="c99 breakall">- Debian sid 설치에서 liblzma(xz 패키지의 일부)와 관련된 몇 가지 이상한 증상(SSH 로그인 시 CPU 사용량 증가, valgrind 오류)이 관찰됨  
-- ...</a></div><div class="topicinfo"><span id="tp14063">6</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14063"></span> | <a href="topic?id=14063" class="u">댓글 5개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14063"><a class="upvote" href="javascript:vote(14063, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.openwall.com/lists/oss-security/2024/03/29/4" rel="nofollow" id="tr18"><h1>GN⁺: xz/liblzma의 상위 스트림에 존재하는 백도어로 인한 SSH 서버 침해(compromise)</h1></a> <span class="topicurl">(openwall.com)</span></div><div class="topicdesc"><a href="topic?id=14063" class="c99 breakall">- Debian sid 설치에서 liblzma(xz 패키지의 일부)와 관련된 몇 가지 이상한 증상(SSH 로그인 시 CPU 사용량 증가, valgrind 오류)이 관찰됨  
+- ...</a></div><div class="topicinfo"><span id="tp14063">6</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14063"></span> | <a href="topic?id=14063" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: AI가 아닌 제품을 개발하고 계신분?]]></title>
         <id>https://news.hada.io/topic?id=14046</id>
         <link href="https://news.hada.io/topic?id=14046"/>
         <updated>2024-03-29T01:44:12.898Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14046"><a class="upvote" href="javascript:vote(14046, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=39829695" rel="nofollow" id="tr18"><h1>Ask HN: AI가 아닌 제품을 개발하고 계신분?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=14046" class="c99 breakall">- 요즘 AI 제품 얘기만 많은데, 그 외의 제품을 개발에 대해 묻는 HN의 질문과 답들   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14046"><a class="upvote" href="javascript:vote(14046, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=39829695" rel="nofollow" id="tr19"><h1>Ask HN: AI가 아닌 제품을 개발하고 계신분?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=14046" class="c99 breakall">- 요즘 AI 제품 얘기만 많은데, 그 외의 제품을 개발에 대해 묻는 HN의 질문과 답들   
 - 합성 DNA 조립 회사를 운영 중임   
   - 고객이 제공한...</a></div><div class="topicinfo"><span id="tp14046">11</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14046"></span> | <a href="topic?id=14046" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -161,14 +170,6 @@
         <id>https://news.hada.io/topic?id=14050</id>
         <link href="https://news.hada.io/topic?id=14050"/>
         <updated>2024-03-29T01:44:12.888Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14050"><a class="upvote" href="javascript:vote(14050, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/StableFluffy/LogicKor" rel="nofollow" id="tr19"><h1>LogicKor: 한국어 언어모델 다분야 사고력 벤치마크</h1></a> <span class="topicurl">(github.com/StableFluffy)</span></div><div class="topicdesc"><a href="topic?id=14050" class="c99 breakall">영어권 벤치마크 중 8개 카테고리에 대해 10개씩의 질문으로 구성된 벤치마크 MT-Bench에서 영감을 받아 작성된 한국어 언어모델 벤치마크라고 합...</a></div><div class="topicinfo"><span id="tp14050">10</span> points by <a href="/user?id=libner">libner</a> 3일전<span id="unvote14050"></span> | <a href="topic?id=14050" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: DBRX - 새로운 최첨단(SOTA) 오픈 LLM]]></title>
-        <id>https://news.hada.io/topic?id=14031</id>
-        <link href="https://news.hada.io/topic?id=14031"/>
-        <updated>2024-03-28T01:45:25.223Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14031"><a class="upvote" href="javascript:vote(14031, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm" rel="nofollow" id="tr20"><h1>GN⁺: DBRX - 새로운 최첨단(SOTA) 오픈 LLM</h1></a> <span class="topicurl">(databricks.com)</span></div><div class="topicdesc"><a href="topic?id=14031" class="c99 breakall">- Databricks가 새로운 오픈, 범용 LLM인 DBRX를 공개  
-- 표준 벤치마크에서 기존 오픈 LLM을 능가하는 새로운 최고 수준이며, 이전에 폐쇄된 모...</a></div><div class="topicinfo"><span id="tp14031">15</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote14031"></span> | <a href="topic?id=14031" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14050"><a class="upvote" href="javascript:vote(14050, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/StableFluffy/LogicKor" rel="nofollow" id="tr20"><h1>LogicKor: 한국어 언어모델 다분야 사고력 벤치마크</h1></a> <span class="topicurl">(github.com/StableFluffy)</span></div><div class="topicdesc"><a href="topic?id=14050" class="c99 breakall">영어권 벤치마크 중 8개 카테고리에 대해 10개씩의 질문으로 구성된 벤치마크 MT-Bench에서 영감을 받아 작성된 한국어 언어모델 벤치마크라고 합...</a></div><div class="topicinfo"><span id="tp14050">10</span> points by <a href="/user?id=libner">libner</a> 3일전<span id="unvote14050"></span> | <a href="topic?id=14050" class="u">댓글 3개</a></div>]]></content>
     </entry>
 </feed>
