@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-04-03T07:11:58.395Z</updated>
+    <updated>2024-04-03T08:15:59.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://research.swtch.com/xz-timeline</id>
         <link href="https://research.swtch.com/xz-timeline"/>
         <updated>2024-04-03T01:48:12.091Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14122"><a class="upvote" href="javascript:vote(14122, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://research.swtch.com/xz-timeline" rel="nofollow" id="tr1"><h1>GN⁺: xz 오픈소스 공격의 전체 타임라인 정리</h1></a> <span class="topicurl">(research.swtch.com)</span></div><div class="topicdesc"><a href="topic?id=14122" class="c99 breakall">- 2년 넘게 "Jia Tan"이라는 이름을 사용하는 공격자가 xz 압축 라이브러리에 성실하고 효과적인 기여자로 활동하여 최종적으로 커밋 권한과 관리...</a></div><div class="topicinfo"><span id="tp14122">12</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote14122"></span> | <a href="topic?id=14122" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14122"><a class="upvote" href="javascript:vote(14122, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://research.swtch.com/xz-timeline" rel="nofollow" id="tr1"><h1>GN⁺: xz 오픈소스 공격의 전체 타임라인 정리</h1></a> <span class="topicurl">(research.swtch.com)</span></div><div class="topicdesc"><a href="topic?id=14122" class="c99 breakall">- 2년 넘게 "Jia Tan"이라는 이름을 사용하는 공격자가 xz 압축 라이브러리에 성실하고 효과적인 기여자로 활동하여 최종적으로 커밋 권한과 관리...</a></div><div class="topicinfo"><span id="tp14122">12</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote14122"></span> | <a href="topic?id=14122" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Atlassian Pragmatic Drag & Drop]]></title>
@@ -19,7 +19,7 @@
         <updated>2024-04-03T00:52:28.065Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14121"><a class="upvote" href="javascript:vote(14121, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/atlassian/pragmatic-drag-and-drop" rel="nofollow" id="tr2"><h1>Atlassian Pragmatic Drag &amp; Drop</h1></a> <span class="topicurl">(github.com/atlassian)</span></div><div class="topicdesc"><a href="topic?id=14121" class="c99 breakall">- 아틀라시안이 Trello, Jira, Confluence 등에서 사용하는 드래그 &amp; 드롭 툴체인  
 - React, Svelte, Vue, Angular등 어디서든 활용 가능  
-  -...</a></div><div class="topicinfo"><span id="tp14121">6</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote14121"></span> | <a href="topic?id=14121" class="u">댓글 1개</a></div>]]></content>
+  -...</a></div><div class="topicinfo"><span id="tp14121">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote14121"></span> | <a href="topic?id=14121" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저에서 PDF와 이미지 OCR 직접 실행하기]]></title>
@@ -27,41 +27,41 @@
         <link href="https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/"/>
         <updated>2024-04-03T02:19:51.747Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14128"><a class="upvote" href="javascript:vote(14128, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/" rel="nofollow" id="tr3"><h1>브라우저에서 PDF와 이미지 OCR 직접 실행하기 </h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=14128" class="c99 breakall">- Tesseract.js 를 이용하여 이미지와 PDF 파일의 내용을 직접 읽어냄  
-- 서버없이 브라우저에서만 실행되어 데이터가 외부로 전혀 나가지 않음 ...</a></div><div class="topicinfo"><span id="tp14128">4</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote14128"></span> | <a href="topic?id=14128" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trix - 글쓰기를 위한 Rich Text 에디터]]></title>
-        <id>https://github.com/basecamp/trix</id>
-        <link href="https://github.com/basecamp/trix"/>
-        <updated>2024-04-02T01:52:47.348Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14113"><a class="upvote" href="javascript:vote(14113, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/basecamp/trix" rel="nofollow" id="tr4"><h1>Trix - 글쓰기를 위한 Rich Text 에디터</h1></a> <span class="topicurl">(github.com/basecamp)</span></div><div class="topicdesc"><a href="topic?id=14113" class="c99 breakall">- 37Sinals가 Basecamp 및 Hey 이메일 서비스에 사용하는 에디터를 오픈소스로 공개   
-- 메시지, 댓글, 기사, 리스트 등의 대부분 글쓰기를 위해...</a></div><div class="topicinfo"><span id="tp14113">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14113"></span> | <a href="topic?id=14113" class="u">댓글 1개</a></div>]]></content>
+- 서버없이 브라우저에서만 실행되어 데이터가 외부로 전혀 나가지 않음 ...</a></div><div class="topicinfo"><span id="tp14128">5</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote14128"></span> | <a href="topic?id=14128" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Yahoo, 인스타그램 창업자들이 만든 AI 뉴스앱 Artifact 인수]]></title>
         <id>https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition</id>
         <link href="https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition"/>
         <updated>2024-04-03T04:15:08.932Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14131"><a class="upvote" href="javascript:vote(14131, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition" rel="nofollow" id="tr5"><h1>GN⁺: Yahoo, 인스타그램 창업자들이 만든 AI 뉴스앱 Artifact 인수</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=14131" class="c99 breakall">- Instagram의 공동 창업자들이 독자들에게 뉴스를 추천하는 강력하고 유용한 도구인 Artifact를 만들었으나, 규모를 키우는 데 어려움을 겪음  
-...</a></div><div class="topicinfo"><span id="tp14131">2</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote14131"></span> | <a href="topic?id=14131" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14131"><a class="upvote" href="javascript:vote(14131, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition" rel="nofollow" id="tr4"><h1>GN⁺: Yahoo, 인스타그램 창업자들이 만든 AI 뉴스앱 Artifact 인수</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=14131" class="c99 breakall">- Instagram의 공동 창업자들이 독자들에게 뉴스를 추천하는 강력하고 유용한 도구인 Artifact를 만들었으나, 규모를 키우는 데 어려움을 겪음  
+...</a></div><div class="topicinfo"><span id="tp14131">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote14131"></span> | <a href="topic?id=14131" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신은 사람들을 너무 늦게 해고하고 있어요]]></title>
-        <id>https://zaidesanton.substack.com/p/you-are-firing-people-too-late</id>
-        <link href="https://zaidesanton.substack.com/p/you-are-firing-people-too-late"/>
-        <updated>2024-04-01T02:31:04.614Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14096"><a class="upvote" href="javascript:vote(14096, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zaidesanton.substack.com/p/you-are-firing-people-too-late" rel="nofollow" id="tr6"><h1>당신은 사람들을 너무 늦게 해고하고 있어요</h1></a> <span class="topicurl">(zaidesanton.substack.com)</span></div><div class="topicdesc"><a href="topic?id=14096" class="c99 breakall">- 처음으로 직원을 해고하는데 6개월이나 걸린 경험을 통해 적은 글   
-# 직원을 해고해야 하는지 알아내는 방법  
-- 직원을 해고해야 할지 고민...</a></div><div class="topicinfo"><span id="tp14096">32</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14096"></span> | <a href="topic?id=14096" class="u">댓글 10개</a></div>]]></content>
+        <title type="html"><![CDATA[Trix - 글쓰기를 위한 Rich Text 에디터]]></title>
+        <id>https://github.com/basecamp/trix</id>
+        <link href="https://github.com/basecamp/trix"/>
+        <updated>2024-04-02T01:52:47.348Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14113"><a class="upvote" href="javascript:vote(14113, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/basecamp/trix" rel="nofollow" id="tr5"><h1>Trix - 글쓰기를 위한 Rich Text 에디터</h1></a> <span class="topicurl">(github.com/basecamp)</span></div><div class="topicdesc"><a href="topic?id=14113" class="c99 breakall">- 37Sinals가 Basecamp 및 Hey 이메일 서비스에 사용하는 에디터를 오픈소스로 공개   
+- 메시지, 댓글, 기사, 리스트 등의 대부분 글쓰기를 위해...</a></div><div class="topicinfo"><span id="tp14113">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14113"></span> | <a href="topic?id=14113" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: HeyForm - 오픈소스 Form 빌더]]></title>
         <id>https://github.com/heyform/heyform</id>
         <link href="https://github.com/heyform/heyform"/>
         <updated>2024-04-03T00:52:28.066Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14117"><a class="upvote" href="javascript:vote(14117, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/heyform/heyform" rel="nofollow" id="tr7"><h1>GN⁺: HeyForm - 오픈소스 Form 빌더</h1></a> <span class="topicurl">(github.com/heyform)</span></div><div class="topicdesc"><a href="topic?id=14117" class="c99 breakall">- 누구나 코딩 기술 필요없이 설문조사, 설문지, 퀴즈, 투표를 위한 매력적인 대화형 양식(Form)을 만들 수 있음   
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14117"><a class="upvote" href="javascript:vote(14117, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/heyform/heyform" rel="nofollow" id="tr6"><h1>GN⁺: HeyForm - 오픈소스 Form 빌더</h1></a> <span class="topicurl">(github.com/heyform)</span></div><div class="topicdesc"><a href="topic?id=14117" class="c99 breakall">- 누구나 코딩 기술 필요없이 설문조사, 설문지, 퀴즈, 투표를 위한 매력적인 대화형 양식(Form)을 만들 수 있음   
 - 쉽고 강력한 양식 작성  
-...</a></div><div class="topicinfo"><span id="tp14117">10</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14117"></span> | <a href="topic?id=14117" class="u">댓글 1개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp14117">11</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14117"></span> | <a href="topic?id=14117" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신은 사람들을 너무 늦게 해고하고 있어요]]></title>
+        <id>https://zaidesanton.substack.com/p/you-are-firing-people-too-late</id>
+        <link href="https://zaidesanton.substack.com/p/you-are-firing-people-too-late"/>
+        <updated>2024-04-01T02:31:04.614Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14096"><a class="upvote" href="javascript:vote(14096, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zaidesanton.substack.com/p/you-are-firing-people-too-late" rel="nofollow" id="tr7"><h1>당신은 사람들을 너무 늦게 해고하고 있어요</h1></a> <span class="topicurl">(zaidesanton.substack.com)</span></div><div class="topicdesc"><a href="topic?id=14096" class="c99 breakall">- 처음으로 직원을 해고하는데 6개월이나 걸린 경험을 통해 적은 글   
+# 직원을 해고해야 하는지 알아내는 방법  
+- 직원을 해고해야 할지 고민...</a></div><div class="topicinfo"><span id="tp14096">32</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14096"></span> | <a href="topic?id=14096" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: LLaMA, 이제 CPU에서 더 빠른 속도로 작동]]></title>
@@ -87,7 +87,7 @@
         <updated>2024-04-02T17:13:30.589Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14119"><a class="upvote" href="javascript:vote(14119, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dongascience.com/news.php?idx=64615" rel="nofollow" id="tr10"><h1>350년 난제 '페르마의 마지막 정리' 컴퓨터 증명 나선 수학자들</h1></a> <span class="topicurl">(dongascience.com)</span></div><div class="topicdesc"><a href="topic?id=14119" class="c99 breakall"># 페르마의 마지막 정리, 컴퓨터 언어로 새로 증명한다  
   
-* [임피리얼 칼리지 런던][imperial]의 [케빈 버저드(Kevin Buzzard)][kbuzzard] 교...</a></div><div class="topicinfo"><span id="tp14119">4</span> points by <a href="/user?id=chabulhwi">chabulhwi</a> 14시간전<span id="unvote14119"></span> | <a href="topic?id=14119" class="u">댓글 1개</a></div>]]></content>
+* [임피리얼 칼리지 런던][imperial]의 [케빈 버저드(Kevin Buzzard)][kbuzzard] 교...</a></div><div class="topicinfo"><span id="tp14119">4</span> points by <a href="/user?id=chabulhwi">chabulhwi</a> 16시간전<span id="unvote14119"></span> | <a href="topic?id=14119" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 오픈 소스 프로젝트 내 상호작용의 축소판인 xz 백도어 이슈]]></title>
@@ -105,24 +105,24 @@
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14118"><a class="upvote" href="javascript:vote(14118, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bun.sh/blog/bun-v1.1" rel="nofollow" id="tr12"><h1>GN⁺: Bun 1.1 릴리즈</h1></a> <span class="topicurl">(bun.sh)</span></div><div class="topicdesc"><a href="topic?id=14118" class="c99 breakall"># Windows 지원  
 - Windows 10 이상에서 Bun 실행 가능  
 - macOS 및 Linux에서의 Bun 테스트 스위트의 98% 통과  
-- 내장된 npm 호환 패키지 ...</a></div><div class="topicinfo"><span id="tp14118">4</span> points by <a href="/user?id=neo">neo</a> 24시간전<span id="unvote14118"></span> | <a href="topic?id=14118" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM은 모르지만 뭔가 만들고 싶어서]]></title>
-        <id>https://hiddenest.dev/three-hours-of-llm</id>
-        <link href="https://hiddenest.dev/three-hours-of-llm"/>
-        <updated>2024-04-01T06:16:28.485Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14097"><a class="upvote" href="javascript:vote(14097, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hiddenest.dev/three-hours-of-llm" rel="nofollow" id="tr13"><h1>LLM은 모르지만 뭔가 만들고 싶어서</h1></a> <span class="topicurl">(hiddenest.dev)</span></div><div class="topicdesc"><a href="topic?id=14097" class="c99 breakall">LLM을 잘 모르는 상태에서, 인지적 프롬프팅으로 3시간 만에 간단한 기능을 만든 이야기.  
-프롬프트의 작성 이전에 고민해봤던 전략들을 Sequent...</a></div><div class="topicinfo"><span id="tp14097">9</span> points by <a href="/user?id=hiddenest">hiddenest</a> 2일전<span id="unvote14097"></span> | <a href="topic?id=14097" class="u">댓글과 토론</a></div>]]></content>
+- 내장된 npm 호환 패키지 ...</a></div><div class="topicinfo"><span id="tp14118">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14118"></span> | <a href="topic?id=14118" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 마이크로소프트와 OpenAI, 1000억 달러 규모의 슈퍼컴퓨터 "Stargate AI" 계획]]></title>
         <id>https://www.gizmochina.com/2024/03/30/microsoft-openai-plan-100-billion-ai-supercomputer-stargate/</id>
         <link href="https://www.gizmochina.com/2024/03/30/microsoft-openai-plan-100-billion-ai-supercomputer-stargate/"/>
         <updated>2024-04-02T02:22:17.219Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14114"><a class="upvote" href="javascript:vote(14114, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.gizmochina.com/2024/03/30/microsoft-openai-plan-100-billion-ai-supercomputer-stargate/" rel="nofollow" id="tr14"><h1>GN⁺: 마이크로소프트와 OpenAI, 1000억 달러 규모의 슈퍼컴퓨터 "Stargate AI" 계획</h1></a> <span class="topicurl">(gizmochina.com)</span></div><div class="topicdesc"><a href="topic?id=14114" class="c99 breakall"># 2028년 AI 데이터 센터 계획의 일환으로 슈퍼컴퓨터 "Stargate" 계획됨  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14114"><a class="upvote" href="javascript:vote(14114, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.gizmochina.com/2024/03/30/microsoft-openai-plan-100-billion-ai-supercomputer-stargate/" rel="nofollow" id="tr13"><h1>GN⁺: 마이크로소프트와 OpenAI, 1000억 달러 규모의 슈퍼컴퓨터 "Stargate AI" 계획</h1></a> <span class="topicurl">(gizmochina.com)</span></div><div class="topicdesc"><a href="topic?id=14114" class="c99 breakall"># 2028년 AI 데이터 센터 계획의 일환으로 슈퍼컴퓨터 "Stargate" 계획됨  
   
-- The Information의 보고서에 따르면, Microsoft와 OpenAI가 202...</a></div><div class="topicinfo"><span id="tp14114">4</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14114"></span> | <a href="topic?id=14114" class="u">댓글 1개</a></div>]]></content>
+- The Information의 보고서에 따르면, Microsoft와 OpenAI가 202...</a></div><div class="topicinfo"><span id="tp14114">5</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14114"></span> | <a href="topic?id=14114" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM은 모르지만 뭔가 만들고 싶어서]]></title>
+        <id>https://hiddenest.dev/three-hours-of-llm</id>
+        <link href="https://hiddenest.dev/three-hours-of-llm"/>
+        <updated>2024-04-01T06:16:28.485Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14097"><a class="upvote" href="javascript:vote(14097, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hiddenest.dev/three-hours-of-llm" rel="nofollow" id="tr14"><h1>LLM은 모르지만 뭔가 만들고 싶어서</h1></a> <span class="topicurl">(hiddenest.dev)</span></div><div class="topicdesc"><a href="topic?id=14097" class="c99 breakall">LLM을 잘 모르는 상태에서, 인지적 프롬프팅으로 3시간 만에 간단한 기능을 만든 이야기.  
+프롬프트의 작성 이전에 고민해봤던 전략들을 Sequent...</a></div><div class="topicinfo"><span id="tp14097">9</span> points by <a href="/user?id=hiddenest">hiddenest</a> 2일전<span id="unvote14097"></span> | <a href="topic?id=14097" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apache Kvrocks - 분산 키/밸류 NoSQL DB]]></title>
@@ -143,21 +143,21 @@
 긱뉴스에도 자주 올라오는 폴 그레이엄의 에세이는 올라올 때마다 upvote를 많이 받는 베스트셀러...</a></div><div class="topicinfo"><span id="tp14020">56</span> points by <a href="/user?id=dukjin">dukjin</a> 7일전<span id="unvote14020"></span> | <a href="topic?id=14020" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NetBSD 10.0 릴리즈]]></title>
-        <id>https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html</id>
-        <link href="https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html"/>
-        <updated>2024-04-02T00:55:27.111Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14105"><a class="upvote" href="javascript:vote(14105, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html" rel="nofollow" id="tr17"><h1>NetBSD 10.0 릴리즈</h1></a> <span class="topicurl">(netbsd.org)</span></div><div class="topicdesc"><a href="topic?id=14105" class="c99 breakall">- NetBSD의 18번째 메이저 릴리즈   
-- 2019년 NetBSD 9.x 이후 누적된 운영 체제의 개선 사항을 포함   
-- 기존 설치는 설치 이미지를 부팅하고...</a></div><div class="topicinfo"><span id="tp14105">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14105"></span> | <a href="topic?id=14105" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 구인 공고 - 멤버를 찾고 계신가요? (2024년 2분기)]]></title>
         <id>https://news.hada.io/topic?id=14095</id>
         <link href="https://news.hada.io/topic?id=14095"/>
         <updated>2024-04-01T05:12:54.575Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14095"><a class="upvote" href="javascript:vote(14095, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14095" id="tr18"><h1>Ask GN: 구인 공고 - 멤버를 찾고 계신가요? (2024년 2분기)</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=14095" class="c99 breakall">현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14095"><a class="upvote" href="javascript:vote(14095, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14095" id="tr17"><h1>Ask GN: 구인 공고 - 멤버를 찾고 계신가요? (2024년 2분기)</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=14095" class="c99 breakall">현재 근무중인 스타트업에서 같이 일할 멤버를 찾고 계시다면  
 회사 소개 / JD / 위치 / 리모트 가능 여부 / 연락방법(이메일,웹사이트) 등을 적...</a></div><div class="topicinfo"><span id="tp14095">7</span> points by <a href="/user?id=askbot">askbot</a> 2일전<span id="unvote14095"></span> | <a href="topic?id=14095" class="u">댓글 9개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetBSD 10.0 릴리즈]]></title>
+        <id>https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html</id>
+        <link href="https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html"/>
+        <updated>2024-04-02T00:55:27.111Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14105"><a class="upvote" href="javascript:vote(14105, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html" rel="nofollow" id="tr18"><h1>NetBSD 10.0 릴리즈</h1></a> <span class="topicurl">(netbsd.org)</span></div><div class="topicdesc"><a href="topic?id=14105" class="c99 breakall">- NetBSD의 18번째 메이저 릴리즈   
+- 2019년 NetBSD 9.x 이후 누적된 운영 체제의 개선 사항을 포함   
+- 기존 설치는 설치 이미지를 부팅하고...</a></div><div class="topicinfo"><span id="tp14105">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14105"></span> | <a href="topic?id=14105" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valkey - 리눅스 재단(Linux Foundation)이 발표한 Redis의 오픈소스 대체재]]></title>
@@ -165,7 +165,7 @@
         <link href="https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community"/>
         <updated>2024-03-29T07:12:44.119Z</updated>
         <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14057"><a class="upvote" href="javascript:vote(14057, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community" rel="nofollow" id="tr19"><h1>Valkey - 리눅스 재단(Linux Foundation)이 발표한 Redis의 오픈소스 대체재</h1></a> <span class="topicurl">(linuxfoundation.org)</span></div><div class="topicdesc"><a href="topic?id=14057" class="c99 breakall">- Redis Inc.가 최근 발표한 라이선스 변경에 대응하기 위해 여러 메인테이너, 커뮤니티, 기업 지원을 빠르게 모아서 재조직  
-- Redis 7.2.4 기...</a></div><div class="topicinfo"><span id="tp14057">22</span> points by <a href="/user?id=ssssut">ssssut</a> 5일전<span id="unvote14057"></span> | <a href="topic?id=14057" class="u">댓글 2개</a></div>]]></content>
+- Redis 7.2.4 기...</a></div><div class="topicinfo"><span id="tp14057">23</span> points by <a href="/user?id=ssssut">ssssut</a> 5일전<span id="unvote14057"></span> | <a href="topic?id=14057" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia가 개설한 무료 AI 강좌들]]></title>
