@@ -2,34 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-04-10T14:11:58.597Z</updated>
+    <updated>2024-04-10T15:14:02.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시리즈 B, 카나리아 새들의 떼죽음]]></title>
+        <id>https://hiddenest.dev/series-b-the-death-of-canary</id>
+        <link href="https://hiddenest.dev/series-b-the-death-of-canary"/>
+        <updated>2024-04-10T14:11:34.409Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14250"><a class="upvote" href="javascript:vote(14250, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hiddenest.dev/series-b-the-death-of-canary" rel="nofollow" id="tr1"><h1>시리즈 B, 카나리아 새들의 떼죽음</h1></a> <span class="topicurl">(hiddenest.dev)</span></div><div class="topicdesc"><a href="topic?id=14250" class="c99 breakall">시리즈B 스타트업에서 반복적으로 볼 수 있는 문제 혹은 모습에 관해 작성한 글.  
+  
+회사 안팎에서 위험을 감지해 내부에 이야기하지만 잘 받...</a></div><div class="topicinfo"><span id="tp14250">2</span> points by <a href="/user?id=hiddenest">hiddenest</a> 2시간전<span id="unvote14250"></span> | <a href="topic?id=14250" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Otter - Go를 위한 고성능 인-메모리 캐시]]></title>
         <id>https://github.com/maypok86/otter</id>
         <link href="https://github.com/maypok86/otter"/>
         <updated>2024-04-10T01:48:42.769Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr1"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr2"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
 - Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
-- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">8</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
+- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">8</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기]]></title>
         <id>https://github.com/andreasfertig/cppinsights</id>
         <link href="https://github.com/andreasfertig/cppinsights"/>
         <updated>2024-04-09T01:48:15.869Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14223"><a class="upvote" href="javascript:vote(14223, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andreasfertig/cppinsights" rel="nofollow" id="tr2"><h1>C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기</h1></a> <span class="topicurl">(github.com/andreasfertig)</span></div><div class="topicdesc"><a href="topic?id=14223" class="c99 breakall">- Clang 기반의 소스-투-소스 변환 도구  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14223"><a class="upvote" href="javascript:vote(14223, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andreasfertig/cppinsights" rel="nofollow" id="tr3"><h1>C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기</h1></a> <span class="topicurl">(github.com/andreasfertig)</span></div><div class="topicdesc"><a href="topic?id=14223" class="c99 breakall">- Clang 기반의 소스-투-소스 변환 도구  
 - C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">23</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시리즈 B, 카나리아 새들의 떼죽음]]></title>
-        <id>https://hiddenest.dev/series-b-the-death-of-canary</id>
-        <link href="https://hiddenest.dev/series-b-the-death-of-canary"/>
-        <updated>2024-04-10T14:11:34.409Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14250"><a class="upvote" href="javascript:vote(14250, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hiddenest.dev/series-b-the-death-of-canary" rel="nofollow" id="tr3"><h1>시리즈 B, 카나리아 새들의 떼죽음</h1></a> <span class="topicurl">(hiddenest.dev)</span></div><div class="topicdesc"><a href="topic?id=14250" class="c99 breakall">시리즈B 스타트업에서 반복적으로 볼 수 있는 문제 혹은 모습에 관해 작성한 글.  
-  
-회사 안팎에서 위험을 감지해 내부에 이야기하지만 잘 받...</a></div><div class="topicinfo"><span id="tp14250">1</span> point by <a href="/user?id=hiddenest">hiddenest</a> 44분전<span id="unvote14250"></span> | <a href="topic?id=14250" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 인텔 Gaudi 3 AI 가속기 출시]]></title>
@@ -38,7 +38,7 @@
         <updated>2024-04-10T01:48:42.770Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr4"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
   - 2024년 4월 9일 애리조나 주 피닉스에서 열린 Intel Vision 행사에서 Intel Gaudi 3 AI 가속기가 발표됨
-  - ...</a></div><div class="topicinfo"><span id="tp14240">5</span> points by <a href="/user?id=neo">neo</a> 13시간전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
+  - ...</a></div><div class="topicinfo"><span id="tp14240">6</span> points by <a href="/user?id=neo">neo</a> 14시간전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chisel - HTTP를 통해 전송되는 빠른 TCP/UDP 터널]]></title>
@@ -85,7 +85,7 @@
   
 # [Part I : Landscape]  
   
-- 2012년 최초 버...</a></div><div class="topicinfo"><span id="tp14209">24</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14209"></span> | <a href="topic?id=14209" class="u">댓글 1개</a></div>]]></content>
+- 2012년 최초 버...</a></div><div class="topicinfo"><span id="tp14209">24</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14209"></span> | <a href="topic?id=14209" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: DrawDB - 온라인 데이터베이스 다이어그램 편집기 오픈소스]]></title>
@@ -107,14 +107,14 @@
   
 내 얼굴은  
 어느 동물을  
-닮았...</a></div><div class="topicinfo"><span id="tp14248">1</span> point by <a href="/user?id=geekbini">geekbini</a> 5시간전<span id="unvote14248"></span> | <a href="topic?id=14248" class="u">댓글과 토론</a></div>]]></content>
+닮았...</a></div><div class="topicinfo"><span id="tp14248">1</span> point by <a href="/user?id=geekbini">geekbini</a> 6시간전<span id="unvote14248"></span> | <a href="topic?id=14248" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust 표준 라이브러리를 위한 보안 권고 (CVE-2024-24576)]]></title>
         <id>https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html</id>
         <link href="https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html"/>
         <updated>2024-04-10T08:17:57.540Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14246"><a class="upvote" href="javascript:vote(14246, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html" rel="nofollow" id="tr12"><h1>Rust 표준 라이브러리를 위한 보안 권고 (CVE-2024-24576)</h1></a> <span class="topicurl">(blog.rust-lang.org)</span></div><div class="topicdesc"><a href="topic?id=14246" class="c99 breakall">러스트 표준 라이브러리에 대한 보안 권고가 발표되었습니다. 이는 CVE-2024-24576으로 식별되는 취약점과 관련이 있으며, 특히 Windows에서 .bat ...</a></div><div class="topicinfo"><span id="tp14246">1</span> point by <a href="/user?id=ragingwind">ragingwind</a> 6시간전<span id="unvote14246"></span> | <a href="topic?id=14246" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14246"><a class="upvote" href="javascript:vote(14246, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html" rel="nofollow" id="tr12"><h1>Rust 표준 라이브러리를 위한 보안 권고 (CVE-2024-24576)</h1></a> <span class="topicurl">(blog.rust-lang.org)</span></div><div class="topicdesc"><a href="topic?id=14246" class="c99 breakall">러스트 표준 라이브러리에 대한 보안 권고가 발표되었습니다. 이는 CVE-2024-24576으로 식별되는 취약점과 관련이 있으며, 특히 Windows에서 .bat ...</a></div><div class="topicinfo"><span id="tp14246">1</span> point by <a href="/user?id=ragingwind">ragingwind</a> 7시간전<span id="unvote14246"></span> | <a href="topic?id=14246" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Loki by LibrAI - 사실 여부 검증 프로세스를 자동화하는 오픈소스 도구]]></title>
@@ -132,22 +132,22 @@
 - 핵심 분산 런타임과 ML 컴퓨팅을 단순화하기 위한 AI 라이브러리 세트로 구성 ...</a></div><div class="topicinfo"><span id="tp14217">7</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14217"></span> | <a href="topic?id=14217" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: 진정한 개방형 LLM, Hello OLMo 등장]]></title>
-        <id>https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962</id>
-        <link href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962"/>
-        <updated>2024-04-10T00:53:14.361Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14234"><a class="upvote" href="javascript:vote(14234, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962" rel="nofollow" id="tr15"><h1>GN⁺: 진정한 개방형 LLM, Hello OLMo 등장</h1></a> <span class="topicurl">(blog.allenai.org)</span></div><div class="topicdesc"><a href="topic?id=14234" class="c99 breakall">- AI2에서 OLMo 7B 모델을 공개함. 이는 사전 학습 데이터와 학습 코드를 함께 공개한 진정한 의미의 오픈 소스 대규모 언어 모델임.
-  - 연구자와...</a></div><div class="topicinfo"><span id="tp14234">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14234"></span> | <a href="topic?id=14234" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 우리나라 영화 명대사 Web, API]]></title>
         <id>https://news.hada.io/topic?id=14213</id>
         <link href="https://news.hada.io/topic?id=14213"/>
         <updated>2024-04-08T13:13:27.840Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14213"><a class="upvote" href="javascript:vote(14213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14213" rel="nofollow" id="tr16"><h1>Show GN: 우리나라 영화 명대사 Web, API</h1></a> <span class="topicurl">(klassic-quote.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=14213" class="c99 breakall">가볍게 만들어본 웹페이지 입니다. 재미로 봐주세요~  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14213"><a class="upvote" href="javascript:vote(14213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14213" rel="nofollow" id="tr15"><h1>Show GN: 우리나라 영화 명대사 Web, API</h1></a> <span class="topicurl">(klassic-quote.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=14213" class="c99 breakall">가볍게 만들어본 웹페이지 입니다. 재미로 봐주세요~  
   
 `타짜, 신세계, 범죄와의 전쟁` 명대사를 모아둔 API 입니다.  
 수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 11개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 진정한 개방형 LLM, Hello OLMo 등장]]></title>
+        <id>https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962</id>
+        <link href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962"/>
+        <updated>2024-04-10T00:53:14.361Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14234"><a class="upvote" href="javascript:vote(14234, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962" rel="nofollow" id="tr16"><h1>GN⁺: 진정한 개방형 LLM, Hello OLMo 등장</h1></a> <span class="topicurl">(blog.allenai.org)</span></div><div class="topicdesc"><a href="topic?id=14234" class="c99 breakall">- AI2에서 OLMo 7B 모델을 공개함. 이는 사전 학습 데이터와 학습 코드를 함께 공개한 진정한 의미의 오픈 소스 대규모 언어 모델임.
+  - 연구자와...</a></div><div class="topicinfo"><span id="tp14234">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14234"></span> | <a href="topic?id=14234" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정]]></title>
@@ -166,19 +166,19 @@
 - C로 작성된 애플리케이션 및 라이...</a></div><div class="topicinfo"><span id="tp14232">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14232"></span> | <a href="topic?id=14232" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수]]></title>
-        <id>https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/</id>
-        <link href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"/>
-        <updated>2024-04-10T01:48:42.778Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr19"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
-- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성]]></title>
         <id>https://github.com/hrishioa/lumentis</id>
         <link href="https://github.com/hrishioa/lumentis"/>
         <updated>2024-04-08T01:50:42.291Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14208"><a class="upvote" href="javascript:vote(14208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hrishioa/lumentis" rel="nofollow" id="tr20"><h1>lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성</h1></a> <span class="topicurl">(github.com/hrishioa)</span></div><div class="topicdesc"><a href="topic?id=14208" class="c99 breakall">- 회의 녹취록과 대용량 비정형 문서에서 포괄적이고 읽기 쉬운 문서를 생성해주는 도구   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14208"><a class="upvote" href="javascript:vote(14208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hrishioa/lumentis" rel="nofollow" id="tr19"><h1>lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성</h1></a> <span class="topicurl">(github.com/hrishioa)</span></div><div class="topicdesc"><a href="topic?id=14208" class="c99 breakall">- 회의 녹취록과 대용량 비정형 문서에서 포괄적이고 읽기 쉬운 문서를 생성해주는 도구   
 - 동작방식 : 실행해서 문서 자료를 넣고, 테마와 오...</a></div><div class="topicinfo"><span id="tp14208">9</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14208"></span> | <a href="topic?id=14208" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수]]></title>
+        <id>https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/</id>
+        <link href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"/>
+        <updated>2024-04-10T01:48:42.778Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr20"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
+- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
     </entry>
 </feed>
