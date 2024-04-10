@@ -2,25 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-10T01:49:05.706Z</updated>
+    <updated>2024-04-10T02:20:48.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Otter - Go를 위한 고성능 인-메모리 캐시 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=14241</id>
-        <link href="https://news.hada.io/topic?id=14241"/>
-        <updated>2024-04-10T01:48:30.670Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr1"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
-- Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
-- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">3</span> points by <a href="/user?id=xguru">xguru</a> 45분전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 인텔 Gaudi 3 AI 가속기 출시 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=14240</id>
         <link href="https://news.hada.io/topic?id=14240"/>
         <updated>2024-04-10T01:48:30.672Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr2"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr1"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
   - 2024년 4월 9일 애리조나 주 피닉스에서 열린 Intel Vision 행사에서 Intel Gaudi 3 AI 가속기가 발표됨
-  - ...</a></div><div class="topicinfo"><span id="tp14240">2</span> points by <a href="/user?id=neo">neo</a> 47분전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
+  - ...</a></div><div class="topicinfo"><span id="tp14240">4</span> points by <a href="/user?id=neo">neo</a> 1시간전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otter - Go를 위한 고성능 인-메모리 캐시 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=14241</id>
+        <link href="https://news.hada.io/topic?id=14241"/>
+        <updated>2024-04-10T01:48:30.670Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr2"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
+- Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
+- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기 (GeekNews ─ 메인)]]></title>
@@ -28,7 +28,7 @@
         <link href="https://news.hada.io/topic?id=14223"/>
         <updated>2024-04-09T01:48:02.600Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14223"><a class="upvote" href="javascript:vote(14223, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andreasfertig/cppinsights" rel="nofollow" id="tr3"><h1>C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기</h1></a> <span class="topicurl">(github.com/andreasfertig)</span></div><div class="topicdesc"><a href="topic?id=14223" class="c99 breakall">- Clang 기반의 소스-투-소스 변환 도구  
-- C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">22</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
+- C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">23</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: AI에 패한 후 프로 바둑 기사들, 더 뛰어나고 창의적으로 변화 (GeekNews ─ 메인)]]></title>
@@ -58,21 +58,21 @@
 - 1000 라인 정도의 파일 한개로 GPT-2(CPU...</a></div><div class="topicinfo"><span id="tp14228">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14228"></span> | <a href="topic?id=14228" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=14243</id>
-        <link href="https://news.hada.io/topic?id=14243"/>
-        <updated>2024-04-10T01:48:30.682Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr7"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
-- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 32분전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=14216</id>
         <link href="https://news.hada.io/topic?id=14216"/>
         <updated>2024-04-09T01:48:02.606Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14216"><a class="upvote" href="javascript:vote(14216, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mobile-dev-inc/maestro" rel="nofollow" id="tr8"><h1>GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크</h1></a> <span class="topicurl">(github.com/mobile-dev-inc)</span></div><div class="topicdesc"><a href="topic?id=14216" class="c99 breakall">- 모바일 앱의 UI 테스트를 자동화하는 가장 쉬운 방법  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14216"><a class="upvote" href="javascript:vote(14216, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mobile-dev-inc/maestro" rel="nofollow" id="tr7"><h1>GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크</h1></a> <span class="topicurl">(github.com/mobile-dev-inc)</span></div><div class="topicdesc"><a href="topic?id=14216" class="c99 breakall">- 모바일 앱의 UI 테스트를 자동화하는 가장 쉬운 방법  
 - UI 요소의 불안정성에 대한 내재적 허용오차를 가짐  
   - UI 요소가 항상 예상한 위...</a></div><div class="topicinfo"><span id="tp14216">12</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14216"></span> | <a href="topic?id=14216" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=14243</id>
+        <link href="https://news.hada.io/topic?id=14243"/>
+        <updated>2024-04-10T01:48:30.682Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr8"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
+- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 ML/AI/Data 업계 지도와 최신 트렌드 (GeekNews ─ 메인)]]></title>
@@ -114,7 +114,7 @@
         <link href="https://news.hada.io/topic?id=14234"/>
         <updated>2024-04-10T00:53:01.633Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14234"><a class="upvote" href="javascript:vote(14234, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962" rel="nofollow" id="tr13"><h1>GN⁺: 진정한 개방형 LLM, Hello OLMo 등장</h1></a> <span class="topicurl">(blog.allenai.org)</span></div><div class="topicdesc"><a href="topic?id=14234" class="c99 breakall">- AI2에서 OLMo 7B 모델을 공개함. 이는 사전 학습 데이터와 학습 코드를 함께 공개한 진정한 의미의 오픈 소스 대규모 언어 모델임.
-  - 연구자와...</a></div><div class="topicinfo"><span id="tp14234">3</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote14234"></span> | <a href="topic?id=14234" class="u">댓글 1개</a></div>]]></content>
+  - 연구자와...</a></div><div class="topicinfo"><span id="tp14234">3</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote14234"></span> | <a href="topic?id=14234" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 우리나라 영화 명대사 Web, API (GeekNews ─ 메인)]]></title>
@@ -124,7 +124,7 @@
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14213"><a class="upvote" href="javascript:vote(14213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14213" rel="nofollow" id="tr14"><h1>Show GN: 우리나라 영화 명대사 Web, API</h1></a> <span class="topicurl">(klassic-quote.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=14213" class="c99 breakall">가볍게 만들어본 웹페이지 입니다. 재미로 봐주세요~  
   
 `타짜, 신세계, 범죄와의 전쟁` 명대사를 모아둔 API 입니다.  
-수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 8개</a></div>]]></content>
+수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Spotify, 천 번 미만 스트리밍 곡에 대한 수익 창출 중단 (GeekNews ─ 메인)]]></title>
@@ -135,64 +135,64 @@
 - 이 새로운 정책은 2024년 4월 1일부터 모든 아티스트...</a></div><div class="topicinfo"><span id="tp14222">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14222"></span> | <a href="topic?id=14222" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Vala 프로그래밍 언어 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=14232</id>
-        <link href="https://news.hada.io/topic?id=14232"/>
-        <updated>2024-04-10T00:53:01.637Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14232"><a class="upvote" href="javascript:vote(14232, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vala.dev/" rel="nofollow" id="tr16"><h1>GN⁺: Vala 프로그래밍 언어</h1></a> <span class="topicurl">(vala.dev)</span></div><div class="topicdesc"><a href="topic?id=14232" class="c99 breakall">- Vala는 GNOME 개발자들에게 모던한 프로그래밍 언어 기능을 제공하는 것을 목표로 하는 프로그래밍 언어  
-- C로 작성된 애플리케이션 및 라이...</a></div><div class="topicinfo"><span id="tp14232">3</span> points by <a href="/user?id=neo">neo</a> 21시간전<span id="unvote14232"></span> | <a href="topic?id=14232" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=14208</id>
-        <link href="https://news.hada.io/topic?id=14208"/>
-        <updated>2024-04-08T01:50:29.770Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14208"><a class="upvote" href="javascript:vote(14208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hrishioa/lumentis" rel="nofollow" id="tr17"><h1>lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성</h1></a> <span class="topicurl">(github.com/hrishioa)</span></div><div class="topicdesc"><a href="topic?id=14208" class="c99 breakall">- 회의 녹취록과 대용량 비정형 문서에서 포괄적이고 읽기 쉬운 문서를 생성해주는 도구   
-- 동작방식 : 실행해서 문서 자료를 넣고, 테마와 오...</a></div><div class="topicinfo"><span id="tp14208">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14208"></span> | <a href="topic?id=14208" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=14215</id>
         <link href="https://news.hada.io/topic?id=14215"/>
         <updated>2024-04-09T00:53:20.256Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14215"><a class="upvote" href="javascript:vote(14215, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week" rel="nofollow" id="tr18"><h1>GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정</h1></a> <span class="topicurl">(theinformation.com)</span></div><div class="topicdesc"><a href="topic?id=14215" class="c99 breakall">- Llama 3의 가장 큰 버전은 올 여름 출시 예정이며, 작은 두 모델은 다음 주에 출시될 예정임  
-- 작은 모델의 출시는 Llama 3에 대한 기대감을 ...</a></div><div class="topicinfo"><span id="tp14215">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14215"></span> | <a href="topic?id=14215" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14215"><a class="upvote" href="javascript:vote(14215, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week" rel="nofollow" id="tr16"><h1>GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정</h1></a> <span class="topicurl">(theinformation.com)</span></div><div class="topicdesc"><a href="topic?id=14215" class="c99 breakall">- Llama 3의 가장 큰 버전은 올 여름 출시 예정이며, 작은 두 모델은 다음 주에 출시될 예정임  
+- 작은 모델의 출시는 Llama 3에 대한 기대감을 ...</a></div><div class="topicinfo"><span id="tp14215">4</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14215"></span> | <a href="topic?id=14215" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=14148</id>
-        <link href="https://news.hada.io/topic?id=14148"/>
-        <updated>2024-04-07T11:10:52.809Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14148"><a class="upvote" href="javascript:vote(14148, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/amalshaji/portr" rel="nofollow" id="tr19"><h1>Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스</h1></a> <span class="topicurl">(github.com/amalshaji)</span></div><div class="topicdesc"><a href="topic?id=14148" class="c99 breakall">- 로컬 HTTP 및 TCP 연결을 공용 인터넷에 노출할 수 있는 터널 솔루션  
-  - 내부에서 SSH 원격 포트 포워딩을 사용하여 연결을 안전하게 터널링...</a></div><div class="topicinfo"><span id="tp14148">30</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14148"></span> | <a href="topic?id=14148" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: Vala 프로그래밍 언어 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=14232</id>
+        <link href="https://news.hada.io/topic?id=14232"/>
+        <updated>2024-04-10T00:53:01.637Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14232"><a class="upvote" href="javascript:vote(14232, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vala.dev/" rel="nofollow" id="tr17"><h1>GN⁺: Vala 프로그래밍 언어</h1></a> <span class="topicurl">(vala.dev)</span></div><div class="topicdesc"><a href="topic?id=14232" class="c99 breakall">- Vala는 GNOME 개발자들에게 모던한 프로그래밍 언어 기능을 제공하는 것을 목표로 하는 프로그래밍 언어  
+- C로 작성된 애플리케이션 및 라이...</a></div><div class="topicinfo"><span id="tp14232">3</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote14232"></span> | <a href="topic?id=14232" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=14231</id>
         <link href="https://news.hada.io/topic?id=14231"/>
         <updated>2024-04-09T05:11:49.444Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14231"><a class="upvote" href="javascript:vote(14231, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/howto1000labs/posts/95e80a67" rel="nofollow" id="tr20"><h1>쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=14231" class="c99 breakall">✅ 커버링은?  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14231"><a class="upvote" href="javascript:vote(14231, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/howto1000labs/posts/95e80a67" rel="nofollow" id="tr18"><h1>쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=14231" class="c99 breakall">✅ 커버링은?  
   
 - 문 앞에 쓰레기를 내놓으면 수거해가는 서비스. (문 앞에 내놓기만하면 끝)  
-- 시작: 코로나19 -' 배달 증가 -' 쓰레기 증...</a></div><div class="topicinfo"><span id="tp14231">2</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 22시간전<span id="unvote14231"></span> | <a href="topic?id=14231" class="u">댓글과 토론</a></div>]]></content>
+- 시작: 코로나19 -' 배달 증가 -' 쓰레기 증...</a></div><div class="topicinfo"><span id="tp14231">3</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 22시간전<span id="unvote14231"></span> | <a href="topic?id=14231" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Otter - Go를 위한 고성능 인-메모리 캐시 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://github.com/maypok86/otter</id>
-        <link href="https://github.com/maypok86/otter"/>
-        <updated>2024-04-10T01:48:34.886Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr1"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
-- Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
-- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">3</span> points by <a href="/user?id=xguru">xguru</a> 46분전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=14208</id>
+        <link href="https://news.hada.io/topic?id=14208"/>
+        <updated>2024-04-08T01:50:29.770Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14208"><a class="upvote" href="javascript:vote(14208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hrishioa/lumentis" rel="nofollow" id="tr19"><h1>lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성</h1></a> <span class="topicurl">(github.com/hrishioa)</span></div><div class="topicdesc"><a href="topic?id=14208" class="c99 breakall">- 회의 녹취록과 대용량 비정형 문서에서 포괄적이고 읽기 쉬운 문서를 생성해주는 도구   
+- 동작방식 : 실행해서 문서 자료를 넣고, 테마와 오...</a></div><div class="topicinfo"><span id="tp14208">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14208"></span> | <a href="topic?id=14208" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=14148</id>
+        <link href="https://news.hada.io/topic?id=14148"/>
+        <updated>2024-04-07T11:10:52.809Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14148"><a class="upvote" href="javascript:vote(14148, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/amalshaji/portr" rel="nofollow" id="tr20"><h1>Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스</h1></a> <span class="topicurl">(github.com/amalshaji)</span></div><div class="topicdesc"><a href="topic?id=14148" class="c99 breakall">- 로컬 HTTP 및 TCP 연결을 공용 인터넷에 노출할 수 있는 터널 솔루션  
+  - 내부에서 SSH 원격 포트 포워딩을 사용하여 연결을 안전하게 터널링...</a></div><div class="topicinfo"><span id="tp14148">30</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14148"></span> | <a href="topic?id=14148" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 인텔 Gaudi 3 AI 가속기 출시 (GeekNews ─ 메인 원문)]]></title>
         <id>https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html</id>
         <link href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html"/>
         <updated>2024-04-10T01:48:34.886Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr2"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr1"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
   - 2024년 4월 9일 애리조나 주 피닉스에서 열린 Intel Vision 행사에서 Intel Gaudi 3 AI 가속기가 발표됨
-  - ...</a></div><div class="topicinfo"><span id="tp14240">2</span> points by <a href="/user?id=neo">neo</a> 47분전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
+  - ...</a></div><div class="topicinfo"><span id="tp14240">4</span> points by <a href="/user?id=neo">neo</a> 1시간전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otter - Go를 위한 고성능 인-메모리 캐시 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://github.com/maypok86/otter</id>
+        <link href="https://github.com/maypok86/otter"/>
+        <updated>2024-04-10T01:48:34.886Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr2"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
+- Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
+- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기 (GeekNews ─ 메인 원문)]]></title>
@@ -200,7 +200,7 @@
         <link href="https://github.com/andreasfertig/cppinsights"/>
         <updated>2024-04-09T01:48:06.888Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14223"><a class="upvote" href="javascript:vote(14223, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andreasfertig/cppinsights" rel="nofollow" id="tr3"><h1>C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기</h1></a> <span class="topicurl">(github.com/andreasfertig)</span></div><div class="topicdesc"><a href="topic?id=14223" class="c99 breakall">- Clang 기반의 소스-투-소스 변환 도구  
-- C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">22</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
+- C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">23</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: AI에 패한 후 프로 바둑 기사들, 더 뛰어나고 창의적으로 변화 (GeekNews ─ 메인 원문)]]></title>
@@ -230,21 +230,21 @@
 - 1000 라인 정도의 파일 한개로 GPT-2(CPU...</a></div><div class="topicinfo"><span id="tp14228">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14228"></span> | <a href="topic?id=14228" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/</id>
-        <link href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"/>
-        <updated>2024-04-10T01:48:34.892Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr7"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
-- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 33분전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크 (GeekNews ─ 메인 원문)]]></title>
         <id>https://github.com/mobile-dev-inc/maestro</id>
         <link href="https://github.com/mobile-dev-inc/maestro"/>
         <updated>2024-04-09T01:48:06.895Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14216"><a class="upvote" href="javascript:vote(14216, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mobile-dev-inc/maestro" rel="nofollow" id="tr8"><h1>GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크</h1></a> <span class="topicurl">(github.com/mobile-dev-inc)</span></div><div class="topicdesc"><a href="topic?id=14216" class="c99 breakall">- 모바일 앱의 UI 테스트를 자동화하는 가장 쉬운 방법  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14216"><a class="upvote" href="javascript:vote(14216, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mobile-dev-inc/maestro" rel="nofollow" id="tr7"><h1>GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크</h1></a> <span class="topicurl">(github.com/mobile-dev-inc)</span></div><div class="topicdesc"><a href="topic?id=14216" class="c99 breakall">- 모바일 앱의 UI 테스트를 자동화하는 가장 쉬운 방법  
 - UI 요소의 불안정성에 대한 내재적 허용오차를 가짐  
   - UI 요소가 항상 예상한 위...</a></div><div class="topicinfo"><span id="tp14216">12</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14216"></span> | <a href="topic?id=14216" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/</id>
+        <link href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"/>
+        <updated>2024-04-10T01:48:34.892Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr8"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
+- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 ML/AI/Data 업계 지도와 최신 트렌드 (GeekNews ─ 메인 원문)]]></title>
@@ -286,7 +286,7 @@
         <link href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962"/>
         <updated>2024-04-10T00:53:06.139Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14234"><a class="upvote" href="javascript:vote(14234, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962" rel="nofollow" id="tr13"><h1>GN⁺: 진정한 개방형 LLM, Hello OLMo 등장</h1></a> <span class="topicurl">(blog.allenai.org)</span></div><div class="topicdesc"><a href="topic?id=14234" class="c99 breakall">- AI2에서 OLMo 7B 모델을 공개함. 이는 사전 학습 데이터와 학습 코드를 함께 공개한 진정한 의미의 오픈 소스 대규모 언어 모델임.
-  - 연구자와...</a></div><div class="topicinfo"><span id="tp14234">3</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote14234"></span> | <a href="topic?id=14234" class="u">댓글 1개</a></div>]]></content>
+  - 연구자와...</a></div><div class="topicinfo"><span id="tp14234">3</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote14234"></span> | <a href="topic?id=14234" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 우리나라 영화 명대사 Web, API (GeekNews ─ 메인 원문)]]></title>
@@ -296,7 +296,7 @@
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14213"><a class="upvote" href="javascript:vote(14213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14213" rel="nofollow" id="tr14"><h1>Show GN: 우리나라 영화 명대사 Web, API</h1></a> <span class="topicurl">(klassic-quote.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=14213" class="c99 breakall">가볍게 만들어본 웹페이지 입니다. 재미로 봐주세요~  
   
 `타짜, 신세계, 범죄와의 전쟁` 명대사를 모아둔 API 입니다.  
-수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 8개</a></div>]]></content>
+수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Spotify, 천 번 미만 스트리밍 곡에 대한 수익 창출 중단 (GeekNews ─ 메인 원문)]]></title>
@@ -307,63 +307,63 @@
 - 이 새로운 정책은 2024년 4월 1일부터 모든 아티스트...</a></div><div class="topicinfo"><span id="tp14222">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14222"></span> | <a href="topic?id=14222" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Vala 프로그래밍 언어 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://vala.dev/</id>
-        <link href="https://vala.dev/"/>
-        <updated>2024-04-10T00:53:06.144Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14232"><a class="upvote" href="javascript:vote(14232, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vala.dev/" rel="nofollow" id="tr16"><h1>GN⁺: Vala 프로그래밍 언어</h1></a> <span class="topicurl">(vala.dev)</span></div><div class="topicdesc"><a href="topic?id=14232" class="c99 breakall">- Vala는 GNOME 개발자들에게 모던한 프로그래밍 언어 기능을 제공하는 것을 목표로 하는 프로그래밍 언어  
-- C로 작성된 애플리케이션 및 라이...</a></div><div class="topicinfo"><span id="tp14232">3</span> points by <a href="/user?id=neo">neo</a> 21시간전<span id="unvote14232"></span> | <a href="topic?id=14232" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://github.com/hrishioa/lumentis</id>
-        <link href="https://github.com/hrishioa/lumentis"/>
-        <updated>2024-04-08T01:50:33.797Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14208"><a class="upvote" href="javascript:vote(14208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hrishioa/lumentis" rel="nofollow" id="tr17"><h1>lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성</h1></a> <span class="topicurl">(github.com/hrishioa)</span></div><div class="topicdesc"><a href="topic?id=14208" class="c99 breakall">- 회의 녹취록과 대용량 비정형 문서에서 포괄적이고 읽기 쉬운 문서를 생성해주는 도구   
-- 동작방식 : 실행해서 문서 자료를 넣고, 테마와 오...</a></div><div class="topicinfo"><span id="tp14208">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14208"></span> | <a href="topic?id=14208" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정 (GeekNews ─ 메인 원문)]]></title>
         <id>https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week</id>
         <link href="https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week"/>
         <updated>2024-04-09T00:53:24.430Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14215"><a class="upvote" href="javascript:vote(14215, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week" rel="nofollow" id="tr18"><h1>GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정</h1></a> <span class="topicurl">(theinformation.com)</span></div><div class="topicdesc"><a href="topic?id=14215" class="c99 breakall">- Llama 3의 가장 큰 버전은 올 여름 출시 예정이며, 작은 두 모델은 다음 주에 출시될 예정임  
-- 작은 모델의 출시는 Llama 3에 대한 기대감을 ...</a></div><div class="topicinfo"><span id="tp14215">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14215"></span> | <a href="topic?id=14215" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14215"><a class="upvote" href="javascript:vote(14215, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week" rel="nofollow" id="tr16"><h1>GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정</h1></a> <span class="topicurl">(theinformation.com)</span></div><div class="topicdesc"><a href="topic?id=14215" class="c99 breakall">- Llama 3의 가장 큰 버전은 올 여름 출시 예정이며, 작은 두 모델은 다음 주에 출시될 예정임  
+- 작은 모델의 출시는 Llama 3에 대한 기대감을 ...</a></div><div class="topicinfo"><span id="tp14215">4</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14215"></span> | <a href="topic?id=14215" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://github.com/amalshaji/portr</id>
-        <link href="https://github.com/amalshaji/portr"/>
-        <updated>2024-04-07T11:10:56.879Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14148"><a class="upvote" href="javascript:vote(14148, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/amalshaji/portr" rel="nofollow" id="tr19"><h1>Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스</h1></a> <span class="topicurl">(github.com/amalshaji)</span></div><div class="topicdesc"><a href="topic?id=14148" class="c99 breakall">- 로컬 HTTP 및 TCP 연결을 공용 인터넷에 노출할 수 있는 터널 솔루션  
-  - 내부에서 SSH 원격 포트 포워딩을 사용하여 연결을 안전하게 터널링...</a></div><div class="topicinfo"><span id="tp14148">30</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14148"></span> | <a href="topic?id=14148" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: Vala 프로그래밍 언어 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://vala.dev/</id>
+        <link href="https://vala.dev/"/>
+        <updated>2024-04-10T00:53:06.144Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14232"><a class="upvote" href="javascript:vote(14232, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vala.dev/" rel="nofollow" id="tr17"><h1>GN⁺: Vala 프로그래밍 언어</h1></a> <span class="topicurl">(vala.dev)</span></div><div class="topicdesc"><a href="topic?id=14232" class="c99 breakall">- Vala는 GNOME 개발자들에게 모던한 프로그래밍 언어 기능을 제공하는 것을 목표로 하는 프로그래밍 언어  
+- C로 작성된 애플리케이션 및 라이...</a></div><div class="topicinfo"><span id="tp14232">3</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote14232"></span> | <a href="topic?id=14232" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리 (GeekNews ─ 메인 원문)]]></title>
         <id>https://maily.so/howto1000labs/posts/95e80a67</id>
         <link href="https://maily.so/howto1000labs/posts/95e80a67"/>
         <updated>2024-04-09T05:11:53.411Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14231"><a class="upvote" href="javascript:vote(14231, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/howto1000labs/posts/95e80a67" rel="nofollow" id="tr20"><h1>쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=14231" class="c99 breakall">✅ 커버링은?  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14231"><a class="upvote" href="javascript:vote(14231, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/howto1000labs/posts/95e80a67" rel="nofollow" id="tr18"><h1>쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=14231" class="c99 breakall">✅ 커버링은?  
   
 - 문 앞에 쓰레기를 내놓으면 수거해가는 서비스. (문 앞에 내놓기만하면 끝)  
-- 시작: 코로나19 -' 배달 증가 -' 쓰레기 증...</a></div><div class="topicinfo"><span id="tp14231">2</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 22시간전<span id="unvote14231"></span> | <a href="topic?id=14231" class="u">댓글과 토론</a></div>]]></content>
+- 시작: 코로나19 -' 배달 증가 -' 쓰레기 증...</a></div><div class="topicinfo"><span id="tp14231">3</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 22시간전<span id="unvote14231"></span> | <a href="topic?id=14231" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://github.com/hrishioa/lumentis</id>
+        <link href="https://github.com/hrishioa/lumentis"/>
+        <updated>2024-04-08T01:50:33.797Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14208"><a class="upvote" href="javascript:vote(14208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hrishioa/lumentis" rel="nofollow" id="tr19"><h1>lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성</h1></a> <span class="topicurl">(github.com/hrishioa)</span></div><div class="topicdesc"><a href="topic?id=14208" class="c99 breakall">- 회의 녹취록과 대용량 비정형 문서에서 포괄적이고 읽기 쉬운 문서를 생성해주는 도구   
+- 동작방식 : 실행해서 문서 자료를 넣고, 테마와 오...</a></div><div class="topicinfo"><span id="tp14208">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14208"></span> | <a href="topic?id=14208" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://github.com/amalshaji/portr</id>
+        <link href="https://github.com/amalshaji/portr"/>
+        <updated>2024-04-07T11:10:56.879Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14148"><a class="upvote" href="javascript:vote(14148, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/amalshaji/portr" rel="nofollow" id="tr20"><h1>Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스</h1></a> <span class="topicurl">(github.com/amalshaji)</span></div><div class="topicdesc"><a href="topic?id=14148" class="c99 breakall">- 로컬 HTTP 및 TCP 연결을 공용 인터넷에 노출할 수 있는 터널 솔루션  
+  - 내부에서 SSH 원격 포트 포워딩을 사용하여 연결을 안전하게 터널링...</a></div><div class="topicinfo"><span id="tp14148">30</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14148"></span> | <a href="topic?id=14148" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=14243</id>
         <link href="https://news.hada.io/topic?id=14243"/>
-        <updated>2024-04-10T01:48:38.909Z</updated>
+        <updated>2024-04-10T01:48:30.682Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr1"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
-- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 33분전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
+- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Otter - Go를 위한 고성능 인-메모리 캐시 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=14241</id>
         <link href="https://news.hada.io/topic?id=14241"/>
-        <updated>2024-04-10T01:48:38.909Z</updated>
+        <updated>2024-04-10T01:48:30.670Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr2"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
 - Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
-- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">3</span> points by <a href="/user?id=xguru">xguru</a> 46분전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
+- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리 (GeekNews ─ 최신글)]]></title>
@@ -373,7 +373,7 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14231"><a class="upvote" href="javascript:vote(14231, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/howto1000labs/posts/95e80a67" rel="nofollow" id="tr3"><h1>쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=14231" class="c99 breakall">✅ 커버링은?  
   
 - 문 앞에 쓰레기를 내놓으면 수거해가는 서비스. (문 앞에 내놓기만하면 끝)  
-- 시작: 코로나19 -' 배달 증가 -' 쓰레기 증...</a></div><div class="topicinfo"><span id="tp14231">2</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 22시간전<span id="unvote14231"></span> | <a href="topic?id=14231" class="u">댓글과 토론</a></div>]]></content>
+- 시작: 코로나19 -' 배달 증가 -' 쓰레기 증...</a></div><div class="topicinfo"><span id="tp14231">3</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 22시간전<span id="unvote14231"></span> | <a href="topic?id=14231" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[llm.c - raw C/CUDA 로 LLM 훈련하기 (GeekNews ─ 최신글)]]></title>
@@ -390,7 +390,7 @@
         <link href="https://news.hada.io/topic?id=14223"/>
         <updated>2024-04-09T01:48:02.600Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14223"><a class="upvote" href="javascript:vote(14223, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andreasfertig/cppinsights" rel="nofollow" id="tr5"><h1>C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기</h1></a> <span class="topicurl">(github.com/andreasfertig)</span></div><div class="topicdesc"><a href="topic?id=14223" class="c99 breakall">- Clang 기반의 소스-투-소스 변환 도구  
-- C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">22</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
+- C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">23</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chisel - HTTP를 통해 전송되는 빠른 TCP/UDP 터널 (GeekNews ─ 최신글)]]></title>
@@ -408,7 +408,7 @@
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14213"><a class="upvote" href="javascript:vote(14213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14213" rel="nofollow" id="tr7"><h1>Show GN: 우리나라 영화 명대사 Web, API</h1></a> <span class="topicurl">(klassic-quote.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=14213" class="c99 breakall">가볍게 만들어본 웹페이지 입니다. 재미로 봐주세요~  
   
 `타짜, 신세계, 범죄와의 전쟁` 명대사를 모아둔 API 입니다.  
-수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 8개</a></div>]]></content>
+수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동일한 비용으로 리포트 요청 10배 처리하기: 적절한 공수로 Throughput 을 많이 끌어올릴 방법은 없을까? (GeekNews ─ 최신글)]]></title>
@@ -517,22 +517,22 @@
 # 개방형스러운(Ope...</a></div><div class="topicinfo"><span id="tp14160">9</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14160"></span> | <a href="topic?id=14160" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Otter - Go를 위한 고성능 인-메모리 캐시 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://github.com/maypok86/otter</id>
-        <link href="https://github.com/maypok86/otter"/>
-        <updated>2024-04-10T01:48:42.769Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr1"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
-- Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
-- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">3</span> points by <a href="/user?id=xguru">xguru</a> 46분전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: 인텔 Gaudi 3 AI 가속기 출시 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html</id>
         <link href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html"/>
-        <updated>2024-04-10T01:48:42.770Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr2"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
+        <updated>2024-04-10T01:48:34.886Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr1"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
   - 2024년 4월 9일 애리조나 주 피닉스에서 열린 Intel Vision 행사에서 Intel Gaudi 3 AI 가속기가 발표됨
-  - ...</a></div><div class="topicinfo"><span id="tp14240">2</span> points by <a href="/user?id=neo">neo</a> 47분전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
+  - ...</a></div><div class="topicinfo"><span id="tp14240">4</span> points by <a href="/user?id=neo">neo</a> 1시간전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otter - Go를 위한 고성능 인-메모리 캐시 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://github.com/maypok86/otter</id>
+        <link href="https://github.com/maypok86/otter"/>
+        <updated>2024-04-10T01:48:34.886Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr2"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
+- Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
+- 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기 (GeekNews ─ 최신글 원문)]]></title>
@@ -540,7 +540,7 @@
         <link href="https://github.com/andreasfertig/cppinsights"/>
         <updated>2024-04-09T01:48:06.888Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14223"><a class="upvote" href="javascript:vote(14223, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andreasfertig/cppinsights" rel="nofollow" id="tr3"><h1>C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기</h1></a> <span class="topicurl">(github.com/andreasfertig)</span></div><div class="topicdesc"><a href="topic?id=14223" class="c99 breakall">- Clang 기반의 소스-투-소스 변환 도구  
-- C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">22</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
+- C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">23</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: AI에 패한 후 프로 바둑 기사들, 더 뛰어나고 창의적으로 변화 (GeekNews ─ 최신글 원문)]]></title>
@@ -570,21 +570,21 @@
 - 1000 라인 정도의 파일 한개로 GPT-2(CPU...</a></div><div class="topicinfo"><span id="tp14228">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14228"></span> | <a href="topic?id=14228" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/</id>
-        <link href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"/>
-        <updated>2024-04-10T01:48:42.778Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr7"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
-- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 33분전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://github.com/mobile-dev-inc/maestro</id>
         <link href="https://github.com/mobile-dev-inc/maestro"/>
         <updated>2024-04-09T01:48:06.895Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14216"><a class="upvote" href="javascript:vote(14216, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mobile-dev-inc/maestro" rel="nofollow" id="tr8"><h1>GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크</h1></a> <span class="topicurl">(github.com/mobile-dev-inc)</span></div><div class="topicdesc"><a href="topic?id=14216" class="c99 breakall">- 모바일 앱의 UI 테스트를 자동화하는 가장 쉬운 방법  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14216"><a class="upvote" href="javascript:vote(14216, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mobile-dev-inc/maestro" rel="nofollow" id="tr7"><h1>GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크</h1></a> <span class="topicurl">(github.com/mobile-dev-inc)</span></div><div class="topicdesc"><a href="topic?id=14216" class="c99 breakall">- 모바일 앱의 UI 테스트를 자동화하는 가장 쉬운 방법  
 - UI 요소의 불안정성에 대한 내재적 허용오차를 가짐  
   - UI 요소가 항상 예상한 위...</a></div><div class="topicinfo"><span id="tp14216">12</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14216"></span> | <a href="topic?id=14216" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/</id>
+        <link href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"/>
+        <updated>2024-04-10T01:48:34.892Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14243"><a class="upvote" href="javascript:vote(14243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" rel="nofollow" id="tr8"><h1>워드프레스 개발사 Automattic, 안드로이드용 iMessage로 유명해진 Beeper를 인수</h1></a> <span class="topicurl">(blog.beeper.com)</span></div><div class="topicdesc"><a href="topic?id=14243" class="c99 breakall">- Beeper는 14개 채팅을 통합하는 유니버설 채팅앱을 만드는 회사   
+- 최근 안드로이드용 iMessage인 Beeper Mini를 만들었다가 애플한테 차단당...</a></div><div class="topicinfo"><span id="tp14243">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14243"></span> | <a href="topic?id=14243" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 ML/AI/Data 업계 지도와 최신 트렌드 (GeekNews ─ 최신글 원문)]]></title>
@@ -626,7 +626,7 @@
         <link href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962"/>
         <updated>2024-04-10T00:53:06.139Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14234"><a class="upvote" href="javascript:vote(14234, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962" rel="nofollow" id="tr13"><h1>GN⁺: 진정한 개방형 LLM, Hello OLMo 등장</h1></a> <span class="topicurl">(blog.allenai.org)</span></div><div class="topicdesc"><a href="topic?id=14234" class="c99 breakall">- AI2에서 OLMo 7B 모델을 공개함. 이는 사전 학습 데이터와 학습 코드를 함께 공개한 진정한 의미의 오픈 소스 대규모 언어 모델임.
-  - 연구자와...</a></div><div class="topicinfo"><span id="tp14234">3</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote14234"></span> | <a href="topic?id=14234" class="u">댓글 1개</a></div>]]></content>
+  - 연구자와...</a></div><div class="topicinfo"><span id="tp14234">3</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote14234"></span> | <a href="topic?id=14234" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 우리나라 영화 명대사 Web, API (GeekNews ─ 최신글 원문)]]></title>
@@ -636,7 +636,7 @@
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14213"><a class="upvote" href="javascript:vote(14213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14213" rel="nofollow" id="tr14"><h1>Show GN: 우리나라 영화 명대사 Web, API</h1></a> <span class="topicurl">(klassic-quote.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=14213" class="c99 breakall">가볍게 만들어본 웹페이지 입니다. 재미로 봐주세요~  
   
 `타짜, 신세계, 범죄와의 전쟁` 명대사를 모아둔 API 입니다.  
-수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 8개</a></div>]]></content>
+수집하는 재미가 있...</a></div><div class="topicinfo"><span id="tp14213">9</span> points by <a href="/user?id=gudrb963">gudrb963</a> 2일전<span id="unvote14213"></span> | <a href="topic?id=14213" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Spotify, 천 번 미만 스트리밍 곡에 대한 수익 창출 중단 (GeekNews ─ 최신글 원문)]]></title>
@@ -647,46 +647,46 @@
 - 이 새로운 정책은 2024년 4월 1일부터 모든 아티스트...</a></div><div class="topicinfo"><span id="tp14222">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14222"></span> | <a href="topic?id=14222" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Vala 프로그래밍 언어 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://vala.dev/</id>
-        <link href="https://vala.dev/"/>
-        <updated>2024-04-10T00:53:06.144Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14232"><a class="upvote" href="javascript:vote(14232, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vala.dev/" rel="nofollow" id="tr16"><h1>GN⁺: Vala 프로그래밍 언어</h1></a> <span class="topicurl">(vala.dev)</span></div><div class="topicdesc"><a href="topic?id=14232" class="c99 breakall">- Vala는 GNOME 개발자들에게 모던한 프로그래밍 언어 기능을 제공하는 것을 목표로 하는 프로그래밍 언어  
-- C로 작성된 애플리케이션 및 라이...</a></div><div class="topicinfo"><span id="tp14232">3</span> points by <a href="/user?id=neo">neo</a> 21시간전<span id="unvote14232"></span> | <a href="topic?id=14232" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://github.com/hrishioa/lumentis</id>
-        <link href="https://github.com/hrishioa/lumentis"/>
-        <updated>2024-04-08T01:50:33.797Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14208"><a class="upvote" href="javascript:vote(14208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hrishioa/lumentis" rel="nofollow" id="tr17"><h1>lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성</h1></a> <span class="topicurl">(github.com/hrishioa)</span></div><div class="topicdesc"><a href="topic?id=14208" class="c99 breakall">- 회의 녹취록과 대용량 비정형 문서에서 포괄적이고 읽기 쉬운 문서를 생성해주는 도구   
-- 동작방식 : 실행해서 문서 자료를 넣고, 테마와 오...</a></div><div class="topicinfo"><span id="tp14208">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14208"></span> | <a href="topic?id=14208" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week</id>
         <link href="https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week"/>
         <updated>2024-04-09T00:53:24.430Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14215"><a class="upvote" href="javascript:vote(14215, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week" rel="nofollow" id="tr18"><h1>GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정</h1></a> <span class="topicurl">(theinformation.com)</span></div><div class="topicdesc"><a href="topic?id=14215" class="c99 breakall">- Llama 3의 가장 큰 버전은 올 여름 출시 예정이며, 작은 두 모델은 다음 주에 출시될 예정임  
-- 작은 모델의 출시는 Llama 3에 대한 기대감을 ...</a></div><div class="topicinfo"><span id="tp14215">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14215"></span> | <a href="topic?id=14215" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14215"><a class="upvote" href="javascript:vote(14215, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week" rel="nofollow" id="tr16"><h1>GN⁺: Meta, 다음 주에 Llama 3의 소형 버전 출시 예정</h1></a> <span class="topicurl">(theinformation.com)</span></div><div class="topicdesc"><a href="topic?id=14215" class="c99 breakall">- Llama 3의 가장 큰 버전은 올 여름 출시 예정이며, 작은 두 모델은 다음 주에 출시될 예정임  
+- 작은 모델의 출시는 Llama 3에 대한 기대감을 ...</a></div><div class="topicinfo"><span id="tp14215">4</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14215"></span> | <a href="topic?id=14215" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://github.com/amalshaji/portr</id>
-        <link href="https://github.com/amalshaji/portr"/>
-        <updated>2024-04-07T11:10:56.879Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14148"><a class="upvote" href="javascript:vote(14148, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/amalshaji/portr" rel="nofollow" id="tr19"><h1>Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스</h1></a> <span class="topicurl">(github.com/amalshaji)</span></div><div class="topicdesc"><a href="topic?id=14148" class="c99 breakall">- 로컬 HTTP 및 TCP 연결을 공용 인터넷에 노출할 수 있는 터널 솔루션  
-  - 내부에서 SSH 원격 포트 포워딩을 사용하여 연결을 안전하게 터널링...</a></div><div class="topicinfo"><span id="tp14148">30</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14148"></span> | <a href="topic?id=14148" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: Vala 프로그래밍 언어 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://vala.dev/</id>
+        <link href="https://vala.dev/"/>
+        <updated>2024-04-10T00:53:06.144Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14232"><a class="upvote" href="javascript:vote(14232, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vala.dev/" rel="nofollow" id="tr17"><h1>GN⁺: Vala 프로그래밍 언어</h1></a> <span class="topicurl">(vala.dev)</span></div><div class="topicdesc"><a href="topic?id=14232" class="c99 breakall">- Vala는 GNOME 개발자들에게 모던한 프로그래밍 언어 기능을 제공하는 것을 목표로 하는 프로그래밍 언어  
+- C로 작성된 애플리케이션 및 라이...</a></div><div class="topicinfo"><span id="tp14232">3</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote14232"></span> | <a href="topic?id=14232" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://maily.so/howto1000labs/posts/95e80a67</id>
         <link href="https://maily.so/howto1000labs/posts/95e80a67"/>
         <updated>2024-04-09T05:11:53.411Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14231"><a class="upvote" href="javascript:vote(14231, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/howto1000labs/posts/95e80a67" rel="nofollow" id="tr20"><h1>쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=14231" class="c99 breakall">✅ 커버링은?  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14231"><a class="upvote" href="javascript:vote(14231, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/howto1000labs/posts/95e80a67" rel="nofollow" id="tr18"><h1>쓰레기를 수거할 수록 성장하는 스타트업 성장 스토리</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=14231" class="c99 breakall">✅ 커버링은?  
   
 - 문 앞에 쓰레기를 내놓으면 수거해가는 서비스. (문 앞에 내놓기만하면 끝)  
-- 시작: 코로나19 -' 배달 증가 -' 쓰레기 증...</a></div><div class="topicinfo"><span id="tp14231">2</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 22시간전<span id="unvote14231"></span> | <a href="topic?id=14231" class="u">댓글과 토론</a></div>]]></content>
+- 시작: 코로나19 -' 배달 증가 -' 쓰레기 증...</a></div><div class="topicinfo"><span id="tp14231">3</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 22시간전<span id="unvote14231"></span> | <a href="topic?id=14231" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://github.com/hrishioa/lumentis</id>
+        <link href="https://github.com/hrishioa/lumentis"/>
+        <updated>2024-04-08T01:50:33.797Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14208"><a class="upvote" href="javascript:vote(14208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/hrishioa/lumentis" rel="nofollow" id="tr19"><h1>lumentis - AI로 녹취록과 비정형 정보에서 자동 문서 생성</h1></a> <span class="topicurl">(github.com/hrishioa)</span></div><div class="topicdesc"><a href="topic?id=14208" class="c99 breakall">- 회의 녹취록과 대용량 비정형 문서에서 포괄적이고 읽기 쉬운 문서를 생성해주는 도구   
+- 동작방식 : 실행해서 문서 자료를 넣고, 테마와 오...</a></div><div class="topicinfo"><span id="tp14208">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14208"></span> | <a href="topic?id=14208" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://github.com/amalshaji/portr</id>
+        <link href="https://github.com/amalshaji/portr"/>
+        <updated>2024-04-07T11:10:56.879Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14148"><a class="upvote" href="javascript:vote(14148, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/amalshaji/portr" rel="nofollow" id="tr20"><h1>Portr - 소규모 팀을 위한 ngrok 대체제 오픈소스</h1></a> <span class="topicurl">(github.com/amalshaji)</span></div><div class="topicdesc"><a href="topic?id=14148" class="c99 breakall">- 로컬 HTTP 및 TCP 연결을 공용 인터넷에 노출할 수 있는 터널 솔루션  
+  - 내부에서 SSH 원격 포트 포워딩을 사용하여 연결을 안전하게 터널링...</a></div><div class="topicinfo"><span id="tp14148">30</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14148"></span> | <a href="topic?id=14148" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 우리나라 영화 명대사 Web, API (GeekNews ─ Show)]]></title>
@@ -745,18 +745,18 @@
         <content type="html"><![CDATA[kenuheo]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 제22대 총선 여론조사 통합지표 (Poll Aggregator) (GeekNews ─ Show)]]></title>
-        <id>https://news.hada.io/topic?id=14017</id>
-        <link href="https://news.hada.io/topic?id=14017"/>
-        <updated>2024-04-07T11:11:09.593Z</updated>
-        <content type="html"><![CDATA[politicslibrary]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Fedify: Deno로 만든 ActivityPub 서버 프레임워크 (GeekNews ─ Show)]]></title>
         <id>https://news.hada.io/topic?id=13726</id>
         <link href="https://news.hada.io/topic?id=13726"/>
         <updated>2024-04-07T11:11:09.595Z</updated>
         <content type="html"><![CDATA[hongminhee]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 제22대 총선 여론조사 통합지표 (Poll Aggregator) (GeekNews ─ Show)]]></title>
+        <id>https://news.hada.io/topic?id=14017</id>
+        <link href="https://news.hada.io/topic?id=14017"/>
+        <updated>2024-04-07T11:11:09.593Z</updated>
+        <content type="html"><![CDATA[politicslibrary]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 토글 v 0.2: 슬랙, 노션, 지메일 등 모든 앱들의 정보를 한 번에 검색, 이용할 수 있는 서비스 (GeekNews ─ Show)]]></title>
