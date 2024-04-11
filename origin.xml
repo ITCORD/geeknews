@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-04-11T01:51:06.312Z</updated>
+    <updated>2024-04-11T02:22:17.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://github.com/Filimoa/open-parse"/>
         <updated>2024-04-11T01:50:35.604Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14262"><a class="upvote" href="javascript:vote(14262, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Filimoa/open-parse" rel="nofollow" id="tr1"><h1>Open-Parse - LLM을 위한 PDF 레이아웃 분할(Chunking)</h1></a> <span class="topicurl">(github.com/Filimoa)</span></div><div class="topicdesc"><a href="topic?id=14262" class="c99 breakall">- 복잡한 문서를 사람처럼 쉽게 분할하는 라이브러리  
-- 문서 청킹은 모든 RAG의 기반이지만, 대부분의 오픈소스는 복잡한 문서 처리에 한계가 ...</a></div><div class="topicinfo"><span id="tp14262">4</span> points by <a href="/user?id=xguru">xguru</a> 35분전<span id="unvote14262"></span> | <a href="topic?id=14262" class="u">댓글과 토론</a></div>]]></content>
+- 문서 청킹은 모든 RAG의 기반이지만, 대부분의 오픈소스는 복잡한 문서 처리에 한계가 ...</a></div><div class="topicinfo"><span id="tp14262">5</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14262"></span> | <a href="topic?id=14262" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shorebird 1.0 - Flutter 앱을 위한 Code Push (핫 업데이트)]]></title>
@@ -19,30 +19,39 @@
         <link href="https://github.com/shorebirdtech/shorebird"/>
         <updated>2024-04-11T00:53:41.838Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14255"><a class="upvote" href="javascript:vote(14255, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/shorebirdtech/shorebird" rel="nofollow" id="tr2"><h1>Shorebird 1.0 - Flutter 앱을 위한 Code Push (핫 업데이트)</h1></a> <span class="topicurl">(github.com/shorebirdtech)</span></div><div class="topicdesc"><a href="topic?id=14255" class="c99 breakall">- Flutter 앱에서 Web/React Native 처럼 새로운 코드를 즉시 업데이트(Code를 Push 또는 Hot Update) 할 수 있도록 해줌   
-- 5분안에 앱에 통합...</a></div><div class="topicinfo"><span id="tp14255">4</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14255"></span> | <a href="topic?id=14255" class="u">댓글과 토론</a></div>]]></content>
+- 5분안에 앱에 통합...</a></div><div class="topicinfo"><span id="tp14255">5</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote14255"></span> | <a href="topic?id=14255" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 트위터의 x.com으로의 전환, 피싱 사기꾼들에게는 선물]]></title>
+        <id>https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/</id>
+        <link href="https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/"/>
+        <updated>2024-04-11T02:21:45.428Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14258"><a class="upvote" href="javascript:vote(14258, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/" rel="nofollow" id="tr3"><h1>GN⁺: 트위터의 x.com으로의 전환, 피싱 사기꾼들에게는 선물</h1></a> <span class="topicurl">(krebsonsecurity.com)</span></div><div class="topicdesc"><a href="topic?id=14258" class="c99 breakall">- Twitter/X의 링크 수정 기능의 부작용:
+  - 4월 9일부터 Twitter/X는 "twitter.com"을 언급하는 링크를 자동으로 "x.com"으로 수정하기 시작함
+ ...</a></div><div class="topicinfo"><span id="tp14258">2</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote14258"></span> | <a href="topic?id=14258" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic, Claude에 함수 호출(Tool Use) 기능 베타 공개]]></title>
         <id>https://docs.anthropic.com/claude/docs/tool-use</id>
         <link href="https://docs.anthropic.com/claude/docs/tool-use"/>
         <updated>2024-04-11T00:53:41.838Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14257"><a class="upvote" href="javascript:vote(14257, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.anthropic.com/claude/docs/tool-use" rel="nofollow" id="tr3"><h1>Anthropic, Claude에 함수 호출(Tool Use) 기능 베타 공개</h1></a> <span class="topicurl">(docs.anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=14257" class="c99 breakall">- 이제 Claude LLM이 외부 클라이언트 및 기능과 상호 작용가능하게 되어 커스텀 도구를 장착 가능   
-  - 사용자 프롬프트와 Tool 정보를 보내면...</a></div><div class="topicinfo"><span id="tp14257">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14257"></span> | <a href="topic?id=14257" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14257"><a class="upvote" href="javascript:vote(14257, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.anthropic.com/claude/docs/tool-use" rel="nofollow" id="tr4"><h1>Anthropic, Claude에 함수 호출(Tool Use) 기능 베타 공개</h1></a> <span class="topicurl">(docs.anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=14257" class="c99 breakall">- 이제 Claude LLM이 외부 클라이언트 및 기능과 상호 작용가능하게 되어 커스텀 도구를 장착 가능   
+  - 사용자 프롬프트와 Tool 정보를 보내면...</a></div><div class="topicinfo"><span id="tp14257">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote14257"></span> | <a href="topic?id=14257" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 캐나다, AI 우위 확보를 위한 3.2조원 규모의 정부 투자 발표]]></title>
         <id>https://www.pm.gc.ca/en/news/news-releases/2024/04/07/securing-canadas-ai</id>
         <link href="https://www.pm.gc.ca/en/news/news-releases/2024/04/07/securing-canadas-ai"/>
         <updated>2024-04-11T01:50:35.619Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14254"><a class="upvote" href="javascript:vote(14254, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.pm.gc.ca/en/news/news-releases/2024/04/07/securing-canadas-ai" rel="nofollow" id="tr4"><h1>GN⁺: 캐나다, AI 우위 확보를 위한 3.2조원 규모의 정부 투자 발표</h1></a> <span class="topicurl">(pm.gc.ca)</span></div><div class="topicdesc"><a href="topic?id=14254" class="c99 breakall">- 캐나다 정부, 2024년 예산안에서 AI 경쟁력 강화를 위한 $2.4(3.2조원) 규모의 지원책 발표  
-- 이는 캐나다의 AI 분야 일자리 증가를 가속화하...</a></div><div class="topicinfo"><span id="tp14254">2</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote14254"></span> | <a href="topic?id=14254" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14254"><a class="upvote" href="javascript:vote(14254, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.pm.gc.ca/en/news/news-releases/2024/04/07/securing-canadas-ai" rel="nofollow" id="tr5"><h1>GN⁺: 캐나다, AI 우위 확보를 위한 3.2조원 규모의 정부 투자 발표</h1></a> <span class="topicurl">(pm.gc.ca)</span></div><div class="topicdesc"><a href="topic?id=14254" class="c99 breakall">- 캐나다 정부, 2024년 예산안에서 AI 경쟁력 강화를 위한 $2.4(3.2조원) 규모의 지원책 발표  
+- 이는 캐나다의 AI 분야 일자리 증가를 가속화하...</a></div><div class="topicinfo"><span id="tp14254">2</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote14254"></span> | <a href="topic?id=14254" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Microsoft는 Windows on Arm이 마침내 Apple을 이길 수 있다고 확신하고 있음]]></title>
         <id>https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite</id>
         <link href="https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite"/>
         <updated>2024-04-11T01:50:35.620Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14253"><a class="upvote" href="javascript:vote(14253, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite" rel="nofollow" id="tr5"><h1>GN⁺: Microsoft는 Windows on Arm이 마침내 Apple을 이길 수 있다고 확신하고 있음</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=14253" class="c99 breakall"># Microsoft, 퀄컴과 협력하여 윈도우 온 ARM으로 애플에 도전  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14253"><a class="upvote" href="javascript:vote(14253, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite" rel="nofollow" id="tr6"><h1>GN⁺: Microsoft는 Windows on Arm이 마침내 Apple을 이길 수 있다고 확신하고 있음</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=14253" class="c99 breakall"># Microsoft, 퀄컴과 협력하여 윈도우 온 ARM으로 애플에 도전  
   
 - 마이크로소프트는 다음 달 시애틀 행사에서 "AI PC"에 대한 비전을 공개할...</a></div><div class="topicinfo"><span id="tp14253">2</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote14253"></span> | <a href="topic?id=14253" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -51,58 +60,66 @@
         <id>https://github.com/maypok86/otter</id>
         <link href="https://github.com/maypok86/otter"/>
         <updated>2024-04-10T01:48:34.886Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr6"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14241"><a class="upvote" href="javascript:vote(14241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/maypok86/otter" rel="nofollow" id="tr7"><h1>Otter - Go를 위한 고성능 인-메모리 캐시</h1></a> <span class="topicurl">(github.com/maypok86)</span></div><div class="topicdesc"><a href="topic?id=14241" class="c99 breakall"># 제작 동기  
 - Go 캐시 라이브러리 중에는 진정한 Contention-free가 없음. 대부분은 뮤텍스와 제거 정책이 있는 맵에 불과  
 - 이는 다른 언...</a></div><div class="topicinfo"><span id="tp14241">14</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14241"></span> | <a href="topic?id=14241" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI, GPT-4 Turbo with Vision 일반 공개(GA)]]></title>
+        <id>https://platform.openai.com/docs/models/continuous-model-upgrades</id>
+        <link href="https://platform.openai.com/docs/models/continuous-model-upgrades"/>
+        <updated>2024-04-11T02:21:45.434Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14265"><a class="upvote" href="javascript:vote(14265, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://platform.openai.com/docs/models/continuous-model-upgrades" rel="nofollow" id="tr8"><h1>OpenAI, GPT-4 Turbo with Vision 일반 공개(GA)</h1></a> <span class="topicurl">(platform.openai.com)</span></div><div class="topicdesc"><a href="topic?id=14265" class="c99 breakall">- 이제 gpt-4-turbo 가 최신 비전 포함 모델인 gpt-4-turbo-2024-04-09를 지칭   
+- 비전 모델에서 JSON 및 함수 기능도 지원 시작 (이미지에서 ...</a></div><div class="topicinfo"><span id="tp14265">1</span> point by <a href="/user?id=xguru">xguru</a> 6분전<span id="unvote14265"></span> | <a href="topic?id=14265" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TSAC - Low Bitrate 오디오 압축 기술]]></title>
         <id>https://bellard.org/tsac/</id>
         <link href="https://bellard.org/tsac/"/>
         <updated>2024-04-11T01:50:35.622Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14264"><a class="upvote" href="javascript:vote(14264, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bellard.org/tsac/" rel="nofollow" id="tr7"><h1>TSAC - Low Bitrate 오디오 압축 기술</h1></a> <span class="topicurl">(bellard.org)</span></div><div class="topicdesc"><a href="topic?id=14264" class="c99 breakall">- FFMPEG/QEMU를 만든 Bellard의 새로운 프로젝트   
-- TSAC는 오디오 압축 유틸리티로, 44.1kHz에서 모노 5.5kb/s 또는 스테레오 7.5kb/s와 같은...</a></div><div class="topicinfo"><span id="tp14264">1</span> point by <a href="/user?id=xguru">xguru</a> 5분전<span id="unvote14264"></span> | <a href="topic?id=14264" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14264"><a class="upvote" href="javascript:vote(14264, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bellard.org/tsac/" rel="nofollow" id="tr9"><h1>TSAC - Low Bitrate 오디오 압축 기술</h1></a> <span class="topicurl">(bellard.org)</span></div><div class="topicdesc"><a href="topic?id=14264" class="c99 breakall">- FFMPEG/QEMU를 만든 Bellard의 새로운 프로젝트   
+- TSAC는 오디오 압축 유틸리티로, 44.1kHz에서 모노 5.5kb/s 또는 스테레오 7.5kb/s와 같은...</a></div><div class="topicinfo"><span id="tp14264">1</span> point by <a href="/user?id=xguru">xguru</a> 36분전<span id="unvote14264"></span> | <a href="topic?id=14264" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무료로 SEO 키워드 추출 및 전략 활용 방법]]></title>
         <id>https://dev.to/promry/how-to-extract-seo-keywords-and-seo-strategies-for-free-1gpc</id>
         <link href="https://dev.to/promry/how-to-extract-seo-keywords-and-seo-strategies-for-free-1gpc"/>
         <updated>2024-04-11T01:50:35.624Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14263"><a class="upvote" href="javascript:vote(14263, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dev.to/promry/how-to-extract-seo-keywords-and-seo-strategies-for-free-1gpc" rel="nofollow" id="tr8"><h1>무료로 SEO 키워드 추출 및 전략 활용 방법</h1></a> <span class="topicurl">(dev.to)</span></div><div class="topicdesc"><a href="topic?id=14263" class="c99 breakall">1. 주요 키워드 생성하기  
-블로그의 가시성과 참여도를 급상승시키기 위해 맞춤화된 가장 많이 검색되고 영향력이 있는 주요 키워드를 찾을 수 ...</a></div><div class="topicinfo"><span id="tp14263">1</span> point by <a href="/user?id=promry">promry</a> 11분전<span id="unvote14263"></span> | <a href="topic?id=14263" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14263"><a class="upvote" href="javascript:vote(14263, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dev.to/promry/how-to-extract-seo-keywords-and-seo-strategies-for-free-1gpc" rel="nofollow" id="tr10"><h1>무료로 SEO 키워드 추출 및 전략 활용 방법</h1></a> <span class="topicurl">(dev.to)</span></div><div class="topicdesc"><a href="topic?id=14263" class="c99 breakall">1. 주요 키워드 생성하기  
+블로그의 가시성과 참여도를 급상승시키기 위해 맞춤화된 가장 많이 검색되고 영향력이 있는 주요 키워드를 찾을 수 ...</a></div><div class="topicinfo"><span id="tp14263">1</span> point by <a href="/user?id=promry">promry</a> 42분전<span id="unvote14263"></span> | <a href="topic?id=14263" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기]]></title>
         <id>https://github.com/andreasfertig/cppinsights</id>
         <link href="https://github.com/andreasfertig/cppinsights"/>
         <updated>2024-04-09T01:48:06.888Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14223"><a class="upvote" href="javascript:vote(14223, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andreasfertig/cppinsights" rel="nofollow" id="tr9"><h1>C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기</h1></a> <span class="topicurl">(github.com/andreasfertig)</span></div><div class="topicdesc"><a href="topic?id=14223" class="c99 breakall">- Clang 기반의 소스-투-소스 변환 도구  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14223"><a class="upvote" href="javascript:vote(14223, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andreasfertig/cppinsights" rel="nofollow" id="tr11"><h1>C++ Insights – 컴파일러의 눈으로 소스 코드 살펴보기</h1></a> <span class="topicurl">(github.com/andreasfertig)</span></div><div class="topicdesc"><a href="topic?id=14223" class="c99 breakall">- Clang 기반의 소스-투-소스 변환 도구  
 - C++ 개발자들에게 컴파일러가 배후에서 소스 코드를 어떻게 이해하고 변환하는지를 시각적으로 보여...</a></div><div class="topicinfo"><span id="tp14223">23</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14223"></span> | <a href="topic?id=14223" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 인텔 Gaudi 3 AI 가속기 출시]]></title>
-        <id>https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html</id>
-        <link href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html"/>
-        <updated>2024-04-10T01:48:34.886Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr10"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
-  - 2024년 4월 9일 애리조나 주 피닉스에서 열린 Intel Vision 행사에서 Intel Gaudi 3 AI 가속기가 발표됨
-  - ...</a></div><div class="topicinfo"><span id="tp14240">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시리즈 B, 카나리아 새들의 떼죽음]]></title>
         <id>https://hiddenest.dev/series-b-the-death-of-canary</id>
         <link href="https://hiddenest.dev/series-b-the-death-of-canary"/>
         <updated>2024-04-10T14:11:25.939Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14250"><a class="upvote" href="javascript:vote(14250, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hiddenest.dev/series-b-the-death-of-canary" rel="nofollow" id="tr11"><h1>시리즈 B, 카나리아 새들의 떼죽음</h1></a> <span class="topicurl">(hiddenest.dev)</span></div><div class="topicdesc"><a href="topic?id=14250" class="c99 breakall">시리즈B 스타트업에서 반복적으로 볼 수 있는 문제 혹은 모습에 관해 작성한 글.  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14250"><a class="upvote" href="javascript:vote(14250, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hiddenest.dev/series-b-the-death-of-canary" rel="nofollow" id="tr12"><h1>시리즈 B, 카나리아 새들의 떼죽음</h1></a> <span class="topicurl">(hiddenest.dev)</span></div><div class="topicdesc"><a href="topic?id=14250" class="c99 breakall">시리즈B 스타트업에서 반복적으로 볼 수 있는 문제 혹은 모습에 관해 작성한 글.  
   
-회사 안팎에서 위험을 감지해 내부에 이야기하지만 잘 받...</a></div><div class="topicinfo"><span id="tp14250">3</span> points by <a href="/user?id=hiddenest">hiddenest</a> 12시간전<span id="unvote14250"></span> | <a href="topic?id=14250" class="u">댓글과 토론</a></div>]]></content>
+회사 안팎에서 위험을 감지해 내부에 이야기하지만 잘 받...</a></div><div class="topicinfo"><span id="tp14250">3</span> points by <a href="/user?id=hiddenest">hiddenest</a> 13시간전<span id="unvote14250"></span> | <a href="topic?id=14250" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 인텔 Gaudi 3 AI 가속기 출시]]></title>
+        <id>https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html</id>
+        <link href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html"/>
+        <updated>2024-04-10T01:48:34.886Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14240"><a class="upvote" href="javascript:vote(14240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html" rel="nofollow" id="tr13"><h1>GN⁺: 인텔 Gaudi 3 AI 가속기 출시</h1></a> <span class="topicurl">(intel.com)</span></div><div class="topicdesc"><a href="topic?id=14240" class="c99 breakall">- Intel Gaudi 3 AI 가속기 소개
+  - 2024년 4월 9일 애리조나 주 피닉스에서 열린 Intel Vision 행사에서 Intel Gaudi 3 AI 가속기가 발표됨
+  - ...</a></div><div class="topicinfo"><span id="tp14240">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14240"></span> | <a href="topic?id=14240" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chisel - HTTP를 통해 전송되는 빠른 TCP/UDP 터널]]></title>
         <id>https://github.com/jpillora/chisel</id>
         <link href="https://github.com/jpillora/chisel"/>
         <updated>2024-04-09T00:53:24.430Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14218"><a class="upvote" href="javascript:vote(14218, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jpillora/chisel" rel="nofollow" id="tr12"><h1>Chisel - HTTP를 통해 전송되는 빠른 TCP/UDP 터널</h1></a> <span class="topicurl">(github.com/jpillora)</span></div><div class="topicdesc"><a href="topic?id=14218" class="c99 breakall">- 주로 방화벽을 통과하는 데 유용하지만 네트워크에 보안 엔드포인트를 제공하는 데에도 사용  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14218"><a class="upvote" href="javascript:vote(14218, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jpillora/chisel" rel="nofollow" id="tr14"><h1>Chisel - HTTP를 통해 전송되는 빠른 TCP/UDP 터널</h1></a> <span class="topicurl">(github.com/jpillora)</span></div><div class="topicdesc"><a href="topic?id=14218" class="c99 breakall">- 주로 방화벽을 통과하는 데 유용하지만 네트워크에 보안 엔드포인트를 제공하는 데에도 사용  
 - 클라이언트와 서버를 모두 포함하는 단일 실행...</a></div><div class="topicinfo"><span id="tp14218">18</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14218"></span> | <a href="topic?id=14218" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -110,7 +127,7 @@
         <id>https://github.com/karpathy/llm.c</id>
         <link href="https://github.com/karpathy/llm.c"/>
         <updated>2024-04-09T01:48:06.897Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14228"><a class="upvote" href="javascript:vote(14228, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/karpathy/llm.c" rel="nofollow" id="tr13"><h1>llm.c - raw C/CUDA 로 LLM 훈련하기</h1></a> <span class="topicurl">(github.com/karpathy)</span></div><div class="topicdesc"><a href="topic?id=14228" class="c99 breakall">- Andrej Karpathy가 순수 C/CUDA로 만든 간단한 LLM 훈련 코드   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14228"><a class="upvote" href="javascript:vote(14228, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/karpathy/llm.c" rel="nofollow" id="tr15"><h1>llm.c - raw C/CUDA 로 LLM 훈련하기</h1></a> <span class="topicurl">(github.com/karpathy)</span></div><div class="topicdesc"><a href="topic?id=14228" class="c99 breakall">- Andrej Karpathy가 순수 C/CUDA로 만든 간단한 LLM 훈련 코드   
 - PyTorch/cPython이 필요없음   
 - 1000 라인 정도의 파일 한개로 GPT-2(CPU...</a></div><div class="topicinfo"><span id="tp14228">16</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14228"></span> | <a href="topic?id=14228" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -119,7 +136,7 @@
         <id>https://www.henrikkarlsson.xyz/p/go</id>
         <link href="https://www.henrikkarlsson.xyz/p/go"/>
         <updated>2024-04-09T02:20:09.540Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14227"><a class="upvote" href="javascript:vote(14227, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.henrikkarlsson.xyz/p/go" rel="nofollow" id="tr14"><h1>GN⁺: AI에 패한 후 프로 바둑 기사들, 더 뛰어나고 창의적으로 변화</h1></a> <span class="topicurl">(henrikkarlsson.xyz)</span></div><div class="topicdesc"><a href="topic?id=14227" class="c99 breakall"># 인간 바둑 기사들의 AI 등장 후 실력 향상  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14227"><a class="upvote" href="javascript:vote(14227, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.henrikkarlsson.xyz/p/go" rel="nofollow" id="tr16"><h1>GN⁺: AI에 패한 후 프로 바둑 기사들, 더 뛰어나고 창의적으로 변화</h1></a> <span class="topicurl">(henrikkarlsson.xyz)</span></div><div class="topicdesc"><a href="topic?id=14227" class="c99 breakall"># 인간 바둑 기사들의 AI 등장 후 실력 향상  
   
 - 1950년대부터 2010년대 중반까지 프로 바둑 기사들의 실력은 거의 정체되어 있었음  
 - 201...</a></div><div class="topicinfo"><span id="tp14227">15</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14227"></span> | <a href="topic?id=14227" class="u">댓글 6개</a></div>]]></content>
@@ -129,7 +146,7 @@
         <id>https://github.com/mobile-dev-inc/maestro</id>
         <link href="https://github.com/mobile-dev-inc/maestro"/>
         <updated>2024-04-09T01:48:06.895Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14216"><a class="upvote" href="javascript:vote(14216, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mobile-dev-inc/maestro" rel="nofollow" id="tr15"><h1>GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크</h1></a> <span class="topicurl">(github.com/mobile-dev-inc)</span></div><div class="topicdesc"><a href="topic?id=14216" class="c99 breakall">- 모바일 앱의 UI 테스트를 자동화하는 가장 쉬운 방법  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14216"><a class="upvote" href="javascript:vote(14216, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mobile-dev-inc/maestro" rel="nofollow" id="tr17"><h1>GN⁺: Maestro - 모바일 앱 자동화 UI 테스팅 프레임워크</h1></a> <span class="topicurl">(github.com/mobile-dev-inc)</span></div><div class="topicdesc"><a href="topic?id=14216" class="c99 breakall">- 모바일 앱의 UI 테스트를 자동화하는 가장 쉬운 방법  
 - UI 요소의 불안정성에 대한 내재적 허용오차를 가짐  
   - UI 요소가 항상 예상한 위...</a></div><div class="topicinfo"><span id="tp14216">14</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14216"></span> | <a href="topic?id=14216" class="u">댓글 3개</a></div>]]></content>
     </entry>
@@ -138,7 +155,7 @@
         <id>https://mattturck.com/mad2024/</id>
         <link href="https://mattturck.com/mad2024/"/>
         <updated>2024-04-08T02:21:46.644Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14209"><a class="upvote" href="javascript:vote(14209, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mattturck.com/mad2024/" rel="nofollow" id="tr16"><h1>2024년 ML/AI/Data 업계 지도와 최신 트렌드</h1></a> <span class="topicurl">(mattturck.com)</span></div><div class="topicdesc"><a href="topic?id=14209" class="c99 breakall">이미지 한장으로 정리한 2024년 MAD(ML,AI,Data) 업계 지도 및 올해의 24가지 테마 설명  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14209"><a class="upvote" href="javascript:vote(14209, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mattturck.com/mad2024/" rel="nofollow" id="tr18"><h1>2024년 ML/AI/Data 업계 지도와 최신 트렌드</h1></a> <span class="topicurl">(mattturck.com)</span></div><div class="topicdesc"><a href="topic?id=14209" class="c99 breakall">이미지 한장으로 정리한 2024년 MAD(ML,AI,Data) 업계 지도 및 올해의 24가지 테마 설명  
   
 # [Part I : Landscape]  
   
@@ -149,28 +166,14 @@
         <id>https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html</id>
         <link href="https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html"/>
         <updated>2024-04-10T08:17:49.776Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14246"><a class="upvote" href="javascript:vote(14246, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html" rel="nofollow" id="tr17"><h1>Rust 표준 라이브러리를 위한 보안 권고 (CVE-2024-24576)</h1></a> <span class="topicurl">(blog.rust-lang.org)</span></div><div class="topicdesc"><a href="topic?id=14246" class="c99 breakall">러스트 표준 라이브러리에 대한 보안 권고가 발표되었습니다. 이는 CVE-2024-24576으로 식별되는 취약점과 관련이 있으며, 특히 Windows에서 .bat ...</a></div><div class="topicinfo"><span id="tp14246">3</span> points by <a href="/user?id=ragingwind">ragingwind</a> 18시간전<span id="unvote14246"></span> | <a href="topic?id=14246" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14246"><a class="upvote" href="javascript:vote(14246, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html" rel="nofollow" id="tr19"><h1>Rust 표준 라이브러리를 위한 보안 권고 (CVE-2024-24576)</h1></a> <span class="topicurl">(blog.rust-lang.org)</span></div><div class="topicdesc"><a href="topic?id=14246" class="c99 breakall">러스트 표준 라이브러리에 대한 보안 권고가 발표되었습니다. 이는 CVE-2024-24576으로 식별되는 취약점과 관련이 있으며, 특히 Windows에서 .bat ...</a></div><div class="topicinfo"><span id="tp14246">3</span> points by <a href="/user?id=ragingwind">ragingwind</a> 18시간전<span id="unvote14246"></span> | <a href="topic?id=14246" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: DrawDB - 온라인 데이터베이스 다이어그램 편집기 오픈소스]]></title>
         <id>https://github.com/drawdb-io/drawdb</id>
         <link href="https://github.com/drawdb-io/drawdb"/>
         <updated>2024-04-08T02:21:46.644Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14197"><a class="upvote" href="javascript:vote(14197, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/drawdb-io/drawdb" rel="nofollow" id="tr18"><h1>GN⁺: DrawDB - 온라인 데이터베이스 다이어그램 편집기 오픈소스</h1></a> <span class="topicurl">(github.com/drawdb-io)</span></div><div class="topicdesc"><a href="topic?id=14197" class="c99 breakall">- 사용자 친화적이고 직관적인 온라인 데이터베이스 엔티티 관계(ER) 설계 도구 및 SQL 생성기   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14197"><a class="upvote" href="javascript:vote(14197, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/drawdb-io/drawdb" rel="nofollow" id="tr20"><h1>GN⁺: DrawDB - 온라인 데이터베이스 다이어그램 편집기 오픈소스</h1></a> <span class="topicurl">(github.com/drawdb-io)</span></div><div class="topicdesc"><a href="topic?id=14197" class="c99 breakall">- 사용자 친화적이고 직관적인 온라인 데이터베이스 엔티티 관계(ER) 설계 도구 및 SQL 생성기   
 - 5개 DB 지원 : MySQL, PostgreSQL, SQLite, M...</a></div><div class="topicinfo"><span id="tp14197">22</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote14197"></span> | <a href="topic?id=14197" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta, 차세대 학습 및 추론 가속기 MTIAv2 공개]]></title>
-        <id>https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/?utm_source=pytorchkr</id>
-        <link href="https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/?utm_source=pytorchkr"/>
-        <updated>2024-04-10T17:10:39.623Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14252"><a class="upvote" href="javascript:vote(14252, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/?utm_source=pytorchkr" rel="nofollow" id="tr19"><h1>Meta, 차세대 학습 및 추론 가속기 MTIAv2 공개</h1></a> <span class="topicurl">(ai.meta.com)</span></div><div class="topicdesc"><a href="topic?id=14252" class="c99 breakall">Meta가 지난 해 공개한, 자체 개발한 AI 추론 가속기인 MTIA(Meta Training and Inference Accelerator) v1의 차세대 버전 MTIAv2를 공개하였습니...</a></div><div class="topicinfo"><span id="tp14252">1</span> point by <a href="/user?id=ninebow">ninebow</a> 9시간전<span id="unvote14252"></span> | <a href="topic?id=14252" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loki by LibrAI - 사실 여부 검증 프로세스를 자동화하는 오픈소스 도구]]></title>
-        <id>https://github.com/Libr-AI/OpenFactVerification</id>
-        <link href="https://github.com/Libr-AI/OpenFactVerification"/>
-        <updated>2024-04-08T00:54:30.412Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14195"><a class="upvote" href="javascript:vote(14195, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Libr-AI/OpenFactVerification" rel="nofollow" id="tr20"><h1>Loki by LibrAI - 사실 여부 검증 프로세스를 자동화하는 오픈소스 도구</h1></a> <span class="topicurl">(github.com/Libr-AI)</span></div><div class="topicdesc"><a href="topic?id=14195" class="c99 breakall">- 긴 텍스트를 개별 주장으로 분석하고, 검증할 만한 가치가 있는지 평가하고, 증거 검색을 위한 쿼리를 생성하고, 증거를 크롤링하고, 궁극적으로...</a></div><div class="topicinfo"><span id="tp14195">16</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14195"></span> | <a href="topic?id=14195" class="u">댓글 3개</a></div>]]></content>
     </entry>
 </feed>
