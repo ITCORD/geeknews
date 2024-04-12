@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-04-12T13:13:21.282Z</updated>
+    <updated>2024-04-12T14:12:12.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: UI로부터 대응되는 소스코드를 찾아주는 vscode extension]]></title>
+        <id>https://news.hada.io/topic?id=14286</id>
+        <link href="https://news.hada.io/topic?id=14286"/>
+        <updated>2024-04-12T14:11:53.715Z</updated>
+        <content type="html"><![CDATA[aliveornot]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: GCP Cloud Functions 용 ASGI application(FastAPI, Django) adapter]]></title>
+        <id>https://news.hada.io/topic?id=14288</id>
+        <link href="https://news.hada.io/topic?id=14288"/>
+        <updated>2024-04-12T14:11:53.715Z</updated>
+        <content type="html"><![CDATA[junah]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 우리나라 영화 명대사 Web, API]]></title>
         <id>https://news.hada.io/topic?id=14213</id>
@@ -130,19 +144,5 @@
         <link href="https://news.hada.io/topic?id=13079"/>
         <updated>2024-04-07T11:11:09.610Z</updated>
         <content type="html"><![CDATA[ssowonny]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 보기 힘든 유튜브 영상과 논문을 요약해주는, Lilys AI]]></title>
-        <id>https://news.hada.io/topic?id=13150</id>
-        <link href="https://news.hada.io/topic?id=13150"/>
-        <updated>2024-04-11T19:10:17.721Z</updated>
-        <content type="html"><![CDATA[yein0712]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Flow: 브레인스토밍을 위한 코파일럿]]></title>
-        <id>https://news.hada.io/topic?id=13833</id>
-        <link href="https://news.hada.io/topic?id=13833"/>
-        <updated>2024-04-07T11:11:09.604Z</updated>
-        <content type="html"><![CDATA[toebee]]></content>
     </entry>
 </feed>
