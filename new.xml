@@ -2,79 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2024-04-22T23:12:21.481Z</updated>
+    <updated>2024-04-23T00:55:23.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Penzai - 신경망 구축, 편집, 시각화를 위한 JAX 도구 키트]]></title>
+        <id>https://news.hada.io/topic?id=14456</id>
+        <link href="https://news.hada.io/topic?id=14456"/>
+        <updated>2024-04-23T00:54:53.867Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14456"><a class="upvote" href="javascript:vote(14456, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/google-deepmind/penzai" rel="nofollow" id="tr1"><h1>Penzai - 신경망 구축, 편집, 시각화를 위한 JAX 도구 키트</h1></a> <span class="topicurl">(github.com/google-deepmind)</span></div><div class="topicdesc"><a href="topic?id=14456" class="c99 breakall">- 구글 DeepMind가 발표한, 모델을 읽기 쉽고 기능적인 Pytree 데이터 구조로 작성하기 위한 JAX 라이브러리  
+- 모델이 학습된 후에도 쉽게 작업...</a></div><div class="topicinfo"><span id="tp14456">1</span> point by <a href="/user?id=xguru">xguru</a> 2분전<span id="unvote14456"></span> | <a href="topic?id=14456" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xrem - 데스크탑에서 일어난 모든 일을 기록하고 검색하게 해주는 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=14454</id>
+        <link href="https://news.hada.io/topic?id=14454"/>
+        <updated>2024-04-23T00:54:53.867Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14454"><a class="upvote" href="javascript:vote(14454, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jasonjmcghee/xrem" rel="nofollow" id="tr2"><h1>xrem - 데스크탑에서 일어난 모든 일을 기록하고 검색하게 해주는 오픈소스</h1></a> <span class="topicurl">(github.com/jasonjmcghee)</span></div><div class="topicdesc"><a href="topic?id=14454" class="c99 breakall">- 애플 실리콘 전용이었던 rem(Remember Everything)을 크로스플랫폼(Rust)으로 구현한 버전   
+- 현재 구현 상황 및 동작 방식  
+  - 시작 버튼...</a></div><div class="topicinfo"><span id="tp14454">2</span> points by <a href="/user?id=xguru">xguru</a> 13분전<span id="unvote14454"></span> | <a href="topic?id=14454" class="u">댓글 2개</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: speculative_decoding.c: llama2.c 기반으로 작성한 speculative decoding C 코드]]></title>
         <id>https://news.hada.io/topic?id=14450</id>
         <link href="https://news.hada.io/topic?id=14450"/>
         <updated>2024-04-22T06:16:31.173Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14450"><a class="upvote" href="javascript:vote(14450, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14450" rel="nofollow" id="tr1"><h1>Show GN: speculative_decoding.c: llama2.c 기반으로 작성한 speculative decoding C 코드</h1></a> <span class="topicurl">(github.com/mscheong01)</span></div><div class="topicdesc"><a href="topic?id=14450" class="c99 breakall">C 로 구현해본 간단한 speculative decoding 인퍼런스 코드입니다.  
-기반으로 한 llama2.c 와 같이 교육 목적의 단순한 코드로 작성해 보았습니...</a></div><div class="topicinfo"><span id="tp14450">2</span> points by <a href="/user?id=mscheong01">mscheong01</a> 18시간전<span id="unvote14450"></span> | <a href="topic?id=14450" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14450"><a class="upvote" href="javascript:vote(14450, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14450" rel="nofollow" id="tr3"><h1>Show GN: speculative_decoding.c: llama2.c 기반으로 작성한 speculative decoding C 코드</h1></a> <span class="topicurl">(github.com/mscheong01)</span></div><div class="topicdesc"><a href="topic?id=14450" class="c99 breakall">C 로 구현해본 간단한 speculative decoding 인퍼런스 코드입니다.  
+기반으로 한 llama2.c 와 같이 교육 목적의 단순한 코드로 작성해 보았습니...</a></div><div class="topicinfo"><span id="tp14450">3</span> points by <a href="/user?id=mscheong01">mscheong01</a> 19시간전<span id="unvote14450"></span> | <a href="topic?id=14450" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Brex vs Ramp 대전의 승자는 누구일까?]]></title>
         <id>https://news.hada.io/topic?id=14449</id>
         <link href="https://news.hada.io/topic?id=14449"/>
         <updated>2024-04-22T04:14:52.658Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14449"><a class="upvote" href="javascript:vote(14449, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pinpointresearch.substack.com/p/brex-vs-ramp" rel="nofollow" id="tr2"><h1>Brex vs Ramp 대전의 승자는 누구일까? </h1></a> <span class="topicurl">(pinpointresearch.substack.com)</span></div><div class="topicdesc"><a href="topic?id=14449" class="c99 breakall"> - Brex와 Ramp는 각각 미국에서 가장 빠르게 성장하고 있는 핀테크 스타트업들로, 최신 기술이 적용된 법인 카드를 만드는 것에서부터 시작하여 ...</a></div><div class="topicinfo"><span id="tp14449">2</span> points by <a href="/user?id=duckduckhero">duckduckhero</a> 20시간전<span id="unvote14449"></span> | <a href="topic?id=14449" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14449"><a class="upvote" href="javascript:vote(14449, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pinpointresearch.substack.com/p/brex-vs-ramp" rel="nofollow" id="tr4"><h1>Brex vs Ramp 대전의 승자는 누구일까? </h1></a> <span class="topicurl">(pinpointresearch.substack.com)</span></div><div class="topicdesc"><a href="topic?id=14449" class="c99 breakall"> - Brex와 Ramp는 각각 미국에서 가장 빠르게 성장하고 있는 핀테크 스타트업들로, 최신 기술이 적용된 법인 카드를 만드는 것에서부터 시작하여 ...</a></div><div class="topicinfo"><span id="tp14449">2</span> points by <a href="/user?id=duckduckhero">duckduckhero</a> 21시간전<span id="unvote14449"></span> | <a href="topic?id=14449" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어떤 오류가 사소한 실수인가]]></title>
         <id>https://news.hada.io/topic?id=14448</id>
         <link href="https://news.hada.io/topic?id=14448"/>
         <updated>2024-04-22T03:14:05.345Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14448"><a class="upvote" href="javascript:vote(14448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://forum.owlofsogang.com/t/topic/4689" rel="nofollow" id="tr3"><h1>어떤 오류가 사소한 실수인가</h1></a> <span class="topicurl">(forum.owlofsogang.com)</span></div><div class="topicdesc"><a href="topic?id=14448" class="c99 breakall"># 어떤 오류가 사소한 실수인가  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14448"><a class="upvote" href="javascript:vote(14448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://forum.owlofsogang.com/t/topic/4689" rel="nofollow" id="tr5"><h1>어떤 오류가 사소한 실수인가</h1></a> <span class="topicurl">(forum.owlofsogang.com)</span></div><div class="topicdesc"><a href="topic?id=14448" class="c99 breakall"># 어떤 오류가 사소한 실수인가  
   
 ## 요점  
   
-1. 어떤 정의나 증명에 있는 오류가 고치기 쉽더라도 알아차리기 어렵다면, 그 실수는 사소...</a></div><div class="topicinfo"><span id="tp14448">3</span> points by <a href="/user?id=chabulhwi">chabulhwi</a> 20시간전<span id="unvote14448"></span> | <a href="topic?id=14448" class="u">댓글과 토론</a></div>]]></content>
+1. 어떤 정의나 증명에 있는 오류가 고치기 쉽더라도 알아차리기 어렵다면, 그 실수는 사소...</a></div><div class="topicinfo"><span id="tp14448">4</span> points by <a href="/user?id=chabulhwi">chabulhwi</a> 22시간전<span id="unvote14448"></span> | <a href="topic?id=14448" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 기술 코파운더를 찾을 수 없는 이유]]></title>
         <id>https://news.hada.io/topic?id=14447</id>
         <link href="https://news.hada.io/topic?id=14447"/>
         <updated>2024-04-22T02:23:57.896Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14447"><a class="upvote" href="javascript:vote(14447, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.breakneck.dev/blog/no-tech-cofounder" rel="nofollow" id="tr4"><h1>당신이 기술 코파운더를 찾을 수 없는 이유</h1></a> <span class="topicurl">(breakneck.dev)</span></div><div class="topicdesc"><a href="topic?id=14447" class="c99 breakall">- 비기술 창업자들이 기술 공동창업자에게 기대하는 "**높은 기준**"이 찾기 어려운 가장 큰 이유 중 하나  
-  - **백엔드, 프론트엔드, 호스팅, ...</a></div><div class="topicinfo"><span id="tp14447">31</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote14447"></span> | <a href="topic?id=14447" class="u">댓글 5개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14447"><a class="upvote" href="javascript:vote(14447, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.breakneck.dev/blog/no-tech-cofounder" rel="nofollow" id="tr6"><h1>당신이 기술 코파운더를 찾을 수 없는 이유</h1></a> <span class="topicurl">(breakneck.dev)</span></div><div class="topicdesc"><a href="topic?id=14447" class="c99 breakall">- 비기술 창업자들이 기술 공동창업자에게 기대하는 "**높은 기준**"이 찾기 어려운 가장 큰 이유 중 하나  
+  - **백엔드, 프론트엔드, 호스팅, ...</a></div><div class="topicinfo"><span id="tp14447">33</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote14447"></span> | <a href="topic?id=14447" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python을 학습하기에 좋은 고품질 스크립트/작은 라이브러리는?]]></title>
         <id>https://news.hada.io/topic?id=14446</id>
         <link href="https://news.hada.io/topic?id=14446"/>
         <updated>2024-04-22T01:53:32.211Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14446"><a class="upvote" href="javascript:vote(14446, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40085887" rel="nofollow" id="tr5"><h1>Python을 학습하기에 좋은 고품질 스크립트/작은 라이브러리는?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=14446" class="c99 breakall">- Ask HN의 답변들 모음   
-- [Ruff(Rust로 작성된 Python Linter)](https://docs.astral.sh/ruff/) 를 통해서 Best Practice를 가장 많이 배움  ...</a></div><div class="topicinfo"><span id="tp14446">17</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote14446"></span> | <a href="topic?id=14446" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14446"><a class="upvote" href="javascript:vote(14446, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40085887" rel="nofollow" id="tr7"><h1>Python을 학습하기에 좋은 고품질 스크립트/작은 라이브러리는?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=14446" class="c99 breakall">- Ask HN의 답변들 모음   
+- [Ruff(Rust로 작성된 Python Linter)](https://docs.astral.sh/ruff/) 를 통해서 Best Practice를 가장 많이 배움  ...</a></div><div class="topicinfo"><span id="tp14446">19</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote14446"></span> | <a href="topic?id=14446" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pretzel - 데이터 탐색/시각화를 위한 오픈소스 오프라인 브라우저 기반 도구]]></title>
         <id>https://news.hada.io/topic?id=14435</id>
         <link href="https://news.hada.io/topic?id=14435"/>
         <updated>2024-04-22T00:55:53.468Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14435"><a class="upvote" href="javascript:vote(14435, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pretzelai/pretzelai" rel="nofollow" id="tr6"><h1>Pretzel - 데이터 탐색/시각화를 위한 오픈소스 오프라인 브라우저 기반 도구</h1></a> <span class="topicurl">(github.com/pretzelai)</span></div><div class="topicdesc"><a href="topic?id=14435" class="c99 breakall">- 대용량 데이터 파일을 처리할 수 있고, 브라우저에서 로컬로 실행되며, 백엔드 설정이 필요하지 않음   
-- 시각적으로 연결된 데이터 변환 블록...</a></div><div class="topicinfo"><span id="tp14435">11</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote14435"></span> | <a href="topic?id=14435" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14435"><a class="upvote" href="javascript:vote(14435, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pretzelai/pretzelai" rel="nofollow" id="tr8"><h1>Pretzel - 데이터 탐색/시각화를 위한 오픈소스 오프라인 브라우저 기반 도구</h1></a> <span class="topicurl">(github.com/pretzelai)</span></div><div class="topicdesc"><a href="topic?id=14435" class="c99 breakall">- 대용량 데이터 파일을 처리할 수 있고, 브라우저에서 로컬로 실행되며, 백엔드 설정이 필요하지 않음   
+- 시각적으로 연결된 데이터 변환 블록...</a></div><div class="topicinfo"><span id="tp14435">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14435"></span> | <a href="topic?id=14435" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[번역] Vision Transformer에 대한 시각적 설명 (A Visual Guide to Vision Transformers)]]></title>
         <id>https://news.hada.io/topic?id=14434</id>
         <link href="https://news.hada.io/topic?id=14434"/>
         <updated>2024-04-21T17:11:25.595Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14434"><a class="upvote" href="javascript:vote(14434, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/vision-transformer-a-visual-guide-to-vision-transformers/4158?utm_source=geeknews" rel="nofollow" id="tr7"><h1>[번역] Vision Transformer에 대한 시각적 설명 (A Visual Guide to Vision Transformers)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=14434" class="c99 breakall">- ℹ️ xguru님께서 소개해주신 [Visual Transformers 비쥬얼 가이드](https://news.hada.io/topic?id=14370) 글을 보고, 저자인 Data Scientist이자...</a></div><div class="topicinfo"><span id="tp14434">11</span> points by <a href="/user?id=ninebow">ninebow</a> 1일전<span id="unvote14434"></span> | <a href="topic?id=14434" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14434"><a class="upvote" href="javascript:vote(14434, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/vision-transformer-a-visual-guide-to-vision-transformers/4158?utm_source=geeknews" rel="nofollow" id="tr9"><h1>[번역] Vision Transformer에 대한 시각적 설명 (A Visual Guide to Vision Transformers)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=14434" class="c99 breakall">- ℹ️ xguru님께서 소개해주신 [Visual Transformers 비쥬얼 가이드](https://news.hada.io/topic?id=14370) 글을 보고, 저자인 Data Scientist이자...</a></div><div class="topicinfo"><span id="tp14434">11</span> points by <a href="/user?id=ninebow">ninebow</a> 1일전<span id="unvote14434"></span> | <a href="topic?id=14434" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Overture Maps Foundation에서 공개 지리공간 데이터셋의 첫 번째 베타 버전을 출시]]></title>
         <id>https://news.hada.io/topic?id=14432</id>
         <link href="https://news.hada.io/topic?id=14432"/>
         <updated>2024-04-21T11:10:15.117Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14432"><a class="upvote" href="javascript:vote(14432, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://techcrunch.com/2024/04/16/overture-maps-foundation-releases-the-first-beta-of-its-open-map-dataset/" rel="nofollow" id="tr8"><h1>Overture Maps Foundation에서 공개 지리공간 데이터셋의 첫 번째 베타 버전을 출시</h1></a> <span class="topicurl">(techcrunch.com)</span></div><div class="topicdesc"><a href="topic?id=14432" class="c99 breakall">* [Overture Maps Foundation](https://overturemaps.org/)은 공개 지리 공간 데이터셋을 구축하는 재단으로, 리눅스 재단이 주도하며 Amazon, Esr...</a></div><div class="topicinfo"><span id="tp14432">4</span> points by <a href="/user?id=depth221">depth221</a> 2일전<span id="unvote14432"></span> | <a href="topic?id=14432" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14432"><a class="upvote" href="javascript:vote(14432, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://techcrunch.com/2024/04/16/overture-maps-foundation-releases-the-first-beta-of-its-open-map-dataset/" rel="nofollow" id="tr10"><h1>Overture Maps Foundation에서 공개 지리공간 데이터셋의 첫 번째 베타 버전을 출시</h1></a> <span class="topicurl">(techcrunch.com)</span></div><div class="topicdesc"><a href="topic?id=14432" class="c99 breakall">* [Overture Maps Foundation](https://overturemaps.org/)은 공개 지리 공간 데이터셋을 구축하는 재단으로, 리눅스 재단이 주도하며 Amazon, Esr...</a></div><div class="topicinfo"><span id="tp14432">4</span> points by <a href="/user?id=depth221">depth221</a> 2일전<span id="unvote14432"></span> | <a href="topic?id=14432" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 과연 메인테이너들은 언제 활동할까?]]></title>
         <id>https://news.hada.io/topic?id=14429</id>
         <link href="https://news.hada.io/topic?id=14429"/>
         <updated>2024-04-21T06:16:21.640Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14429"><a class="upvote" href="javascript:vote(14429, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14429" rel="nofollow" id="tr9"><h1>Show GN: 과연 메인테이너들은 언제 활동할까?</h1></a> <span class="topicurl">(could-you-accept-my-pr.com)</span></div><div class="topicdesc"><a href="topic?id=14429" class="c99 breakall">취미로 오픈소스 기여를 하다 보면, 대체 언제 머지를 해줄지 기다리기만 해야하는 상황이 발생합니다.  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14429"><a class="upvote" href="javascript:vote(14429, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14429" rel="nofollow" id="tr11"><h1>Show GN: 과연 메인테이너들은 언제 활동할까?</h1></a> <span class="topicurl">(could-you-accept-my-pr.com)</span></div><div class="topicdesc"><a href="topic?id=14429" class="c99 breakall">취미로 오픈소스 기여를 하다 보면, 대체 언제 머지를 해줄지 기다리기만 해야하는 상황이 발생합니다.  
   
 이러한 문제를 해결하기 위해, 최근...</a></div><div class="topicinfo"><span id="tp14429">8</span> points by <a href="/user?id=soulee">soulee</a> 2일전<span id="unvote14429"></span> | <a href="topic?id=14429" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -83,14 +100,14 @@
         <id>https://news.hada.io/topic?id=14427</id>
         <link href="https://news.hada.io/topic?id=14427"/>
         <updated>2024-04-21T05:12:17.140Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14427"><a class="upvote" href="javascript:vote(14427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dwarkeshpatel.com/p/mark-zuckerberg" rel="nofollow" id="tr10"><h1>마크 주커버그 인터뷰 - Llama 3, 100억달러 모델을 오픈소싱한 이유</h1></a> <span class="topicurl">(dwarkeshpatel.com)</span></div><div class="topicdesc"><a href="topic?id=14427" class="c99 breakall">- Dwarkesh Patel과 인터뷰에서 Llama3, AGI를 향한 오픈소싱, 커스텀 실리콘, 스케일링에 대한 에너지 제약등을 이야기해서 전체 스크립트를 간단...</a></div><div class="topicinfo"><span id="tp14427">23</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14427"></span> | <a href="topic?id=14427" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14427"><a class="upvote" href="javascript:vote(14427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dwarkeshpatel.com/p/mark-zuckerberg" rel="nofollow" id="tr12"><h1>마크 주커버그 인터뷰 - Llama 3, 100억달러 모델을 오픈소싱한 이유</h1></a> <span class="topicurl">(dwarkeshpatel.com)</span></div><div class="topicdesc"><a href="topic?id=14427" class="c99 breakall">- Dwarkesh Patel과 인터뷰에서 Llama3, AGI를 향한 오픈소싱, 커스텀 실리콘, 스케일링에 대한 에너지 제약등을 이야기해서 전체 스크립트를 간단...</a></div><div class="topicinfo"><span id="tp14427">23</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14427"></span> | <a href="topic?id=14427" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Llama 3 는 이전 버전에 비해 검열이 심하지 않음]]></title>
         <id>https://news.hada.io/topic?id=14425</id>
         <link href="https://news.hada.io/topic?id=14425"/>
         <updated>2024-04-21T01:56:27.555Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14425"><a class="upvote" href="javascript:vote(14425, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ollama.com/blog/llama-3-is-not-very-censored" rel="nofollow" id="tr11"><h1>Llama 3 는 이전 버전에 비해 검열이 심하지 않음 </h1></a> <span class="topicurl">(ollama.com)</span></div><div class="topicdesc"><a href="topic?id=14425" class="c99 breakall">- Llama 3는 Llama 2에 비해 거부율이 1/3 이하로 훨씬 낮기 때문에 더 다양한 흥미로운 주제에 대해 토론할 수 있음   
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14425"><a class="upvote" href="javascript:vote(14425, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ollama.com/blog/llama-3-is-not-very-censored" rel="nofollow" id="tr13"><h1>Llama 3 는 이전 버전에 비해 검열이 심하지 않음 </h1></a> <span class="topicurl">(ollama.com)</span></div><div class="topicdesc"><a href="topic?id=14425" class="c99 breakall">- Llama 3는 Llama 2에 비해 거부율이 1/3 이하로 훨씬 낮기 때문에 더 다양한 흥미로운 주제에 대해 토론할 수 있음   
 - Llama 2는 답변을 거부...</a></div><div class="topicinfo"><span id="tp14425">3</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14425"></span> | <a href="topic?id=14425" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -98,7 +115,7 @@
         <id>https://news.hada.io/topic?id=14413</id>
         <link href="https://news.hada.io/topic?id=14413"/>
         <updated>2024-04-20T01:48:12.664Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14413"><a class="upvote" href="javascript:vote(14413, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/" rel="nofollow" id="tr12"><h1>Meta AI, Llama 3로 업그레이드 되다</h1></a> <span class="topicurl">(about.fb.com)</span></div><div class="topicdesc"><a href="topic?id=14413" class="c99 breakall">- Llama 3를 통해 Meta AI가 가장 지능적이면서도 무료인, 세계 최고 수준의 AI 어시스턴트가 되었음  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14413"><a class="upvote" href="javascript:vote(14413, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/" rel="nofollow" id="tr14"><h1>Meta AI, Llama 3로 업그레이드 되다</h1></a> <span class="topicurl">(about.fb.com)</span></div><div class="topicdesc"><a href="topic?id=14413" class="c99 breakall">- Llama 3를 통해 Meta AI가 가장 지능적이면서도 무료인, 세계 최고 수준의 AI 어시스턴트가 되었음  
    - 냉장고에 있는 재료로 저녁 식사 계...</a></div><div class="topicinfo"><span id="tp14413">5</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14413"></span> | <a href="topic?id=14413" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -106,7 +123,7 @@
         <id>https://news.hada.io/topic?id=14406</id>
         <link href="https://news.hada.io/topic?id=14406"/>
         <updated>2024-04-20T01:48:12.664Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14406"><a class="upvote" href="javascript:vote(14406, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4" rel="nofollow" id="tr13"><h1>Reddit이 구글 검색 결과를 잠식하는 중 </h1></a> <span class="topicurl">(businessinsider.com)</span></div><div class="topicdesc"><a href="topic?id=14406" class="c99 breakall"># Google의 검색 결과에 Reddit 포스트 급증  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14406"><a class="upvote" href="javascript:vote(14406, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4" rel="nofollow" id="tr15"><h1>Reddit이 구글 검색 결과를 잠식하는 중 </h1></a> <span class="topicurl">(businessinsider.com)</span></div><div class="topicdesc"><a href="topic?id=14406" class="c99 breakall"># Google의 검색 결과에 Reddit 포스트 급증  
 - Google의 AI 검색 엔진과 Reddit, Quora 같은 포럼 게시물의 부상으로 인해 SEO가 변화하고 있음...</a></div><div class="topicinfo"><span id="tp14406">7</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14406"></span> | <a href="topic?id=14406" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
@@ -114,7 +131,7 @@
         <id>https://news.hada.io/topic?id=14403</id>
         <link href="https://news.hada.io/topic?id=14403"/>
         <updated>2024-04-20T01:48:12.664Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14403"><a class="upvote" href="javascript:vote(14403, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slab.com/blog/announcing-quill-2-0/" rel="nofollow" id="tr14"><h1>오픈소스 WYSIWYG 에디터 Quill 2.0 공개</h1></a> <span class="topicurl">(slab.com)</span></div><div class="topicdesc"><a href="topic?id=14403" class="c99 breakall">- 개발자를 위한 JSON/API 기반 리치 텍스트 에디터   
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14403"><a class="upvote" href="javascript:vote(14403, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slab.com/blog/announcing-quill-2-0/" rel="nofollow" id="tr16"><h1>오픈소스 WYSIWYG 에디터 Quill 2.0 공개</h1></a> <span class="topicurl">(slab.com)</span></div><div class="topicdesc"><a href="topic?id=14403" class="c99 breakall">- 개발자를 위한 JSON/API 기반 리치 텍스트 에디터   
 - 크로스 플랫폼으로 모든 데스크탑/모바일 브라우저 지원   
 - 2.0의 변경사항   
   - ...</a></div><div class="topicinfo"><span id="tp14403">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14403"></span> | <a href="topic?id=14403" class="u">댓글과 토론</a></div>]]></content>
@@ -124,7 +141,7 @@
         <id>https://news.hada.io/topic?id=14399</id>
         <link href="https://news.hada.io/topic?id=14399"/>
         <updated>2024-04-19T01:50:31.193Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14399"><a class="upvote" href="javascript:vote(14399, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14399" id="tr15"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=14399" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14399"><a class="upvote" href="javascript:vote(14399, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14399" id="tr17"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=14399" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
   
 읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.  
 도움 요청이나 피드백 ...</a></div><div class="topicinfo"><span id="tp14399">2</span> points by <a href="/user?id=askbot">askbot</a> 4일전<span id="unvote14399"></span> | <a href="topic?id=14399" class="u">댓글과 토론</a></div>]]></content>
@@ -134,7 +151,7 @@
         <id>https://news.hada.io/topic?id=14394</id>
         <link href="https://news.hada.io/topic?id=14394"/>
         <updated>2024-04-19T00:54:13.524Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14394"><a class="upvote" href="javascript:vote(14394, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/karpathy/status/1781028605709234613" rel="nofollow" id="tr16"><h1>Meta Llama 3에 대한 Andrej Karpathy의 평가 </h1></a> <span class="topicurl">(twitter.com/karpathy)</span></div><div class="topicdesc"><a href="topic?id=14394" class="c99 breakall">- 8B, 70B(기본 모델과 파인튜닝된 모델 모두) 모델을 공개함. 이들은 각 모델 클래스에서 강력한 성능을 보여줌.  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14394"><a class="upvote" href="javascript:vote(14394, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/karpathy/status/1781028605709234613" rel="nofollow" id="tr18"><h1>Meta Llama 3에 대한 Andrej Karpathy의 평가 </h1></a> <span class="topicurl">(twitter.com/karpathy)</span></div><div class="topicdesc"><a href="topic?id=14394" class="c99 breakall">- 8B, 70B(기본 모델과 파인튜닝된 모델 모두) 모델을 공개함. 이들은 각 모델 클래스에서 강력한 성능을 보여줌.  
 - 400B 모델은 아직 학습 중...</a></div><div class="topicinfo"><span id="tp14394">14</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14394"></span> | <a href="topic?id=14394" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -142,7 +159,7 @@
         <id>https://news.hada.io/topic?id=14393</id>
         <link href="https://news.hada.io/topic?id=14393"/>
         <updated>2024-04-19T00:54:13.526Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14393"><a class="upvote" href="javascript:vote(14393, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://rileytestut.com/blog/2024/04/17/introducing-altstore-pal/" rel="nofollow" id="tr17"><h1>아이폰 최초의 대체 앱 마켓플레이스 AltStore PAL, 이제 이용 가능</h1></a> <span class="topicurl">(rileytestut.com)</span></div><div class="topicdesc"><a href="topic?id=14393" class="c99 breakall">- EU의 디지털시장법 때문에 애플이 승인해 준 최초의 외부 앱스토어  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14393"><a class="upvote" href="javascript:vote(14393, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://rileytestut.com/blog/2024/04/17/introducing-altstore-pal/" rel="nofollow" id="tr19"><h1>아이폰 최초의 대체 앱 마켓플레이스 AltStore PAL, 이제 이용 가능</h1></a> <span class="topicurl">(rileytestut.com)</span></div><div class="topicdesc"><a href="topic?id=14393" class="c99 breakall">- EU의 디지털시장법 때문에 애플이 승인해 준 최초의 외부 앱스토어  
 - 인디 개발자들을 위해 오픈소스 &amp; 크라우드펀딩으로 운영됨  
   - 1년...</a></div><div class="topicinfo"><span id="tp14393">12</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14393"></span> | <a href="topic?id=14393" class="u">댓글 2개</a></div>]]></content>
     </entry>
@@ -151,23 +168,7 @@
         <id>https://news.hada.io/topic?id=14388</id>
         <link href="https://news.hada.io/topic?id=14388"/>
         <updated>2024-04-19T00:54:13.526Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14388"><a class="upvote" href="javascript:vote(14388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.meta.com/blog/meta-llama-3/" rel="nofollow" id="tr18"><h1>Meta, Llama 3 공개 </h1></a> <span class="topicurl">(ai.meta.com)</span></div><div class="topicdesc"><a href="topic?id=14388" class="c99 breakall">- Llama 3의 첫 두 가지 모델(사전학습 및 명령어 미세조정된 8B와 70B 모델)을 공개   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14388"><a class="upvote" href="javascript:vote(14388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.meta.com/blog/meta-llama-3/" rel="nofollow" id="tr20"><h1>Meta, Llama 3 공개 </h1></a> <span class="topicurl">(ai.meta.com)</span></div><div class="topicdesc"><a href="topic?id=14388" class="c99 breakall">- Llama 3의 첫 두 가지 모델(사전학습 및 명령어 미세조정된 8B와 70B 모델)을 공개   
 - 광범위한 업계 벤치마크들에서 최첨단 성능을 보여주며...</a></div><div class="topicinfo"><span id="tp14388">21</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14388"></span> | <a href="topic?id=14388" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Androidx Jetpack Compose Compiler 소스를 Jetbrains의 Kotlin repository로 이동]]></title>
-        <id>https://news.hada.io/topic?id=14387</id>
-        <link href="https://news.hada.io/topic?id=14387"/>
-        <updated>2024-04-18T16:15:13.214Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14387"><a class="upvote" href="javascript:vote(14387, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/JetBrains/kotlin/tree/master/plugins/compose" rel="nofollow" id="tr19"><h1>Androidx Jetpack Compose Compiler 소스를 Jetbrains의 Kotlin repository로 이동</h1></a> <span class="topicurl">(github.com/JetBrains)</span></div><div class="topicdesc"><a href="topic?id=14387" class="c99 breakall">[Jetpack Compose](https://developer.android.com/develop/ui/compose)는 Kotlin기반의 선언적 UI 프레임워크 이며, Kotlin Compiler에 Compose C...</a></div><div class="topicinfo"><span id="tp14387">3</span> points by <a href="/user?id=ganadist">ganadist</a> 4일전<span id="unvote14387"></span> | <a href="topic?id=14387" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성공적인 비즈니스를 위한 프롬프트 리스트]]></title>
-        <id>https://news.hada.io/topic?id=14384</id>
-        <link href="https://news.hada.io/topic?id=14384"/>
-        <updated>2024-04-18T04:14:38.880Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14384">&nbsp;</span></div><div class="topictitle"><span id="flagged14384">[flagged] </span><h1>성공적인 비즈니스를 위한 프롬프트 리스트</h1> <span class="topicurl">(promry.com)</span></div><div class="topicdesc"><a href="topic?id=14384" class="c99 breakall">성공적인 비즈니스를 운영하는 것은 복잡할 수 있지만, 올바른 프롬프트와 방향성이 있다면 이 목표를 달성하기가 훨씬 쉬워집니다.  
-  
-세심한...</a></div><div class="topicinfo"><span id="tp14384">1</span> point by <a href="/user?id=promry">promry</a> 5일전<span id="unvote14384"></span> | <a href="topic?id=14384" class="u">댓글 2개</a></div>]]></content>
     </entry>
 </feed>
