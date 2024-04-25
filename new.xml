@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2024-04-25T15:13:45.169Z</updated>
+    <updated>2024-04-25T17:14:07.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://news.hada.io/topic?id=14502</id>
         <link href="https://news.hada.io/topic?id=14502"/>
         <updated>2024-04-25T14:09:47.196Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14502"><a class="upvote" href="javascript:vote(14502, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.unsloth.ai/blog/llama3" rel="nofollow" id="tr1"><h1>Unsloth : Finetune Llama 3 with 2x 빠르고 6x 긴 Context, 68% 적은 VRAM</h1></a> <span class="topicurl">(unsloth.ai)</span></div><div class="topicdesc"><a href="topic?id=14502" class="c99 breakall">• 대형 언어 모델을 미세 조정하는 도구인 언슬로스는 이제 메타의 최신 라마 3 모델을 지원하여 플래시 어텐션 2(FA2) 및 허깅 페이스(HF)에 비해...</a></div><div class="topicinfo"><span id="tp14502">2</span> points by <a href="/user?id=brainer">brainer</a> 1시간전<span id="unvote14502"></span> | <a href="topic?id=14502" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14502"><a class="upvote" href="javascript:vote(14502, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.unsloth.ai/blog/llama3" rel="nofollow" id="tr1"><h1>Unsloth : Finetune Llama 3 with 2x 빠르고 6x 긴 Context, 68% 적은 VRAM</h1></a> <span class="topicurl">(unsloth.ai)</span></div><div class="topicdesc"><a href="topic?id=14502" class="c99 breakall">• 대형 언어 모델을 미세 조정하는 도구인 언슬로스는 이제 메타의 최신 라마 3 모델을 지원하여 플래시 어텐션 2(FA2) 및 허깅 페이스(HF)에 비해...</a></div><div class="topicinfo"><span id="tp14502">3</span> points by <a href="/user?id=brainer">brainer</a> 3시간전<span id="unvote14502"></span> | <a href="topic?id=14502" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jina AI Reader - URL을 LLM 친화적인 입력으로 바꿔주는 도구]]></title>
@@ -18,14 +18,14 @@
         <link href="https://news.hada.io/topic?id=14498"/>
         <updated>2024-04-25T01:53:08.813Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14498"><a class="upvote" href="javascript:vote(14498, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jina-ai/reader" rel="nofollow" id="tr2"><h1>Jina AI Reader - URL을 LLM 친화적인 입력으로 바꿔주는 도구</h1></a> <span class="topicurl">(github.com/jina-ai)</span></div><div class="topicdesc"><a href="topic?id=14498" class="c99 breakall">- URL의 내용을 읽어서 LLM에 입력하기 좋은 형태로 만들어주는 오픈소스   
-- `https://r.jina.ai/https://news.hada.io` 처럼 Prefix 를 붙여서...</a></div><div class="topicinfo"><span id="tp14498">7</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote14498"></span> | <a href="topic?id=14498" class="u">댓글 1개</a></div>]]></content>
+- `https://r.jina.ai/https://news.hada.io` 처럼 Prefix 를 붙여서...</a></div><div class="topicinfo"><span id="tp14498">7</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote14498"></span> | <a href="topic?id=14498" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenELM: Open-Source Training 및 Inference Framework를 갖춘 효율적인 언어 모델 패밀리]]></title>
         <id>https://news.hada.io/topic?id=14490</id>
         <link href="https://news.hada.io/topic?id=14490"/>
         <updated>2024-04-24T16:14:44.705Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14490"><a class="upvote" href="javascript:vote(14490, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arxiv.org/abs/2404.14619" rel="nofollow" id="tr3"><h1>OpenELM: Open-Source Training 및 Inference Framework를 갖춘 효율적인 언어 모델 패밀리</h1></a> <span class="topicurl">(arxiv.org)</span></div><div class="topicdesc"><a href="topic?id=14490" class="c99 breakall">• OpenELM은 대형 언어 모델 분야에서 재현성과 투명성을 촉진하는 최첨단 개방형 언어 모델로 소개되고 있다. OpenELM은 계층별 스케일링 전략을 ...</a></div><div class="topicinfo"><span id="tp14490">2</span> points by <a href="/user?id=brainer">brainer</a> 24시간전<span id="unvote14490"></span> | <a href="topic?id=14490" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14490"><a class="upvote" href="javascript:vote(14490, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arxiv.org/abs/2404.14619" rel="nofollow" id="tr3"><h1>OpenELM: Open-Source Training 및 Inference Framework를 갖춘 효율적인 언어 모델 패밀리</h1></a> <span class="topicurl">(arxiv.org)</span></div><div class="topicdesc"><a href="topic?id=14490" class="c99 breakall">• OpenELM은 대형 언어 모델 분야에서 재현성과 투명성을 촉진하는 최첨단 개방형 언어 모델로 소개되고 있다. OpenELM은 계층별 스케일링 전략을 ...</a></div><div class="topicinfo"><span id="tp14490">2</span> points by <a href="/user?id=brainer">brainer</a> 1일전<span id="unvote14490"></span> | <a href="topic?id=14490" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CoreNet: Apple의 다양한 작업을 위한 포괄적인 심층 신경망 툴킷]]></title>
@@ -41,7 +41,7 @@
         <updated>2024-04-24T11:11:34.561Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14487"><a class="upvote" href="javascript:vote(14487, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14487" rel="nofollow" id="tr5"><h1>Show GN: Mandarin AI: 문장 구성요소와 한자 부수를 잘라 보여주며, 한자를 익히는데 도움을 주는 중국어 공부 앱</h1></a> <span class="topicurl">(translate.sh)</span></div><div class="topicdesc"><a href="topic?id=14487" class="c99 breakall">요즘 중국어를 재밌게 공부하다가, 오랜만에 스트레스 해소할겸 GPT를 이용한 앱을 하나 만들었습니다.  
   
-최근 중국어를 공부하면서, 단어를 ...</a></div><div class="topicinfo"><span id="tp14487">4</span> points by <a href="/user?id=kargnas">kargnas</a> 1일전<span id="unvote14487"></span> | <a href="topic?id=14487" class="u">댓글 1개</a></div>]]></content>
+최근 중국어를 공부하면서, 단어를 ...</a></div><div class="topicinfo"><span id="tp14487">5</span> points by <a href="/user?id=kargnas">kargnas</a> 1일전<span id="unvote14487"></span> | <a href="topic?id=14487" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초기유저를 모으는 가장 쉬운 방법과 그에 대한 고찰]]></title>
@@ -103,7 +103,7 @@
         <link href="https://news.hada.io/topic?id=14462"/>
         <updated>2024-04-23T02:23:52.176Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14462"><a class="upvote" href="javascript:vote(14462, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/TEDTalks/status/1781351036877156452" rel="nofollow" id="tr12"><h1>TED 2064 - OpenAI Sora로 만든 TED 홍보 영상</h1></a> <span class="topicurl">(twitter.com/TEDTalks)</span></div><div class="topicdesc"><a href="topic?id=14462" class="c99 breakall">- "TED 2064 - 40년후 TED는 어떤 모습일까?"  
-- 아티스트 Paul Trillo와 협력해서 OpenAI의 Text-To-Video 모델인 SORA로 생성한 1:30초짜리 동...</a></div><div class="topicinfo"><span id="tp14462">4</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14462"></span> | <a href="topic?id=14462" class="u">댓글과 토론</a></div>]]></content>
+- 아티스트 Paul Trillo와 협력해서 OpenAI의 Text-To-Video 모델인 SORA로 생성한 1:30초짜리 동...</a></div><div class="topicinfo"><span id="tp14462">5</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14462"></span> | <a href="topic?id=14462" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[py2wasm - Python to WASM 컴파일러 공개]]></title>
@@ -144,7 +144,7 @@
         <id>https://news.hada.io/topic?id=14449</id>
         <link href="https://news.hada.io/topic?id=14449"/>
         <updated>2024-04-22T04:14:52.658Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14449"><a class="upvote" href="javascript:vote(14449, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pinpointresearch.substack.com/p/brex-vs-ramp" rel="nofollow" id="tr17"><h1>Brex vs Ramp 대전의 승자는 누구일까? </h1></a> <span class="topicurl">(pinpointresearch.substack.com)</span></div><div class="topicdesc"><a href="topic?id=14449" class="c99 breakall"> - Brex와 Ramp는 각각 미국에서 가장 빠르게 성장하고 있는 핀테크 스타트업들로, 최신 기술이 적용된 법인 카드를 만드는 것에서부터 시작하여 ...</a></div><div class="topicinfo"><span id="tp14449">2</span> points by <a href="/user?id=duckduckhero">duckduckhero</a> 3일전<span id="unvote14449"></span> | <a href="topic?id=14449" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14449"><a class="upvote" href="javascript:vote(14449, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pinpointresearch.substack.com/p/brex-vs-ramp" rel="nofollow" id="tr17"><h1>Brex vs Ramp 대전의 승자는 누구일까? </h1></a> <span class="topicurl">(pinpointresearch.substack.com)</span></div><div class="topicdesc"><a href="topic?id=14449" class="c99 breakall"> - Brex와 Ramp는 각각 미국에서 가장 빠르게 성장하고 있는 핀테크 스타트업들로, 최신 기술이 적용된 법인 카드를 만드는 것에서부터 시작하여 ...</a></div><div class="topicinfo"><span id="tp14449">2</span> points by <a href="/user?id=duckduckhero">duckduckhero</a> 4일전<span id="unvote14449"></span> | <a href="topic?id=14449" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어떤 오류가 사소한 실수인가]]></title>
@@ -155,7 +155,7 @@
   
 ## 요점  
   
-1. 어떤 정의나 증명에 있는 오류가 고치기 쉽더라도 알아차리기 어렵다면, 그 실수는 사소...</a></div><div class="topicinfo"><span id="tp14448">4</span> points by <a href="/user?id=chabulhwi">chabulhwi</a> 3일전<span id="unvote14448"></span> | <a href="topic?id=14448" class="u">댓글과 토론</a></div>]]></content>
+1. 어떤 정의나 증명에 있는 오류가 고치기 쉽더라도 알아차리기 어렵다면, 그 실수는 사소...</a></div><div class="topicinfo"><span id="tp14448">4</span> points by <a href="/user?id=chabulhwi">chabulhwi</a> 4일전<span id="unvote14448"></span> | <a href="topic?id=14448" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 기술 코파운더를 찾을 수 없는 이유]]></title>
