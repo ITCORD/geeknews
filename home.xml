@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-04-27T22:12:40.013Z</updated>
+    <updated>2024-04-27T23:12:45.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -21,7 +21,7 @@
         <updated>2024-04-27T01:49:10.008Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14521"><a class="upvote" href="javascript:vote(14521, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://loglog.games/blog/leaving-rust-gamedev/" rel="nofollow" id="tr2"><h1>GN⁺: Rust로 게임 개발을 한 3년 후에 떠나며</h1></a> <span class="topicurl">(loglog.games)</span></div><div class="topicdesc"><a href="topic?id=14521" class="c99 breakall">- Rust에 익숙해지면 모든 문제가 사라질 것이라는 주장에 대해  
   - Rust에 익숙해져도 근본적인 문제는 사라지지 않음  
-  - 게임은 복잡한 ...</a></div><div class="topicinfo"><span id="tp14521">9</span> points by <a href="/user?id=neo">neo</a> 21시간전<span id="unvote14521"></span> | <a href="topic?id=14521" class="u">댓글 2개</a></div>]]></content>
+  - 게임은 복잡한 ...</a></div><div class="topicinfo"><span id="tp14521">11</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote14521"></span> | <a href="topic?id=14521" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 읽은 내용이 당신을 만든다, 기억하지 못한다 해도]]></title>
@@ -45,7 +45,7 @@
         <link href="https://news.hada.io/topic?id=14520"/>
         <updated>2024-04-27T00:53:57.892Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14520"><a class="upvote" href="javascript:vote(14520, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/basecamp/kamal" rel="nofollow" id="tr5"><h1>Kamal - 모든 곳에 웹앱을 쉽게 배포하고 관리해주는 도구</h1></a> <span class="topicurl">(github.com/basecamp)</span></div><div class="topicdesc"><a href="topic?id=14520" class="c99 breakall">- 베어 메탈 부터 클라우드 VM까지 상관없이 동일하게 SSH 키만 있으면 관리 가능  
-- 프로덕션 환경에서 웹 앱을 배포하고 관리하는 데 필요한 ...</a></div><div class="topicinfo"><span id="tp14520">7</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote14520"></span> | <a href="topic?id=14520" class="u">댓글과 토론</a></div>]]></content>
+- 프로덕션 환경에서 웹 앱을 배포하고 관리하는 데 필요한 ...</a></div><div class="topicinfo"><span id="tp14520">7</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote14520"></span> | <a href="topic?id=14520" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pico.sh - 모든 것을 SSH를 이용해서 웹서비스를 관리하는 오픈소스 모음]]></title>
@@ -132,11 +132,20 @@
 웹 기반 서비스가 많은 요즘 훨씬...</a></div><div class="topicinfo"><span id="tp14467">15</span> points by <a href="/user?id=cometkim">cometkim</a> 4일전<span id="unvote14467"></span> | <a href="topic?id=14467" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MuPDF.js - WASM을 이용한 브라우저/Node.js용 PDF 뷰어]]></title>
+        <id>https://news.hada.io/topic?id=14476</id>
+        <link href="https://news.hada.io/topic?id=14476"/>
+        <updated>2024-04-24T01:52:16.014Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14476"><a class="upvote" href="javascript:vote(14476, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ArtifexSoftware/mupdf.js" rel="nofollow" id="tr16"><h1>MuPDF.js - WASM을 이용한 브라우저/Node.js용 PDF 뷰어</h1></a> <span class="topicurl">(github.com/ArtifexSoftware)</span></div><div class="topicdesc"><a href="topic?id=14476" class="c99 breakall">- C로 작성된 경량 PDF/XPS/EPUB 뷰어인 MuPDF를 WASM으로 웹에서 사용가능하게 만들어주는 라이브러리   
+- 지원 기능   
+  - PDF를 이미지로 ...</a></div><div class="topicinfo"><span id="tp14476">13</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14476"></span> | <a href="topic?id=14476" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[React 19 Beta]]></title>
         <id>https://news.hada.io/topic?id=14514</id>
         <link href="https://news.hada.io/topic?id=14514"/>
         <updated>2024-04-26T02:22:25.799Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14514"><a class="upvote" href="javascript:vote(14514, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://react.dev/blog/2024/04/25/react-19" rel="nofollow" id="tr16"><h1>React 19 Beta</h1></a> <span class="topicurl">(react.dev)</span></div><div class="topicdesc"><a href="topic?id=14514" class="c99 breakall">새로운 기능  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14514"><a class="upvote" href="javascript:vote(14514, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://react.dev/blog/2024/04/25/react-19" rel="nofollow" id="tr17"><h1>React 19 Beta</h1></a> <span class="topicurl">(react.dev)</span></div><div class="topicdesc"><a href="topic?id=14514" class="c99 breakall">새로운 기능  
   
 - useActionState: 범용적인 Actions 케이스 대응  
 - &lt;form&gt; Action Function 지원  
@@ -147,18 +156,9 @@
         <id>https://news.hada.io/topic?id=14513</id>
         <link href="https://news.hada.io/topic?id=14513"/>
         <updated>2024-04-26T01:51:00.048Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14513"><a class="upvote" href="javascript:vote(14513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/jsr-is-not-another-package-manager" rel="nofollow" id="tr17"><h1>JSR은 또 다른 패키지 관리자가 아닌 새로운 도구입니다</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=14513" class="c99 breakall"># JSR - 자바스크립트 패키지 공유를 위한 새로운 레지스트리  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14513"><a class="upvote" href="javascript:vote(14513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/jsr-is-not-another-package-manager" rel="nofollow" id="tr18"><h1>JSR은 또 다른 패키지 관리자가 아닌 새로운 도구입니다</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=14513" class="c99 breakall"># JSR - 자바스크립트 패키지 공유를 위한 새로운 레지스트리  
   
 - 지난 몇 년 동안 yarn이나 pnpm 같은 새로운 패키지 매니저가 등장하며 패...</a></div><div class="topicinfo"><span id="tp14513">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14513"></span> | <a href="topic?id=14513" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MuPDF.js - WASM을 이용한 브라우저/Node.js용 PDF 뷰어]]></title>
-        <id>https://news.hada.io/topic?id=14476</id>
-        <link href="https://news.hada.io/topic?id=14476"/>
-        <updated>2024-04-24T01:52:16.014Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14476"><a class="upvote" href="javascript:vote(14476, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ArtifexSoftware/mupdf.js" rel="nofollow" id="tr18"><h1>MuPDF.js - WASM을 이용한 브라우저/Node.js용 PDF 뷰어</h1></a> <span class="topicurl">(github.com/ArtifexSoftware)</span></div><div class="topicdesc"><a href="topic?id=14476" class="c99 breakall">- C로 작성된 경량 PDF/XPS/EPUB 뷰어인 MuPDF를 WASM으로 웹에서 사용가능하게 만들어주는 라이브러리   
-- 지원 기능   
-  - PDF를 이미지로 ...</a></div><div class="topicinfo"><span id="tp14476">13</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14476"></span> | <a href="topic?id=14476" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마크 주커버그 인터뷰 - Llama 3, 100억달러 모델을 오픈소싱한 이유]]></title>
