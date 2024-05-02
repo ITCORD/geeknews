@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-05-02T06:16:47.518Z</updated>
+    <updated>2024-05-02T07:13:48.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,25 +11,24 @@
         <link href="https://every.to/p/you-are-the-technical-cofounder-you-need"/>
         <updated>2024-05-02T02:22:38.291Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14609"><a class="upvote" href="javascript:vote(14609, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/p/you-are-the-technical-cofounder-you-need" rel="nofollow" id="tr1"><h1>당신이 바로, 당신이 찾던 기술 코파운더에요</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14609" class="c99 breakall">- Exit한 창업자로서, 세상을 바꿀 다음 아이디어를 가지고 있다고 믿는 야심찬 기업가들이 종종 찾아옴  
-  - 그들은 아이디어를 단순한 개념 이...</a></div><div class="topicinfo"><span id="tp14609">14</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote14609"></span> | <a href="topic?id=14609" class="u">댓글 3개</a></div>]]></content>
+  - 그들은 아이디어를 단순한 개념 이...</a></div><div class="topicinfo"><span id="tp14609">15</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote14609"></span> | <a href="topic?id=14609" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인증서 문제로 인한 cdn.jsdelivr.net 접속 불능 사태]]></title>
+        <id>https://github.com/jsdelivr/jsdelivr/issues/18565</id>
+        <link href="https://github.com/jsdelivr/jsdelivr/issues/18565"/>
+        <updated>2024-05-02T06:16:15.530Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14613"><a class="upvote" href="javascript:vote(14613, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jsdelivr/jsdelivr/issues/18565" rel="nofollow" id="tr2"><h1>인증서 문제로 인한 cdn.jsdelivr.net 접속 불능 사태</h1></a> <span class="topicurl">(github.com/jsdelivr)</span></div><div class="topicdesc"><a href="topic?id=14613" class="c99 breakall">생각보다 크리티컬한 이슈인데, 별도 언급이 없는 것 같아 공유드립니다.  
+* 전 세계적으로 가장 큰 오픈소스 프로젝트 CDN 서비스인 jsDelivr의...</a></div><div class="topicinfo"><span id="tp14613">7</span> points by <a href="/user?id=blacksha">blacksha</a> 1시간전<span id="unvote14613"></span> | <a href="topic?id=14613" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Freeter - 모두를 위한 오거나이저 앱 오픈소스]]></title>
         <id>https://freeter.io/</id>
         <link href="https://freeter.io/"/>
         <updated>2024-05-02T00:54:19.405Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14598"><a class="upvote" href="javascript:vote(14598, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://freeter.io/" rel="nofollow" id="tr2"><h1>Freeter - 모두를 위한 오거나이저 앱 오픈소스</h1></a> <span class="topicurl">(freeter.io)</span></div><div class="topicdesc"><a href="topic?id=14598" class="c99 breakall">- 프로젝트 기반의 할일 관리 도구. 프로젝트와 태스크간 빠른 전환   
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14598"><a class="upvote" href="javascript:vote(14598, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://freeter.io/" rel="nofollow" id="tr3"><h1>Freeter - 모두를 위한 오거나이저 앱 오픈소스</h1></a> <span class="topicurl">(freeter.io)</span></div><div class="topicdesc"><a href="topic?id=14598" class="c99 breakall">- 프로젝트 기반의 할일 관리 도구. 프로젝트와 태스크간 빠른 전환   
 - 맥,윈,리눅스 바이너리 제공 (Typescript + Electron)  
-- 위젯으로 필...</a></div><div class="topicinfo"><span id="tp14598">9</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote14598"></span> | <a href="topic?id=14598" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Captable - 스타트업을 위한 지분 관리 플랫폼 오픈소스 (Carta/Pulley의 대체제)]]></title>
-        <id>https://github.com/captableinc/captable</id>
-        <link href="https://github.com/captableinc/captable"/>
-        <updated>2024-05-02T00:54:19.416Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14599"><a class="upvote" href="javascript:vote(14599, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/captableinc/captable" rel="nofollow" id="tr3"><h1>Captable - 스타트업을 위한 지분 관리 플랫폼 오픈소스 (Carta/Pulley의 대체제)</h1></a> <span class="topicurl">(github.com/captableinc)</span></div><div class="topicdesc"><a href="topic?id=14599" class="c99 breakall">- Cap Table 관리 플랫폼  
-  - 직원, 계약자 및 기타 이해관계자에게 주식을 쉽게 발행 및 일정 관리   
-  - 누가 회사의 지분을 몇 퍼센트 소...</a></div><div class="topicinfo"><span id="tp14599">6</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote14599"></span> | <a href="topic?id=14599" class="u">댓글과 토론</a></div>]]></content>
+- 위젯으로 필...</a></div><div class="topicinfo"><span id="tp14598">9</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote14598"></span> | <a href="topic?id=14598" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: SSH를 통해서 커피를 판매하는 새로운 스타트업]]></title>
@@ -37,28 +36,26 @@
         <link href="https://www.terminal.shop/"/>
         <updated>2024-05-02T03:13:54.589Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14600"><a class="upvote" href="javascript:vote(14600, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.terminal.shop/" rel="nofollow" id="tr4"><h1>GN⁺: SSH를 통해서 커피를 판매하는 새로운 스타트업</h1></a> <span class="topicurl">(terminal.shop)</span></div><div class="topicdesc"><a href="topic?id=14600" class="c99 breakall">- `ssh terminal.shop` 명령어로 terminal.shop에 SSH 접속해서 커피를 주문 가능   
-- 접속하면 터미널 창에서 `+` 상품 추가, `-` 상품 제거, `...</a></div><div class="topicinfo"><span id="tp14600">5</span> points by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote14600"></span> | <a href="topic?id=14600" class="u">댓글 6개</a></div>]]></content>
+- 접속하면 터미널 창에서 `+` 상품 추가, `-` 상품 제거, `...</a></div><div class="topicinfo"><span id="tp14600">7</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote14600"></span> | <a href="topic?id=14600" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 서버 업로드 없이 HEIC/HEIF를 JPG/PNG로 변환해주는 웹 앱]]></title>
-        <id>https://news.hada.io/topic?id=14597</id>
-        <link href="https://news.hada.io/topic?id=14597"/>
-        <updated>2024-05-01T13:13:22.846Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14597"><a class="upvote" href="javascript:vote(14597, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14597" rel="nofollow" id="tr5"><h1>Show GN: 서버 업로드 없이 HEIC/HEIF를 JPG/PNG로 변환해주는 웹 앱</h1></a> <span class="topicurl">(heif.pages.dev)</span></div><div class="topicdesc"><a href="topic?id=14597" class="c99 breakall">웹 브라우저에서 간단히 HEIC/HEIF 파일을 JPG/PNG로 변환하는 페이지입니다.  
-  
-  
-## 장점  
-  
-### 서버 업로드 없음  
-서버 업로드 없...</a></div><div class="topicinfo"><span id="tp14597">10</span> points by <a href="/user?id=dofuuz">dofuuz</a> 18시간전<span id="unvote14597"></span> | <a href="topic?id=14597" class="u">댓글 9개</a></div>]]></content>
+        <title type="html"><![CDATA[Captable - 스타트업을 위한 지분 관리 플랫폼 오픈소스 (Carta/Pulley의 대체제)]]></title>
+        <id>https://github.com/captableinc/captable</id>
+        <link href="https://github.com/captableinc/captable"/>
+        <updated>2024-05-02T00:54:19.416Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14599"><a class="upvote" href="javascript:vote(14599, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/captableinc/captable" rel="nofollow" id="tr5"><h1>Captable - 스타트업을 위한 지분 관리 플랫폼 오픈소스 (Carta/Pulley의 대체제)</h1></a> <span class="topicurl">(github.com/captableinc)</span></div><div class="topicdesc"><a href="topic?id=14599" class="c99 breakall">- Cap Table 관리 플랫폼  
+  - 직원, 계약자 및 기타 이해관계자에게 주식을 쉽게 발행 및 일정 관리   
+  - 누가 회사의 지분을 몇 퍼센트 소...</a></div><div class="topicinfo"><span id="tp14599">6</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote14599"></span> | <a href="topic?id=14599" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인증서 문제로 인한 cdn.jsdelivr.net 접속 불능 사태]]></title>
-        <id>https://github.com/jsdelivr/jsdelivr/issues/18565</id>
-        <link href="https://github.com/jsdelivr/jsdelivr/issues/18565"/>
-        <updated>2024-05-02T06:16:15.530Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14613"><a class="upvote" href="javascript:vote(14613, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jsdelivr/jsdelivr/issues/18565" rel="nofollow" id="tr6"><h1>인증서 문제로 인한 cdn.jsdelivr.net 접속 불능 사태</h1></a> <span class="topicurl">(github.com/jsdelivr)</span></div><div class="topicdesc"><a href="topic?id=14613" class="c99 breakall">생각보다 크리티컬한 이슈인데, 별도 언급이 없는 것 같아 공유드립니다.  
-* 전 세계적으로 가장 큰 오픈소스 프로젝트 CDN 서비스인 jsDelivr의...</a></div><div class="topicinfo"><span id="tp14613">1</span> point by <a href="/user?id=blacksha">blacksha</a> 17분전<span id="unvote14613"></span> | <a href="topic?id=14613" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Show GN: iPhone을 위한 다기능 계산기]]></title>
+        <id>https://news.hada.io/topic?id=14610</id>
+        <link href="https://news.hada.io/topic?id=14610"/>
+        <updated>2024-05-02T04:14:50.485Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14610"><a class="upvote" href="javascript:vote(14610, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14610" rel="nofollow" id="tr6"><h1>Show GN: iPhone을 위한 다기능 계산기</h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=14610" class="c99 breakall">안녕하세요!  
+  
+iPhone에 잘 어울리는 다기능 계산기를 한번 만들어봤습니다.  
+기본계산기가 워낙 마음에 드는데 사소하게 불편한 것들이 있...</a></div><div class="topicinfo"><span id="tp14610">3</span> points by <a href="/user?id=ned0909">ned0909</a> 3시간전<span id="unvote14610"></span> | <a href="topic?id=14610" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAN: 정확성과 해석성을 위한 MLP에 보다 나은 대안]]></title>
@@ -69,34 +66,37 @@
   
 • 콜모고로프-아놀드 표현 정리에서 영감을 받은 다층 지각자(MLP)의 대안으로 콜모고로프-아놀드 네트워크(KAN)가 제안된다.  
   
-• 노...</a></div><div class="topicinfo"><span id="tp14612">1</span> point by <a href="/user?id=brainer">brainer</a> 36분전<span id="unvote14612"></span> | <a href="topic?id=14612" class="u">댓글과 토론</a></div>]]></content>
+• 노...</a></div><div class="topicinfo"><span id="tp14612">2</span> points by <a href="/user?id=brainer">brainer</a> 2시간전<span id="unvote14612"></span> | <a href="topic?id=14612" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 서버 업로드 없이 HEIC/HEIF를 JPG/PNG로 변환해주는 웹 앱]]></title>
+        <id>https://news.hada.io/topic?id=14597</id>
+        <link href="https://news.hada.io/topic?id=14597"/>
+        <updated>2024-05-01T13:13:22.846Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14597"><a class="upvote" href="javascript:vote(14597, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14597" rel="nofollow" id="tr8"><h1>Show GN: 서버 업로드 없이 HEIC/HEIF를 JPG/PNG로 변환해주는 웹 앱</h1></a> <span class="topicurl">(heif.pages.dev)</span></div><div class="topicdesc"><a href="topic?id=14597" class="c99 breakall">웹 브라우저에서 간단히 HEIC/HEIF 파일을 JPG/PNG로 변환하는 페이지입니다.  
+  
+  
+## 장점  
+  
+### 서버 업로드 없음  
+서버 업로드 없...</a></div><div class="topicinfo"><span id="tp14597">11</span> points by <a href="/user?id=dofuuz">dofuuz</a> 19시간전<span id="unvote14597"></span> | <a href="topic?id=14597" class="u">댓글 9개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Llama3-gradient - LLAMA의 컨텍스트 길이를 8k에서 1m으로 확장한 모델]]></title>
         <id>https://ollama.com/library/llama3-gradient</id>
         <link href="https://ollama.com/library/llama3-gradient"/>
         <updated>2024-05-02T01:51:41.313Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14608"><a class="upvote" href="javascript:vote(14608, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ollama.com/library/llama3-gradient" rel="nofollow" id="tr8"><h1>Llama3-gradient - LLAMA의 컨텍스트 길이를 8k에서 1m으로 확장한 모델</h1></a> <span class="topicurl">(ollama.com)</span></div><div class="topicdesc"><a href="topic?id=14608" class="c99 breakall">- Gradient가 개발한 이 모델은 LLama-3 8B의 컨텍스트 길이를 8k에서 1040K 이상으로 확장  
-- SOTA LLM이 RoPE theta를 적절히 조정하여 최소한...</a></div><div class="topicinfo"><span id="tp14608">2</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote14608"></span> | <a href="topic?id=14608" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14608"><a class="upvote" href="javascript:vote(14608, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ollama.com/library/llama3-gradient" rel="nofollow" id="tr9"><h1>Llama3-gradient - LLAMA의 컨텍스트 길이를 8k에서 1m으로 확장한 모델</h1></a> <span class="topicurl">(ollama.com)</span></div><div class="topicdesc"><a href="topic?id=14608" class="c99 breakall">- Gradient가 개발한 이 모델은 LLama-3 8B의 컨텍스트 길이를 8k에서 1040K 이상으로 확장  
+- SOTA LLM이 RoPE theta를 적절히 조정하여 최소한...</a></div><div class="topicinfo"><span id="tp14608">3</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote14608"></span> | <a href="topic?id=14608" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Pyinfra: 파이썬을 활용한 인프라 자동화 도구]]></title>
         <id>https://pyinfra.com/</id>
         <link href="https://pyinfra.com/"/>
         <updated>2024-05-01T01:58:47.923Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14586"><a class="upvote" href="javascript:vote(14586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pyinfra.com/" rel="nofollow" id="tr9"><h1>GN⁺: Pyinfra: 파이썬을 활용한 인프라 자동화 도구</h1></a> <span class="topicurl">(pyinfra.com)</span></div><div class="topicdesc"><a href="topic?id=14586" class="c99 breakall">- 파이썬을 사용하여 인프라를 자동화하는 도구  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14586"><a class="upvote" href="javascript:vote(14586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pyinfra.com/" rel="nofollow" id="tr10"><h1>GN⁺: Pyinfra: 파이썬을 활용한 인프라 자동화 도구</h1></a> <span class="topicurl">(pyinfra.com)</span></div><div class="topicdesc"><a href="topic?id=14586" class="c99 breakall">- 파이썬을 사용하여 인프라를 자동화하는 도구  
 - 단일 서버에서 수천 대의 서버까지 빠르게 확장 가능  
-- 임시 명령 실행, 서비스 배포, 구...</a></div><div class="topicinfo"><span id="tp14586">11</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14586"></span> | <a href="topic?id=14586" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: iPhone을 위한 다기능 계산기]]></title>
-        <id>https://news.hada.io/topic?id=14610</id>
-        <link href="https://news.hada.io/topic?id=14610"/>
-        <updated>2024-05-02T04:14:50.485Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14610"><a class="upvote" href="javascript:vote(14610, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14610" rel="nofollow" id="tr10"><h1>Show GN: iPhone을 위한 다기능 계산기</h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=14610" class="c99 breakall">안녕하세요!  
-  
-iPhone에 잘 어울리는 다기능 계산기를 한번 만들어봤습니다.  
-기본계산기가 워낙 마음에 드는데 사소하게 불편한 것들이 있...</a></div><div class="topicinfo"><span id="tp14610">1</span> point by <a href="/user?id=ned0909">ned0909</a> 3시간전<span id="unvote14610"></span> | <a href="topic?id=14610" class="u">댓글과 토론</a></div>]]></content>
+- 임시 명령 실행, 서비스 배포, 구...</a></div><div class="topicinfo"><span id="tp14586">12</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14586"></span> | <a href="topic?id=14586" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Run0 - sudo를 대체하는 systemd 기반 도구 발표]]></title>
@@ -105,7 +105,7 @@ iPhone에 잘 어울리는 다기능 계산기를 한번 만들어봤습니다.
         <updated>2024-05-02T01:51:41.315Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14596"><a class="upvote" href="javascript:vote(14596, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mastodon.social/@pid_eins/112353324518585654" rel="nofollow" id="tr11"><h1>GN⁺: Run0 - sudo를 대체하는 systemd 기반 도구 발표 </h1></a> <span class="topicurl">(mastodon.social)</span></div><div class="topicdesc"><a href="topic?id=14596" class="c99 breakall"># run0: systemd의 sudo 대체 도구  
 - v256에 포함된 새로운 도구 (실제로는 기존 systemd-run 을 symlink 한것)  
-- sudo와 유사하게 동작하지...</a></div><div class="topicinfo"><span id="tp14596">5</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote14596"></span> | <a href="topic?id=14596" class="u">댓글 1개</a></div>]]></content>
+- sudo와 유사하게 동작하지...</a></div><div class="topicinfo"><span id="tp14596">6</span> points by <a href="/user?id=neo">neo</a> 20시간전<span id="unvote14596"></span> | <a href="topic?id=14596" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: CSS Grid로 악보 출력 하기]]></title>
@@ -182,6 +182,6 @@ iPhone에 잘 어울리는 다기능 계산기를 한번 만들어봤습니다.
         <updated>2024-04-26T01:51:04.103Z</updated>
         <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14511"><a class="upvote" href="javascript:vote(14511, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers" rel="nofollow" id="tr20"><h1>좋아하는 Tech 유튜버가 있나요?</h1></a> <span class="topicurl">(lobste.rs)</span></div><div class="topicdesc"><a href="topic?id=14511" class="c99 breakall">- Lobsters에 올라온 여러 추천 답변의 링크들 모음   
 # 프로그래밍 및 컴퓨터 과학:  
-- [PrimeTimeagen](https://www.youtube.com/@ThePrimeT...</a></div><div class="topicinfo"><span id="tp14511">64</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote14511"></span> | <a href="topic?id=14511" class="u">댓글 5개</a></div>]]></content>
+- [PrimeTimeagen](https://www.youtube.com/@ThePrimeT...</a></div><div class="topicinfo"><span id="tp14511">65</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote14511"></span> | <a href="topic?id=14511" class="u">댓글 5개</a></div>]]></content>
     </entry>
 </feed>
