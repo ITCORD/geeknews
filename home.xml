@@ -2,23 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-05-05T23:12:10.852Z</updated>
+    <updated>2024-05-06T00:56:33.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[llm.c, 이제 멀티GPU 트레이닝을 지원하며 PyTorch보다 ~7% 빠름]]></title>
+        <id>https://news.hada.io/topic?id=14658</id>
+        <link href="https://news.hada.io/topic?id=14658"/>
+        <updated>2024-05-06T00:55:58.581Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14658"><a class="upvote" href="javascript:vote(14658, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/karpathy/status/1786461447654125625" rel="nofollow" id="tr1"><h1>llm.c, 이제 멀티GPU 트레이닝을 지원하며 PyTorch보다 ~7% 빠름</h1></a> <span class="topicurl">(twitter.com/karpathy)</span></div><div class="topicdesc"><a href="topic?id=14658" class="c99 breakall">- Andrej Karpathy가 순수 C/CUDA로 만든 간단한 LLM 훈련 코드  
+- 이제 멀티 GPU 트레이닝을 bfloat16으로 Flash Attention과 함께 수행   
+- ...</a></div><div class="topicinfo"><span id="tp14658">1</span> point by <a href="/user?id=xguru">xguru</a> 7분전<span id="unvote14658"></span> | <a href="topic?id=14658" class="u">댓글 1개</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: JSON Path 사용법]]></title>
         <id>https://news.hada.io/topic?id=14647</id>
         <link href="https://news.hada.io/topic?id=14647"/>
         <updated>2024-05-05T01:58:07.966Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14647"><a class="upvote" href="javascript:vote(14647, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bump.sh/blog/how-to-use-json-path" rel="nofollow" id="tr1"><h1>GN⁺: JSON Path 사용법</h1></a> <span class="topicurl">(bump.sh)</span></div><div class="topicdesc"><a href="topic?id=14647" class="c99 breakall">- JSON Path는 JSON 문서에서 데이터를 추출하는데 사용할 수 있는 쿼리 언어  
-- OpenAPI가 JSON 또는 YAML 문서이므로, JSON Path를 사용하여 O...</a></div><div class="topicinfo"><span id="tp14647">9</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote14647"></span> | <a href="topic?id=14647" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14647"><a class="upvote" href="javascript:vote(14647, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bump.sh/blog/how-to-use-json-path" rel="nofollow" id="tr2"><h1>GN⁺: JSON Path 사용법</h1></a> <span class="topicurl">(bump.sh)</span></div><div class="topicdesc"><a href="topic?id=14647" class="c99 breakall">- JSON Path는 JSON 문서에서 데이터를 추출하는데 사용할 수 있는 쿼리 언어  
+- OpenAPI가 JSON 또는 YAML 문서이므로, JSON Path를 사용하여 O...</a></div><div class="topicinfo"><span id="tp14647">9</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14647"></span> | <a href="topic?id=14647" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: 멋져 보이는 스타트업 데모는 어떻게 만드나요?]]></title>
         <id>https://news.hada.io/topic?id=14631</id>
         <link href="https://news.hada.io/topic?id=14631"/>
         <updated>2024-05-03T01:55:42.470Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14631"><a class="upvote" href="javascript:vote(14631, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40231790" rel="nofollow" id="tr2"><h1>Ask HN: 멋져 보이는 스타트업 데모는 어떻게 만드나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=14631" class="c99 breakall">- 요즘 스타트업들이 제품 데모 또는 기능 업데이트를 멋진 비디오로 보여주는데 어떻게 만드나요?  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14631"><a class="upvote" href="javascript:vote(14631, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40231790" rel="nofollow" id="tr3"><h1>Ask HN: 멋져 보이는 스타트업 데모는 어떻게 만드나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=14631" class="c99 breakall">- 요즘 스타트업들이 제품 데모 또는 기능 업데이트를 멋진 비디오로 보여주는데 어떻게 만드나요?  
 # 댓글의 추천 제품들 정리   
 - [ScreenSt...</a></div><div class="topicinfo"><span id="tp14631">43</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14631"></span> | <a href="topic?id=14631" class="u">댓글 5개</a></div>]]></content>
     </entry>
@@ -27,25 +36,25 @@
         <id>https://news.hada.io/topic?id=14649</id>
         <link href="https://news.hada.io/topic?id=14649"/>
         <updated>2024-05-05T01:58:07.966Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14649"><a class="upvote" href="javascript:vote(14649, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://spectrum.ieee.org/ai-coding" rel="nofollow" id="tr3"><h1>GN⁺: AI Copilot이 코딩 교육의 패러다임을 변화시키고 있음 </h1></a> <span class="topicurl">(spectrum.ieee.org)</span></div><div class="topicdesc"><a href="topic?id=14649" class="c99 breakall"># AI 코파일럿이 코딩 교육 방식을 바꾸고 있음  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14649"><a class="upvote" href="javascript:vote(14649, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://spectrum.ieee.org/ai-coding" rel="nofollow" id="tr4"><h1>GN⁺: AI Copilot이 코딩 교육의 패러다임을 변화시키고 있음 </h1></a> <span class="topicurl">(spectrum.ieee.org)</span></div><div class="topicdesc"><a href="topic?id=14649" class="c99 breakall"># AI 코파일럿이 코딩 교육 방식을 바꾸고 있음  
 - 이제 교수들은 문법 교육에서 벗어나 고차원적인 기술에 중점을 두는 중  
-- 지난 학기, 브...</a></div><div class="topicinfo"><span id="tp14649">6</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote14649"></span> | <a href="topic?id=14649" class="u">댓글 3개</a></div>]]></content>
+- 지난 학기, 브...</a></div><div class="topicinfo"><span id="tp14649">6</span> points by <a href="/user?id=neo">neo</a> 24시간전<span id="unvote14649"></span> | <a href="topic?id=14649" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lunatik - Lua로 리눅스 커널을 스크립팅하는 프레임워크]]></title>
         <id>https://news.hada.io/topic?id=14652</id>
         <link href="https://news.hada.io/topic?id=14652"/>
         <updated>2024-05-05T01:58:07.970Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14652"><a class="upvote" href="javascript:vote(14652, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/luainkernel/lunatik" rel="nofollow" id="tr4"><h1>Lunatik - Lua로 리눅스 커널을 스크립팅하는 프레임워크 </h1></a> <span class="topicurl">(github.com/luainkernel)</span></div><div class="topicdesc"><a href="topic?id=14652" class="c99 breakall">- 커널에서 동작하는 "Lua 인터프리터" +   
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14652"><a class="upvote" href="javascript:vote(14652, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/luainkernel/lunatik" rel="nofollow" id="tr5"><h1>Lunatik - Lua로 리눅스 커널을 스크립팅하는 프레임워크 </h1></a> <span class="topicurl">(github.com/luainkernel)</span></div><div class="topicdesc"><a href="topic?id=14652" class="c99 breakall">- 커널에서 동작하는 "Lua 인터프리터" +   
   Lua로 작성된 "디바이스 드라이버" +   
-  사용자 공간에서 스크립트를 로드하고 관리하기 위한 "...</a></div><div class="topicinfo"><span id="tp14652">5</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote14652"></span> | <a href="topic?id=14652" class="u">댓글과 토론</a></div>]]></content>
+  사용자 공간에서 스크립트를 로드하고 관리하기 위한 "...</a></div><div class="topicinfo"><span id="tp14652">5</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote14652"></span> | <a href="topic?id=14652" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 바로, 당신이 찾던 기술 코파운더에요]]></title>
         <id>https://news.hada.io/topic?id=14609</id>
         <link href="https://news.hada.io/topic?id=14609"/>
         <updated>2024-05-02T02:22:34.063Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14609"><a class="upvote" href="javascript:vote(14609, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/p/you-are-the-technical-cofounder-you-need" rel="nofollow" id="tr5"><h1>당신이 바로, 당신이 찾던 기술 코파운더에요</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14609" class="c99 breakall">- Exit한 창업자로서, 세상을 바꿀 다음 아이디어를 가지고 있다고 믿는 야심찬 기업가들이 종종 찾아옴  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14609"><a class="upvote" href="javascript:vote(14609, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/p/you-are-the-technical-cofounder-you-need" rel="nofollow" id="tr6"><h1>당신이 바로, 당신이 찾던 기술 코파운더에요</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14609" class="c99 breakall">- Exit한 창업자로서, 세상을 바꿀 다음 아이디어를 가지고 있다고 믿는 야심찬 기업가들이 종종 찾아옴  
   - 그들은 아이디어를 단순한 개념 이...</a></div><div class="topicinfo"><span id="tp14609">26</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14609"></span> | <a href="topic?id=14609" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
@@ -53,7 +62,7 @@
         <id>https://news.hada.io/topic?id=14615</id>
         <link href="https://news.hada.io/topic?id=14615"/>
         <updated>2024-05-03T00:57:11.597Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14615"><a class="upvote" href="javascript:vote(14615, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://plugbear.io/posts/ko/entering-us-market-without-yc" rel="nofollow" id="tr6"><h1>Y Combinator 없이 미국 진출하기 (feat. Techstars)</h1></a> <span class="topicurl">(plugbear.io)</span></div><div class="topicdesc"><a href="topic?id=14615" class="c99 breakall">- 창업 목표: 글로벌 B2B SaaS  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14615"><a class="upvote" href="javascript:vote(14615, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://plugbear.io/posts/ko/entering-us-market-without-yc" rel="nofollow" id="tr7"><h1>Y Combinator 없이 미국 진출하기 (feat. Techstars)</h1></a> <span class="topicurl">(plugbear.io)</span></div><div class="topicdesc"><a href="topic?id=14615" class="c99 breakall">- 창업 목표: 글로벌 B2B SaaS  
 - 글로벌 진출을 위해 미국에 법인 설립  
   - Stripe Atlas 활용  
 - 데브옵스를 위한 AI 비서 서비스로 시작...</a></div><div class="topicinfo"><span id="tp14615">16</span> points by <a href="/user?id=ssowonny">ssowonny</a> 3일전<span id="unvote14615"></span> | <a href="topic?id=14615" class="u">댓글 1개</a></div>]]></content>
@@ -63,7 +72,7 @@
         <id>https://news.hada.io/topic?id=14622</id>
         <link href="https://news.hada.io/topic?id=14622"/>
         <updated>2024-05-03T00:57:11.600Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14622"><a class="upvote" href="javascript:vote(14622, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/leftmove/cria" rel="nofollow" id="tr7"><h1>Cria - Python으로 간단히 LLM 구동하기</h1></a> <span class="topicurl">(github.com/leftmove)</span></div><div class="topicdesc"><a href="topic?id=14622" class="c99 breakall">- Python을 이용해서 LLM을 프로그래밍 방식으로 실행하기 위한 라이브러리  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14622"><a class="upvote" href="javascript:vote(14622, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/leftmove/cria" rel="nofollow" id="tr8"><h1>Cria - Python으로 간단히 LLM 구동하기</h1></a> <span class="topicurl">(github.com/leftmove)</span></div><div class="topicdesc"><a href="topic?id=14622" class="c99 breakall">- Python을 이용해서 LLM을 프로그래밍 방식으로 실행하기 위한 라이브러리  
 - 최대한 적은 설정으로도, 쉽게 LLM을 고급기능으로 실행할 수 있...</a></div><div class="topicinfo"><span id="tp14622">14</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14622"></span> | <a href="topic?id=14622" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -71,7 +80,7 @@
         <id>https://news.hada.io/topic?id=14621</id>
         <link href="https://news.hada.io/topic?id=14621"/>
         <updated>2024-05-03T00:57:11.599Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14621"><a class="upvote" href="javascript:vote(14621, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://projectfluent.org/" rel="nofollow" id="tr8"><h1>Fluent - 자연스러운 번역을 위한 로컬라이제이션 시스템</h1></a> <span class="topicurl">(projectfluent.org)</span></div><div class="topicdesc"><a href="topic?id=14621" class="c99 breakall">- 비대칭 로컬라이제이션 : 필요한 경우에만 성별/대소문자를 사용하여 자연스러운 번역을 추구. 표현력은 원어의 문법에 제한되지 않음   
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14621"><a class="upvote" href="javascript:vote(14621, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://projectfluent.org/" rel="nofollow" id="tr9"><h1>Fluent - 자연스러운 번역을 위한 로컬라이제이션 시스템</h1></a> <span class="topicurl">(projectfluent.org)</span></div><div class="topicdesc"><a href="topic?id=14621" class="c99 breakall">- 비대칭 로컬라이제이션 : 필요한 경우에만 성별/대소문자를 사용하여 자연스러운 번역을 추구. 표현력은 원어의 문법에 제한되지 않음   
 - 점...</a></div><div class="topicinfo"><span id="tp14621">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14621"></span> | <a href="topic?id=14621" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -79,7 +88,7 @@
         <id>https://news.hada.io/topic?id=14635</id>
         <link href="https://news.hada.io/topic?id=14635"/>
         <updated>2024-05-04T00:54:09.137Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14635"><a class="upvote" href="javascript:vote(14635, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://apps.apple.com/us/app/claude/id6473753684" rel="nofollow" id="tr9"><h1>Claude, iOS용 앱 공개 </h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=14635" class="c99 breakall">- iOS에서 Claude AI모델을 쉽게 이용  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14635"><a class="upvote" href="javascript:vote(14635, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://apps.apple.com/us/app/claude/id6473753684" rel="nofollow" id="tr10"><h1>Claude, iOS용 앱 공개 </h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=14635" class="c99 breakall">- iOS에서 Claude AI모델을 쉽게 이용  
 - 웹의 채팅과 동기화되어 원하는 디바이스에서 계속 이어서 진행 가능   
 - 비전 기능: 카메라/라이브...</a></div><div class="topicinfo"><span id="tp14635">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14635"></span> | <a href="topic?id=14635" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -88,18 +97,9 @@
         <id>https://news.hada.io/topic?id=14598</id>
         <link href="https://news.hada.io/topic?id=14598"/>
         <updated>2024-05-02T00:54:14.813Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14598"><a class="upvote" href="javascript:vote(14598, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://freeter.io/" rel="nofollow" id="tr10"><h1>Freeter - 모두를 위한 오거나이저 앱 오픈소스</h1></a> <span class="topicurl">(freeter.io)</span></div><div class="topicdesc"><a href="topic?id=14598" class="c99 breakall">- 프로젝트 기반의 할일 관리 도구. 프로젝트와 태스크간 빠른 전환   
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14598"><a class="upvote" href="javascript:vote(14598, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://freeter.io/" rel="nofollow" id="tr11"><h1>Freeter - 모두를 위한 오거나이저 앱 오픈소스</h1></a> <span class="topicurl">(freeter.io)</span></div><div class="topicdesc"><a href="topic?id=14598" class="c99 breakall">- 프로젝트 기반의 할일 관리 도구. 프로젝트와 태스크간 빠른 전환   
 - 맥,윈,리눅스 바이너리 제공 (Typescript + Electron)  
 - 위젯으로 필...</a></div><div class="topicinfo"><span id="tp14598">18</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14598"></span> | <a href="topic?id=14598" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 모든 중국 지도의 오류]]></title>
-        <id>https://news.hada.io/topic?id=14632</id>
-        <link href="https://news.hada.io/topic?id=14632"/>
-        <updated>2024-05-04T01:50:05.491Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14632"><a class="upvote" href="javascript:vote(14632, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2" rel="nofollow" id="tr11"><h1>GN⁺: 모든 중국 지도의 오류</h1></a> <span class="topicurl">(medium.com/@anastasia.bizyayeva)</span></div><div class="topicdesc"><a href="topic?id=14632" class="c99 breakall">- 중국의 모든 지도는 잘못되어 있음. 이는 의도적인 것임.
-- 중국의 거리 뷰와 위성 뷰 사이의 불일치
-  - 구글 맵에서 중국의 거리 뷰는 처음에...</a></div><div class="topicinfo"><span id="tp14632">8</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote14632"></span> | <a href="topic?id=14632" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인증서 문제로 인한 cdn.jsdelivr.net 접속 불능 사태]]></title>
@@ -110,11 +110,20 @@
 * 전 세계적으로 가장 큰 오픈소스 프로젝트 CDN 서비스인 jsDelivr의...</a></div><div class="topicinfo"><span id="tp14613">14</span> points by <a href="/user?id=blacksha">blacksha</a> 4일전<span id="unvote14613"></span> | <a href="topic?id=14613" class="u">댓글 13개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GN⁺: 모든 중국 지도의 오류]]></title>
+        <id>https://news.hada.io/topic?id=14632</id>
+        <link href="https://news.hada.io/topic?id=14632"/>
+        <updated>2024-05-04T01:50:05.491Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14632"><a class="upvote" href="javascript:vote(14632, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2" rel="nofollow" id="tr13"><h1>GN⁺: 모든 중국 지도의 오류</h1></a> <span class="topicurl">(medium.com/@anastasia.bizyayeva)</span></div><div class="topicdesc"><a href="topic?id=14632" class="c99 breakall">- 중국의 모든 지도는 잘못되어 있음. 이는 의도적인 것임.
+- 중국의 거리 뷰와 위성 뷰 사이의 불일치
+  - 구글 맵에서 중국의 거리 뷰는 처음에...</a></div><div class="topicinfo"><span id="tp14632">8</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote14632"></span> | <a href="topic?id=14632" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GN⁺: SSH를 통해서 커피를 판매하는 새로운 스타트업]]></title>
         <id>https://news.hada.io/topic?id=14600</id>
         <link href="https://news.hada.io/topic?id=14600"/>
         <updated>2024-05-02T03:13:50.765Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote14600"><a class="upvote" href="javascript:vote(14600, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.terminal.shop/" rel="nofollow" id="tr13"><h1>GN⁺: SSH를 통해서 커피를 판매하는 새로운 스타트업</h1></a> <span class="topicurl">(terminal.shop)</span></div><div class="topicdesc"><a href="topic?id=14600" class="c99 breakall">- `ssh terminal.shop` 명령어로 terminal.shop에 SSH 접속해서 커피를 주문 가능   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14600"><a class="upvote" href="javascript:vote(14600, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.terminal.shop/" rel="nofollow" id="tr14"><h1>GN⁺: SSH를 통해서 커피를 판매하는 새로운 스타트업</h1></a> <span class="topicurl">(terminal.shop)</span></div><div class="topicdesc"><a href="topic?id=14600" class="c99 breakall">- `ssh terminal.shop` 명령어로 terminal.shop에 SSH 접속해서 커피를 주문 가능   
 - 접속하면 터미널 창에서 `+` 상품 추가, `-` 상품 제거, `...</a></div><div class="topicinfo"><span id="tp14600">14</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote14600"></span> | <a href="topic?id=14600" class="u">댓글 9개</a></div>]]></content>
     </entry>
     <entry>
@@ -122,7 +131,7 @@
         <id>https://news.hada.io/topic?id=14620</id>
         <link href="https://news.hada.io/topic?id=14620"/>
         <updated>2024-05-03T01:55:42.485Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14620"><a class="upvote" href="javascript:vote(14620, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/" rel="nofollow" id="tr14"><h1>GN⁺: BASIC 프로그래밍 언어 60주년</h1></a> <span class="topicurl">(arstechnica.com)</span></div><div class="topicdesc"><a href="topic?id=14620" class="c99 breakall">- BASIC은 1964년 데뷔한 쉽고 사용하기 편한 언어로 Apple, TRS-80, IBM, Commodore PC 등을 이끌어옴  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14620"><a class="upvote" href="javascript:vote(14620, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/" rel="nofollow" id="tr15"><h1>GN⁺: BASIC 프로그래밍 언어 60주년</h1></a> <span class="topicurl">(arstechnica.com)</span></div><div class="topicdesc"><a href="topic?id=14620" class="c99 breakall">- BASIC은 1964년 데뷔한 쉽고 사용하기 편한 언어로 Apple, TRS-80, IBM, Commodore PC 등을 이끌어옴  
   
 # BASIC이란?  
   
@@ -133,7 +142,7 @@
         <id>https://news.hada.io/topic?id=14640</id>
         <link href="https://news.hada.io/topic?id=14640"/>
         <updated>2024-05-05T01:58:07.971Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14640"><a class="upvote" href="javascript:vote(14640, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/" rel="nofollow" id="tr15"><h1>GN⁺: 리튬 불포함 소듐(Sodium) 배터리, 실험실을 나와서 미국에서 생산 돌입</h1></a> <span class="topicurl">(newatlas.com)</span></div><div class="topicdesc"><a href="topic?id=14640" class="c99 breakall">- 소듐 이온 배터리 선구자인 Natron Energy는 2년 전 특수 제조된 소듐 배터리를 대량 생산하기 위해 준비하고 있었음  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14640"><a class="upvote" href="javascript:vote(14640, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/" rel="nofollow" id="tr16"><h1>GN⁺: 리튬 불포함 소듐(Sodium) 배터리, 실험실을 나와서 미국에서 생산 돌입</h1></a> <span class="topicurl">(newatlas.com)</span></div><div class="topicdesc"><a href="topic?id=14640" class="c99 breakall">- 소듐 이온 배터리 선구자인 Natron Energy는 2년 전 특수 제조된 소듐 배터리를 대량 생산하기 위해 준비하고 있었음  
 - 2023년 시작 계획에서...</a></div><div class="topicinfo"><span id="tp14640">4</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14640"></span> | <a href="topic?id=14640" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -141,45 +150,37 @@
         <id>https://news.hada.io/topic?id=14558</id>
         <link href="https://news.hada.io/topic?id=14558"/>
         <updated>2024-04-29T05:14:11.277Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14558"><a class="upvote" href="javascript:vote(14558, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14558" rel="nofollow" id="tr16"><h1>Show GN: 개발자라면 알고 있으면 좋을 사이트</h1></a> <span class="topicurl">(dev-ranking.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=14558" class="c99 breakall">개발 콘텐츠 중 검증되고 핫한 콘텐츠를 모아 볼 수 있는 2장의 웹사이트</a></div><div class="topicinfo"><span id="tp14558">31</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 7일전<span id="unvote14558"></span> | <a href="topic?id=14558" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14558"><a class="upvote" href="javascript:vote(14558, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14558" rel="nofollow" id="tr17"><h1>Show GN: 개발자라면 알고 있으면 좋을 사이트</h1></a> <span class="topicurl">(dev-ranking.vercel.app)</span></div><div class="topicdesc"><a href="topic?id=14558" class="c99 breakall">개발 콘텐츠 중 검증되고 핫한 콘텐츠를 모아 볼 수 있는 2장의 웹사이트</a></div><div class="topicinfo"><span id="tp14558">31</span> points by <a href="/user?id=tmddnjs7231">tmddnjs7231</a> 7일전<span id="unvote14558"></span> | <a href="topic?id=14558" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 서버 업로드 없이 HEIC/HEIF를 JPG/PNG로 변환해주는 웹 앱]]></title>
         <id>https://news.hada.io/topic?id=14597</id>
         <link href="https://news.hada.io/topic?id=14597"/>
         <updated>2024-05-01T13:13:18.500Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14597"><a class="upvote" href="javascript:vote(14597, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14597" rel="nofollow" id="tr17"><h1>Show GN: 서버 업로드 없이 HEIC/HEIF를 JPG/PNG로 변환해주는 웹 앱</h1></a> <span class="topicurl">(heif.pages.dev)</span></div><div class="topicdesc"><a href="topic?id=14597" class="c99 breakall">웹 브라우저에서 간단히 HEIC/HEIF 파일을 JPG/PNG로 변환하는 페이지입니다.  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14597"><a class="upvote" href="javascript:vote(14597, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14597" rel="nofollow" id="tr18"><h1>Show GN: 서버 업로드 없이 HEIC/HEIF를 JPG/PNG로 변환해주는 웹 앱</h1></a> <span class="topicurl">(heif.pages.dev)</span></div><div class="topicdesc"><a href="topic?id=14597" class="c99 breakall">웹 브라우저에서 간단히 HEIC/HEIF 파일을 JPG/PNG로 변환하는 페이지입니다.  
   
   
 ## 장점  
   
 ### 서버 업로드 없음  
-서버 업로드 없...</a></div><div class="topicinfo"><span id="tp14597">15</span> points by <a href="/user?id=dofuuz">dofuuz</a> 4일전<span id="unvote14597"></span> | <a href="topic?id=14597" class="u">댓글 13개</a></div>]]></content>
+서버 업로드 없...</a></div><div class="topicinfo"><span id="tp14597">15</span> points by <a href="/user?id=dofuuz">dofuuz</a> 5일전<span id="unvote14597"></span> | <a href="topic?id=14597" class="u">댓글 13개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenVoice v2 - 다재다능한 인스턴트 음성 복제]]></title>
         <id>https://news.hada.io/topic?id=14548</id>
         <link href="https://news.hada.io/topic?id=14548"/>
         <updated>2024-05-05T07:11:54.749Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14548"><a class="upvote" href="javascript:vote(14548, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/myshell-ai/OpenVoice" rel="nofollow" id="tr18"><h1>OpenVoice v2 - 다재다능한 인스턴트 음성 복제</h1></a> <span class="topicurl">(github.com/myshell-ai)</span></div><div class="topicdesc"><a href="topic?id=14548" class="c99 breakall">- v2 출시되면서 _더 나은 오디오 품질, 한국어를 포함한 다국어 지원, 상업적 사용도 무료_  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14548"><a class="upvote" href="javascript:vote(14548, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/myshell-ai/OpenVoice" rel="nofollow" id="tr19"><h1>OpenVoice v2 - 다재다능한 인스턴트 음성 복제</h1></a> <span class="topicurl">(github.com/myshell-ai)</span></div><div class="topicdesc"><a href="topic?id=14548" class="c99 breakall">- v2 출시되면서 _더 나은 오디오 품질, 한국어를 포함한 다국어 지원, 상업적 사용도 무료_  
 - 화자의 짧은 오디오 클립만으로 음성을 복제하고...</a></div><div class="topicinfo"><span id="tp14548">30</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote14548"></span> | <a href="topic?id=14548" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Pyinfra: 파이썬을 활용한 인프라 자동화 도구]]></title>
-        <id>https://news.hada.io/topic?id=14586</id>
-        <link href="https://news.hada.io/topic?id=14586"/>
-        <updated>2024-05-01T01:58:43.657Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14586"><a class="upvote" href="javascript:vote(14586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pyinfra.com/" rel="nofollow" id="tr19"><h1>GN⁺: Pyinfra: 파이썬을 활용한 인프라 자동화 도구</h1></a> <span class="topicurl">(pyinfra.com)</span></div><div class="topicdesc"><a href="topic?id=14586" class="c99 breakall">- 파이썬을 사용하여 인프라를 자동화하는 도구  
-- 단일 서버에서 수천 대의 서버까지 빠르게 확장 가능  
-- 임시 명령 실행, 서비스 배포, 구...</a></div><div class="topicinfo"><span id="tp14586">16</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote14586"></span> | <a href="topic?id=14586" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Run0 - sudo를 대체하는 systemd 기반 도구 발표]]></title>
-        <id>https://news.hada.io/topic?id=14596</id>
-        <link href="https://news.hada.io/topic?id=14596"/>
-        <updated>2024-05-05T09:13:53.689Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14596"><a class="upvote" href="javascript:vote(14596, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mastodon.social/@pid_eins/112353324518585654" rel="nofollow" id="tr20"><h1>GN⁺: Run0 - sudo를 대체하는 systemd 기반 도구 발표 </h1></a> <span class="topicurl">(mastodon.social)</span></div><div class="topicdesc"><a href="topic?id=14596" class="c99 breakall"># run0: systemd의 sudo 대체 도구  
-- v256에 포함된 새로운 도구 (실제로는 기존 systemd-run 을 symlink 한것)  
-- sudo와 유사하게 동작하지...</a></div><div class="topicinfo"><span id="tp14596">13</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote14596"></span> | <a href="topic?id=14596" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[2024년 AI 스타트업을 위한 데이터 수집 전략]]></title>
+        <id>https://news.hada.io/topic?id=14556</id>
+        <link href="https://news.hada.io/topic?id=14556"/>
+        <updated>2024-05-06T00:55:58.610Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14556"><a class="upvote" href="javascript:vote(14556, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://press.airstreet.com/p/data-acquisition-strategies-for-ai" rel="nofollow" id="tr20"><h1>2024년 AI 스타트업을 위한 데이터 수집 전략</h1></a> <span class="topicurl">(press.airstreet.com)</span></div><div class="topicdesc"><a href="topic?id=14556" class="c99 breakall"># [ #1 대규모 생성형 모델(Large Generative Models) ]  
+  
+## LLM과 LMM을 활용한 합성 데이터 생성  
+- Large Language Model(LLM)은 텍스...</a></div><div class="topicinfo"><span id="tp14556">28</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote14556"></span> | <a href="topic?id=14556" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
