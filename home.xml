@@ -2,25 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-05-06T10:13:44.587Z</updated>
+    <updated>2024-05-06T11:11:13.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Convex - 풀스택 앱 개발을 위한 BaaS 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=14661</id>
-        <link href="https://news.hada.io/topic?id=14661"/>
-        <updated>2024-05-06T01:55:03.144Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14661"><a class="upvote" href="javascript:vote(14661, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/get-convex/convex-backend" rel="nofollow" id="tr1"><h1>Convex - 풀스택 앱 개발을 위한 BaaS 오픈소스 </h1></a> <span class="topicurl">(github.com/get-convex)</span></div><div class="topicdesc"><a href="topic?id=14661" class="c99 breakall">- Backend-As-A-Service : DB, 서버 펑션, 스케쥴링, 스토리지, 전문 검색, 벡터 검색 등을 하나로 대체   
-- React/ReactNative, Next.js, Vue, ...</a></div><div class="topicinfo"><span id="tp14661">5</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote14661"></span> | <a href="topic?id=14661" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[llm.c, 이제 멀티GPU 트레이닝을 지원하며 PyTorch보다 ~7% 빠름]]></title>
         <id>https://news.hada.io/topic?id=14658</id>
         <link href="https://news.hada.io/topic?id=14658"/>
         <updated>2024-05-06T00:55:58.581Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14658"><a class="upvote" href="javascript:vote(14658, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/karpathy/status/1786461447654125625" rel="nofollow" id="tr2"><h1>llm.c, 이제 멀티GPU 트레이닝을 지원하며 PyTorch보다 ~7% 빠름</h1></a> <span class="topicurl">(twitter.com/karpathy)</span></div><div class="topicdesc"><a href="topic?id=14658" class="c99 breakall">- Andrej Karpathy가 순수 C/CUDA로 만든 간단한 LLM 훈련 코드  
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14658"><a class="upvote" href="javascript:vote(14658, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://twitter.com/karpathy/status/1786461447654125625" rel="nofollow" id="tr1"><h1>llm.c, 이제 멀티GPU 트레이닝을 지원하며 PyTorch보다 ~7% 빠름</h1></a> <span class="topicurl">(twitter.com/karpathy)</span></div><div class="topicdesc"><a href="topic?id=14658" class="c99 breakall">- Andrej Karpathy가 순수 C/CUDA로 만든 간단한 LLM 훈련 코드  
 - 이제 멀티 GPU 트레이닝을 bfloat16으로 Flash Attention과 함께 수행   
-- ...</a></div><div class="topicinfo"><span id="tp14658">5</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote14658"></span> | <a href="topic?id=14658" class="u">댓글 1개</a></div>]]></content>
+- ...</a></div><div class="topicinfo"><span id="tp14658">6</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote14658"></span> | <a href="topic?id=14658" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convex - 풀스택 앱 개발을 위한 BaaS 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=14661</id>
+        <link href="https://news.hada.io/topic?id=14661"/>
+        <updated>2024-05-06T01:55:03.144Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14661"><a class="upvote" href="javascript:vote(14661, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/get-convex/convex-backend" rel="nofollow" id="tr2"><h1>Convex - 풀스택 앱 개발을 위한 BaaS 오픈소스 </h1></a> <span class="topicurl">(github.com/get-convex)</span></div><div class="topicdesc"><a href="topic?id=14661" class="c99 breakall">- Backend-As-A-Service : DB, 서버 펑션, 스케쥴링, 스토리지, 전문 검색, 벡터 검색 등을 하나로 대체   
+- React/ReactNative, Next.js, Vue, ...</a></div><div class="topicinfo"><span id="tp14661">5</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote14661"></span> | <a href="topic?id=14661" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: JSON Path 사용법]]></title>
@@ -55,7 +55,7 @@
         <updated>2024-05-05T01:58:07.966Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14649"><a class="upvote" href="javascript:vote(14649, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://spectrum.ieee.org/ai-coding" rel="nofollow" id="tr6"><h1>GN⁺: AI Copilot이 코딩 교육의 패러다임을 변화시키고 있음 </h1></a> <span class="topicurl">(spectrum.ieee.org)</span></div><div class="topicdesc"><a href="topic?id=14649" class="c99 breakall"># AI 코파일럿이 코딩 교육 방식을 바꾸고 있음  
 - 이제 교수들은 문법 교육에서 벗어나 고차원적인 기술에 중점을 두는 중  
-- 지난 학기, 브...</a></div><div class="topicinfo"><span id="tp14649">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14649"></span> | <a href="topic?id=14649" class="u">댓글 3개</a></div>]]></content>
+- 지난 학기, 브...</a></div><div class="topicinfo"><span id="tp14649">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14649"></span> | <a href="topic?id=14649" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Y Combinator 없이 미국 진출하기 (feat. Techstars)]]></title>
@@ -76,19 +76,19 @@
   - 그들은 아이디어를 단순한 개념 이...</a></div><div class="topicinfo"><span id="tp14609">26</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14609"></span> | <a href="topic?id=14609" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: 닌텐도, GitHub에 에뮬레이터 관련으로 8,000건 이상의 DMCA 삭제 요청 보내]]></title>
-        <id>https://news.hada.io/topic?id=14656</id>
-        <link href="https://news.hada.io/topic?id=14656"/>
-        <updated>2024-05-06T01:55:03.145Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14656"><a class="upvote" href="javascript:vote(14656, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html" rel="nofollow" id="tr9"><h1>GN⁺: 닌텐도, GitHub에 에뮬레이터 관련으로 8,000건 이상의 DMCA 삭제 요청 보내 </h1></a> <span class="topicurl">(engadget.com)</span></div><div class="topicdesc"><a href="topic?id=14656" class="c99 breakall">- Nintendo가 Switch 에뮬레이터의 코드를 호스팅하는 8,000개 이상의 GitHub 저장소에 대해 DMCA(Digital Millennium Copyright Act) 통지를 보냄...</a></div><div class="topicinfo"><span id="tp14656">1</span> point by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote14656"></span> | <a href="topic?id=14656" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cria - Python으로 간단히 LLM 구동하기]]></title>
         <id>https://news.hada.io/topic?id=14622</id>
         <link href="https://news.hada.io/topic?id=14622"/>
         <updated>2024-05-03T00:57:11.600Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14622"><a class="upvote" href="javascript:vote(14622, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/leftmove/cria" rel="nofollow" id="tr10"><h1>Cria - Python으로 간단히 LLM 구동하기</h1></a> <span class="topicurl">(github.com/leftmove)</span></div><div class="topicdesc"><a href="topic?id=14622" class="c99 breakall">- Python을 이용해서 LLM을 프로그래밍 방식으로 실행하기 위한 라이브러리  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14622"><a class="upvote" href="javascript:vote(14622, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/leftmove/cria" rel="nofollow" id="tr9"><h1>Cria - Python으로 간단히 LLM 구동하기</h1></a> <span class="topicurl">(github.com/leftmove)</span></div><div class="topicdesc"><a href="topic?id=14622" class="c99 breakall">- Python을 이용해서 LLM을 프로그래밍 방식으로 실행하기 위한 라이브러리  
 - 최대한 적은 설정으로도, 쉽게 LLM을 고급기능으로 실행할 수 있...</a></div><div class="topicinfo"><span id="tp14622">15</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14622"></span> | <a href="topic?id=14622" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 닌텐도, GitHub에 에뮬레이터 관련으로 8,000건 이상의 DMCA 삭제 요청 보내]]></title>
+        <id>https://news.hada.io/topic?id=14656</id>
+        <link href="https://news.hada.io/topic?id=14656"/>
+        <updated>2024-05-06T01:55:03.145Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14656"><a class="upvote" href="javascript:vote(14656, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html" rel="nofollow" id="tr10"><h1>GN⁺: 닌텐도, GitHub에 에뮬레이터 관련으로 8,000건 이상의 DMCA 삭제 요청 보내 </h1></a> <span class="topicurl">(engadget.com)</span></div><div class="topicdesc"><a href="topic?id=14656" class="c99 breakall">- Nintendo가 Switch 에뮬레이터의 코드를 호스팅하는 8,000개 이상의 GitHub 저장소에 대해 DMCA(Digital Millennium Copyright Act) 통지를 보냄...</a></div><div class="topicinfo"><span id="tp14656">1</span> point by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote14656"></span> | <a href="topic?id=14656" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fluent - 자연스러운 번역을 위한 로컬라이제이션 시스템]]></title>
