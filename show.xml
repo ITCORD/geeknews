@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-05-07T04:17:30.683Z</updated>
+    <updated>2024-05-07T05:15:22.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: CoreEngine: 가볍고 빠른 Swift 단방향 아키텍쳐]]></title>
+        <id>https://news.hada.io/topic?id=14689</id>
+        <link href="https://news.hada.io/topic?id=14689"/>
+        <updated>2024-05-07T05:15:03.597Z</updated>
+        <content type="html"><![CDATA[stareta1202]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 개발자라면 알고 있으면 좋을 사이트]]></title>
         <id>https://news.hada.io/topic?id=14558</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13726"/>
         <updated>2024-04-07T11:11:09.595Z</updated>
         <content type="html"><![CDATA[hongminhee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: [K-Agent Service] 병역특례 업체 조회 웹사이트]]></title>
-        <id>https://news.hada.io/topic?id=13909</id>
-        <link href="https://news.hada.io/topic?id=13909"/>
-        <updated>2024-05-07T02:30:23.142Z</updated>
-        <content type="html"><![CDATA[jin225675]]></content>
     </entry>
 </feed>
