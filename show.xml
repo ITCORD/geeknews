@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-05-09T03:14:12.803Z</updated>
+    <updated>2024-05-09T04:18:38.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: JavaScript에서 한글을 다루는 현대적인 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=14731</id>
+        <link href="https://news.hada.io/topic?id=14731"/>
+        <updated>2024-05-09T04:18:18.633Z</updated>
+        <content type="html"><![CDATA[raon0211]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오픈 소스 데이터 익명화 및 Postgres 및 Mysql을 위한 합성 데이터]]></title>
         <id>https://news.hada.io/topic?id=14711</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13775"/>
         <updated>2024-05-09T00:56:04.277Z</updated>
         <content type="html"><![CDATA[dongkroot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Genport AI - 투자 전략 생성 기능]]></title>
-        <id>https://news.hada.io/topic?id=14350</id>
-        <link href="https://news.hada.io/topic?id=14350"/>
-        <updated>2024-05-09T00:56:04.278Z</updated>
-        <content type="html"><![CDATA[sungchi]]></content>
     </entry>
 </feed>
