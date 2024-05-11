@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-05-11T06:16:04.171Z</updated>
+    <updated>2024-05-11T07:13:32.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14749"><a class="upvote" href="javascript:vote(14749, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/c4pt0r/kvql" rel="nofollow" id="tr1"><h1>kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어</h1></a> <span class="topicurl">(github.com/c4pt0r)</span></div><div class="topicdesc"><a href="topic?id=14749" class="c99 breakall">- SELECT, PUT, DELETE 로 조회,삽입,삭제 가능   
 ```  
 # 간단한 쿼리, 키 접두사 'k'가 포함된 모든 키-값 쌍 가져오기  
-select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote14749"></span> | <a href="topic?id=14749" class="u">댓글과 토론</a></div>]]></content>
+select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote14749"></span> | <a href="topic?id=14749" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scrapegraph-ai - LLM과 직접 그래프 로직을 이용한 웹 스크래핑]]></title>
@@ -60,20 +60,20 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
 - 두가지 모델...</a></div><div class="topicinfo"><span id="tp14736">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14736"></span> | <a href="topic?id=14736" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[node-mlx - Node.js용 머신 러닝 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=14757</id>
-        <link href="https://news.hada.io/topic?id=14757"/>
-        <updated>2024-05-11T01:52:02.168Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14757"><a class="upvote" href="javascript:vote(14757, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frost-beta/node-mlx" rel="nofollow" id="tr7"><h1>node-mlx - Node.js용 머신 러닝 프레임워크</h1></a> <span class="topicurl">(github.com/frost-beta)</span></div><div class="topicdesc"><a href="topic?id=14757" class="c99 breakall">- 애플의 MLX기반 (애플실리콘용 어레이 프레임워크, NumPy와 비슷)  
-- MLX의 공식 Python API를 node.js 에 맞게 이름만 변경(snake_case to ca...</a></div><div class="topicinfo"><span id="tp14757">1</span> point by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote14757"></span> | <a href="topic?id=14757" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Distribution Is King : 유통이 왕이다]]></title>
         <id>https://news.hada.io/topic?id=14686</id>
         <link href="https://news.hada.io/topic?id=14686"/>
         <updated>2024-05-07T02:30:07.864Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14686"><a class="upvote" href="javascript:vote(14686, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/napkin-math/distribution-is-king" rel="nofollow" id="tr8"><h1>Distribution Is King : 유통이 왕이다</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14686" class="c99 breakall">- "콘텐츠 혁신은 청중을 늘리고, 유통 혁신은 기업 가치를 창출한다"  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14686"><a class="upvote" href="javascript:vote(14686, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/napkin-math/distribution-is-king" rel="nofollow" id="tr7"><h1>Distribution Is King : 유통이 왕이다</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14686" class="c99 breakall">- "콘텐츠 혁신은 청중을 늘리고, 유통 혁신은 기업 가치를 창출한다"  
   - 우리가 만드는 제품과 콘텐츠가 기업의 가치를 만든다고 생각하기 쉬...</a></div><div class="topicinfo"><span id="tp14686">45</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14686"></span> | <a href="topic?id=14686" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[node-mlx - Node.js용 머신 러닝 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=14757</id>
+        <link href="https://news.hada.io/topic?id=14757"/>
+        <updated>2024-05-11T01:52:02.168Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14757"><a class="upvote" href="javascript:vote(14757, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frost-beta/node-mlx" rel="nofollow" id="tr8"><h1>node-mlx - Node.js용 머신 러닝 프레임워크</h1></a> <span class="topicurl">(github.com/frost-beta)</span></div><div class="topicdesc"><a href="topic?id=14757" class="c99 breakall">- 애플의 MLX기반 (애플실리콘용 어레이 프레임워크, NumPy와 비슷)  
+- MLX의 공식 Python API를 node.js 에 맞게 이름만 변경(snake_case to ca...</a></div><div class="topicinfo"><span id="tp14757">1</span> point by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote14757"></span> | <a href="topic?id=14757" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공]]></title>
@@ -145,22 +145,22 @@ GitHub...</a></div><div class="topicinfo"><span id="tp14690">24</span> points by
 - 모델 스펙은 OpenA...</a></div><div class="topicinfo"><span id="tp14745">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14745"></span> | <a href="topic?id=14745" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Stack Overflow 사용자들, OpenAI 제휴 후 답변 삭제 잇따라]]></title>
-        <id>https://news.hada.io/topic?id=14743</id>
-        <link href="https://news.hada.io/topic?id=14743"/>
-        <updated>2024-05-11T01:52:02.182Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14743"><a class="upvote" href="javascript:vote(14743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/" rel="nofollow" id="tr17"><h1>GN⁺: Stack Overflow 사용자들, OpenAI 제휴 후 답변 삭제 잇따라</h1></a> <span class="topicurl">(build5nines.com)</span></div><div class="topicdesc"><a href="topic?id=14743" class="c99 breakall"># Stack Overflow와 OpenAI의 파트너십 발표에 대한 사용자들의 반발
-
-- Stack Overflow와 OpenAI가 최근 파트너십을 발표한 것에 대해 일부 사용...</a></div><div class="topicinfo"><span id="tp14743">3</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14743"></span> | <a href="topic?id=14743" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pyspread - 파이썬 스프레드시트]]></title>
         <id>https://news.hada.io/topic?id=14707</id>
         <link href="https://news.hada.io/topic?id=14707"/>
         <updated>2024-05-08T01:32:50.245Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14707"><a class="upvote" href="javascript:vote(14707, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pyspread.gitlab.io/" rel="nofollow" id="tr18"><h1>Pyspread - 파이썬 스프레드시트</h1></a> <span class="topicurl">(pyspread.gitlab.io)</span></div><div class="topicdesc"><a href="topic?id=14707" class="c99 breakall">- 가장 파이썬스러운 스프레드 시트가 되는 것을 목표로 함   
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14707"><a class="upvote" href="javascript:vote(14707, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pyspread.gitlab.io/" rel="nofollow" id="tr17"><h1>Pyspread - 파이썬 스프레드시트</h1></a> <span class="topicurl">(pyspread.gitlab.io)</span></div><div class="topicdesc"><a href="topic?id=14707" class="c99 breakall">- 가장 파이썬스러운 스프레드 시트가 되는 것을 목표로 함   
 - 그리드 셀에 Python 표현식을 사용  
   - 각 셀은 다른 셀에서 액세스할 수 있...</a></div><div class="topicinfo"><span id="tp14707">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14707"></span> | <a href="topic?id=14707" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Stack Overflow 사용자들, OpenAI 제휴 후 답변 삭제 잇따라]]></title>
+        <id>https://news.hada.io/topic?id=14743</id>
+        <link href="https://news.hada.io/topic?id=14743"/>
+        <updated>2024-05-11T01:52:02.182Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14743"><a class="upvote" href="javascript:vote(14743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/" rel="nofollow" id="tr18"><h1>GN⁺: Stack Overflow 사용자들, OpenAI 제휴 후 답변 삭제 잇따라</h1></a> <span class="topicurl">(build5nines.com)</span></div><div class="topicdesc"><a href="topic?id=14743" class="c99 breakall"># Stack Overflow와 OpenAI의 파트너십 발표에 대한 사용자들의 반발
+
+- Stack Overflow와 OpenAI가 최근 파트너십을 발표한 것에 대해 일부 사용...</a></div><div class="topicinfo"><span id="tp14743">3</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14743"></span> | <a href="topic?id=14743" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[APPLE의 M4칩 공개, 이제 시작되었다]]></title>
