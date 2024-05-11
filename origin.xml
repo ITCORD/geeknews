@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-05-11T09:13:46.046Z</updated>
+    <updated>2024-05-11T10:13:45.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://github.com/orgs/vercel/discussions/6807"/>
         <updated>2024-05-11T08:15:16.589Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14759"><a class="upvote" href="javascript:vote(14759, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/orgs/vercel/discussions/6807" rel="nofollow" id="tr1"><h1>국내 DNS 에서 *.vercel.app 도메인 접근 불가</h1></a> <span class="topicurl">(github.com/orgs)</span></div><div class="topicdesc"><a href="topic?id=14759" class="c99 breakall">- 최근 국내에서 Vercel 접속 시 속도 이슈가 있었던 상황에서 국내 DNS 에서 *.vercel.app 도메인에 대한 차단이 이루어진 것으로 보임  
-- 이전...</a></div><div class="topicinfo"><span id="tp14759">2</span> points by <a href="/user?id=safethecode">safethecode</a> 2시간전<span id="unvote14759"></span> | <a href="topic?id=14759" class="u">댓글과 토론</a></div>]]></content>
+- 이전...</a></div><div class="topicinfo"><span id="tp14759">2</span> points by <a href="/user?id=safethecode">safethecode</a> 3시간전<span id="unvote14759"></span> | <a href="topic?id=14759" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어]]></title>
@@ -21,7 +21,7 @@
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14749"><a class="upvote" href="javascript:vote(14749, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/c4pt0r/kvql" rel="nofollow" id="tr2"><h1>kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어</h1></a> <span class="topicurl">(github.com/c4pt0r)</span></div><div class="topicdesc"><a href="topic?id=14749" class="c99 breakall">- SELECT, PUT, DELETE 로 조회,삽입,삭제 가능   
 ```  
 # 간단한 쿼리, 키 접두사 'k'가 포함된 모든 키-값 쌍 가져오기  
-select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote14749"></span> | <a href="topic?id=14749" class="u">댓글과 토론</a></div>]]></content>
+select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote14749"></span> | <a href="topic?id=14749" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: JavaScript에서 한글을 다루는 현대적인 라이브러리]]></title>
@@ -41,11 +41,19 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
   - LLM과 직접 그래프 로직을 사용해 웹사이트, 문서, XML 파일에 대한 스크래핑 파이프...</a></div><div class="topicinfo"><span id="tp14737">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14737"></span> | <a href="topic?id=14737" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[node-mlx - Node.js용 머신 러닝 프레임워크]]></title>
+        <id>https://github.com/frost-beta/node-mlx</id>
+        <link href="https://github.com/frost-beta/node-mlx"/>
+        <updated>2024-05-11T01:52:06.156Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14757"><a class="upvote" href="javascript:vote(14757, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frost-beta/node-mlx" rel="nofollow" id="tr5"><h1>node-mlx - Node.js용 머신 러닝 프레임워크</h1></a> <span class="topicurl">(github.com/frost-beta)</span></div><div class="topicdesc"><a href="topic?id=14757" class="c99 breakall">- 애플의 MLX기반 (애플실리콘용 어레이 프레임워크, NumPy와 비슷)  
+- MLX의 공식 Python API를 node.js 에 맞게 이름만 변경(snake_case to ca...</a></div><div class="topicinfo"><span id="tp14757">2</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote14757"></span> | <a href="topic?id=14757" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Raspberry Pi Connect 베타 발표]]></title>
         <id>https://www.raspberrypi.com/news/raspberry-pi-connect/</id>
         <link href="https://www.raspberrypi.com/news/raspberry-pi-connect/"/>
         <updated>2024-05-10T00:55:30.694Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14735"><a class="upvote" href="javascript:vote(14735, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.raspberrypi.com/news/raspberry-pi-connect/" rel="nofollow" id="tr5"><h1>Raspberry Pi Connect 베타 발표</h1></a> <span class="topicurl">(raspberrypi.com)</span></div><div class="topicdesc"><a href="topic?id=14735" class="c99 breakall">- 라즈베리 파이를 원격에서 브라우저로 접속 가능하게 해주는 기술   
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14735"><a class="upvote" href="javascript:vote(14735, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.raspberrypi.com/news/raspberry-pi-connect/" rel="nofollow" id="tr6"><h1>Raspberry Pi Connect 베타 발표</h1></a> <span class="topicurl">(raspberrypi.com)</span></div><div class="topicdesc"><a href="topic?id=14735" class="c99 breakall">- 라즈베리 파이를 원격에서 브라우저로 접속 가능하게 해주는 기술   
 - VNC등의 대체 방법이 있지만 설정이 복잡했어서, 즉시 이용가능한 도구...</a></div><div class="topicinfo"><span id="tp14735">9</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14735"></span> | <a href="topic?id=14735" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -53,7 +61,7 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
         <id>https://caniwebview.com/</id>
         <link href="https://caniwebview.com/"/>
         <updated>2024-05-09T01:56:33.996Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14719"><a class="upvote" href="javascript:vote(14719, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://caniwebview.com/" rel="nofollow" id="tr6"><h1>Can I Webview - 웹뷰를 위한 Can I Use</h1></a> <span class="topicurl">(caniwebview.com)</span></div><div class="topicdesc"><a href="topic?id=14719" class="c99 breakall">- 각 웹뷰에서 특정 API를 사용가능한지 알려주는 사이트   
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14719"><a class="upvote" href="javascript:vote(14719, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://caniwebview.com/" rel="nofollow" id="tr7"><h1>Can I Webview - 웹뷰를 위한 Can I Use</h1></a> <span class="topicurl">(caniwebview.com)</span></div><div class="topicdesc"><a href="topic?id=14719" class="c99 breakall">- 각 웹뷰에서 특정 API를 사용가능한지 알려주는 사이트   
   - WKWebView(애플), Webview2(Microsoft), Android Webview   
 - Web API  
   - ...</a></div><div class="topicinfo"><span id="tp14719">20</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14719"></span> | <a href="topic?id=14719" class="u">댓글과 토론</a></div>]]></content>
@@ -63,7 +71,7 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
         <id>https://every.to/napkin-math/distribution-is-king</id>
         <link href="https://every.to/napkin-math/distribution-is-king"/>
         <updated>2024-05-07T02:30:11.636Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14686"><a class="upvote" href="javascript:vote(14686, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/napkin-math/distribution-is-king" rel="nofollow" id="tr7"><h1>Distribution Is King : 유통이 왕이다</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14686" class="c99 breakall">- "콘텐츠 혁신은 청중을 늘리고, 유통 혁신은 기업 가치를 창출한다"  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14686"><a class="upvote" href="javascript:vote(14686, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/napkin-math/distribution-is-king" rel="nofollow" id="tr8"><h1>Distribution Is King : 유통이 왕이다</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14686" class="c99 breakall">- "콘텐츠 혁신은 청중을 늘리고, 유통 혁신은 기업 가치를 창출한다"  
   - 우리가 만드는 제품과 콘텐츠가 기업의 가치를 만든다고 생각하기 쉬...</a></div><div class="topicinfo"><span id="tp14686">45</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14686"></span> | <a href="topic?id=14686" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -71,7 +79,7 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
         <id>https://github.com/ibm-granite/granite-code-models</id>
         <link href="https://github.com/ibm-granite/granite-code-models"/>
         <updated>2024-05-10T00:55:30.704Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14736"><a class="upvote" href="javascript:vote(14736, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ibm-granite/granite-code-models" rel="nofollow" id="tr8"><h1>IBM Granite - 코드 작성용 오픈 파운데이션 모델 패밀리</h1></a> <span class="topicurl">(github.com/ibm-granite)</span></div><div class="topicdesc"><a href="topic?id=14736" class="c99 breakall">- 코드 관련 작업(버그 수정, 코드 설명, 코드 문서화)을 위한 decoder-only 코드 모델   
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14736"><a class="upvote" href="javascript:vote(14736, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ibm-granite/granite-code-models" rel="nofollow" id="tr9"><h1>IBM Granite - 코드 작성용 오픈 파운데이션 모델 패밀리</h1></a> <span class="topicurl">(github.com/ibm-granite)</span></div><div class="topicdesc"><a href="topic?id=14736" class="c99 breakall">- 코드 관련 작업(버그 수정, 코드 설명, 코드 문서화)을 위한 decoder-only 코드 모델   
 - 116개의 프로그래밍 언어로 학습   
 - 두가지 모델...</a></div><div class="topicinfo"><span id="tp14736">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14736"></span> | <a href="topic?id=14736" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -80,15 +88,7 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
         <id>https://www.aitimes.kr/news/articleView.html?idxno=31089</id>
         <link href="https://www.aitimes.kr/news/articleView.html?idxno=31089"/>
         <updated>2024-05-09T06:17:40.578Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14732"><a class="upvote" href="javascript:vote(14732, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.aitimes.kr/news/articleView.html?idxno=31089" rel="nofollow" id="tr9"><h1>KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공</h1></a> <span class="topicurl">(aitimes.kr)</span></div><div class="topicdesc"><a href="topic?id=14732" class="c99 breakall">- 자바스크립트는 가장 활발하게 사용되는 프로그래밍 언어로, tc39에서 유지 관리하는 ecma 262라는 언어 사양과 다양한 구현을 갖추고 있습니다....</a></div><div class="topicinfo"><span id="tp14732">11</span> points by <a href="/user?id=tsboard">tsboard</a> 2일전<span id="unvote14732"></span> | <a href="topic?id=14732" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[node-mlx - Node.js용 머신 러닝 프레임워크]]></title>
-        <id>https://github.com/frost-beta/node-mlx</id>
-        <link href="https://github.com/frost-beta/node-mlx"/>
-        <updated>2024-05-11T01:52:06.156Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14757"><a class="upvote" href="javascript:vote(14757, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frost-beta/node-mlx" rel="nofollow" id="tr10"><h1>node-mlx - Node.js용 머신 러닝 프레임워크</h1></a> <span class="topicurl">(github.com/frost-beta)</span></div><div class="topicdesc"><a href="topic?id=14757" class="c99 breakall">- 애플의 MLX기반 (애플실리콘용 어레이 프레임워크, NumPy와 비슷)  
-- MLX의 공식 Python API를 node.js 에 맞게 이름만 변경(snake_case to ca...</a></div><div class="topicinfo"><span id="tp14757">1</span> point by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote14757"></span> | <a href="topic?id=14757" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14732"><a class="upvote" href="javascript:vote(14732, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.aitimes.kr/news/articleView.html?idxno=31089" rel="nofollow" id="tr10"><h1>KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공</h1></a> <span class="topicurl">(aitimes.kr)</span></div><div class="topicdesc"><a href="topic?id=14732" class="c99 breakall">- 자바스크립트는 가장 활발하게 사용되는 프로그래밍 언어로, tc39에서 유지 관리하는 ecma 262라는 언어 사양과 다양한 구현을 갖추고 있습니다....</a></div><div class="topicinfo"><span id="tp14732">11</span> points by <a href="/user?id=tsboard">tsboard</a> 2일전<span id="unvote14732"></span> | <a href="topic?id=14732" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xmake - Lua 기반 크로스플랫폼 빌드 유틸리티]]></title>
@@ -154,19 +154,11 @@ GitHub...</a></div><div class="topicinfo"><span id="tp14690">24</span> points by
   - 각 셀은 다른 셀에서 액세스할 수 있...</a></div><div class="topicinfo"><span id="tp14707">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14707"></span> | <a href="topic?id=14707" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI, Model Spec 공개]]></title>
-        <id>https://openai.com/index/introducing-the-model-spec/</id>
-        <link href="https://openai.com/index/introducing-the-model-spec/"/>
-        <updated>2024-05-10T23:12:59.492Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14745"><a class="upvote" href="javascript:vote(14745, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-the-model-spec/" rel="nofollow" id="tr18"><h1>OpenAI, Model Spec 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=14745" class="c99 breakall">대화형 AI 모델이 어떻게 동작해야 하는지에 대한 대중의 이해를 높이기 위해 '모델 사양(Model Spec)'이라는 문서를 공개  
-- 모델 스펙은 OpenA...</a></div><div class="topicinfo"><span id="tp14745">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14745"></span> | <a href="topic?id=14745" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[APPLE의 M4칩 공개, 이제 시작되었다]]></title>
         <id>https://www.youtube.com/watch?v=TsKHjFeonRE</id>
         <link href="https://www.youtube.com/watch?v=TsKHjFeonRE"/>
         <updated>2024-05-09T01:56:33.996Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14727"><a class="upvote" href="javascript:vote(14727, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=TsKHjFeonRE" rel="nofollow" id="tr19"><h1>APPLE의 M4칩 공개, 이제 시작되었다</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=14727" class="c99 breakall">### 애플, 강력한 M4 칩 공개  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14727"><a class="upvote" href="javascript:vote(14727, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=TsKHjFeonRE" rel="nofollow" id="tr18"><h1>APPLE의 M4칩 공개, 이제 시작되었다</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=14727" class="c99 breakall">### 애플, 강력한 M4 칩 공개  
 Apple은 이전 제품보다 50% 빠른 CPU, 내장형 레이 트레이싱, 초당 38조 번의 연산이 가능한 신경 엔진을 자랑하...</a></div><div class="topicinfo"><span id="tp14727">7</span> points by <a href="/user?id=corelyai">corelyai</a> 2일전<span id="unvote14727"></span> | <a href="topic?id=14727" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
@@ -174,7 +166,15 @@ Apple은 이전 제품보다 50% 빠른 CPU, 내장형 레이 트레이싱, 초�
         <id>https://www.youtube.com/watch?v=5puu3kN9l7c</id>
         <link href="https://www.youtube.com/watch?v=5puu3kN9l7c"/>
         <updated>2024-05-09T01:56:33.997Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14726"><a class="upvote" href="javascript:vote(14726, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=5puu3kN9l7c" rel="nofollow" id="tr20"><h1>구글 CEO Sundar Pichai가 말하는 AI의 미래</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=14726" class="c99 breakall">### 순다르 피차이와 함께하는 구글의 영향력과 미래  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14726"><a class="upvote" href="javascript:vote(14726, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=5puu3kN9l7c" rel="nofollow" id="tr19"><h1>구글 CEO Sundar Pichai가 말하는 AI의 미래</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=14726" class="c99 breakall">### 순다르 피차이와 함께하는 구글의 영향력과 미래  
 순다르 피차이 CEO가 이끄는 Google은 경쟁이 심화되는 가운데 인터넷의 주요 관문으로서...</a></div><div class="topicinfo"><span id="tp14726">7</span> points by <a href="/user?id=corelyai">corelyai</a> 2일전<span id="unvote14726"></span> | <a href="topic?id=14726" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI, Model Spec 공개]]></title>
+        <id>https://openai.com/index/introducing-the-model-spec/</id>
+        <link href="https://openai.com/index/introducing-the-model-spec/"/>
+        <updated>2024-05-10T23:12:59.492Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14745"><a class="upvote" href="javascript:vote(14745, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-the-model-spec/" rel="nofollow" id="tr20"><h1>OpenAI, Model Spec 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=14745" class="c99 breakall">대화형 AI 모델이 어떻게 동작해야 하는지에 대한 대중의 이해를 높이기 위해 '모델 사양(Model Spec)'이라는 문서를 공개  
+- 모델 스펙은 OpenA...</a></div><div class="topicinfo"><span id="tp14745">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14745"></span> | <a href="topic?id=14745" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
