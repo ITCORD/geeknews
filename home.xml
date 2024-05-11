@@ -2,43 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-05-11T08:15:50.858Z</updated>
+    <updated>2024-05-11T09:13:46.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어]]></title>
-        <id>https://news.hada.io/topic?id=14749</id>
-        <link href="https://news.hada.io/topic?id=14749"/>
-        <updated>2024-05-11T00:54:44.179Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14749"><a class="upvote" href="javascript:vote(14749, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/c4pt0r/kvql" rel="nofollow" id="tr1"><h1>kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어</h1></a> <span class="topicurl">(github.com/c4pt0r)</span></div><div class="topicdesc"><a href="topic?id=14749" class="c99 breakall">- SELECT, PUT, DELETE 로 조회,삽입,삭제 가능   
-```  
-# 간단한 쿼리, 키 접두사 'k'가 포함된 모든 키-값 쌍 가져오기  
-select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote14749"></span> | <a href="topic?id=14749" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[국내 DNS 에서 *.vercel.app 도메인 접근 불가]]></title>
         <id>https://news.hada.io/topic?id=14759</id>
         <link href="https://news.hada.io/topic?id=14759"/>
         <updated>2024-05-11T08:15:12.512Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14759"><a class="upvote" href="javascript:vote(14759, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/orgs/vercel/discussions/6807" rel="nofollow" id="tr2"><h1>국내 DNS 에서 *.vercel.app 도메인 접근 불가</h1></a> <span class="topicurl">(github.com/orgs)</span></div><div class="topicdesc"><a href="topic?id=14759" class="c99 breakall">- 최근 국내에서 Vercel 접속 시 속도 이슈가 있었던 상황에서 국내 DNS 에서 *.vercel.app 도메인에 대한 차단이 이루어진 것으로 보임  
-- 이전...</a></div><div class="topicinfo"><span id="tp14759">1</span> point by <a href="/user?id=safethecode">safethecode</a> 54분전<span id="unvote14759"></span> | <a href="topic?id=14759" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14759"><a class="upvote" href="javascript:vote(14759, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/orgs/vercel/discussions/6807" rel="nofollow" id="tr1"><h1>국내 DNS 에서 *.vercel.app 도메인 접근 불가</h1></a> <span class="topicurl">(github.com/orgs)</span></div><div class="topicdesc"><a href="topic?id=14759" class="c99 breakall">- 최근 국내에서 Vercel 접속 시 속도 이슈가 있었던 상황에서 국내 DNS 에서 *.vercel.app 도메인에 대한 차단이 이루어진 것으로 보임  
+- 이전...</a></div><div class="topicinfo"><span id="tp14759">2</span> points by <a href="/user?id=safethecode">safethecode</a> 2시간전<span id="unvote14759"></span> | <a href="topic?id=14759" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scrapegraph-ai - LLM과 직접 그래프 로직을 이용한 웹 스크래핑]]></title>
-        <id>https://news.hada.io/topic?id=14737</id>
-        <link href="https://news.hada.io/topic?id=14737"/>
-        <updated>2024-05-10T00:55:26.365Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14737"><a class="upvote" href="javascript:vote(14737, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/VinciGit00/Scrapegraph-ai" rel="nofollow" id="tr3"><h1>Scrapegraph-ai - LLM과 직접 그래프 로직을 이용한 웹 스크래핑</h1></a> <span class="topicurl">(github.com/VinciGit00)</span></div><div class="topicdesc"><a href="topic?id=14737" class="c99 breakall">- AI기반의 웹 스크래핑 파이썬 오픈소스 라이브러리   
-  - LLM과 직접 그래프 로직을 사용해 웹사이트, 문서, XML 파일에 대한 스크래핑 파이프...</a></div><div class="topicinfo"><span id="tp14737">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14737"></span> | <a href="topic?id=14737" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어]]></title>
+        <id>https://news.hada.io/topic?id=14749</id>
+        <link href="https://news.hada.io/topic?id=14749"/>
+        <updated>2024-05-11T00:54:44.179Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14749"><a class="upvote" href="javascript:vote(14749, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/c4pt0r/kvql" rel="nofollow" id="tr2"><h1>kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어</h1></a> <span class="topicurl">(github.com/c4pt0r)</span></div><div class="topicdesc"><a href="topic?id=14749" class="c99 breakall">- SELECT, PUT, DELETE 로 조회,삽입,삭제 가능   
+```  
+# 간단한 쿼리, 키 접두사 'k'가 포함된 모든 키-값 쌍 가져오기  
+select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote14749"></span> | <a href="topic?id=14749" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: JavaScript에서 한글을 다루는 현대적인 라이브러리]]></title>
         <id>https://news.hada.io/topic?id=14731</id>
         <link href="https://news.hada.io/topic?id=14731"/>
         <updated>2024-05-09T04:18:01.873Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14731"><a class="upvote" href="javascript:vote(14731, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14731" rel="nofollow" id="tr4"><h1>Show GN: JavaScript에서 한글을 다루는 현대적인 라이브러리</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=14731" class="c99 breakall">안녕하세요, 토스에서 현대적인 JavaScript 한글 라이브러리를 새로 오픈소스로 공개했습니다!  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14731"><a class="upvote" href="javascript:vote(14731, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14731" rel="nofollow" id="tr3"><h1>Show GN: JavaScript에서 한글을 다루는 현대적인 라이브러리</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=14731" class="c99 breakall">안녕하세요, 토스에서 현대적인 JavaScript 한글 라이브러리를 새로 오픈소스로 공개했습니다!  
   
-- [GitHub](https://github.com/toss/es-han...</a></div><div class="topicinfo"><span id="tp14731">32</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote14731"></span> | <a href="topic?id=14731" class="u">댓글 2개</a></div>]]></content>
+- [GitHub](https://github.com/toss/es-han...</a></div><div class="topicinfo"><span id="tp14731">33</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote14731"></span> | <a href="topic?id=14731" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scrapegraph-ai - LLM과 직접 그래프 로직을 이용한 웹 스크래핑]]></title>
+        <id>https://news.hada.io/topic?id=14737</id>
+        <link href="https://news.hada.io/topic?id=14737"/>
+        <updated>2024-05-10T00:55:26.365Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14737"><a class="upvote" href="javascript:vote(14737, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/VinciGit00/Scrapegraph-ai" rel="nofollow" id="tr4"><h1>Scrapegraph-ai - LLM과 직접 그래프 로직을 이용한 웹 스크래핑</h1></a> <span class="topicurl">(github.com/VinciGit00)</span></div><div class="topicdesc"><a href="topic?id=14737" class="c99 breakall">- AI기반의 웹 스크래핑 파이썬 오픈소스 라이브러리   
+  - LLM과 직접 그래프 로직을 사용해 웹사이트, 문서, XML 파일에 대한 스크래핑 파이프...</a></div><div class="topicinfo"><span id="tp14737">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14737"></span> | <a href="topic?id=14737" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Raspberry Pi Connect 베타 발표]]></title>
@@ -59,36 +59,36 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
   - ...</a></div><div class="topicinfo"><span id="tp14719">20</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14719"></span> | <a href="topic?id=14719" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBM Granite - 코드 작성용 오픈 파운데이션 모델 패밀리]]></title>
-        <id>https://news.hada.io/topic?id=14736</id>
-        <link href="https://news.hada.io/topic?id=14736"/>
-        <updated>2024-05-10T00:55:26.366Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14736"><a class="upvote" href="javascript:vote(14736, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ibm-granite/granite-code-models" rel="nofollow" id="tr7"><h1>IBM Granite - 코드 작성용 오픈 파운데이션 모델 패밀리</h1></a> <span class="topicurl">(github.com/ibm-granite)</span></div><div class="topicdesc"><a href="topic?id=14736" class="c99 breakall">- 코드 관련 작업(버그 수정, 코드 설명, 코드 문서화)을 위한 decoder-only 코드 모델   
-- 116개의 프로그래밍 언어로 학습   
-- 두가지 모델...</a></div><div class="topicinfo"><span id="tp14736">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14736"></span> | <a href="topic?id=14736" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Distribution Is King : 유통이 왕이다]]></title>
         <id>https://news.hada.io/topic?id=14686</id>
         <link href="https://news.hada.io/topic?id=14686"/>
         <updated>2024-05-07T02:30:07.864Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14686"><a class="upvote" href="javascript:vote(14686, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/napkin-math/distribution-is-king" rel="nofollow" id="tr8"><h1>Distribution Is King : 유통이 왕이다</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14686" class="c99 breakall">- "콘텐츠 혁신은 청중을 늘리고, 유통 혁신은 기업 가치를 창출한다"  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote14686"><a class="upvote" href="javascript:vote(14686, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://every.to/napkin-math/distribution-is-king" rel="nofollow" id="tr7"><h1>Distribution Is King : 유통이 왕이다</h1></a> <span class="topicurl">(every.to)</span></div><div class="topicdesc"><a href="topic?id=14686" class="c99 breakall">- "콘텐츠 혁신은 청중을 늘리고, 유통 혁신은 기업 가치를 창출한다"  
   - 우리가 만드는 제품과 콘텐츠가 기업의 가치를 만든다고 생각하기 쉬...</a></div><div class="topicinfo"><span id="tp14686">45</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14686"></span> | <a href="topic?id=14686" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[node-mlx - Node.js용 머신 러닝 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=14757</id>
-        <link href="https://news.hada.io/topic?id=14757"/>
-        <updated>2024-05-11T01:52:02.168Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14757"><a class="upvote" href="javascript:vote(14757, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frost-beta/node-mlx" rel="nofollow" id="tr9"><h1>node-mlx - Node.js용 머신 러닝 프레임워크</h1></a> <span class="topicurl">(github.com/frost-beta)</span></div><div class="topicdesc"><a href="topic?id=14757" class="c99 breakall">- 애플의 MLX기반 (애플실리콘용 어레이 프레임워크, NumPy와 비슷)  
-- MLX의 공식 Python API를 node.js 에 맞게 이름만 변경(snake_case to ca...</a></div><div class="topicinfo"><span id="tp14757">1</span> point by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote14757"></span> | <a href="topic?id=14757" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[IBM Granite - 코드 작성용 오픈 파운데이션 모델 패밀리]]></title>
+        <id>https://news.hada.io/topic?id=14736</id>
+        <link href="https://news.hada.io/topic?id=14736"/>
+        <updated>2024-05-10T00:55:26.366Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14736"><a class="upvote" href="javascript:vote(14736, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ibm-granite/granite-code-models" rel="nofollow" id="tr8"><h1>IBM Granite - 코드 작성용 오픈 파운데이션 모델 패밀리</h1></a> <span class="topicurl">(github.com/ibm-granite)</span></div><div class="topicdesc"><a href="topic?id=14736" class="c99 breakall">- 코드 관련 작업(버그 수정, 코드 설명, 코드 문서화)을 위한 decoder-only 코드 모델   
+- 116개의 프로그래밍 언어로 학습   
+- 두가지 모델...</a></div><div class="topicinfo"><span id="tp14736">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14736"></span> | <a href="topic?id=14736" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공]]></title>
         <id>https://news.hada.io/topic?id=14732</id>
         <link href="https://news.hada.io/topic?id=14732"/>
         <updated>2024-05-09T06:17:36.591Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14732"><a class="upvote" href="javascript:vote(14732, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.aitimes.kr/news/articleView.html?idxno=31089" rel="nofollow" id="tr10"><h1>KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공</h1></a> <span class="topicurl">(aitimes.kr)</span></div><div class="topicdesc"><a href="topic?id=14732" class="c99 breakall">- 자바스크립트는 가장 활발하게 사용되는 프로그래밍 언어로, tc39에서 유지 관리하는 ecma 262라는 언어 사양과 다양한 구현을 갖추고 있습니다....</a></div><div class="topicinfo"><span id="tp14732">11</span> points by <a href="/user?id=tsboard">tsboard</a> 2일전<span id="unvote14732"></span> | <a href="topic?id=14732" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14732"><a class="upvote" href="javascript:vote(14732, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.aitimes.kr/news/articleView.html?idxno=31089" rel="nofollow" id="tr9"><h1>KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공</h1></a> <span class="topicurl">(aitimes.kr)</span></div><div class="topicdesc"><a href="topic?id=14732" class="c99 breakall">- 자바스크립트는 가장 활발하게 사용되는 프로그래밍 언어로, tc39에서 유지 관리하는 ecma 262라는 언어 사양과 다양한 구현을 갖추고 있습니다....</a></div><div class="topicinfo"><span id="tp14732">11</span> points by <a href="/user?id=tsboard">tsboard</a> 2일전<span id="unvote14732"></span> | <a href="topic?id=14732" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[node-mlx - Node.js용 머신 러닝 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=14757</id>
+        <link href="https://news.hada.io/topic?id=14757"/>
+        <updated>2024-05-11T01:52:02.168Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14757"><a class="upvote" href="javascript:vote(14757, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frost-beta/node-mlx" rel="nofollow" id="tr10"><h1>node-mlx - Node.js용 머신 러닝 프레임워크</h1></a> <span class="topicurl">(github.com/frost-beta)</span></div><div class="topicdesc"><a href="topic?id=14757" class="c99 breakall">- 애플의 MLX기반 (애플실리콘용 어레이 프레임워크, NumPy와 비슷)  
+- MLX의 공식 Python API를 node.js 에 맞게 이름만 변경(snake_case to ca...</a></div><div class="topicinfo"><span id="tp14757">1</span> point by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote14757"></span> | <a href="topic?id=14757" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xmake - Lua 기반 크로스플랫폼 빌드 유틸리티]]></title>
@@ -145,21 +145,21 @@ GitHub...</a></div><div class="topicinfo"><span id="tp14690">24</span> points by
   - 다양한 공개 벤치...</a></div><div class="topicinfo"><span id="tp14733">5</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14733"></span> | <a href="topic?id=14733" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI, Model Spec 공개]]></title>
-        <id>https://news.hada.io/topic?id=14745</id>
-        <link href="https://news.hada.io/topic?id=14745"/>
-        <updated>2024-05-10T23:12:55.497Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14745"><a class="upvote" href="javascript:vote(14745, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-the-model-spec/" rel="nofollow" id="tr17"><h1>OpenAI, Model Spec 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=14745" class="c99 breakall">대화형 AI 모델이 어떻게 동작해야 하는지에 대한 대중의 이해를 높이기 위해 '모델 사양(Model Spec)'이라는 문서를 공개  
-- 모델 스펙은 OpenA...</a></div><div class="topicinfo"><span id="tp14745">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14745"></span> | <a href="topic?id=14745" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pyspread - 파이썬 스프레드시트]]></title>
         <id>https://news.hada.io/topic?id=14707</id>
         <link href="https://news.hada.io/topic?id=14707"/>
         <updated>2024-05-08T01:32:50.245Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14707"><a class="upvote" href="javascript:vote(14707, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pyspread.gitlab.io/" rel="nofollow" id="tr18"><h1>Pyspread - 파이썬 스프레드시트</h1></a> <span class="topicurl">(pyspread.gitlab.io)</span></div><div class="topicdesc"><a href="topic?id=14707" class="c99 breakall">- 가장 파이썬스러운 스프레드 시트가 되는 것을 목표로 함   
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote14707"><a class="upvote" href="javascript:vote(14707, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pyspread.gitlab.io/" rel="nofollow" id="tr17"><h1>Pyspread - 파이썬 스프레드시트</h1></a> <span class="topicurl">(pyspread.gitlab.io)</span></div><div class="topicdesc"><a href="topic?id=14707" class="c99 breakall">- 가장 파이썬스러운 스프레드 시트가 되는 것을 목표로 함   
 - 그리드 셀에 Python 표현식을 사용  
   - 각 셀은 다른 셀에서 액세스할 수 있...</a></div><div class="topicinfo"><span id="tp14707">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14707"></span> | <a href="topic?id=14707" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI, Model Spec 공개]]></title>
+        <id>https://news.hada.io/topic?id=14745</id>
+        <link href="https://news.hada.io/topic?id=14745"/>
+        <updated>2024-05-10T23:12:55.497Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote14745"><a class="upvote" href="javascript:vote(14745, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-the-model-spec/" rel="nofollow" id="tr18"><h1>OpenAI, Model Spec 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=14745" class="c99 breakall">대화형 AI 모델이 어떻게 동작해야 하는지에 대한 대중의 이해를 높이기 위해 '모델 사양(Model Spec)'이라는 문서를 공개  
+- 모델 스펙은 OpenA...</a></div><div class="topicinfo"><span id="tp14745">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14745"></span> | <a href="topic?id=14745" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[APPLE의 M4칩 공개, 이제 시작되었다]]></title>
