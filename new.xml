@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2024-05-11T15:12:13.570Z</updated>
+    <updated>2024-05-11T16:15:18.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=14759"/>
         <updated>2024-05-11T08:15:20.741Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14759"><a class="upvote" href="javascript:vote(14759, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/orgs/vercel/discussions/6807" rel="nofollow" id="tr1"><h1>국내 DNS 에서 *.vercel.app 도메인 접근 불가</h1></a> <span class="topicurl">(github.com/orgs)</span></div><div class="topicdesc"><a href="topic?id=14759" class="c99 breakall">- 최근 국내에서 Vercel 접속 시 속도 이슈가 있었던 상황에서 국내 DNS 에서 *.vercel.app 도메인에 대한 차단이 이루어진 것으로 보임  
-- 이전...</a></div><div class="topicinfo"><span id="tp14759">3</span> points by <a href="/user?id=safethecode">safethecode</a> 8시간전<span id="unvote14759"></span> | <a href="topic?id=14759" class="u">댓글 3개</a></div>]]></content>
+- 이전...</a></div><div class="topicinfo"><span id="tp14759">4</span> points by <a href="/user?id=safethecode">safethecode</a> 9시간전<span id="unvote14759"></span> | <a href="topic?id=14759" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[node-mlx - Node.js용 머신 러닝 프레임워크]]></title>
@@ -19,7 +19,7 @@
         <link href="https://news.hada.io/topic?id=14757"/>
         <updated>2024-05-11T01:52:10.287Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14757"><a class="upvote" href="javascript:vote(14757, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frost-beta/node-mlx" rel="nofollow" id="tr2"><h1>node-mlx - Node.js용 머신 러닝 프레임워크</h1></a> <span class="topicurl">(github.com/frost-beta)</span></div><div class="topicdesc"><a href="topic?id=14757" class="c99 breakall">- 애플의 MLX기반 (애플실리콘용 어레이 프레임워크, NumPy와 비슷)  
-- MLX의 공식 Python API를 node.js 에 맞게 이름만 변경(snake_case to ca...</a></div><div class="topicinfo"><span id="tp14757">3</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote14757"></span> | <a href="topic?id=14757" class="u">댓글과 토론</a></div>]]></content>
+- MLX의 공식 Python API를 node.js 에 맞게 이름만 변경(snake_case to ca...</a></div><div class="topicinfo"><span id="tp14757">4</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote14757"></span> | <a href="topic?id=14757" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어]]></title>
@@ -29,7 +29,7 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14749"><a class="upvote" href="javascript:vote(14749, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/c4pt0r/kvql" rel="nofollow" id="tr3"><h1>kvql - 키-밸류 DB를 위한 SQL과 비슷한 쿼리 언어</h1></a> <span class="topicurl">(github.com/c4pt0r)</span></div><div class="topicdesc"><a href="topic?id=14749" class="c99 breakall">- SELECT, PUT, DELETE 로 조회,삽입,삭제 가능   
 ```  
 # 간단한 쿼리, 키 접두사 'k'가 포함된 모든 키-값 쌍 가져오기  
-select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote14749"></span> | <a href="topic?id=14749" class="u">댓글과 토론</a></div>]]></content>
+select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote14749"></span> | <a href="topic?id=14749" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -98,7 +98,7 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
         <updated>2024-05-09T04:18:10.170Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14731"><a class="upvote" href="javascript:vote(14731, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=14731" rel="nofollow" id="tr11"><h1>Show GN: JavaScript에서 한글을 다루는 현대적인 라이브러리</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=14731" class="c99 breakall">안녕하세요, 토스에서 현대적인 JavaScript 한글 라이브러리를 새로 오픈소스로 공개했습니다!  
   
-- [GitHub](https://github.com/toss/es-han...</a></div><div class="topicinfo"><span id="tp14731">33</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote14731"></span> | <a href="topic?id=14731" class="u">댓글 3개</a></div>]]></content>
+- [GitHub](https://github.com/toss/es-han...</a></div><div class="topicinfo"><span id="tp14731">33</span> points by <a href="/user?id=raon0211">raon0211</a> 3일전<span id="unvote14731"></span> | <a href="topic?id=14731" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TSDB를 활용하여 실시간 FFT(고속 푸리에 변환) 수행  사례]]></title>
@@ -106,7 +106,7 @@ select * where ke...</a></div><div class="topicinfo"><span id="tp14749">4</span>
         <link href="https://news.hada.io/topic?id=14729"/>
         <updated>2024-05-09T01:56:38.093Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14729"><a class="upvote" href="javascript:vote(14729, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.machbase.com/post/machbase-neo-tsdb-fft-analytics" rel="nofollow" id="tr12"><h1>TSDB를 활용하여 실시간 FFT(고속 푸리에 변환) 수행  사례 </h1></a> <span class="topicurl">(machbase.com)</span></div><div class="topicdesc"><a href="topic?id=14729" class="c99 breakall">현업에서는 FFT 분석과 더불어 나중에 AI 학습을 위해서도 데이터를 버리지 않기를 원하고 있음.   
-데이터를 버리지  않고도 실시간으로 대용량...</a></div><div class="topicinfo"><span id="tp14729">9</span> points by <a href="/user?id=sjkim1971">sjkim1971</a> 3일전<span id="unvote14729"></span> | <a href="topic?id=14729" class="u">댓글 2개</a></div>]]></content>
+데이터를 버리지  않고도 실시간으로 대용량...</a></div><div class="topicinfo"><span id="tp14729">10</span> points by <a href="/user?id=sjkim1971">sjkim1971</a> 3일전<span id="unvote14729"></span> | <a href="topic?id=14729" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[APPLE의 M4칩 공개, 이제 시작되었다]]></title>
