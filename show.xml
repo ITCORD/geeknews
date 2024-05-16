@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-05-16T09:13:23.154Z</updated>
+    <updated>2024-05-16T10:13:56.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 하이브리드 서치 엔진]]></title>
+        <id>https://news.hada.io/topic?id=14849</id>
+        <link href="https://news.hada.io/topic?id=14849"/>
+        <updated>2024-05-16T10:13:36.769Z</updated>
+        <content type="html"><![CDATA[baegyutae]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Pulse - The modern MongoDB-powered scheduling library for Node.js]]></title>
         <id>https://news.hada.io/topic?id=14830</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13811"/>
         <updated>2024-04-07T11:11:09.588Z</updated>
         <content type="html"><![CDATA[zzsza]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 괜찮은 스타트업들의 채용 공고를 한번에 찾아볼수 있는 탐색 및 분석 서비스]]></title>
-        <id>https://news.hada.io/topic?id=13775</id>
-        <link href="https://news.hada.io/topic?id=13775"/>
-        <updated>2024-05-09T00:56:04.277Z</updated>
-        <content type="html"><![CDATA[dongkroot]]></content>
     </entry>
 </feed>
