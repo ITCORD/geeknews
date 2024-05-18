@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-05-18T04:15:23.829Z</updated>
+    <updated>2024-05-18T05:14:06.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,14 +12,22 @@
         <updated>2024-05-18T01:53:09.769Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14872"><a class="upvote" href="javascript:vote(14872, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://rust-exercises.com/" rel="nofollow" id="tr1"><h1>GN⁺: Rust 학습을 위한 100가지 연습 문제</h1></a> <span class="topicurl">(rust-exercises.com)</span></div><div class="topicdesc"><a href="topic?id=14872" class="c99 breakall">- Rust의 핵심 개념을 한번에 하나씩 실습을 통해 학습하는 방식으로 구성  
 - 문법, 타입 시스템, 표준 라이브러리 및 생태계를 배울 수 있음  
-...</a></div><div class="topicinfo"><span id="tp14872">5</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote14872"></span> | <a href="topic?id=14872" class="u">댓글 1개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp14872">8</span> points by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote14872"></span> | <a href="topic?id=14872" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기]]></title>
+        <id>https://news.hada.io/topic?id=14869</id>
+        <link href="https://news.hada.io/topic?id=14869"/>
+        <updated>2024-05-18T01:53:09.780Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14869"><a class="upvote" href="javascript:vote(14869, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://smudge.ai/blog/ratelimit-algorithms" rel="nofollow" id="tr2"><h1>GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기</h1></a> <span class="topicurl">(smudge.ai)</span></div><div class="topicdesc"><a href="topic?id=14869" class="c99 breakall"># 왜 Rate Limit(사용량 제한)이 필요한가?  
+- 많은 참여자가 있는 트위치 채팅에서 스패머 한 명이 있을 때, 사용량 제한이 없다면 스패머가 대...</a></div><div class="topicinfo"><span id="tp14869">2</span> points by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote14869"></span> | <a href="topic?id=14869" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Piko - Ngrok의 오픈소스 대체제]]></title>
         <id>https://news.hada.io/topic?id=14833</id>
         <link href="https://news.hada.io/topic?id=14833"/>
         <updated>2024-05-16T00:56:02.949Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14833"><a class="upvote" href="javascript:vote(14833, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andydunstall/piko" rel="nofollow" id="tr2"><h1>Piko - Ngrok의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/andydunstall)</span></div><div class="topicdesc"><a href="topic?id=14833" class="c99 breakall">- 외부 네트워크로 터널링하는 리버스 프록시   
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14833"><a class="upvote" href="javascript:vote(14833, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andydunstall/piko" rel="nofollow" id="tr3"><h1>Piko - Ngrok의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/andydunstall)</span></div><div class="topicdesc"><a href="topic?id=14833" class="c99 breakall">- 외부 네트워크로 터널링하는 리버스 프록시   
 - 프로덕션 수준의 트래픽을 처리하며, 호스팅(특히 Kubernetes에서)이 간단하도록 설계됨  
 - ...</a></div><div class="topicinfo"><span id="tp14833">31</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14833"></span> | <a href="topic?id=14833" class="u">댓글 5개</a></div>]]></content>
     </entry>
@@ -28,7 +36,7 @@
         <id>https://news.hada.io/topic?id=14856</id>
         <link href="https://news.hada.io/topic?id=14856"/>
         <updated>2024-05-17T01:54:40.182Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14856"><a class="upvote" href="javascript:vote(14856, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.likejazz.com/llama3.np-ko/" rel="nofollow" id="tr3"><h1>GN⁺: 순수 NumPy로 구현하는 라마 3 모델</h1></a> <span class="topicurl">(docs.likejazz.com)</span></div><div class="topicdesc"><a href="topic?id=14856" class="c99 breakall">- Llama 3 모델의 실제 동작 가능한 구현을 통해 정확한 구조 이해 하기   
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14856"><a class="upvote" href="javascript:vote(14856, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://docs.likejazz.com/llama3.np-ko/" rel="nofollow" id="tr4"><h1>GN⁺: 순수 NumPy로 구현하는 라마 3 모델</h1></a> <span class="topicurl">(docs.likejazz.com)</span></div><div class="topicdesc"><a href="topic?id=14856" class="c99 breakall">- Llama 3 모델의 실제 동작 가능한 구현을 통해 정확한 구조 이해 하기   
   
 # 개요  
   
@@ -39,16 +47,8 @@
         <id>https://news.hada.io/topic?id=14850</id>
         <link href="https://news.hada.io/topic?id=14850"/>
         <updated>2024-05-16T13:14:24.997Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14850"><a class="upvote" href="javascript:vote(14850, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=7AS94R-7YCs" rel="nofollow" id="tr4"><h1>직장에서 인정 받기 위한 5가지 팁 (하버드 비즈니스 스쿨)</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=14850" class="c99 breakall">1. 내가 먼저 경청하고, 핵심만 말하세요  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14850"><a class="upvote" href="javascript:vote(14850, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=7AS94R-7YCs" rel="nofollow" id="tr5"><h1>직장에서 인정 받기 위한 5가지 팁 (하버드 비즈니스 스쿨)</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=14850" class="c99 breakall">1. 내가 먼저 경청하고, 핵심만 말하세요  
 다른 사람들이 내 말을 잘 들어주기를 기대하기 전에 내가 먼저 잘 듣고, 적극적이고 참여하는 경청의...</a></div><div class="topicinfo"><span id="tp14850">18</span> points by <a href="/user?id=corelyai">corelyai</a> 2일전<span id="unvote14850"></span> | <a href="topic?id=14850" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Gameface의 Android 버전 출시]]></title>
-        <id>https://news.hada.io/topic?id=14871</id>
-        <link href="https://news.hada.io/topic?id=14871"/>
-        <updated>2024-05-18T00:59:59.744Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14871"><a class="upvote" href="javascript:vote(14871, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/project-gameface-launches-on-android/" rel="nofollow" id="tr5"><h1>Project Gameface의 Android 버전 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=14871" class="c99 breakall">- 구글 I/O 2023에서 발표한 Project Gameface 오픈소스  
-  - 핸즈프리 게이밍 '마우스'로, 머리 움직임과 얼굴 제스처를 사용하여 컴퓨터 커서...</a></div><div class="topicinfo"><span id="tp14871">1</span> point by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote14871"></span> | <a href="topic?id=14871" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[풀타임 근무하는 6자녀 어머니가 취미로 만든 스위치 게임]]></title>
@@ -68,12 +68,12 @@
 - 멀웨어 URL을 수집, 추적, 공유하여 네트워크 관리자와 보안 분석가가 사이버 위협...</a></div><div class="topicinfo"><span id="tp14860">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14860"></span> | <a href="topic?id=14860" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기]]></title>
-        <id>https://news.hada.io/topic?id=14869</id>
-        <link href="https://news.hada.io/topic?id=14869"/>
-        <updated>2024-05-18T01:53:09.780Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14869"><a class="upvote" href="javascript:vote(14869, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://smudge.ai/blog/ratelimit-algorithms" rel="nofollow" id="tr8"><h1>GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기</h1></a> <span class="topicurl">(smudge.ai)</span></div><div class="topicdesc"><a href="topic?id=14869" class="c99 breakall"># 왜 Rate Limit(사용량 제한)이 필요한가?  
-- 많은 참여자가 있는 트위치 채팅에서 스패머 한 명이 있을 때, 사용량 제한이 없다면 스패머가 대...</a></div><div class="topicinfo"><span id="tp14869">1</span> point by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote14869"></span> | <a href="topic?id=14869" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Project Gameface의 Android 버전 출시]]></title>
+        <id>https://news.hada.io/topic?id=14871</id>
+        <link href="https://news.hada.io/topic?id=14871"/>
+        <updated>2024-05-18T00:59:59.744Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14871"><a class="upvote" href="javascript:vote(14871, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/project-gameface-launches-on-android/" rel="nofollow" id="tr8"><h1>Project Gameface의 Android 버전 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=14871" class="c99 breakall">- 구글 I/O 2023에서 발표한 Project Gameface 오픈소스  
+  - 핸즈프리 게이밍 '마우스'로, 머리 움직임과 얼굴 제스처를 사용하여 컴퓨터 커서...</a></div><div class="topicinfo"><span id="tp14871">1</span> point by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote14871"></span> | <a href="topic?id=14871" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구]]></title>
@@ -117,21 +117,21 @@
 - 간단하고 유연한 이...</a></div><div class="topicinfo"><span id="tp14838">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14838"></span> | <a href="topic?id=14838" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소셜 미디어의 종말: 블루스카이를 퇴사한 Jack Dorsey와의 인터뷰 요약]]></title>
-        <id>https://news.hada.io/topic?id=14843</id>
-        <link href="https://news.hada.io/topic?id=14843"/>
-        <updated>2024-05-16T01:55:18.436Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14843"><a class="upvote" href="javascript:vote(14843, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.piratewires.com/p/interview-with-jack-dorsey-mike-solana" rel="nofollow" id="tr14"><h1>소셜 미디어의 종말: 블루스카이를 퇴사한 Jack Dorsey와의 인터뷰 요약</h1></a> <span class="topicurl">(piratewires.com)</span></div><div class="topicdesc"><a href="topic?id=14843" class="c99 breakall"># 블루스카이를 떠난 이유 ( 잭은 이사회를 떠났으며 블루스카이 프로필도 삭제함 )  
-- 블루스카이가 트위터의 실수를 반복하고 있다고 느꼈음. ...</a></div><div class="topicinfo"><span id="tp14843">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14843"></span> | <a href="topic?id=14843" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google I/O 2024에서 발표된 모든 것들]]></title>
         <id>https://news.hada.io/topic?id=14823</id>
         <link href="https://news.hada.io/topic?id=14823"/>
         <updated>2024-05-15T00:56:11.382Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14823"><a class="upvote" href="javascript:vote(14823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos" rel="nofollow" id="tr15"><h1>Google I/O 2024에서 발표된 모든 것들</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=14823" class="c99 breakall"># Gemini 1.5 Flash 모델 발표  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote14823"><a class="upvote" href="javascript:vote(14823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos" rel="nofollow" id="tr14"><h1>Google I/O 2024에서 발표된 모든 것들</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=14823" class="c99 breakall"># Gemini 1.5 Flash 모델 발표  
 - Gemini 1.5 Pro만큼 강력하지만, 좁고 빈번하며 지연 시간이 짧은 작업에 최적화된 새로운 다중 모달 모델  
 ...</a></div><div class="topicinfo"><span id="tp14823">15</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14823"></span> | <a href="topic?id=14823" class="u">댓글 6개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소셜 미디어의 종말: 블루스카이를 퇴사한 Jack Dorsey와의 인터뷰 요약]]></title>
+        <id>https://news.hada.io/topic?id=14843</id>
+        <link href="https://news.hada.io/topic?id=14843"/>
+        <updated>2024-05-16T01:55:18.436Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14843"><a class="upvote" href="javascript:vote(14843, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.piratewires.com/p/interview-with-jack-dorsey-mike-solana" rel="nofollow" id="tr15"><h1>소셜 미디어의 종말: 블루스카이를 퇴사한 Jack Dorsey와의 인터뷰 요약</h1></a> <span class="topicurl">(piratewires.com)</span></div><div class="topicdesc"><a href="topic?id=14843" class="c99 breakall"># 블루스카이를 떠난 이유 ( 잭은 이사회를 떠났으며 블루스카이 프로필도 삭제함 )  
+- 블루스카이가 트위터의 실수를 반복하고 있다고 느꼈음. ...</a></div><div class="topicinfo"><span id="tp14843">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14843"></span> | <a href="topic?id=14843" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: VMware Fusion Pro 이제 개인용은 무료로 제공]]></title>
