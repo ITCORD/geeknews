@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-05-18T07:13:25.415Z</updated>
+    <updated>2024-05-18T08:15:31.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2024-05-18T01:53:21.696Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14872"><a class="upvote" href="javascript:vote(14872, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://rust-exercises.com/" rel="nofollow" id="tr1"><h1>GN⁺: Rust 학습을 위한 100가지 연습 문제</h1></a> <span class="topicurl">(rust-exercises.com)</span></div><div class="topicdesc"><a href="topic?id=14872" class="c99 breakall">- Rust의 핵심 개념을 한번에 하나씩 실습을 통해 학습하는 방식으로 구성  
 - 문법, 타입 시스템, 표준 라이브러리 및 생태계를 배울 수 있음  
-...</a></div><div class="topicinfo"><span id="tp14872">9</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote14872"></span> | <a href="topic?id=14872" class="u">댓글 1개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp14872">13</span> points by <a href="/user?id=neo">neo</a> 8시간전<span id="unvote14872"></span> | <a href="topic?id=14872" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기]]></title>
@@ -20,7 +20,7 @@
         <link href="https://smudge.ai/blog/ratelimit-algorithms"/>
         <updated>2024-05-18T01:53:21.707Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote14869"><a class="upvote" href="javascript:vote(14869, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://smudge.ai/blog/ratelimit-algorithms" rel="nofollow" id="tr2"><h1>GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기</h1></a> <span class="topicurl">(smudge.ai)</span></div><div class="topicdesc"><a href="topic?id=14869" class="c99 breakall"># 왜 Rate Limit(사용량 제한)이 필요한가?  
-- 많은 참여자가 있는 트위치 채팅에서 스패머 한 명이 있을 때, 사용량 제한이 없다면 스패머가 대...</a></div><div class="topicinfo"><span id="tp14869">4</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote14869"></span> | <a href="topic?id=14869" class="u">댓글 2개</a></div>]]></content>
+- 많은 참여자가 있는 트위치 채팅에서 스패머 한 명이 있을 때, 사용량 제한이 없다면 스패머가 대...</a></div><div class="topicinfo"><span id="tp14869">6</span> points by <a href="/user?id=neo">neo</a> 8시간전<span id="unvote14869"></span> | <a href="topic?id=14869" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Piko - Ngrok의 오픈소스 대체제]]></title>
@@ -29,7 +29,7 @@
         <updated>2024-05-16T06:14:27.982Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14833"><a class="upvote" href="javascript:vote(14833, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/andydunstall/piko" rel="nofollow" id="tr3"><h1>Piko - Ngrok의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/andydunstall)</span></div><div class="topicdesc"><a href="topic?id=14833" class="c99 breakall">- 외부 네트워크로 터널링하는 리버스 프록시   
 - 프로덕션 수준의 트래픽을 처리하며, 호스팅(특히 Kubernetes에서)이 간단하도록 설계됨  
-- ...</a></div><div class="topicinfo"><span id="tp14833">31</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14833"></span> | <a href="topic?id=14833" class="u">댓글 5개</a></div>]]></content>
+- ...</a></div><div class="topicinfo"><span id="tp14833">31</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14833"></span> | <a href="topic?id=14833" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 순수 NumPy로 구현하는 라마 3 모델]]></title>
@@ -68,19 +68,11 @@
 - 멀웨어 URL을 수집, 추적, 공유하여 네트워크 관리자와 보안 분석가가 사이버 위협...</a></div><div class="topicinfo"><span id="tp14860">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14860"></span> | <a href="topic?id=14860" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Project Gameface의 Android 버전 출시]]></title>
-        <id>https://developers.googleblog.com/en/project-gameface-launches-on-android/</id>
-        <link href="https://developers.googleblog.com/en/project-gameface-launches-on-android/"/>
-        <updated>2024-05-18T01:00:12.788Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14871"><a class="upvote" href="javascript:vote(14871, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/project-gameface-launches-on-android/" rel="nofollow" id="tr8"><h1>Project Gameface의 Android 버전 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=14871" class="c99 breakall">- 구글 I/O 2023에서 발표한 Project Gameface 오픈소스  
-  - 핸즈프리 게이밍 '마우스'로, 머리 움직임과 얼굴 제스처를 사용하여 컴퓨터 커서...</a></div><div class="topicinfo"><span id="tp14871">1</span> point by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote14871"></span> | <a href="topic?id=14871" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구]]></title>
         <id>https://developer.wordpress.com/studio/</id>
         <link href="https://developer.wordpress.com/studio/"/>
         <updated>2024-05-17T00:57:07.045Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14858"><a class="upvote" href="javascript:vote(14858, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.wordpress.com/studio/" rel="nofollow" id="tr9"><h1>Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구</h1></a> <span class="topicurl">(developer.wordpress.com)</span></div><div class="topicdesc"><a href="topic?id=14858" class="c99 breakall">- 워드프레스 닷컴이 직접 개발. 빠르고 무료인 로컬 워드프레스 개발용 도구  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote14858"><a class="upvote" href="javascript:vote(14858, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.wordpress.com/studio/" rel="nofollow" id="tr8"><h1>Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구</h1></a> <span class="topicurl">(developer.wordpress.com)</span></div><div class="topicdesc"><a href="topic?id=14858" class="c99 breakall">- 워드프레스 닷컴이 직접 개발. 빠르고 무료인 로컬 워드프레스 개발용 도구  
 - 개발중인 로컬 사이트를 클라이언트/동료에게 공유 가능(Ngrok ...</a></div><div class="topicinfo"><span id="tp14858">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote14858"></span> | <a href="topic?id=14858" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -88,9 +80,17 @@
         <id>https://longform.asmartbear.com/avoid-blundering/</id>
         <link href="https://longform.asmartbear.com/avoid-blundering/"/>
         <updated>2024-05-13T02:30:50.503Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14789"><a class="upvote" href="javascript:vote(14789, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://longform.asmartbear.com/avoid-blundering/" rel="nofollow" id="tr10"><h1>스타트업 성공 전략의 80%는 실수를 피하는 것</h1></a> <span class="topicurl">(longform.asmartbear.com)</span></div><div class="topicdesc"><a href="topic?id=14789" class="c99 breakall">- 스타트업이 실패하는 이유는 무엇일까? "뭔가를 피하는 것"이 이미 성공을 위한 계획이 될 수 있음  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14789"><a class="upvote" href="javascript:vote(14789, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://longform.asmartbear.com/avoid-blundering/" rel="nofollow" id="tr9"><h1>스타트업 성공 전략의 80%는 실수를 피하는 것</h1></a> <span class="topicurl">(longform.asmartbear.com)</span></div><div class="topicdesc"><a href="topic?id=14789" class="c99 breakall">- 스타트업이 실패하는 이유는 무엇일까? "뭔가를 피하는 것"이 이미 성공을 위한 계획이 될 수 있음  
 - 흔히 제시되는 성공 전략  
   - 비전을...</a></div><div class="topicinfo"><span id="tp14789">55</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14789"></span> | <a href="topic?id=14789" class="u">댓글 6개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Gameface의 Android 버전 출시]]></title>
+        <id>https://developers.googleblog.com/en/project-gameface-launches-on-android/</id>
+        <link href="https://developers.googleblog.com/en/project-gameface-launches-on-android/"/>
+        <updated>2024-05-18T01:00:12.788Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote14871"><a class="upvote" href="javascript:vote(14871, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/project-gameface-launches-on-android/" rel="nofollow" id="tr10"><h1>Project Gameface의 Android 버전 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=14871" class="c99 breakall">- 구글 I/O 2023에서 발표한 Project Gameface 오픈소스  
+  - 핸즈프리 게이밍 '마우스'로, 머리 움직임과 얼굴 제스처를 사용하여 컴퓨터 커서...</a></div><div class="topicinfo"><span id="tp14871">1</span> point by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote14871"></span> | <a href="topic?id=14871" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yi 1.5 - 차세대 오픈소스 이중언어 LLM]]></title>
