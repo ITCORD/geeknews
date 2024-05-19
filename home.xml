@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-05-19T04:15:51.876Z</updated>
+    <updated>2024-05-19T05:13:07.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://news.hada.io/topic?id=14880</id>
         <link href="https://news.hada.io/topic?id=14880"/>
         <updated>2024-05-19T03:15:11.500Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14880"><a class="upvote" href="javascript:vote(14880, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/" rel="nofollow" id="tr1"><h1>GN⁺: 2세대 이메일에 대한 공개적 고찰</h1></a> <span class="topicurl">(gabrielsieben.tech)</span></div><div class="topicdesc"><a href="topic?id=14880" class="c99 breakall">&gt; **Note:** 이 글은 단순히 내 생각을 정리한 것임. 깊이 생각해본 것이 아니며, 좋은 아이디어라고 생각할 필요는 없음. 기대치를 최대한 낮추고...</a></div><div class="topicinfo"><span id="tp14880">3</span> points by <a href="/user?id=neo">neo</a> 3시간전<span id="unvote14880"></span> | <a href="topic?id=14880" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14880"><a class="upvote" href="javascript:vote(14880, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/" rel="nofollow" id="tr1"><h1>GN⁺: 2세대 이메일에 대한 공개적 고찰</h1></a> <span class="topicurl">(gabrielsieben.tech)</span></div><div class="topicdesc"><a href="topic?id=14880" class="c99 breakall">&gt; **Note:** 이 글은 단순히 내 생각을 정리한 것임. 깊이 생각해본 것이 아니며, 좋은 아이디어라고 생각할 필요는 없음. 기대치를 최대한 낮추고...</a></div><div class="topicinfo"><span id="tp14880">3</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote14880"></span> | <a href="topic?id=14880" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[kafka는 왜 빠를까?]]></title>
@@ -21,24 +21,24 @@
   - 저지연 I/O 사용 (ram)  
   - 순차적 I/O 자료구조 사용 (log)  
   - zero-copy 적용  
-  - 수평 확장 시...</a></div><div class="topicinfo"><span id="tp14890">2</span> points by <a href="/user?id=frogred8">frogred8</a> 2시간전<span id="unvote14890"></span> | <a href="topic?id=14890" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 개발자 콘솔, 이제 Gemini로 자바스크립트 오류 및 경고 이해하기 지원]]></title>
-        <id>https://news.hada.io/topic?id=14888</id>
-        <link href="https://news.hada.io/topic?id=14888"/>
-        <updated>2024-05-19T02:02:07.728Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14888"><a class="upvote" href="javascript:vote(14888, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.chrome.com/docs/devtools/console/understand-messages?hl=ko" rel="nofollow" id="tr3"><h1>Chrome 개발자 콘솔, 이제 Gemini로 자바스크립트 오류 및 경고 이해하기 지원 </h1></a> <span class="topicurl">(developer.chrome.com)</span></div><div class="topicdesc"><a href="topic?id=14888" class="c99 breakall">- 설정에서 "Understand Console Messages with AI" 를 활성화 하면 동작   
-- 개발자 도구의 에러메시지 위로 호버하면 "Understand this error"...</a></div><div class="topicinfo"><span id="tp14888">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote14888"></span> | <a href="topic?id=14888" class="u">댓글과 토론</a></div>]]></content>
+  - 수평 확장 시...</a></div><div class="topicinfo"><span id="tp14890">2</span> points by <a href="/user?id=frogred8">frogred8</a> 3시간전<span id="unvote14890"></span> | <a href="topic?id=14890" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Rust 학습을 위한 100가지 연습 문제]]></title>
         <id>https://news.hada.io/topic?id=14872</id>
         <link href="https://news.hada.io/topic?id=14872"/>
         <updated>2024-05-18T01:53:09.769Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14872"><a class="upvote" href="javascript:vote(14872, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://rust-exercises.com/" rel="nofollow" id="tr4"><h1>GN⁺: Rust 학습을 위한 100가지 연습 문제</h1></a> <span class="topicurl">(rust-exercises.com)</span></div><div class="topicdesc"><a href="topic?id=14872" class="c99 breakall">- Rust의 핵심 개념을 한번에 하나씩 실습을 통해 학습하는 방식으로 구성  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14872"><a class="upvote" href="javascript:vote(14872, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://rust-exercises.com/" rel="nofollow" id="tr3"><h1>GN⁺: Rust 학습을 위한 100가지 연습 문제</h1></a> <span class="topicurl">(rust-exercises.com)</span></div><div class="topicdesc"><a href="topic?id=14872" class="c99 breakall">- Rust의 핵심 개념을 한번에 하나씩 실습을 통해 학습하는 방식으로 구성  
 - 문법, 타입 시스템, 표준 라이브러리 및 생태계를 배울 수 있음  
 ...</a></div><div class="topicinfo"><span id="tp14872">18</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote14872"></span> | <a href="topic?id=14872" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 개발자 콘솔, 이제 Gemini로 자바스크립트 오류 및 경고 이해하기 지원]]></title>
+        <id>https://news.hada.io/topic?id=14888</id>
+        <link href="https://news.hada.io/topic?id=14888"/>
+        <updated>2024-05-19T02:02:07.728Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14888"><a class="upvote" href="javascript:vote(14888, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.chrome.com/docs/devtools/console/understand-messages?hl=ko" rel="nofollow" id="tr4"><h1>Chrome 개발자 콘솔, 이제 Gemini로 자바스크립트 오류 및 경고 이해하기 지원 </h1></a> <span class="topicurl">(developer.chrome.com)</span></div><div class="topicdesc"><a href="topic?id=14888" class="c99 breakall">- 설정에서 "Understand Console Messages with AI" 를 활성화 하면 동작   
+- 개발자 도구의 에러메시지 위로 호버하면 "Understand this error"...</a></div><div class="topicinfo"><span id="tp14888">2</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote14888"></span> | <a href="topic?id=14888" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT, 데이터 분석 기능 개선]]></title>
@@ -46,7 +46,7 @@
         <link href="https://news.hada.io/topic?id=14878"/>
         <updated>2024-05-19T01:00:05.911Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14878"><a class="upvote" href="javascript:vote(14878, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/improvements-to-data-analysis-in-chatgpt/" rel="nofollow" id="tr5"><h1>ChatGPT, 데이터 분석 기능 개선 </h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=14878" class="c99 breakall">- 데이터 파일을 업로드하면 ChatGPT가 사용자를 대신해 Python 코드를 작성하고 실행하여 데이터를 분석  
-  - 대규모 데이터 세트 병합 및 정리...</a></div><div class="topicinfo"><span id="tp14878">2</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote14878"></span> | <a href="topic?id=14878" class="u">댓글과 토론</a></div>]]></content>
+  - 대규모 데이터 세트 병합 및 정리...</a></div><div class="topicinfo"><span id="tp14878">2</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote14878"></span> | <a href="topic?id=14878" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기]]></title>
@@ -127,21 +127,21 @@
 - 개발도상국 작가가 AdVon Commerce에서 계약직으로 일하면서 단어당 몇 센트를 받고 온라...</a></div><div class="topicinfo"><span id="tp14847">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14847"></span> | <a href="topic?id=14847" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nostr - 탈중앙화 소셜 네트워크]]></title>
-        <id>https://news.hada.io/topic?id=14838</id>
-        <link href="https://news.hada.io/topic?id=14838"/>
-        <updated>2024-05-16T00:56:02.949Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14838"><a class="upvote" href="javascript:vote(14838, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nostr.com/" rel="nofollow" id="tr15"><h1>Nostr - 탈중앙화 소셜 네트워크</h1></a> <span class="topicurl">(nostr.com)</span></div><div class="topicdesc"><a href="topic?id=14838" class="c99 breakall">- Nostr는 검열에 강한 글로벌 탈중앙화 소셜 네트워크 구축을 목표로 하는 단순한 설계의 간단하고 개방적인 프로토콜   
-- 간단하고 유연한 이...</a></div><div class="topicinfo"><span id="tp14838">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14838"></span> | <a href="topic?id=14838" class="u">댓글 5개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google I/O 2024에서 발표된 모든 것들]]></title>
         <id>https://news.hada.io/topic?id=14823</id>
         <link href="https://news.hada.io/topic?id=14823"/>
         <updated>2024-05-15T00:56:11.382Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14823"><a class="upvote" href="javascript:vote(14823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos" rel="nofollow" id="tr16"><h1>Google I/O 2024에서 발표된 모든 것들</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=14823" class="c99 breakall"># Gemini 1.5 Flash 모델 발표  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14823"><a class="upvote" href="javascript:vote(14823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos" rel="nofollow" id="tr15"><h1>Google I/O 2024에서 발표된 모든 것들</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=14823" class="c99 breakall"># Gemini 1.5 Flash 모델 발표  
 - Gemini 1.5 Pro만큼 강력하지만, 좁고 빈번하며 지연 시간이 짧은 작업에 최적화된 새로운 다중 모달 모델  
 ...</a></div><div class="topicinfo"><span id="tp14823">16</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14823"></span> | <a href="topic?id=14823" class="u">댓글 6개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nostr - 탈중앙화 소셜 네트워크]]></title>
+        <id>https://news.hada.io/topic?id=14838</id>
+        <link href="https://news.hada.io/topic?id=14838"/>
+        <updated>2024-05-16T00:56:02.949Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote14838"><a class="upvote" href="javascript:vote(14838, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nostr.com/" rel="nofollow" id="tr16"><h1>Nostr - 탈중앙화 소셜 네트워크</h1></a> <span class="topicurl">(nostr.com)</span></div><div class="topicdesc"><a href="topic?id=14838" class="c99 breakall">- Nostr는 검열에 강한 글로벌 탈중앙화 소셜 네트워크 구축을 목표로 하는 단순한 설계의 간단하고 개방적인 프로토콜   
+- 간단하고 유연한 이...</a></div><div class="topicinfo"><span id="tp14838">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14838"></span> | <a href="topic?id=14838" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Project Gameface의 Android 버전 출시]]></title>
@@ -160,21 +160,21 @@
   - 이는 CC-BY-SA ...</a></div><div class="topicinfo"><span id="tp14810">19</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote14810"></span> | <a href="topic?id=14810" class="u">댓글 12개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소셜 미디어의 종말: 블루스카이를 퇴사한 Jack Dorsey와의 인터뷰 요약]]></title>
-        <id>https://news.hada.io/topic?id=14843</id>
-        <link href="https://news.hada.io/topic?id=14843"/>
-        <updated>2024-05-16T01:55:18.436Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14843"><a class="upvote" href="javascript:vote(14843, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.piratewires.com/p/interview-with-jack-dorsey-mike-solana" rel="nofollow" id="tr19"><h1>소셜 미디어의 종말: 블루스카이를 퇴사한 Jack Dorsey와의 인터뷰 요약</h1></a> <span class="topicurl">(piratewires.com)</span></div><div class="topicdesc"><a href="topic?id=14843" class="c99 breakall"># 블루스카이를 떠난 이유 ( 잭은 이사회를 떠났으며 블루스카이 프로필도 삭제함 )  
-- 블루스카이가 트위터의 실수를 반복하고 있다고 느꼈음. ...</a></div><div class="topicinfo"><span id="tp14843">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14843"></span> | <a href="topic?id=14843" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: VMware Fusion Pro 이제 개인용은 무료로 제공]]></title>
         <id>https://news.hada.io/topic?id=14829</id>
         <link href="https://news.hada.io/topic?id=14829"/>
         <updated>2024-05-16T00:56:02.969Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14829"><a class="upvote" href="javascript:vote(14829, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html" rel="nofollow" id="tr20"><h1>GN⁺: VMware Fusion Pro 이제 개인용은 무료로 제공</h1></a> <span class="topicurl">(blogs.vmware.com)</span></div><div class="topicdesc"><a href="topic?id=14829" class="c99 breakall">- Fusion Pro와 Workstation Pro는 이제 두 가지 라이선스 모델을 가짐  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote14829"><a class="upvote" href="javascript:vote(14829, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html" rel="nofollow" id="tr19"><h1>GN⁺: VMware Fusion Pro 이제 개인용은 무료로 제공</h1></a> <span class="topicurl">(blogs.vmware.com)</span></div><div class="topicdesc"><a href="topic?id=14829" class="c99 breakall">- Fusion Pro와 Workstation Pro는 이제 두 가지 라이선스 모델을 가짐  
   - 개인 사용 무료  
   - 상업적 사용 유료 구독  
 - 사용자는 자신...</a></div><div class="topicinfo"><span id="tp14829">12</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote14829"></span> | <a href="topic?id=14829" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소셜 미디어의 종말: 블루스카이를 퇴사한 Jack Dorsey와의 인터뷰 요약]]></title>
+        <id>https://news.hada.io/topic?id=14843</id>
+        <link href="https://news.hada.io/topic?id=14843"/>
+        <updated>2024-05-16T01:55:18.436Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote14843"><a class="upvote" href="javascript:vote(14843, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.piratewires.com/p/interview-with-jack-dorsey-mike-solana" rel="nofollow" id="tr20"><h1>소셜 미디어의 종말: 블루스카이를 퇴사한 Jack Dorsey와의 인터뷰 요약</h1></a> <span class="topicurl">(piratewires.com)</span></div><div class="topicdesc"><a href="topic?id=14843" class="c99 breakall"># 블루스카이를 떠난 이유 ( 잭은 이사회를 떠났으며 블루스카이 프로필도 삭제함 )  
+- 블루스카이가 트위터의 실수를 반복하고 있다고 느꼈음. ...</a></div><div class="topicinfo"><span id="tp14843">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14843"></span> | <a href="topic?id=14843" class="u">댓글 3개</a></div>]]></content>
     </entry>
 </feed>
