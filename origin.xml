@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-05-19T13:12:50.176Z</updated>
+    <updated>2024-05-19T14:12:04.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/</id>
         <link href="https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/"/>
         <updated>2024-05-19T03:15:15.568Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14880"><a class="upvote" href="javascript:vote(14880, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/" rel="nofollow" id="tr1"><h1>GN⁺: 2세대 이메일에 대한 공개적 고찰</h1></a> <span class="topicurl">(gabrielsieben.tech)</span></div><div class="topicdesc"><a href="topic?id=14880" class="c99 breakall">&gt; **Note:** 이 글은 단순히 내 생각을 정리한 것임. 깊이 생각해본 것이 아니며, 좋은 아이디어라고 생각할 필요는 없음. 기대치를 최대한 낮추고...</a></div><div class="topicinfo"><span id="tp14880">6</span> points by <a href="/user?id=neo">neo</a> 12시간전<span id="unvote14880"></span> | <a href="topic?id=14880" class="u">댓글 5개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote14880"><a class="upvote" href="javascript:vote(14880, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/" rel="nofollow" id="tr1"><h1>GN⁺: 2세대 이메일에 대한 공개적 고찰</h1></a> <span class="topicurl">(gabrielsieben.tech)</span></div><div class="topicdesc"><a href="topic?id=14880" class="c99 breakall">&gt; **Note:** 이 글은 단순히 내 생각을 정리한 것임. 깊이 생각해본 것이 아니며, 좋은 아이디어라고 생각할 필요는 없음. 기대치를 최대한 낮추고...</a></div><div class="topicinfo"><span id="tp14880">6</span> points by <a href="/user?id=neo">neo</a> 13시간전<span id="unvote14880"></span> | <a href="topic?id=14880" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Rust 학습을 위한 100가지 연습 문제]]></title>
@@ -27,26 +27,26 @@
         <link href="https://developer.chrome.com/docs/devtools/console/understand-messages?hl=ko"/>
         <updated>2024-05-19T02:02:11.746Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote14888"><a class="upvote" href="javascript:vote(14888, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.chrome.com/docs/devtools/console/understand-messages?hl=ko" rel="nofollow" id="tr3"><h1>Chrome 개발자 콘솔, 이제 Gemini로 자바스크립트 오류 및 경고 이해하기 지원 </h1></a> <span class="topicurl">(developer.chrome.com)</span></div><div class="topicdesc"><a href="topic?id=14888" class="c99 breakall">- 설정에서 "Understand Console Messages with AI" 를 활성화 하면 동작   
-- 개발자 도구의 에러메시지 위로 호버하면 "Understand this error"...</a></div><div class="topicinfo"><span id="tp14888">4</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote14888"></span> | <a href="topic?id=14888" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kafka는 왜 빠를까?]]></title>
-        <id>https://frogred8.github.io/docs/034_why_is_kafka_fast</id>
-        <link href="https://frogred8.github.io/docs/034_why_is_kafka_fast"/>
-        <updated>2024-05-19T03:15:15.569Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14890"><a class="upvote" href="javascript:vote(14890, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://frogred8.github.io/docs/034_why_is_kafka_fast" rel="nofollow" id="tr4"><h1>kafka는 왜 빠를까?</h1></a> <span class="topicurl">(frogred8.github.io)</span></div><div class="topicdesc"><a href="topic?id=14890" class="c99 breakall">- 카프카가 빠른 일반적 이유  
-  - 저지연 I/O 사용 (ram)  
-  - 순차적 I/O 자료구조 사용 (log)  
-  - zero-copy 적용  
-  - 수평 확장 시...</a></div><div class="topicinfo"><span id="tp14890">3</span> points by <a href="/user?id=frogred8">frogred8</a> 11시간전<span id="unvote14890"></span> | <a href="topic?id=14890" class="u">댓글 2개</a></div>]]></content>
+- 개발자 도구의 에러메시지 위로 호버하면 "Understand this error"...</a></div><div class="topicinfo"><span id="tp14888">4</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote14888"></span> | <a href="topic?id=14888" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기]]></title>
         <id>https://smudge.ai/blog/ratelimit-algorithms</id>
         <link href="https://smudge.ai/blog/ratelimit-algorithms"/>
         <updated>2024-05-18T01:53:13.748Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14869"><a class="upvote" href="javascript:vote(14869, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://smudge.ai/blog/ratelimit-algorithms" rel="nofollow" id="tr5"><h1>GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기</h1></a> <span class="topicurl">(smudge.ai)</span></div><div class="topicdesc"><a href="topic?id=14869" class="c99 breakall"># 왜 Rate Limit(사용량 제한)이 필요한가?  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote14869"><a class="upvote" href="javascript:vote(14869, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://smudge.ai/blog/ratelimit-algorithms" rel="nofollow" id="tr4"><h1>GN⁺: Rate Limit 알고리듬을 시각화해서 알아보기</h1></a> <span class="topicurl">(smudge.ai)</span></div><div class="topicdesc"><a href="topic?id=14869" class="c99 breakall"># 왜 Rate Limit(사용량 제한)이 필요한가?  
 - 많은 참여자가 있는 트위치 채팅에서 스패머 한 명이 있을 때, 사용량 제한이 없다면 스패머가 대...</a></div><div class="topicinfo"><span id="tp14869">15</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote14869"></span> | <a href="topic?id=14869" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kafka는 왜 빠를까?]]></title>
+        <id>https://frogred8.github.io/docs/034_why_is_kafka_fast</id>
+        <link href="https://frogred8.github.io/docs/034_why_is_kafka_fast"/>
+        <updated>2024-05-19T03:15:15.569Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote14890"><a class="upvote" href="javascript:vote(14890, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://frogred8.github.io/docs/034_why_is_kafka_fast" rel="nofollow" id="tr5"><h1>kafka는 왜 빠를까?</h1></a> <span class="topicurl">(frogred8.github.io)</span></div><div class="topicdesc"><a href="topic?id=14890" class="c99 breakall">- 카프카가 빠른 일반적 이유  
+  - 저지연 I/O 사용 (ram)  
+  - 순차적 I/O 자료구조 사용 (log)  
+  - zero-copy 적용  
+  - 수평 확장 시...</a></div><div class="topicinfo"><span id="tp14890">3</span> points by <a href="/user?id=frogred8">frogred8</a> 12시간전<span id="unvote14890"></span> | <a href="topic?id=14890" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT, 데이터 분석 기능 개선]]></title>
@@ -54,7 +54,7 @@
         <link href="https://openai.com/index/improvements-to-data-analysis-in-chatgpt/"/>
         <updated>2024-05-19T01:00:10.220Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote14878"><a class="upvote" href="javascript:vote(14878, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/improvements-to-data-analysis-in-chatgpt/" rel="nofollow" id="tr6"><h1>ChatGPT, 데이터 분석 기능 개선 </h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=14878" class="c99 breakall">- 데이터 파일을 업로드하면 ChatGPT가 사용자를 대신해 Python 코드를 작성하고 실행하여 데이터를 분석  
-  - 대규모 데이터 세트 병합 및 정리...</a></div><div class="topicinfo"><span id="tp14878">3</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote14878"></span> | <a href="topic?id=14878" class="u">댓글과 토론</a></div>]]></content>
+  - 대규모 데이터 세트 병합 및 정리...</a></div><div class="topicinfo"><span id="tp14878">3</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote14878"></span> | <a href="topic?id=14878" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Piko - Ngrok의 오픈소스 대체제]]></title>
@@ -80,7 +80,7 @@
         <updated>2024-05-16T01:55:22.233Z</updated>
         <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote14845"><a class="upvote" href="javascript:vote(14845, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bbs.ruliweb.com/community/board/300143/read/66062611" rel="nofollow" id="tr9"><h1>풀타임 근무하는 6자녀 어머니가 취미로 만든 스위치 게임 </h1></a> <span class="topicurl">(bbs.ruliweb.com)</span></div><div class="topicdesc"><a href="topic?id=14845" class="c99 breakall">- 금융기관에서 정사원으로 근무중인 여섯아이의 엄마  
 - 일러스트 경험 없음. 미대 출신 아님. 게임 제작 경험 없음  
-- 츠쿠르MV 를 써서 전...</a></div><div class="topicinfo"><span id="tp14845">22</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14845"></span> | <a href="topic?id=14845" class="u">댓글 11개</a></div>]]></content>
+- 츠쿠르MV 를 써서 전...</a></div><div class="topicinfo"><span id="tp14845">22</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14845"></span> | <a href="topic?id=14845" class="u">댓글 11개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 순수 NumPy로 구현하는 라마 3 모델]]></title>
@@ -100,7 +100,7 @@
         <updated>2024-05-13T02:30:42.620Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote14789"><a class="upvote" href="javascript:vote(14789, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://longform.asmartbear.com/avoid-blundering/" rel="nofollow" id="tr11"><h1>스타트업 성공 전략의 80%는 실수를 피하는 것</h1></a> <span class="topicurl">(longform.asmartbear.com)</span></div><div class="topicdesc"><a href="topic?id=14789" class="c99 breakall">- 스타트업이 실패하는 이유는 무엇일까? "뭔가를 피하는 것"이 이미 성공을 위한 계획이 될 수 있음  
 - 흔히 제시되는 성공 전략  
-  - 비전을...</a></div><div class="topicinfo"><span id="tp14789">55</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote14789"></span> | <a href="topic?id=14789" class="u">댓글 6개</a></div>]]></content>
+  - 비전을...</a></div><div class="topicinfo"><span id="tp14789">55</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote14789"></span> | <a href="topic?id=14789" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[URLhaus - 멀웨어 배포에 사용되는 악성 URL 데이터베이스]]></title>
@@ -108,7 +108,7 @@
         <link href="https://urlhaus.abuse.ch/"/>
         <updated>2024-05-17T01:54:44.494Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote14860"><a class="upvote" href="javascript:vote(14860, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://urlhaus.abuse.ch/" rel="nofollow" id="tr12"><h1>URLhaus - 멀웨어 배포에 사용되는 악성 URL 데이터베이스</h1></a> <span class="topicurl">(urlhaus.abuse.ch)</span></div><div class="topicdesc"><a href="topic?id=14860" class="c99 breakall">- 사이버범죄 관련 최신 정보를 제공하는 Abuse.ch가 운영  
-- 멀웨어 URL을 수집, 추적, 공유하여 네트워크 관리자와 보안 분석가가 사이버 위협...</a></div><div class="topicinfo"><span id="tp14860">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote14860"></span> | <a href="topic?id=14860" class="u">댓글 1개</a></div>]]></content>
+- 멀웨어 URL을 수집, 추적, 공유하여 네트워크 관리자와 보안 분석가가 사이버 위협...</a></div><div class="topicinfo"><span id="tp14860">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14860"></span> | <a href="topic?id=14860" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구]]></title>
@@ -133,7 +133,7 @@
         <link href="https://futurism.com/advon-ai-content"/>
         <updated>2024-05-16T02:25:54.119Z</updated>
         <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote14847"><a class="upvote" href="javascript:vote(14847, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://futurism.com/advon-ai-content" rel="nofollow" id="tr15"><h1>미디어 산업을 감염시키는 AI 기반 콘텐츠 괴물, AdVon</h1></a> <span class="topicurl">(futurism.com)</span></div><div class="topicdesc"><a href="topic?id=14847" class="c99 breakall"># AdVon의 AI 기반 콘텐츠 생산 및 가짜 작가 활용  
-- 개발도상국 작가가 AdVon Commerce에서 계약직으로 일하면서 단어당 몇 센트를 받고 온라...</a></div><div class="topicinfo"><span id="tp14847">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote14847"></span> | <a href="topic?id=14847" class="u">댓글 1개</a></div>]]></content>
+- 개발도상국 작가가 AdVon Commerce에서 계약직으로 일하면서 단어당 몇 센트를 받고 온라...</a></div><div class="topicinfo"><span id="tp14847">10</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote14847"></span> | <a href="topic?id=14847" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nostr - 탈중앙화 소셜 네트워크]]></title>
