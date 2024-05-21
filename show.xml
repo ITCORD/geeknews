@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-05-21T02:27:03.974Z</updated>
+    <updated>2024-05-21T03:14:48.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=14914"/>
         <updated>2024-05-20T14:12:45.522Z</updated>
         <content type="html"><![CDATA[tsboard]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: YOCO - 복사하면 자동으로 파일 이름을 주석으로 추가해주는 VSCode extension]]></title>
+        <id>https://news.hada.io/topic?id=14924</id>
+        <link href="https://news.hada.io/topic?id=14924"/>
+        <updated>2024-05-21T03:14:30.054Z</updated>
+        <content type="html"><![CDATA[yulee1633]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: JavaScript에서 한글을 다루는 현대적인 라이브러리]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=14487"/>
         <updated>2024-04-24T11:11:42.895Z</updated>
         <content type="html"><![CDATA[kargnas]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 우리나라 영화 명대사 Web, API]]></title>
-        <id>https://news.hada.io/topic?id=14213</id>
-        <link href="https://news.hada.io/topic?id=14213"/>
-        <updated>2024-04-08T13:13:31.993Z</updated>
-        <content type="html"><![CDATA[gudrb963]]></content>
     </entry>
 </feed>
