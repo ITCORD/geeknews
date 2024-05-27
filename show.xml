@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-05-27T10:14:31.262Z</updated>
+    <updated>2024-05-27T11:12:42.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요!]]></title>
+        <id>https://news.hada.io/topic?id=15042</id>
+        <link href="https://news.hada.io/topic?id=15042"/>
+        <updated>2024-05-27T11:12:22.157Z</updated>
+        <content type="html"><![CDATA[patcher454]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: MP3 Tag Editor (Python Streamlit +FastAPI) on Docker]]></title>
         <id>https://news.hada.io/topic?id=15016</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=14213"/>
         <updated>2024-05-23T01:55:31.400Z</updated>
         <content type="html"><![CDATA[gudrb963]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 괜찮은 스타트업들의 채용 공고를 한번에 찾아볼수 있는 탐색 및 분석 서비스]]></title>
-        <id>https://news.hada.io/topic?id=13775</id>
-        <link href="https://news.hada.io/topic?id=13775"/>
-        <updated>2024-05-26T10:13:28.460Z</updated>
-        <content type="html"><![CDATA[dongkroot]]></content>
     </entry>
 </feed>
