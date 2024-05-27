@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-05-26T23:12:59.469Z</updated>
+    <updated>2024-05-27T00:58:46.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: MP3 Tag Editor (Python Streamlit +FastAPI) on Docker]]></title>
+        <id>https://news.hada.io/topic?id=15016</id>
+        <link href="https://news.hada.io/topic?id=15016"/>
+        <updated>2024-05-27T00:58:26.463Z</updated>
+        <content type="html"><![CDATA[halfenif]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: TSBOARD (타입스크립트로 작성된 오픈소스 커뮤니티 빌더)]]></title>
         <id>https://news.hada.io/topic?id=14914</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=13775"/>
         <updated>2024-05-26T10:13:28.460Z</updated>
         <content type="html"><![CDATA[dongkroot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Mandarin AI: 문장 구성요소와 한자 부수를 잘라 보여주며, 한자를 익히는데 도움을 주는 중국어 공부 앱]]></title>
-        <id>https://news.hada.io/topic?id=14487</id>
-        <link href="https://news.hada.io/topic?id=14487"/>
-        <updated>2024-05-26T14:11:00.922Z</updated>
-        <content type="html"><![CDATA[kargnas]]></content>
     </entry>
 </feed>
