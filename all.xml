@@ -2,32 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-28T03:14:48.454Z</updated>
+    <updated>2024-05-28T04:18:09.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15054</id>
+        <link href="https://news.hada.io/topic?id=15054"/>
+        <updated>2024-05-28T02:30:53.550Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15054"><a class="upvote" href="javascript:vote(15054, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15054" rel="nofollow" id="tr1"><h1>Show GN: 알로록달로록 오픈소스 모바일 청첩장</h1></a> <span class="topicurl">(github.com/heejin-hwang)</span></div><div class="topicdesc"><a href="topic?id=15054" class="c99 breakall">아내와 제가 결혼 할 때 쓰고, 최근에 오픈소스 공개한 💌모바일 청첩장💌입니다.  
+Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...</a></div><div class="topicinfo"><span id="tp15054">7</span> points by <a href="/user?id=laeyoung">laeyoung</a> 2시간전<span id="unvote15054"></span> | <a href="topic?id=15054" class="u">댓글 7개</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15051</id>
         <link href="https://news.hada.io/topic?id=15051"/>
         <updated>2024-05-28T01:58:00.198Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15051"><a class="upvote" href="javascript:vote(15051, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ntietz.com/blog/lets-say-instead-of-auth/" rel="nofollow" id="tr1"><h1>GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다</h1></a> <span class="topicurl">(ntietz.com)</span></div><div class="topicdesc"><a href="topic?id=15051" class="c99 breakall">- "auth"라는 용어는 인증(authentication)과 권한 부여(authorization) 두 가지 의미를 가짐  
-- 이로 인해 라이브러리나 패키지 이름에서 혼란...</a></div><div class="topicinfo"><span id="tp15051">9</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote15051"></span> | <a href="topic?id=15051" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15051"><a class="upvote" href="javascript:vote(15051, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ntietz.com/blog/lets-say-instead-of-auth/" rel="nofollow" id="tr2"><h1>GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다</h1></a> <span class="topicurl">(ntietz.com)</span></div><div class="topicdesc"><a href="topic?id=15051" class="c99 breakall">- "auth"라는 용어는 인증(authentication)과 권한 부여(authorization) 두 가지 의미를 가짐  
+- 이로 인해 라이브러리나 패키지 이름에서 혼란...</a></div><div class="topicinfo"><span id="tp15051">9</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote15051"></span> | <a href="topic?id=15051" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: JWT를 인증 토큰으로 사용해야 할까? (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15053</id>
         <link href="https://news.hada.io/topic?id=15053"/>
         <updated>2024-05-28T01:58:00.194Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15053"><a class="upvote" href="javascript:vote(15053, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/" rel="nofollow" id="tr2"><h1>GN⁺: JWT를 인증 토큰으로 사용해야 할까?</h1></a> <span class="topicurl">(blog.ploetzli.ch)</span></div><div class="topicdesc"><a href="topic?id=15053" class="c99 breakall">- JWT는 JSON Web Tokens의 약자로, 인증된 토큰을 위한 표준임.  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15053"><a class="upvote" href="javascript:vote(15053, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/" rel="nofollow" id="tr3"><h1>GN⁺: JWT를 인증 토큰으로 사용해야 할까?</h1></a> <span class="topicurl">(blog.ploetzli.ch)</span></div><div class="topicdesc"><a href="topic?id=15053" class="c99 breakall">- JWT는 JSON Web Tokens의 약자로, 인증된 토큰을 위한 표준임.  
 - JWT는 헤더, 페이로드, 서명 또는 메시지 인증 코드로 구성됨.  
-- 검증 키...</a></div><div class="topicinfo"><span id="tp15053">7</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote15053"></span> | <a href="topic?id=15053" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15054</id>
-        <link href="https://news.hada.io/topic?id=15054"/>
-        <updated>2024-05-28T02:30:53.550Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15054"><a class="upvote" href="javascript:vote(15054, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15054" rel="nofollow" id="tr3"><h1>Show GN: 알로록달로록 오픈소스 모바일 청첩장</h1></a> <span class="topicurl">(github.com/heejin-hwang)</span></div><div class="topicdesc"><a href="topic?id=15054" class="c99 breakall">아내와 제가 결혼 할 때 쓰고, 최근에 오픈소스 공개한 💌모바일 청첩장💌입니다.  
-Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...</a></div><div class="topicinfo"><span id="tp15054">4</span> points by <a href="/user?id=laeyoung">laeyoung</a> 45분전<span id="unvote15054"></span> | <a href="topic?id=15054" class="u">댓글 4개</a></div>]]></content>
+- 검증 키...</a></div><div class="topicinfo"><span id="tp15053">8</span> points by <a href="/user?id=neo">neo</a> 3시간전<span id="unvote15053"></span> | <a href="topic?id=15053" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenPanel - 오픈소스 Mixpanel 대체제 (GeekNews ─ 메인)]]></title>
@@ -36,7 +36,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <updated>2024-05-28T00:56:49.436Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15049"><a class="upvote" href="javascript:vote(15049, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Openpanel-dev/openpanel" rel="nofollow" id="tr4"><h1>OpenPanel - 오픈소스 Mixpanel 대체제</h1></a> <span class="topicurl">(github.com/Openpanel-dev)</span></div><div class="topicdesc"><a href="topic?id=15049" class="c99 breakall">- Mixpanel의 강력함 + Plausible의 쉬움 + GA로부터는 Nothing   
 - 웹, 앱 및 백엔드에서 이벤트를 로깅하기 위한 간단한 분석 도구  
-- 데이...</a></div><div class="topicinfo"><span id="tp15049">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15049"></span> | <a href="topic?id=15049" class="u">댓글과 토론</a></div>]]></content>
+- 데이...</a></div><div class="topicinfo"><span id="tp15049">4</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15049"></span> | <a href="topic?id=15049" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: EC2 부팅 시간 단축하기 (GeekNews ─ 메인)]]></title>
@@ -44,7 +44,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <link href="https://news.hada.io/topic?id=15046"/>
         <updated>2024-05-28T01:58:00.200Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15046"><a class="upvote" href="javascript:vote(15046, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://depot.dev/blog/faster-ec2-boot-time" rel="nofollow" id="tr5"><h1>GN⁺: EC2 부팅 시간 단축하기 </h1></a> <span class="topicurl">(depot.dev)</span></div><div class="topicdesc"><a href="topic?id=15046" class="c99 breakall">- EC2 인스턴스의 부팅 시간을 40초에서 5초로 줄이는 것이 가능함  
-- 이는 특정 작업을 처리하기 위해 새로운 EC2 인스턴스가 필요한 경우 매우...</a></div><div class="topicinfo"><span id="tp15046">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15046"></span> | <a href="topic?id=15046" class="u">댓글 1개</a></div>]]></content>
+- 이는 특정 작업을 처리하기 위해 새로운 EC2 인스턴스가 필요한 경우 매우...</a></div><div class="topicinfo"><span id="tp15046">4</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15046"></span> | <a href="topic?id=15046" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 서비스와 미국 서비스의 감성 차이 (GeekNews ─ 메인)]]></title>
@@ -53,45 +53,53 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <updated>2024-05-26T23:12:23.013Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15014"><a class="upvote" href="javascript:vote(15014, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dis.qa/wHPUP5" rel="nofollow" id="tr6"><h1>한국 서비스와 미국 서비스의 감성 차이</h1></a> <span class="topicurl">(dis.qa)</span></div><div class="topicdesc"><a href="topic?id=15014" class="c99 breakall">- 한국 스타트업이 미국 진출시 UI 현지화를 잘해야 됨  
 - 한국 감성이 녹아든 UI는 미국에서 이질적일 수 있음  
-- 샌드버드는 초창기 디자인 ...</a></div><div class="topicinfo"><span id="tp15014">24</span> points by <a href="/user?id=hpark0011">hpark0011</a> 1일전<span id="unvote15014"></span> | <a href="topic?id=15014" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble.ai - AI 거품 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15033</id>
-        <link href="https://news.hada.io/topic?id=15033"/>
-        <updated>2024-05-27T02:31:52.406Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15033"><a class="upvote" href="javascript:vote(15033, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.profgalloway.com/bubble-ai" rel="nofollow" id="tr7"><h1>Bubble.ai - AI 거품</h1></a> <span class="topicurl">(profgalloway.com)</span></div><div class="topicdesc"><a href="topic?id=15033" class="c99 breakall">- 스콧 갤러웨이의 "No Mercy / No Malice" (자비 없음 / 악의 없음) 뉴스레터 요약. ( * 투자 조언이 아님 )  
-- Nvidia는 5년 전만 해도 Call o...</a></div><div class="topicinfo"><span id="tp15033">17</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15033"></span> | <a href="topic?id=15033" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM을 활용한 실무 문제 해결 및 비즈니스 활용 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15055</id>
-        <link href="https://news.hada.io/topic?id=15055"/>
-        <updated>2024-05-28T03:14:14.530Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15055"><a class="upvote" href="javascript:vote(15055, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541" rel="nofollow" id="tr8"><h1>LLM을 활용한 실무 문제 해결 및 비즈니스 활용</h1></a> <span class="topicurl">(twosun.ai)</span></div><div class="topicdesc"><a href="topic?id=15055" class="c99 breakall">|  AI로 커리어를 변화시킬 준비가 되셨나요?  
-지금부터 본 세미나를 통해 대규모 언어 모델의 비밀을 풀어보세요. 실용적인 세션에서 인사이트...</a></div><div class="topicinfo"><span id="tp15055">1</span> point by <a href="/user?id=donnyson">donnyson</a> 41분전<span id="unvote15055"></span> | <a href="topic?id=15055" class="u">댓글과 토론</a></div>]]></content>
+- 샌드버드는 초창기 디자인 ...</a></div><div class="topicinfo"><span id="tp15014">25</span> points by <a href="/user?id=hpark0011">hpark0011</a> 1일전<span id="unvote15014"></span> | <a href="topic?id=15014" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15044</id>
         <link href="https://news.hada.io/topic?id=15044"/>
         <updated>2024-05-27T16:15:24.292Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15044"><a class="upvote" href="javascript:vote(15044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15044" rel="nofollow" id="tr9"><h1>Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신</h1></a> <span class="topicurl">(random-gg.gitbook.io)</span></div><div class="topicdesc"><a href="topic?id=15044" class="c99 breakall">랜덤지지 플레이 메이커: 손쉽게 온라인 방탈출 및 크라임씬 콘텐츠 제작 가능  
-- 방탈출, 크라임씬을 포함한 다양한 멀티 플레이어 웹 콘텐츠 ...</a></div><div class="topicinfo"><span id="tp15044">4</span> points by <a href="/user?id=robin">robin</a> 12시간전<span id="unvote15044"></span> | <a href="topic?id=15044" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15044"><a class="upvote" href="javascript:vote(15044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15044" rel="nofollow" id="tr7"><h1>Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신</h1></a> <span class="topicurl">(random-gg.gitbook.io)</span></div><div class="topicdesc"><a href="topic?id=15044" class="c99 breakall">랜덤지지 플레이 메이커: 손쉽게 온라인 방탈출 및 크라임씬 콘텐츠 제작 가능  
+- 방탈출, 크라임씬을 포함한 다양한 멀티 플레이어 웹 콘텐츠 ...</a></div><div class="topicinfo"><span id="tp15044">7</span> points by <a href="/user?id=robin">robin</a> 13시간전<span id="unvote15044"></span> | <a href="topic?id=15044" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble.ai - AI 거품 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15033</id>
+        <link href="https://news.hada.io/topic?id=15033"/>
+        <updated>2024-05-27T02:31:52.406Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15033"><a class="upvote" href="javascript:vote(15033, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.profgalloway.com/bubble-ai" rel="nofollow" id="tr8"><h1>Bubble.ai - AI 거품</h1></a> <span class="topicurl">(profgalloway.com)</span></div><div class="topicdesc"><a href="topic?id=15033" class="c99 breakall">- 스콧 갤러웨이의 "No Mercy / No Malice" (자비 없음 / 악의 없음) 뉴스레터 요약. ( * 투자 조언이 아님 )  
+- Nvidia는 5년 전만 해도 Call o...</a></div><div class="topicinfo"><span id="tp15033">17</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15033"></span> | <a href="topic?id=15033" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Diffusion Models의 원리를 설명하는 글 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15013</id>
         <link href="https://news.hada.io/topic?id=15013"/>
         <updated>2024-05-26T13:12:47.581Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15013"><a class="upvote" href="javascript:vote(15013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andrewkchan.dev/posts/diffusion.html" rel="nofollow" id="tr10"><h1>Diffusion Models의 원리를 설명하는 글</h1></a> <span class="topicurl">(andrewkchan.dev)</span></div><div class="topicdesc"><a href="topic?id=15013" class="c99 breakall">해당 글에서는 확산 모델(Diffusion Models)에 대한 개요와 그 원리에 대해 설명합니다. 확산 모델은 데이터 분포를 학습하는데 사용되는 기법으로...</a></div><div class="topicinfo"><span id="tp15013">19</span> points by <a href="/user?id=seokzoo">seokzoo</a> 2일전<span id="unvote15013"></span> | <a href="topic?id=15013" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15013"><a class="upvote" href="javascript:vote(15013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andrewkchan.dev/posts/diffusion.html" rel="nofollow" id="tr9"><h1>Diffusion Models의 원리를 설명하는 글</h1></a> <span class="topicurl">(andrewkchan.dev)</span></div><div class="topicdesc"><a href="topic?id=15013" class="c99 breakall">해당 글에서는 확산 모델(Diffusion Models)에 대한 개요와 그 원리에 대해 설명합니다. 확산 모델은 데이터 분포를 학습하는데 사용되는 기법으로...</a></div><div class="topicinfo"><span id="tp15013">20</span> points by <a href="/user?id=seokzoo">seokzoo</a> 2일전<span id="unvote15013"></span> | <a href="topic?id=15013" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM을 활용한 실무 문제 해결 및 비즈니스 활용 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15055</id>
+        <link href="https://news.hada.io/topic?id=15055"/>
+        <updated>2024-05-28T03:14:14.530Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15055"><a class="upvote" href="javascript:vote(15055, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541" rel="nofollow" id="tr10"><h1>LLM을 활용한 실무 문제 해결 및 비즈니스 활용</h1></a> <span class="topicurl">(twosun.ai)</span></div><div class="topicdesc"><a href="topic?id=15055" class="c99 breakall">|  AI로 커리어를 변화시킬 준비가 되셨나요?  
+지금부터 본 세미나를 통해 대규모 언어 모델의 비밀을 풀어보세요. 실용적인 세션에서 인사이트...</a></div><div class="topicinfo"><span id="tp15055">1</span> point by <a href="/user?id=donnyson">donnyson</a> 2시간전<span id="unvote15055"></span> | <a href="topic?id=15055" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15017</id>
+        <link href="https://news.hada.io/topic?id=15017"/>
+        <updated>2024-05-27T00:58:08.905Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15017"><a class="upvote" href="javascript:vote(15017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ItzCrazyKns/Perplexica" rel="nofollow" id="tr11"><h1>Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ItzCrazyKns)</span></div><div class="topicdesc"><a href="topic?id=15017" class="c99 breakall">- 인터넷 깊숙이 들어가 답을 찾아주는 AI 기반 검색엔진   
+- Perplexity AI에서 영감을 받아, 웹을 검색할 뿐만 아니라 사용자의 질문을 이해함...</a></div><div class="topicinfo"><span id="tp15017">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15017"></span> | <a href="topic?id=15017" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15029</id>
         <link href="https://news.hada.io/topic?id=15029"/>
         <updated>2024-05-27T01:58:37.374Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15029"><a class="upvote" href="javascript:vote(15029, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet" rel="nofollow" id="tr11"><h1>GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임</h1></a> <span class="topicurl">(bbc.com)</span></div><div class="topicdesc"><a href="topic?id=15029" class="c99 breakall">- 지난 2년 동안 Google Search에 대한 일련의 업데이트는 전례 없는 AI 기능을 포함하여 가장 강력한 인터넷 도구의 극적인 변화를 의미함  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15029"><a class="upvote" href="javascript:vote(15029, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet" rel="nofollow" id="tr12"><h1>GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임</h1></a> <span class="topicurl">(bbc.com)</span></div><div class="topicdesc"><a href="topic?id=15029" class="c99 breakall">- 지난 2년 동안 Google Search에 대한 일련의 업데이트는 전례 없는 AI 기능을 포함하여 가장 강력한 인터넷 도구의 극적인 변화를 의미함  
 - G...</a></div><div class="topicinfo"><span id="tp15029">10</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15029"></span> | <a href="topic?id=15029" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -99,41 +107,34 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <id>https://news.hada.io/topic?id=15026</id>
         <link href="https://news.hada.io/topic?id=15026"/>
         <updated>2024-05-27T01:58:37.373Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15026"><a class="upvote" href="javascript:vote(15026, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://braid.org/" rel="nofollow" id="tr12"><h1>GN⁺: Braid: HTTP 동기화 기술</h1></a> <span class="topicurl">(braid.org)</span></div><div class="topicdesc"><a href="topic?id=15026" class="c99 breakall">- **Braid**는 상호운용 가능한 상태 동기화를 위한 알고리듬, 애플리케이션, 도구 및 표준을 만드는 오픈 작업 그룹임.  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15026"><a class="upvote" href="javascript:vote(15026, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://braid.org/" rel="nofollow" id="tr13"><h1>GN⁺: Braid: HTTP 동기화 기술</h1></a> <span class="topicurl">(braid.org)</span></div><div class="topicdesc"><a href="topic?id=15026" class="c99 breakall">- **Braid**는 상호운용 가능한 상태 동기화를 위한 알고리듬, 애플리케이션, 도구 및 표준을 만드는 오픈 작업 그룹임.  
 - 목표는 네트워크 컴...</a></div><div class="topicinfo"><span id="tp15026">10</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15026"></span> | <a href="topic?id=15026" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15017</id>
-        <link href="https://news.hada.io/topic?id=15017"/>
-        <updated>2024-05-27T00:58:08.905Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15017"><a class="upvote" href="javascript:vote(15017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ItzCrazyKns/Perplexica" rel="nofollow" id="tr13"><h1>Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ItzCrazyKns)</span></div><div class="topicdesc"><a href="topic?id=15017" class="c99 breakall">- 인터넷 깊숙이 들어가 답을 찾아주는 AI 기반 검색엔진   
-- Perplexity AI에서 영감을 받아, 웹을 검색할 뿐만 아니라 사용자의 질문을 이해함...</a></div><div class="topicinfo"><span id="tp15017">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15017"></span> | <a href="topic?id=15017" class="u">댓글 3개</a></div>]]></content>
+        <title type="html"><![CDATA[커뮤니티는 마법이 아닙니다. 정신차리세요! (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15041</id>
+        <link href="https://news.hada.io/topic?id=15041"/>
+        <updated>2024-05-27T10:13:55.187Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15041"><a class="upvote" href="javascript:vote(15041, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/5r398nmng9v7j2vwje7y" rel="nofollow" id="tr14"><h1>커뮤니티는 마법이 아닙니다. 정신차리세요!</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=15041" class="c99 breakall"># 커뮤니티 빌딩에 대한 오해  
+- 많은 스타트업 대표들이 해외, 특히 미국 시장 진출을 꿈꾸며 커뮤니티 빌딩에 관심  
+- 그러나 커뮤니티를 마...</a></div><div class="topicinfo"><span id="tp15041">5</span> points by <a href="/user?id=haebom">haebom</a> 18시간전<span id="unvote15041"></span> | <a href="topic?id=15041" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15047</id>
         <link href="https://news.hada.io/topic?id=15047"/>
         <updated>2024-05-28T00:56:49.436Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15047"><a class="upvote" href="javascript:vote(15047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://enterprise.wikimedia.com/" rel="nofollow" id="tr14"><h1>Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API</h1></a> <span class="topicurl">(enterprise.wikimedia.com)</span></div><div class="topicdesc"><a href="topic?id=15047" class="c99 breakall">- Wikipedia 를 운영하는 Wikimedia 재단에서 제공하는 기업용 API들  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15047"><a class="upvote" href="javascript:vote(15047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://enterprise.wikimedia.com/" rel="nofollow" id="tr15"><h1>Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API</h1></a> <span class="topicurl">(enterprise.wikimedia.com)</span></div><div class="topicdesc"><a href="topic?id=15047" class="c99 breakall">- Wikipedia 를 운영하는 Wikimedia 재단에서 제공하는 기업용 API들  
 - Snapshot API   
-  - 매일/매달 업데이트 되는 위미키미어 프로젝트의 ...</a></div><div class="topicinfo"><span id="tp15047">1</span> point by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15047"></span> | <a href="topic?id=15047" class="u">댓글과 토론</a></div>]]></content>
+  - 매일/매달 업데이트 되는 위미키미어 프로젝트의 ...</a></div><div class="topicinfo"><span id="tp15047">1</span> point by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15047"></span> | <a href="topic?id=15047" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 아이폰을 Dumb Phone으로 바꾸기 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15023</id>
         <link href="https://news.hada.io/topic?id=15023"/>
         <updated>2024-05-27T01:58:37.376Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15023"><a class="upvote" href="javascript:vote(15023, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dumbph.com/turn-iphone-into-dumb-phone" rel="nofollow" id="tr15"><h1>GN⁺: 아이폰을 Dumb Phone으로 바꾸기</h1></a> <span class="topicurl">(dumbph.com)</span></div><div class="topicdesc"><a href="topic?id=15023" class="c99 breakall">- 스크린 타임을 줄이고 디지털 미니멀리즘을 실천하고 싶지만 완전히 덤폰(멍청한 휴대폰)으로 전환하고 싶지 않은 사람들을 위한 방법  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15023"><a class="upvote" href="javascript:vote(15023, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dumbph.com/turn-iphone-into-dumb-phone" rel="nofollow" id="tr16"><h1>GN⁺: 아이폰을 Dumb Phone으로 바꾸기</h1></a> <span class="topicurl">(dumbph.com)</span></div><div class="topicdesc"><a href="topic?id=15023" class="c99 breakall">- 스크린 타임을 줄이고 디지털 미니멀리즘을 실천하고 싶지만 완전히 덤폰(멍청한 휴대폰)으로 전환하고 싶지 않은 사람들을 위한 방법  
 - 현재...</a></div><div class="topicinfo"><span id="tp15023">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15023"></span> | <a href="topic?id=15023" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15045</id>
-        <link href="https://news.hada.io/topic?id=15045"/>
-        <updated>2024-05-28T00:56:49.436Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15045"><a class="upvote" href="javascript:vote(15045, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top" rel="nofollow" id="tr16"><h1>GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들</h1></a> <span class="topicurl">(karlstack.com)</span></div><div class="topicdesc"><a href="topic?id=15045" class="c99 breakall">- Krish Pai는 ISEF 2024 환경공학 부문 1등을 수상하여 $55,000의 상금과 Regeneron Young Scientist Award를 받음  
-- Pai는 기계 학습을 사용...</a></div><div class="topicinfo"><span id="tp15045">1</span> point by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15045"></span> | <a href="topic?id=15045" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요! (GeekNews ─ 메인)]]></title>
@@ -143,16 +144,15 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15042"><a class="upvote" href="javascript:vote(15042, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15042" rel="nofollow" id="tr17"><h1>Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요!</h1></a> <span class="topicurl">(github.com/patcher454)</span></div><div class="topicdesc"><a href="topic?id=15042" class="c99 breakall">소개  
 * DeepL 번역 API를 이용한 PowerToys Run 플러그인 입니다.   
 * 언제든지 빠르게 브라우저 실행 없이 문장을 번역할 수 있습니다.  
-*...</a></div><div class="topicinfo"><span id="tp15042">4</span> points by <a href="/user?id=patcher454">patcher454</a> 16시간전<span id="unvote15042"></span> | <a href="topic?id=15042" class="u">댓글과 토론</a></div>]]></content>
+*...</a></div><div class="topicinfo"><span id="tp15042">4</span> points by <a href="/user?id=patcher454">patcher454</a> 17시간전<span id="unvote15042"></span> | <a href="topic?id=15042" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커뮤니티는 마법이 아닙니다. 정신차리세요! (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15041</id>
-        <link href="https://news.hada.io/topic?id=15041"/>
-        <updated>2024-05-27T10:13:55.187Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15041"><a class="upvote" href="javascript:vote(15041, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/5r398nmng9v7j2vwje7y" rel="nofollow" id="tr18"><h1>커뮤니티는 마법이 아닙니다. 정신차리세요!</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=15041" class="c99 breakall"># 커뮤니티 빌딩에 대한 오해  
-- 많은 스타트업 대표들이 해외, 특히 미국 시장 진출을 꿈꾸며 커뮤니티 빌딩에 관심  
-- 그러나 커뮤니티를 마...</a></div><div class="topicinfo"><span id="tp15041">4</span> points by <a href="/user?id=haebom">haebom</a> 17시간전<span id="unvote15041"></span> | <a href="topic?id=15041" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15045</id>
+        <link href="https://news.hada.io/topic?id=15045"/>
+        <updated>2024-05-28T00:56:49.436Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15045"><a class="upvote" href="javascript:vote(15045, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top" rel="nofollow" id="tr18"><h1>GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들</h1></a> <span class="topicurl">(karlstack.com)</span></div><div class="topicdesc"><a href="topic?id=15045" class="c99 breakall">- Krish Pai는 ISEF 2024 환경공학 부문 1등을 수상하여 $55,000의 상금과 Regeneron Young Scientist Award를 받음  
+- Pai는 기계 학습을 사용...</a></div><div class="topicinfo"><span id="tp15045">1</span> point by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15045"></span> | <a href="topic?id=15045" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dataherald - 자연어-to-SQL 엔진, 전체 오픈소스로 전환 (GeekNews ─ 메인)]]></title>
@@ -172,29 +172,29 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
 - Extending React Native Beyo...</a></div><div class="topicinfo"><span id="tp15024">6</span> points by <a href="/user?id=soaple">soaple</a> 1일전<span id="unvote15024"></span> | <a href="topic?id=15024" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://news.hada.io/topic?id=15054</id>
+        <link href="https://news.hada.io/topic?id=15054"/>
+        <updated>2024-05-28T02:30:53.550Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15054"><a class="upvote" href="javascript:vote(15054, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15054" rel="nofollow" id="tr1"><h1>Show GN: 알로록달로록 오픈소스 모바일 청첩장</h1></a> <span class="topicurl">(github.com/heejin-hwang)</span></div><div class="topicdesc"><a href="topic?id=15054" class="c99 breakall">아내와 제가 결혼 할 때 쓰고, 최근에 오픈소스 공개한 💌모바일 청첩장💌입니다.  
+Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...</a></div><div class="topicinfo"><span id="tp15054">7</span> points by <a href="/user?id=laeyoung">laeyoung</a> 2시간전<span id="unvote15054"></span> | <a href="topic?id=15054" class="u">댓글 7개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다 (GeekNews ─ 메인 원문)]]></title>
         <id>https://ntietz.com/blog/lets-say-instead-of-auth/</id>
         <link href="https://ntietz.com/blog/lets-say-instead-of-auth/"/>
         <updated>2024-05-28T01:58:04.231Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15051"><a class="upvote" href="javascript:vote(15051, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ntietz.com/blog/lets-say-instead-of-auth/" rel="nofollow" id="tr1"><h1>GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다</h1></a> <span class="topicurl">(ntietz.com)</span></div><div class="topicdesc"><a href="topic?id=15051" class="c99 breakall">- "auth"라는 용어는 인증(authentication)과 권한 부여(authorization) 두 가지 의미를 가짐  
-- 이로 인해 라이브러리나 패키지 이름에서 혼란...</a></div><div class="topicinfo"><span id="tp15051">9</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote15051"></span> | <a href="topic?id=15051" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15051"><a class="upvote" href="javascript:vote(15051, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ntietz.com/blog/lets-say-instead-of-auth/" rel="nofollow" id="tr2"><h1>GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다</h1></a> <span class="topicurl">(ntietz.com)</span></div><div class="topicdesc"><a href="topic?id=15051" class="c99 breakall">- "auth"라는 용어는 인증(authentication)과 권한 부여(authorization) 두 가지 의미를 가짐  
+- 이로 인해 라이브러리나 패키지 이름에서 혼란...</a></div><div class="topicinfo"><span id="tp15051">9</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote15051"></span> | <a href="topic?id=15051" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: JWT를 인증 토큰으로 사용해야 할까? (GeekNews ─ 메인 원문)]]></title>
         <id>https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/</id>
         <link href="https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/"/>
         <updated>2024-05-28T01:58:04.230Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15053"><a class="upvote" href="javascript:vote(15053, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/" rel="nofollow" id="tr2"><h1>GN⁺: JWT를 인증 토큰으로 사용해야 할까?</h1></a> <span class="topicurl">(blog.ploetzli.ch)</span></div><div class="topicdesc"><a href="topic?id=15053" class="c99 breakall">- JWT는 JSON Web Tokens의 약자로, 인증된 토큰을 위한 표준임.  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15053"><a class="upvote" href="javascript:vote(15053, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/" rel="nofollow" id="tr3"><h1>GN⁺: JWT를 인증 토큰으로 사용해야 할까?</h1></a> <span class="topicurl">(blog.ploetzli.ch)</span></div><div class="topicdesc"><a href="topic?id=15053" class="c99 breakall">- JWT는 JSON Web Tokens의 약자로, 인증된 토큰을 위한 표준임.  
 - JWT는 헤더, 페이로드, 서명 또는 메시지 인증 코드로 구성됨.  
-- 검증 키...</a></div><div class="topicinfo"><span id="tp15053">7</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote15053"></span> | <a href="topic?id=15053" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://news.hada.io/topic?id=15054</id>
-        <link href="https://news.hada.io/topic?id=15054"/>
-        <updated>2024-05-28T02:30:53.550Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15054"><a class="upvote" href="javascript:vote(15054, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15054" rel="nofollow" id="tr3"><h1>Show GN: 알로록달로록 오픈소스 모바일 청첩장</h1></a> <span class="topicurl">(github.com/heejin-hwang)</span></div><div class="topicdesc"><a href="topic?id=15054" class="c99 breakall">아내와 제가 결혼 할 때 쓰고, 최근에 오픈소스 공개한 💌모바일 청첩장💌입니다.  
-Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...</a></div><div class="topicinfo"><span id="tp15054">4</span> points by <a href="/user?id=laeyoung">laeyoung</a> 45분전<span id="unvote15054"></span> | <a href="topic?id=15054" class="u">댓글 4개</a></div>]]></content>
+- 검증 키...</a></div><div class="topicinfo"><span id="tp15053">8</span> points by <a href="/user?id=neo">neo</a> 3시간전<span id="unvote15053"></span> | <a href="topic?id=15053" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenPanel - 오픈소스 Mixpanel 대체제 (GeekNews ─ 메인 원문)]]></title>
@@ -203,7 +203,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <updated>2024-05-28T00:56:53.862Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15049"><a class="upvote" href="javascript:vote(15049, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Openpanel-dev/openpanel" rel="nofollow" id="tr4"><h1>OpenPanel - 오픈소스 Mixpanel 대체제</h1></a> <span class="topicurl">(github.com/Openpanel-dev)</span></div><div class="topicdesc"><a href="topic?id=15049" class="c99 breakall">- Mixpanel의 강력함 + Plausible의 쉬움 + GA로부터는 Nothing   
 - 웹, 앱 및 백엔드에서 이벤트를 로깅하기 위한 간단한 분석 도구  
-- 데이...</a></div><div class="topicinfo"><span id="tp15049">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15049"></span> | <a href="topic?id=15049" class="u">댓글과 토론</a></div>]]></content>
+- 데이...</a></div><div class="topicinfo"><span id="tp15049">4</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15049"></span> | <a href="topic?id=15049" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: EC2 부팅 시간 단축하기 (GeekNews ─ 메인 원문)]]></title>
@@ -211,7 +211,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <link href="https://depot.dev/blog/faster-ec2-boot-time"/>
         <updated>2024-05-28T01:58:04.234Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15046"><a class="upvote" href="javascript:vote(15046, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://depot.dev/blog/faster-ec2-boot-time" rel="nofollow" id="tr5"><h1>GN⁺: EC2 부팅 시간 단축하기 </h1></a> <span class="topicurl">(depot.dev)</span></div><div class="topicdesc"><a href="topic?id=15046" class="c99 breakall">- EC2 인스턴스의 부팅 시간을 40초에서 5초로 줄이는 것이 가능함  
-- 이는 특정 작업을 처리하기 위해 새로운 EC2 인스턴스가 필요한 경우 매우...</a></div><div class="topicinfo"><span id="tp15046">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15046"></span> | <a href="topic?id=15046" class="u">댓글 1개</a></div>]]></content>
+- 이는 특정 작업을 처리하기 위해 새로운 EC2 인스턴스가 필요한 경우 매우...</a></div><div class="topicinfo"><span id="tp15046">4</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15046"></span> | <a href="topic?id=15046" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 서비스와 미국 서비스의 감성 차이 (GeekNews ─ 메인 원문)]]></title>
@@ -220,45 +220,53 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <updated>2024-05-26T23:12:26.930Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15014"><a class="upvote" href="javascript:vote(15014, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dis.qa/wHPUP5" rel="nofollow" id="tr6"><h1>한국 서비스와 미국 서비스의 감성 차이</h1></a> <span class="topicurl">(dis.qa)</span></div><div class="topicdesc"><a href="topic?id=15014" class="c99 breakall">- 한국 스타트업이 미국 진출시 UI 현지화를 잘해야 됨  
 - 한국 감성이 녹아든 UI는 미국에서 이질적일 수 있음  
-- 샌드버드는 초창기 디자인 ...</a></div><div class="topicinfo"><span id="tp15014">24</span> points by <a href="/user?id=hpark0011">hpark0011</a> 1일전<span id="unvote15014"></span> | <a href="topic?id=15014" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble.ai - AI 거품 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://www.profgalloway.com/bubble-ai</id>
-        <link href="https://www.profgalloway.com/bubble-ai"/>
-        <updated>2024-05-27T02:31:56.464Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15033"><a class="upvote" href="javascript:vote(15033, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.profgalloway.com/bubble-ai" rel="nofollow" id="tr7"><h1>Bubble.ai - AI 거품</h1></a> <span class="topicurl">(profgalloway.com)</span></div><div class="topicdesc"><a href="topic?id=15033" class="c99 breakall">- 스콧 갤러웨이의 "No Mercy / No Malice" (자비 없음 / 악의 없음) 뉴스레터 요약. ( * 투자 조언이 아님 )  
-- Nvidia는 5년 전만 해도 Call o...</a></div><div class="topicinfo"><span id="tp15033">17</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15033"></span> | <a href="topic?id=15033" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM을 활용한 실무 문제 해결 및 비즈니스 활용 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541</id>
-        <link href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541"/>
-        <updated>2024-05-28T03:14:18.404Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15055"><a class="upvote" href="javascript:vote(15055, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541" rel="nofollow" id="tr8"><h1>LLM을 활용한 실무 문제 해결 및 비즈니스 활용</h1></a> <span class="topicurl">(twosun.ai)</span></div><div class="topicdesc"><a href="topic?id=15055" class="c99 breakall">|  AI로 커리어를 변화시킬 준비가 되셨나요?  
-지금부터 본 세미나를 통해 대규모 언어 모델의 비밀을 풀어보세요. 실용적인 세션에서 인사이트...</a></div><div class="topicinfo"><span id="tp15055">1</span> point by <a href="/user?id=donnyson">donnyson</a> 41분전<span id="unvote15055"></span> | <a href="topic?id=15055" class="u">댓글과 토론</a></div>]]></content>
+- 샌드버드는 초창기 디자인 ...</a></div><div class="topicinfo"><span id="tp15014">25</span> points by <a href="/user?id=hpark0011">hpark0011</a> 1일전<span id="unvote15014"></span> | <a href="topic?id=15014" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신 (GeekNews ─ 메인 원문)]]></title>
         <id>https://news.hada.io/topic?id=15044</id>
         <link href="https://news.hada.io/topic?id=15044"/>
         <updated>2024-05-27T16:15:24.292Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15044"><a class="upvote" href="javascript:vote(15044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15044" rel="nofollow" id="tr9"><h1>Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신</h1></a> <span class="topicurl">(random-gg.gitbook.io)</span></div><div class="topicdesc"><a href="topic?id=15044" class="c99 breakall">랜덤지지 플레이 메이커: 손쉽게 온라인 방탈출 및 크라임씬 콘텐츠 제작 가능  
-- 방탈출, 크라임씬을 포함한 다양한 멀티 플레이어 웹 콘텐츠 ...</a></div><div class="topicinfo"><span id="tp15044">4</span> points by <a href="/user?id=robin">robin</a> 12시간전<span id="unvote15044"></span> | <a href="topic?id=15044" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15044"><a class="upvote" href="javascript:vote(15044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15044" rel="nofollow" id="tr7"><h1>Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신</h1></a> <span class="topicurl">(random-gg.gitbook.io)</span></div><div class="topicdesc"><a href="topic?id=15044" class="c99 breakall">랜덤지지 플레이 메이커: 손쉽게 온라인 방탈출 및 크라임씬 콘텐츠 제작 가능  
+- 방탈출, 크라임씬을 포함한 다양한 멀티 플레이어 웹 콘텐츠 ...</a></div><div class="topicinfo"><span id="tp15044">7</span> points by <a href="/user?id=robin">robin</a> 13시간전<span id="unvote15044"></span> | <a href="topic?id=15044" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble.ai - AI 거품 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://www.profgalloway.com/bubble-ai</id>
+        <link href="https://www.profgalloway.com/bubble-ai"/>
+        <updated>2024-05-27T02:31:56.464Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15033"><a class="upvote" href="javascript:vote(15033, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.profgalloway.com/bubble-ai" rel="nofollow" id="tr8"><h1>Bubble.ai - AI 거품</h1></a> <span class="topicurl">(profgalloway.com)</span></div><div class="topicdesc"><a href="topic?id=15033" class="c99 breakall">- 스콧 갤러웨이의 "No Mercy / No Malice" (자비 없음 / 악의 없음) 뉴스레터 요약. ( * 투자 조언이 아님 )  
+- Nvidia는 5년 전만 해도 Call o...</a></div><div class="topicinfo"><span id="tp15033">17</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15033"></span> | <a href="topic?id=15033" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Diffusion Models의 원리를 설명하는 글 (GeekNews ─ 메인 원문)]]></title>
         <id>https://andrewkchan.dev/posts/diffusion.html</id>
         <link href="https://andrewkchan.dev/posts/diffusion.html"/>
         <updated>2024-05-26T13:12:51.615Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15013"><a class="upvote" href="javascript:vote(15013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andrewkchan.dev/posts/diffusion.html" rel="nofollow" id="tr10"><h1>Diffusion Models의 원리를 설명하는 글</h1></a> <span class="topicurl">(andrewkchan.dev)</span></div><div class="topicdesc"><a href="topic?id=15013" class="c99 breakall">해당 글에서는 확산 모델(Diffusion Models)에 대한 개요와 그 원리에 대해 설명합니다. 확산 모델은 데이터 분포를 학습하는데 사용되는 기법으로...</a></div><div class="topicinfo"><span id="tp15013">19</span> points by <a href="/user?id=seokzoo">seokzoo</a> 2일전<span id="unvote15013"></span> | <a href="topic?id=15013" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15013"><a class="upvote" href="javascript:vote(15013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andrewkchan.dev/posts/diffusion.html" rel="nofollow" id="tr9"><h1>Diffusion Models의 원리를 설명하는 글</h1></a> <span class="topicurl">(andrewkchan.dev)</span></div><div class="topicdesc"><a href="topic?id=15013" class="c99 breakall">해당 글에서는 확산 모델(Diffusion Models)에 대한 개요와 그 원리에 대해 설명합니다. 확산 모델은 데이터 분포를 학습하는데 사용되는 기법으로...</a></div><div class="topicinfo"><span id="tp15013">20</span> points by <a href="/user?id=seokzoo">seokzoo</a> 2일전<span id="unvote15013"></span> | <a href="topic?id=15013" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM을 활용한 실무 문제 해결 및 비즈니스 활용 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541</id>
+        <link href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541"/>
+        <updated>2024-05-28T03:14:18.404Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15055"><a class="upvote" href="javascript:vote(15055, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541" rel="nofollow" id="tr10"><h1>LLM을 활용한 실무 문제 해결 및 비즈니스 활용</h1></a> <span class="topicurl">(twosun.ai)</span></div><div class="topicdesc"><a href="topic?id=15055" class="c99 breakall">|  AI로 커리어를 변화시킬 준비가 되셨나요?  
+지금부터 본 세미나를 통해 대규모 언어 모델의 비밀을 풀어보세요. 실용적인 세션에서 인사이트...</a></div><div class="topicinfo"><span id="tp15055">1</span> point by <a href="/user?id=donnyson">donnyson</a> 2시간전<span id="unvote15055"></span> | <a href="topic?id=15055" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://github.com/ItzCrazyKns/Perplexica</id>
+        <link href="https://github.com/ItzCrazyKns/Perplexica"/>
+        <updated>2024-05-27T00:58:12.899Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15017"><a class="upvote" href="javascript:vote(15017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ItzCrazyKns/Perplexica" rel="nofollow" id="tr11"><h1>Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ItzCrazyKns)</span></div><div class="topicdesc"><a href="topic?id=15017" class="c99 breakall">- 인터넷 깊숙이 들어가 답을 찾아주는 AI 기반 검색엔진   
+- Perplexity AI에서 영감을 받아, 웹을 검색할 뿐만 아니라 사용자의 질문을 이해함...</a></div><div class="topicinfo"><span id="tp15017">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15017"></span> | <a href="topic?id=15017" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임 (GeekNews ─ 메인 원문)]]></title>
         <id>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</id>
         <link href="https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet"/>
         <updated>2024-05-27T01:58:41.484Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15029"><a class="upvote" href="javascript:vote(15029, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet" rel="nofollow" id="tr11"><h1>GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임</h1></a> <span class="topicurl">(bbc.com)</span></div><div class="topicdesc"><a href="topic?id=15029" class="c99 breakall">- 지난 2년 동안 Google Search에 대한 일련의 업데이트는 전례 없는 AI 기능을 포함하여 가장 강력한 인터넷 도구의 극적인 변화를 의미함  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15029"><a class="upvote" href="javascript:vote(15029, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet" rel="nofollow" id="tr12"><h1>GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임</h1></a> <span class="topicurl">(bbc.com)</span></div><div class="topicdesc"><a href="topic?id=15029" class="c99 breakall">- 지난 2년 동안 Google Search에 대한 일련의 업데이트는 전례 없는 AI 기능을 포함하여 가장 강력한 인터넷 도구의 극적인 변화를 의미함  
 - G...</a></div><div class="topicinfo"><span id="tp15029">10</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15029"></span> | <a href="topic?id=15029" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -266,41 +274,34 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <id>https://braid.org/</id>
         <link href="https://braid.org/"/>
         <updated>2024-05-27T01:58:41.473Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15026"><a class="upvote" href="javascript:vote(15026, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://braid.org/" rel="nofollow" id="tr12"><h1>GN⁺: Braid: HTTP 동기화 기술</h1></a> <span class="topicurl">(braid.org)</span></div><div class="topicdesc"><a href="topic?id=15026" class="c99 breakall">- **Braid**는 상호운용 가능한 상태 동기화를 위한 알고리듬, 애플리케이션, 도구 및 표준을 만드는 오픈 작업 그룹임.  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15026"><a class="upvote" href="javascript:vote(15026, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://braid.org/" rel="nofollow" id="tr13"><h1>GN⁺: Braid: HTTP 동기화 기술</h1></a> <span class="topicurl">(braid.org)</span></div><div class="topicdesc"><a href="topic?id=15026" class="c99 breakall">- **Braid**는 상호운용 가능한 상태 동기화를 위한 알고리듬, 애플리케이션, 도구 및 표준을 만드는 오픈 작업 그룹임.  
 - 목표는 네트워크 컴...</a></div><div class="topicinfo"><span id="tp15026">10</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15026"></span> | <a href="topic?id=15026" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://github.com/ItzCrazyKns/Perplexica</id>
-        <link href="https://github.com/ItzCrazyKns/Perplexica"/>
-        <updated>2024-05-27T00:58:12.899Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15017"><a class="upvote" href="javascript:vote(15017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ItzCrazyKns/Perplexica" rel="nofollow" id="tr13"><h1>Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ItzCrazyKns)</span></div><div class="topicdesc"><a href="topic?id=15017" class="c99 breakall">- 인터넷 깊숙이 들어가 답을 찾아주는 AI 기반 검색엔진   
-- Perplexity AI에서 영감을 받아, 웹을 검색할 뿐만 아니라 사용자의 질문을 이해함...</a></div><div class="topicinfo"><span id="tp15017">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15017"></span> | <a href="topic?id=15017" class="u">댓글 3개</a></div>]]></content>
+        <title type="html"><![CDATA[커뮤니티는 마법이 아닙니다. 정신차리세요! (GeekNews ─ 메인 원문)]]></title>
+        <id>https://www.haebom.dev/5r398nmng9v7j2vwje7y</id>
+        <link href="https://www.haebom.dev/5r398nmng9v7j2vwje7y"/>
+        <updated>2024-05-27T10:13:59.134Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15041"><a class="upvote" href="javascript:vote(15041, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/5r398nmng9v7j2vwje7y" rel="nofollow" id="tr14"><h1>커뮤니티는 마법이 아닙니다. 정신차리세요!</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=15041" class="c99 breakall"># 커뮤니티 빌딩에 대한 오해  
+- 많은 스타트업 대표들이 해외, 특히 미국 시장 진출을 꿈꾸며 커뮤니티 빌딩에 관심  
+- 그러나 커뮤니티를 마...</a></div><div class="topicinfo"><span id="tp15041">5</span> points by <a href="/user?id=haebom">haebom</a> 18시간전<span id="unvote15041"></span> | <a href="topic?id=15041" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API (GeekNews ─ 메인 원문)]]></title>
         <id>https://enterprise.wikimedia.com/</id>
         <link href="https://enterprise.wikimedia.com/"/>
         <updated>2024-05-28T00:56:53.862Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15047"><a class="upvote" href="javascript:vote(15047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://enterprise.wikimedia.com/" rel="nofollow" id="tr14"><h1>Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API</h1></a> <span class="topicurl">(enterprise.wikimedia.com)</span></div><div class="topicdesc"><a href="topic?id=15047" class="c99 breakall">- Wikipedia 를 운영하는 Wikimedia 재단에서 제공하는 기업용 API들  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15047"><a class="upvote" href="javascript:vote(15047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://enterprise.wikimedia.com/" rel="nofollow" id="tr15"><h1>Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API</h1></a> <span class="topicurl">(enterprise.wikimedia.com)</span></div><div class="topicdesc"><a href="topic?id=15047" class="c99 breakall">- Wikipedia 를 운영하는 Wikimedia 재단에서 제공하는 기업용 API들  
 - Snapshot API   
-  - 매일/매달 업데이트 되는 위미키미어 프로젝트의 ...</a></div><div class="topicinfo"><span id="tp15047">1</span> point by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15047"></span> | <a href="topic?id=15047" class="u">댓글과 토론</a></div>]]></content>
+  - 매일/매달 업데이트 되는 위미키미어 프로젝트의 ...</a></div><div class="topicinfo"><span id="tp15047">1</span> point by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15047"></span> | <a href="topic?id=15047" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 아이폰을 Dumb Phone으로 바꾸기 (GeekNews ─ 메인 원문)]]></title>
         <id>https://dumbph.com/turn-iphone-into-dumb-phone</id>
         <link href="https://dumbph.com/turn-iphone-into-dumb-phone"/>
         <updated>2024-05-27T01:58:41.489Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15023"><a class="upvote" href="javascript:vote(15023, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dumbph.com/turn-iphone-into-dumb-phone" rel="nofollow" id="tr15"><h1>GN⁺: 아이폰을 Dumb Phone으로 바꾸기</h1></a> <span class="topicurl">(dumbph.com)</span></div><div class="topicdesc"><a href="topic?id=15023" class="c99 breakall">- 스크린 타임을 줄이고 디지털 미니멀리즘을 실천하고 싶지만 완전히 덤폰(멍청한 휴대폰)으로 전환하고 싶지 않은 사람들을 위한 방법  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15023"><a class="upvote" href="javascript:vote(15023, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dumbph.com/turn-iphone-into-dumb-phone" rel="nofollow" id="tr16"><h1>GN⁺: 아이폰을 Dumb Phone으로 바꾸기</h1></a> <span class="topicurl">(dumbph.com)</span></div><div class="topicdesc"><a href="topic?id=15023" class="c99 breakall">- 스크린 타임을 줄이고 디지털 미니멀리즘을 실천하고 싶지만 완전히 덤폰(멍청한 휴대폰)으로 전환하고 싶지 않은 사람들을 위한 방법  
 - 현재...</a></div><div class="topicinfo"><span id="tp15023">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15023"></span> | <a href="topic?id=15023" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://www.karlstack.com/p/exclusive-scandal-at-americas-top</id>
-        <link href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top"/>
-        <updated>2024-05-28T00:56:53.862Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15045"><a class="upvote" href="javascript:vote(15045, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top" rel="nofollow" id="tr16"><h1>GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들</h1></a> <span class="topicurl">(karlstack.com)</span></div><div class="topicdesc"><a href="topic?id=15045" class="c99 breakall">- Krish Pai는 ISEF 2024 환경공학 부문 1등을 수상하여 $55,000의 상금과 Regeneron Young Scientist Award를 받음  
-- Pai는 기계 학습을 사용...</a></div><div class="topicinfo"><span id="tp15045">1</span> point by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15045"></span> | <a href="topic?id=15045" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요! (GeekNews ─ 메인 원문)]]></title>
@@ -310,16 +311,15 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15042"><a class="upvote" href="javascript:vote(15042, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15042" rel="nofollow" id="tr17"><h1>Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요!</h1></a> <span class="topicurl">(github.com/patcher454)</span></div><div class="topicdesc"><a href="topic?id=15042" class="c99 breakall">소개  
 * DeepL 번역 API를 이용한 PowerToys Run 플러그인 입니다.   
 * 언제든지 빠르게 브라우저 실행 없이 문장을 번역할 수 있습니다.  
-*...</a></div><div class="topicinfo"><span id="tp15042">4</span> points by <a href="/user?id=patcher454">patcher454</a> 16시간전<span id="unvote15042"></span> | <a href="topic?id=15042" class="u">댓글과 토론</a></div>]]></content>
+*...</a></div><div class="topicinfo"><span id="tp15042">4</span> points by <a href="/user?id=patcher454">patcher454</a> 17시간전<span id="unvote15042"></span> | <a href="topic?id=15042" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커뮤니티는 마법이 아닙니다. 정신차리세요! (GeekNews ─ 메인 원문)]]></title>
-        <id>https://www.haebom.dev/5r398nmng9v7j2vwje7y</id>
-        <link href="https://www.haebom.dev/5r398nmng9v7j2vwje7y"/>
-        <updated>2024-05-27T10:13:59.134Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15041"><a class="upvote" href="javascript:vote(15041, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/5r398nmng9v7j2vwje7y" rel="nofollow" id="tr18"><h1>커뮤니티는 마법이 아닙니다. 정신차리세요!</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=15041" class="c99 breakall"># 커뮤니티 빌딩에 대한 오해  
-- 많은 스타트업 대표들이 해외, 특히 미국 시장 진출을 꿈꾸며 커뮤니티 빌딩에 관심  
-- 그러나 커뮤니티를 마...</a></div><div class="topicinfo"><span id="tp15041">4</span> points by <a href="/user?id=haebom">haebom</a> 17시간전<span id="unvote15041"></span> | <a href="topic?id=15041" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://www.karlstack.com/p/exclusive-scandal-at-americas-top</id>
+        <link href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top"/>
+        <updated>2024-05-28T00:56:53.862Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15045"><a class="upvote" href="javascript:vote(15045, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top" rel="nofollow" id="tr18"><h1>GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들</h1></a> <span class="topicurl">(karlstack.com)</span></div><div class="topicdesc"><a href="topic?id=15045" class="c99 breakall">- Krish Pai는 ISEF 2024 환경공학 부문 1등을 수상하여 $55,000의 상금과 Regeneron Young Scientist Award를 받음  
+- Pai는 기계 학습을 사용...</a></div><div class="topicinfo"><span id="tp15045">1</span> point by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15045"></span> | <a href="topic?id=15045" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dataherald - 자연어-to-SQL 엔진, 전체 오픈소스로 전환 (GeekNews ─ 메인 원문)]]></title>
@@ -342,9 +342,9 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <title type="html"><![CDATA[LLM을 활용한 실무 문제 해결 및 비즈니스 활용 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15055</id>
         <link href="https://news.hada.io/topic?id=15055"/>
-        <updated>2024-05-28T03:14:22.254Z</updated>
+        <updated>2024-05-28T03:14:14.530Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15055"><a class="upvote" href="javascript:vote(15055, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541" rel="nofollow" id="tr1"><h1>LLM을 활용한 실무 문제 해결 및 비즈니스 활용</h1></a> <span class="topicurl">(twosun.ai)</span></div><div class="topicdesc"><a href="topic?id=15055" class="c99 breakall">|  AI로 커리어를 변화시킬 준비가 되셨나요?  
-지금부터 본 세미나를 통해 대규모 언어 모델의 비밀을 풀어보세요. 실용적인 세션에서 인사이트...</a></div><div class="topicinfo"><span id="tp15055">1</span> point by <a href="/user?id=donnyson">donnyson</a> 41분전<span id="unvote15055"></span> | <a href="topic?id=15055" class="u">댓글과 토론</a></div>]]></content>
+지금부터 본 세미나를 통해 대규모 언어 모델의 비밀을 풀어보세요. 실용적인 세션에서 인사이트...</a></div><div class="topicinfo"><span id="tp15055">1</span> point by <a href="/user?id=donnyson">donnyson</a> 2시간전<span id="unvote15055"></span> | <a href="topic?id=15055" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장 (GeekNews ─ 최신글)]]></title>
@@ -352,7 +352,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <link href="https://news.hada.io/topic?id=15054"/>
         <updated>2024-05-28T02:30:53.550Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15054"><a class="upvote" href="javascript:vote(15054, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15054" rel="nofollow" id="tr2"><h1>Show GN: 알로록달로록 오픈소스 모바일 청첩장</h1></a> <span class="topicurl">(github.com/heejin-hwang)</span></div><div class="topicdesc"><a href="topic?id=15054" class="c99 breakall">아내와 제가 결혼 할 때 쓰고, 최근에 오픈소스 공개한 💌모바일 청첩장💌입니다.  
-Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...</a></div><div class="topicinfo"><span id="tp15054">4</span> points by <a href="/user?id=laeyoung">laeyoung</a> 45분전<span id="unvote15054"></span> | <a href="topic?id=15054" class="u">댓글 4개</a></div>]]></content>
+Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...</a></div><div class="topicinfo"><span id="tp15054">7</span> points by <a href="/user?id=laeyoung">laeyoung</a> 2시간전<span id="unvote15054"></span> | <a href="topic?id=15054" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenPanel - 오픈소스 Mixpanel 대체제 (GeekNews ─ 최신글)]]></title>
@@ -361,7 +361,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <updated>2024-05-28T00:56:49.436Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15049"><a class="upvote" href="javascript:vote(15049, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Openpanel-dev/openpanel" rel="nofollow" id="tr3"><h1>OpenPanel - 오픈소스 Mixpanel 대체제</h1></a> <span class="topicurl">(github.com/Openpanel-dev)</span></div><div class="topicdesc"><a href="topic?id=15049" class="c99 breakall">- Mixpanel의 강력함 + Plausible의 쉬움 + GA로부터는 Nothing   
 - 웹, 앱 및 백엔드에서 이벤트를 로깅하기 위한 간단한 분석 도구  
-- 데이...</a></div><div class="topicinfo"><span id="tp15049">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15049"></span> | <a href="topic?id=15049" class="u">댓글과 토론</a></div>]]></content>
+- 데이...</a></div><div class="topicinfo"><span id="tp15049">4</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15049"></span> | <a href="topic?id=15049" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API (GeekNews ─ 최신글)]]></title>
@@ -370,7 +370,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <updated>2024-05-28T00:56:49.436Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15047"><a class="upvote" href="javascript:vote(15047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://enterprise.wikimedia.com/" rel="nofollow" id="tr4"><h1>Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API</h1></a> <span class="topicurl">(enterprise.wikimedia.com)</span></div><div class="topicdesc"><a href="topic?id=15047" class="c99 breakall">- Wikipedia 를 운영하는 Wikimedia 재단에서 제공하는 기업용 API들  
 - Snapshot API   
-  - 매일/매달 업데이트 되는 위미키미어 프로젝트의 ...</a></div><div class="topicinfo"><span id="tp15047">1</span> point by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15047"></span> | <a href="topic?id=15047" class="u">댓글과 토론</a></div>]]></content>
+  - 매일/매달 업데이트 되는 위미키미어 프로젝트의 ...</a></div><div class="topicinfo"><span id="tp15047">1</span> point by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15047"></span> | <a href="topic?id=15047" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신 (GeekNews ─ 최신글)]]></title>
@@ -378,7 +378,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <link href="https://news.hada.io/topic?id=15044"/>
         <updated>2024-05-27T16:15:24.292Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15044"><a class="upvote" href="javascript:vote(15044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15044" rel="nofollow" id="tr5"><h1>Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신</h1></a> <span class="topicurl">(random-gg.gitbook.io)</span></div><div class="topicdesc"><a href="topic?id=15044" class="c99 breakall">랜덤지지 플레이 메이커: 손쉽게 온라인 방탈출 및 크라임씬 콘텐츠 제작 가능  
-- 방탈출, 크라임씬을 포함한 다양한 멀티 플레이어 웹 콘텐츠 ...</a></div><div class="topicinfo"><span id="tp15044">4</span> points by <a href="/user?id=robin">robin</a> 12시간전<span id="unvote15044"></span> | <a href="topic?id=15044" class="u">댓글 1개</a></div>]]></content>
+- 방탈출, 크라임씬을 포함한 다양한 멀티 플레이어 웹 콘텐츠 ...</a></div><div class="topicinfo"><span id="tp15044">7</span> points by <a href="/user?id=robin">robin</a> 13시간전<span id="unvote15044"></span> | <a href="topic?id=15044" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 노트+와이어프레임 스케치에 좋은 협업 툴 뭐가 있을까요? (GeekNews ─ 최신글)]]></title>
@@ -390,7 +390,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
 딱 EverNote + Miro 같은 느낌의 앱이 있을까요?  
   
 iPad 에서 와이어프레임 스케치하고,  
-스마트폰에서 노트 작성이 편...</a></div><div class="topicinfo"><span id="tp15043">2</span> points by <a href="/user?id=jic5760">jic5760</a> 15시간전<span id="unvote15043"></span> | <a href="topic?id=15043" class="u">댓글과 토론</a></div>]]></content>
+스마트폰에서 노트 작성이 편...</a></div><div class="topicinfo"><span id="tp15043">2</span> points by <a href="/user?id=jic5760">jic5760</a> 16시간전<span id="unvote15043"></span> | <a href="topic?id=15043" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요! (GeekNews ─ 최신글)]]></title>
@@ -400,7 +400,7 @@ iPad 에서 와이어프레임 스케치하고,
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15042"><a class="upvote" href="javascript:vote(15042, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15042" rel="nofollow" id="tr7"><h1>Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요!</h1></a> <span class="topicurl">(github.com/patcher454)</span></div><div class="topicdesc"><a href="topic?id=15042" class="c99 breakall">소개  
 * DeepL 번역 API를 이용한 PowerToys Run 플러그인 입니다.   
 * 언제든지 빠르게 브라우저 실행 없이 문장을 번역할 수 있습니다.  
-*...</a></div><div class="topicinfo"><span id="tp15042">4</span> points by <a href="/user?id=patcher454">patcher454</a> 16시간전<span id="unvote15042"></span> | <a href="topic?id=15042" class="u">댓글과 토론</a></div>]]></content>
+*...</a></div><div class="topicinfo"><span id="tp15042">4</span> points by <a href="/user?id=patcher454">patcher454</a> 17시간전<span id="unvote15042"></span> | <a href="topic?id=15042" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커뮤니티는 마법이 아닙니다. 정신차리세요! (GeekNews ─ 최신글)]]></title>
@@ -409,14 +409,14 @@ iPad 에서 와이어프레임 스케치하고,
         <updated>2024-05-27T10:13:55.187Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15041"><a class="upvote" href="javascript:vote(15041, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/5r398nmng9v7j2vwje7y" rel="nofollow" id="tr8"><h1>커뮤니티는 마법이 아닙니다. 정신차리세요!</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=15041" class="c99 breakall"># 커뮤니티 빌딩에 대한 오해  
 - 많은 스타트업 대표들이 해외, 특히 미국 시장 진출을 꿈꾸며 커뮤니티 빌딩에 관심  
-- 그러나 커뮤니티를 마...</a></div><div class="topicinfo"><span id="tp15041">4</span> points by <a href="/user?id=haebom">haebom</a> 17시간전<span id="unvote15041"></span> | <a href="topic?id=15041" class="u">댓글과 토론</a></div>]]></content>
+- 그러나 커뮤니티를 마...</a></div><div class="topicinfo"><span id="tp15041">5</span> points by <a href="/user?id=haebom">haebom</a> 18시간전<span id="unvote15041"></span> | <a href="topic?id=15041" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mixed Precision Training, 처음부터 구현하기 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15035</id>
         <link href="https://news.hada.io/topic?id=15035"/>
         <updated>2024-05-27T05:12:59.896Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15035"><a class="upvote" href="javascript:vote(15035, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tspeterkim.github.io/posts/mixed-precision-from-scratch" rel="nofollow" id="tr9"><h1>Mixed Precision Training, 처음부터 구현하기</h1></a> <span class="topicurl">(tspeterkim.github.io)</span></div><div class="topicinfo"><span id="tp15035">2</span> points by <a href="/user?id=tspeterkim">tspeterkim</a> 22시간전<span id="unvote15035"></span> | <a href="topic?id=15035" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15035"><a class="upvote" href="javascript:vote(15035, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tspeterkim.github.io/posts/mixed-precision-from-scratch" rel="nofollow" id="tr9"><h1>Mixed Precision Training, 처음부터 구현하기</h1></a> <span class="topicurl">(tspeterkim.github.io)</span></div><div class="topicinfo"><span id="tp15035">2</span> points by <a href="/user?id=tspeterkim">tspeterkim</a> 23시간전<span id="unvote15035"></span> | <a href="topic?id=15035" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bubble.ai - AI 거품 (GeekNews ─ 최신글)]]></title>
@@ -432,7 +432,7 @@ iPad 에서 와이어프레임 스케치하고,
         <link href="https://news.hada.io/topic?id=15031"/>
         <updated>2024-05-27T01:58:37.374Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15031"><a class="upvote" href="javascript:vote(15031, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=KxjPgGLVJSg" rel="nofollow" id="tr11"><h1>어떻게 NEW기술이 NEW사업을 만드는가?</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=15031" class="c99 breakall">### AI가 성공적인 창업자를 만드는 데 미치는 영향  
-인공지능은 새로운 창업자들에게 가치 있는 도구와 기회를 제공함으로써 새로운 성공의 물...</a></div><div class="topicinfo"><span id="tp15031">3</span> points by <a href="/user?id=corelyai">corelyai</a> 1일전<span id="unvote15031"></span> | <a href="topic?id=15031" class="u">댓글 3개</a></div>]]></content>
+인공지능은 새로운 창업자들에게 가치 있는 도구와 기회를 제공함으로써 새로운 성공의 물...</a></div><div class="topicinfo"><span id="tp15031">4</span> points by <a href="/user?id=corelyai">corelyai</a> 1일전<span id="unvote15031"></span> | <a href="topic?id=15031" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WASM으로 엣지에서 PHP 엄청 빠르게 실행하기 (GeekNews ─ 최신글)]]></title>
@@ -457,7 +457,7 @@ iPad 에서 와이어프레임 스케치하고,
         <link href="https://news.hada.io/topic?id=15017"/>
         <updated>2024-05-27T00:58:08.905Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15017"><a class="upvote" href="javascript:vote(15017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ItzCrazyKns/Perplexica" rel="nofollow" id="tr14"><h1>Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ItzCrazyKns)</span></div><div class="topicdesc"><a href="topic?id=15017" class="c99 breakall">- 인터넷 깊숙이 들어가 답을 찾아주는 AI 기반 검색엔진   
-- Perplexity AI에서 영감을 받아, 웹을 검색할 뿐만 아니라 사용자의 질문을 이해함...</a></div><div class="topicinfo"><span id="tp15017">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15017"></span> | <a href="topic?id=15017" class="u">댓글 3개</a></div>]]></content>
+- Perplexity AI에서 영감을 받아, 웹을 검색할 뿐만 아니라 사용자의 질문을 이해함...</a></div><div class="topicinfo"><span id="tp15017">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15017"></span> | <a href="topic?id=15017" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: MP3 Tag Editor (Python Streamlit +FastAPI) on Docker (GeekNews ─ 최신글)]]></title>
@@ -476,14 +476,14 @@ iPad 에서 와이어프레임 스케치하고,
         <updated>2024-05-26T23:12:23.013Z</updated>
         <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15014"><a class="upvote" href="javascript:vote(15014, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dis.qa/wHPUP5" rel="nofollow" id="tr16"><h1>한국 서비스와 미국 서비스의 감성 차이</h1></a> <span class="topicurl">(dis.qa)</span></div><div class="topicdesc"><a href="topic?id=15014" class="c99 breakall">- 한국 스타트업이 미국 진출시 UI 현지화를 잘해야 됨  
 - 한국 감성이 녹아든 UI는 미국에서 이질적일 수 있음  
-- 샌드버드는 초창기 디자인 ...</a></div><div class="topicinfo"><span id="tp15014">24</span> points by <a href="/user?id=hpark0011">hpark0011</a> 1일전<span id="unvote15014"></span> | <a href="topic?id=15014" class="u">댓글과 토론</a></div>]]></content>
+- 샌드버드는 초창기 디자인 ...</a></div><div class="topicinfo"><span id="tp15014">25</span> points by <a href="/user?id=hpark0011">hpark0011</a> 1일전<span id="unvote15014"></span> | <a href="topic?id=15014" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Diffusion Models의 원리를 설명하는 글 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15013</id>
         <link href="https://news.hada.io/topic?id=15013"/>
         <updated>2024-05-26T13:12:47.581Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15013"><a class="upvote" href="javascript:vote(15013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andrewkchan.dev/posts/diffusion.html" rel="nofollow" id="tr17"><h1>Diffusion Models의 원리를 설명하는 글</h1></a> <span class="topicurl">(andrewkchan.dev)</span></div><div class="topicdesc"><a href="topic?id=15013" class="c99 breakall">해당 글에서는 확산 모델(Diffusion Models)에 대한 개요와 그 원리에 대해 설명합니다. 확산 모델은 데이터 분포를 학습하는데 사용되는 기법으로...</a></div><div class="topicinfo"><span id="tp15013">19</span> points by <a href="/user?id=seokzoo">seokzoo</a> 2일전<span id="unvote15013"></span> | <a href="topic?id=15013" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15013"><a class="upvote" href="javascript:vote(15013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andrewkchan.dev/posts/diffusion.html" rel="nofollow" id="tr17"><h1>Diffusion Models의 원리를 설명하는 글</h1></a> <span class="topicurl">(andrewkchan.dev)</span></div><div class="topicdesc"><a href="topic?id=15013" class="c99 breakall">해당 글에서는 확산 모델(Diffusion Models)에 대한 개요와 그 원리에 대해 설명합니다. 확산 모델은 데이터 분포를 학습하는데 사용되는 기법으로...</a></div><div class="topicinfo"><span id="tp15013">20</span> points by <a href="/user?id=seokzoo">seokzoo</a> 2일전<span id="unvote15013"></span> | <a href="topic?id=15013" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dataherald - 자연어-to-SQL 엔진, 전체 오픈소스로 전환 (GeekNews ─ 최신글)]]></title>
@@ -499,7 +499,7 @@ iPad 에서 와이어프레임 스케치하고,
         <link href="https://news.hada.io/topic?id=15002"/>
         <updated>2024-05-26T01:01:38.529Z</updated>
         <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote15002"><a class="upvote" href="javascript:vote(15002, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/" rel="nofollow" id="tr19"><h1>JetBrains, Rust용 IDE RustRover 릴리즈. 무료 라이센스 포함</h1></a> <span class="topicurl">(blog.jetbrains.com)</span></div><div class="topicdesc"><a href="topic?id=15002" class="c99 breakall">- Rust 언어를 위한 전용 IDE : Rust 툴체인 지원. Git/GitHub 연동. AI Assistant 플러그인 지원. 프론트엔드 기술 및 DB 지원  
-- 새로운 라이...</a></div><div class="topicinfo"><span id="tp15002">5</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15002"></span> | <a href="topic?id=15002" class="u">댓글과 토론</a></div>]]></content>
+- 새로운 라이...</a></div><div class="topicinfo"><span id="tp15002">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15002"></span> | <a href="topic?id=15002" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YOLOv10: 새로운 세대의 실시간 종단 간 객체 감지 모델 (GeekNews ─ 최신글)]]></title>
@@ -511,29 +511,29 @@ iPad 에서 와이어프레임 스케치하고,
 • YOLO에 ...</a></div><div class="topicinfo"><span id="tp14999">11</span> points by <a href="/user?id=brainer">brainer</a> 2일전<span id="unvote14999"></span> | <a href="topic?id=14999" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://news.hada.io/topic?id=15054</id>
+        <link href="https://news.hada.io/topic?id=15054"/>
+        <updated>2024-05-28T02:30:53.550Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15054"><a class="upvote" href="javascript:vote(15054, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15054" rel="nofollow" id="tr1"><h1>Show GN: 알로록달로록 오픈소스 모바일 청첩장</h1></a> <span class="topicurl">(github.com/heejin-hwang)</span></div><div class="topicdesc"><a href="topic?id=15054" class="c99 breakall">아내와 제가 결혼 할 때 쓰고, 최근에 오픈소스 공개한 💌모바일 청첩장💌입니다.  
+Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...</a></div><div class="topicinfo"><span id="tp15054">7</span> points by <a href="/user?id=laeyoung">laeyoung</a> 2시간전<span id="unvote15054"></span> | <a href="topic?id=15054" class="u">댓글 7개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://ntietz.com/blog/lets-say-instead-of-auth/</id>
         <link href="https://ntietz.com/blog/lets-say-instead-of-auth/"/>
         <updated>2024-05-28T01:58:04.231Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15051"><a class="upvote" href="javascript:vote(15051, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ntietz.com/blog/lets-say-instead-of-auth/" rel="nofollow" id="tr1"><h1>GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다</h1></a> <span class="topicurl">(ntietz.com)</span></div><div class="topicdesc"><a href="topic?id=15051" class="c99 breakall">- "auth"라는 용어는 인증(authentication)과 권한 부여(authorization) 두 가지 의미를 가짐  
-- 이로 인해 라이브러리나 패키지 이름에서 혼란...</a></div><div class="topicinfo"><span id="tp15051">9</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote15051"></span> | <a href="topic?id=15051" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15051"><a class="upvote" href="javascript:vote(15051, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ntietz.com/blog/lets-say-instead-of-auth/" rel="nofollow" id="tr2"><h1>GN⁺: "auth" 대신 "permissions"와 "login"을 사용합시다</h1></a> <span class="topicurl">(ntietz.com)</span></div><div class="topicdesc"><a href="topic?id=15051" class="c99 breakall">- "auth"라는 용어는 인증(authentication)과 권한 부여(authorization) 두 가지 의미를 가짐  
+- 이로 인해 라이브러리나 패키지 이름에서 혼란...</a></div><div class="topicinfo"><span id="tp15051">9</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote15051"></span> | <a href="topic?id=15051" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: JWT를 인증 토큰으로 사용해야 할까? (GeekNews ─ 최신글 원문)]]></title>
         <id>https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/</id>
         <link href="https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/"/>
         <updated>2024-05-28T01:58:04.230Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15053"><a class="upvote" href="javascript:vote(15053, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/" rel="nofollow" id="tr2"><h1>GN⁺: JWT를 인증 토큰으로 사용해야 할까?</h1></a> <span class="topicurl">(blog.ploetzli.ch)</span></div><div class="topicdesc"><a href="topic?id=15053" class="c99 breakall">- JWT는 JSON Web Tokens의 약자로, 인증된 토큰을 위한 표준임.  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15053"><a class="upvote" href="javascript:vote(15053, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/" rel="nofollow" id="tr3"><h1>GN⁺: JWT를 인증 토큰으로 사용해야 할까?</h1></a> <span class="topicurl">(blog.ploetzli.ch)</span></div><div class="topicdesc"><a href="topic?id=15053" class="c99 breakall">- JWT는 JSON Web Tokens의 약자로, 인증된 토큰을 위한 표준임.  
 - JWT는 헤더, 페이로드, 서명 또는 메시지 인증 코드로 구성됨.  
-- 검증 키...</a></div><div class="topicinfo"><span id="tp15053">7</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote15053"></span> | <a href="topic?id=15053" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://news.hada.io/topic?id=15054</id>
-        <link href="https://news.hada.io/topic?id=15054"/>
-        <updated>2024-05-28T02:30:53.550Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15054"><a class="upvote" href="javascript:vote(15054, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15054" rel="nofollow" id="tr3"><h1>Show GN: 알로록달로록 오픈소스 모바일 청첩장</h1></a> <span class="topicurl">(github.com/heejin-hwang)</span></div><div class="topicdesc"><a href="topic?id=15054" class="c99 breakall">아내와 제가 결혼 할 때 쓰고, 최근에 오픈소스 공개한 💌모바일 청첩장💌입니다.  
-Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...</a></div><div class="topicinfo"><span id="tp15054">4</span> points by <a href="/user?id=laeyoung">laeyoung</a> 46분전<span id="unvote15054"></span> | <a href="topic?id=15054" class="u">댓글 4개</a></div>]]></content>
+- 검증 키...</a></div><div class="topicinfo"><span id="tp15053">8</span> points by <a href="/user?id=neo">neo</a> 3시간전<span id="unvote15053"></span> | <a href="topic?id=15053" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenPanel - 오픈소스 Mixpanel 대체제 (GeekNews ─ 최신글 원문)]]></title>
@@ -542,7 +542,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <updated>2024-05-28T00:56:53.862Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15049"><a class="upvote" href="javascript:vote(15049, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Openpanel-dev/openpanel" rel="nofollow" id="tr4"><h1>OpenPanel - 오픈소스 Mixpanel 대체제</h1></a> <span class="topicurl">(github.com/Openpanel-dev)</span></div><div class="topicdesc"><a href="topic?id=15049" class="c99 breakall">- Mixpanel의 강력함 + Plausible의 쉬움 + GA로부터는 Nothing   
 - 웹, 앱 및 백엔드에서 이벤트를 로깅하기 위한 간단한 분석 도구  
-- 데이...</a></div><div class="topicinfo"><span id="tp15049">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15049"></span> | <a href="topic?id=15049" class="u">댓글과 토론</a></div>]]></content>
+- 데이...</a></div><div class="topicinfo"><span id="tp15049">4</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15049"></span> | <a href="topic?id=15049" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: EC2 부팅 시간 단축하기 (GeekNews ─ 최신글 원문)]]></title>
@@ -550,7 +550,7 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <link href="https://depot.dev/blog/faster-ec2-boot-time"/>
         <updated>2024-05-28T01:58:04.234Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15046"><a class="upvote" href="javascript:vote(15046, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://depot.dev/blog/faster-ec2-boot-time" rel="nofollow" id="tr5"><h1>GN⁺: EC2 부팅 시간 단축하기 </h1></a> <span class="topicurl">(depot.dev)</span></div><div class="topicdesc"><a href="topic?id=15046" class="c99 breakall">- EC2 인스턴스의 부팅 시간을 40초에서 5초로 줄이는 것이 가능함  
-- 이는 특정 작업을 처리하기 위해 새로운 EC2 인스턴스가 필요한 경우 매우...</a></div><div class="topicinfo"><span id="tp15046">3</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15046"></span> | <a href="topic?id=15046" class="u">댓글 1개</a></div>]]></content>
+- 이는 특정 작업을 처리하기 위해 새로운 EC2 인스턴스가 필요한 경우 매우...</a></div><div class="topicinfo"><span id="tp15046">4</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15046"></span> | <a href="topic?id=15046" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 서비스와 미국 서비스의 감성 차이 (GeekNews ─ 최신글 원문)]]></title>
@@ -559,45 +559,53 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <updated>2024-05-26T23:12:26.930Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15014"><a class="upvote" href="javascript:vote(15014, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dis.qa/wHPUP5" rel="nofollow" id="tr6"><h1>한국 서비스와 미국 서비스의 감성 차이</h1></a> <span class="topicurl">(dis.qa)</span></div><div class="topicdesc"><a href="topic?id=15014" class="c99 breakall">- 한국 스타트업이 미국 진출시 UI 현지화를 잘해야 됨  
 - 한국 감성이 녹아든 UI는 미국에서 이질적일 수 있음  
-- 샌드버드는 초창기 디자인 ...</a></div><div class="topicinfo"><span id="tp15014">24</span> points by <a href="/user?id=hpark0011">hpark0011</a> 1일전<span id="unvote15014"></span> | <a href="topic?id=15014" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble.ai - AI 거품 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://www.profgalloway.com/bubble-ai</id>
-        <link href="https://www.profgalloway.com/bubble-ai"/>
-        <updated>2024-05-27T02:31:56.464Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15033"><a class="upvote" href="javascript:vote(15033, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.profgalloway.com/bubble-ai" rel="nofollow" id="tr7"><h1>Bubble.ai - AI 거품</h1></a> <span class="topicurl">(profgalloway.com)</span></div><div class="topicdesc"><a href="topic?id=15033" class="c99 breakall">- 스콧 갤러웨이의 "No Mercy / No Malice" (자비 없음 / 악의 없음) 뉴스레터 요약. ( * 투자 조언이 아님 )  
-- Nvidia는 5년 전만 해도 Call o...</a></div><div class="topicinfo"><span id="tp15033">17</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15033"></span> | <a href="topic?id=15033" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM을 활용한 실무 문제 해결 및 비즈니스 활용 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541</id>
-        <link href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541"/>
-        <updated>2024-05-28T03:14:26.220Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15055"><a class="upvote" href="javascript:vote(15055, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541" rel="nofollow" id="tr8"><h1>LLM을 활용한 실무 문제 해결 및 비즈니스 활용</h1></a> <span class="topicurl">(twosun.ai)</span></div><div class="topicdesc"><a href="topic?id=15055" class="c99 breakall">|  AI로 커리어를 변화시킬 준비가 되셨나요?  
-지금부터 본 세미나를 통해 대규모 언어 모델의 비밀을 풀어보세요. 실용적인 세션에서 인사이트...</a></div><div class="topicinfo"><span id="tp15055">1</span> point by <a href="/user?id=donnyson">donnyson</a> 41분전<span id="unvote15055"></span> | <a href="topic?id=15055" class="u">댓글과 토론</a></div>]]></content>
+- 샌드버드는 초창기 디자인 ...</a></div><div class="topicinfo"><span id="tp15014">25</span> points by <a href="/user?id=hpark0011">hpark0011</a> 1일전<span id="unvote15014"></span> | <a href="topic?id=15014" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://news.hada.io/topic?id=15044</id>
         <link href="https://news.hada.io/topic?id=15044"/>
         <updated>2024-05-27T16:15:24.292Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15044"><a class="upvote" href="javascript:vote(15044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15044" rel="nofollow" id="tr9"><h1>Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신</h1></a> <span class="topicurl">(random-gg.gitbook.io)</span></div><div class="topicdesc"><a href="topic?id=15044" class="c99 breakall">랜덤지지 플레이 메이커: 손쉽게 온라인 방탈출 및 크라임씬 콘텐츠 제작 가능  
-- 방탈출, 크라임씬을 포함한 다양한 멀티 플레이어 웹 콘텐츠 ...</a></div><div class="topicinfo"><span id="tp15044">4</span> points by <a href="/user?id=robin">robin</a> 12시간전<span id="unvote15044"></span> | <a href="topic?id=15044" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15044"><a class="upvote" href="javascript:vote(15044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15044" rel="nofollow" id="tr7"><h1>Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신</h1></a> <span class="topicurl">(random-gg.gitbook.io)</span></div><div class="topicdesc"><a href="topic?id=15044" class="c99 breakall">랜덤지지 플레이 메이커: 손쉽게 온라인 방탈출 및 크라임씬 콘텐츠 제작 가능  
+- 방탈출, 크라임씬을 포함한 다양한 멀티 플레이어 웹 콘텐츠 ...</a></div><div class="topicinfo"><span id="tp15044">7</span> points by <a href="/user?id=robin">robin</a> 13시간전<span id="unvote15044"></span> | <a href="topic?id=15044" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble.ai - AI 거품 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://www.profgalloway.com/bubble-ai</id>
+        <link href="https://www.profgalloway.com/bubble-ai"/>
+        <updated>2024-05-27T02:31:56.464Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15033"><a class="upvote" href="javascript:vote(15033, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.profgalloway.com/bubble-ai" rel="nofollow" id="tr8"><h1>Bubble.ai - AI 거품</h1></a> <span class="topicurl">(profgalloway.com)</span></div><div class="topicdesc"><a href="topic?id=15033" class="c99 breakall">- 스콧 갤러웨이의 "No Mercy / No Malice" (자비 없음 / 악의 없음) 뉴스레터 요약. ( * 투자 조언이 아님 )  
+- Nvidia는 5년 전만 해도 Call o...</a></div><div class="topicinfo"><span id="tp15033">17</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15033"></span> | <a href="topic?id=15033" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Diffusion Models의 원리를 설명하는 글 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://andrewkchan.dev/posts/diffusion.html</id>
         <link href="https://andrewkchan.dev/posts/diffusion.html"/>
         <updated>2024-05-26T13:12:51.615Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15013"><a class="upvote" href="javascript:vote(15013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andrewkchan.dev/posts/diffusion.html" rel="nofollow" id="tr10"><h1>Diffusion Models의 원리를 설명하는 글</h1></a> <span class="topicurl">(andrewkchan.dev)</span></div><div class="topicdesc"><a href="topic?id=15013" class="c99 breakall">해당 글에서는 확산 모델(Diffusion Models)에 대한 개요와 그 원리에 대해 설명합니다. 확산 모델은 데이터 분포를 학습하는데 사용되는 기법으로...</a></div><div class="topicinfo"><span id="tp15013">19</span> points by <a href="/user?id=seokzoo">seokzoo</a> 2일전<span id="unvote15013"></span> | <a href="topic?id=15013" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15013"><a class="upvote" href="javascript:vote(15013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andrewkchan.dev/posts/diffusion.html" rel="nofollow" id="tr9"><h1>Diffusion Models의 원리를 설명하는 글</h1></a> <span class="topicurl">(andrewkchan.dev)</span></div><div class="topicdesc"><a href="topic?id=15013" class="c99 breakall">해당 글에서는 확산 모델(Diffusion Models)에 대한 개요와 그 원리에 대해 설명합니다. 확산 모델은 데이터 분포를 학습하는데 사용되는 기법으로...</a></div><div class="topicinfo"><span id="tp15013">20</span> points by <a href="/user?id=seokzoo">seokzoo</a> 2일전<span id="unvote15013"></span> | <a href="topic?id=15013" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM을 활용한 실무 문제 해결 및 비즈니스 활용 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541</id>
+        <link href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541"/>
+        <updated>2024-05-28T03:14:18.404Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15055"><a class="upvote" href="javascript:vote(15055, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.twosun.ai/course/course_view.jsp?id=167541&amp;cid=12095#course-view-167541" rel="nofollow" id="tr10"><h1>LLM을 활용한 실무 문제 해결 및 비즈니스 활용</h1></a> <span class="topicurl">(twosun.ai)</span></div><div class="topicdesc"><a href="topic?id=15055" class="c99 breakall">|  AI로 커리어를 변화시킬 준비가 되셨나요?  
+지금부터 본 세미나를 통해 대규모 언어 모델의 비밀을 풀어보세요. 실용적인 세션에서 인사이트...</a></div><div class="topicinfo"><span id="tp15055">1</span> point by <a href="/user?id=donnyson">donnyson</a> 2시간전<span id="unvote15055"></span> | <a href="topic?id=15055" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://github.com/ItzCrazyKns/Perplexica</id>
+        <link href="https://github.com/ItzCrazyKns/Perplexica"/>
+        <updated>2024-05-27T00:58:12.899Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15017"><a class="upvote" href="javascript:vote(15017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ItzCrazyKns/Perplexica" rel="nofollow" id="tr11"><h1>Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ItzCrazyKns)</span></div><div class="topicdesc"><a href="topic?id=15017" class="c99 breakall">- 인터넷 깊숙이 들어가 답을 찾아주는 AI 기반 검색엔진   
+- Perplexity AI에서 영감을 받아, 웹을 검색할 뿐만 아니라 사용자의 질문을 이해함...</a></div><div class="topicinfo"><span id="tp15017">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15017"></span> | <a href="topic?id=15017" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</id>
         <link href="https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet"/>
         <updated>2024-05-27T01:58:41.484Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15029"><a class="upvote" href="javascript:vote(15029, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet" rel="nofollow" id="tr11"><h1>GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임</h1></a> <span class="topicurl">(bbc.com)</span></div><div class="topicdesc"><a href="topic?id=15029" class="c99 breakall">- 지난 2년 동안 Google Search에 대한 일련의 업데이트는 전례 없는 AI 기능을 포함하여 가장 강력한 인터넷 도구의 극적인 변화를 의미함  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15029"><a class="upvote" href="javascript:vote(15029, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet" rel="nofollow" id="tr12"><h1>GN⁺: 구글 알고리듬 업데이트, 인터넷은 이제 예전 같지 않을 것임</h1></a> <span class="topicurl">(bbc.com)</span></div><div class="topicdesc"><a href="topic?id=15029" class="c99 breakall">- 지난 2년 동안 Google Search에 대한 일련의 업데이트는 전례 없는 AI 기능을 포함하여 가장 강력한 인터넷 도구의 극적인 변화를 의미함  
 - G...</a></div><div class="topicinfo"><span id="tp15029">10</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15029"></span> | <a href="topic?id=15029" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -605,41 +613,34 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <id>https://braid.org/</id>
         <link href="https://braid.org/"/>
         <updated>2024-05-27T01:58:41.473Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15026"><a class="upvote" href="javascript:vote(15026, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://braid.org/" rel="nofollow" id="tr12"><h1>GN⁺: Braid: HTTP 동기화 기술</h1></a> <span class="topicurl">(braid.org)</span></div><div class="topicdesc"><a href="topic?id=15026" class="c99 breakall">- **Braid**는 상호운용 가능한 상태 동기화를 위한 알고리듬, 애플리케이션, 도구 및 표준을 만드는 오픈 작업 그룹임.  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15026"><a class="upvote" href="javascript:vote(15026, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://braid.org/" rel="nofollow" id="tr13"><h1>GN⁺: Braid: HTTP 동기화 기술</h1></a> <span class="topicurl">(braid.org)</span></div><div class="topicdesc"><a href="topic?id=15026" class="c99 breakall">- **Braid**는 상호운용 가능한 상태 동기화를 위한 알고리듬, 애플리케이션, 도구 및 표준을 만드는 오픈 작업 그룹임.  
 - 목표는 네트워크 컴...</a></div><div class="topicinfo"><span id="tp15026">10</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15026"></span> | <a href="topic?id=15026" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://github.com/ItzCrazyKns/Perplexica</id>
-        <link href="https://github.com/ItzCrazyKns/Perplexica"/>
-        <updated>2024-05-27T00:58:12.899Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15017"><a class="upvote" href="javascript:vote(15017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ItzCrazyKns/Perplexica" rel="nofollow" id="tr13"><h1>Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제</h1></a> <span class="topicurl">(github.com/ItzCrazyKns)</span></div><div class="topicdesc"><a href="topic?id=15017" class="c99 breakall">- 인터넷 깊숙이 들어가 답을 찾아주는 AI 기반 검색엔진   
-- Perplexity AI에서 영감을 받아, 웹을 검색할 뿐만 아니라 사용자의 질문을 이해함...</a></div><div class="topicinfo"><span id="tp15017">10</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15017"></span> | <a href="topic?id=15017" class="u">댓글 3개</a></div>]]></content>
+        <title type="html"><![CDATA[커뮤니티는 마법이 아닙니다. 정신차리세요! (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://www.haebom.dev/5r398nmng9v7j2vwje7y</id>
+        <link href="https://www.haebom.dev/5r398nmng9v7j2vwje7y"/>
+        <updated>2024-05-27T10:13:59.134Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15041"><a class="upvote" href="javascript:vote(15041, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/5r398nmng9v7j2vwje7y" rel="nofollow" id="tr14"><h1>커뮤니티는 마법이 아닙니다. 정신차리세요!</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=15041" class="c99 breakall"># 커뮤니티 빌딩에 대한 오해  
+- 많은 스타트업 대표들이 해외, 특히 미국 시장 진출을 꿈꾸며 커뮤니티 빌딩에 관심  
+- 그러나 커뮤니티를 마...</a></div><div class="topicinfo"><span id="tp15041">5</span> points by <a href="/user?id=haebom">haebom</a> 18시간전<span id="unvote15041"></span> | <a href="topic?id=15041" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API (GeekNews ─ 최신글 원문)]]></title>
         <id>https://enterprise.wikimedia.com/</id>
         <link href="https://enterprise.wikimedia.com/"/>
         <updated>2024-05-28T00:56:53.862Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15047"><a class="upvote" href="javascript:vote(15047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://enterprise.wikimedia.com/" rel="nofollow" id="tr14"><h1>Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API</h1></a> <span class="topicurl">(enterprise.wikimedia.com)</span></div><div class="topicdesc"><a href="topic?id=15047" class="c99 breakall">- Wikipedia 를 운영하는 Wikimedia 재단에서 제공하는 기업용 API들  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15047"><a class="upvote" href="javascript:vote(15047, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://enterprise.wikimedia.com/" rel="nofollow" id="tr15"><h1>Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API</h1></a> <span class="topicurl">(enterprise.wikimedia.com)</span></div><div class="topicdesc"><a href="topic?id=15047" class="c99 breakall">- Wikipedia 를 운영하는 Wikimedia 재단에서 제공하는 기업용 API들  
 - Snapshot API   
-  - 매일/매달 업데이트 되는 위미키미어 프로젝트의 ...</a></div><div class="topicinfo"><span id="tp15047">1</span> point by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15047"></span> | <a href="topic?id=15047" class="u">댓글과 토론</a></div>]]></content>
+  - 매일/매달 업데이트 되는 위미키미어 프로젝트의 ...</a></div><div class="topicinfo"><span id="tp15047">1</span> point by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15047"></span> | <a href="topic?id=15047" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 아이폰을 Dumb Phone으로 바꾸기 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://dumbph.com/turn-iphone-into-dumb-phone</id>
         <link href="https://dumbph.com/turn-iphone-into-dumb-phone"/>
         <updated>2024-05-27T01:58:41.489Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15023"><a class="upvote" href="javascript:vote(15023, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dumbph.com/turn-iphone-into-dumb-phone" rel="nofollow" id="tr15"><h1>GN⁺: 아이폰을 Dumb Phone으로 바꾸기</h1></a> <span class="topicurl">(dumbph.com)</span></div><div class="topicdesc"><a href="topic?id=15023" class="c99 breakall">- 스크린 타임을 줄이고 디지털 미니멀리즘을 실천하고 싶지만 완전히 덤폰(멍청한 휴대폰)으로 전환하고 싶지 않은 사람들을 위한 방법  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15023"><a class="upvote" href="javascript:vote(15023, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dumbph.com/turn-iphone-into-dumb-phone" rel="nofollow" id="tr16"><h1>GN⁺: 아이폰을 Dumb Phone으로 바꾸기</h1></a> <span class="topicurl">(dumbph.com)</span></div><div class="topicdesc"><a href="topic?id=15023" class="c99 breakall">- 스크린 타임을 줄이고 디지털 미니멀리즘을 실천하고 싶지만 완전히 덤폰(멍청한 휴대폰)으로 전환하고 싶지 않은 사람들을 위한 방법  
 - 현재...</a></div><div class="topicinfo"><span id="tp15023">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15023"></span> | <a href="topic?id=15023" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://www.karlstack.com/p/exclusive-scandal-at-americas-top</id>
-        <link href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top"/>
-        <updated>2024-05-28T00:56:53.862Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15045"><a class="upvote" href="javascript:vote(15045, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top" rel="nofollow" id="tr16"><h1>GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들</h1></a> <span class="topicurl">(karlstack.com)</span></div><div class="topicdesc"><a href="topic?id=15045" class="c99 breakall">- Krish Pai는 ISEF 2024 환경공학 부문 1등을 수상하여 $55,000의 상금과 Regeneron Young Scientist Award를 받음  
-- Pai는 기계 학습을 사용...</a></div><div class="topicinfo"><span id="tp15045">1</span> point by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote15045"></span> | <a href="topic?id=15045" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요! (GeekNews ─ 최신글 원문)]]></title>
@@ -649,16 +650,15 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15042"><a class="upvote" href="javascript:vote(15042, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15042" rel="nofollow" id="tr17"><h1>Show GN: 브라우저 없이 빠르게 DeepL 번역기를 사용해 보세요!</h1></a> <span class="topicurl">(github.com/patcher454)</span></div><div class="topicdesc"><a href="topic?id=15042" class="c99 breakall">소개  
 * DeepL 번역 API를 이용한 PowerToys Run 플러그인 입니다.   
 * 언제든지 빠르게 브라우저 실행 없이 문장을 번역할 수 있습니다.  
-*...</a></div><div class="topicinfo"><span id="tp15042">4</span> points by <a href="/user?id=patcher454">patcher454</a> 16시간전<span id="unvote15042"></span> | <a href="topic?id=15042" class="u">댓글과 토론</a></div>]]></content>
+*...</a></div><div class="topicinfo"><span id="tp15042">4</span> points by <a href="/user?id=patcher454">patcher454</a> 17시간전<span id="unvote15042"></span> | <a href="topic?id=15042" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커뮤니티는 마법이 아닙니다. 정신차리세요! (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://www.haebom.dev/5r398nmng9v7j2vwje7y</id>
-        <link href="https://www.haebom.dev/5r398nmng9v7j2vwje7y"/>
-        <updated>2024-05-27T10:13:59.134Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15041"><a class="upvote" href="javascript:vote(15041, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.haebom.dev/5r398nmng9v7j2vwje7y" rel="nofollow" id="tr18"><h1>커뮤니티는 마법이 아닙니다. 정신차리세요!</h1></a> <span class="topicurl">(haebom.dev)</span></div><div class="topicdesc"><a href="topic?id=15041" class="c99 breakall"># 커뮤니티 빌딩에 대한 오해  
-- 많은 스타트업 대표들이 해외, 특히 미국 시장 진출을 꿈꾸며 커뮤니티 빌딩에 관심  
-- 그러나 커뮤니티를 마...</a></div><div class="topicinfo"><span id="tp15041">4</span> points by <a href="/user?id=haebom">haebom</a> 17시간전<span id="unvote15041"></span> | <a href="topic?id=15041" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://www.karlstack.com/p/exclusive-scandal-at-americas-top</id>
+        <link href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top"/>
+        <updated>2024-05-28T00:56:53.862Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15045"><a class="upvote" href="javascript:vote(15045, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.karlstack.com/p/exclusive-scandal-at-americas-top" rel="nofollow" id="tr18"><h1>GN⁺: 미국 최고 과학 경진대회에서 발생한 스캔들</h1></a> <span class="topicurl">(karlstack.com)</span></div><div class="topicdesc"><a href="topic?id=15045" class="c99 breakall">- Krish Pai는 ISEF 2024 환경공학 부문 1등을 수상하여 $55,000의 상금과 Regeneron Young Scientist Award를 받음  
+- Pai는 기계 학습을 사용...</a></div><div class="topicinfo"><span id="tp15045">1</span> point by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote15045"></span> | <a href="topic?id=15045" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dataherald - 자연어-to-SQL 엔진, 전체 오픈소스로 전환 (GeekNews ─ 최신글 원문)]]></title>
@@ -762,18 +762,18 @@ Frontend는 아내가 다 만들고, 저는 얼마 안되는 Backend 쪽만 ...<
         <content type="html"><![CDATA[tominam2]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Pulse - The modern MongoDB-powered scheduling library for Node.js (GeekNews ─ Show)]]></title>
-        <id>https://news.hada.io/topic?id=14830</id>
-        <link href="https://news.hada.io/topic?id=14830"/>
-        <updated>2024-05-15T04:16:21.827Z</updated>
-        <content type="html"><![CDATA[shh6155]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: LogTape: 의존성 없는 Node.js/Deno/Bun/브라우저용 로깅 라이브러리 (GeekNews ─ Show)]]></title>
         <id>https://news.hada.io/topic?id=14483</id>
         <link href="https://news.hada.io/topic?id=14483"/>
         <updated>2024-04-24T03:14:07.876Z</updated>
         <content type="html"><![CDATA[hongminhee]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Pulse - The modern MongoDB-powered scheduling library for Node.js (GeekNews ─ Show)]]></title>
+        <id>https://news.hada.io/topic?id=14830</id>
+        <link href="https://news.hada.io/topic?id=14830"/>
+        <updated>2024-05-15T04:16:21.827Z</updated>
+        <content type="html"><![CDATA[shh6155]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오픈 소스 데이터 익명화 및 Postgres 및 Mysql을 위한 합성 데이터 (GeekNews ─ Show)]]></title>
