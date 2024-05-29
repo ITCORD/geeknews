@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-05-29T07:13:09.495Z</updated>
+    <updated>2024-05-29T08:17:56.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[patcher454]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: MP3 Tag Editor (Python Streamlit +FastAPI) on Docker]]></title>
-        <id>https://news.hada.io/topic?id=15016</id>
-        <link href="https://news.hada.io/topic?id=15016"/>
-        <updated>2024-05-27T00:58:26.463Z</updated>
-        <content type="html"><![CDATA[halfenif]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: TSBOARD (타입스크립트로 작성된 오픈소스 커뮤니티 빌더)]]></title>
         <id>https://news.hada.io/topic?id=14914</id>
         <link href="https://news.hada.io/topic?id=14914"/>
         <updated>2024-05-20T14:12:45.522Z</updated>
         <content type="html"><![CDATA[tsboard]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: MP3 Tag Editor (Python Streamlit +FastAPI) on Docker]]></title>
+        <id>https://news.hada.io/topic?id=15016</id>
+        <link href="https://news.hada.io/topic?id=15016"/>
+        <updated>2024-05-27T00:58:26.463Z</updated>
+        <content type="html"><![CDATA[halfenif]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: YOCO - 복사하면 자동으로 파일 이름을 주석으로 추가해주는 VSCode extension]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[soulee]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: PlugBear v2 - Slack, Teams, Zendesk 등 일상 업무 도구에서 Custom GPT 활용하기]]></title>
+        <id>https://news.hada.io/topic?id=14693</id>
+        <link href="https://news.hada.io/topic?id=14693"/>
+        <updated>2024-05-07T08:15:58.025Z</updated>
+        <content type="html"><![CDATA[thefron]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: Github용 static site generator]]></title>
         <id>https://news.hada.io/topic?id=14056</id>
         <link href="https://news.hada.io/topic?id=14056"/>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=14286"/>
         <updated>2024-04-12T14:11:53.715Z</updated>
         <content type="html"><![CDATA[aliveornot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: PlugBear v2 - Slack, Teams, Zendesk 등 일상 업무 도구에서 Custom GPT 활용하기]]></title>
-        <id>https://news.hada.io/topic?id=14693</id>
-        <link href="https://news.hada.io/topic?id=14693"/>
-        <updated>2024-05-07T08:15:58.025Z</updated>
-        <content type="html"><![CDATA[thefron]]></content>
     </entry>
 </feed>
