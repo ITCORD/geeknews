@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-06-04T23:14:45.374Z</updated>
+    <updated>2024-06-05T00:58:09.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[niklauslee]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: fieldenum: 파이썬에서의 러스트식 필드형 enum 지원]]></title>
-        <id>https://news.hada.io/topic?id=15117</id>
-        <link href="https://news.hada.io/topic?id=15117"/>
-        <updated>2024-06-01T02:04:19.029Z</updated>
-        <content type="html"><![CDATA[ilotoki0804]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장]]></title>
         <id>https://news.hada.io/topic?id=15054</id>
         <link href="https://news.hada.io/topic?id=15054"/>
         <updated>2024-05-28T02:31:09.944Z</updated>
         <content type="html"><![CDATA[laeyoung]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: fieldenum: 파이썬에서의 러스트식 필드형 enum 지원]]></title>
+        <id>https://news.hada.io/topic?id=15117</id>
+        <link href="https://news.hada.io/topic?id=15117"/>
+        <updated>2024-06-01T02:04:19.029Z</updated>
+        <content type="html"><![CDATA[ilotoki0804]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 랜덤지지 플레이 메이커 - 온라인 방탈출, 크라임씬 제작의 혁신]]></title>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[halfenif]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 하이브리드 서치 엔진]]></title>
+        <id>https://news.hada.io/topic?id=14849</id>
+        <link href="https://news.hada.io/topic?id=14849"/>
+        <updated>2024-05-16T10:13:36.769Z</updated>
+        <content type="html"><![CDATA[baegyutae]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: AI 한영/영한 번역기 도다리]]></title>
         <id>https://news.hada.io/topic?id=14305</id>
         <link href="https://news.hada.io/topic?id=14305"/>
@@ -109,13 +116,6 @@
         <link href="https://news.hada.io/topic?id=14597"/>
         <updated>2024-05-01T13:13:36.141Z</updated>
         <content type="html"><![CDATA[dofuuz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 하이브리드 서치 엔진]]></title>
-        <id>https://news.hada.io/topic?id=14849</id>
-        <link href="https://news.hada.io/topic?id=14849"/>
-        <updated>2024-05-16T10:13:36.769Z</updated>
-        <content type="html"><![CDATA[baegyutae]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: LogTape: 의존성 없는 Node.js/Deno/Bun/브라우저용 로깅 라이브러리]]></title>
