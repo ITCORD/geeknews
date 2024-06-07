@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-06-07T14:14:15.276Z</updated>
+    <updated>2024-06-07T15:14:27.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=15221"/>
         <updated>2024-06-07T02:02:55.914Z</updated>
         <content type="html"><![CDATA[sgwanlee]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Smart Spam Filter: 똑똑한 AI 기반 스팸문자 필터 앱]]></title>
+        <id>https://news.hada.io/topic?id=15225</id>
+        <link href="https://news.hada.io/topic?id=15225"/>
+        <updated>2024-06-07T15:14:08.338Z</updated>
+        <content type="html"><![CDATA[beomi]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: OpenRouter (오픈라우터): 통일된 LLM 인터페이스와 마켓플레이스]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=14830"/>
         <updated>2024-05-15T04:16:37.244Z</updated>
         <content type="html"><![CDATA[shh6155]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 오픈 소스 데이터 익명화 및 Postgres 및 Mysql을 위한 합성 데이터]]></title>
-        <id>https://news.hada.io/topic?id=14711</id>
-        <link href="https://news.hada.io/topic?id=14711"/>
-        <updated>2024-05-08T17:11:10.295Z</updated>
-        <content type="html"><![CDATA[evisdrenova]]></content>
     </entry>
 </feed>
