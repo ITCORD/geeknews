@@ -2,41 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-06-11T00:59:30.121Z</updated>
+    <updated>2024-06-11T02:02:15.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dblab - 인터랙티브한 터미널용 DB 클라이언트]]></title>
+        <id>https://news.hada.io/topic?id=15284</id>
+        <link href="https://news.hada.io/topic?id=15284"/>
+        <updated>2024-06-11T02:01:39.838Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15284"><a class="upvote" href="javascript:vote(15284, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/danvergara/dblab" rel="nofollow" id="tr1"><h1>Dblab - 인터랙티브한 터미널용 DB 클라이언트</h1></a> <span class="topicurl">(github.com/danvergara)</span></div><div class="topicdesc"><a href="topic?id=15284" class="c99 breakall">- PostgreSQL, MySQL, SQLite3, Oracle을 위한 빠르고 가벼운 인터랙티브 터미널 기반 UI 애플리케이션  
+- 로컬 또는 원격 데이터베이스와 작업...</a></div><div class="topicinfo"><span id="tp15284">6</span> points by <a href="/user?id=xguru">xguru</a> 59분전<span id="unvote15284"></span> | <a href="topic?id=15284" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manifest - 간단하지만 풀 기능을 제공하는 백엔드(BaaS) 오픈소스]]></title>
+        <id>https://news.hada.io/topic?id=15285</id>
+        <link href="https://news.hada.io/topic?id=15285"/>
+        <updated>2024-06-11T02:01:39.838Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15285"><a class="upvote" href="javascript:vote(15285, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://manifest.build/" rel="nofollow" id="tr2"><h1>Manifest - 간단하지만 풀 기능을 제공하는 백엔드(BaaS) 오픈소스</h1></a> <span class="topicurl">(manifest.build)</span></div><div class="topicdesc"><a href="topic?id=15285" class="c99 breakall">- 데이터 구조만 정의(YML)하면 주요 기능을 갖춘 백엔드가 완성   
+  - DB, 관리자 패널, REST API, Javascript SDK   
+- SDK/REST 로 다른 프...</a></div><div class="topicinfo"><span id="tp15285">5</span> points by <a href="/user?id=xguru">xguru</a> 36분전<span id="unvote15285"></span> | <a href="topic?id=15285" class="u">댓글 1개</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1년 동안 LLM과 함께 구축하며 배운 점]]></title>
         <id>https://news.hada.io/topic?id=15268</id>
         <link href="https://news.hada.io/topic?id=15268"/>
         <updated>2024-06-10T03:14:59.097Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15268"><a class="upvote" href="javascript:vote(15268, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://eugeneyan.com/writing/llm-lessons/" rel="nofollow" id="tr1"><h1>1년 동안 LLM과 함께 구축하며 배운 점</h1></a> <span class="topicurl">(eugeneyan.com)</span></div><div class="topicdesc"><a href="topic?id=15268" class="c99 breakall">- 대규모 언어 모델(LLM)을 사용한 개발이 흥미로운 시기임  
-  - 지난 1년 동안 LLM이 실제 애플리케이션에 "충분히 좋은" 수준이 되었으며, 매...</a></div><div class="topicinfo"><span id="tp15268">40</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote15268"></span> | <a href="topic?id=15268" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 개인용 인공 지능 시스템 Apple Intelligence 공개]]></title>
-        <id>https://news.hada.io/topic?id=15275</id>
-        <link href="https://news.hada.io/topic?id=15275"/>
-        <updated>2024-06-11T00:58:55.452Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15275"><a class="upvote" href="javascript:vote(15275, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.apple.com/kr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/" rel="nofollow" id="tr2"><h1>애플, 개인용 인공 지능 시스템 Apple Intelligence 공개</h1></a> <span class="topicurl">(apple.com)</span></div><div class="topicdesc"><a href="topic?id=15275" class="c99 breakall">- iPhone, iPad, Mac 에서 통합적으로 사용가능   
-- 언어와 이미지를 이해 및 생성, 다수 앱에 걸쳐 액션 수행, 사용자 경험을 바탕으로 맥락을 ...</a></div><div class="topicinfo"><span id="tp15275">3</span> points by <a href="/user?id=xguru">xguru</a> 47분전<span id="unvote15275"></span> | <a href="topic?id=15275" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15268"><a class="upvote" href="javascript:vote(15268, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://eugeneyan.com/writing/llm-lessons/" rel="nofollow" id="tr3"><h1>1년 동안 LLM과 함께 구축하며 배운 점</h1></a> <span class="topicurl">(eugeneyan.com)</span></div><div class="topicdesc"><a href="topic?id=15268" class="c99 breakall">- 대규모 언어 모델(LLM)을 사용한 개발이 흥미로운 시기임  
+  - 지난 1년 동안 LLM이 실제 애플리케이션에 "충분히 좋은" 수준이 되었으며, 매...</a></div><div class="topicinfo"><span id="tp15268">45</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote15268"></span> | <a href="topic?id=15268" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: 머신 러닝 엔지니어들은 업무시간에 어떤 일 하나요?]]></title>
         <id>https://news.hada.io/topic?id=15267</id>
         <link href="https://news.hada.io/topic?id=15267"/>
         <updated>2024-06-10T02:04:59.368Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15267"><a class="upvote" href="javascript:vote(15267, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40610794" rel="nofollow" id="tr3"><h1>Ask HN: 머신 러닝 엔지니어들은 업무시간에 어떤 일 하나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15267" class="c99 breakall">- 질문에 답변한 사람들 내용을 정리  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15267"><a class="upvote" href="javascript:vote(15267, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40610794" rel="nofollow" id="tr4"><h1>Ask HN: 머신 러닝 엔지니어들은 업무시간에 어떤 일 하나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15267" class="c99 breakall">- 질문에 답변한 사람들 내용을 정리  
   
 # schmookeeg   
-- 현재 기계 학습 엔지니어로 일하면서 가장 좋아하는 부분은 기술적 배경이 없는 ...</a></div><div class="topicinfo"><span id="tp15267">29</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote15267"></span> | <a href="topic?id=15267" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4o는 이미지를 어떻게 인코딩할까?]]></title>
-        <id>https://news.hada.io/topic?id=15256</id>
-        <link href="https://news.hada.io/topic?id=15256"/>
-        <updated>2024-06-10T01:00:14.300Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15256"><a class="upvote" href="javascript:vote(15256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.oranlooney.com/post/gpt-cnn/" rel="nofollow" id="tr4"><h1>GPT-4o는 이미지를 어떻게 인코딩할까?</h1></a> <span class="topicurl">(oranlooney.com)</span></div><div class="topicdesc"><a href="topic?id=15256" class="c99 breakall">- GPT-4o는 고해상도 모드에서 사용되는 각 512x512 타일을 처리하는 데 170 토큰을 부과함. 약 0.75 토큰/단어의 비율로 보면 이는 그림 한 장이 ...</a></div><div class="topicinfo"><span id="tp15256">14</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15256"></span> | <a href="topic?id=15256" class="u">댓글 2개</a></div>]]></content>
+- 현재 기계 학습 엔지니어로 일하면서 가장 좋아하는 부분은 기술적 배경이 없는 ...</a></div><div class="topicinfo"><span id="tp15267">31</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15267"></span> | <a href="topic?id=15267" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LSP-AI : AI기능을 위한 오픈소스 랭귀지 서버]]></title>
@@ -44,40 +46,72 @@
         <link href="https://news.hada.io/topic?id=15278"/>
         <updated>2024-06-11T00:58:55.455Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15278"><a class="upvote" href="javascript:vote(15278, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/SilasMarvin/lsp-ai" rel="nofollow" id="tr5"><h1>LSP-AI : AI기능을 위한 오픈소스 랭귀지 서버</h1></a> <span class="topicurl">(github.com/SilasMarvin)</span></div><div class="topicdesc"><a href="topic?id=15278" class="c99 breakall">- LLM 및 다른 AI 기반 기능을 위한 백엔드 역할을 수행하는 오픈소스 Language Server Protocol(LSP) 구현체   
-- LSP를 지원하는 기존 에디터(V...</a></div><div class="topicinfo"><span id="tp15278">1</span> point by <a href="/user?id=xguru">xguru</a> 17분전<span id="unvote15278"></span> | <a href="topic?id=15278" class="u">댓글과 토론</a></div>]]></content>
+- LSP를 지원하는 기존 에디터(V...</a></div><div class="topicinfo"><span id="tp15278">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote15278"></span> | <a href="topic?id=15278" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 개인용 인공 지능 시스템 Apple Intelligence 공개]]></title>
+        <id>https://news.hada.io/topic?id=15275</id>
+        <link href="https://news.hada.io/topic?id=15275"/>
+        <updated>2024-06-11T00:58:55.452Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15275"><a class="upvote" href="javascript:vote(15275, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.apple.com/kr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/" rel="nofollow" id="tr6"><h1>애플, 개인용 인공 지능 시스템 Apple Intelligence 공개</h1></a> <span class="topicurl">(apple.com)</span></div><div class="topicdesc"><a href="topic?id=15275" class="c99 breakall">- iPhone, iPad, Mac 에서 통합적으로 사용가능   
+- 언어와 이미지를 이해 및 생성, 다수 앱에 걸쳐 액션 수행, 사용자 경험을 바탕으로 맥락을 ...</a></div><div class="topicinfo"><span id="tp15275">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote15275"></span> | <a href="topic?id=15275" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 애플의 새로운 온디바이스 및 서버 기반 파운데이션 모델 소개]]></title>
+        <id>https://news.hada.io/topic?id=15283</id>
+        <link href="https://news.hada.io/topic?id=15283"/>
+        <updated>2024-06-11T02:01:39.841Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15283"><a class="upvote" href="javascript:vote(15283, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://machinelearning.apple.com/research/introducing-apple-foundation-models" rel="nofollow" id="tr7"><h1>GN⁺: 애플의 새로운 온디바이스 및 서버 기반 파운데이션 모델 소개</h1></a> <span class="topicurl">(machinelearning.apple.com)</span></div><div class="topicdesc"><a href="topic?id=15283" class="c99 breakall">- 2024년 WWDC에서 iOS 18, iPadOS 18, macOS Sequoia에 깊이 통합된 퍼스널 인텔리전스 시스템인 Apple Intelligence를 발표함  
+- Apple Intell...</a></div><div class="topicinfo"><span id="tp15283">2</span> points by <a href="/user?id=neo">neo</a> 1시간전<span id="unvote15283"></span> | <a href="topic?id=15283" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4o는 이미지를 어떻게 인코딩할까?]]></title>
+        <id>https://news.hada.io/topic?id=15256</id>
+        <link href="https://news.hada.io/topic?id=15256"/>
+        <updated>2024-06-10T01:00:14.300Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15256"><a class="upvote" href="javascript:vote(15256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.oranlooney.com/post/gpt-cnn/" rel="nofollow" id="tr8"><h1>GPT-4o는 이미지를 어떻게 인코딩할까?</h1></a> <span class="topicurl">(oranlooney.com)</span></div><div class="topicdesc"><a href="topic?id=15256" class="c99 breakall">- GPT-4o는 고해상도 모드에서 사용되는 각 512x512 타일을 처리하는 데 170 토큰을 부과함. 약 0.75 토큰/단어의 비율로 보면 이는 그림 한 장이 ...</a></div><div class="topicinfo"><span id="tp15256">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15256"></span> | <a href="topic?id=15256" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, Xcode 16 / Swift 6 / GPT 2 등 개발자용 도구 업데이트 발표]]></title>
         <id>https://news.hada.io/topic?id=15276</id>
         <link href="https://news.hada.io/topic?id=15276"/>
         <updated>2024-06-11T00:58:55.458Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15276"><a class="upvote" href="javascript:vote(15276, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.apple.com/kr/newsroom/2024/06/apple-empowers-developers-and-fuels-innovation-with-new-tools-and-resources/" rel="nofollow" id="tr6"><h1>애플, Xcode 16 / Swift 6 / GPT 2 등 개발자용 도구 업데이트 발표 </h1></a> <span class="topicurl">(apple.com)</span></div><div class="topicdesc"><a href="topic?id=15276" class="c99 breakall">- Xcode 16   
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15276"><a class="upvote" href="javascript:vote(15276, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.apple.com/kr/newsroom/2024/06/apple-empowers-developers-and-fuels-innovation-with-new-tools-and-resources/" rel="nofollow" id="tr9"><h1>애플, Xcode 16 / Swift 6 / GPT 2 등 개발자용 도구 업데이트 발표 </h1></a> <span class="topicurl">(apple.com)</span></div><div class="topicdesc"><a href="topic?id=15276" class="c99 breakall">- Xcode 16   
   - Swift Assist : 개발자가 더욱 고차원적인 문제와 솔루션에 집중할 수 있도록 모든 코딩 작업을 도와주는 동반자  
-    - 클...</a></div><div class="topicinfo"><span id="tp15276">1</span> point by <a href="/user?id=xguru">xguru</a> 26분전<span id="unvote15276"></span> | <a href="topic?id=15276" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망]]></title>
-        <id>https://news.hada.io/topic?id=15258</id>
-        <link href="https://news.hada.io/topic?id=15258"/>
-        <updated>2024-06-10T02:04:59.379Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15258"><a class="upvote" href="javascript:vote(15258, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/" rel="nofollow" id="tr7"><h1>GN⁺: 구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망</h1></a> <span class="topicurl">(research.google)</span></div><div class="topicdesc"><a href="topic?id=15258" class="c99 breakall">- 2019년에는 대부분의 소프트웨어 엔지니어가 머신러닝이 자신들의 업무에 어떤 도움이 될지 상상하기 어려웠음  
-- 그러나 2024년에는 AI가 코...</a></div><div class="topicinfo"><span id="tp15258">7</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15258"></span> | <a href="topic?id=15258" class="u">댓글 1개</a></div>]]></content>
+    - 클...</a></div><div class="topicinfo"><span id="tp15276">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote15276"></span> | <a href="topic?id=15276" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sora를 능가하는 중국발 텍스트-비디오 AI 툴의 등장: Kling AI]]></title>
         <id>https://news.hada.io/topic?id=15272</id>
         <link href="https://news.hada.io/topic?id=15272"/>
         <updated>2024-06-10T07:13:06.814Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15272"><a class="upvote" href="javascript:vote(15272, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=EMvoVvuvgR4" rel="nofollow" id="tr8"><h1>Sora를 능가하는 중국발 텍스트-비디오 AI 툴의 등장: Kling AI</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=15272" class="c99 breakall">중국에서 출시된 텍스트-비디오 AI 툴 Kling AI이 영상 퀄리티와 일관성 면에서 Sora를 능가하는 성능을 보여주어 화제가 되고 있네요.  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15272"><a class="upvote" href="javascript:vote(15272, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=EMvoVvuvgR4" rel="nofollow" id="tr10"><h1>Sora를 능가하는 중국발 텍스트-비디오 AI 툴의 등장: Kling AI</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=15272" class="c99 breakall">중국에서 출시된 텍스트-비디오 AI 툴 Kling AI이 영상 퀄리티와 일관성 면에서 Sora를 능가하는 성능을 보여주어 화제가 되고 있네요.  
   
-###...</a></div><div class="topicinfo"><span id="tp15272">4</span> points by <a href="/user?id=corelyai">corelyai</a> 18시간전<span id="unvote15272"></span> | <a href="topic?id=15272" class="u">댓글 1개</a></div>]]></content>
+###...</a></div><div class="topicinfo"><span id="tp15272">5</span> points by <a href="/user?id=corelyai">corelyai</a> 19시간전<span id="unvote15272"></span> | <a href="topic?id=15272" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망]]></title>
+        <id>https://news.hada.io/topic?id=15258</id>
+        <link href="https://news.hada.io/topic?id=15258"/>
+        <updated>2024-06-10T02:04:59.379Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15258"><a class="upvote" href="javascript:vote(15258, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/" rel="nofollow" id="tr11"><h1>GN⁺: 구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망</h1></a> <span class="topicurl">(research.google)</span></div><div class="topicdesc"><a href="topic?id=15258" class="c99 breakall">- 2019년에는 대부분의 소프트웨어 엔지니어가 머신러닝이 자신들의 업무에 어떤 도움이 될지 상상하기 어려웠음  
+- 그러나 2024년에는 AI가 코...</a></div><div class="topicinfo"><span id="tp15258">7</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15258"></span> | <a href="topic?id=15258" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snip - 커맨드 라인 Snippet 관리자]]></title>
+        <id>https://news.hada.io/topic?id=15262</id>
+        <link href="https://news.hada.io/topic?id=15262"/>
+        <updated>2024-06-10T01:00:14.300Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15262"><a class="upvote" href="javascript:vote(15262, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mehran-prs/snip" rel="nofollow" id="tr12"><h1>Snip - 커맨드 라인 Snippet 관리자</h1></a> <span class="topicurl">(github.com/mehran-prs)</span></div><div class="topicdesc"><a href="topic?id=15262" class="c99 breakall">- 터미널에서 스니펫 보기 및 관리 `snip {snippet_name}`  
+- 자신이 사용하는 에디터에서 편집 가능 `snip edit`   
+- Snippet 이름 자동완성 ...</a></div><div class="topicinfo"><span id="tp15262">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15262"></span> | <a href="topic?id=15262" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notepad Tab - 간단하고 안전한 노트 작성 도구]]></title>
         <id>https://news.hada.io/topic?id=15248</id>
         <link href="https://news.hada.io/topic?id=15248"/>
         <updated>2024-06-09T02:32:14.235Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15248"><a class="upvote" href="javascript:vote(15248, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://notepadtab.com/" rel="nofollow" id="tr9"><h1>Notepad Tab - 간단하고 안전한 노트 작성 도구</h1></a> <span class="topicurl">(notepadtab.com)</span></div><div class="topicdesc"><a href="topic?id=15248" class="c99 breakall">- 작성된 모든 내용이 주소창에 저장되며, 브라우저 히스토리에 기록이 남음   
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15248"><a class="upvote" href="javascript:vote(15248, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://notepadtab.com/" rel="nofollow" id="tr13"><h1>Notepad Tab - 간단하고 안전한 노트 작성 도구</h1></a> <span class="topicurl">(notepadtab.com)</span></div><div class="topicdesc"><a href="topic?id=15248" class="c99 breakall">- 작성된 모든 내용이 주소창에 저장되며, 브라우저 히스토리에 기록이 남음   
 - URL을 복사하는 것 만으로 백업 및 공유 가능   
 - 쿠키와 별...</a></div><div class="topicinfo"><span id="tp15248">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15248"></span> | <a href="topic?id=15248" class="u">댓글 10개</a></div>]]></content>
     </entry>
@@ -86,49 +120,40 @@
         <id>https://news.hada.io/topic?id=15206</id>
         <link href="https://news.hada.io/topic?id=15206"/>
         <updated>2024-06-07T02:02:38.224Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15206"><a class="upvote" href="javascript:vote(15206, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mbuffett.com/posts/maintaining-motivation/" rel="nofollow" id="tr10"><h1>GN⁺: 1인 개발자로서 동기 부여 관리하기</h1></a> <span class="topicurl">(mbuffett.com)</span></div><div class="topicdesc"><a href="topic?id=15206" class="c99 breakall">- 1인 개발자로서 가장 어려운 점 중 하나는 동기 부여를 유지하는 것  
-- 개인적으로 동기 부여를 해킹하는 방법, 효과가 있는 것과 그렇지 않은...</a></div><div class="topicinfo"><span id="tp15206">46</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote15206"></span> | <a href="topic?id=15206" class="u">댓글 8개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cones are MESSED UP - 원뿔은 직관적이지 않다]]></title>
-        <id>https://news.hada.io/topic?id=15269</id>
-        <link href="https://news.hada.io/topic?id=15269"/>
-        <updated>2024-06-10T04:18:13.492Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15269"><a class="upvote" href="javascript:vote(15269, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=Mkn3PzdaByY" rel="nofollow" id="tr11"><h1>Cones are MESSED UP - 원뿔은 직관적이지 않다</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=15269" class="c99 breakall">- 원뿔은 우리의 기대와 직관을 거스를 수 있는 비직관적인 특성을 가지고 있습니다.  
-- 높이 기준으로 2/3가 꽉 찬 원뿔을 거꾸로 뒤집었을 때 ...</a></div><div class="topicinfo"><span id="tp15269">3</span> points by <a href="/user?id=olivecake">olivecake</a> 21시간전<span id="unvote15269"></span> | <a href="topic?id=15269" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15206"><a class="upvote" href="javascript:vote(15206, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mbuffett.com/posts/maintaining-motivation/" rel="nofollow" id="tr14"><h1>GN⁺: 1인 개발자로서 동기 부여 관리하기</h1></a> <span class="topicurl">(mbuffett.com)</span></div><div class="topicdesc"><a href="topic?id=15206" class="c99 breakall">- 1인 개발자로서 가장 어려운 점 중 하나는 동기 부여를 유지하는 것  
+- 개인적으로 동기 부여를 해킹하는 방법, 효과가 있는 것과 그렇지 않은...</a></div><div class="topicinfo"><span id="tp15206">48</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote15206"></span> | <a href="topic?id=15206" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[효과적인 지도 UX를 위한 디자인 패턴]]></title>
         <id>https://news.hada.io/topic?id=15252</id>
         <link href="https://news.hada.io/topic?id=15252"/>
         <updated>2024-06-09T08:15:13.857Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15252"><a class="upvote" href="javascript:vote(15252, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.mapuipatterns.com/" rel="nofollow" id="tr12"><h1>효과적인 지도 UX를 위한 디자인 패턴</h1></a> <span class="topicurl">(mapuipatterns.com)</span></div><div class="topicdesc"><a href="topic?id=15252" class="c99 breakall">* 웹 사이트 및 앱에서 좋은 지도 사용 경험을 제공하기 위해 어떤 디자인 패턴을 취해야 하는지 보여줌  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15252"><a class="upvote" href="javascript:vote(15252, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.mapuipatterns.com/" rel="nofollow" id="tr15"><h1>효과적인 지도 UX를 위한 디자인 패턴</h1></a> <span class="topicurl">(mapuipatterns.com)</span></div><div class="topicdesc"><a href="topic?id=15252" class="c99 breakall">* 웹 사이트 및 앱에서 좋은 지도 사용 경험을 제공하기 위해 어떤 디자인 패턴을 취해야 하는지 보여줌  
 * 구성  
-  * 1장: 디자인 시작하기  ...</a></div><div class="topicinfo"><span id="tp15252">7</span> points by <a href="/user?id=depth221">depth221</a> 2일전<span id="unvote15252"></span> | <a href="topic?id=15252" class="u">댓글과 토론</a></div>]]></content>
+  * 1장: 디자인 시작하기  ...</a></div><div class="topicinfo"><span id="tp15252">8</span> points by <a href="/user?id=depth221">depth221</a> 2일전<span id="unvote15252"></span> | <a href="topic?id=15252" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snip - 커맨드 라인 Snippet 관리자]]></title>
-        <id>https://news.hada.io/topic?id=15262</id>
-        <link href="https://news.hada.io/topic?id=15262"/>
-        <updated>2024-06-10T01:00:14.300Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15262"><a class="upvote" href="javascript:vote(15262, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mehran-prs/snip" rel="nofollow" id="tr13"><h1>Snip - 커맨드 라인 Snippet 관리자</h1></a> <span class="topicurl">(github.com/mehran-prs)</span></div><div class="topicdesc"><a href="topic?id=15262" class="c99 breakall">- 터미널에서 스니펫 보기 및 관리 `snip {snippet_name}`  
-- 자신이 사용하는 에디터에서 편집 가능 `snip edit`   
-- Snippet 이름 자동완성 ...</a></div><div class="topicinfo"><span id="tp15262">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15262"></span> | <a href="topic?id=15262" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Cones are MESSED UP - 원뿔은 직관적이지 않다]]></title>
+        <id>https://news.hada.io/topic?id=15269</id>
+        <link href="https://news.hada.io/topic?id=15269"/>
+        <updated>2024-06-10T04:18:13.492Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15269"><a class="upvote" href="javascript:vote(15269, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.youtube.com/watch?v=Mkn3PzdaByY" rel="nofollow" id="tr16"><h1>Cones are MESSED UP - 원뿔은 직관적이지 않다</h1></a> <span class="topicurl">(youtube.com)</span></div><div class="topicdesc"><a href="topic?id=15269" class="c99 breakall">- 원뿔은 우리의 기대와 직관을 거스를 수 있는 비직관적인 특성을 가지고 있습니다.  
+- 높이 기준으로 2/3가 꽉 찬 원뿔을 거꾸로 뒤집었을 때 ...</a></div><div class="topicinfo"><span id="tp15269">3</span> points by <a href="/user?id=olivecake">olivecake</a> 23시간전<span id="unvote15269"></span> | <a href="topic?id=15269" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: PID 0란 무엇인가?]]></title>
         <id>https://news.hada.io/topic?id=15239</id>
         <link href="https://news.hada.io/topic?id=15239"/>
         <updated>2024-06-09T02:32:14.236Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15239"><a class="upvote" href="javascript:vote(15239, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.dave.tf/post/linux-pid0/" rel="nofollow" id="tr14"><h1>GN⁺: PID 0란 무엇인가?</h1></a> <span class="topicurl">(blog.dave.tf)</span></div><div class="topicdesc"><a href="topic?id=15239" class="c99 breakall">- PID 0에 대해 웹에서 검색하면 대부분 잘못된 정보가 나옴.  
-- Google, Bing, DuckDuckGo, Kagi에서 PID 0을 검색했을 때, 정확한 답변을 찾기...</a></div><div class="topicinfo"><span id="tp15239">11</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote15239"></span> | <a href="topic?id=15239" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15239"><a class="upvote" href="javascript:vote(15239, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.dave.tf/post/linux-pid0/" rel="nofollow" id="tr17"><h1>GN⁺: PID 0란 무엇인가?</h1></a> <span class="topicurl">(blog.dave.tf)</span></div><div class="topicdesc"><a href="topic?id=15239" class="c99 breakall">- PID 0에 대해 웹에서 검색하면 대부분 잘못된 정보가 나옴.  
+- Google, Bing, DuckDuckGo, Kagi에서 PID 0을 검색했을 때, 정확한 답변을 찾기...</a></div><div class="topicinfo"><span id="tp15239">12</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote15239"></span> | <a href="topic?id=15239" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: 해커뉴스와 비슷한 사이트는 어떤게 있나요?]]></title>
         <id>https://news.hada.io/topic?id=15184</id>
         <link href="https://news.hada.io/topic?id=15184"/>
         <updated>2024-06-05T02:33:14.234Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15184"><a class="upvote" href="javascript:vote(15184, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40478422" rel="nofollow" id="tr15"><h1>Ask HN: 해커뉴스와 비슷한 사이트는 어떤게 있나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15184" class="c99 breakall">답변으로 올라온 여러 사이트들을 정리했습니다.   
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15184"><a class="upvote" href="javascript:vote(15184, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40478422" rel="nofollow" id="tr18"><h1>Ask HN: 해커뉴스와 비슷한 사이트는 어떤게 있나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15184" class="c99 breakall">답변으로 올라온 여러 사이트들을 정리했습니다.   
 - https://lobste.rs  
 - https://bearblog.dev/discover/  
 - https://paperlined.org/  
@@ -139,40 +164,15 @@
         <id>https://news.hada.io/topic?id=15266</id>
         <link href="https://news.hada.io/topic?id=15266"/>
         <updated>2024-06-10T02:04:59.373Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15266"><a class="upvote" href="javascript:vote(15266, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.together.ai/blog/dragonfly-v1" rel="nofollow" id="tr16"><h1>Dragonfly - 멀티 해상도 줌이 가능한 대규모 비젼-언어 모델</h1></a> <span class="topicurl">(together.ai)</span></div><div class="topicdesc"><a href="topic?id=15266" class="c99 breakall">- 고해상도 이미지를 여러 작은 영역으로 나누어 분석하여 세부적인 이해와 추론이 가능한 vision-language 아키텍처 모델   
-- Llama-3-8b-Drago...</a></div><div class="topicinfo"><span id="tp15266">2</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote15266"></span> | <a href="topic?id=15266" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 지적 비만 위기 (2022)]]></title>
-        <id>https://news.hada.io/topic?id=15163</id>
-        <link href="https://news.hada.io/topic?id=15163"/>
-        <updated>2024-06-04T02:34:09.601Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15163"><a class="upvote" href="javascript:vote(15163, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.gurwinder.blog/p/the-intellectual-obesity-crisis" rel="nofollow" id="tr17"><h1>GN⁺: 지적 비만 위기 (2022)</h1></a> <span class="topicurl">(gurwinder.blog)</span></div><div class="topicdesc"><a href="topic?id=15163" class="c99 breakall">## 정보 중독이 우리의 뇌를 썩게 함  
-  
-- **정보 중독**: 정보가 과도하게 많아지면서 우리의 호기심이 집중력을 잃고 산만해짐. 이는 지적 ...</a></div><div class="topicinfo"><span id="tp15163">39</span> points by <a href="/user?id=neo">neo</a> 7일전<span id="unvote15163"></span> | <a href="topic?id=15163" class="u">댓글 6개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 간단한 이미지 하이라이터]]></title>
-        <id>https://news.hada.io/topic?id=15221</id>
-        <link href="https://news.hada.io/topic?id=15221"/>
-        <updated>2024-06-07T02:02:38.217Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15221"><a class="upvote" href="javascript:vote(15221, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15221" rel="nofollow" id="tr18"><h1>Show GN: 간단한 이미지 하이라이터</h1></a> <span class="topicurl">(simplehighlighterpngjpg.com)</span></div><div class="topicdesc"><a href="topic?id=15221" class="c99 breakall">서비스 가이드를 만들때, input창이나 button을 하이라이트 하는 경우가 많은데,  
-mac에서 제공하는 기능으로는 backdrop을 깔고, 원하는 부분만...</a></div><div class="topicinfo"><span id="tp15221">15</span> points by <a href="/user?id=sgwanlee">sgwanlee</a> 4일전<span id="unvote15221"></span> | <a href="topic?id=15221" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote15266"><a class="upvote" href="javascript:vote(15266, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.together.ai/blog/dragonfly-v1" rel="nofollow" id="tr19"><h1>Dragonfly - 멀티 해상도 줌이 가능한 대규모 비젼-언어 모델</h1></a> <span class="topicurl">(together.ai)</span></div><div class="topicdesc"><a href="topic?id=15266" class="c99 breakall">- 고해상도 이미지를 여러 작은 영역으로 나누어 분석하여 세부적인 이해와 추론이 가능한 vision-language 아키텍처 모델   
+- Llama-3-8b-Drago...</a></div><div class="topicinfo"><span id="tp15266">2</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15266"></span> | <a href="topic?id=15266" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peazip - 오픈소스 파일 압축/해제 유틸리티]]></title>
         <id>https://news.hada.io/topic?id=15217</id>
         <link href="https://news.hada.io/topic?id=15217"/>
         <updated>2024-06-07T01:00:03.466Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote15217"><a class="upvote" href="javascript:vote(15217, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://peazip.github.io/" rel="nofollow" id="tr19"><h1>Peazip - 오픈소스 파일 압축/해제 유틸리티</h1></a> <span class="topicurl">(peazip.github.io)</span></div><div class="topicdesc"><a href="topic?id=15217" class="c99 breakall">- 리눅스/윈도우/맥 지원. 설치 없이 이용가능(포터블)  
-- GUI와 CLI 애플리케이션 간 격차를 줄임: GUI에서 수행한 행동들을 CLI 스크립트로 Ex...</a></div><div class="topicinfo"><span id="tp15217">15</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote15217"></span> | <a href="topic?id=15217" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션플랫폼 무신사, PC버전 지원 종료…모바일에 올인]]></title>
-        <id>https://news.hada.io/topic?id=15236</id>
-        <link href="https://news.hada.io/topic?id=15236"/>
-        <updated>2024-06-08T01:58:46.223Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15236"><a class="upvote" href="javascript:vote(15236, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.musinsa.com/app/cs/notice_list#no_15632" rel="nofollow" id="tr20"><h1>패션플랫폼 무신사, PC버전 지원 종료…모바일에 올인</h1></a> <span class="topicurl">(musinsa.com)</span></div><div class="topicdesc"><a href="topic?id=15236" class="c99 breakall">* 2024년 6월 3일부터 [무신사 공식 홈페이지](https://www.musinsa.com/main/)가 모바일 버전으로 전환됨  
-* 반응형 웹사이트가 아닌 모바일 전...</a></div><div class="topicinfo"><span id="tp15236">8</span> points by <a href="/user?id=ragus">ragus</a> 3일전<span id="unvote15236"></span> | <a href="topic?id=15236" class="u">댓글 26개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15217"><a class="upvote" href="javascript:vote(15217, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://peazip.github.io/" rel="nofollow" id="tr20"><h1>Peazip - 오픈소스 파일 압축/해제 유틸리티</h1></a> <span class="topicurl">(peazip.github.io)</span></div><div class="topicdesc"><a href="topic?id=15217" class="c99 breakall">- 리눅스/윈도우/맥 지원. 설치 없이 이용가능(포터블)  
+- GUI와 CLI 애플리케이션 간 격차를 줄임: GUI에서 수행한 행동들을 CLI 스크립트로 Ex...</a></div><div class="topicinfo"><span id="tp15217">16</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote15217"></span> | <a href="topic?id=15217" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
