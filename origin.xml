@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-06-18T17:13:47.369Z</updated>
+    <updated>2024-06-18T18:18:47.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,7 +55,7 @@
         <updated>2024-06-18T09:14:34.167Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15407"><a class="upvote" href="javascript:vote(15407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15407" rel="nofollow" id="tr6"><h1>Show GN: 업보트(upvote) 고객 피드백 수집 SaaS</h1></a> <span class="topicurl">(upvote.so)</span></div><div class="topicdesc"><a href="topic?id=15407" class="c99 breakall">- 고객의 피드백을 수집할 수 있는 서비스입니다  
   - 고객이 직접 의견을 남길 수 있고, 다른 의견에 Upvote 할 수 있습니다.  
-  - 고객 의견...</a></div><div class="topicinfo"><span id="tp15407">3</span> points by <a href="/user?id=qu3vipon">qu3vipon</a> 8시간전<span id="unvote15407"></span> | <a href="topic?id=15407" class="u">댓글과 토론</a></div>]]></content>
+  - 고객 의견...</a></div><div class="topicinfo"><span id="tp15407">3</span> points by <a href="/user?id=qu3vipon">qu3vipon</a> 9시간전<span id="unvote15407"></span> | <a href="topic?id=15407" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Graphmark - 북마크한 웹페이지를 그래프로 보여주는 크롬 익스텐션]]></title>
@@ -67,20 +67,20 @@
 웹서핑을 하다가 페이지를 마킹하면 해당 웹페이지에서 entity를 ...</a></div><div class="topicinfo"><span id="tp15393">18</span> points by <a href="/user?id=rudxor02">rudxor02</a> 2일전<span id="unvote15393"></span> | <a href="topic?id=15393" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia Warp - 고성능 GPU 시뮬레이션 및 그래픽을 위한 Python 프레임워크]]></title>
-        <id>https://github.com/NVIDIA/warp</id>
-        <link href="https://github.com/NVIDIA/warp"/>
-        <updated>2024-06-18T02:01:58.468Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15404"><a class="upvote" href="javascript:vote(15404, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/NVIDIA/warp" rel="nofollow" id="tr8"><h1>Nvidia Warp - 고성능 GPU 시뮬레이션 및 그래픽을 위한 Python 프레임워크</h1></a> <span class="topicurl">(github.com/NVIDIA)</span></div><div class="topicdesc"><a href="topic?id=15404" class="c99 breakall">- 고성능 시뮬레이션 및 그래픽 코드를 작성하기 위한 Python 프레임워크  
-- Python 함수를 JIT 컴파일하여 CPU 또는 GPU에서 실행 가능한 효율...</a></div><div class="topicinfo"><span id="tp15404">4</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote15404"></span> | <a href="topic?id=15404" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Llama-3 8B-Instruct 모델 셀프 호스팅 비용]]></title>
         <id>https://blog.lytix.co/posts/self-hosting-llama-3</id>
         <link href="https://blog.lytix.co/posts/self-hosting-llama-3"/>
         <updated>2024-06-17T02:06:26.734Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15387"><a class="upvote" href="javascript:vote(15387, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lytix.co/posts/self-hosting-llama-3" rel="nofollow" id="tr9"><h1>Llama-3 8B-Instruct 모델 셀프 호스팅 비용</h1></a> <span class="topicurl">(blog.lytix.co)</span></div><div class="topicdesc"><a href="topic?id=15387" class="c99 breakall">- 대규모 언어 모델(LLM) 직접 호스팅 하는 비용은 얼마나 될까?  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15387"><a class="upvote" href="javascript:vote(15387, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lytix.co/posts/self-hosting-llama-3" rel="nofollow" id="tr8"><h1>Llama-3 8B-Instruct 모델 셀프 호스팅 비용</h1></a> <span class="topicurl">(blog.lytix.co)</span></div><div class="topicdesc"><a href="topic?id=15387" class="c99 breakall">- 대규모 언어 모델(LLM) 직접 호스팅 하는 비용은 얼마나 될까?  
 - Llama-3 8B-Instruct 모델을 EKS에서 호스팅할 경우, 100만 토큰당 약 $17  ...</a></div><div class="topicinfo"><span id="tp15387">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15387"></span> | <a href="topic?id=15387" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Warp - 고성능 GPU 시뮬레이션 및 그래픽을 위한 Python 프레임워크]]></title>
+        <id>https://github.com/NVIDIA/warp</id>
+        <link href="https://github.com/NVIDIA/warp"/>
+        <updated>2024-06-18T02:01:58.468Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15404"><a class="upvote" href="javascript:vote(15404, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/NVIDIA/warp" rel="nofollow" id="tr9"><h1>Nvidia Warp - 고성능 GPU 시뮬레이션 및 그래픽을 위한 Python 프레임워크</h1></a> <span class="topicurl">(github.com/NVIDIA)</span></div><div class="topicdesc"><a href="topic?id=15404" class="c99 breakall">- 고성능 시뮬레이션 및 그래픽 코드를 작성하기 위한 Python 프레임워크  
+- Python 함수를 JIT 컴파일하여 CPU 또는 GPU에서 실행 가능한 효율...</a></div><div class="topicinfo"><span id="tp15404">4</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote15404"></span> | <a href="topic?id=15404" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: SSH Honeypot을 30일 동안 운영하면 보게 되는 것]]></title>
@@ -177,6 +177,6 @@ Pinterest의 확장 과정은 네 단계로 나뉩니다:
         <updated>2024-06-16T06:17:37.350Z</updated>
         <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15371"><a class="upvote" href="javascript:vote(15371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dis.qa/Qg9Ole" rel="nofollow" id="tr20"><h1>2024년 상반기 디스콰이엇 회고 - 팀리빌딩</h1></a> <span class="topicurl">(dis.qa)</span></div><div class="topicdesc"><a href="topic?id=15371" class="c99 breakall">2024년 상반기 회고 - 팀 리빌딩  
   
-•팀원들을 대할때 나의 고통에서 시작하면 자기합리하게 되고 질책하게 된다. 반면 팀원들의 두려움, 갈망...</a></div><div class="topicinfo"><span id="tp15371">7</span> points by <a href="/user?id=hpark0011">hpark0011</a> 2일전<span id="unvote15371"></span> | <a href="topic?id=15371" class="u">댓글 1개</a></div>]]></content>
+•팀원들을 대할때 나의 고통에서 시작하면 자기합리하게 되고 질책하게 된다. 반면 팀원들의 두려움, 갈망...</a></div><div class="topicinfo"><span id="tp15371">7</span> points by <a href="/user?id=hpark0011">hpark0011</a> 3일전<span id="unvote15371"></span> | <a href="topic?id=15371" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
