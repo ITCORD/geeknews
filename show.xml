@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-06-27T02:02:17.611Z</updated>
+    <updated>2024-06-27T03:15:53.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 웹사이트나 유튜브 링크를 입력하면 요약을 해주는 Tilnote Gist]]></title>
+        <id>https://news.hada.io/topic?id=15550</id>
+        <link href="https://news.hada.io/topic?id=15550"/>
+        <updated>2024-06-27T03:15:33.494Z</updated>
+        <content type="html"><![CDATA[wislan]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Mail+Channel 원래 쓰던 이메일에 채널을 추가해서 스팸이랑 피싱을 추적하세요]]></title>
         <id>https://news.hada.io/topic?id=15548</id>
@@ -13,18 +20,18 @@
         <content type="html"><![CDATA[keepworking]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 위대함을 만드는 작은 습관, 오늘의 브리핑.]]></title>
-        <id>https://news.hada.io/topic?id=15531</id>
-        <link href="https://news.hada.io/topic?id=15531"/>
-        <updated>2024-06-26T03:15:30.854Z</updated>
-        <content type="html"><![CDATA[woarhkqjxj]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 함께해요 파이썬 생태계]]></title>
         <id>https://news.hada.io/topic?id=15469</id>
         <link href="https://news.hada.io/topic?id=15469"/>
         <updated>2024-06-22T06:18:00.699Z</updated>
         <content type="html"><![CDATA[geniuskey]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 위대함을 만드는 작은 습관, 오늘의 브리핑.]]></title>
+        <id>https://news.hada.io/topic?id=15531</id>
+        <link href="https://news.hada.io/topic?id=15531"/>
+        <updated>2024-06-26T03:15:30.854Z</updated>
+        <content type="html"><![CDATA[woarhkqjxj]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 문장을 웹소설 스타일의 망가진 체로 바꿔주는 GPTs]]></title>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[beomi]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: DGM.js - 스마트 도형을 지원하는 오픈소스 무한 캔버스 React 컴포넌트]]></title>
-        <id>https://news.hada.io/topic?id=15154</id>
-        <link href="https://news.hada.io/topic?id=15154"/>
-        <updated>2024-06-03T05:15:03.470Z</updated>
-        <content type="html"><![CDATA[niklauslee]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: OpenRouter (오픈라우터): 통일된 LLM 인터페이스와 마켓플레이스]]></title>
         <id>https://news.hada.io/topic?id=15171</id>
         <link href="https://news.hada.io/topic?id=15171"/>
         <updated>2024-06-04T03:15:59.140Z</updated>
         <content type="html"><![CDATA[luckydaun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: DGM.js - 스마트 도형을 지원하는 오픈소스 무한 캔버스 React 컴포넌트]]></title>
+        <id>https://news.hada.io/topic?id=15154</id>
+        <link href="https://news.hada.io/topic?id=15154"/>
+        <updated>2024-06-03T05:15:03.470Z</updated>
+        <content type="html"><![CDATA[niklauslee]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: JavaScript에서 한글을 다루는 현대적인 라이브러리]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=14558"/>
         <updated>2024-04-29T05:14:27.466Z</updated>
         <content type="html"><![CDATA[tmddnjs7231]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: YOCO - 복사하면 자동으로 파일 이름을 주석으로 추가해주는 VSCode extension]]></title>
-        <id>https://news.hada.io/topic?id=14924</id>
-        <link href="https://news.hada.io/topic?id=14924"/>
-        <updated>2024-05-21T03:14:30.054Z</updated>
-        <content type="html"><![CDATA[yulee1633]]></content>
     </entry>
 </feed>
