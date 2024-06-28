@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-06-28T20:14:03.270Z</updated>
+    <updated>2024-06-28T21:14:40.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2024-06-28T02:02:33.945Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr1"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
 - 이는 구글의 앱들이 WasmGC에서 실행되도록 하는 선례를 만듦  
--...</a></div><div class="topicinfo"><span id="tp15574">18</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote15574"></span> | <a href="topic?id=15574" class="u">댓글 2개</a></div>]]></content>
+-...</a></div><div class="topicinfo"><span id="tp15574">18</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote15574"></span> | <a href="topic?id=15574" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive]]></title>
@@ -21,7 +21,7 @@
         <updated>2024-06-28T00:59:15.317Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr2"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
   
-**[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">10</span> points by <a href="/user?id=raon0211">raon0211</a> 19시간전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
+**[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">10</span> points by <a href="/user?id=raon0211">raon0211</a> 20시간전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres 메모리 설정을 최대한 활용하는 방법]]></title>
@@ -37,7 +37,7 @@
         <updated>2024-06-28T04:15:43.487Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr4"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
 - `Map.groupBy()`는 iterable의 항목을 콜백에서 제공한 키를 가진 Map 항목으로 그룹화  
-- `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
+- `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문제 해결을 위한 3단계 프레임워크 가이드]]></title>
@@ -68,14 +68,15 @@
         <updated>2024-06-28T00:59:15.311Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr7"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
 Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오픈 언어 모델 새 계열입니다.  
-90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">6</span> points by <a href="/user?id=haebom">haebom</a> 20시간전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 4개</a></div>]]></content>
+90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">6</span> points by <a href="/user?id=haebom">haebom</a> 21시간전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다.]]></title>
-        <id>https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders</id>
-        <link href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders"/>
-        <updated>2024-06-28T04:15:43.489Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15580"><a class="upvote" href="javascript:vote(15580, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders" rel="nofollow" id="tr8"><h1>AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다.</h1></a> <span class="topicurl">(wsj.com)</span></div><div class="topicdesc"><a href="topic?id=15580" class="c99 breakall">저는 줄곧 AI 붐에 대해 회의적인 입장이었습니다. 기존 기술에 AI라는 키워드만 더했을 뿐인데 가격이 배가 된다거나, 별로 대단치 않은 기술을 H...</a></div><div class="topicinfo"><span id="tp15580">4</span> points by <a href="/user?id=quarter">quarter</a> 16시간전<span id="unvote15580"></span> | <a href="topic?id=15580" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[1인 개발자로서 어떻게 체계적으로 관리하시나요?]]></title>
+        <id>https://news.ycombinator.com/item?id=40742831</id>
+        <link href="https://news.ycombinator.com/item?id=40742831"/>
+        <updated>2024-06-25T03:14:48.707Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15513"><a class="upvote" href="javascript:vote(15513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40742831" rel="nofollow" id="tr8"><h1>1인 개발자로서 어떻게 체계적으로 관리하시나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15513" class="c99 breakall">- 팀과 함께 일할 때는 스크럼과 같은 단기 목표와 체계적인 작업 백로그가 집중력을 유지하고 해야 할 일을 추적하는 데 정말 도움이 되었음   
+...</a></div><div class="topicinfo"><span id="tp15513">48</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote15513"></span> | <a href="topic?id=15513" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 부채 개념, 유형, 해결 방법]]></title>
@@ -86,26 +87,18 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
     - 시간이 더 걸릴 수 있는 더 나은 접근 방식을 취하는 대신&nbsp;쉽지만 제한된 솔루션을 선택할 때 필요한, 향후 재작업의 ...</a></div><div class="topicinfo"><span id="tp15552">13</span> points by <a href="/user?id=ironlung">ironlung</a> 2일전<span id="unvote15552"></span> | <a href="topic?id=15552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1인 개발자로서 어떻게 체계적으로 관리하시나요?]]></title>
-        <id>https://news.ycombinator.com/item?id=40742831</id>
-        <link href="https://news.ycombinator.com/item?id=40742831"/>
-        <updated>2024-06-25T03:14:48.707Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15513"><a class="upvote" href="javascript:vote(15513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40742831" rel="nofollow" id="tr10"><h1>1인 개발자로서 어떻게 체계적으로 관리하시나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15513" class="c99 breakall">- 팀과 함께 일할 때는 스크럼과 같은 단기 목표와 체계적인 작업 백로그가 집중력을 유지하고 해야 할 일을 추적하는 데 정말 도움이 되었음   
-...</a></div><div class="topicinfo"><span id="tp15513">48</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote15513"></span> | <a href="topic?id=15513" class="u">댓글 5개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Minimal Paged Attention]]></title>
-        <id>https://github.com/tspeterkim/paged-attention-minimal</id>
-        <link href="https://github.com/tspeterkim/paged-attention-minimal"/>
-        <updated>2024-06-28T16:15:57.197Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15584"><a class="upvote" href="javascript:vote(15584, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/tspeterkim/paged-attention-minimal" rel="nofollow" id="tr11"><h1>Show GN: Minimal Paged Attention</h1></a> <span class="topicurl">(github.com/tspeterkim)</span></div><div class="topicinfo"><span id="tp15584">1</span> point by <a href="/user?id=tspeterkim">tspeterkim</a> 4시간전<span id="unvote15584"></span> | <a href="topic?id=15584" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다.]]></title>
+        <id>https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders</id>
+        <link href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders"/>
+        <updated>2024-06-28T04:15:43.489Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15580"><a class="upvote" href="javascript:vote(15580, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders" rel="nofollow" id="tr10"><h1>AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다.</h1></a> <span class="topicurl">(wsj.com)</span></div><div class="topicdesc"><a href="topic?id=15580" class="c99 breakall">저는 줄곧 AI 붐에 대해 회의적인 입장이었습니다. 기존 기술에 AI라는 키워드만 더했을 뿐인데 가격이 배가 된다거나, 별로 대단치 않은 기술을 H...</a></div><div class="topicinfo"><span id="tp15580">4</span> points by <a href="/user?id=quarter">quarter</a> 17시간전<span id="unvote15580"></span> | <a href="topic?id=15580" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: KT, 웹하드 사용자에게 악성코드 공격]]></title>
         <id>https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs</id>
         <link href="https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs"/>
         <updated>2024-06-28T00:59:15.333Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15557"><a class="upvote" href="javascript:vote(15557, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs" rel="nofollow" id="tr12"><h1>GN⁺: KT, 웹하드 사용자에게 악성코드 공격</h1></a> <span class="topicurl">(tomshardware.com)</span></div><div class="topicdesc"><a href="topic?id=15557" class="c99 breakall">- KT, 웹하드 사용자에게 악성코드 배포 — 60만 명 이상의 고객이 파일 손실, 이상한 폴더, 비활성화된 PC 보고  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15557"><a class="upvote" href="javascript:vote(15557, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs" rel="nofollow" id="tr11"><h1>GN⁺: KT, 웹하드 사용자에게 악성코드 공격</h1></a> <span class="topicurl">(tomshardware.com)</span></div><div class="topicdesc"><a href="topic?id=15557" class="c99 breakall">- KT, 웹하드 사용자에게 악성코드 배포 — 60만 명 이상의 고객이 파일 손실, 이상한 폴더, 비활성화된 PC 보고  
   - 외신엔 토렌트라고 나왔지...</a></div><div class="topicinfo"><span id="tp15557">9</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15557"></span> | <a href="topic?id=15557" class="u">댓글 12개</a></div>]]></content>
     </entry>
     <entry>
@@ -113,15 +106,22 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
         <id>https://stulle123.github.io/posts/kakaotalk-account-takeover/</id>
         <link href="https://stulle123.github.io/posts/kakaotalk-account-takeover/"/>
         <updated>2024-06-26T02:01:26.393Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15528"><a class="upvote" href="javascript:vote(15528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stulle123.github.io/posts/kakaotalk-account-takeover/" rel="nofollow" id="tr13"><h1>카카오톡에서 원클릭 익스플로잇</h1></a> <span class="topicurl">(stulle123.github.io)</span></div><div class="topicdesc"><a href="topic?id=15528" class="c99 breakall">카카오톡의 딥링크 유효성 검사 문제로 10.4.3인해 원격 공격자가 WebView에서 임의의 JavaScript를 실행하여 HTTP 요청 헤더에서 액세스 토큰을 ...</a></div><div class="topicinfo"><span id="tp15528">25</span> points by <a href="/user?id=wedding">wedding</a> 3일전<span id="unvote15528"></span> | <a href="topic?id=15528" class="u">댓글 15개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15528"><a class="upvote" href="javascript:vote(15528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stulle123.github.io/posts/kakaotalk-account-takeover/" rel="nofollow" id="tr12"><h1>카카오톡에서 원클릭 익스플로잇</h1></a> <span class="topicurl">(stulle123.github.io)</span></div><div class="topicdesc"><a href="topic?id=15528" class="c99 breakall">카카오톡의 딥링크 유효성 검사 문제로 10.4.3인해 원격 공격자가 WebView에서 임의의 JavaScript를 실행하여 HTTP 요청 헤더에서 액세스 토큰을 ...</a></div><div class="topicinfo"><span id="tp15528">25</span> points by <a href="/user?id=wedding">wedding</a> 3일전<span id="unvote15528"></span> | <a href="topic?id=15528" class="u">댓글 15개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[README Driven Development (2010)]]></title>
         <id>https://tom.preston-werner.com/2010/08/23/readme-driven-development.html</id>
         <link href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html"/>
         <updated>2024-06-25T00:58:49.470Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15502"><a class="upvote" href="javascript:vote(15502, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html" rel="nofollow" id="tr14"><h1>README Driven Development (2010)</h1></a> <span class="topicurl">(tom.preston-werner.com)</span></div><div class="topicdesc"><a href="topic?id=15502" class="c99 breakall">- README 주도 개발 : 소프트웨어 개발시 README를 먼저 작성하는 접근 방식  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15502"><a class="upvote" href="javascript:vote(15502, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html" rel="nofollow" id="tr13"><h1>README Driven Development (2010)</h1></a> <span class="topicurl">(tom.preston-werner.com)</span></div><div class="topicdesc"><a href="topic?id=15502" class="c99 breakall">- README 주도 개발 : 소프트웨어 개발시 README를 먼저 작성하는 접근 방식  
 - TDD, BDD, Extreme Programming, SCRUM 등의 다양한 개발 방법론...</a></div><div class="topicinfo"><span id="tp15502">40</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote15502"></span> | <a href="topic?id=15502" class="u">댓글 9개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Minimal Paged Attention]]></title>
+        <id>https://github.com/tspeterkim/paged-attention-minimal</id>
+        <link href="https://github.com/tspeterkim/paged-attention-minimal"/>
+        <updated>2024-06-28T16:15:57.197Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15584"><a class="upvote" href="javascript:vote(15584, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/tspeterkim/paged-attention-minimal" rel="nofollow" id="tr14"><h1>Show GN: Minimal Paged Attention</h1></a> <span class="topicurl">(github.com/tspeterkim)</span></div><div class="topicinfo"><span id="tp15584">1</span> point by <a href="/user?id=tspeterkim">tspeterkim</a> 5시간전<span id="unvote15584"></span> | <a href="topic?id=15584" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자]]></title>
@@ -132,19 +132,19 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
 - TypeScript, ESLint와 같은 필수...</a></div><div class="topicinfo"><span id="tp15535">16</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote15535"></span> | <a href="topic?id=15535" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Claude 3.5 Sonnet 모델에 대하여]]></title>
-        <id>https://thezvi.substack.com/p/on-claude-35-sonnet</id>
-        <link href="https://thezvi.substack.com/p/on-claude-35-sonnet"/>
-        <updated>2024-06-28T02:02:33.954Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15565"><a class="upvote" href="javascript:vote(15565, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://thezvi.substack.com/p/on-claude-35-sonnet" rel="nofollow" id="tr16"><h1>GN⁺: Claude 3.5 Sonnet 모델에 대하여</h1></a> <span class="topicurl">(thezvi.substack.com)</span></div><div class="topicdesc"><a href="topic?id=15565" class="c99 breakall">- Claude 3.5 Sonnet이 대화형 AI 분야에서 현재 가장 우수한 모델임  
-- 클로드 소네트 3.5는 Claude.ai와 클로드 iOS 앱에서 무료로 사용 가능...</a></div><div class="topicinfo"><span id="tp15565">3</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote15565"></span> | <a href="topic?id=15565" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ducker - 도커 컨테이너 관리용 터미널 앱]]></title>
         <id>https://github.com/robertpsoane/ducker</id>
         <link href="https://github.com/robertpsoane/ducker"/>
         <updated>2024-06-27T16:16:40.228Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15559"><a class="upvote" href="javascript:vote(15559, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/robertpsoane/ducker" rel="nofollow" id="tr17"><h1>Ducker - 도커 컨테이너 관리용 터미널 앱</h1></a> <span class="topicurl">(github.com/robertpsoane)</span></div><div class="topicdesc"><a href="topic?id=15559" class="c99 breakall">Ducker라는 도구를 보게 되었는데, 터미널에서 컨테이너들을 직관적으로 관리하기 좋아 보입니다. </a></div><div class="topicinfo"><span id="tp15559">5</span> points by <a href="/user?id=bus710">bus710</a> 1일전<span id="unvote15559"></span> | <a href="topic?id=15559" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15559"><a class="upvote" href="javascript:vote(15559, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/robertpsoane/ducker" rel="nofollow" id="tr16"><h1>Ducker - 도커 컨테이너 관리용 터미널 앱</h1></a> <span class="topicurl">(github.com/robertpsoane)</span></div><div class="topicdesc"><a href="topic?id=15559" class="c99 breakall">Ducker라는 도구를 보게 되었는데, 터미널에서 컨테이너들을 직관적으로 관리하기 좋아 보입니다. </a></div><div class="topicinfo"><span id="tp15559">5</span> points by <a href="/user?id=bus710">bus710</a> 1일전<span id="unvote15559"></span> | <a href="topic?id=15559" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Claude 3.5 Sonnet 모델에 대하여]]></title>
+        <id>https://thezvi.substack.com/p/on-claude-35-sonnet</id>
+        <link href="https://thezvi.substack.com/p/on-claude-35-sonnet"/>
+        <updated>2024-06-28T02:02:33.954Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15565"><a class="upvote" href="javascript:vote(15565, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://thezvi.substack.com/p/on-claude-35-sonnet" rel="nofollow" id="tr17"><h1>GN⁺: Claude 3.5 Sonnet 모델에 대하여</h1></a> <span class="topicurl">(thezvi.substack.com)</span></div><div class="topicdesc"><a href="topic?id=15565" class="c99 breakall">- Claude 3.5 Sonnet이 대화형 AI 분야에서 현재 가장 우수한 모델임  
+- 클로드 소네트 3.5는 Claude.ai와 클로드 iOS 앱에서 무료로 사용 가능...</a></div><div class="topicinfo"><span id="tp15565">3</span> points by <a href="/user?id=neo">neo</a> 20시간전<span id="unvote15565"></span> | <a href="topic?id=15565" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들]]></title>
