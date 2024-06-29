@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-06-29T02:00:00.520Z</updated>
+    <updated>2024-06-29T02:34:40.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 의 새로운 Set 메소드들]]></title>
-        <id>https://developer.mozilla.org/en-US/blog/javascript-set-methods/</id>
-        <link href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/"/>
-        <updated>2024-06-29T00:57:53.822Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr1"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유]]></title>
         <id>https://web.dev/case-studies/google-sheets-wasmgc</id>
         <link href="https://web.dev/case-studies/google-sheets-wasmgc"/>
         <updated>2024-06-28T02:02:33.945Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr2"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr1"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
 - 이는 구글의 앱들이 WasmGC에서 실행되도록 하는 선례를 만듦  
 -...</a></div><div class="topicinfo"><span id="tp15574">18</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15574"></span> | <a href="topic?id=15574" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 의 새로운 Set 메소드들]]></title>
+        <id>https://developer.mozilla.org/en-US/blog/javascript-set-methods/</id>
+        <link href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/"/>
+        <updated>2024-06-29T00:57:53.822Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr2"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript 5.5 릴리즈]]></title>
@@ -27,7 +27,7 @@
         <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"/>
         <updated>2024-06-29T01:59:28.118Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15593"><a class="upvote" href="javascript:vote(15593, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/" rel="nofollow" id="tr3"><h1>TypeScript 5.5 릴리즈</h1></a> <span class="topicurl">(devblogs.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=15593" class="c99 breakall">* Inferred Type Predicates: TypeScript가 특정 조건 하에서 함수가 Type Predicates를 반환한다고 추론할 수 있게 됨  
-* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">1</span> point by <a href="/user?id=xguru">xguru</a> 40분전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
+* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개!]]></title>
@@ -40,7 +40,7 @@
   
 🌟 안녕하세요, 여러분!   
   
-오늘 여러...</a></div><div class="topicinfo"><span id="tp15592">1</span> point by <a href="/user?id=seawolf">seawolf</a> 52분전<span id="unvote15592"></span> | <a href="topic?id=15592" class="u">댓글 1개</a></div>]]></content>
+오늘 여러...</a></div><div class="topicinfo"><span id="tp15592">1</span> point by <a href="/user?id=seawolf">seawolf</a> 1시간전<span id="unvote15592"></span> | <a href="topic?id=15592" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기]]></title>
@@ -48,7 +48,7 @@
         <link href="https://github.com/corcel/corcel"/>
         <updated>2024-06-29T01:59:28.119Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr5"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
-- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">1</span> point by <a href="/user?id=xguru">xguru</a> 56분전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
+- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">1</span> point by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive]]></title>
@@ -67,26 +67,26 @@
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15540"><a class="upvote" href="javascript:vote(15540, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tembo.io/blog/optimizing-memory-usage" rel="nofollow" id="tr7"><h1>Postgres 메모리 설정을 최대한 활용하는 방법</h1></a> <span class="topicurl">(tembo.io)</span></div><div class="topicdesc"><a href="topic?id=15540" class="c99 breakall">- Postgres 데이터베이스는 많은 양의 RAM을 사용함. 결과 집합을 만들 때 인덱스 매칭, 테이블에서 관련 행 검색, 튜플 병합/필터링/집계/정렬 등...</a></div><div class="topicinfo"><span id="tp15540">25</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15540"></span> | <a href="topic?id=15540" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI가 정치를 한다면]]></title>
+        <id>https://gen-b.co/ai-politician/</id>
+        <link href="https://gen-b.co/ai-politician/"/>
+        <updated>2024-06-29T00:57:53.827Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15585"><a class="upvote" href="javascript:vote(15585, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gen-b.co/ai-politician/" rel="nofollow" id="tr8"><h1>AI가 정치를 한다면</h1></a> <span class="topicurl">(gen-b.co)</span></div><div class="topicdesc"><a href="topic?id=15585" class="c99 breakall">영국에 “스티브“라는 이름의 AI국회의원이 출마했고(뒤에는 인간이 있지만) 도쿄에서도 비슷한 사례가 있습니다.  
+  
+AI가 진짜로 정치를 한다...</a></div><div class="topicinfo"><span id="tp15585">1</span> point by <a href="/user?id=ljy8221">ljy8221</a> 3시간전<span id="unvote15585"></span> | <a href="topic?id=15585" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[문제 해결을 위한 3단계 프레임워크 가이드]]></title>
         <id>https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving</id>
         <link href="https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving"/>
         <updated>2024-06-26T04:17:16.964Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15532"><a class="upvote" href="javascript:vote(15532, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving" rel="nofollow" id="tr8"><h1>문제 해결을 위한 3단계 프레임워크 가이드</h1></a> <span class="topicurl">(lennysnewsletter.com)</span></div><div class="topicdesc"><a href="topic?id=15532" class="c99 breakall">  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15532"><a class="upvote" href="javascript:vote(15532, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving" rel="nofollow" id="tr9"><h1>문제 해결을 위한 3단계 프레임워크 가이드</h1></a> <span class="topicurl">(lennysnewsletter.com)</span></div><div class="topicdesc"><a href="topic?id=15532" class="c99 breakall">  
   
 # 문제 해결을 위한 3단계 프레임워크  
   
 ---  
   
 - 에어비앤비에 입사해 배운 점 중 하나는 무엇보다도 문제 정의를 올바르게 하...</a></div><div class="topicinfo"><span id="tp15532">41</span> points by <a href="/user?id=quarter">quarter</a> 3일전<span id="unvote15532"></span> | <a href="topic?id=15532" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 정치를 한다면]]></title>
-        <id>https://gen-b.co/ai-politician/</id>
-        <link href="https://gen-b.co/ai-politician/"/>
-        <updated>2024-06-29T00:57:53.827Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15585"><a class="upvote" href="javascript:vote(15585, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gen-b.co/ai-politician/" rel="nofollow" id="tr9"><h1>AI가 정치를 한다면</h1></a> <span class="topicurl">(gen-b.co)</span></div><div class="topicdesc"><a href="topic?id=15585" class="c99 breakall">영국에 “스티브“라는 이름의 AI국회의원이 출마했고(뒤에는 인간이 있지만) 도쿄에서도 비슷한 사례가 있습니다.  
-  
-AI가 진짜로 정치를 한다...</a></div><div class="topicinfo"><span id="tp15585">1</span> point by <a href="/user?id=ljy8221">ljy8221</a> 2시간전<span id="unvote15585"></span> | <a href="topic?id=15585" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reshot - 무료 아이콘 & 일러스트 모음]]></title>
@@ -159,7 +159,7 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
         <id>https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders</id>
         <link href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders"/>
         <updated>2024-06-28T04:15:43.489Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15580"><a class="upvote" href="javascript:vote(15580, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders" rel="nofollow" id="tr18"><h1>AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다.</h1></a> <span class="topicurl">(wsj.com)</span></div><div class="topicdesc"><a href="topic?id=15580" class="c99 breakall">저는 줄곧 AI 붐에 대해 회의적인 입장이었습니다. 기존 기술에 AI라는 키워드만 더했을 뿐인데 가격이 배가 된다거나, 별로 대단치 않은 기술을 H...</a></div><div class="topicinfo"><span id="tp15580">4</span> points by <a href="/user?id=quarter">quarter</a> 22시간전<span id="unvote15580"></span> | <a href="topic?id=15580" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15580"><a class="upvote" href="javascript:vote(15580, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders" rel="nofollow" id="tr18"><h1>AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다.</h1></a> <span class="topicurl">(wsj.com)</span></div><div class="topicdesc"><a href="topic?id=15580" class="c99 breakall">저는 줄곧 AI 붐에 대해 회의적인 입장이었습니다. 기존 기술에 AI라는 키워드만 더했을 뿐인데 가격이 배가 된다거나, 별로 대단치 않은 기술을 H...</a></div><div class="topicinfo"><span id="tp15580">4</span> points by <a href="/user?id=quarter">quarter</a> 23시간전<span id="unvote15580"></span> | <a href="topic?id=15580" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자]]></title>
