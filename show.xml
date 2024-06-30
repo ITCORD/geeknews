@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-06-30T08:16:27.622Z</updated>
+    <updated>2024-06-30T09:17:34.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Laravel AI Translator: 라라벨 언어 스트링을 AI로 자동 번역해주는 패키지]]></title>
+        <id>https://news.hada.io/topic?id=15612</id>
+        <link href="https://news.hada.io/topic?id=15612"/>
+        <updated>2024-06-30T09:17:15.777Z</updated>
+        <content type="html"><![CDATA[kargnas]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive]]></title>
         <id>https://news.hada.io/topic?id=15568</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15044"/>
         <updated>2024-05-27T16:15:41.204Z</updated>
         <content type="html"><![CDATA[robin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: TSBOARD (타입스크립트로 작성된 오픈소스 커뮤니티 빌더)]]></title>
-        <id>https://news.hada.io/topic?id=14914</id>
-        <link href="https://news.hada.io/topic?id=14914"/>
-        <updated>2024-05-20T14:12:45.522Z</updated>
-        <content type="html"><![CDATA[tsboard]]></content>
     </entry>
 </feed>
