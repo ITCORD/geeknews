@@ -2,36 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-29T23:14:40.531Z</updated>
+    <updated>2024-06-30T01:04:41.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Dorkly - 오픈 소스 Feature Flag 시스템 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15602</id>
+        <link href="https://news.hada.io/topic?id=15602"/>
+        <updated>2024-06-30T01:04:06.494Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15602"><a class="upvote" href="javascript:vote(15602, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/dorklyorg/dorkly/wiki" rel="nofollow" id="tr1"><h1>Dorkly - 오픈 소스 Feature Flag 시스템</h1></a> <span class="topicurl">(github.com/dorklyorg)</span></div><div class="topicdesc"><a href="topic?id=15602" class="c99 breakall">- Git 기반의 오픈소스 Feature Flag 백엔드   
+- LaunchDarkly의 오픈 소스 SDK와 함께 사용 가능  
+  - 다양한 언어에서 LaunchDarkly의 SDK를...</a></div><div class="topicinfo"><span id="tp15602">1</span> point by <a href="/user?id=xguru">xguru</a> 5분전<span id="unvote15602"></span> | <a href="topic?id=15602" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 의 새로운 Set 메소드들 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15586</id>
         <link href="https://news.hada.io/topic?id=15586"/>
         <updated>2024-06-29T00:57:49.622Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr1"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr2"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15574</id>
         <link href="https://news.hada.io/topic?id=15574"/>
         <updated>2024-06-28T02:02:30.168Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr2"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr3"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
 - 이는 구글의 앱들이 WasmGC에서 실행되도록 하는 선례를 만듦  
 -...</a></div><div class="topicinfo"><span id="tp15574">19</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15574"></span> | <a href="topic?id=15574" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개! (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15592</id>
-        <link href="https://news.hada.io/topic?id=15592"/>
-        <updated>2024-06-29T01:59:24.079Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15592"><a class="upvote" href="javascript:vote(15592, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discord.gg/openfreeai" rel="nofollow" id="tr3"><h1>한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개!</h1></a> <span class="topicurl">(discord.gg)</span></div><div class="topicdesc"><a href="topic?id=15592" class="c99 breakall">안녕하세요.  
-  
-🌟 대한민국의 AI 혁신, '한글 소라' 무료 영상 생성 서비스를 만나보세요!   
-  
-🌟 안녕하세요, 여러분!   
-  
-오늘 여러...</a></div><div class="topicinfo"><span id="tp15592">5</span> points by <a href="/user?id=seawolf">seawolf</a> 22시간전<span id="unvote15592"></span> | <a href="topic?id=15592" class="u">댓글 16개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문제 해결을 위한 3단계 프레임워크 가이드 (GeekNews ─ 메인)]]></title>
@@ -68,24 +64,24 @@
         <link href="https://news.hada.io/topic?id=15593"/>
         <updated>2024-06-29T01:59:24.079Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15593"><a class="upvote" href="javascript:vote(15593, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/" rel="nofollow" id="tr7"><h1>TypeScript 5.5 릴리즈</h1></a> <span class="topicurl">(devblogs.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=15593" class="c99 breakall">* Inferred Type Predicates: TypeScript가 특정 조건 하에서 함수가 Type Predicates를 반환한다고 추론할 수 있게 됨  
-* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">4</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15568</id>
-        <link href="https://news.hada.io/topic?id=15568"/>
-        <updated>2024-06-28T00:59:11.463Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr8"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
-  
-**[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">11</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
+* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">4</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1인 개발자로서 어떻게 체계적으로 관리하시나요? (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15513</id>
         <link href="https://news.hada.io/topic?id=15513"/>
         <updated>2024-06-25T03:14:44.494Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15513"><a class="upvote" href="javascript:vote(15513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40742831" rel="nofollow" id="tr9"><h1>1인 개발자로서 어떻게 체계적으로 관리하시나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15513" class="c99 breakall">- 팀과 함께 일할 때는 스크럼과 같은 단기 목표와 체계적인 작업 백로그가 집중력을 유지하고 해야 할 일을 추적하는 데 정말 도움이 되었음   
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15513"><a class="upvote" href="javascript:vote(15513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40742831" rel="nofollow" id="tr8"><h1>1인 개발자로서 어떻게 체계적으로 관리하시나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15513" class="c99 breakall">- 팀과 함께 일할 때는 스크럼과 같은 단기 목표와 체계적인 작업 백로그가 집중력을 유지하고 해야 할 일을 추적하는 데 정말 도움이 되었음   
 ...</a></div><div class="topicinfo"><span id="tp15513">49</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote15513"></span> | <a href="topic?id=15513" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15568</id>
+        <link href="https://news.hada.io/topic?id=15568"/>
+        <updated>2024-06-28T00:59:11.463Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr9"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
+  
+**[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">11</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[README Driven Development (2010) (GeekNews ─ 메인)]]></title>
@@ -96,12 +92,11 @@
 - TDD, BDD, Extreme Programming, SCRUM 등의 다양한 개발 방법론...</a></div><div class="topicinfo"><span id="tp15502">41</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote15502"></span> | <a href="topic?id=15502" class="u">댓글 9개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15591</id>
-        <link href="https://news.hada.io/topic?id=15591"/>
-        <updated>2024-06-29T01:59:24.079Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr11"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
-- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">3</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[카카오톡에서 원클릭 익스플로잇 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15528</id>
+        <link href="https://news.hada.io/topic?id=15528"/>
+        <updated>2024-06-26T02:01:22.392Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15528"><a class="upvote" href="javascript:vote(15528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stulle123.github.io/posts/kakaotalk-account-takeover/" rel="nofollow" id="tr11"><h1>카카오톡에서 원클릭 익스플로잇</h1></a> <span class="topicurl">(stulle123.github.io)</span></div><div class="topicdesc"><a href="topic?id=15528" class="c99 breakall">카카오톡의 딥링크 유효성 검사 문제로 10.4.3인해 원격 공격자가 WebView에서 임의의 JavaScript를 실행하여 HTTP 요청 헤더에서 액세스 토큰을 ...</a></div><div class="topicinfo"><span id="tp15528">26</span> points by <a href="/user?id=wedding">wedding</a> 4일전<span id="unvote15528"></span> | <a href="topic?id=15528" class="u">댓글 15개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 부채 개념, 유형, 해결 방법 (GeekNews ─ 메인)]]></title>
@@ -112,47 +107,48 @@
     - 시간이 더 걸릴 수 있는 더 나은 접근 방식을 취하는 대신&nbsp;쉽지만 제한된 솔루션을 선택할 때 필요한, 향후 재작업의 ...</a></div><div class="topicinfo"><span id="tp15552">15</span> points by <a href="/user?id=ironlung">ironlung</a> 3일전<span id="unvote15552"></span> | <a href="topic?id=15552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오톡에서 원클릭 익스플로잇 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15528</id>
-        <link href="https://news.hada.io/topic?id=15528"/>
-        <updated>2024-06-26T02:01:22.392Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15528"><a class="upvote" href="javascript:vote(15528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stulle123.github.io/posts/kakaotalk-account-takeover/" rel="nofollow" id="tr13"><h1>카카오톡에서 원클릭 익스플로잇</h1></a> <span class="topicurl">(stulle123.github.io)</span></div><div class="topicdesc"><a href="topic?id=15528" class="c99 breakall">카카오톡의 딥링크 유효성 검사 문제로 10.4.3인해 원격 공격자가 WebView에서 임의의 JavaScript를 실행하여 HTTP 요청 헤더에서 액세스 토큰을 ...</a></div><div class="topicinfo"><span id="tp15528">26</span> points by <a href="/user?id=wedding">wedding</a> 4일전<span id="unvote15528"></span> | <a href="topic?id=15528" class="u">댓글 15개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15560</id>
-        <link href="https://news.hada.io/topic?id=15560"/>
-        <updated>2024-06-28T00:59:11.457Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr14"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
-Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오픈 언어 모델 새 계열입니다.  
-90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">7</span> points by <a href="/user?id=haebom">haebom</a> 2일전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 6개</a></div>]]></content>
+        <title type="html"><![CDATA[Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15591</id>
+        <link href="https://news.hada.io/topic?id=15591"/>
+        <updated>2024-06-29T01:59:24.079Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr13"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
+- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15503</id>
         <link href="https://news.hada.io/topic?id=15503"/>
         <updated>2024-06-29T04:16:45.077Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15503"><a class="upvote" href="javascript:vote(15503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://danilafe.com/blog/blog_microfeatures/" rel="nofollow" id="tr15"><h1>GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 </h1></a> <span class="topicurl">(danilafe.com)</span></div><div class="topicdesc"><a href="topic?id=15503" class="c99 breakall">- 블로그의 사용자 경험을 향상시키는 마이크로 기능들에 대한 소개   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15503"><a class="upvote" href="javascript:vote(15503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://danilafe.com/blog/blog_microfeatures/" rel="nofollow" id="tr14"><h1>GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 </h1></a> <span class="topicurl">(danilafe.com)</span></div><div class="topicdesc"><a href="topic?id=15503" class="c99 breakall">- 블로그의 사용자 경험을 향상시키는 마이크로 기능들에 대한 소개   
   
 ### 사이드노트  
 - 본문을 방해하지 않고 추가 정보를 제공하는 기...</a></div><div class="topicinfo"><span id="tp15503">31</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote15503"></span> | <a href="topic?id=15503" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECMAScript 2024 승인 : 새로운 기능은? (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=15579</id>
-        <link href="https://news.hada.io/topic?id=15579"/>
-        <updated>2024-06-28T04:15:39.587Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr16"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
-- `Map.groupBy()`는 iterable의 항목을 콜백에서 제공한 키를 가진 Map 항목으로 그룹화  
-- `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15560</id>
+        <link href="https://news.hada.io/topic?id=15560"/>
+        <updated>2024-06-28T00:59:11.457Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr15"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
+Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오픈 언어 모델 새 계열입니다.  
+90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">7</span> points by <a href="/user?id=haebom">haebom</a> 2일전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=15535</id>
         <link href="https://news.hada.io/topic?id=15535"/>
         <updated>2024-06-27T00:59:07.182Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15535"><a class="upvote" href="javascript:vote(15535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html" rel="nofollow" id="tr17"><h1>GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자</h1></a> <span class="topicurl">(dotenvx.com)</span></div><div class="topicdesc"><a href="topic?id=15535" class="c99 breakall">- 2013년 7월에 dotenv 첫 번째 커밋후 11년 동안 전 세계적으로 가장 많이 의존하는 패키지 중 하나로 성장  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15535"><a class="upvote" href="javascript:vote(15535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html" rel="nofollow" id="tr16"><h1>GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자</h1></a> <span class="topicurl">(dotenvx.com)</span></div><div class="topicdesc"><a href="topic?id=15535" class="c99 breakall">- 2013년 7월에 dotenv 첫 번째 커밋후 11년 동안 전 세계적으로 가장 많이 의존하는 패키지 중 하나로 성장  
 - TypeScript, ESLint와 같은 필수...</a></div><div class="topicinfo"><span id="tp15535">16</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote15535"></span> | <a href="topic?id=15535" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2024 승인 : 새로운 기능은? (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=15579</id>
+        <link href="https://news.hada.io/topic?id=15579"/>
+        <updated>2024-06-28T04:15:39.587Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr17"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
+- `Map.groupBy()`는 iterable의 항목을 콜백에서 제공한 키를 가진 Map 항목으로 그룹화  
+- `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: KT, 웹하드 사용자에게 악성코드 공격 (GeekNews ─ 메인)]]></title>
@@ -178,33 +174,29 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
         <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15559"><a class="upvote" href="javascript:vote(15559, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/robertpsoane/ducker" rel="nofollow" id="tr20"><h1>Ducker - 도커 컨테이너 관리용 터미널 앱</h1></a> <span class="topicurl">(github.com/robertpsoane)</span></div><div class="topicdesc"><a href="topic?id=15559" class="c99 breakall">Ducker라는 도구를 보게 되었는데, 터미널에서 컨테이너들을 직관적으로 관리하기 좋아 보입니다. </a></div><div class="topicinfo"><span id="tp15559">6</span> points by <a href="/user?id=bus710">bus710</a> 2일전<span id="unvote15559"></span> | <a href="topic?id=15559" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dorkly - 오픈 소스 Feature Flag 시스템 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://github.com/dorklyorg/dorkly/wiki</id>
+        <link href="https://github.com/dorklyorg/dorkly/wiki"/>
+        <updated>2024-06-30T01:04:10.580Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15602"><a class="upvote" href="javascript:vote(15602, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/dorklyorg/dorkly/wiki" rel="nofollow" id="tr1"><h1>Dorkly - 오픈 소스 Feature Flag 시스템</h1></a> <span class="topicurl">(github.com/dorklyorg)</span></div><div class="topicdesc"><a href="topic?id=15602" class="c99 breakall">- Git 기반의 오픈소스 Feature Flag 백엔드   
+- LaunchDarkly의 오픈 소스 SDK와 함께 사용 가능  
+  - 다양한 언어에서 LaunchDarkly의 SDK를...</a></div><div class="topicinfo"><span id="tp15602">1</span> point by <a href="/user?id=xguru">xguru</a> 5분전<span id="unvote15602"></span> | <a href="topic?id=15602" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JavaScript 의 새로운 Set 메소드들 (GeekNews ─ 메인 원문)]]></title>
         <id>https://developer.mozilla.org/en-US/blog/javascript-set-methods/</id>
         <link href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/"/>
         <updated>2024-06-29T00:57:53.822Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr1"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr2"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유 (GeekNews ─ 메인 원문)]]></title>
         <id>https://web.dev/case-studies/google-sheets-wasmgc</id>
         <link href="https://web.dev/case-studies/google-sheets-wasmgc"/>
         <updated>2024-06-28T02:02:33.945Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr2"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr3"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
 - 이는 구글의 앱들이 WasmGC에서 실행되도록 하는 선례를 만듦  
 -...</a></div><div class="topicinfo"><span id="tp15574">19</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15574"></span> | <a href="topic?id=15574" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개! (GeekNews ─ 메인 원문)]]></title>
-        <id>https://discord.gg/openfreeai</id>
-        <link href="https://discord.gg/openfreeai"/>
-        <updated>2024-06-29T01:59:28.119Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15592"><a class="upvote" href="javascript:vote(15592, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discord.gg/openfreeai" rel="nofollow" id="tr3"><h1>한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개!</h1></a> <span class="topicurl">(discord.gg)</span></div><div class="topicdesc"><a href="topic?id=15592" class="c99 breakall">안녕하세요.  
-  
-🌟 대한민국의 AI 혁신, '한글 소라' 무료 영상 생성 서비스를 만나보세요!   
-  
-🌟 안녕하세요, 여러분!   
-  
-오늘 여러...</a></div><div class="topicinfo"><span id="tp15592">5</span> points by <a href="/user?id=seawolf">seawolf</a> 22시간전<span id="unvote15592"></span> | <a href="topic?id=15592" class="u">댓글 16개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문제 해결을 위한 3단계 프레임워크 가이드 (GeekNews ─ 메인 원문)]]></title>
@@ -241,24 +233,24 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
         <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"/>
         <updated>2024-06-29T01:59:28.118Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15593"><a class="upvote" href="javascript:vote(15593, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/" rel="nofollow" id="tr7"><h1>TypeScript 5.5 릴리즈</h1></a> <span class="topicurl">(devblogs.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=15593" class="c99 breakall">* Inferred Type Predicates: TypeScript가 특정 조건 하에서 함수가 Type Predicates를 반환한다고 추론할 수 있게 됨  
-* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">4</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive (GeekNews ─ 메인 원문)]]></title>
-        <id>https://news.hada.io/topic?id=15568</id>
-        <link href="https://news.hada.io/topic?id=15568"/>
-        <updated>2024-06-28T00:59:11.463Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr8"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
-  
-**[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">11</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
+* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">4</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1인 개발자로서 어떻게 체계적으로 관리하시나요? (GeekNews ─ 메인 원문)]]></title>
         <id>https://news.ycombinator.com/item?id=40742831</id>
         <link href="https://news.ycombinator.com/item?id=40742831"/>
         <updated>2024-06-25T03:14:48.707Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15513"><a class="upvote" href="javascript:vote(15513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40742831" rel="nofollow" id="tr9"><h1>1인 개발자로서 어떻게 체계적으로 관리하시나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15513" class="c99 breakall">- 팀과 함께 일할 때는 스크럼과 같은 단기 목표와 체계적인 작업 백로그가 집중력을 유지하고 해야 할 일을 추적하는 데 정말 도움이 되었음   
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15513"><a class="upvote" href="javascript:vote(15513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40742831" rel="nofollow" id="tr8"><h1>1인 개발자로서 어떻게 체계적으로 관리하시나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15513" class="c99 breakall">- 팀과 함께 일할 때는 스크럼과 같은 단기 목표와 체계적인 작업 백로그가 집중력을 유지하고 해야 할 일을 추적하는 데 정말 도움이 되었음   
 ...</a></div><div class="topicinfo"><span id="tp15513">49</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote15513"></span> | <a href="topic?id=15513" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive (GeekNews ─ 메인 원문)]]></title>
+        <id>https://news.hada.io/topic?id=15568</id>
+        <link href="https://news.hada.io/topic?id=15568"/>
+        <updated>2024-06-28T00:59:11.463Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr9"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
+  
+**[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">11</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[README Driven Development (2010) (GeekNews ─ 메인 원문)]]></title>
@@ -269,12 +261,11 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
 - TDD, BDD, Extreme Programming, SCRUM 등의 다양한 개발 방법론...</a></div><div class="topicinfo"><span id="tp15502">41</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote15502"></span> | <a href="topic?id=15502" class="u">댓글 9개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://github.com/corcel/corcel</id>
-        <link href="https://github.com/corcel/corcel"/>
-        <updated>2024-06-29T01:59:28.119Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr11"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
-- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">3</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[카카오톡에서 원클릭 익스플로잇 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://stulle123.github.io/posts/kakaotalk-account-takeover/</id>
+        <link href="https://stulle123.github.io/posts/kakaotalk-account-takeover/"/>
+        <updated>2024-06-26T02:01:26.393Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15528"><a class="upvote" href="javascript:vote(15528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stulle123.github.io/posts/kakaotalk-account-takeover/" rel="nofollow" id="tr11"><h1>카카오톡에서 원클릭 익스플로잇</h1></a> <span class="topicurl">(stulle123.github.io)</span></div><div class="topicdesc"><a href="topic?id=15528" class="c99 breakall">카카오톡의 딥링크 유효성 검사 문제로 10.4.3인해 원격 공격자가 WebView에서 임의의 JavaScript를 실행하여 HTTP 요청 헤더에서 액세스 토큰을 ...</a></div><div class="topicinfo"><span id="tp15528">26</span> points by <a href="/user?id=wedding">wedding</a> 4일전<span id="unvote15528"></span> | <a href="topic?id=15528" class="u">댓글 15개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 부채 개념, 유형, 해결 방법 (GeekNews ─ 메인 원문)]]></title>
@@ -285,47 +276,48 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
     - 시간이 더 걸릴 수 있는 더 나은 접근 방식을 취하는 대신&nbsp;쉽지만 제한된 솔루션을 선택할 때 필요한, 향후 재작업의 ...</a></div><div class="topicinfo"><span id="tp15552">15</span> points by <a href="/user?id=ironlung">ironlung</a> 3일전<span id="unvote15552"></span> | <a href="topic?id=15552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오톡에서 원클릭 익스플로잇 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://stulle123.github.io/posts/kakaotalk-account-takeover/</id>
-        <link href="https://stulle123.github.io/posts/kakaotalk-account-takeover/"/>
-        <updated>2024-06-26T02:01:26.393Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15528"><a class="upvote" href="javascript:vote(15528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stulle123.github.io/posts/kakaotalk-account-takeover/" rel="nofollow" id="tr13"><h1>카카오톡에서 원클릭 익스플로잇</h1></a> <span class="topicurl">(stulle123.github.io)</span></div><div class="topicdesc"><a href="topic?id=15528" class="c99 breakall">카카오톡의 딥링크 유효성 검사 문제로 10.4.3인해 원격 공격자가 WebView에서 임의의 JavaScript를 실행하여 HTTP 요청 헤더에서 액세스 토큰을 ...</a></div><div class="topicinfo"><span id="tp15528">26</span> points by <a href="/user?id=wedding">wedding</a> 4일전<span id="unvote15528"></span> | <a href="topic?id=15528" class="u">댓글 15개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://ai.google.dev/gemma</id>
-        <link href="https://ai.google.dev/gemma"/>
-        <updated>2024-06-28T00:59:15.311Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr14"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
-Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오픈 언어 모델 새 계열입니다.  
-90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">7</span> points by <a href="/user?id=haebom">haebom</a> 2일전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 6개</a></div>]]></content>
+        <title type="html"><![CDATA[Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://github.com/corcel/corcel</id>
+        <link href="https://github.com/corcel/corcel"/>
+        <updated>2024-06-29T01:59:28.119Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr13"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
+- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 (GeekNews ─ 메인 원문)]]></title>
         <id>https://danilafe.com/blog/blog_microfeatures/</id>
         <link href="https://danilafe.com/blog/blog_microfeatures/"/>
         <updated>2024-06-29T04:16:49.402Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15503"><a class="upvote" href="javascript:vote(15503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://danilafe.com/blog/blog_microfeatures/" rel="nofollow" id="tr15"><h1>GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 </h1></a> <span class="topicurl">(danilafe.com)</span></div><div class="topicdesc"><a href="topic?id=15503" class="c99 breakall">- 블로그의 사용자 경험을 향상시키는 마이크로 기능들에 대한 소개   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15503"><a class="upvote" href="javascript:vote(15503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://danilafe.com/blog/blog_microfeatures/" rel="nofollow" id="tr14"><h1>GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 </h1></a> <span class="topicurl">(danilafe.com)</span></div><div class="topicdesc"><a href="topic?id=15503" class="c99 breakall">- 블로그의 사용자 경험을 향상시키는 마이크로 기능들에 대한 소개   
   
 ### 사이드노트  
 - 본문을 방해하지 않고 추가 정보를 제공하는 기...</a></div><div class="topicinfo"><span id="tp15503">31</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote15503"></span> | <a href="topic?id=15503" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECMAScript 2024 승인 : 새로운 기능은? (GeekNews ─ 메인 원문)]]></title>
-        <id>https://2ality.com/2024/06/ecmascript-2024.html</id>
-        <link href="https://2ality.com/2024/06/ecmascript-2024.html"/>
-        <updated>2024-06-28T04:15:43.487Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr16"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
-- `Map.groupBy()`는 iterable의 항목을 콜백에서 제공한 키를 가진 Map 항목으로 그룹화  
-- `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://ai.google.dev/gemma</id>
+        <link href="https://ai.google.dev/gemma"/>
+        <updated>2024-06-28T00:59:15.311Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr15"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
+Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오픈 언어 모델 새 계열입니다.  
+90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">7</span> points by <a href="/user?id=haebom">haebom</a> 2일전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자 (GeekNews ─ 메인 원문)]]></title>
         <id>https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html</id>
         <link href="https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html"/>
         <updated>2024-06-27T00:59:11.362Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15535"><a class="upvote" href="javascript:vote(15535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html" rel="nofollow" id="tr17"><h1>GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자</h1></a> <span class="topicurl">(dotenvx.com)</span></div><div class="topicdesc"><a href="topic?id=15535" class="c99 breakall">- 2013년 7월에 dotenv 첫 번째 커밋후 11년 동안 전 세계적으로 가장 많이 의존하는 패키지 중 하나로 성장  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15535"><a class="upvote" href="javascript:vote(15535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html" rel="nofollow" id="tr16"><h1>GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자</h1></a> <span class="topicurl">(dotenvx.com)</span></div><div class="topicdesc"><a href="topic?id=15535" class="c99 breakall">- 2013년 7월에 dotenv 첫 번째 커밋후 11년 동안 전 세계적으로 가장 많이 의존하는 패키지 중 하나로 성장  
 - TypeScript, ESLint와 같은 필수...</a></div><div class="topicinfo"><span id="tp15535">16</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote15535"></span> | <a href="topic?id=15535" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2024 승인 : 새로운 기능은? (GeekNews ─ 메인 원문)]]></title>
+        <id>https://2ality.com/2024/06/ecmascript-2024.html</id>
+        <link href="https://2ality.com/2024/06/ecmascript-2024.html"/>
+        <updated>2024-06-28T04:15:43.487Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr17"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
+- `Map.groupBy()`는 iterable의 항목을 콜백에서 제공한 키를 가진 Map 항목으로 그룹화  
+- `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: KT, 웹하드 사용자에게 악성코드 공격 (GeekNews ─ 메인 원문)]]></title>
@@ -351,70 +343,79 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
         <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15559"><a class="upvote" href="javascript:vote(15559, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/robertpsoane/ducker" rel="nofollow" id="tr20"><h1>Ducker - 도커 컨테이너 관리용 터미널 앱</h1></a> <span class="topicurl">(github.com/robertpsoane)</span></div><div class="topicdesc"><a href="topic?id=15559" class="c99 breakall">Ducker라는 도구를 보게 되었는데, 터미널에서 컨테이너들을 직관적으로 관리하기 좋아 보입니다. </a></div><div class="topicinfo"><span id="tp15559">6</span> points by <a href="/user?id=bus710">bus710</a> 2일전<span id="unvote15559"></span> | <a href="topic?id=15559" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dorkly - 오픈 소스 Feature Flag 시스템 (GeekNews ─ 최신글)]]></title>
+        <id>https://news.hada.io/topic?id=15602</id>
+        <link href="https://news.hada.io/topic?id=15602"/>
+        <updated>2024-06-30T01:04:14.517Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15602"><a class="upvote" href="javascript:vote(15602, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/dorklyorg/dorkly/wiki" rel="nofollow" id="tr1"><h1>Dorkly - 오픈 소스 Feature Flag 시스템</h1></a> <span class="topicurl">(github.com/dorklyorg)</span></div><div class="topicdesc"><a href="topic?id=15602" class="c99 breakall">- Git 기반의 오픈소스 Feature Flag 백엔드   
+- LaunchDarkly의 오픈 소스 SDK와 함께 사용 가능  
+  - 다양한 언어에서 LaunchDarkly의 SDK를...</a></div><div class="topicinfo"><span id="tp15602">1</span> point by <a href="/user?id=xguru">xguru</a> 5분전<span id="unvote15602"></span> | <a href="topic?id=15602" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TypeScript 5.5 릴리즈 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15593</id>
         <link href="https://news.hada.io/topic?id=15593"/>
         <updated>2024-06-29T01:59:24.079Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15593"><a class="upvote" href="javascript:vote(15593, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/" rel="nofollow" id="tr1"><h1>TypeScript 5.5 릴리즈</h1></a> <span class="topicurl">(devblogs.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=15593" class="c99 breakall">* Inferred Type Predicates: TypeScript가 특정 조건 하에서 함수가 Type Predicates를 반환한다고 추론할 수 있게 됨  
-* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">4</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15593"><a class="upvote" href="javascript:vote(15593, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/" rel="nofollow" id="tr2"><h1>TypeScript 5.5 릴리즈</h1></a> <span class="topicurl">(devblogs.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=15593" class="c99 breakall">* Inferred Type Predicates: TypeScript가 특정 조건 하에서 함수가 Type Predicates를 반환한다고 추론할 수 있게 됨  
+* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">4</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개! (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15592</id>
         <link href="https://news.hada.io/topic?id=15592"/>
         <updated>2024-06-29T01:59:24.079Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15592"><a class="upvote" href="javascript:vote(15592, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discord.gg/openfreeai" rel="nofollow" id="tr2"><h1>한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개!</h1></a> <span class="topicurl">(discord.gg)</span></div><div class="topicdesc"><a href="topic?id=15592" class="c99 breakall">안녕하세요.  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15592">&nbsp;</span></div><div class="topictitle"><span id="flagged15592">[flagged] </span><h1>한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개!</h1> <span class="topicurl">(discord.gg)</span></div><div class="topicdesc"><a href="topic?id=15592" class="c99 breakall">안녕하세요.  
   
 🌟 대한민국의 AI 혁신, '한글 소라' 무료 영상 생성 서비스를 만나보세요!   
   
 🌟 안녕하세요, 여러분!   
   
-오늘 여러...</a></div><div class="topicinfo"><span id="tp15592">5</span> points by <a href="/user?id=seawolf">seawolf</a> 22시간전<span id="unvote15592"></span> | <a href="topic?id=15592" class="u">댓글 16개</a></div>]]></content>
+오늘 여러...</a></div><div class="topicinfo"><span id="tp15592">5</span> points by <a href="/user?id=seawolf">seawolf</a> 24시간전<span id="unvote15592"></span> | <a href="topic?id=15592" class="u">댓글 17개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15591</id>
         <link href="https://news.hada.io/topic?id=15591"/>
         <updated>2024-06-29T01:59:24.079Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr3"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
-- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">3</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr4"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
+- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 의 새로운 Set 메소드들 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15586</id>
         <link href="https://news.hada.io/topic?id=15586"/>
         <updated>2024-06-29T00:57:49.622Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr4"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr5"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI가 정치를 한다면 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15585</id>
         <link href="https://news.hada.io/topic?id=15585"/>
         <updated>2024-06-29T00:57:49.624Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15585"><a class="upvote" href="javascript:vote(15585, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gen-b.co/ai-politician/" rel="nofollow" id="tr5"><h1>AI가 정치를 한다면</h1></a> <span class="topicurl">(gen-b.co)</span></div><div class="topicdesc"><a href="topic?id=15585" class="c99 breakall">영국에 “스티브“라는 이름의 AI국회의원이 출마했고(뒤에는 인간이 있지만) 도쿄에서도 비슷한 사례가 있습니다.  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15585"><a class="upvote" href="javascript:vote(15585, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gen-b.co/ai-politician/" rel="nofollow" id="tr6"><h1>AI가 정치를 한다면</h1></a> <span class="topicurl">(gen-b.co)</span></div><div class="topicdesc"><a href="topic?id=15585" class="c99 breakall">영국에 “스티브“라는 이름의 AI국회의원이 출마했고(뒤에는 인간이 있지만) 도쿄에서도 비슷한 사례가 있습니다.  
   
-AI가 진짜로 정치를 한다...</a></div><div class="topicinfo"><span id="tp15585">1</span> point by <a href="/user?id=ljy8221">ljy8221</a> 24시간전<span id="unvote15585"></span> | <a href="topic?id=15585" class="u">댓글과 토론</a></div>]]></content>
+AI가 진짜로 정치를 한다...</a></div><div class="topicinfo"><span id="tp15585">1</span> point by <a href="/user?id=ljy8221">ljy8221</a> 1일전<span id="unvote15585"></span> | <a href="topic?id=15585" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Minimal Paged Attention (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15584</id>
         <link href="https://news.hada.io/topic?id=15584"/>
         <updated>2024-06-28T16:15:52.788Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15584"><a class="upvote" href="javascript:vote(15584, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/tspeterkim/paged-attention-minimal" rel="nofollow" id="tr6"><h1>Show GN: Minimal Paged Attention</h1></a> <span class="topicurl">(github.com/tspeterkim)</span></div><div class="topicinfo"><span id="tp15584">1</span> point by <a href="/user?id=tspeterkim">tspeterkim</a> 1일전<span id="unvote15584"></span> | <a href="topic?id=15584" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15584"><a class="upvote" href="javascript:vote(15584, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/tspeterkim/paged-attention-minimal" rel="nofollow" id="tr7"><h1>Show GN: Minimal Paged Attention</h1></a> <span class="topicurl">(github.com/tspeterkim)</span></div><div class="topicinfo"><span id="tp15584">1</span> point by <a href="/user?id=tspeterkim">tspeterkim</a> 1일전<span id="unvote15584"></span> | <a href="topic?id=15584" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다. (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15580</id>
         <link href="https://news.hada.io/topic?id=15580"/>
         <updated>2024-06-28T04:15:39.595Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15580"><a class="upvote" href="javascript:vote(15580, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders" rel="nofollow" id="tr7"><h1>AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다.</h1></a> <span class="topicurl">(wsj.com)</span></div><div class="topicdesc"><a href="topic?id=15580" class="c99 breakall">저는 줄곧 AI 붐에 대해 회의적인 입장이었습니다. 기존 기술에 AI라는 키워드만 더했을 뿐인데 가격이 배가 된다거나, 별로 대단치 않은 기술을 H...</a></div><div class="topicinfo"><span id="tp15580">4</span> points by <a href="/user?id=quarter">quarter</a> 2일전<span id="unvote15580"></span> | <a href="topic?id=15580" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15580"><a class="upvote" href="javascript:vote(15580, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0?utm_source=tldrfounders" rel="nofollow" id="tr8"><h1>AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다.</h1></a> <span class="topicurl">(wsj.com)</span></div><div class="topicdesc"><a href="topic?id=15580" class="c99 breakall">저는 줄곧 AI 붐에 대해 회의적인 입장이었습니다. 기존 기술에 AI라는 키워드만 더했을 뿐인데 가격이 배가 된다거나, 별로 대단치 않은 기술을 H...</a></div><div class="topicinfo"><span id="tp15580">4</span> points by <a href="/user?id=quarter">quarter</a> 2일전<span id="unvote15580"></span> | <a href="topic?id=15580" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 2024 승인 : 새로운 기능은? (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15579</id>
         <link href="https://news.hada.io/topic?id=15579"/>
         <updated>2024-06-28T04:15:39.587Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr8"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr9"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
 - `Map.groupBy()`는 iterable의 항목을 콜백에서 제공한 키를 가진 Map 항목으로 그룹화  
 - `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -423,7 +424,7 @@ AI가 진짜로 정치를 한다...</a></div><div class="topicinfo"><span id="tp
         <id>https://news.hada.io/topic?id=15574</id>
         <link href="https://news.hada.io/topic?id=15574"/>
         <updated>2024-06-28T02:02:30.168Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr9"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr10"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
 - 이는 구글의 앱들이 WasmGC에서 실행되도록 하는 선례를 만듦  
 -...</a></div><div class="topicinfo"><span id="tp15574">19</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15574"></span> | <a href="topic?id=15574" class="u">댓글 2개</a></div>]]></content>
     </entry>
@@ -432,7 +433,7 @@ AI가 진짜로 정치를 한다...</a></div><div class="topicinfo"><span id="tp
         <id>https://news.hada.io/topic?id=15568</id>
         <link href="https://news.hada.io/topic?id=15568"/>
         <updated>2024-06-28T00:59:11.463Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr10"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr11"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
   
 **[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">11</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -441,14 +442,14 @@ AI가 진짜로 정치를 한다...</a></div><div class="topicinfo"><span id="tp
         <id>https://news.hada.io/topic?id=15566</id>
         <link href="https://news.hada.io/topic?id=15566"/>
         <updated>2024-06-28T00:59:11.470Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15566"><a class="upvote" href="javascript:vote(15566, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theinformation.com/articles/amazon-to-launch-temu-like-discount-section-with-direct-shipping-from-china" rel="nofollow" id="tr11"><h1>Amazon, Temu와 비슷한 중국 직배송 할인 섹션 출시할 계획</h1></a> <span class="topicurl">(theinformation.com)</span></div><div class="topicdesc"><a href="topic?id=15566" class="c99 breakall">- 아마존이 Temu/Shein과 같은 초저가 사이트에 대응하기 위해 중국 창고에서 해외 소비자에게 직접 배송하는 저렴한 상품을 제공하는 섹션을 쇼핑...</a></div><div class="topicinfo"><span id="tp15566">1</span> point by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15566"></span> | <a href="topic?id=15566" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15566"><a class="upvote" href="javascript:vote(15566, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theinformation.com/articles/amazon-to-launch-temu-like-discount-section-with-direct-shipping-from-china" rel="nofollow" id="tr12"><h1>Amazon, Temu와 비슷한 중국 직배송 할인 섹션 출시할 계획</h1></a> <span class="topicurl">(theinformation.com)</span></div><div class="topicdesc"><a href="topic?id=15566" class="c99 breakall">- 아마존이 Temu/Shein과 같은 초저가 사이트에 대응하기 위해 중국 창고에서 해외 소비자에게 직접 배송하는 저렴한 상품을 제공하는 섹션을 쇼핑...</a></div><div class="topicinfo"><span id="tp15566">1</span> point by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15566"></span> | <a href="topic?id=15566" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15562</id>
         <link href="https://news.hada.io/topic?id=15562"/>
         <updated>2024-06-28T00:59:19.430Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15562"><a class="upvote" href="javascript:vote(15562, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15562" id="tr12"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=15562" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15562"><a class="upvote" href="javascript:vote(15562, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15562" id="tr13"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=15562" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
   
 읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.  
 도움 요청이나 피드백 ...</a></div><div class="topicinfo"><span id="tp15562">3</span> points by <a href="/user?id=askbot">askbot</a> 2일전<span id="unvote15562"></span> | <a href="topic?id=15562" class="u">댓글 1개</a></div>]]></content>
@@ -458,7 +459,7 @@ AI가 진짜로 정치를 한다...</a></div><div class="topicinfo"><span id="tp
         <id>https://news.hada.io/topic?id=15560</id>
         <link href="https://news.hada.io/topic?id=15560"/>
         <updated>2024-06-28T00:59:11.457Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr13"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr14"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
 Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오픈 언어 모델 새 계열입니다.  
 90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">7</span> points by <a href="/user?id=haebom">haebom</a> 2일전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 6개</a></div>]]></content>
     </entry>
@@ -467,14 +468,14 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
         <id>https://news.hada.io/topic?id=15559</id>
         <link href="https://news.hada.io/topic?id=15559"/>
         <updated>2024-06-27T16:16:35.067Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15559"><a class="upvote" href="javascript:vote(15559, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/robertpsoane/ducker" rel="nofollow" id="tr14"><h1>Ducker - 도커 컨테이너 관리용 터미널 앱</h1></a> <span class="topicurl">(github.com/robertpsoane)</span></div><div class="topicdesc"><a href="topic?id=15559" class="c99 breakall">Ducker라는 도구를 보게 되었는데, 터미널에서 컨테이너들을 직관적으로 관리하기 좋아 보입니다. </a></div><div class="topicinfo"><span id="tp15559">6</span> points by <a href="/user?id=bus710">bus710</a> 2일전<span id="unvote15559"></span> | <a href="topic?id=15559" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15559"><a class="upvote" href="javascript:vote(15559, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/robertpsoane/ducker" rel="nofollow" id="tr15"><h1>Ducker - 도커 컨테이너 관리용 터미널 앱</h1></a> <span class="topicurl">(github.com/robertpsoane)</span></div><div class="topicdesc"><a href="topic?id=15559" class="c99 breakall">Ducker라는 도구를 보게 되었는데, 터미널에서 컨테이너들을 직관적으로 관리하기 좋아 보입니다. </a></div><div class="topicinfo"><span id="tp15559">6</span> points by <a href="/user?id=bus710">bus710</a> 2일전<span id="unvote15559"></span> | <a href="topic?id=15559" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 위젯으로 주고받는 우리의 진짜 일상, 키핀 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15556</id>
         <link href="https://news.hada.io/topic?id=15556"/>
         <updated>2024-06-27T09:14:13.024Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15556"><a class="upvote" href="javascript:vote(15556, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15556" rel="nofollow" id="tr15"><h1>Show GN: 위젯으로 주고받는 우리의 진짜 일상, 키핀</h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=15556" class="c99 breakall">안녕하세요:) 저희는 위젯 기반 소셜네트워크 앱 서비스를 만들고 있는 팀 키핀입니다.  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15556"><a class="upvote" href="javascript:vote(15556, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15556" rel="nofollow" id="tr16"><h1>Show GN: 위젯으로 주고받는 우리의 진짜 일상, 키핀</h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=15556" class="c99 breakall">안녕하세요:) 저희는 위젯 기반 소셜네트워크 앱 서비스를 만들고 있는 팀 키핀입니다.  
   
 가깝고 소중한 친구에게만 내 일상을 공유하고 싶지...</a></div><div class="topicinfo"><span id="tp15556">1</span> point by <a href="/user?id=whatisvioletmustard">whatisvioletmustard</a> 3일전<span id="unvote15556"></span> | <a href="topic?id=15556" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -483,7 +484,7 @@ Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오�
         <id>https://news.hada.io/topic?id=15555</id>
         <link href="https://news.hada.io/topic?id=15555"/>
         <updated>2024-06-27T07:12:54.847Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15555"><a class="upvote" href="javascript:vote(15555, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.8thwall.com/blog/post/170524048722/introducing-niantic-studio" rel="nofollow" id="tr16"><h1>Niantic Studio 소개: 웹 기반 XR 및 3D 콘텐츠 제작의 미래</h1></a> <span class="topicurl">(8thwall.com)</span></div><div class="topicdesc"><a href="topic?id=15555" class="c99 breakall">브리핑  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15555"><a class="upvote" href="javascript:vote(15555, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.8thwall.com/blog/post/170524048722/introducing-niantic-studio" rel="nofollow" id="tr17"><h1>Niantic Studio 소개: 웹 기반 XR 및 3D 콘텐츠 제작의 미래</h1></a> <span class="topicurl">(8thwall.com)</span></div><div class="topicdesc"><a href="topic?id=15555" class="c99 breakall">브리핑  
 Niantic Studio는 웹 기반 XR 및 3D 콘텐츠 제작 도구로 실시간 비주얼 인터페이스를 통해 초보자부터 숙련된 개발자까지 손쉽게 사용할...</a></div><div class="topicinfo"><span id="tp15555">1</span> point by <a href="/user?id=wedding">wedding</a> 3일전<span id="unvote15555"></span> | <a href="topic?id=15555" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -491,7 +492,7 @@ Niantic Studio는 웹 기반 XR 및 3D 콘텐츠 제작 도구로 실시간 비�
         <id>https://news.hada.io/topic?id=15552</id>
         <link href="https://news.hada.io/topic?id=15552"/>
         <updated>2024-06-27T05:13:41.365Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15552"><a class="upvote" href="javascript:vote(15552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://insight.infograb.net/blog/2024/06/05/technical-debt-return/" rel="nofollow" id="tr17"><h1>기술 부채 개념, 유형, 해결 방법</h1></a> <span class="topicurl">(insight.infograb.net)</span></div><div class="topicdesc"><a href="topic?id=15552" class="c99 breakall">- 기술 부채 개념  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15552"><a class="upvote" href="javascript:vote(15552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://insight.infograb.net/blog/2024/06/05/technical-debt-return/" rel="nofollow" id="tr18"><h1>기술 부채 개념, 유형, 해결 방법</h1></a> <span class="topicurl">(insight.infograb.net)</span></div><div class="topicdesc"><a href="topic?id=15552" class="c99 breakall">- 기술 부채 개념  
     - 시간이 더 걸릴 수 있는 더 나은 접근 방식을 취하는 대신&nbsp;쉽지만 제한된 솔루션을 선택할 때 필요한, 향후 재작업의 ...</a></div><div class="topicinfo"><span id="tp15552">15</span> points by <a href="/user?id=ironlung">ironlung</a> 3일전<span id="unvote15552"></span> | <a href="topic?id=15552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -499,51 +500,39 @@ Niantic Studio는 웹 기반 XR 및 3D 콘텐츠 제작 도구로 실시간 비�
         <id>https://news.hada.io/topic?id=15550</id>
         <link href="https://news.hada.io/topic?id=15550"/>
         <updated>2024-06-27T03:15:16.577Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote15550"><a class="upvote" href="javascript:vote(15550, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15550" rel="nofollow" id="tr18"><h1>Show GN: 웹사이트나 유튜브 링크를 입력하면 요약을 해주는 Tilnote Gist</h1></a> <span class="topicurl">(tilnote.io)</span></div><div class="topicdesc"><a href="topic?id=15550" class="c99 breakall">틸노트 기스트는 웹사이트 링크나 유튜브 링크를 입력하면 GPT-3.5 Turbo, GPT-4o를 활용하여 요약을 해주는 서비스입니다. 무료로 사용하실 수 있...</a></div><div class="topicinfo"><span id="tp15550">5</span> points by <a href="/user?id=wislan">wislan</a> 3일전<span id="unvote15550"></span> | <a href="topic?id=15550" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote15550"><a class="upvote" href="javascript:vote(15550, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15550" rel="nofollow" id="tr19"><h1>Show GN: 웹사이트나 유튜브 링크를 입력하면 요약을 해주는 Tilnote Gist</h1></a> <span class="topicurl">(tilnote.io)</span></div><div class="topicdesc"><a href="topic?id=15550" class="c99 breakall">틸노트 기스트는 웹사이트 링크나 유튜브 링크를 입력하면 GPT-3.5 Turbo, GPT-4o를 활용하여 요약을 해주는 서비스입니다. 무료로 사용하실 수 있...</a></div><div class="topicinfo"><span id="tp15550">5</span> points by <a href="/user?id=wislan">wislan</a> 3일전<span id="unvote15550"></span> | <a href="topic?id=15550" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic, Claude Projects 기능 추가 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=15549</id>
         <link href="https://news.hada.io/topic?id=15549"/>
         <updated>2024-06-27T03:15:16.592Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote15549"><a class="upvote" href="javascript:vote(15549, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://support.anthropic.com/en/articles/9517075-what-are-projects" rel="nofollow" id="tr19"><h1>Anthropic, Claude Projects 기능 추가</h1></a> <span class="topicurl">(support.anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=15549" class="c99 breakall">- Pro/Team 요금제 사용자들이 자신만의 채팅 기록과 지식창고가 있는 독립된 작업 공간을 생성하고, Claude와의 채팅에 맥락을 제공하는 기능이 ...</a></div><div class="topicinfo"><span id="tp15549">4</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote15549"></span> | <a href="topic?id=15549" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15549"><a class="upvote" href="javascript:vote(15549, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://support.anthropic.com/en/articles/9517075-what-are-projects" rel="nofollow" id="tr20"><h1>Anthropic, Claude Projects 기능 추가</h1></a> <span class="topicurl">(support.anthropic.com)</span></div><div class="topicdesc"><a href="topic?id=15549" class="c99 breakall">- Pro/Team 요금제 사용자들이 자신만의 채팅 기록과 지식창고가 있는 독립된 작업 공간을 생성하고, Claude와의 채팅에 맥락을 제공하는 기능이 ...</a></div><div class="topicinfo"><span id="tp15549">4</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote15549"></span> | <a href="topic?id=15549" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Mail+Channel 원래 쓰던 이메일에 채널을 추가해서 스팸이랑 피싱을 추적하세요 (GeekNews ─ 최신글)]]></title>
-        <id>https://news.hada.io/topic?id=15548</id>
-        <link href="https://news.hada.io/topic?id=15548"/>
-        <updated>2024-06-27T02:01:43.263Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15548"><a class="upvote" href="javascript:vote(15548, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15548" rel="nofollow" id="tr20"><h1>Show GN: Mail+Channel 원래 쓰던 이메일에 채널을 추가해서 스팸이랑 피싱을 추적하세요</h1></a> <span class="topicurl">(keepwork.ing)</span></div><div class="topicdesc"><a href="topic?id=15548" class="c99 breakall">최근에 이메일의 +트릭에 대해 알게 되었습니다.  
-기존 이메일 ID 뒤에 +로 라벨을 지정 할 수 있는 기능인데요 이걸 잘 활용하면 스팸이나 피싱...</a></div><div class="topicinfo"><span id="tp15548">2</span> points by <a href="/user?id=keepworking">keepworking</a> 3일전<span id="unvote15548"></span> | <a href="topic?id=15548" class="u">댓글 4개</a></div>]]></content>
+        <title type="html"><![CDATA[Dorkly - 오픈 소스 Feature Flag 시스템 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://github.com/dorklyorg/dorkly/wiki</id>
+        <link href="https://github.com/dorklyorg/dorkly/wiki"/>
+        <updated>2024-06-30T01:04:18.741Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15602"><a class="upvote" href="javascript:vote(15602, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/dorklyorg/dorkly/wiki" rel="nofollow" id="tr1"><h1>Dorkly - 오픈 소스 Feature Flag 시스템</h1></a> <span class="topicurl">(github.com/dorklyorg)</span></div><div class="topicdesc"><a href="topic?id=15602" class="c99 breakall">- Git 기반의 오픈소스 Feature Flag 백엔드   
+- LaunchDarkly의 오픈 소스 SDK와 함께 사용 가능  
+  - 다양한 언어에서 LaunchDarkly의 SDK를...</a></div><div class="topicinfo"><span id="tp15602">1</span> point by <a href="/user?id=xguru">xguru</a> 5분전<span id="unvote15602"></span> | <a href="topic?id=15602" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 의 새로운 Set 메소드들 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://developer.mozilla.org/en-US/blog/javascript-set-methods/</id>
         <link href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/"/>
         <updated>2024-06-29T00:57:53.822Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr1"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15586"><a class="upvote" href="javascript:vote(15586, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developer.mozilla.org/en-US/blog/javascript-set-methods/" rel="nofollow" id="tr2"><h1>JavaScript 의 새로운 Set 메소드들</h1></a> <span class="topicurl">(developer.mozilla.org)</span></div><div class="topicdesc"><a href="topic?id=15586" class="c99 breakall">- Firefox 127부터 대부분의 주요 브라우저 엔진에서 새로운 `Set` 메서드들을 사용할 수 있게 되어, Polyfill 없이도 어디서나 이 메서드들을 사...</a></div><div class="topicinfo"><span id="tp15586">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15586"></span> | <a href="topic?id=15586" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://web.dev/case-studies/google-sheets-wasmgc</id>
         <link href="https://web.dev/case-studies/google-sheets-wasmgc"/>
         <updated>2024-06-28T02:02:33.945Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr2"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15574"><a class="upvote" href="javascript:vote(15574, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://web.dev/case-studies/google-sheets-wasmgc" rel="nofollow" id="tr3"><h1>Google Sheets가 계산 워커를 JavaScript에서 WasmGC로 포팅한 이유</h1></a> <span class="topicurl">(web.dev)</span></div><div class="topicdesc"><a href="topic?id=15574" class="c99 breakall">- 구글 시트 팀은 2022년 크롬의 WasmGC 사용을 발표후, 서로 협력해왔음   
 - 이는 구글의 앱들이 WasmGC에서 실행되도록 하는 선례를 만듦  
 -...</a></div><div class="topicinfo"><span id="tp15574">19</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15574"></span> | <a href="topic?id=15574" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개! (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://discord.gg/openfreeai</id>
-        <link href="https://discord.gg/openfreeai"/>
-        <updated>2024-06-29T01:59:28.119Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15592"><a class="upvote" href="javascript:vote(15592, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discord.gg/openfreeai" rel="nofollow" id="tr3"><h1>한국 AI의 힘! '한글 소라'로 몇 초 안에 영상 만들기 | 무료 AI 서비스 대공개!</h1></a> <span class="topicurl">(discord.gg)</span></div><div class="topicdesc"><a href="topic?id=15592" class="c99 breakall">안녕하세요.  
-  
-🌟 대한민국의 AI 혁신, '한글 소라' 무료 영상 생성 서비스를 만나보세요!   
-  
-🌟 안녕하세요, 여러분!   
-  
-오늘 여러...</a></div><div class="topicinfo"><span id="tp15592">5</span> points by <a href="/user?id=seawolf">seawolf</a> 22시간전<span id="unvote15592"></span> | <a href="topic?id=15592" class="u">댓글 16개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문제 해결을 위한 3단계 프레임워크 가이드 (GeekNews ─ 최신글 원문)]]></title>
@@ -580,24 +569,24 @@ Niantic Studio는 웹 기반 XR 및 3D 콘텐츠 제작 도구로 실시간 비�
         <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"/>
         <updated>2024-06-29T01:59:28.118Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15593"><a class="upvote" href="javascript:vote(15593, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/" rel="nofollow" id="tr7"><h1>TypeScript 5.5 릴리즈</h1></a> <span class="topicurl">(devblogs.microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=15593" class="c99 breakall">* Inferred Type Predicates: TypeScript가 특정 조건 하에서 함수가 Type Predicates를 반환한다고 추론할 수 있게 됨  
-* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">4</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://news.hada.io/topic?id=15568</id>
-        <link href="https://news.hada.io/topic?id=15568"/>
-        <updated>2024-06-28T00:59:11.463Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr8"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
-  
-**[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">11</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
+* Constant Indexed Acc...</a></div><div class="topicinfo"><span id="tp15593">4</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote15593"></span> | <a href="topic?id=15593" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1인 개발자로서 어떻게 체계적으로 관리하시나요? (GeekNews ─ 최신글 원문)]]></title>
         <id>https://news.ycombinator.com/item?id=40742831</id>
         <link href="https://news.ycombinator.com/item?id=40742831"/>
         <updated>2024-06-25T03:14:48.707Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15513"><a class="upvote" href="javascript:vote(15513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40742831" rel="nofollow" id="tr9"><h1>1인 개발자로서 어떻게 체계적으로 관리하시나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15513" class="c99 breakall">- 팀과 함께 일할 때는 스크럼과 같은 단기 목표와 체계적인 작업 백로그가 집중력을 유지하고 해야 할 일을 추적하는 데 정말 도움이 되었음   
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15513"><a class="upvote" href="javascript:vote(15513, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40742831" rel="nofollow" id="tr8"><h1>1인 개발자로서 어떻게 체계적으로 관리하시나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15513" class="c99 breakall">- 팀과 함께 일할 때는 스크럼과 같은 단기 목표와 체계적인 작업 백로그가 집중력을 유지하고 해야 할 일을 추적하는 데 정말 도움이 되었음   
 ...</a></div><div class="topicinfo"><span id="tp15513">49</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote15513"></span> | <a href="topic?id=15513" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://news.hada.io/topic?id=15568</id>
+        <link href="https://news.hada.io/topic?id=15568"/>
+        <updated>2024-06-28T00:59:11.463Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15568"><a class="upvote" href="javascript:vote(15568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15568" rel="nofollow" id="tr9"><h1>Show GN: Suspense를 안전하고 편리하게 쓰기 위한 라이브러리, Suspensive</h1></a> <span class="topicurl">(github.com/toss)</span></div><div class="topicdesc"><a href="topic?id=15568" class="c99 breakall">안녕하세요, 토스의 프론트엔드 개발자들이 오픈 소스로 운영하는 Suspensive 라이브러리를 소개드려요.  
+  
+**[React에서 Suspense 사용하기]*...</a></div><div class="topicinfo"><span id="tp15568">11</span> points by <a href="/user?id=raon0211">raon0211</a> 2일전<span id="unvote15568"></span> | <a href="topic?id=15568" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[README Driven Development (2010) (GeekNews ─ 최신글 원문)]]></title>
@@ -608,12 +597,11 @@ Niantic Studio는 웹 기반 XR 및 3D 콘텐츠 제작 도구로 실시간 비�
 - TDD, BDD, Extreme Programming, SCRUM 등의 다양한 개발 방법론...</a></div><div class="topicinfo"><span id="tp15502">41</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote15502"></span> | <a href="topic?id=15502" class="u">댓글 9개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://github.com/corcel/corcel</id>
-        <link href="https://github.com/corcel/corcel"/>
-        <updated>2024-06-29T01:59:28.119Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr11"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
-- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">3</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[카카오톡에서 원클릭 익스플로잇 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://stulle123.github.io/posts/kakaotalk-account-takeover/</id>
+        <link href="https://stulle123.github.io/posts/kakaotalk-account-takeover/"/>
+        <updated>2024-06-26T02:01:26.393Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15528"><a class="upvote" href="javascript:vote(15528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stulle123.github.io/posts/kakaotalk-account-takeover/" rel="nofollow" id="tr11"><h1>카카오톡에서 원클릭 익스플로잇</h1></a> <span class="topicurl">(stulle123.github.io)</span></div><div class="topicdesc"><a href="topic?id=15528" class="c99 breakall">카카오톡의 딥링크 유효성 검사 문제로 10.4.3인해 원격 공격자가 WebView에서 임의의 JavaScript를 실행하여 HTTP 요청 헤더에서 액세스 토큰을 ...</a></div><div class="topicinfo"><span id="tp15528">26</span> points by <a href="/user?id=wedding">wedding</a> 4일전<span id="unvote15528"></span> | <a href="topic?id=15528" class="u">댓글 15개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 부채 개념, 유형, 해결 방법 (GeekNews ─ 최신글 원문)]]></title>
@@ -624,47 +612,48 @@ Niantic Studio는 웹 기반 XR 및 3D 콘텐츠 제작 도구로 실시간 비�
     - 시간이 더 걸릴 수 있는 더 나은 접근 방식을 취하는 대신&nbsp;쉽지만 제한된 솔루션을 선택할 때 필요한, 향후 재작업의 ...</a></div><div class="topicinfo"><span id="tp15552">15</span> points by <a href="/user?id=ironlung">ironlung</a> 3일전<span id="unvote15552"></span> | <a href="topic?id=15552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오톡에서 원클릭 익스플로잇 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://stulle123.github.io/posts/kakaotalk-account-takeover/</id>
-        <link href="https://stulle123.github.io/posts/kakaotalk-account-takeover/"/>
-        <updated>2024-06-26T02:01:26.393Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15528"><a class="upvote" href="javascript:vote(15528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stulle123.github.io/posts/kakaotalk-account-takeover/" rel="nofollow" id="tr13"><h1>카카오톡에서 원클릭 익스플로잇</h1></a> <span class="topicurl">(stulle123.github.io)</span></div><div class="topicdesc"><a href="topic?id=15528" class="c99 breakall">카카오톡의 딥링크 유효성 검사 문제로 10.4.3인해 원격 공격자가 WebView에서 임의의 JavaScript를 실행하여 HTTP 요청 헤더에서 액세스 토큰을 ...</a></div><div class="topicinfo"><span id="tp15528">26</span> points by <a href="/user?id=wedding">wedding</a> 4일전<span id="unvote15528"></span> | <a href="topic?id=15528" class="u">댓글 15개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://ai.google.dev/gemma</id>
-        <link href="https://ai.google.dev/gemma"/>
-        <updated>2024-06-28T00:59:15.311Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr14"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
-Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오픈 언어 모델 새 계열입니다.  
-90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">7</span> points by <a href="/user?id=haebom">haebom</a> 2일전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 6개</a></div>]]></content>
+        <title type="html"><![CDATA[Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://github.com/corcel/corcel</id>
+        <link href="https://github.com/corcel/corcel"/>
+        <updated>2024-06-29T01:59:28.119Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote15591"><a class="upvote" href="javascript:vote(15591, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/corcel/corcel" rel="nofollow" id="tr13"><h1>Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기</h1></a> <span class="topicurl">(github.com/corcel)</span></div><div class="topicdesc"><a href="topic?id=15591" class="c99 breakall">- Laravel의 Eloquent ORM 기반으로 WordPress 데이터베이스에서 직접 데이터를 쉽게 가져올 수 있도록 해주는 PHP 클래스 모음  
+- WordPress를 ...</a></div><div class="topicinfo"><span id="tp15591">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15591"></span> | <a href="topic?id=15591" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://danilafe.com/blog/blog_microfeatures/</id>
         <link href="https://danilafe.com/blog/blog_microfeatures/"/>
         <updated>2024-06-29T04:16:49.402Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15503"><a class="upvote" href="javascript:vote(15503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://danilafe.com/blog/blog_microfeatures/" rel="nofollow" id="tr15"><h1>GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 </h1></a> <span class="topicurl">(danilafe.com)</span></div><div class="topicdesc"><a href="topic?id=15503" class="c99 breakall">- 블로그의 사용자 경험을 향상시키는 마이크로 기능들에 대한 소개   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote15503"><a class="upvote" href="javascript:vote(15503, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://danilafe.com/blog/blog_microfeatures/" rel="nofollow" id="tr14"><h1>GN⁺: 블로그/개인 웹사이트에서 좋아하는 마이크로 기능들 </h1></a> <span class="topicurl">(danilafe.com)</span></div><div class="topicdesc"><a href="topic?id=15503" class="c99 breakall">- 블로그의 사용자 경험을 향상시키는 마이크로 기능들에 대한 소개   
   
 ### 사이드노트  
 - 본문을 방해하지 않고 추가 정보를 제공하는 기...</a></div><div class="topicinfo"><span id="tp15503">31</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote15503"></span> | <a href="topic?id=15503" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECMAScript 2024 승인 : 새로운 기능은? (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://2ality.com/2024/06/ecmascript-2024.html</id>
-        <link href="https://2ality.com/2024/06/ecmascript-2024.html"/>
-        <updated>2024-06-28T04:15:43.487Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr16"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
-- `Map.groupBy()`는 iterable의 항목을 콜백에서 제공한 키를 가진 Map 항목으로 그룹화  
-- `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://ai.google.dev/gemma</id>
+        <link href="https://ai.google.dev/gemma"/>
+        <updated>2024-06-28T00:59:15.311Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15560"><a class="upvote" href="javascript:vote(15560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ai.google.dev/gemma" rel="nofollow" id="tr15"><h1>Gemma 2: 실용적인 규모의 오픈 언어 모델 개선</h1></a> <span class="topicurl">(ai.google.dev)</span></div><div class="topicdesc"><a href="topic?id=15560" class="c99 breakall">### 주요 포인트:  
+Gemma 2는 2억에서 270억 매개변수 범위의 경량화된 최첨단 오픈 언어 모델 새 계열입니다.  
+90억과 270억 매개변수 모델은...</a></div><div class="topicinfo"><span id="tp15560">7</span> points by <a href="/user?id=haebom">haebom</a> 2일전<span id="unvote15560"></span> | <a href="topic?id=15560" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html</id>
         <link href="https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html"/>
         <updated>2024-06-27T00:59:11.362Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15535"><a class="upvote" href="javascript:vote(15535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html" rel="nofollow" id="tr17"><h1>GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자</h1></a> <span class="topicurl">(dotenvx.com)</span></div><div class="topicdesc"><a href="topic?id=15535" class="c99 breakall">- 2013년 7월에 dotenv 첫 번째 커밋후 11년 동안 전 세계적으로 가장 많이 의존하는 패키지 중 하나로 성장  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15535"><a class="upvote" href="javascript:vote(15535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html" rel="nofollow" id="tr16"><h1>GN⁺: dotenv 에서 dotenvx 로 - 차세대 Config 관리자</h1></a> <span class="topicurl">(dotenvx.com)</span></div><div class="topicdesc"><a href="topic?id=15535" class="c99 breakall">- 2013년 7월에 dotenv 첫 번째 커밋후 11년 동안 전 세계적으로 가장 많이 의존하는 패키지 중 하나로 성장  
 - TypeScript, ESLint와 같은 필수...</a></div><div class="topicinfo"><span id="tp15535">16</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote15535"></span> | <a href="topic?id=15535" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2024 승인 : 새로운 기능은? (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://2ality.com/2024/06/ecmascript-2024.html</id>
+        <link href="https://2ality.com/2024/06/ecmascript-2024.html"/>
+        <updated>2024-06-28T04:15:43.487Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15579"><a class="upvote" href="javascript:vote(15579, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://2ality.com/2024/06/ecmascript-2024.html" rel="nofollow" id="tr17"><h1>ECMAScript 2024 승인 : 새로운 기능은?</h1></a> <span class="topicurl">(2ality.com)</span></div><div class="topicdesc"><a href="topic?id=15579" class="c99 breakall">## 동기 iterable 그룹화  
+- `Map.groupBy()`는 iterable의 항목을 콜백에서 제공한 키를 가진 Map 항목으로 그룹화  
+- `Object.groupBy()`는 ...</a></div><div class="topicinfo"><span id="tp15579">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote15579"></span> | <a href="topic?id=15579" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: KT, 웹하드 사용자에게 악성코드 공격 (GeekNews ─ 최신글 원문)]]></title>
