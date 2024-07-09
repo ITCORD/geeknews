@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-07-09T05:13:54.764Z</updated>
+    <updated>2024-07-09T06:19:57.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: SEO 진단 리포트와 키워드 성과 분석]]></title>
+        <id>https://news.hada.io/topic?id=15761</id>
+        <link href="https://news.hada.io/topic?id=15761"/>
+        <updated>2024-07-09T06:19:36.582Z</updated>
+        <content type="html"><![CDATA[hankor]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 무료 ERD 작성 도구 ERD9, 그리고 ChatGPT]]></title>
         <id>https://news.hada.io/topic?id=15726</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15225"/>
         <updated>2024-06-07T15:14:08.338Z</updated>
         <content type="html"><![CDATA[beomi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Mail+Channel 원래 쓰던 이메일에 채널을 추가해서 스팸이랑 피싱을 추적하세요]]></title>
-        <id>https://news.hada.io/topic?id=15548</id>
-        <link href="https://news.hada.io/topic?id=15548"/>
-        <updated>2024-06-27T02:01:59.011Z</updated>
-        <content type="html"><![CDATA[keepworking]]></content>
     </entry>
 </feed>
