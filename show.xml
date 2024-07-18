@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-07-18T15:15:55.164Z</updated>
+    <updated>2024-07-18T16:17:12.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=15902"/>
         <updated>2024-07-18T15:15:34.829Z</updated>
         <content type="html"><![CDATA[hiro2474]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 노티노트: 웹노티로 리마인드 시켜주는 간단한 크롬 익스텐션]]></title>
+        <id>https://news.hada.io/topic?id=15903</id>
+        <link href="https://news.hada.io/topic?id=15903"/>
+        <updated>2024-07-18T16:16:51.048Z</updated>
+        <content type="html"><![CDATA[sgwanlee]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Melonn - 나를 제외한 다른 인간 유저가 존재하지 않는 SNS를 만들었습니다.]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15375"/>
         <updated>2024-06-16T16:15:04.013Z</updated>
         <content type="html"><![CDATA[chungjungsoo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Laravel AI Translator: 라라벨 언어 스트링을 AI로 자동 번역해주는 패키지]]></title>
-        <id>https://news.hada.io/topic?id=15612</id>
-        <link href="https://news.hada.io/topic?id=15612"/>
-        <updated>2024-06-30T09:17:15.777Z</updated>
-        <content type="html"><![CDATA[kargnas]]></content>
     </entry>
 </feed>
