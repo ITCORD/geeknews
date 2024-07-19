@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-07-19T13:16:58.602Z</updated>
+    <updated>2024-07-19T14:15:07.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 간단히 붙여쓰는 파일첨부 Saas]]></title>
+        <id>https://news.hada.io/topic?id=15922</id>
+        <link href="https://news.hada.io/topic?id=15922"/>
+        <updated>2024-07-19T14:14:46.437Z</updated>
+        <content type="html"><![CDATA[filekiwi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Firexport - One-click firestore export]]></title>
         <id>https://news.hada.io/topic?id=15902</id>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[rudxor02]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: SEO 진단 리포트와 키워드 성과 분석]]></title>
-        <id>https://news.hada.io/topic?id=15761</id>
-        <link href="https://news.hada.io/topic?id=15761"/>
-        <updated>2024-07-09T06:19:36.582Z</updated>
-        <content type="html"><![CDATA[hankor]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: es-toolkit: 2-3배 빠르고, 97% 작은 lodash 대체 라이브러리]]></title>
         <id>https://news.hada.io/topic?id=15319</id>
         <link href="https://news.hada.io/topic?id=15319"/>
         <updated>2024-06-13T02:01:32.450Z</updated>
         <content type="html"><![CDATA[raon0211]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: SEO 진단 리포트와 키워드 성과 분석]]></title>
+        <id>https://news.hada.io/topic?id=15761</id>
+        <link href="https://news.hada.io/topic?id=15761"/>
+        <updated>2024-07-09T06:19:36.582Z</updated>
+        <content type="html"><![CDATA[hankor]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ChatGPT를 이용한 iOS SMS 필터링 앱]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15054"/>
         <updated>2024-05-28T02:31:09.944Z</updated>
         <content type="html"><![CDATA[laeyoung]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: GPTMobile: 여러 LLM 플랫폼과 동시에 채팅할 수 있는 안드로이드 앱]]></title>
-        <id>https://news.hada.io/topic?id=15375</id>
-        <link href="https://news.hada.io/topic?id=15375"/>
-        <updated>2024-06-16T16:15:04.013Z</updated>
-        <content type="html"><![CDATA[chungjungsoo]]></content>
     </entry>
 </feed>
