@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-07-19T02:06:18.674Z</updated>
+    <updated>2024-07-19T02:07:16.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,20 @@
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15914"><a class="upvote" href="javascript:vote(15914, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.notion.so/ko-kr/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite" rel="nofollow" id="tr1"><h1>Notion이 WASM SQLite로 브라우저에서의 속도를 향상시킨 방법</h1></a> <span class="topicurl">(notion.so)</span></div><div class="topicdesc"><a href="topic?id=15914" class="c99 breakall">* 3년 전 Notion은 SQLite 데이터베이스를 사용하여 클라이언트에 데이터를 캐싱함으로써 Mac과 Windows용 Notion 앱의 속도를 성공적으로 향상시...</a></div><div class="topicinfo"><span id="tp15914">3</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote15914"></span> | <a href="topic?id=15914" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GN⁺: Mistral NeMo 출시]]></title>
+        <id>https://mistral.ai/news/mistral-nemo/</id>
+        <link href="https://mistral.ai/news/mistral-nemo/"/>
+        <updated>2024-07-19T02:05:52.558Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15907"><a class="upvote" href="javascript:vote(15907, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mistral.ai/news/mistral-nemo/" rel="nofollow" id="tr2"><h1>GN⁺: Mistral NeMo 출시</h1></a> <span class="topicurl">(mistral.ai)</span></div><div class="topicdesc"><a href="topic?id=15907" class="c99 breakall">- NVIDIA와 협력하여 개발된 120억 파라미터 모델인 Mistral NeMo를 출시  
+- 최대 128k 토큰의 큰 컨텍스트 윈도우 제공  
+- 추론, 세계 지식, ...</a></div><div class="topicinfo"><span id="tp15907">2</span> points by <a href="/user?id=neo">neo</a> 1시간전<span id="unvote15907"></span> | <a href="topic?id=15907" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Posting - 터미널용 HTTP API 클라이언트]]></title>
         <id>https://github.com/darrenburns/posting</id>
         <link href="https://github.com/darrenburns/posting"/>
         <updated>2024-07-19T02:05:52.549Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote15905"><a class="upvote" href="javascript:vote(15905, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/darrenburns/posting" rel="nofollow" id="tr2"><h1>Posting - 터미널용 HTTP API 클라이언트</h1></a> <span class="topicurl">(github.com/darrenburns)</span></div><div class="topicdesc"><a href="topic?id=15905" class="c99 breakall">- Textual로 개발된 TUI 어플리케이션   
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15905"><a class="upvote" href="javascript:vote(15905, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/darrenburns/posting" rel="nofollow" id="tr3"><h1>Posting - 터미널용 HTTP API 클라이언트</h1></a> <span class="topicurl">(github.com/darrenburns)</span></div><div class="topicdesc"><a href="topic?id=15905" class="c99 breakall">- Textual로 개발된 TUI 어플리케이션   
 - "점프 모드" 탐색 : Ctrl+o를 누르면 키 오버레이가 화면에 나타나 해당 키를 눌러 원하는 위젯으로 ...</a></div><div class="topicinfo"><span id="tp15905">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote15905"></span> | <a href="topic?id=15905" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -25,7 +34,7 @@
         <id>https://www.aeca.ai/ko/blog/posts/2024-07-17-demo-law-2d-vector</id>
         <link href="https://www.aeca.ai/ko/blog/posts/2024-07-17-demo-law-2d-vector"/>
         <updated>2024-07-19T02:05:52.552Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote15904"><a class="upvote" href="javascript:vote(15904, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.aeca.ai/ko/blog/posts/2024-07-17-demo-law-2d-vector" rel="nofollow" id="tr3"><h1>우리는 왜 벡터 검색을 위해 2차원 벡터를 저장하게 되었나?</h1></a> <span class="topicurl">(aeca.ai)</span></div><div class="topicdesc"><a href="topic?id=15904" class="c99 breakall"># 문제점  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15904"><a class="upvote" href="javascript:vote(15904, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.aeca.ai/ko/blog/posts/2024-07-17-demo-law-2d-vector" rel="nofollow" id="tr4"><h1>우리는 왜 벡터 검색을 위해 2차원 벡터를 저장하게 되었나?</h1></a> <span class="topicurl">(aeca.ai)</span></div><div class="topicdesc"><a href="topic?id=15904" class="c99 breakall"># 문제점  
   
 - 시맨틱/자연어 검색,  RAG를 위해서는 벡터 임베딩을 해야함  
 - 대부분의 임베딩 모델은 입력 길이 제한이 있음  
@@ -36,7 +45,7 @@
         <id>https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/</id>
         <link href="https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/"/>
         <updated>2024-07-18T01:00:08.042Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote15894"><a class="upvote" href="javascript:vote(15894, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/" rel="nofollow" id="tr4"><h1>구글은 이제 기본적으로 당신의 콘텐츠를 인덱싱하지 않는다</h1></a> <span class="topicurl">(vincentschmalbach.com)</span></div><div class="topicdesc"><a href="topic?id=15894" class="c99 breakall">- 10년 전에는 새로운 워드프레스 블로그를 시작하면 구글이 몇 시간, 때로는 몇 분 안에 콘텐츠를 인덱싱함  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15894"><a class="upvote" href="javascript:vote(15894, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/" rel="nofollow" id="tr5"><h1>구글은 이제 기본적으로 당신의 콘텐츠를 인덱싱하지 않는다</h1></a> <span class="topicurl">(vincentschmalbach.com)</span></div><div class="topicdesc"><a href="topic?id=15894" class="c99 breakall">- 10년 전에는 새로운 워드프레스 블로그를 시작하면 구글이 몇 시간, 때로는 몇 분 안에 콘텐츠를 인덱싱함  
 - 구글의 사명은 "세계의 정보를 ...</a></div><div class="topicinfo"><span id="tp15894">14</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15894"></span> | <a href="topic?id=15894" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
@@ -44,14 +53,14 @@
         <id>https://news.hada.io/topic?id=15902</id>
         <link href="https://news.hada.io/topic?id=15902"/>
         <updated>2024-07-18T15:15:30.175Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote15902"><a class="upvote" href="javascript:vote(15902, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15902" rel="nofollow" id="tr5"><h1>Show GN: Firexport - One-click firestore export</h1></a> <span class="topicurl">(firexport.dev)</span></div><div class="topicdesc"><a href="topic?id=15902" class="c99 breakall">firebase console에서 firestore 데이터를 곧바로 export할 수 있는 크롬 익스텐션입니다. 기존 firestore export 과정이 불편해서 만들었습니다. ...</a></div><div class="topicinfo"><span id="tp15902">5</span> points by <a href="/user?id=hiro2474">hiro2474</a> 11시간전<span id="unvote15902"></span> | <a href="topic?id=15902" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15902"><a class="upvote" href="javascript:vote(15902, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=15902" rel="nofollow" id="tr6"><h1>Show GN: Firexport - One-click firestore export</h1></a> <span class="topicurl">(firexport.dev)</span></div><div class="topicdesc"><a href="topic?id=15902" class="c99 breakall">firebase console에서 firestore 데이터를 곧바로 export할 수 있는 크롬 익스텐션입니다. 기존 firestore export 과정이 불편해서 만들었습니다. ...</a></div><div class="topicinfo"><span id="tp15902">5</span> points by <a href="/user?id=hiro2474">hiro2474</a> 11시간전<span id="unvote15902"></span> | <a href="topic?id=15902" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Ask HN: 2024년의 Prolog 전망은 어떤가요?]]></title>
         <id>https://news.ycombinator.com/item?id=40994552</id>
         <link href="https://news.ycombinator.com/item?id=40994552"/>
         <updated>2024-07-19T02:05:52.556Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote15909"><a class="upvote" href="javascript:vote(15909, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40994552" rel="nofollow" id="tr6"><h1>GN⁺: Ask HN: 2024년의 Prolog 전망은 어떤가요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15909" class="c99 breakall">- 컴퓨터 과학 학생으로서 Prolog와 논리 프로그래밍을 공부 중임  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15909"><a class="upvote" href="javascript:vote(15909, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40994552" rel="nofollow" id="tr7"><h1>GN⁺: Ask HN: 2024년의 Prolog 전망은 어떤가요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15909" class="c99 breakall">- 컴퓨터 과학 학생으로서 Prolog와 논리 프로그래밍을 공부 중임  
 - 바닐라 프로로그의 기본(원자, 술어, 컷, 리스트 등)을 배웠고, SICStus 프...</a></div><div class="topicinfo"><span id="tp15909">1</span> point by <a href="/user?id=neo">neo</a> 1시간전<span id="unvote15909"></span> | <a href="topic?id=15909" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -59,17 +68,8 @@
         <id>https://github.com/guywaldman/magic-cli</id>
         <link href="https://github.com/guywaldman/magic-cli"/>
         <updated>2024-07-19T02:05:52.557Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15908"><a class="upvote" href="javascript:vote(15908, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/guywaldman/magic-cli" rel="nofollow" id="tr7"><h1>Magic CLI - 커맨드라인을 위한 CoPilot</h1></a> <span class="topicurl">(github.com/guywaldman)</span></div><div class="topicdesc"><a href="topic?id=15908" class="c99 breakall">- LLM을 이용하여 커맨드라인을 효율적으로 사용하게 만들어주는 도구   
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15908"><a class="upvote" href="javascript:vote(15908, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/guywaldman/magic-cli" rel="nofollow" id="tr8"><h1>Magic CLI - 커맨드라인을 위한 CoPilot</h1></a> <span class="topicurl">(github.com/guywaldman)</span></div><div class="topicdesc"><a href="topic?id=15908" class="c99 breakall">- LLM을 이용하여 커맨드라인을 효율적으로 사용하게 만들어주는 도구   
   - Amazon Q(예전 Fig Terminal) 및 GitHub Copilot for CLI 에서 영감...</a></div><div class="topicinfo"><span id="tp15908">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote15908"></span> | <a href="topic?id=15908" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Mistral NeMo 출시]]></title>
-        <id>https://mistral.ai/news/mistral-nemo/</id>
-        <link href="https://mistral.ai/news/mistral-nemo/"/>
-        <updated>2024-07-19T02:05:52.558Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15907"><a class="upvote" href="javascript:vote(15907, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mistral.ai/news/mistral-nemo/" rel="nofollow" id="tr8"><h1>GN⁺: Mistral NeMo 출시</h1></a> <span class="topicurl">(mistral.ai)</span></div><div class="topicdesc"><a href="topic?id=15907" class="c99 breakall">- NVIDIA와 협력하여 개발된 120억 파라미터 모델인 Mistral NeMo를 출시  
-- 최대 128k 토큰의 큰 컨텍스트 윈도우 제공  
-- 추론, 세계 지식, ...</a></div><div class="topicinfo"><span id="tp15907">1</span> point by <a href="/user?id=neo">neo</a> 1시간전<span id="unvote15907"></span> | <a href="topic?id=15907" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자발적 이탈을 개선해 리텐션을 높이는 6가지 전략]]></title>
