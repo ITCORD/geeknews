@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-07-23T02:32:52.738Z</updated>
+    <updated>2024-07-23T03:16:51.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Dev.POST: TechBlog AI Generator - 자동으로 써주는 기술 블로그]]></title>
+        <id>https://news.hada.io/topic?id=15981</id>
+        <link href="https://news.hada.io/topic?id=15981"/>
+        <updated>2024-07-23T03:16:30.475Z</updated>
+        <content type="html"><![CDATA[dankim304]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: RawGitExtension]]></title>
         <id>https://news.hada.io/topic?id=15964</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[qu3vipon]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 간단히 붙여쓰는 파일첨부 Saas]]></title>
-        <id>https://news.hada.io/topic?id=15922</id>
-        <link href="https://news.hada.io/topic?id=15922"/>
-        <updated>2024-07-21T16:17:22.701Z</updated>
-        <content type="html"><![CDATA[filekiwi]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Moonlight: 논문 3배 빨리 이해하기]]></title>
         <id>https://news.hada.io/topic?id=15628</id>
         <link href="https://news.hada.io/topic?id=15628"/>
         <updated>2024-07-21T16:17:22.704Z</updated>
         <content type="html"><![CDATA[adldotori]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 간단히 붙여쓰는 파일첨부 Saas]]></title>
+        <id>https://news.hada.io/topic?id=15922</id>
+        <link href="https://news.hada.io/topic?id=15922"/>
+        <updated>2024-07-21T16:17:22.701Z</updated>
+        <content type="html"><![CDATA[filekiwi]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Trace - LLM 기반의 미니멀한 세컨드브레인 메모 앱]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15761"/>
         <updated>2024-07-21T16:17:22.731Z</updated>
         <content type="html"><![CDATA[hankor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 웹사이트나 유튜브 링크를 입력하면 요약을 해주는 Tilnote Gist]]></title>
-        <id>https://news.hada.io/topic?id=15550</id>
-        <link href="https://news.hada.io/topic?id=15550"/>
-        <updated>2024-07-21T16:17:22.734Z</updated>
-        <content type="html"><![CDATA[wislan]]></content>
     </entry>
 </feed>
