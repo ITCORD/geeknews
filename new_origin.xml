@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-07-25T07:15:53.233Z</updated>
+    <updated>2024-07-25T08:18:22.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2024-07-24T02:32:30.184Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote15996"><a class="upvote" href="javascript:vote(15996, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bigthink.com/starts-with-a-bang/einstein-rules-better-life/" rel="nofollow" id="tr1"><h1>아인슈타인의 더 나은 삶을 위한 7가지 규칙</h1></a> <span class="topicurl">(bigthink.com)</span></div><div class="topicdesc"><a href="topic?id=15996" class="c99 breakall">## 중요한 일에 힘을 쏟아라  
   
-- 아인슈타인은 늘 불규칙한 머리와 낡고 후줄근한 옷차림으로 유명했음. 개인적인 외모에 신경 쓰지 않았으며...</a></div><div class="topicinfo"><span id="tp15996">45</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15996"></span> | <a href="topic?id=15996" class="u">댓글 4개</a></div>]]></content>
+- 아인슈타인은 늘 불규칙한 머리와 낡고 후줄근한 옷차림으로 유명했음. 개인적인 외모에 신경 쓰지 않았으며...</a></div><div class="topicinfo"><span id="tp15996">46</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15996"></span> | <a href="topic?id=15996" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node 22.5.0, sqlite 를 내장하고 Websocket 지원]]></title>
@@ -21,15 +21,14 @@
         <updated>2024-07-25T02:07:18.799Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote16013"><a class="upvote" href="javascript:vote(16013, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nodejs/node/releases/tag/v22.5.0" rel="nofollow" id="tr2"><h1>Node 22.5.0, sqlite 를 내장하고 Websocket 지원</h1></a> <span class="topicurl">(github.com/nodejs)</span></div><div class="topicdesc"><a href="topic?id=16013" class="c99 breakall">- `node:sqlite` 로 내장 SQLite 사용 가능  
   - 인메모리 DB를 생성하고 SQL로 테이블 생성 및 데이터 넣기/조회가 가능해짐   
-  - `import {...</a></div><div class="topicinfo"><span id="tp16013">5</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote16013"></span> | <a href="topic?id=16013" class="u">댓글 2개</a></div>]]></content>
+  - `import {...</a></div><div class="topicinfo"><span id="tp16013">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote16013"></span> | <a href="topic?id=16013" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Mistral Large 2 모델 공개]]></title>
-        <id>https://mistral.ai/news/mistral-large-2407/</id>
-        <link href="https://mistral.ai/news/mistral-large-2407/"/>
-        <updated>2024-07-25T02:07:18.800Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote16002"><a class="upvote" href="javascript:vote(16002, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mistral.ai/news/mistral-large-2407/" rel="nofollow" id="tr3"><h1>GN⁺: Mistral Large 2 모델 공개 </h1></a> <span class="topicurl">(mistral.ai)</span></div><div class="topicdesc"><a href="topic?id=16002" class="c99 breakall">- Mistral Large 2는 128k 컨텍스트 윈도우 및 프랑스어, 독일어, 스페인어, 이탈리아어, 중국어, 일본어, 한국어를 포함한 여러 언어를 지원함  
-...</a></div><div class="topicinfo"><span id="tp16002">4</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote16002"></span> | <a href="topic?id=16002" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Node.js, Typescript 파일 실행을 시험적 기능으로 추가]]></title>
+        <id>https://github.com/nodejs/node/pull/53725</id>
+        <link href="https://github.com/nodejs/node/pull/53725"/>
+        <updated>2024-07-25T06:19:39.516Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote16017"><a class="upvote" href="javascript:vote(16017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nodejs/node/pull/53725" rel="nofollow" id="tr3"><h1>Node.js, Typescript 파일 실행을 시험적 기능으로 추가</h1></a> <span class="topicurl">(github.com/nodejs)</span></div><div class="topicdesc"><a href="topic?id=16017" class="c99 breakall">Node.js에서 --experimental-strip-types 실험적 플래그를 사용하면 TypeScript 파일을 직접 실행할 수 있게 되었습니다. 이 과정에서 Node.js는 T...</a></div><div class="topicinfo"><span id="tp16017">3</span> points by <a href="/user?id=hero1">hero1</a> 3시간전<span id="unvote16017"></span> | <a href="topic?id=16017" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 써드파티 쿠키 제거 시도 포기]]></title>
@@ -37,31 +36,32 @@
         <link href="https://www.axios.com/2024/07/22/google-chrome-keeps-cookie-policy"/>
         <updated>2024-07-25T02:07:18.799Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote16015"><a class="upvote" href="javascript:vote(16015, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.axios.com/2024/07/22/google-chrome-keeps-cookie-policy" rel="nofollow" id="tr4"><h1>구글, 써드파티 쿠키 제거 시도 포기</h1></a> <span class="topicurl">(axios.com)</span></div><div class="topicdesc"><a href="topic?id=16015" class="c99 breakall">- Google이 끝내 Chrome 웹 브라우저에서 서드 파티 트래킹 쿠키를 제거하지 않기로 결정했다고 발표함  
-- 대신 사용자가 Google의 검색 제품에...</a></div><div class="topicinfo"><span id="tp16015">3</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote16015"></span> | <a href="topic?id=16015" class="u">댓글 3개</a></div>]]></content>
+- 대신 사용자가 Google의 검색 제품에...</a></div><div class="topicinfo"><span id="tp16015">4</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote16015"></span> | <a href="topic?id=16015" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Mistral Large 2 모델 공개]]></title>
+        <id>https://mistral.ai/news/mistral-large-2407/</id>
+        <link href="https://mistral.ai/news/mistral-large-2407/"/>
+        <updated>2024-07-25T02:07:18.800Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote16002"><a class="upvote" href="javascript:vote(16002, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mistral.ai/news/mistral-large-2407/" rel="nofollow" id="tr5"><h1>GN⁺: Mistral Large 2 모델 공개 </h1></a> <span class="topicurl">(mistral.ai)</span></div><div class="topicdesc"><a href="topic?id=16002" class="c99 breakall">- Mistral Large 2는 128k 컨텍스트 윈도우 및 프랑스어, 독일어, 스페인어, 이탈리아어, 중국어, 일본어, 한국어를 포함한 여러 언어를 지원함  
+...</a></div><div class="topicinfo"><span id="tp16002">4</span> points by <a href="/user?id=neo">neo</a> 8시간전<span id="unvote16002"></span> | <a href="topic?id=16002" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust를 약 10년 동안 사용하며 (그리고 사랑하며) 느낀 실망스러운 점들]]></title>
         <id>https://www.reddit.com/r/rust/comments/1e978l7/ive_used_and_loved_rust_for_10_years_here_are_the/</id>
         <link href="https://www.reddit.com/r/rust/comments/1e978l7/ive_used_and_loved_rust_for_10_years_here_are_the/"/>
         <updated>2024-07-24T09:14:35.858Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote16000"><a class="upvote" href="javascript:vote(16000, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.reddit.com/r/rust/comments/1e978l7/ive_used_and_loved_rust_for_10_years_here_are_the/" rel="nofollow" id="tr5"><h1>Rust를 약 10년 동안 사용하며 (그리고 사랑하며) 느낀 실망스러운 점들</h1></a> <span class="topicurl">(reddit.com)</span></div><div class="topicdesc"><a href="topic?id=16000" class="c99 breakall">Rust를 사용한 지 대략 10년이 되었고, 이 언어를 정말 사랑합니다. 하지만 몇 가지 실망스러운 점들도 존재합니다. 아래는 그 목록입니다.  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote16000"><a class="upvote" href="javascript:vote(16000, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.reddit.com/r/rust/comments/1e978l7/ive_used_and_loved_rust_for_10_years_here_are_the/" rel="nofollow" id="tr6"><h1>Rust를 약 10년 동안 사용하며 (그리고 사랑하며) 느낀 실망스러운 점들</h1></a> <span class="topicurl">(reddit.com)</span></div><div class="topicdesc"><a href="topic?id=16000" class="c99 breakall">Rust를 사용한 지 대략 10년이 되었고, 이 언어를 정말 사랑합니다. 하지만 몇 가지 실망스러운 점들도 존재합니다. 아래는 그 목록입니다.  
   
-...</a></div><div class="topicinfo"><span id="tp16000">11</span> points by <a href="/user?id=tsboard">tsboard</a> 23시간전<span id="unvote16000"></span> | <a href="topic?id=16000" class="u">댓글 2개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp16000">13</span> points by <a href="/user?id=tsboard">tsboard</a> 24시간전<span id="unvote16000"></span> | <a href="topic?id=16000" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js, Typescript 파일 실행을 시험적 기능으로 추가]]></title>
-        <id>https://github.com/nodejs/node/pull/53725</id>
-        <link href="https://github.com/nodejs/node/pull/53725"/>
-        <updated>2024-07-25T06:19:39.516Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote16017"><a class="upvote" href="javascript:vote(16017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nodejs/node/pull/53725" rel="nofollow" id="tr6"><h1>Node.js, Typescript 파일 실행을 시험적 기능으로 추가</h1></a> <span class="topicurl">(github.com/nodejs)</span></div><div class="topicdesc"><a href="topic?id=16017" class="c99 breakall">Node.js에서 --experimental-strip-types 실험적 플래그를 사용하면 TypeScript 파일을 직접 실행할 수 있게 되었습니다. 이 과정에서 Node.js는 T...</a></div><div class="topicinfo"><span id="tp16017">1</span> point by <a href="/user?id=hero1">hero1</a> 2시간전<span id="unvote16017"></span> | <a href="topic?id=16017" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: 소프트웨어 엔지니어를 그만둔 분들, 어떤 분야로 전환하셨나요?]]></title>
-        <id>https://news.ycombinator.com/item?id=40780940</id>
-        <link href="https://news.ycombinator.com/item?id=40780940"/>
-        <updated>2024-07-22T06:21:13.646Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote15962"><a class="upvote" href="javascript:vote(15962, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40780940" rel="nofollow" id="tr7"><h1>Ask HN: 소프트웨어 엔지니어를 그만둔 분들, 어떤 분야로 전환하셨나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15962" class="c99 breakall">- 13년 SWE로 스타트업/대기업/황금수갑 상태 등으로 일해본 뒤 이제 이걸 끝내야할 것 같음   
-- 현재는 계약직으로 유연하게 일하며 회사를 만...</a></div><div class="topicinfo"><span id="tp15962">34</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote15962"></span> | <a href="topic?id=15962" class="u">댓글 6개</a></div>]]></content>
+        <title type="html"><![CDATA[Google의 Wiz 인수 거래 무산, Wiz는 IPO 추진 예정]]></title>
+        <id>https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html</id>
+        <link href="https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html"/>
+        <updated>2024-07-25T02:07:18.799Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote16010"><a class="upvote" href="javascript:vote(16010, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html" rel="nofollow" id="tr7"><h1>Google의 Wiz 인수 거래 무산, Wiz는 IPO 추진 예정</h1></a> <span class="topicurl">(cnbc.com)</span></div><div class="topicdesc"><a href="topic?id=16010" class="c99 breakall">- Wiz는 기업 가치 230억 달러에 Google과의 인수 합병을 포기  
+- Wiz CEO Assaf Rappaport는 직원들에게 당초 계획대로 IPO를 추진할 것이라고 ...</a></div><div class="topicinfo"><span id="tp16010">2</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote16010"></span> | <a href="topic?id=16010" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["오픈소스 AI가 미래의 길입니다." by 마크 주커버그]]></title>
@@ -69,14 +69,15 @@
         <link href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/"/>
         <updated>2024-07-24T01:01:59.498Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote15988"><a class="upvote" href="javascript:vote(15988, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/" rel="nofollow" id="tr8"><h1>"오픈소스 AI가 미래의 길입니다." by 마크 주커버그</h1></a> <span class="topicurl">(about.fb.com)</span></div><div class="topicdesc"><a href="topic?id=15988" class="c99 breakall">- 고성능 컴퓨팅 초기에 주요 기술 회사들은 자체적으로 폐쇄형 유닉스 버전을 개발함  
-- 시간이 지나면서 오픈 소스 리눅스가 인기를 끌게 되었...</a></div><div class="topicinfo"><span id="tp15988">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15988"></span> | <a href="topic?id=15988" class="u">댓글 3개</a></div>]]></content>
+- 시간이 지나면서 오픈 소스 리눅스가 인기를 끌게 되었...</a></div><div class="topicinfo"><span id="tp15988">9</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote15988"></span> | <a href="topic?id=15988" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, Privacy Sandbox의 새로운 경로 모색]]></title>
-        <id>https://privacysandbox.com/news/privacy-sandbox-update/</id>
-        <link href="https://privacysandbox.com/news/privacy-sandbox-update/"/>
-        <updated>2024-07-25T02:07:18.799Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote16014"><a class="upvote" href="javascript:vote(16014, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://privacysandbox.com/news/privacy-sandbox-update/" rel="nofollow" id="tr9"><h1>구글, Privacy Sandbox의 새로운 경로 모색</h1></a> <span class="topicurl">(privacysandbox.com)</span></div><div class="topicdesc"><a href="topic?id=16014" class="c99 breakall">- Privacy Sandbox는 온라인 광고를 지원하는 인터넷을 유지하면서 온라인 개인 정보 보호를 의미 있게 개선하는 혁신적인 솔루션을 찾는 것을 목...</a></div><div class="topicinfo"><span id="tp16014">1</span> point by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote16014"></span> | <a href="topic?id=16014" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Ask HN: 소프트웨어 엔지니어를 그만둔 분들, 어떤 분야로 전환하셨나요?]]></title>
+        <id>https://news.ycombinator.com/item?id=40780940</id>
+        <link href="https://news.ycombinator.com/item?id=40780940"/>
+        <updated>2024-07-22T06:21:13.646Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote15962"><a class="upvote" href="javascript:vote(15962, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40780940" rel="nofollow" id="tr9"><h1>Ask HN: 소프트웨어 엔지니어를 그만둔 분들, 어떤 분야로 전환하셨나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15962" class="c99 breakall">- 13년 SWE로 스타트업/대기업/황금수갑 상태 등으로 일해본 뒤 이제 이걸 끝내야할 것 같음   
+- 현재는 계약직으로 유연하게 일하며 회사를 만...</a></div><div class="topicinfo"><span id="tp15962">34</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote15962"></span> | <a href="topic?id=15962" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DB Browser for SQLite 3.13.0 릴리즈]]></title>
@@ -88,12 +89,11 @@
 - 약 3년만의 ...</a></div><div class="topicinfo"><span id="tp15977">16</span> points by <a href="/user?id=lucydodo">lucydodo</a> 2일전<span id="unvote15977"></span> | <a href="topic?id=15977" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google의 Wiz 인수 거래 무산, Wiz는 IPO 추진 예정]]></title>
-        <id>https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html</id>
-        <link href="https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html"/>
+        <title type="html"><![CDATA[구글, Privacy Sandbox의 새로운 경로 모색]]></title>
+        <id>https://privacysandbox.com/news/privacy-sandbox-update/</id>
+        <link href="https://privacysandbox.com/news/privacy-sandbox-update/"/>
         <updated>2024-07-25T02:07:18.799Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote16010"><a class="upvote" href="javascript:vote(16010, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html" rel="nofollow" id="tr11"><h1>Google의 Wiz 인수 거래 무산, Wiz는 IPO 추진 예정</h1></a> <span class="topicurl">(cnbc.com)</span></div><div class="topicdesc"><a href="topic?id=16010" class="c99 breakall">- Wiz는 기업 가치 230억 달러에 Google과의 인수 합병을 포기  
-- Wiz CEO Assaf Rappaport는 직원들에게 당초 계획대로 IPO를 추진할 것이라고 ...</a></div><div class="topicinfo"><span id="tp16010">1</span> point by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote16010"></span> | <a href="topic?id=16010" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote16014"><a class="upvote" href="javascript:vote(16014, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://privacysandbox.com/news/privacy-sandbox-update/" rel="nofollow" id="tr11"><h1>구글, Privacy Sandbox의 새로운 경로 모색</h1></a> <span class="topicurl">(privacysandbox.com)</span></div><div class="topicdesc"><a href="topic?id=16014" class="c99 breakall">- Privacy Sandbox는 온라인 광고를 지원하는 인터넷을 유지하면서 온라인 개인 정보 보호를 의미 있게 개선하는 혁신적인 솔루션을 찾는 것을 목...</a></div><div class="topicinfo"><span id="tp16014">1</span> point by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote16014"></span> | <a href="topic?id=16014" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Garage - S3 호환 분산 객체 스토리지 오픈소스]]></title>
@@ -163,11 +163,12 @@
         <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote15998"><a class="upvote" href="javascript:vote(15998, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html" rel="nofollow" id="tr19"><h1>GN⁺: Let's Encrypt - OCSP 서비스 종료 발표 </h1></a> <span class="topicurl">(letsencrypt.org)</span></div><div class="topicdesc"><a href="topic?id=15998" class="c99 breakall">- Let’s Encrypt는 가능한 한 빨리 OCSP(Online Certificate Status Protocol) 지원을 종료하고 Certificate Revocation Lists (CRLs)로 전환할 계...</a></div><div class="topicinfo"><span id="tp15998">2</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote15998"></span> | <a href="topic?id=15998" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[txtai - 시맨틱 검색, LLM 오케스트레이션, 언어모델 워크플로우를 위한 올인원 임베딩 DB]]></title>
-        <id>https://github.com/neuml/txtai</id>
-        <link href="https://github.com/neuml/txtai"/>
-        <updated>2024-07-25T07:15:27.206Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15957"><a class="upvote" href="javascript:vote(15957, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/neuml/txtai" rel="nofollow" id="tr20"><h1>txtai - 시맨틱 검색, LLM 오케스트레이션, 언어모델 워크플로우를 위한 올인원 임베딩 DB</h1></a> <span class="topicurl">(github.com/neuml)</span></div><div class="topicdesc"><a href="topic?id=15957" class="c99 breakall">- 임베딩 DB는 벡터 인덱스(Sparse 및 고밀도), 그래프 네트워크, 관계형 데이터베이스를 결합한 것  
-  - 이를 통해 SQL, 토픽 모델링, 검색 증...</a></div><div class="topicinfo"><span id="tp15957">9</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote15957"></span> | <a href="topic?id=15957" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Foliate - Linux용 e-Book 리더 오픈소스]]></title>
+        <id>https://johnfactotum.github.io/foliate/</id>
+        <link href="https://johnfactotum.github.io/foliate/"/>
+        <updated>2024-07-25T08:17:56.187Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote15941"><a class="upvote" href="javascript:vote(15941, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://johnfactotum.github.io/foliate/" rel="nofollow" id="tr20"><h1>Foliate - Linux용 e-Book 리더 오픈소스 </h1></a> <span class="topicurl">(johnfactotum.github.io)</span></div><div class="topicdesc"><a href="topic?id=15941" class="c99 breakall">- EPUB, Mobipocket, Kindle, FB2, CBZ, PDF 지원  
+- 페이지/스크롤모드 읽기 및 쉬운 탐색(터치 제스쳐)  
+- 글꼴, 간격, 여백, 색상 스킴 조...</a></div><div class="topicinfo"><span id="tp15941">14</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote15941"></span> | <a href="topic?id=15941" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
