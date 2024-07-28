@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-07-28T14:12:32.776Z</updated>
+    <updated>2024-07-28T15:13:25.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,23 +11,23 @@
         <link href="https://news.hada.io/topic?id=16043"/>
         <updated>2024-07-28T01:05:31.492Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote16043"><a class="upvote" href="javascript:vote(16043, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/devrim/cloudflare-noip" rel="nofollow" id="tr1"><h1>Cloudflare 와 Cronjob 을 활용한 무료 DDNS 만들기</h1></a> <span class="topicurl">(github.com/devrim)</span></div><div class="topicdesc"><a href="topic?id=16043" class="c99 breakall">- NoIP 같은 유료 Dynamic DNS 서비스 만들기   
-- 무료 Cloudflare 계정과 본인 컴퓨터/서버의 크론잡을 사용하여 Cloudflare에서 DNS 레코드를 ...</a></div><div class="topicinfo"><span id="tp16043">10</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote16043"></span> | <a href="topic?id=16043" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 유럽, 규제로 인해 기술 시장 소멸 위기]]></title>
-        <id>https://news.hada.io/topic?id=16042</id>
-        <link href="https://news.hada.io/topic?id=16042"/>
-        <updated>2024-07-28T01:05:31.494Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote16042"><a class="upvote" href="javascript:vote(16042, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/" rel="nofollow" id="tr2"><h1>GN⁺: 유럽, 규제로 인해 기술 시장 소멸 위기</h1></a> <span class="topicurl">(foreignpolicy.com)</span></div><div class="topicdesc"><a href="topic?id=16042" class="c99 breakall">- 애플은 6월, 이메일 작성 및 편집, 새로운 사진 및 이모지 생성 등 AI를 활용한 새로운 기능 모음인 "Apple Intelligence"를 발표함  
-  - 하지...</a></div><div class="topicinfo"><span id="tp16042">8</span> points by <a href="/user?id=neo">neo</a> 15시간전<span id="unvote16042"></span> | <a href="topic?id=16042" class="u">댓글 4개</a></div>]]></content>
+- 무료 Cloudflare 계정과 본인 컴퓨터/서버의 크론잡을 사용하여 Cloudflare에서 DNS 레코드를 ...</a></div><div class="topicinfo"><span id="tp16043">13</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote16043"></span> | <a href="topic?id=16043" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: SQLite: 파일 시스템보다 35% 더 빠름]]></title>
         <id>https://news.hada.io/topic?id=16044</id>
         <link href="https://news.hada.io/topic?id=16044"/>
         <updated>2024-07-28T02:35:20.624Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote16044"><a class="upvote" href="javascript:vote(16044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sqlite.org/fasterthanfs.html" rel="nofollow" id="tr3"><h1>GN⁺: SQLite: 파일 시스템보다 35% 더 빠름</h1></a> <span class="topicurl">(sqlite.org)</span></div><div class="topicdesc"><a href="topic?id=16044" class="c99 breakall">- SQLite는 작은 Blob(예: 썸네일 이미지)를 개별 파일에서 fread()나 fwrite()로 읽거나 쓰는 것보다 35% 더 빠르게 읽고 쓸 수 있음  
-- 또한 1...</a></div><div class="topicinfo"><span id="tp16044">7</span> points by <a href="/user?id=neo">neo</a> 13시간전<span id="unvote16044"></span> | <a href="topic?id=16044" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote16044"><a class="upvote" href="javascript:vote(16044, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sqlite.org/fasterthanfs.html" rel="nofollow" id="tr2"><h1>GN⁺: SQLite: 파일 시스템보다 35% 더 빠름</h1></a> <span class="topicurl">(sqlite.org)</span></div><div class="topicdesc"><a href="topic?id=16044" class="c99 breakall">- SQLite는 작은 Blob(예: 썸네일 이미지)를 개별 파일에서 fread()나 fwrite()로 읽거나 쓰는 것보다 35% 더 빠르게 읽고 쓸 수 있음  
+- 또한 1...</a></div><div class="topicinfo"><span id="tp16044">9</span> points by <a href="/user?id=neo">neo</a> 14시간전<span id="unvote16044"></span> | <a href="topic?id=16044" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 유럽, 규제로 인해 기술 시장 소멸 위기]]></title>
+        <id>https://news.hada.io/topic?id=16042</id>
+        <link href="https://news.hada.io/topic?id=16042"/>
+        <updated>2024-07-28T01:05:31.494Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote16042"><a class="upvote" href="javascript:vote(16042, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/" rel="nofollow" id="tr3"><h1>GN⁺: 유럽, 규제로 인해 기술 시장 소멸 위기</h1></a> <span class="topicurl">(foreignpolicy.com)</span></div><div class="topicdesc"><a href="topic?id=16042" class="c99 breakall">- 애플은 6월, 이메일 작성 및 편집, 새로운 사진 및 이모지 생성 등 AI를 활용한 새로운 기능 모음인 "Apple Intelligence"를 발표함  
+  - 하지...</a></div><div class="topicinfo"><span id="tp16042">8</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote16042"></span> | <a href="topic?id=16042" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아인슈타인의 더 나은 삶을 위한 7가지 규칙]]></title>
@@ -83,7 +83,7 @@
   
 # 디지털 미래 구축  
 - 차세대 소프트웨어 개발  
-- 디지털 신뢰와 사...</a></div><div class="topicinfo"><span id="tp16030">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote16030"></span> | <a href="topic?id=16030" class="u">댓글과 토론</a></div>]]></content>
+- 디지털 신뢰와 사...</a></div><div class="topicinfo"><span id="tp16030">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote16030"></span> | <a href="topic?id=16030" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust를 약 10년 동안 사용하며 (그리고 사랑하며) 느낀 실망스러운 점들]]></title>
@@ -95,22 +95,22 @@
 ...</a></div><div class="topicinfo"><span id="tp16000">19</span> points by <a href="/user?id=tsboard">tsboard</a> 4일전<span id="unvote16000"></span> | <a href="topic?id=16000" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[낱말퀴즈(꼬들) 해킹으로 base64 이해하기]]></title>
-        <id>https://news.hada.io/topic?id=16040</id>
-        <link href="https://news.hada.io/topic?id=16040"/>
-        <updated>2024-07-27T06:17:23.963Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote16040"><a class="upvote" href="javascript:vote(16040, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/blackcon/posts/0b0b164a" rel="nofollow" id="tr11"><h1>낱말퀴즈(꼬들) 해킹으로 base64 이해하기</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=16040" class="c99 breakall">**세 줄 요약**  
-- Base64에 대한 설명과 꼬들이라는 낱말퀴즈를 분석함  
-- 꼬들 문제 링크의 파라미터에는 base64로 된 데이터가 존재하며  
-...</a></div><div class="topicinfo"><span id="tp16040">3</span> points by <a href="/user?id=blackcon">blackcon</a> 1일전<span id="unvote16040"></span> | <a href="topic?id=16040" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask HN: 소프트웨어 엔지니어를 그만둔 분들, 어떤 분야로 전환하셨나요?]]></title>
         <id>https://news.hada.io/topic?id=15962</id>
         <link href="https://news.hada.io/topic?id=15962"/>
         <updated>2024-07-22T04:17:19.999Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote15962"><a class="upvote" href="javascript:vote(15962, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40780940" rel="nofollow" id="tr12"><h1>Ask HN: 소프트웨어 엔지니어를 그만둔 분들, 어떤 분야로 전환하셨나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15962" class="c99 breakall">- 13년 SWE로 스타트업/대기업/황금수갑 상태 등으로 일해본 뒤 이제 이걸 끝내야할 것 같음   
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote15962"><a class="upvote" href="javascript:vote(15962, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=40780940" rel="nofollow" id="tr11"><h1>Ask HN: 소프트웨어 엔지니어를 그만둔 분들, 어떤 분야로 전환하셨나요?</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=15962" class="c99 breakall">- 13년 SWE로 스타트업/대기업/황금수갑 상태 등으로 일해본 뒤 이제 이걸 끝내야할 것 같음   
 - 현재는 계약직으로 유연하게 일하며 회사를 만...</a></div><div class="topicinfo"><span id="tp15962">36</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote15962"></span> | <a href="topic?id=15962" class="u">댓글 6개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[낱말퀴즈(꼬들) 해킹으로 base64 이해하기]]></title>
+        <id>https://news.hada.io/topic?id=16040</id>
+        <link href="https://news.hada.io/topic?id=16040"/>
+        <updated>2024-07-27T06:17:23.963Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote16040"><a class="upvote" href="javascript:vote(16040, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/blackcon/posts/0b0b164a" rel="nofollow" id="tr12"><h1>낱말퀴즈(꼬들) 해킹으로 base64 이해하기</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=16040" class="c99 breakall">**세 줄 요약**  
+- Base64에 대한 설명과 꼬들이라는 낱말퀴즈를 분석함  
+- 꼬들 문제 링크의 파라미터에는 base64로 된 데이터가 존재하며  
+...</a></div><div class="topicinfo"><span id="tp16040">3</span> points by <a href="/user?id=blackcon">blackcon</a> 1일전<span id="unvote16040"></span> | <a href="topic?id=16040" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js, Typescript 파일 실행을 시험적 기능으로 추가]]></title>
@@ -129,18 +129,11 @@
   - `import {...</a></div><div class="topicinfo"><span id="tp16013">9</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote16013"></span> | <a href="topic?id=16013" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Llama 고려하기  폐쇄형 소스 AI 모델들은 불행한 결말을 맞게 될 것인가?]]></title>
-        <id>https://news.hada.io/topic?id=16039</id>
-        <link href="https://news.hada.io/topic?id=16039"/>
-        <updated>2024-07-27T05:13:16.472Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote16039"><a class="upvote" href="javascript:vote(16039, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://weightythoughts.com/p/consider-the-llama" rel="nofollow" id="tr15"><h1>Llama 고려하기  폐쇄형 소스 AI 모델들은 불행한 결말을 맞게 될 것인가? </h1></a> <span class="topicurl">(weightythoughts.com)</span></div><div class="topicinfo"><span id="tp16039">2</span> points by <a href="/user?id=avantos">avantos</a> 1일전<span id="unvote16039"></span> | <a href="topic?id=16039" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DB Browser for SQLite 3.13.0 릴리즈]]></title>
         <id>https://news.hada.io/topic?id=15977</id>
         <link href="https://news.hada.io/topic?id=15977"/>
         <updated>2024-07-23T02:32:13.881Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15977"><a class="upvote" href="javascript:vote(15977, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.0" rel="nofollow" id="tr16"><h1>DB Browser for SQLite 3.13.0 릴리즈</h1></a> <span class="topicurl">(github.com/sqlitebrowser)</span></div><div class="topicdesc"><a href="topic?id=15977" class="c99 breakall">- GUI 환경에서 SQLite 데이터베이스를 조작할 수 있는 유틸리티  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote15977"><a class="upvote" href="javascript:vote(15977, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.0" rel="nofollow" id="tr15"><h1>DB Browser for SQLite 3.13.0 릴리즈</h1></a> <span class="topicurl">(github.com/sqlitebrowser)</span></div><div class="topicdesc"><a href="topic?id=15977" class="c99 breakall">- GUI 환경에서 SQLite 데이터베이스를 조작할 수 있는 유틸리티  
 - Linux, macOS, Windows 지원 (코드 서명, 공증되어 배포)  
 - 약 3년만의 ...</a></div><div class="topicinfo"><span id="tp15977">18</span> points by <a href="/user?id=lucydodo">lucydodo</a> 6일전<span id="unvote15977"></span> | <a href="topic?id=15977" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -149,8 +142,15 @@
         <id>https://news.hada.io/topic?id=15988</id>
         <link href="https://news.hada.io/topic?id=15988"/>
         <updated>2024-07-24T01:01:45.218Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote15988"><a class="upvote" href="javascript:vote(15988, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/" rel="nofollow" id="tr17"><h1>"오픈소스 AI가 미래의 길입니다." by 마크 주커버그</h1></a> <span class="topicurl">(about.fb.com)</span></div><div class="topicdesc"><a href="topic?id=15988" class="c99 breakall">- 고성능 컴퓨팅 초기에 주요 기술 회사들은 자체적으로 폐쇄형 유닉스 버전을 개발함  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote15988"><a class="upvote" href="javascript:vote(15988, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/" rel="nofollow" id="tr16"><h1>"오픈소스 AI가 미래의 길입니다." by 마크 주커버그</h1></a> <span class="topicurl">(about.fb.com)</span></div><div class="topicdesc"><a href="topic?id=15988" class="c99 breakall">- 고성능 컴퓨팅 초기에 주요 기술 회사들은 자체적으로 폐쇄형 유닉스 버전을 개발함  
 - 시간이 지나면서 오픈 소스 리눅스가 인기를 끌게 되었...</a></div><div class="topicinfo"><span id="tp15988">13</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote15988"></span> | <a href="topic?id=15988" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Llama 고려하기  폐쇄형 소스 AI 모델들은 불행한 결말을 맞게 될 것인가?]]></title>
+        <id>https://news.hada.io/topic?id=16039</id>
+        <link href="https://news.hada.io/topic?id=16039"/>
+        <updated>2024-07-27T05:13:16.472Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote16039"><a class="upvote" href="javascript:vote(16039, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://weightythoughts.com/p/consider-the-llama" rel="nofollow" id="tr17"><h1>Llama 고려하기  폐쇄형 소스 AI 모델들은 불행한 결말을 맞게 될 것인가? </h1></a> <span class="topicurl">(weightythoughts.com)</span></div><div class="topicinfo"><span id="tp16039">2</span> points by <a href="/user?id=avantos">avantos</a> 1일전<span id="unvote16039"></span> | <a href="topic?id=16039" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어떻게 그 판단을 할 수 있었을까?]]></title>
