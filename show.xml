@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-08-02T06:21:36.933Z</updated>
+    <updated>2024-08-02T07:14:23.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 비 내리는 호남선]]></title>
+        <id>https://news.hada.io/topic?id=16141</id>
+        <link href="https://news.hada.io/topic?id=16141"/>
+        <updated>2024-08-02T07:14:02.034Z</updated>
+        <content type="html"><![CDATA[rycont]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: textcube_to_jekyll - Textcube 백업 데이터를 Jekyll 포스트로 변환]]></title>
         <id>https://news.hada.io/topic?id=16110</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15568"/>
         <updated>2024-07-21T16:17:22.724Z</updated>
         <content type="html"><![CDATA[raon0211]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ChatGPT를 이용한 iOS SMS 필터링 앱]]></title>
-        <id>https://news.hada.io/topic?id=15498</id>
-        <link href="https://news.hada.io/topic?id=15498"/>
-        <updated>2024-07-30T19:11:51.471Z</updated>
-        <content type="html"><![CDATA[trilliwon]]></content>
     </entry>
 </feed>
