@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2024-08-13T12:28:03.358Z</updated>
+    <updated>2024-08-13T13:18:41.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://news.hada.io/topic?id=16302</id>
         <link href="https://news.hada.io/topic?id=16302"/>
         <updated>2024-08-13T07:14:22.686Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote16302"><a class="upvote" href="javascript:vote(16302, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://n.news.naver.com/mnews/article/008/0005076335" rel="nofollow" id="tr1"><h1>KAIST 전산학부, C to Rust 자동번역기술 개발</h1></a> <span class="topicurl">(n.news.naver.com)</span></div><div class="topicdesc"><a href="topic?id=16302" class="c99 breakall">KAIST(카이스트)는 류석영 전산학부 연구팀(프로그래밍 언어 연구실)이 C언어의 핵심 기능에서 메모리 문제가 생기지 않도록 방지하는 'C-러스트 ...</a></div><div class="topicinfo"><span id="tp16302">4</span> points by <a href="/user?id=regentag">regentag</a> 5시간전<span id="unvote16302"></span> | <a href="topic?id=16302" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote16302"><a class="upvote" href="javascript:vote(16302, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://n.news.naver.com/mnews/article/008/0005076335" rel="nofollow" id="tr1"><h1>KAIST 전산학부, C to Rust 자동번역기술 개발</h1></a> <span class="topicurl">(n.news.naver.com)</span></div><div class="topicdesc"><a href="topic?id=16302" class="c99 breakall">KAIST(카이스트)는 류석영 전산학부 연구팀(프로그래밍 언어 연구실)이 C언어의 핵심 기능에서 메모리 문제가 생기지 않도록 방지하는 'C-러스트 ...</a></div><div class="topicinfo"><span id="tp16302">4</span> points by <a href="/user?id=regentag">regentag</a> 6시간전<span id="unvote16302"></span> | <a href="topic?id=16302" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pg_replicate - Postgres의 복제를 위한 도구]]></title>
@@ -18,7 +18,7 @@
         <link href="https://news.hada.io/topic?id=16300"/>
         <updated>2024-08-13T01:03:35.077Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote16300"><a class="upvote" href="javascript:vote(16300, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/supabase/pg_replicate" rel="nofollow" id="tr2"><h1>pg_replicate - Postgres의 복제를 위한 도구 </h1></a> <span class="topicurl">(github.com/supabase)</span></div><div class="topicdesc"><a href="topic?id=16300" class="c99 breakall">- Postgres에서 다른 시스템으로 데이터를 지속적으로 복사하는 데이터 파이프라인 구축   
-- Postgres 의 "Logical Streaming Replication Proto...</a></div><div class="topicinfo"><span id="tp16300">5</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote16300"></span> | <a href="topic?id=16300" class="u">댓글과 토론</a></div>]]></content>
+- Postgres 의 "Logical Streaming Replication Proto...</a></div><div class="topicinfo"><span id="tp16300">5</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote16300"></span> | <a href="topic?id=16300" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gitopper - 쿠버네티스 없이 Gitops 하기]]></title>
@@ -26,7 +26,7 @@
         <link href="https://news.hada.io/topic?id=16294"/>
         <updated>2024-08-13T01:03:35.080Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote16294"><a class="upvote" href="javascript:vote(16294, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/miekg/gitopper" rel="nofollow" id="tr3"><h1>Gitopper - 쿠버네티스 없이 Gitops 하기</h1></a> <span class="topicurl">(github.com/miekg)</span></div><div class="topicdesc"><a href="topic?id=16294" class="c99 breakall">- Kubernetes를 사용하지 않는 사람들을 위한 GitOps 툴  
-- 원격 git 저장소를 감시하고, 변경 사항을 pull하며, 서버(서비스) 프로세스에 HUP ...</a></div><div class="topicinfo"><span id="tp16294">6</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote16294"></span> | <a href="topic?id=16294" class="u">댓글과 토론</a></div>]]></content>
+- 원격 git 저장소를 감시하고, 변경 사항을 pull하며, 서버(서비스) 프로세스에 HUP ...</a></div><div class="topicinfo"><span id="tp16294">6</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote16294"></span> | <a href="topic?id=16294" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oscar - 구글의 오픈소스 컨트리뷰터 에이전트 아키텍처]]></title>
@@ -34,7 +34,7 @@
         <link href="https://news.hada.io/topic?id=16291"/>
         <updated>2024-08-13T01:03:35.080Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote16291"><a class="upvote" href="javascript:vote(16291, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://go.googlesource.com/oscar" rel="nofollow" id="tr4"><h1>Oscar - 구글의 오픈소스 컨트리뷰터 에이전트 아키텍처</h1></a> <span class="topicurl">(go.googlesource.com)</span></div><div class="topicdesc"><a href="topic?id=16291" class="c99 breakall">- 오픈소스 유지 보수를 위한 자동화된 도우미 "에이전트"를 만들어 오픈 소스 소프트웨어 개발을 개선하는 것을 목표로 하는 프로젝트  
-  - 오...</a></div><div class="topicinfo"><span id="tp16291">3</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote16291"></span> | <a href="topic?id=16291" class="u">댓글과 토론</a></div>]]></content>
+  - 오...</a></div><div class="topicinfo"><span id="tp16291">3</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote16291"></span> | <a href="topic?id=16291" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해커톤에서 시작된 생성형AI 서비스 그 후 1년의 기록]]></title>
@@ -75,7 +75,7 @@
         <id>https://news.hada.io/topic?id=16280</id>
         <link href="https://news.hada.io/topic?id=16280"/>
         <updated>2024-08-12T02:36:21.712Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote16280"><a class="upvote" href="javascript:vote(16280, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.gitbutler.com/the-future-of-open-source/" rel="nofollow" id="tr9"><h1>오픈 소스의 미래</h1></a> <span class="topicurl">(blog.gitbutler.com)</span></div><div class="topicdesc"><a href="topic?id=16280" class="c99 breakall">- 우리 COO이자 공동창업자인 Anne이 독일 식품회사 Delinero의 CEO였을때 소송을 당했음. 공급업체가 제공한 라즈베리 잼을 "Himbeermarmelade"라...</a></div><div class="topicinfo"><span id="tp16280">14</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote16280"></span> | <a href="topic?id=16280" class="u">댓글 5개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote16280"><a class="upvote" href="javascript:vote(16280, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.gitbutler.com/the-future-of-open-source/" rel="nofollow" id="tr9"><h1>오픈 소스의 미래</h1></a> <span class="topicurl">(blog.gitbutler.com)</span></div><div class="topicdesc"><a href="topic?id=16280" class="c99 breakall">- 우리 COO이자 공동창업자인 Anne이 독일 식품회사 Delinero의 CEO였을때 소송을 당했음. 공급업체가 제공한 라즈베리 잼을 "Himbeermarmelade"라...</a></div><div class="topicinfo"><span id="tp16280">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote16280"></span> | <a href="topic?id=16280" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인공위성 해킹으로 무료 인터넷 사용하기]]></title>
@@ -92,7 +92,7 @@
         <link href="https://news.hada.io/topic?id=16261"/>
         <updated>2024-08-11T01:07:02.732Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote16261"><a class="upvote" href="javascript:vote(16261, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://qwenlm.github.io/blog/qwen2-math/" rel="nofollow" id="tr11"><h1>Alibaba, Qwen2-Math 모델 공개</h1></a> <span class="topicurl">(qwenlm.github.io)</span></div><div class="topicdesc"><a href="topic?id=16261" class="c99 breakall">- Qwen2 LLM을 기반으로 만들어진 Qwen2-Math는 오픈 소스 모델과 비공개 모델(예: GPT-4o)의 수학 능력을 크게 능가함  
-  - Qwen2-Math와 Qwen2...</a></div><div class="topicinfo"><span id="tp16261">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote16261"></span> | <a href="topic?id=16261" class="u">댓글 1개</a></div>]]></content>
+  - Qwen2-Math와 Qwen2...</a></div><div class="topicinfo"><span id="tp16261">4</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote16261"></span> | <a href="topic?id=16261" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js Toolbox - 원하는 라이브러리 쉽게 찾기]]></title>
@@ -101,7 +101,7 @@
         <updated>2024-08-10T02:33:38.551Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote16256"><a class="upvote" href="javascript:vote(16256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nodejstoolbox.com/" rel="nofollow" id="tr12"><h1>Node.js Toolbox - 원하는 라이브러리 쉽게 찾기</h1></a> <span class="topicurl">(nodejstoolbox.com)</span></div><div class="topicdesc"><a href="topic?id=16256" class="c99 breakall">- 카테고리별로 원하는 라이브러리를 쉽게 찾을수 있도록 구성  
 - Downloads / Stars / Forks / Issue closure Rate / Age 확인 가능   
-- 총 4...</a></div><div class="topicinfo"><span id="tp16256">20</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote16256"></span> | <a href="topic?id=16256" class="u">댓글과 토론</a></div>]]></content>
+- 총 4...</a></div><div class="topicinfo"><span id="tp16256">20</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote16256"></span> | <a href="topic?id=16256" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stealth - Proton의 새로운 VPN 프로토콜]]></title>
@@ -109,7 +109,7 @@
         <link href="https://news.hada.io/topic?id=16250"/>
         <updated>2024-08-10T01:02:20.027Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote16250"><a class="upvote" href="javascript:vote(16250, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://protonvpn.com/blog/stealth-vpn-protocol" rel="nofollow" id="tr13"><h1>Stealth - Proton의 새로운 VPN 프로토콜</h1></a> <span class="topicurl">(protonvpn.com)</span></div><div class="topicdesc"><a href="topic?id=16250" class="c99 breakall">- Proton이 개발한 새 VPN 프로토콜 Stealth는 검출을 피하고 인터넷 검열과 VPN 차단을 우회할 수 있음  
-- 고급 VPN 차단을 우회하고, 검열된 ...</a></div><div class="topicinfo"><span id="tp16250">14</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote16250"></span> | <a href="topic?id=16250" class="u">댓글과 토론</a></div>]]></content>
+- 고급 VPN 차단을 우회하고, 검열된 ...</a></div><div class="topicinfo"><span id="tp16250">14</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote16250"></span> | <a href="topic?id=16250" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이제 "CSS5"에 대해 이야기할 시간입니다]]></title>
@@ -143,7 +143,7 @@
         <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote16241"><a class="upvote" href="javascript:vote(16241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=16241" id="tr17"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=16241" class="c99 breakall">이번 주말에 뭘 하려고 계획 중인지 편하게 얘기해 보아요.  
   
 읽을 책, 가볼 곳, 해볼 것.. 어떤 것이든 좋습니다.  
-도움 요청이나 피드백 ...</a></div><div class="topicinfo"><span id="tp16241">2</span> points by <a href="/user?id=askbot">askbot</a> 4일전<span id="unvote16241"></span> | <a href="topic?id=16241" class="u">댓글 4개</a></div>]]></content>
+도움 요청이나 피드백 ...</a></div><div class="topicinfo"><span id="tp16241">2</span> points by <a href="/user?id=askbot">askbot</a> 5일전<span id="unvote16241"></span> | <a href="topic?id=16241" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[rqlite 9.0 개발중 - 디스크 사용량 절반으로 줄이기]]></title>
@@ -151,7 +151,7 @@
         <link href="https://news.hada.io/topic?id=16231"/>
         <updated>2024-08-09T01:02:44.060Z</updated>
         <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote16231"><a class="upvote" href="javascript:vote(16231, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/" rel="nofollow" id="tr18"><h1>rqlite 9.0 개발중 - 디스크 사용량 절반으로 줄이기</h1></a> <span class="topicurl">(philipotoole.com)</span></div><div class="topicdesc"><a href="topic?id=16231" class="c99 breakall">- rqlite는 Go로 작성된 경량의 오픈 소스 분산 관계형 데이터베이스  
-- Raft 합의 프로토콜을 기반으로 구축되었으며 SQLite를 스토리지 엔진으...</a></div><div class="topicinfo"><span id="tp16231">6</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote16231"></span> | <a href="topic?id=16231" class="u">댓글 1개</a></div>]]></content>
+- Raft 합의 프로토콜을 기반으로 구축되었으며 SQLite를 스토리지 엔진으...</a></div><div class="topicinfo"><span id="tp16231">6</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote16231"></span> | <a href="topic?id=16231" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라즈베리파이 재단, 새 MCU RP2350 발표]]></title>
