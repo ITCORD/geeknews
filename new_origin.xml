@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-08-13T11:12:25.238Z</updated>
+    <updated>2024-08-13T12:28:03.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://n.news.naver.com/mnews/article/008/0005076335</id>
         <link href="https://n.news.naver.com/mnews/article/008/0005076335"/>
         <updated>2024-08-13T07:14:27.318Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote16302"><a class="upvote" href="javascript:vote(16302, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://n.news.naver.com/mnews/article/008/0005076335" rel="nofollow" id="tr1"><h1>KAIST 전산학부, C to Rust 자동번역기술 개발</h1></a> <span class="topicurl">(n.news.naver.com)</span></div><div class="topicdesc"><a href="topic?id=16302" class="c99 breakall">KAIST(카이스트)는 류석영 전산학부 연구팀(프로그래밍 언어 연구실)이 C언어의 핵심 기능에서 메모리 문제가 생기지 않도록 방지하는 'C-러스트 ...</a></div><div class="topicinfo"><span id="tp16302">4</span> points by <a href="/user?id=regentag">regentag</a> 4시간전<span id="unvote16302"></span> | <a href="topic?id=16302" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote16302"><a class="upvote" href="javascript:vote(16302, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://n.news.naver.com/mnews/article/008/0005076335" rel="nofollow" id="tr1"><h1>KAIST 전산학부, C to Rust 자동번역기술 개발</h1></a> <span class="topicurl">(n.news.naver.com)</span></div><div class="topicdesc"><a href="topic?id=16302" class="c99 breakall">KAIST(카이스트)는 류석영 전산학부 연구팀(프로그래밍 언어 연구실)이 C언어의 핵심 기능에서 메모리 문제가 생기지 않도록 방지하는 'C-러스트 ...</a></div><div class="topicinfo"><span id="tp16302">4</span> points by <a href="/user?id=regentag">regentag</a> 5시간전<span id="unvote16302"></span> | <a href="topic?id=16302" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gitopper - 쿠버네티스 없이 Gitops 하기]]></title>
@@ -18,7 +18,7 @@
         <link href="https://github.com/miekg/gitopper"/>
         <updated>2024-08-13T01:03:39.739Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote16294"><a class="upvote" href="javascript:vote(16294, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/miekg/gitopper" rel="nofollow" id="tr2"><h1>Gitopper - 쿠버네티스 없이 Gitops 하기</h1></a> <span class="topicurl">(github.com/miekg)</span></div><div class="topicdesc"><a href="topic?id=16294" class="c99 breakall">- Kubernetes를 사용하지 않는 사람들을 위한 GitOps 툴  
-- 원격 git 저장소를 감시하고, 변경 사항을 pull하며, 서버(서비스) 프로세스에 HUP ...</a></div><div class="topicinfo"><span id="tp16294">6</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote16294"></span> | <a href="topic?id=16294" class="u">댓글과 토론</a></div>]]></content>
+- 원격 git 저장소를 감시하고, 변경 사항을 pull하며, 서버(서비스) 프로세스에 HUP ...</a></div><div class="topicinfo"><span id="tp16294">6</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote16294"></span> | <a href="topic?id=16294" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pg_replicate - Postgres의 복제를 위한 도구]]></title>
@@ -26,7 +26,7 @@
         <link href="https://github.com/supabase/pg_replicate"/>
         <updated>2024-08-13T01:03:39.739Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote16300"><a class="upvote" href="javascript:vote(16300, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/supabase/pg_replicate" rel="nofollow" id="tr3"><h1>pg_replicate - Postgres의 복제를 위한 도구 </h1></a> <span class="topicurl">(github.com/supabase)</span></div><div class="topicdesc"><a href="topic?id=16300" class="c99 breakall">- Postgres에서 다른 시스템으로 데이터를 지속적으로 복사하는 데이터 파이프라인 구축   
-- Postgres 의 "Logical Streaming Replication Proto...</a></div><div class="topicinfo"><span id="tp16300">5</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote16300"></span> | <a href="topic?id=16300" class="u">댓글과 토론</a></div>]]></content>
+- Postgres 의 "Logical Streaming Replication Proto...</a></div><div class="topicinfo"><span id="tp16300">5</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote16300"></span> | <a href="topic?id=16300" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈 소스의 미래]]></title>
@@ -41,7 +41,7 @@
         <link href="https://news.patreon.com/articles/understanding-apple-requirements-for-patreon"/>
         <updated>2024-08-13T02:36:01.819Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote16292"><a class="upvote" href="javascript:vote(16292, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.patreon.com/articles/understanding-apple-requirements-for-patreon" rel="nofollow" id="tr5"><h1>GN⁺: Apple의 요구 사항이 곧 Patreon의 크리에이터와 팬들을 강타할 것</h1></a> <span class="topicurl">(news.patreon.com)</span></div><div class="topicdesc"><a href="topic?id=16292" class="c99 breakall">- Apple은 Patreon이 2024년 11월까지 iOS 앱에서 인앱 구매 시스템을 사용하도록 요구함  
-- Patreon이 이를 따르지 않으면 App Store에서 제거...</a></div><div class="topicinfo"><span id="tp16292">3</span> points by <a href="/user?id=neo">neo</a> 11시간전<span id="unvote16292"></span> | <a href="topic?id=16292" class="u">댓글 1개</a></div>]]></content>
+- Patreon이 이를 따르지 않으면 App Store에서 제거...</a></div><div class="topicinfo"><span id="tp16292">3</span> points by <a href="/user?id=neo">neo</a> 12시간전<span id="unvote16292"></span> | <a href="topic?id=16292" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oscar - 구글의 오픈소스 컨트리뷰터 에이전트 아키텍처]]></title>
@@ -49,7 +49,7 @@
         <link href="https://go.googlesource.com/oscar"/>
         <updated>2024-08-13T01:03:39.747Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote16291"><a class="upvote" href="javascript:vote(16291, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://go.googlesource.com/oscar" rel="nofollow" id="tr6"><h1>Oscar - 구글의 오픈소스 컨트리뷰터 에이전트 아키텍처</h1></a> <span class="topicurl">(go.googlesource.com)</span></div><div class="topicdesc"><a href="topic?id=16291" class="c99 breakall">- 오픈소스 유지 보수를 위한 자동화된 도우미 "에이전트"를 만들어 오픈 소스 소프트웨어 개발을 개선하는 것을 목표로 하는 프로젝트  
-  - 오...</a></div><div class="topicinfo"><span id="tp16291">3</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote16291"></span> | <a href="topic?id=16291" class="u">댓글과 토론</a></div>]]></content>
+  - 오...</a></div><div class="topicinfo"><span id="tp16291">3</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote16291"></span> | <a href="topic?id=16291" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Agile이 소프트웨어 혁신을 죽이고 있다]]></title>
@@ -60,21 +60,21 @@
 -...</a></div><div class="topicinfo"><span id="tp16282">12</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote16282"></span> | <a href="topic?id=16282" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례]]></title>
-        <id>https://medium.com/p/7f7a1da7b0aa</id>
-        <link href="https://medium.com/p/7f7a1da7b0aa"/>
-        <updated>2024-08-12T02:36:26.325Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote16283"><a class="upvote" href="javascript:vote(16283, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/p/7f7a1da7b0aa" rel="nofollow" id="tr8"><h1>배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례</h1></a> <span class="topicurl">(medium.com)</span></div><div class="topicdesc"><a href="topic?id=16283" class="c99 breakall">## 배포 시점에 급상승하는 API Latency 해결하기 - Djagno + Gunicorn 사례  
-- Backend 시스템이 Django + Gunicorn 으로 구성되어 있었음  
--...</a></div><div class="topicinfo"><span id="tp16283">9</span> points by <a href="/user?id=whatsup">whatsup</a> 1일전<span id="unvote16283"></span> | <a href="topic?id=16283" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Deep Live Cam - 실시간 얼굴 교체 및 원클릭 비디오 딥페이크 도구]]></title>
         <id>https://deeplive.cam/</id>
         <link href="https://deeplive.cam/"/>
         <updated>2024-08-12T01:04:05.715Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote16268"><a class="upvote" href="javascript:vote(16268, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deeplive.cam" rel="nofollow" id="tr9"><h1>GN⁺: Deep Live Cam - 실시간 얼굴 교체 및 원클릭 비디오 딥페이크 도구</h1></a> <span class="topicurl">(deeplive.cam)</span></div><div class="topicdesc"><a href="topic?id=16268" class="c99 breakall">- 최첨단 AI 기술을 활용하여 단 한장의 이미지로 원클릭 실시간 얼굴 교체 지원 (딥페이크 영상)  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote16268"><a class="upvote" href="javascript:vote(16268, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deeplive.cam" rel="nofollow" id="tr8"><h1>GN⁺: Deep Live Cam - 실시간 얼굴 교체 및 원클릭 비디오 딥페이크 도구</h1></a> <span class="topicurl">(deeplive.cam)</span></div><div class="topicdesc"><a href="topic?id=16268" class="c99 breakall">- 최첨단 AI 기술을 활용하여 단 한장의 이미지로 원클릭 실시간 얼굴 교체 지원 (딥페이크 영상)  
 - 멀티 플랫폼 : CPU, NVIDIA CUDA, Apple Si...</a></div><div class="topicinfo"><span id="tp16268">21</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote16268"></span> | <a href="topic?id=16268" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례]]></title>
+        <id>https://medium.com/p/7f7a1da7b0aa</id>
+        <link href="https://medium.com/p/7f7a1da7b0aa"/>
+        <updated>2024-08-12T02:36:26.325Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote16283"><a class="upvote" href="javascript:vote(16283, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/p/7f7a1da7b0aa" rel="nofollow" id="tr9"><h1>배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례</h1></a> <span class="topicurl">(medium.com)</span></div><div class="topicdesc"><a href="topic?id=16283" class="c99 breakall">## 배포 시점에 급상승하는 API Latency 해결하기 - Djagno + Gunicorn 사례  
+- Backend 시스템이 Django + Gunicorn 으로 구성되어 있었음  
+-...</a></div><div class="topicinfo"><span id="tp16283">9</span> points by <a href="/user?id=whatsup">whatsup</a> 1일전<span id="unvote16283"></span> | <a href="topic?id=16283" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Verso - Servo 웹 엔진 기반 웹 브라우저]]></title>
@@ -95,21 +95,21 @@
 - 속도가 매우 느리고 600ms 의 높...</a></div><div class="topicinfo"><span id="tp16272">9</span> points by <a href="/user?id=yeorinhieut">yeorinhieut</a> 2일전<span id="unvote16272"></span> | <a href="topic?id=16272" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: GitButler는 이제 Fair Source 입니다]]></title>
-        <id>https://blog.gitbutler.com/gitbutler-is-now-fair-source/</id>
-        <link href="https://blog.gitbutler.com/gitbutler-is-now-fair-source/"/>
-        <updated>2024-08-12T02:36:26.325Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote16281"><a class="upvote" href="javascript:vote(16281, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.gitbutler.com/gitbutler-is-now-fair-source/" rel="nofollow" id="tr12"><h1>GN⁺: GitButler는 이제 Fair Source 입니다</h1></a> <span class="topicurl">(blog.gitbutler.com)</span></div><div class="topicdesc"><a href="topic?id=16281" class="c99 breakall">- GitButler는 이제 Fair Source 운동의 첫 번째 회원 중 하나로, 기본적으로 폐쇄 소스를 공개 소프트웨어로 전환하는 데 기여함  
-- 몇 달 전, ...</a></div><div class="topicinfo"><span id="tp16281">5</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote16281"></span> | <a href="topic?id=16281" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Node.js Toolbox - 원하는 라이브러리 쉽게 찾기]]></title>
         <id>https://nodejstoolbox.com/</id>
         <link href="https://nodejstoolbox.com/"/>
         <updated>2024-08-10T02:33:43.165Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote16256"><a class="upvote" href="javascript:vote(16256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nodejstoolbox.com/" rel="nofollow" id="tr13"><h1>Node.js Toolbox - 원하는 라이브러리 쉽게 찾기</h1></a> <span class="topicurl">(nodejstoolbox.com)</span></div><div class="topicdesc"><a href="topic?id=16256" class="c99 breakall">- 카테고리별로 원하는 라이브러리를 쉽게 찾을수 있도록 구성  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote16256"><a class="upvote" href="javascript:vote(16256, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nodejstoolbox.com/" rel="nofollow" id="tr12"><h1>Node.js Toolbox - 원하는 라이브러리 쉽게 찾기</h1></a> <span class="topicurl">(nodejstoolbox.com)</span></div><div class="topicdesc"><a href="topic?id=16256" class="c99 breakall">- 카테고리별로 원하는 라이브러리를 쉽게 찾을수 있도록 구성  
 - Downloads / Stars / Forks / Issue closure Rate / Age 확인 가능   
 - 총 4...</a></div><div class="topicinfo"><span id="tp16256">20</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote16256"></span> | <a href="topic?id=16256" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: GitButler는 이제 Fair Source 입니다]]></title>
+        <id>https://blog.gitbutler.com/gitbutler-is-now-fair-source/</id>
+        <link href="https://blog.gitbutler.com/gitbutler-is-now-fair-source/"/>
+        <updated>2024-08-12T02:36:26.325Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote16281"><a class="upvote" href="javascript:vote(16281, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.gitbutler.com/gitbutler-is-now-fair-source/" rel="nofollow" id="tr13"><h1>GN⁺: GitButler는 이제 Fair Source 입니다</h1></a> <span class="topicurl">(blog.gitbutler.com)</span></div><div class="topicdesc"><a href="topic?id=16281" class="c99 breakall">- GitButler는 이제 Fair Source 운동의 첫 번째 회원 중 하나로, 기본적으로 폐쇄 소스를 공개 소프트웨어로 전환하는 데 기여함  
+- 몇 달 전, ...</a></div><div class="topicinfo"><span id="tp16281">5</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote16281"></span> | <a href="topic?id=16281" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나의 "AI" 활용 방법]]></title>
@@ -125,7 +125,7 @@
         <link href="https://github.com/stack-auth/stack"/>
         <updated>2024-08-11T01:07:07.339Z</updated>
         <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote16249"><a class="upvote" href="javascript:vote(16249, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/stack-auth/stack" rel="nofollow" id="tr15"><h1>GN⁺: Stack Auth – Auth0/Clerk 의 대안 오픈소스</h1></a> <span class="topicurl">(github.com/stack-auth)</span></div><div class="topicdesc"><a href="topic?id=16249" class="c99 breakall">- 개발자 친화적인 완전 오픈 소스 "사용자 인증 솔루션". MIT 및 AGPL 라이선스   
-- 빠르게 시작가능하며, 프로젝트가 성장함에 따라 모든 기능...</a></div><div class="topicinfo"><span id="tp16249">15</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote16249"></span> | <a href="topic?id=16249" class="u">댓글 1개</a></div>]]></content>
+- 빠르게 시작가능하며, 프로젝트가 성장함에 따라 모든 기능...</a></div><div class="topicinfo"><span id="tp16249">15</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote16249"></span> | <a href="topic?id=16249" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stealth - Proton의 새로운 VPN 프로토콜]]></title>
