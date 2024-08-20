@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-08-20T14:14:25.017Z</updated>
+    <updated>2024-08-20T15:15:09.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: mlut - Sass와 인체공학이 적용된 원자 CSS 툴킷]]></title>
+        <id>https://news.hada.io/topic?id=16389</id>
+        <link href="https://news.hada.io/topic?id=16389"/>
+        <updated>2024-08-20T15:14:48.377Z</updated>
+        <content type="html"><![CDATA[mr150]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 릴스 주고받는 친구에게 평가받는 앱]]></title>
         <id>https://news.hada.io/topic?id=16349</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15498"/>
         <updated>2024-08-06T16:17:06.389Z</updated>
         <content type="html"><![CDATA[trilliwon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 알로록달로록 오픈소스 모바일 청첩장]]></title>
-        <id>https://news.hada.io/topic?id=15054</id>
-        <link href="https://news.hada.io/topic?id=15054"/>
-        <updated>2024-08-18T18:17:03.232Z</updated>
-        <content type="html"><![CDATA[laeyoung]]></content>
     </entry>
 </feed>
