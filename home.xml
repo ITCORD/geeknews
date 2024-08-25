@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-08-25T17:14:58.083Z</updated>
+    <updated>2024-08-25T18:17:47.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Android에 16kb 페이지 크기 추가]]></title>
-        <id>https://news.hada.io/topic?id=16448</id>
-        <link href="https://news.hada.io/topic?id=16448"/>
-        <updated>2024-08-25T02:38:19.766Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote16448"><a class="upvote" href="javascript:vote(16448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html" rel="nofollow" id="tr1"><h1>GN⁺: Android에 16kb 페이지 크기 추가</h1></a> <span class="topicurl">(android-developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=16448" class="c99 breakall">- 페이지는 운영 체제가 메모리를 관리하는 최소 단위  
-- 대부분의 CPU는 4 KB 페이지 크기를 지원하며, Android OS와 애플리케이션은 4 KB 페이...</a></div><div class="topicinfo"><span id="tp16448">6</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote16448"></span> | <a href="topic?id=16448" class="u">댓글 1개</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: InstantDB – "현대적인 Firebase" : 실시간 클라이언트측 DB 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=16421</id>
         <link href="https://news.hada.io/topic?id=16421"/>
         <updated>2024-08-23T02:34:40.570Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote16421"><a class="upvote" href="javascript:vote(16421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/instantdb/instant" rel="nofollow" id="tr2"><h1>GN⁺: InstantDB – "현대적인 Firebase" : 실시간 클라이언트측 DB 오픈소스 </h1></a> <span class="topicurl">(github.com/instantdb)</span></div><div class="topicdesc"><a href="topic?id=16421" class="c99 breakall">- 클라이언트 측 DB로, Notion이나 Figma와 같은 실시간 협업 앱을 쉽게 구축할 수 있게 해줌  
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote16421"><a class="upvote" href="javascript:vote(16421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/instantdb/instant" rel="nofollow" id="tr1"><h1>GN⁺: InstantDB – "현대적인 Firebase" : 실시간 클라이언트측 DB 오픈소스 </h1></a> <span class="topicurl">(github.com/instantdb)</span></div><div class="topicdesc"><a href="topic?id=16421" class="c99 breakall">- 클라이언트 측 DB로, Notion이나 Figma와 같은 실시간 협업 앱을 쉽게 구축할 수 있게 해줌  
 - 관계형 쿼리를 작성하면 Instant가 데이터 가져...</a></div><div class="topicinfo"><span id="tp16421">18</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote16421"></span> | <a href="topic?id=16421" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Android에 16kb 페이지 크기 추가]]></title>
+        <id>https://news.hada.io/topic?id=16448</id>
+        <link href="https://news.hada.io/topic?id=16448"/>
+        <updated>2024-08-25T02:38:19.766Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote16448"><a class="upvote" href="javascript:vote(16448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html" rel="nofollow" id="tr2"><h1>GN⁺: Android에 16kb 페이지 크기 추가</h1></a> <span class="topicurl">(android-developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=16448" class="c99 breakall">- 페이지는 운영 체제가 메모리를 관리하는 최소 단위  
+- 대부분의 CPU는 4 KB 페이지 크기를 지원하며, Android OS와 애플리케이션은 4 KB 페이...</a></div><div class="topicinfo"><span id="tp16448">6</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote16448"></span> | <a href="topic?id=16448" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plasmo - 브라우저 확장 개발을 위한 프레임워크]]></title>
@@ -71,7 +71,7 @@
         <updated>2024-08-25T01:07:27.916Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote16456"><a class="upvote" href="javascript:vote(16456, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arstechnica.com/gadgets/2024/08/apple-says-farewell-to-its-app-store-chief-as-it-splits-his-team-in-two/" rel="nofollow" id="tr8"><h1>Apple, App Store 팀을 두 부분으로 분할하고 새로운 리더십을 도입</h1></a> <span class="topicurl">(arstechnica.com)</span></div><div class="topicdesc"><a href="topic?id=16456" class="c99 breakall">- 이는 EU 규제로 인한 일련의 변화 중 최근 사례임  
 - Apple이 오랫동안 지속된 App Store 팀을 전면 개편하여 두 개의 별도 부서로 분할함  
-...</a></div><div class="topicinfo"><span id="tp16456">1</span> point by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote16456"></span> | <a href="topic?id=16456" class="u">댓글과 토론</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp16456">1</span> point by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote16456"></span> | <a href="topic?id=16456" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI, GPT-4o 파인튜닝 기능 출시]]></title>
@@ -140,20 +140,20 @@
 - 그룹 채팅에서 질문하는 동안 많은 사람들이...</a></div><div class="topicinfo"><span id="tp16418">7</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote16418"></span> | <a href="topic?id=16418" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: AI가 Hype를 잃어가고 있다]]></title>
-        <id>https://news.hada.io/topic?id=16401</id>
-        <link href="https://news.hada.io/topic?id=16401"/>
-        <updated>2024-08-21T02:33:49.623Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote16401"><a class="upvote" href="javascript:vote(16401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype" rel="nofollow" id="tr17"><h1>GN⁺: AI가 Hype를 잃어가고 있다 </h1></a> <span class="topicurl">(economist.com)</span></div><div class="topicdesc"><a href="topic?id=16401" class="c99 breakall">- 실리콘밸리의 기술 전문가들이 최근 몇 주 동안 어려움을 겪고 있음  
-- 많은 투자자들이 AI가 그들이 추구하는 막대한 이익을 가져다주지 않을...</a></div><div class="topicinfo"><span id="tp16401">11</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote16401"></span> | <a href="topic?id=16401" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: 리눅스 데스크탑 시장 점유율 4.45%에 도달]]></title>
         <id>https://news.hada.io/topic?id=16416</id>
         <link href="https://news.hada.io/topic?id=16416"/>
         <updated>2024-08-23T01:02:02.319Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote16416"><a class="upvote" href="javascript:vote(16416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ostechnix.com/linux-market-share-july-2024-report/" rel="nofollow" id="tr18"><h1>GN⁺: 리눅스 데스크탑 시장 점유율 4.45%에 도달</h1></a> <span class="topicurl">(ostechnix.com)</span></div><div class="topicdesc"><a href="topic?id=16416" class="c99 breakall">- StatCounter의 최신 데이터에 따르면, 2024년 7월 기준으로 리눅스는 전 세계 데스크탑 운영체제 시장에서 4.45%의 점유율을 달성함  
-  - 2023...</a></div><div class="topicinfo"><span id="tp16416">6</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote16416"></span> | <a href="topic?id=16416" class="u">댓글 8개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote16416"><a class="upvote" href="javascript:vote(16416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ostechnix.com/linux-market-share-july-2024-report/" rel="nofollow" id="tr17"><h1>GN⁺: 리눅스 데스크탑 시장 점유율 4.45%에 도달</h1></a> <span class="topicurl">(ostechnix.com)</span></div><div class="topicdesc"><a href="topic?id=16416" class="c99 breakall">- StatCounter의 최신 데이터에 따르면, 2024년 7월 기준으로 리눅스는 전 세계 데스크탑 운영체제 시장에서 4.45%의 점유율을 달성함  
+  - 2023...</a></div><div class="topicinfo"><span id="tp16416">7</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote16416"></span> | <a href="topic?id=16416" class="u">댓글 8개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: AI가 Hype를 잃어가고 있다]]></title>
+        <id>https://news.hada.io/topic?id=16401</id>
+        <link href="https://news.hada.io/topic?id=16401"/>
+        <updated>2024-08-21T02:33:49.623Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote16401"><a class="upvote" href="javascript:vote(16401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype" rel="nofollow" id="tr18"><h1>GN⁺: AI가 Hype를 잃어가고 있다 </h1></a> <span class="topicurl">(economist.com)</span></div><div class="topicdesc"><a href="topic?id=16401" class="c99 breakall">- 실리콘밸리의 기술 전문가들이 최근 몇 주 동안 어려움을 겪고 있음  
+- 많은 투자자들이 AI가 그들이 추구하는 막대한 이익을 가져다주지 않을...</a></div><div class="topicinfo"><span id="tp16401">11</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote16401"></span> | <a href="topic?id=16401" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Valve의 Steam Play Proton 발표 6주년을 축하]]></title>
