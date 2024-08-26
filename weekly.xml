@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2024-08-25T23:14:24.412Z</updated>
+    <updated>2024-08-26T01:03:57.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그냥 Postgres 쓰세요]]></title>
+        <id>https://news.hada.io/weekly/202435</id>
+        <link href="https://news.hada.io/weekly/202435"/>
+        <updated>2024-08-26T01:03:45.665Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202435" class="u"> 그냥 Postgres 쓰세요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈 소스의 미래]]></title>
         <id>https://news.hada.io/weekly/202434</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202426"/>
         <updated>2024-06-24T01:00:42.328Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202426" class="u"> 방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1년 동안 LLM과 함께 구축하며 배운 점]]></title>
-        <id>https://news.hada.io/weekly/202425</id>
-        <link href="https://news.hada.io/weekly/202425"/>
-        <updated>2024-06-17T01:01:24.160Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202425" class="u"> 1년 동안 LLM과 함께 구축하며 배운 점</a>]]></content>
     </entry>
 </feed>
