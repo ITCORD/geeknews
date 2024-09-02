@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2024-09-01T23:13:49.454Z</updated>
+    <updated>2024-09-02T01:06:53.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코드 리뷰 안티패턴들]]></title>
+        <id>https://news.hada.io/weekly/202436</id>
+        <link href="https://news.hada.io/weekly/202436"/>
+        <updated>2024-09-02T01:06:42.087Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202436" class="u"> 코드 리뷰 안티패턴들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그냥 Postgres 쓰세요]]></title>
         <id>https://news.hada.io/weekly/202435</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202427"/>
         <updated>2024-07-01T01:06:00.874Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202427" class="u"> 지금이 서비스 비즈니스를 시작하기 좋은 시기입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라]]></title>
-        <id>https://news.hada.io/weekly/202426</id>
-        <link href="https://news.hada.io/weekly/202426"/>
-        <updated>2024-06-24T01:00:42.328Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202426" class="u"> 방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라</a>]]></content>
     </entry>
 </feed>
