@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-09-06T01:05:55.784Z</updated>
+    <updated>2024-09-06T02:40:48.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 세상을 떠난 반려묘를 AI로 영원히 추억하게 만들다. 나의 반려묘 사진을 AI로 학습하여 '이미지 생성 ...]]></title>
+        <id>https://news.hada.io/topic?id=16633</id>
+        <link href="https://news.hada.io/topic?id=16633"/>
+        <updated>2024-09-06T02:40:26.330Z</updated>
+        <content type="html"><![CDATA[arxivgpt]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: local-tls-proxy: 모든 포트를 https 로 만들기]]></title>
         <id>https://news.hada.io/topic?id=16620</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15981"/>
         <updated>2024-07-23T03:16:30.475Z</updated>
         <content type="html"><![CDATA[dankim304]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: textcube_to_jekyll - Textcube 백업 데이터를 Jekyll 포스트로 변환]]></title>
-        <id>https://news.hada.io/topic?id=16110</id>
-        <link href="https://news.hada.io/topic?id=16110"/>
-        <updated>2024-07-31T11:12:04.072Z</updated>
-        <content type="html"><![CDATA[reallyiamghost]]></content>
     </entry>
 </feed>
