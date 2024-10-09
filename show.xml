@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-10-09T11:14:12.338Z</updated>
+    <updated>2024-10-09T12:29:57.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 낯선 AI - 가장 안전한 채팅 앱]]></title>
+        <id>https://news.hada.io/topic?id=17159</id>
+        <link href="https://news.hada.io/topic?id=17159"/>
+        <updated>2024-10-09T12:29:35.530Z</updated>
+        <content type="html"><![CDATA[sungchi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: UI 라이브러리에 쉽게 통합할 수 있는 범용 상태 관리 라이브러리 "state-ref"]]></title>
         <id>https://news.hada.io/topic?id=17154</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=15628"/>
         <updated>2024-07-21T16:17:22.704Z</updated>
         <content type="html"><![CDATA[adldotori]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 세상을 떠난 반려묘를 AI로 영원히 추억하게 만들다. 나의 반려묘 사진을 AI로 학습하여 '이미지 생성 ...]]></title>
-        <id>https://news.hada.io/topic?id=16633</id>
-        <link href="https://news.hada.io/topic?id=16633"/>
-        <updated>2024-09-06T02:40:26.330Z</updated>
-        <content type="html"><![CDATA[arxivgpt]]></content>
     </entry>
 </feed>
