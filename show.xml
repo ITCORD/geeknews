@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-10-13T23:15:44.730Z</updated>
+    <updated>2024-10-14T01:11:51.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: High-Quality Prompt에 도달하기 위한 병렬 테스트 도구]]></title>
+        <id>https://news.hada.io/topic?id=17219</id>
+        <link href="https://news.hada.io/topic?id=17219"/>
+        <updated>2024-10-14T01:11:29.999Z</updated>
+        <content type="html"><![CDATA[changhoi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ThorVG - WebGPU를 지원하는 차세대 벡터 그래픽 엔진]]></title>
         <id>https://news.hada.io/topic?id=17193</id>
@@ -20,18 +27,18 @@
         <content type="html"><![CDATA[keunwoo]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 낯선 AI - 가장 안전한 채팅 앱]]></title>
-        <id>https://news.hada.io/topic?id=17159</id>
-        <link href="https://news.hada.io/topic?id=17159"/>
-        <updated>2024-10-09T12:29:35.530Z</updated>
-        <content type="html"><![CDATA[sungchi]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 차트 분석 AI, 근데 이제 손금을 곁들인]]></title>
         <id>https://news.hada.io/topic?id=17163</id>
         <link href="https://news.hada.io/topic?id=17163"/>
         <updated>2024-10-10T01:08:45.276Z</updated>
         <content type="html"><![CDATA[dnltmdwhd]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 낯선 AI - 가장 안전한 채팅 앱]]></title>
+        <id>https://news.hada.io/topic?id=17159</id>
+        <link href="https://news.hada.io/topic?id=17159"/>
+        <updated>2024-10-09T12:29:35.530Z</updated>
+        <content type="html"><![CDATA[sungchi]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: UI 라이브러리에 쉽게 통합할 수 있는 범용 상태 관리 라이브러리 "state-ref"]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=16475"/>
         <updated>2024-08-26T13:20:39.811Z</updated>
         <content type="html"><![CDATA[devenv]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 치지직 팔로워 라이브]]></title>
-        <id>https://news.hada.io/topic?id=16549</id>
-        <link href="https://news.hada.io/topic?id=16549"/>
-        <updated>2024-08-31T16:17:57.468Z</updated>
-        <content type="html"><![CDATA[popop098]]></content>
     </entry>
 </feed>
