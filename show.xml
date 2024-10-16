@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-10-16T20:17:16.520Z</updated>
+    <updated>2024-10-16T21:15:10.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: MacOS 앱배포를 위한 CLI 툴 feat .dmg, .pkg, codesign]]></title>
+        <id>https://news.hada.io/topic?id=17274</id>
+        <link href="https://news.hada.io/topic?id=17274"/>
+        <updated>2024-10-16T21:14:47.841Z</updated>
+        <content type="html"><![CDATA[ironpark]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: AutoRAG: HuggingFace Space 오픈]]></title>
         <id>https://news.hada.io/topic?id=17273</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=16749"/>
         <updated>2024-09-13T04:17:37.603Z</updated>
         <content type="html"><![CDATA[stareta1202]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: react-native-icons-builder - React Native에서 `react-icons`의 아이콘 사용하기]]></title>
-        <id>https://news.hada.io/topic?id=16861</id>
-        <link href="https://news.hada.io/topic?id=16861"/>
-        <updated>2024-09-20T15:15:57.066Z</updated>
-        <content type="html"><![CDATA[gronxb]]></content>
     </entry>
 </feed>
