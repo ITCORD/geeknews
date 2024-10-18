@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2024-10-17T23:16:06.997Z</updated>
+    <updated>2024-10-18T01:09:50.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 하고 싶은 말을 자유롭게 남겨주세요.]]></title>
+        <id>https://news.hada.io/topic?id=17301</id>
+        <link href="https://news.hada.io/topic?id=17301"/>
+        <updated>2024-10-18T01:09:33.766Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: Android 앱 개발할 때 어떤 환경을 사용하시나요?]]></title>
         <id>https://news.hada.io/topic?id=17250</id>
@@ -136,13 +143,6 @@
         <id>https://news.hada.io/topic?id=16429</id>
         <link href="https://news.hada.io/topic?id=16429"/>
         <updated>2024-08-23T02:35:04.049Z</updated>
-        <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=16020</id>
-        <link href="https://news.hada.io/topic?id=16020"/>
-        <updated>2024-07-26T01:00:30.562Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
 </feed>
