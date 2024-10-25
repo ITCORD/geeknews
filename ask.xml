@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews ─ Ask</title>
-    <updated>2024-10-25T01:10:24.718Z</updated>
+    <updated>2024-10-25T02:50:34.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 하고 싶은 말을 자유롭게 남겨주세요.]]></title>
+        <id>https://news.hada.io/topic?id=17419</id>
+        <link href="https://news.hada.io/topic?id=17419"/>
+        <updated>2024-10-25T02:50:18.008Z</updated>
+        <content type="html"><![CDATA[askbot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 개인 계좌 입출금 기록을 조회할 수 있는 api나 saas 가 있을까요?]]></title>
         <id>https://news.hada.io/topic?id=17389</id>
@@ -136,13 +143,6 @@
         <id>https://news.hada.io/topic?id=16748</id>
         <link href="https://news.hada.io/topic?id=16748"/>
         <updated>2024-09-13T03:16:37.390Z</updated>
-        <content type="html"><![CDATA[askbot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=16241</id>
-        <link href="https://news.hada.io/topic?id=16241"/>
-        <updated>2024-08-09T02:35:25.257Z</updated>
         <content type="html"><![CDATA[askbot]]></content>
     </entry>
 </feed>
