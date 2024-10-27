@@ -2,31 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-27T13:20:09.622Z</updated>
+    <updated>2024-10-27T14:14:38.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[DuckDB 사용법(DuckDB Python + Jupyter Lab) (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=17450</id>
+        <link href="https://news.hada.io/topic?id=17450"/>
+        <updated>2024-10-27T14:13:57.800Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17450"><a class="upvote" href="javascript:vote(17450, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zzsza.github.io/data-engineering/2024/10/25/duckdb/" rel="nofollow" id="tr1"><h1>DuckDB 사용법(DuckDB Python + Jupyter Lab)</h1></a> <span class="topicurl">(zzsza.github.io)</span></div><div class="topicdesc"><a href="topic?id=17450" class="c99 breakall">최근 OLAP 오픈소스 중에 각광을 받고 있는 DuckDB에 대한 사용법을 정리한 글입니다.  
+  
+Jupyter Lab에서 어떻게 활용할 수 있을지에 대한 내...</a></div><div class="topicinfo"><span id="tp17450">1</span> point by <a href="/user?id=zzsza">zzsza</a> 18분전<span id="unvote17450"></span> | <a href="topic?id=17450" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arch - 지능형 프롬프트 게이트웨이 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17438</id>
         <link href="https://news.hada.io/topic?id=17438"/>
         <updated>2024-10-27T01:14:56.044Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17438"><a class="upvote" href="javascript:vote(17438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/katanemo/arch" rel="nofollow" id="tr1"><h1>Arch - 지능형 프롬프트 게이트웨이</h1></a> <span class="topicurl">(github.com/katanemo)</span></div><div class="topicdesc"><a href="topic?id=17438" class="c99 breakall">- LLM 애플리케이션(에이전트, 어시스턴트, 코파일럿) 보호, 관찰, 개인화를 위한 지능형 7계층 게이트웨이로 사용자의 API와 통합하여 LLM을 최적...</a></div><div class="topicinfo"><span id="tp17438">4</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote17438"></span> | <a href="topic?id=17438" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17438"><a class="upvote" href="javascript:vote(17438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/katanemo/arch" rel="nofollow" id="tr2"><h1>Arch - 지능형 프롬프트 게이트웨이</h1></a> <span class="topicurl">(github.com/katanemo)</span></div><div class="topicdesc"><a href="topic?id=17438" class="c99 breakall">- LLM 애플리케이션(에이전트, 어시스턴트, 코파일럿) 보호, 관찰, 개인화를 위한 지능형 7계층 게이트웨이로 사용자의 API와 통합하여 LLM을 최적...</a></div><div class="topicinfo"><span id="tp17438">4</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote17438"></span> | <a href="topic?id=17438" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17405</id>
         <link href="https://news.hada.io/topic?id=17405"/>
         <updated>2024-10-25T01:09:44.282Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17405"><a class="upvote" href="javascript:vote(17405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html" rel="nofollow" id="tr2"><h1>GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기</h1></a> <span class="topicurl">(alexgarcia.xyz)</span></div><div class="topicdesc"><a href="topic?id=17405" class="c99 breakall">- SQLite의 기본 전체 텍스트 검색(FTS5) 확장과 sqlite-vec 시맨틱 검색과 함께 사용하여 애플리케이션에서 '하이브리드 검색'을 만들 수 있음   ...</a></div><div class="topicinfo"><span id="tp17405">17</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17405"></span> | <a href="topic?id=17405" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformers.js v3 릴리즈 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=17427</id>
-        <link href="https://news.hada.io/topic?id=17427"/>
-        <updated>2024-10-26T01:07:45.488Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17427"><a class="upvote" href="javascript:vote(17427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/transformersjs-v3" rel="nofollow" id="tr3"><h1>Transformers.js v3 릴리즈</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=17427" class="c99 breakall">- WebGPU 지원 (WASM 보다 100배까지 빠름)  
-- 새로운 양자화 포맷 dtypes   
-- 120개의 아키텍처 지원   
-- 25개 새로운 예제 프로젝트와 템...</a></div><div class="topicinfo"><span id="tp17427">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17427"></span> | <a href="topic?id=17427" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17405"><a class="upvote" href="javascript:vote(17405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html" rel="nofollow" id="tr3"><h1>GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기</h1></a> <span class="topicurl">(alexgarcia.xyz)</span></div><div class="topicdesc"><a href="topic?id=17405" class="c99 breakall">- SQLite의 기본 전체 텍스트 검색(FTS5) 확장과 sqlite-vec 시맨틱 검색과 함께 사용하여 애플리케이션에서 '하이브리드 검색'을 만들 수 있음   ...</a></div><div class="topicinfo"><span id="tp17405">17</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17405"></span> | <a href="topic?id=17405" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 학습하는 방법 배우기 (Learning to Learn) (GeekNews ─ 메인)]]></title>
@@ -37,35 +36,45 @@
 - 인터뷰를 마무리할 때, ...</a></div><div class="topicinfo"><span id="tp17382">40</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17382"></span> | <a href="topic?id=17382" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Transformers.js v3 릴리즈 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=17427</id>
+        <link href="https://news.hada.io/topic?id=17427"/>
+        <updated>2024-10-26T01:07:45.488Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17427"><a class="upvote" href="javascript:vote(17427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/transformersjs-v3" rel="nofollow" id="tr5"><h1>Transformers.js v3 릴리즈</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=17427" class="c99 breakall">- WebGPU 지원 (WASM 보다 100배까지 빠름)  
+- 새로운 양자화 포맷 dtypes   
+- 120개의 아키텍처 지원   
+- 25개 새로운 예제 프로젝트와 템...</a></div><div class="topicinfo"><span id="tp17427">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17427"></span> | <a href="topic?id=17427" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17448</id>
         <link href="https://news.hada.io/topic?id=17448"/>
         <updated>2024-10-27T06:20:42.899Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17448"><a class="upvote" href="javascript:vote(17448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.videolan.org/videolan/events/vdd24/" rel="nofollow" id="tr5"><h1>오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최</h1></a> <span class="topicurl">(videolan.org)</span></div><div class="topicdesc"><a href="topic?id=17448" class="c99 breakall">2024년 11월 2일(토)~11월 3일(일) 광운대학교에서 오픈 멀티미디어 컨퍼런스 Video Dev Days(VDD)가 열립니다.  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17448"><a class="upvote" href="javascript:vote(17448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.videolan.org/videolan/events/vdd24/" rel="nofollow" id="tr6"><h1>오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최</h1></a> <span class="topicurl">(videolan.org)</span></div><div class="topicdesc"><a href="topic?id=17448" class="c99 breakall">2024년 11월 2일(토)~11월 3일(일) 광운대학교에서 오픈 멀티미디어 컨퍼런스 Video Dev Days(VDD)가 열립니다.  
   
-대상: 오픈소스 멀티미디어...</a></div><div class="topicinfo"><span id="tp17448">1</span> point by <a href="/user?id=octopuset">octopuset</a> 8시간전<span id="unvote17448"></span> | <a href="topic?id=17448" class="u">댓글과 토론</a></div>]]></content>
+대상: 오픈소스 멀티미디어...</a></div><div class="topicinfo"><span id="tp17448">1</span> point by <a href="/user?id=octopuset">octopuset</a> 9시간전<span id="unvote17448"></span> | <a href="topic?id=17448" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17416</id>
         <link href="https://news.hada.io/topic?id=17416"/>
         <updated>2024-10-25T02:49:53.842Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17416"><a class="upvote" href="javascript:vote(17416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/openobserve/openobserve" rel="nofollow" id="tr6"><h1>OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼</h1></a> <span class="topicurl">(github.com/openobserve)</span></div><div class="topicdesc"><a href="topic?id=17416" class="c99 breakall">- O2는 로그, 메트릭, 트레이스, 분석, RUM(Real User Monitoring - 성능, 오류, 세션 리플레이) 등을 지원  
-- 페타바이트급 데이터를 처리할 수...</a></div><div class="topicinfo"><span id="tp17416">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17416"></span> | <a href="topic?id=17416" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17416"><a class="upvote" href="javascript:vote(17416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/openobserve/openobserve" rel="nofollow" id="tr7"><h1>OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼</h1></a> <span class="topicurl">(github.com/openobserve)</span></div><div class="topicdesc"><a href="topic?id=17416" class="c99 breakall">- O2는 로그, 메트릭, 트레이스, 분석, RUM(Real User Monitoring - 성능, 오류, 세션 리플레이) 등을 지원  
+- 페타바이트급 데이터를 처리할 수...</a></div><div class="topicinfo"><span id="tp17416">12</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17416"></span> | <a href="topic?id=17416" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17421</id>
         <link href="https://news.hada.io/topic?id=17421"/>
         <updated>2024-10-25T06:21:12.304Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17421"><a class="upvote" href="javascript:vote(17421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://solitairelaboratory.com/mshuffle.txt" rel="nofollow" id="tr7"><h1>윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘</h1></a> <span class="topicurl">(solitairelaboratory.com)</span></div><div class="topicdesc"><a href="topic?id=17421" class="c99 breakall">많은 분들이 플레이 해 보셨을 윈도의 프리셀은 카드를 무작위로 배열하고, 각 카드 배열마다 번호가 붙어있습니다. 같은 번호를 선택하면 동일하...</a></div><div class="topicinfo"><span id="tp17421">9</span> points by <a href="/user?id=regentag">regentag</a> 2일전<span id="unvote17421"></span> | <a href="topic?id=17421" class="u">댓글 7개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17421"><a class="upvote" href="javascript:vote(17421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://solitairelaboratory.com/mshuffle.txt" rel="nofollow" id="tr8"><h1>윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘</h1></a> <span class="topicurl">(solitairelaboratory.com)</span></div><div class="topicdesc"><a href="topic?id=17421" class="c99 breakall">많은 분들이 플레이 해 보셨을 윈도의 프리셀은 카드를 무작위로 배열하고, 각 카드 배열마다 번호가 붙어있습니다. 같은 번호를 선택하면 동일하...</a></div><div class="topicinfo"><span id="tp17421">9</span> points by <a href="/user?id=regentag">regentag</a> 2일전<span id="unvote17421"></span> | <a href="topic?id=17421" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17404</id>
         <link href="https://news.hada.io/topic?id=17404"/>
         <updated>2024-10-25T01:09:44.286Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17404"><a class="upvote" href="javascript:vote(17404, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess" rel="nofollow" id="tr8"><h1>GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일</h1></a> <span class="topicurl">(davidreis.me)</span></div><div class="topicdesc"><a href="topic?id=17404" class="c99 breakall">- Lichess 는 전 세계 수백만 명의 플레이어를 가진 무료 오픈 소스 체스 플랫폼  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17404"><a class="upvote" href="javascript:vote(17404, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess" rel="nofollow" id="tr9"><h1>GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일</h1></a> <span class="topicurl">(davidreis.me)</span></div><div class="topicdesc"><a href="topic?id=17404" class="c99 breakall">- Lichess 는 전 세계 수백만 명의 플레이어를 가진 무료 오픈 소스 체스 플랫폼  
 - Chrome DevTools의 Network탭을 사용하여 클라이언트와 서버...</a></div><div class="topicinfo"><span id="tp17404">12</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17404"></span> | <a href="topic?id=17404" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -73,14 +82,14 @@
         <id>https://news.hada.io/topic?id=17397</id>
         <link href="https://news.hada.io/topic?id=17397"/>
         <updated>2024-10-24T02:47:40.689Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17397"><a class="upvote" href="javascript:vote(17397, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/21/claude-artifacts/" rel="nofollow" id="tr9"><h1>GN⁺: 이번 주 Claude Artifacts로 구축한 모든 것</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17397" class="c99 breakall">- Claude Artifacts 는 HTML, CSS, JavaScript를 사용하여 인터랙티브한 싱글 페이지 앱을 생성하고, Claude 인터페이스 내에서 결과를 확인하며 ...</a></div><div class="topicinfo"><span id="tp17397">15</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17397"></span> | <a href="topic?id=17397" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17397"><a class="upvote" href="javascript:vote(17397, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/21/claude-artifacts/" rel="nofollow" id="tr10"><h1>GN⁺: 이번 주 Claude Artifacts로 구축한 모든 것</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17397" class="c99 breakall">- Claude Artifacts 는 HTML, CSS, JavaScript를 사용하여 인터랙티브한 싱글 페이지 앱을 생성하고, Claude 인터페이스 내에서 결과를 확인하며 ...</a></div><div class="topicinfo"><span id="tp17397">15</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17397"></span> | <a href="topic?id=17397" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17377</id>
         <link href="https://news.hada.io/topic?id=17377"/>
         <updated>2024-10-23T02:47:38.577Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17377"><a class="upvote" href="javascript:vote(17377, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning" rel="nofollow" id="tr10"><h1>GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음</h1></a> <span class="topicurl">(trevorlasn.com)</span></div><div class="topicdesc"><a href="topic?id=17377" class="c99 breakall">- 과거에는 "Senior Software Engineer"라는 타이틀이 실질적인 의미를 가지고 있었음  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17377"><a class="upvote" href="javascript:vote(17377, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning" rel="nofollow" id="tr11"><h1>GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음</h1></a> <span class="topicurl">(trevorlasn.com)</span></div><div class="topicdesc"><a href="topic?id=17377" class="c99 breakall">- 과거에는 "Senior Software Engineer"라는 타이틀이 실질적인 의미를 가지고 있었음  
 - 최근 몇 년 동안, 업계에서는 급격한 직함 인플레이션...</a></div><div class="topicinfo"><span id="tp17377">18</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17377"></span> | <a href="topic?id=17377" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -88,7 +97,7 @@
         <id>https://news.hada.io/topic?id=17407</id>
         <link href="https://news.hada.io/topic?id=17407"/>
         <updated>2024-10-25T02:49:53.842Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17407"><a class="upvote" href="javascript:vote(17407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.jetbrains.com/rider/" rel="nofollow" id="tr11"><h1>GN⁺: JetBrains Rider, 이제 비상업적 사용은 무료</h1></a> <span class="topicurl">(jetbrains.com)</span></div><div class="topicdesc"><a href="topic?id=17407" class="c99 breakall">- JetBrains Rider는 .NET 기술 스택 전체와 게임 개발자를 위한 올인원 IDE  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17407"><a class="upvote" href="javascript:vote(17407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.jetbrains.com/rider/" rel="nofollow" id="tr12"><h1>GN⁺: JetBrains Rider, 이제 비상업적 사용은 무료</h1></a> <span class="topicurl">(jetbrains.com)</span></div><div class="topicdesc"><a href="topic?id=17407" class="c99 breakall">- JetBrains Rider는 .NET 기술 스택 전체와 게임 개발자를 위한 올인원 IDE  
 - .NET, ASP.NET Core, MAUI와 같은 프레임워크나 Unity, Unreal E...</a></div><div class="topicinfo"><span id="tp17407">6</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17407"></span> | <a href="topic?id=17407" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -96,23 +105,23 @@
         <id>https://news.hada.io/topic?id=17400</id>
         <link href="https://news.hada.io/topic?id=17400"/>
         <updated>2024-10-24T02:47:40.693Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17400"><a class="upvote" href="javascript:vote(17400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plasma-umass/scalene" rel="nofollow" id="tr12"><h1>Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러</h1></a> <span class="topicurl">(github.com/plasma-umass)</span></div><div class="topicdesc"><a href="topic?id=17400" class="c99 breakall">- 다른 Python 프로파일러가 하지 않거나 할 수 없는 여러 가지 작업을 수행하는 Python용 고성능 CPU, GPU 및 메모리 프로파일러  
-- 훨씬 더 빠...</a></div><div class="topicinfo"><span id="tp17400">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17400"></span> | <a href="topic?id=17400" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17400"><a class="upvote" href="javascript:vote(17400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plasma-umass/scalene" rel="nofollow" id="tr13"><h1>Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러</h1></a> <span class="topicurl">(github.com/plasma-umass)</span></div><div class="topicdesc"><a href="topic?id=17400" class="c99 breakall">- 다른 Python 프로파일러가 하지 않거나 할 수 없는 여러 가지 작업을 수행하는 Python용 고성능 CPU, GPU 및 메모리 프로파일러  
+- 훨씬 더 빠...</a></div><div class="topicinfo"><span id="tp17400">10</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17400"></span> | <a href="topic?id=17400" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Generative AI’s Act o1 - 에이전트 추론의 시대 개막 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17349</id>
         <link href="https://news.hada.io/topic?id=17349"/>
         <updated>2024-10-21T02:52:12.191Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17349"><a class="upvote" href="javascript:vote(17349, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.sequoiacap.com/article/generative-ais-act-o1/" rel="nofollow" id="tr13"><h1>Generative AI’s Act o1 - 에이전트 추론의 시대 개막</h1></a> <span class="topicurl">(sequoiacap.com)</span></div><div class="topicdesc"><a href="topic?id=17349" class="c99 breakall">- Generative AI 혁명 2년차에 접어들면서, 연구는 "빠른 사고"에서 "느린 사고"로 진화하고 있음  
-  - "빠른 사고"는 사전 학습된 빠른 응답을 ...</a></div><div class="topicinfo"><span id="tp17349">27</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17349"></span> | <a href="topic?id=17349" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17349"><a class="upvote" href="javascript:vote(17349, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.sequoiacap.com/article/generative-ais-act-o1/" rel="nofollow" id="tr14"><h1>Generative AI’s Act o1 - 에이전트 추론의 시대 개막</h1></a> <span class="topicurl">(sequoiacap.com)</span></div><div class="topicdesc"><a href="topic?id=17349" class="c99 breakall">- Generative AI 혁명 2년차에 접어들면서, 연구는 "빠른 사고"에서 "느린 사고"로 진화하고 있음  
+  - "빠른 사고"는 사전 학습된 빠른 응답을 ...</a></div><div class="topicinfo"><span id="tp17349">27</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote17349"></span> | <a href="topic?id=17349" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17365</id>
         <link href="https://news.hada.io/topic?id=17365"/>
         <updated>2024-10-22T02:49:29.107Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17365"><a class="upvote" href="javascript:vote(17365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/17/video-scraping/" rel="nofollow" id="tr14"><h1>비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17365" class="c99 breakall">- 12개의 서로 다른 이메일에 흩어져 있는 숫자 값을 합산할 일이 생김   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17365"><a class="upvote" href="javascript:vote(17365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/17/video-scraping/" rel="nofollow" id="tr15"><h1>비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17365" class="c99 breakall">- 12개의 서로 다른 이메일에 흩어져 있는 숫자 값을 합산할 일이 생김   
 - 복사가 귀찮아서 Gmail 계정을 둘러보는 동안 화면 캡처를 녹화한 다...</a></div><div class="topicinfo"><span id="tp17365">20</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17365"></span> | <a href="topic?id=17365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -120,7 +129,7 @@
         <id>https://news.hada.io/topic?id=17388</id>
         <link href="https://news.hada.io/topic?id=17388"/>
         <updated>2024-10-23T04:18:27.991Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17388"><a class="upvote" href="javascript:vote(17388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2024/10/18-355/" rel="nofollow" id="tr15"><h1>메타는 오픈소스를 오염시키고있다.</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=17388" class="c99 breakall">- 오픈소스이니셔티브(OSI)의 책임자인 스테파노 마풀리 총괄이사가 메타를 비난함.  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17388"><a class="upvote" href="javascript:vote(17388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2024/10/18-355/" rel="nofollow" id="tr16"><h1>메타는 오픈소스를 오염시키고있다.</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=17388" class="c99 breakall">- 오픈소스이니셔티브(OSI)의 책임자인 스테파노 마풀리 총괄이사가 메타를 비난함.  
 - 메타는, 라마를 발표하며 ‘오픈소스’란 용어를 사용해 사...</a></div><div class="topicinfo"><span id="tp17388">13</span> points by <a href="/user?id=bbulbum">bbulbum</a> 4일전<span id="unvote17388"></span> | <a href="topic?id=17388" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -128,23 +137,23 @@
         <id>https://news.hada.io/topic?id=17402</id>
         <link href="https://news.hada.io/topic?id=17402"/>
         <updated>2024-10-24T02:47:40.698Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17402"><a class="upvote" href="javascript:vote(17402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/introducing-stable-diffusion-3-5" rel="nofollow" id="tr16"><h1>Stable Diffusion 3.5 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=17402" class="c99 breakall">- 소비자 하드웨어에서 실행 가능하고 유연하게 커스터마이징할 수 있는 여러 버전의 모델이 포함되며, 대부분의 사용 사례에 무료로 사용 가능함 ...</a></div><div class="topicinfo"><span id="tp17402">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17402"></span> | <a href="topic?id=17402" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17402"><a class="upvote" href="javascript:vote(17402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/introducing-stable-diffusion-3-5" rel="nofollow" id="tr17"><h1>Stable Diffusion 3.5 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=17402" class="c99 breakall">- 소비자 하드웨어에서 실행 가능하고 유연하게 커스터마이징할 수 있는 여러 버전의 모델이 포함되며, 대부분의 사용 사례에 무료로 사용 가능함 ...</a></div><div class="topicinfo"><span id="tp17402">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17402"></span> | <a href="topic?id=17402" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PlaceholderJS - 간단하고 가벼운 플레이스홀더 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17401</id>
         <link href="https://news.hada.io/topic?id=17401"/>
         <updated>2024-10-24T02:47:40.692Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17401"><a class="upvote" href="javascript:vote(17401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://placeholderjs.com/" rel="nofollow" id="tr17"><h1>PlaceholderJS - 간단하고 가벼운 플레이스홀더</h1></a> <span class="topicurl">(placeholderjs.com)</span></div><div class="topicdesc"><a href="topic?id=17401" class="c99 breakall">- 개발자 대상의 무료 PlaceHolder 서비스   
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17401"><a class="upvote" href="javascript:vote(17401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://placeholderjs.com/" rel="nofollow" id="tr18"><h1>PlaceholderJS - 간단하고 가벼운 플레이스홀더</h1></a> <span class="topicurl">(placeholderjs.com)</span></div><div class="topicdesc"><a href="topic?id=17401" class="c99 breakall">- 개발자 대상의 무료 PlaceHolder 서비스   
 - React &amp; NextJS 와 심리스하게 연동   
-- 옵션을 파라미터로 지정 가능 : 이미지 사이즈(/HEIGHT...</a></div><div class="topicinfo"><span id="tp17401">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17401"></span> | <a href="topic?id=17401" class="u">댓글 2개</a></div>]]></content>
+- 옵션을 파라미터로 지정 가능 : 이미지 사이즈(/HEIGHT...</a></div><div class="topicinfo"><span id="tp17401">8</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17401"></span> | <a href="topic?id=17401" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=17376</id>
         <link href="https://news.hada.io/topic?id=17376"/>
         <updated>2024-10-23T01:08:43.731Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17376"><a class="upvote" href="javascript:vote(17376, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/" rel="nofollow" id="tr18"><h1>GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각</h1></a> <span class="topicurl">(nolanlawson.com)</span></div><div class="topicdesc"><a href="topic?id=17376" class="c99 breakall">- 최근 Node.js 툴을 Rust, Zig, Go 등의 더 빠른 언어로 다시 작성하려는 경향이 걱정스러우며, 객관적인 우려사항들을 정리함   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17376"><a class="upvote" href="javascript:vote(17376, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/" rel="nofollow" id="tr19"><h1>GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각</h1></a> <span class="topicurl">(nolanlawson.com)</span></div><div class="topicdesc"><a href="topic?id=17376" class="c99 breakall">- 최근 Node.js 툴을 Rust, Zig, Go 등의 더 빠른 언어로 다시 작성하려는 경향이 걱정스러우며, 객관적인 우려사항들을 정리함   
   
 # [성능] ...</a></div><div class="topicinfo"><span id="tp17376">12</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17376"></span> | <a href="topic?id=17376" class="u">댓글 15개</a></div>]]></content>
     </entry>
@@ -153,43 +162,34 @@
         <id>https://news.hada.io/topic?id=17371</id>
         <link href="https://news.hada.io/topic?id=17371"/>
         <updated>2024-10-22T07:16:01.987Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17371"><a class="upvote" href="javascript:vote(17371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17371" rel="nofollow" id="tr19"><h1>Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션</h1></a> <span class="topicurl">(payaction.app)</span></div><div class="topicdesc"><a href="topic?id=17371" class="c99 breakall">안녕하세요!  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17371"><a class="upvote" href="javascript:vote(17371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17371" rel="nofollow" id="tr20"><h1>Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션</h1></a> <span class="topicurl">(payaction.app)</span></div><div class="topicdesc"><a href="topic?id=17371" class="c99 breakall">안녕하세요!  
 커머스/뱅킹 자동화 SaaS 페이액션입니다.  
   
 '실시간 계좌 거래내역을 1초만에 수신할수 있는 기능'을 정식 출시했습니다.  
 ...</a></div><div class="topicinfo"><span id="tp17371">14</span> points by <a href="/user?id=wally">wally</a> 5일전<span id="unvote17371"></span> | <a href="topic?id=17371" class="u">댓글 13개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft GenAIScript - 생성형 AI 스크립팅 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=17417</id>
-        <link href="https://news.hada.io/topic?id=17417"/>
-        <updated>2024-10-25T02:49:53.847Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17417"><a class="upvote" href="javascript:vote(17417, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://microsoft.github.io/genaiscript/" rel="nofollow" id="tr20"><h1>Microsoft GenAIScript - 생성형 AI 스크립팅 </h1></a> <span class="topicurl">(microsoft.github.io)</span></div><div class="topicdesc"><a href="topic?id=17417" class="c99 breakall">- "Prompting is Coding" : JavaScript를 사용하여 LLM에 대한 프롬프트를 프로그래밍 방식으로 작성하는 스크립팅 언어 및 환경   
-  - ```$`Ana...</a></div><div class="topicinfo"><span id="tp17417">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17417"></span> | <a href="topic?id=17417" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[DuckDB 사용법(DuckDB Python + Jupyter Lab) (GeekNews ─ 메인 원문)]]></title>
+        <id>https://zzsza.github.io/data-engineering/2024/10/25/duckdb/</id>
+        <link href="https://zzsza.github.io/data-engineering/2024/10/25/duckdb/"/>
+        <updated>2024-10-27T14:14:02.697Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17450"><a class="upvote" href="javascript:vote(17450, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zzsza.github.io/data-engineering/2024/10/25/duckdb/" rel="nofollow" id="tr1"><h1>DuckDB 사용법(DuckDB Python + Jupyter Lab)</h1></a> <span class="topicurl">(zzsza.github.io)</span></div><div class="topicdesc"><a href="topic?id=17450" class="c99 breakall">최근 OLAP 오픈소스 중에 각광을 받고 있는 DuckDB에 대한 사용법을 정리한 글입니다.  
+  
+Jupyter Lab에서 어떻게 활용할 수 있을지에 대한 내...</a></div><div class="topicinfo"><span id="tp17450">1</span> point by <a href="/user?id=zzsza">zzsza</a> 18분전<span id="unvote17450"></span> | <a href="topic?id=17450" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arch - 지능형 프롬프트 게이트웨이 (GeekNews ─ 메인 원문)]]></title>
         <id>https://github.com/katanemo/arch</id>
         <link href="https://github.com/katanemo/arch"/>
         <updated>2024-10-27T01:15:00.861Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17438"><a class="upvote" href="javascript:vote(17438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/katanemo/arch" rel="nofollow" id="tr1"><h1>Arch - 지능형 프롬프트 게이트웨이</h1></a> <span class="topicurl">(github.com/katanemo)</span></div><div class="topicdesc"><a href="topic?id=17438" class="c99 breakall">- LLM 애플리케이션(에이전트, 어시스턴트, 코파일럿) 보호, 관찰, 개인화를 위한 지능형 7계층 게이트웨이로 사용자의 API와 통합하여 LLM을 최적...</a></div><div class="topicinfo"><span id="tp17438">4</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote17438"></span> | <a href="topic?id=17438" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17438"><a class="upvote" href="javascript:vote(17438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/katanemo/arch" rel="nofollow" id="tr2"><h1>Arch - 지능형 프롬프트 게이트웨이</h1></a> <span class="topicurl">(github.com/katanemo)</span></div><div class="topicdesc"><a href="topic?id=17438" class="c99 breakall">- LLM 애플리케이션(에이전트, 어시스턴트, 코파일럿) 보호, 관찰, 개인화를 위한 지능형 7계층 게이트웨이로 사용자의 API와 통합하여 LLM을 최적...</a></div><div class="topicinfo"><span id="tp17438">4</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote17438"></span> | <a href="topic?id=17438" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기 (GeekNews ─ 메인 원문)]]></title>
         <id>https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html</id>
         <link href="https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html"/>
         <updated>2024-10-25T01:09:49.181Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17405"><a class="upvote" href="javascript:vote(17405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html" rel="nofollow" id="tr2"><h1>GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기</h1></a> <span class="topicurl">(alexgarcia.xyz)</span></div><div class="topicdesc"><a href="topic?id=17405" class="c99 breakall">- SQLite의 기본 전체 텍스트 검색(FTS5) 확장과 sqlite-vec 시맨틱 검색과 함께 사용하여 애플리케이션에서 '하이브리드 검색'을 만들 수 있음   ...</a></div><div class="topicinfo"><span id="tp17405">17</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17405"></span> | <a href="topic?id=17405" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformers.js v3 릴리즈 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://huggingface.co/blog/transformersjs-v3</id>
-        <link href="https://huggingface.co/blog/transformersjs-v3"/>
-        <updated>2024-10-26T01:07:50.109Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17427"><a class="upvote" href="javascript:vote(17427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/transformersjs-v3" rel="nofollow" id="tr3"><h1>Transformers.js v3 릴리즈</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=17427" class="c99 breakall">- WebGPU 지원 (WASM 보다 100배까지 빠름)  
-- 새로운 양자화 포맷 dtypes   
-- 120개의 아키텍처 지원   
-- 25개 새로운 예제 프로젝트와 템...</a></div><div class="topicinfo"><span id="tp17427">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17427"></span> | <a href="topic?id=17427" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17405"><a class="upvote" href="javascript:vote(17405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html" rel="nofollow" id="tr3"><h1>GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기</h1></a> <span class="topicurl">(alexgarcia.xyz)</span></div><div class="topicdesc"><a href="topic?id=17405" class="c99 breakall">- SQLite의 기본 전체 텍스트 검색(FTS5) 확장과 sqlite-vec 시맨틱 검색과 함께 사용하여 애플리케이션에서 '하이브리드 검색'을 만들 수 있음   ...</a></div><div class="topicinfo"><span id="tp17405">17</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17405"></span> | <a href="topic?id=17405" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 학습하는 방법 배우기 (Learning to Learn) (GeekNews ─ 메인 원문)]]></title>
@@ -200,35 +200,45 @@
 - 인터뷰를 마무리할 때, ...</a></div><div class="topicinfo"><span id="tp17382">40</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17382"></span> | <a href="topic?id=17382" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Transformers.js v3 릴리즈 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://huggingface.co/blog/transformersjs-v3</id>
+        <link href="https://huggingface.co/blog/transformersjs-v3"/>
+        <updated>2024-10-26T01:07:50.109Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17427"><a class="upvote" href="javascript:vote(17427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/transformersjs-v3" rel="nofollow" id="tr5"><h1>Transformers.js v3 릴리즈</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=17427" class="c99 breakall">- WebGPU 지원 (WASM 보다 100배까지 빠름)  
+- 새로운 양자화 포맷 dtypes   
+- 120개의 아키텍처 지원   
+- 25개 새로운 예제 프로젝트와 템...</a></div><div class="topicinfo"><span id="tp17427">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17427"></span> | <a href="topic?id=17427" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최 (GeekNews ─ 메인 원문)]]></title>
         <id>https://www.videolan.org/videolan/events/vdd24/</id>
         <link href="https://www.videolan.org/videolan/events/vdd24/"/>
         <updated>2024-10-27T06:20:47.245Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17448"><a class="upvote" href="javascript:vote(17448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.videolan.org/videolan/events/vdd24/" rel="nofollow" id="tr5"><h1>오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최</h1></a> <span class="topicurl">(videolan.org)</span></div><div class="topicdesc"><a href="topic?id=17448" class="c99 breakall">2024년 11월 2일(토)~11월 3일(일) 광운대학교에서 오픈 멀티미디어 컨퍼런스 Video Dev Days(VDD)가 열립니다.  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17448"><a class="upvote" href="javascript:vote(17448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.videolan.org/videolan/events/vdd24/" rel="nofollow" id="tr6"><h1>오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최</h1></a> <span class="topicurl">(videolan.org)</span></div><div class="topicdesc"><a href="topic?id=17448" class="c99 breakall">2024년 11월 2일(토)~11월 3일(일) 광운대학교에서 오픈 멀티미디어 컨퍼런스 Video Dev Days(VDD)가 열립니다.  
   
-대상: 오픈소스 멀티미디어...</a></div><div class="topicinfo"><span id="tp17448">1</span> point by <a href="/user?id=octopuset">octopuset</a> 8시간전<span id="unvote17448"></span> | <a href="topic?id=17448" class="u">댓글과 토론</a></div>]]></content>
+대상: 오픈소스 멀티미디어...</a></div><div class="topicinfo"><span id="tp17448">1</span> point by <a href="/user?id=octopuset">octopuset</a> 9시간전<span id="unvote17448"></span> | <a href="topic?id=17448" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼 (GeekNews ─ 메인 원문)]]></title>
         <id>https://github.com/openobserve/openobserve</id>
         <link href="https://github.com/openobserve/openobserve"/>
         <updated>2024-10-25T02:49:58.666Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17416"><a class="upvote" href="javascript:vote(17416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/openobserve/openobserve" rel="nofollow" id="tr6"><h1>OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼</h1></a> <span class="topicurl">(github.com/openobserve)</span></div><div class="topicdesc"><a href="topic?id=17416" class="c99 breakall">- O2는 로그, 메트릭, 트레이스, 분석, RUM(Real User Monitoring - 성능, 오류, 세션 리플레이) 등을 지원  
-- 페타바이트급 데이터를 처리할 수...</a></div><div class="topicinfo"><span id="tp17416">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17416"></span> | <a href="topic?id=17416" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17416"><a class="upvote" href="javascript:vote(17416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/openobserve/openobserve" rel="nofollow" id="tr7"><h1>OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼</h1></a> <span class="topicurl">(github.com/openobserve)</span></div><div class="topicdesc"><a href="topic?id=17416" class="c99 breakall">- O2는 로그, 메트릭, 트레이스, 분석, RUM(Real User Monitoring - 성능, 오류, 세션 리플레이) 등을 지원  
+- 페타바이트급 데이터를 처리할 수...</a></div><div class="topicinfo"><span id="tp17416">12</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17416"></span> | <a href="topic?id=17416" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘 (GeekNews ─ 메인 원문)]]></title>
         <id>http://solitairelaboratory.com/mshuffle.txt</id>
         <link href="http://solitairelaboratory.com/mshuffle.txt"/>
         <updated>2024-10-25T06:21:16.886Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17421"><a class="upvote" href="javascript:vote(17421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://solitairelaboratory.com/mshuffle.txt" rel="nofollow" id="tr7"><h1>윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘</h1></a> <span class="topicurl">(solitairelaboratory.com)</span></div><div class="topicdesc"><a href="topic?id=17421" class="c99 breakall">많은 분들이 플레이 해 보셨을 윈도의 프리셀은 카드를 무작위로 배열하고, 각 카드 배열마다 번호가 붙어있습니다. 같은 번호를 선택하면 동일하...</a></div><div class="topicinfo"><span id="tp17421">9</span> points by <a href="/user?id=regentag">regentag</a> 2일전<span id="unvote17421"></span> | <a href="topic?id=17421" class="u">댓글 7개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17421"><a class="upvote" href="javascript:vote(17421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://solitairelaboratory.com/mshuffle.txt" rel="nofollow" id="tr8"><h1>윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘</h1></a> <span class="topicurl">(solitairelaboratory.com)</span></div><div class="topicdesc"><a href="topic?id=17421" class="c99 breakall">많은 분들이 플레이 해 보셨을 윈도의 프리셀은 카드를 무작위로 배열하고, 각 카드 배열마다 번호가 붙어있습니다. 같은 번호를 선택하면 동일하...</a></div><div class="topicinfo"><span id="tp17421">9</span> points by <a href="/user?id=regentag">regentag</a> 2일전<span id="unvote17421"></span> | <a href="topic?id=17421" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일 (GeekNews ─ 메인 원문)]]></title>
         <id>https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess</id>
         <link href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess"/>
         <updated>2024-10-25T01:09:49.184Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17404"><a class="upvote" href="javascript:vote(17404, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess" rel="nofollow" id="tr8"><h1>GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일</h1></a> <span class="topicurl">(davidreis.me)</span></div><div class="topicdesc"><a href="topic?id=17404" class="c99 breakall">- Lichess 는 전 세계 수백만 명의 플레이어를 가진 무료 오픈 소스 체스 플랫폼  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17404"><a class="upvote" href="javascript:vote(17404, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess" rel="nofollow" id="tr9"><h1>GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일</h1></a> <span class="topicurl">(davidreis.me)</span></div><div class="topicdesc"><a href="topic?id=17404" class="c99 breakall">- Lichess 는 전 세계 수백만 명의 플레이어를 가진 무료 오픈 소스 체스 플랫폼  
 - Chrome DevTools의 Network탭을 사용하여 클라이언트와 서버...</a></div><div class="topicinfo"><span id="tp17404">12</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17404"></span> | <a href="topic?id=17404" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -236,14 +246,14 @@
         <id>https://simonwillison.net/2024/Oct/21/claude-artifacts/</id>
         <link href="https://simonwillison.net/2024/Oct/21/claude-artifacts/"/>
         <updated>2024-10-24T02:47:45.346Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17397"><a class="upvote" href="javascript:vote(17397, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/21/claude-artifacts/" rel="nofollow" id="tr9"><h1>GN⁺: 이번 주 Claude Artifacts로 구축한 모든 것</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17397" class="c99 breakall">- Claude Artifacts 는 HTML, CSS, JavaScript를 사용하여 인터랙티브한 싱글 페이지 앱을 생성하고, Claude 인터페이스 내에서 결과를 확인하며 ...</a></div><div class="topicinfo"><span id="tp17397">15</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17397"></span> | <a href="topic?id=17397" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17397"><a class="upvote" href="javascript:vote(17397, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/21/claude-artifacts/" rel="nofollow" id="tr10"><h1>GN⁺: 이번 주 Claude Artifacts로 구축한 모든 것</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17397" class="c99 breakall">- Claude Artifacts 는 HTML, CSS, JavaScript를 사용하여 인터랙티브한 싱글 페이지 앱을 생성하고, Claude 인터페이스 내에서 결과를 확인하며 ...</a></div><div class="topicinfo"><span id="tp17397">15</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17397"></span> | <a href="topic?id=17397" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음 (GeekNews ─ 메인 원문)]]></title>
         <id>https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning</id>
         <link href="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning"/>
         <updated>2024-10-23T02:47:43.211Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17377"><a class="upvote" href="javascript:vote(17377, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning" rel="nofollow" id="tr10"><h1>GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음</h1></a> <span class="topicurl">(trevorlasn.com)</span></div><div class="topicdesc"><a href="topic?id=17377" class="c99 breakall">- 과거에는 "Senior Software Engineer"라는 타이틀이 실질적인 의미를 가지고 있었음  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17377"><a class="upvote" href="javascript:vote(17377, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning" rel="nofollow" id="tr11"><h1>GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음</h1></a> <span class="topicurl">(trevorlasn.com)</span></div><div class="topicdesc"><a href="topic?id=17377" class="c99 breakall">- 과거에는 "Senior Software Engineer"라는 타이틀이 실질적인 의미를 가지고 있었음  
 - 최근 몇 년 동안, 업계에서는 급격한 직함 인플레이션...</a></div><div class="topicinfo"><span id="tp17377">18</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17377"></span> | <a href="topic?id=17377" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -251,7 +261,7 @@
         <id>https://www.jetbrains.com/rider/</id>
         <link href="https://www.jetbrains.com/rider/"/>
         <updated>2024-10-25T02:49:58.665Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17407"><a class="upvote" href="javascript:vote(17407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.jetbrains.com/rider/" rel="nofollow" id="tr11"><h1>GN⁺: JetBrains Rider, 이제 비상업적 사용은 무료</h1></a> <span class="topicurl">(jetbrains.com)</span></div><div class="topicdesc"><a href="topic?id=17407" class="c99 breakall">- JetBrains Rider는 .NET 기술 스택 전체와 게임 개발자를 위한 올인원 IDE  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17407"><a class="upvote" href="javascript:vote(17407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.jetbrains.com/rider/" rel="nofollow" id="tr12"><h1>GN⁺: JetBrains Rider, 이제 비상업적 사용은 무료</h1></a> <span class="topicurl">(jetbrains.com)</span></div><div class="topicdesc"><a href="topic?id=17407" class="c99 breakall">- JetBrains Rider는 .NET 기술 스택 전체와 게임 개발자를 위한 올인원 IDE  
 - .NET, ASP.NET Core, MAUI와 같은 프레임워크나 Unity, Unreal E...</a></div><div class="topicinfo"><span id="tp17407">6</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17407"></span> | <a href="topic?id=17407" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -259,23 +269,23 @@
         <id>https://github.com/plasma-umass/scalene</id>
         <link href="https://github.com/plasma-umass/scalene"/>
         <updated>2024-10-24T02:47:45.347Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17400"><a class="upvote" href="javascript:vote(17400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plasma-umass/scalene" rel="nofollow" id="tr12"><h1>Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러</h1></a> <span class="topicurl">(github.com/plasma-umass)</span></div><div class="topicdesc"><a href="topic?id=17400" class="c99 breakall">- 다른 Python 프로파일러가 하지 않거나 할 수 없는 여러 가지 작업을 수행하는 Python용 고성능 CPU, GPU 및 메모리 프로파일러  
-- 훨씬 더 빠...</a></div><div class="topicinfo"><span id="tp17400">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17400"></span> | <a href="topic?id=17400" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17400"><a class="upvote" href="javascript:vote(17400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plasma-umass/scalene" rel="nofollow" id="tr13"><h1>Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러</h1></a> <span class="topicurl">(github.com/plasma-umass)</span></div><div class="topicdesc"><a href="topic?id=17400" class="c99 breakall">- 다른 Python 프로파일러가 하지 않거나 할 수 없는 여러 가지 작업을 수행하는 Python용 고성능 CPU, GPU 및 메모리 프로파일러  
+- 훨씬 더 빠...</a></div><div class="topicinfo"><span id="tp17400">10</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17400"></span> | <a href="topic?id=17400" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Generative AI’s Act o1 - 에이전트 추론의 시대 개막 (GeekNews ─ 메인 원문)]]></title>
         <id>https://www.sequoiacap.com/article/generative-ais-act-o1/</id>
         <link href="https://www.sequoiacap.com/article/generative-ais-act-o1/"/>
         <updated>2024-10-21T02:52:17.016Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17349"><a class="upvote" href="javascript:vote(17349, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.sequoiacap.com/article/generative-ais-act-o1/" rel="nofollow" id="tr13"><h1>Generative AI’s Act o1 - 에이전트 추론의 시대 개막</h1></a> <span class="topicurl">(sequoiacap.com)</span></div><div class="topicdesc"><a href="topic?id=17349" class="c99 breakall">- Generative AI 혁명 2년차에 접어들면서, 연구는 "빠른 사고"에서 "느린 사고"로 진화하고 있음  
-  - "빠른 사고"는 사전 학습된 빠른 응답을 ...</a></div><div class="topicinfo"><span id="tp17349">27</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17349"></span> | <a href="topic?id=17349" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17349"><a class="upvote" href="javascript:vote(17349, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.sequoiacap.com/article/generative-ais-act-o1/" rel="nofollow" id="tr14"><h1>Generative AI’s Act o1 - 에이전트 추론의 시대 개막</h1></a> <span class="topicurl">(sequoiacap.com)</span></div><div class="topicdesc"><a href="topic?id=17349" class="c99 breakall">- Generative AI 혁명 2년차에 접어들면서, 연구는 "빠른 사고"에서 "느린 사고"로 진화하고 있음  
+  - "빠른 사고"는 사전 학습된 빠른 응답을 ...</a></div><div class="topicinfo"><span id="tp17349">27</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote17349"></span> | <a href="topic?id=17349" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기 (GeekNews ─ 메인 원문)]]></title>
         <id>https://simonwillison.net/2024/Oct/17/video-scraping/</id>
         <link href="https://simonwillison.net/2024/Oct/17/video-scraping/"/>
         <updated>2024-10-22T02:49:33.788Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17365"><a class="upvote" href="javascript:vote(17365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/17/video-scraping/" rel="nofollow" id="tr14"><h1>비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17365" class="c99 breakall">- 12개의 서로 다른 이메일에 흩어져 있는 숫자 값을 합산할 일이 생김   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17365"><a class="upvote" href="javascript:vote(17365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/17/video-scraping/" rel="nofollow" id="tr15"><h1>비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17365" class="c99 breakall">- 12개의 서로 다른 이메일에 흩어져 있는 숫자 값을 합산할 일이 생김   
 - 복사가 귀찮아서 Gmail 계정을 둘러보는 동안 화면 캡처를 녹화한 다...</a></div><div class="topicinfo"><span id="tp17365">20</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17365"></span> | <a href="topic?id=17365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -283,7 +293,7 @@
         <id>https://byline.network/2024/10/18-355/</id>
         <link href="https://byline.network/2024/10/18-355/"/>
         <updated>2024-10-23T04:18:32.890Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17388"><a class="upvote" href="javascript:vote(17388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2024/10/18-355/" rel="nofollow" id="tr15"><h1>메타는 오픈소스를 오염시키고있다.</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=17388" class="c99 breakall">- 오픈소스이니셔티브(OSI)의 책임자인 스테파노 마풀리 총괄이사가 메타를 비난함.  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17388"><a class="upvote" href="javascript:vote(17388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2024/10/18-355/" rel="nofollow" id="tr16"><h1>메타는 오픈소스를 오염시키고있다.</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=17388" class="c99 breakall">- 오픈소스이니셔티브(OSI)의 책임자인 스테파노 마풀리 총괄이사가 메타를 비난함.  
 - 메타는, 라마를 발표하며 ‘오픈소스’란 용어를 사용해 사...</a></div><div class="topicinfo"><span id="tp17388">13</span> points by <a href="/user?id=bbulbum">bbulbum</a> 4일전<span id="unvote17388"></span> | <a href="topic?id=17388" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -291,23 +301,23 @@
         <id>https://stability.ai/news/introducing-stable-diffusion-3-5</id>
         <link href="https://stability.ai/news/introducing-stable-diffusion-3-5"/>
         <updated>2024-10-24T02:47:45.361Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17402"><a class="upvote" href="javascript:vote(17402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/introducing-stable-diffusion-3-5" rel="nofollow" id="tr16"><h1>Stable Diffusion 3.5 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=17402" class="c99 breakall">- 소비자 하드웨어에서 실행 가능하고 유연하게 커스터마이징할 수 있는 여러 버전의 모델이 포함되며, 대부분의 사용 사례에 무료로 사용 가능함 ...</a></div><div class="topicinfo"><span id="tp17402">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17402"></span> | <a href="topic?id=17402" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17402"><a class="upvote" href="javascript:vote(17402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/introducing-stable-diffusion-3-5" rel="nofollow" id="tr17"><h1>Stable Diffusion 3.5 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=17402" class="c99 breakall">- 소비자 하드웨어에서 실행 가능하고 유연하게 커스터마이징할 수 있는 여러 버전의 모델이 포함되며, 대부분의 사용 사례에 무료로 사용 가능함 ...</a></div><div class="topicinfo"><span id="tp17402">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17402"></span> | <a href="topic?id=17402" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PlaceholderJS - 간단하고 가벼운 플레이스홀더 (GeekNews ─ 메인 원문)]]></title>
         <id>https://placeholderjs.com/</id>
         <link href="https://placeholderjs.com/"/>
         <updated>2024-10-24T02:47:45.346Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17401"><a class="upvote" href="javascript:vote(17401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://placeholderjs.com/" rel="nofollow" id="tr17"><h1>PlaceholderJS - 간단하고 가벼운 플레이스홀더</h1></a> <span class="topicurl">(placeholderjs.com)</span></div><div class="topicdesc"><a href="topic?id=17401" class="c99 breakall">- 개발자 대상의 무료 PlaceHolder 서비스   
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17401"><a class="upvote" href="javascript:vote(17401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://placeholderjs.com/" rel="nofollow" id="tr18"><h1>PlaceholderJS - 간단하고 가벼운 플레이스홀더</h1></a> <span class="topicurl">(placeholderjs.com)</span></div><div class="topicdesc"><a href="topic?id=17401" class="c99 breakall">- 개발자 대상의 무료 PlaceHolder 서비스   
 - React &amp; NextJS 와 심리스하게 연동   
-- 옵션을 파라미터로 지정 가능 : 이미지 사이즈(/HEIGHT...</a></div><div class="topicinfo"><span id="tp17401">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17401"></span> | <a href="topic?id=17401" class="u">댓글 2개</a></div>]]></content>
+- 옵션을 파라미터로 지정 가능 : 이미지 사이즈(/HEIGHT...</a></div><div class="topicinfo"><span id="tp17401">8</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17401"></span> | <a href="topic?id=17401" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각 (GeekNews ─ 메인 원문)]]></title>
         <id>https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/</id>
         <link href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/"/>
         <updated>2024-10-23T01:08:48.490Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17376"><a class="upvote" href="javascript:vote(17376, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/" rel="nofollow" id="tr18"><h1>GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각</h1></a> <span class="topicurl">(nolanlawson.com)</span></div><div class="topicdesc"><a href="topic?id=17376" class="c99 breakall">- 최근 Node.js 툴을 Rust, Zig, Go 등의 더 빠른 언어로 다시 작성하려는 경향이 걱정스러우며, 객관적인 우려사항들을 정리함   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17376"><a class="upvote" href="javascript:vote(17376, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/" rel="nofollow" id="tr19"><h1>GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각</h1></a> <span class="topicurl">(nolanlawson.com)</span></div><div class="topicdesc"><a href="topic?id=17376" class="c99 breakall">- 최근 Node.js 툴을 Rust, Zig, Go 등의 더 빠른 언어로 다시 작성하려는 경향이 걱정스러우며, 객관적인 우려사항들을 정리함   
   
 # [성능] ...</a></div><div class="topicinfo"><span id="tp17376">12</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17376"></span> | <a href="topic?id=17376" class="u">댓글 15개</a></div>]]></content>
     </entry>
@@ -316,42 +326,43 @@
         <id>https://news.hada.io/topic?id=17371</id>
         <link href="https://news.hada.io/topic?id=17371"/>
         <updated>2024-10-22T07:16:01.987Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17371"><a class="upvote" href="javascript:vote(17371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17371" rel="nofollow" id="tr19"><h1>Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션</h1></a> <span class="topicurl">(payaction.app)</span></div><div class="topicdesc"><a href="topic?id=17371" class="c99 breakall">안녕하세요!  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17371"><a class="upvote" href="javascript:vote(17371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17371" rel="nofollow" id="tr20"><h1>Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션</h1></a> <span class="topicurl">(payaction.app)</span></div><div class="topicdesc"><a href="topic?id=17371" class="c99 breakall">안녕하세요!  
 커머스/뱅킹 자동화 SaaS 페이액션입니다.  
   
 '실시간 계좌 거래내역을 1초만에 수신할수 있는 기능'을 정식 출시했습니다.  
 ...</a></div><div class="topicinfo"><span id="tp17371">14</span> points by <a href="/user?id=wally">wally</a> 5일전<span id="unvote17371"></span> | <a href="topic?id=17371" class="u">댓글 13개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft GenAIScript - 생성형 AI 스크립팅 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://microsoft.github.io/genaiscript/</id>
-        <link href="https://microsoft.github.io/genaiscript/"/>
-        <updated>2024-10-26T04:18:33.619Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17417"><a class="upvote" href="javascript:vote(17417, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://microsoft.github.io/genaiscript/" rel="nofollow" id="tr20"><h1>Microsoft GenAIScript - 생성형 AI 스크립팅 </h1></a> <span class="topicurl">(microsoft.github.io)</span></div><div class="topicdesc"><a href="topic?id=17417" class="c99 breakall">- "Prompting is Coding" : JavaScript를 사용하여 LLM에 대한 프롬프트를 프로그래밍 방식으로 작성하는 스크립팅 언어 및 환경   
-  - ```$`Ana...</a></div><div class="topicinfo"><span id="tp17417">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17417"></span> | <a href="topic?id=17417" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[DuckDB 사용법(DuckDB Python + Jupyter Lab) (GeekNews ─ 최신글)]]></title>
+        <id>https://news.hada.io/topic?id=17450</id>
+        <link href="https://news.hada.io/topic?id=17450"/>
+        <updated>2024-10-27T14:14:07.430Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17450"><a class="upvote" href="javascript:vote(17450, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zzsza.github.io/data-engineering/2024/10/25/duckdb/" rel="nofollow" id="tr1"><h1>DuckDB 사용법(DuckDB Python + Jupyter Lab)</h1></a> <span class="topicurl">(zzsza.github.io)</span></div><div class="topicdesc"><a href="topic?id=17450" class="c99 breakall">최근 OLAP 오픈소스 중에 각광을 받고 있는 DuckDB에 대한 사용법을 정리한 글입니다.  
+  
+Jupyter Lab에서 어떻게 활용할 수 있을지에 대한 내...</a></div><div class="topicinfo"><span id="tp17450">1</span> point by <a href="/user?id=zzsza">zzsza</a> 18분전<span id="unvote17450"></span> | <a href="topic?id=17450" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17448</id>
         <link href="https://news.hada.io/topic?id=17448"/>
         <updated>2024-10-27T06:20:42.899Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17448"><a class="upvote" href="javascript:vote(17448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.videolan.org/videolan/events/vdd24/" rel="nofollow" id="tr1"><h1>오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최</h1></a> <span class="topicurl">(videolan.org)</span></div><div class="topicdesc"><a href="topic?id=17448" class="c99 breakall">2024년 11월 2일(토)~11월 3일(일) 광운대학교에서 오픈 멀티미디어 컨퍼런스 Video Dev Days(VDD)가 열립니다.  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17448"><a class="upvote" href="javascript:vote(17448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.videolan.org/videolan/events/vdd24/" rel="nofollow" id="tr2"><h1>오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최</h1></a> <span class="topicurl">(videolan.org)</span></div><div class="topicdesc"><a href="topic?id=17448" class="c99 breakall">2024년 11월 2일(토)~11월 3일(일) 광운대학교에서 오픈 멀티미디어 컨퍼런스 Video Dev Days(VDD)가 열립니다.  
   
-대상: 오픈소스 멀티미디어...</a></div><div class="topicinfo"><span id="tp17448">1</span> point by <a href="/user?id=octopuset">octopuset</a> 8시간전<span id="unvote17448"></span> | <a href="topic?id=17448" class="u">댓글과 토론</a></div>]]></content>
+대상: 오픈소스 멀티미디어...</a></div><div class="topicinfo"><span id="tp17448">1</span> point by <a href="/user?id=octopuset">octopuset</a> 9시간전<span id="unvote17448"></span> | <a href="topic?id=17448" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arch - 지능형 프롬프트 게이트웨이 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17438</id>
         <link href="https://news.hada.io/topic?id=17438"/>
         <updated>2024-10-27T01:14:56.044Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17438"><a class="upvote" href="javascript:vote(17438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/katanemo/arch" rel="nofollow" id="tr2"><h1>Arch - 지능형 프롬프트 게이트웨이</h1></a> <span class="topicurl">(github.com/katanemo)</span></div><div class="topicdesc"><a href="topic?id=17438" class="c99 breakall">- LLM 애플리케이션(에이전트, 어시스턴트, 코파일럿) 보호, 관찰, 개인화를 위한 지능형 7계층 게이트웨이로 사용자의 API와 통합하여 LLM을 최적...</a></div><div class="topicinfo"><span id="tp17438">4</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote17438"></span> | <a href="topic?id=17438" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17438"><a class="upvote" href="javascript:vote(17438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/katanemo/arch" rel="nofollow" id="tr3"><h1>Arch - 지능형 프롬프트 게이트웨이</h1></a> <span class="topicurl">(github.com/katanemo)</span></div><div class="topicdesc"><a href="topic?id=17438" class="c99 breakall">- LLM 애플리케이션(에이전트, 어시스턴트, 코파일럿) 보호, 관찰, 개인화를 위한 지능형 7계층 게이트웨이로 사용자의 API와 통합하여 LLM을 최적...</a></div><div class="topicinfo"><span id="tp17438">4</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote17438"></span> | <a href="topic?id=17438" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Transformers.js v3 릴리즈 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17427</id>
         <link href="https://news.hada.io/topic?id=17427"/>
         <updated>2024-10-26T01:07:45.488Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17427"><a class="upvote" href="javascript:vote(17427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/transformersjs-v3" rel="nofollow" id="tr3"><h1>Transformers.js v3 릴리즈</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=17427" class="c99 breakall">- WebGPU 지원 (WASM 보다 100배까지 빠름)  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17427"><a class="upvote" href="javascript:vote(17427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/transformersjs-v3" rel="nofollow" id="tr4"><h1>Transformers.js v3 릴리즈</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=17427" class="c99 breakall">- WebGPU 지원 (WASM 보다 100배까지 빠름)  
 - 새로운 양자화 포맷 dtypes   
 - 120개의 아키텍처 지원   
 - 25개 새로운 예제 프로젝트와 템...</a></div><div class="topicinfo"><span id="tp17427">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17427"></span> | <a href="topic?id=17427" class="u">댓글 1개</a></div>]]></content>
@@ -361,7 +372,7 @@
         <id>https://news.hada.io/topic?id=17424</id>
         <link href="https://news.hada.io/topic?id=17424"/>
         <updated>2024-10-25T14:14:55.629Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17424"><a class="upvote" href="javascript:vote(17424, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17424" id="tr4"><h1>Ask GN: 현재 사내에서, 개인적으로 사용 중인 개발툴은 무엇인가요? 앞으로 사용해보고 싶은 툴이 있나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17424" class="c99 breakall">저는 사내에서도, 개인적으로도 VS CODE와 QT CREATOR를 주로 사용합니다.   
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17424"><a class="upvote" href="javascript:vote(17424, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17424" id="tr5"><h1>Ask GN: 현재 사내에서, 개인적으로 사용 중인 개발툴은 무엇인가요? 앞으로 사용해보고 싶은 툴이 있나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17424" class="c99 breakall">저는 사내에서도, 개인적으로도 VS CODE와 QT CREATOR를 주로 사용합니다.   
 C++로 클라이언트를 만들고, NODE JS나 PYTHON으로 백엔드 작성하고...</a></div><div class="topicinfo"><span id="tp17424">1</span> point by <a href="/user?id=aer0700">aer0700</a> 2일전<span id="unvote17424"></span> | <a href="topic?id=17424" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -369,61 +380,61 @@ C++로 클라이언트를 만들고, NODE JS나 PYTHON으로 백엔드 작성하
         <id>https://news.hada.io/topic?id=17421</id>
         <link href="https://news.hada.io/topic?id=17421"/>
         <updated>2024-10-25T06:21:12.304Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17421"><a class="upvote" href="javascript:vote(17421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://solitairelaboratory.com/mshuffle.txt" rel="nofollow" id="tr5"><h1>윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘</h1></a> <span class="topicurl">(solitairelaboratory.com)</span></div><div class="topicdesc"><a href="topic?id=17421" class="c99 breakall">많은 분들이 플레이 해 보셨을 윈도의 프리셀은 카드를 무작위로 배열하고, 각 카드 배열마다 번호가 붙어있습니다. 같은 번호를 선택하면 동일하...</a></div><div class="topicinfo"><span id="tp17421">9</span> points by <a href="/user?id=regentag">regentag</a> 2일전<span id="unvote17421"></span> | <a href="topic?id=17421" class="u">댓글 7개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17421"><a class="upvote" href="javascript:vote(17421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://solitairelaboratory.com/mshuffle.txt" rel="nofollow" id="tr6"><h1>윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘</h1></a> <span class="topicurl">(solitairelaboratory.com)</span></div><div class="topicdesc"><a href="topic?id=17421" class="c99 breakall">많은 분들이 플레이 해 보셨을 윈도의 프리셀은 카드를 무작위로 배열하고, 각 카드 배열마다 번호가 붙어있습니다. 같은 번호를 선택하면 동일하...</a></div><div class="topicinfo"><span id="tp17421">9</span> points by <a href="/user?id=regentag">regentag</a> 2일전<span id="unvote17421"></span> | <a href="topic?id=17421" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 하고 싶은 말을 자유롭게 남겨주세요. (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17419</id>
         <link href="https://news.hada.io/topic?id=17419"/>
         <updated>2024-10-25T02:50:03.644Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17419"><a class="upvote" href="javascript:vote(17419, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17419" id="tr6"><h1>Ask GN: 하고 싶은 말을 자유롭게 남겨주세요.</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17419" class="c99 breakall">이번 주에 있었던 일, 계획, 일상, 자랑, 고민, 추천 등 하고 싶은 말을 댓글로 작성해주세요.</a></div><div class="topicinfo"><span id="tp17419">1</span> point by <a href="/user?id=askbot">askbot</a> 2일전<span id="unvote17419"></span> | <a href="topic?id=17419" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17419"><a class="upvote" href="javascript:vote(17419, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17419" id="tr7"><h1>Ask GN: 하고 싶은 말을 자유롭게 남겨주세요.</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17419" class="c99 breakall">이번 주에 있었던 일, 계획, 일상, 자랑, 고민, 추천 등 하고 싶은 말을 댓글로 작성해주세요.</a></div><div class="topicinfo"><span id="tp17419">1</span> point by <a href="/user?id=askbot">askbot</a> 2일전<span id="unvote17419"></span> | <a href="topic?id=17419" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft GenAIScript - 생성형 AI 스크립팅 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17417</id>
         <link href="https://news.hada.io/topic?id=17417"/>
         <updated>2024-10-25T02:49:53.847Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17417"><a class="upvote" href="javascript:vote(17417, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://microsoft.github.io/genaiscript/" rel="nofollow" id="tr7"><h1>Microsoft GenAIScript - 생성형 AI 스크립팅 </h1></a> <span class="topicurl">(microsoft.github.io)</span></div><div class="topicdesc"><a href="topic?id=17417" class="c99 breakall">- "Prompting is Coding" : JavaScript를 사용하여 LLM에 대한 프롬프트를 프로그래밍 방식으로 작성하는 스크립팅 언어 및 환경   
-  - ```$`Ana...</a></div><div class="topicinfo"><span id="tp17417">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17417"></span> | <a href="topic?id=17417" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17417"><a class="upvote" href="javascript:vote(17417, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://microsoft.github.io/genaiscript/" rel="nofollow" id="tr8"><h1>Microsoft GenAIScript - 생성형 AI 스크립팅 </h1></a> <span class="topicurl">(microsoft.github.io)</span></div><div class="topicdesc"><a href="topic?id=17417" class="c99 breakall">- "Prompting is Coding" : JavaScript를 사용하여 LLM에 대한 프롬프트를 프로그래밍 방식으로 작성하는 스크립팅 언어 및 환경   
+  - ```$`Ana...</a></div><div class="topicinfo"><span id="tp17417">4</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17417"></span> | <a href="topic?id=17417" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17416</id>
         <link href="https://news.hada.io/topic?id=17416"/>
         <updated>2024-10-25T02:49:53.842Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17416"><a class="upvote" href="javascript:vote(17416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/openobserve/openobserve" rel="nofollow" id="tr8"><h1>OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼</h1></a> <span class="topicurl">(github.com/openobserve)</span></div><div class="topicdesc"><a href="topic?id=17416" class="c99 breakall">- O2는 로그, 메트릭, 트레이스, 분석, RUM(Real User Monitoring - 성능, 오류, 세션 리플레이) 등을 지원  
-- 페타바이트급 데이터를 처리할 수...</a></div><div class="topicinfo"><span id="tp17416">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17416"></span> | <a href="topic?id=17416" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17416"><a class="upvote" href="javascript:vote(17416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/openobserve/openobserve" rel="nofollow" id="tr9"><h1>OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼</h1></a> <span class="topicurl">(github.com/openobserve)</span></div><div class="topicdesc"><a href="topic?id=17416" class="c99 breakall">- O2는 로그, 메트릭, 트레이스, 분석, RUM(Real User Monitoring - 성능, 오류, 세션 리플레이) 등을 지원  
+- 페타바이트급 데이터를 처리할 수...</a></div><div class="topicinfo"><span id="tp17416">12</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17416"></span> | <a href="topic?id=17416" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion 3.5 공개 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17402</id>
         <link href="https://news.hada.io/topic?id=17402"/>
         <updated>2024-10-24T02:47:40.698Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17402"><a class="upvote" href="javascript:vote(17402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/introducing-stable-diffusion-3-5" rel="nofollow" id="tr9"><h1>Stable Diffusion 3.5 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=17402" class="c99 breakall">- 소비자 하드웨어에서 실행 가능하고 유연하게 커스터마이징할 수 있는 여러 버전의 모델이 포함되며, 대부분의 사용 사례에 무료로 사용 가능함 ...</a></div><div class="topicinfo"><span id="tp17402">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17402"></span> | <a href="topic?id=17402" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17402"><a class="upvote" href="javascript:vote(17402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/introducing-stable-diffusion-3-5" rel="nofollow" id="tr10"><h1>Stable Diffusion 3.5 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=17402" class="c99 breakall">- 소비자 하드웨어에서 실행 가능하고 유연하게 커스터마이징할 수 있는 여러 버전의 모델이 포함되며, 대부분의 사용 사례에 무료로 사용 가능함 ...</a></div><div class="topicinfo"><span id="tp17402">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17402"></span> | <a href="topic?id=17402" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PlaceholderJS - 간단하고 가벼운 플레이스홀더 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17401</id>
         <link href="https://news.hada.io/topic?id=17401"/>
         <updated>2024-10-24T02:47:40.692Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17401"><a class="upvote" href="javascript:vote(17401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://placeholderjs.com/" rel="nofollow" id="tr10"><h1>PlaceholderJS - 간단하고 가벼운 플레이스홀더</h1></a> <span class="topicurl">(placeholderjs.com)</span></div><div class="topicdesc"><a href="topic?id=17401" class="c99 breakall">- 개발자 대상의 무료 PlaceHolder 서비스   
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17401"><a class="upvote" href="javascript:vote(17401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://placeholderjs.com/" rel="nofollow" id="tr11"><h1>PlaceholderJS - 간단하고 가벼운 플레이스홀더</h1></a> <span class="topicurl">(placeholderjs.com)</span></div><div class="topicdesc"><a href="topic?id=17401" class="c99 breakall">- 개발자 대상의 무료 PlaceHolder 서비스   
 - React &amp; NextJS 와 심리스하게 연동   
-- 옵션을 파라미터로 지정 가능 : 이미지 사이즈(/HEIGHT...</a></div><div class="topicinfo"><span id="tp17401">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17401"></span> | <a href="topic?id=17401" class="u">댓글 2개</a></div>]]></content>
+- 옵션을 파라미터로 지정 가능 : 이미지 사이즈(/HEIGHT...</a></div><div class="topicinfo"><span id="tp17401">8</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17401"></span> | <a href="topic?id=17401" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17400</id>
         <link href="https://news.hada.io/topic?id=17400"/>
         <updated>2024-10-24T02:47:40.693Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17400"><a class="upvote" href="javascript:vote(17400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plasma-umass/scalene" rel="nofollow" id="tr11"><h1>Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러</h1></a> <span class="topicurl">(github.com/plasma-umass)</span></div><div class="topicdesc"><a href="topic?id=17400" class="c99 breakall">- 다른 Python 프로파일러가 하지 않거나 할 수 없는 여러 가지 작업을 수행하는 Python용 고성능 CPU, GPU 및 메모리 프로파일러  
-- 훨씬 더 빠...</a></div><div class="topicinfo"><span id="tp17400">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17400"></span> | <a href="topic?id=17400" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17400"><a class="upvote" href="javascript:vote(17400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plasma-umass/scalene" rel="nofollow" id="tr12"><h1>Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러</h1></a> <span class="topicurl">(github.com/plasma-umass)</span></div><div class="topicdesc"><a href="topic?id=17400" class="c99 breakall">- 다른 Python 프로파일러가 하지 않거나 할 수 없는 여러 가지 작업을 수행하는 Python용 고성능 CPU, GPU 및 메모리 프로파일러  
+- 훨씬 더 빠...</a></div><div class="topicinfo"><span id="tp17400">10</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17400"></span> | <a href="topic?id=17400" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 개인 계좌 입출금 기록을 조회할 수 있는 api나 saas 가 있을까요? (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17389</id>
         <link href="https://news.hada.io/topic?id=17389"/>
         <updated>2024-10-23T05:16:06.145Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17389"><a class="upvote" href="javascript:vote(17389, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17389" id="tr12"><h1>Ask GN: 개인 계좌 입출금 기록을 조회할 수 있는 api나 saas 가 있을까요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17389" class="c99 breakall">개인적으로 관리를 할 수 있도록 구성을 하고 싶은데 마땅한 방법이 떠오르지 않네요,  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17389"><a class="upvote" href="javascript:vote(17389, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17389" id="tr13"><h1>Ask GN: 개인 계좌 입출금 기록을 조회할 수 있는 api나 saas 가 있을까요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17389" class="c99 breakall">개인적으로 관리를 할 수 있도록 구성을 하고 싶은데 마땅한 방법이 떠오르지 않네요,  
   
 오픈 뱅킹 api는 개인용으로 사용하기에는 비용이 너...</a></div><div class="topicinfo"><span id="tp17389">2</span> points by <a href="/user?id=keepworking">keepworking</a> 4일전<span id="unvote17389"></span> | <a href="topic?id=17389" class="u">댓글 6개</a></div>]]></content>
     </entry>
@@ -432,7 +443,7 @@ C++로 클라이언트를 만들고, NODE JS나 PYTHON으로 백엔드 작성하
         <id>https://news.hada.io/topic?id=17388</id>
         <link href="https://news.hada.io/topic?id=17388"/>
         <updated>2024-10-23T04:18:27.991Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17388"><a class="upvote" href="javascript:vote(17388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2024/10/18-355/" rel="nofollow" id="tr13"><h1>메타는 오픈소스를 오염시키고있다.</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=17388" class="c99 breakall">- 오픈소스이니셔티브(OSI)의 책임자인 스테파노 마풀리 총괄이사가 메타를 비난함.  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17388"><a class="upvote" href="javascript:vote(17388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2024/10/18-355/" rel="nofollow" id="tr14"><h1>메타는 오픈소스를 오염시키고있다.</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=17388" class="c99 breakall">- 오픈소스이니셔티브(OSI)의 책임자인 스테파노 마풀리 총괄이사가 메타를 비난함.  
 - 메타는, 라마를 발표하며 ‘오픈소스’란 용어를 사용해 사...</a></div><div class="topicinfo"><span id="tp17388">13</span> points by <a href="/user?id=bbulbum">bbulbum</a> 4일전<span id="unvote17388"></span> | <a href="topic?id=17388" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -440,15 +451,15 @@ C++로 클라이언트를 만들고, NODE JS나 PYTHON으로 백엔드 작성하
         <id>https://news.hada.io/topic?id=17386</id>
         <link href="https://news.hada.io/topic?id=17386"/>
         <updated>2024-10-23T02:47:38.581Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17386"><a class="upvote" href="javascript:vote(17386, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jaysylvester/citizen" rel="nofollow" id="tr14"><h1>Citizen - MVC기반의 Node.js 웹 어플리케이션 프레임워크</h1></a> <span class="topicurl">(github.com/jaysylvester)</span></div><div class="topicdesc"><a href="topic?id=17386" class="c99 breakall">- 확장 가능한 웹 사이트를 빠르게 구축하기 위해 설계된 MVC 기반 웹 애플리케이션 프레임워크  
-- 전통적인 서버사이드 웹앱, SPA, RESTful API...</a></div><div class="topicinfo"><span id="tp17386">6</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17386"></span> | <a href="topic?id=17386" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17386"><a class="upvote" href="javascript:vote(17386, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/jaysylvester/citizen" rel="nofollow" id="tr15"><h1>Citizen - MVC기반의 Node.js 웹 어플리케이션 프레임워크</h1></a> <span class="topicurl">(github.com/jaysylvester)</span></div><div class="topicdesc"><a href="topic?id=17386" class="c99 breakall">- 확장 가능한 웹 사이트를 빠르게 구축하기 위해 설계된 MVC 기반 웹 애플리케이션 프레임워크  
+- 전통적인 서버사이드 웹앱, SPA, RESTful API...</a></div><div class="topicinfo"><span id="tp17386">6</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote17386"></span> | <a href="topic?id=17386" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: AI 캘린더 - 스크린샷으로 일정 등록 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=17373</id>
         <link href="https://news.hada.io/topic?id=17373"/>
         <updated>2024-10-22T09:16:23.573Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17373"><a class="upvote" href="javascript:vote(17373, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17373" rel="nofollow" id="tr15"><h1>Show GN: AI 캘린더 - 스크린샷으로 일정 등록</h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=17373" class="c99 breakall">안녕하세요! AI 일정 관리 앱 Trace입니다.   
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17373"><a class="upvote" href="javascript:vote(17373, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17373" rel="nofollow" id="tr16"><h1>Show GN: AI 캘린더 - 스크린샷으로 일정 등록</h1></a> <span class="topicurl">(apps.apple.com)</span></div><div class="topicdesc"><a href="topic?id=17373" class="c99 breakall">안녕하세요! AI 일정 관리 앱 Trace입니다.   
 (메모 앱 -&gt; 일정 관리 앱으로 완전히 리뉴얼 되었습니다.)  
   
 Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span id="tp17373">3</span> points by <a href="/user?id=b8739">b8739</a> 5일전<span id="unvote17373"></span> | <a href="topic?id=17373" class="u">댓글과 토론</a></div>]]></content>
@@ -458,7 +469,7 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://news.hada.io/topic?id=17372</id>
         <link href="https://news.hada.io/topic?id=17372"/>
         <updated>2024-10-22T08:19:54.453Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17372"><a class="upvote" href="javascript:vote(17372, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.mersenne.org/primes/?press=M136279841" rel="nofollow" id="tr16"><h1>GIMPS에서 새로운 소수를 발견함</h1></a> <span class="topicurl">(mersenne.org)</span></div><div class="topicdesc"><a href="topic?id=17372" class="c99 breakall">* 발견된 수는 2^136279841 - 1 로 메르센 소수임.  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17372"><a class="upvote" href="javascript:vote(17372, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.mersenne.org/primes/?press=M136279841" rel="nofollow" id="tr17"><h1>GIMPS에서 새로운 소수를 발견함</h1></a> <span class="topicurl">(mersenne.org)</span></div><div class="topicdesc"><a href="topic?id=17372" class="c99 breakall">* 발견된 수는 2^136279841 - 1 로 메르센 소수임.  
 * 41,024,320 자릿수의 수임.  
 * 이전의 가장 큰 소수인 2^82589933 - 1와의 차이가 천육...</a></div><div class="topicinfo"><span id="tp17372">11</span> points by <a href="/user?id=mdisprgm">mdisprgm</a> 5일전<span id="unvote17372"></span> | <a href="topic?id=17372" class="u">댓글 2개</a></div>]]></content>
     </entry>
@@ -467,7 +478,7 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://news.hada.io/topic?id=17371</id>
         <link href="https://news.hada.io/topic?id=17371"/>
         <updated>2024-10-22T07:16:01.987Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17371"><a class="upvote" href="javascript:vote(17371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17371" rel="nofollow" id="tr17"><h1>Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션</h1></a> <span class="topicurl">(payaction.app)</span></div><div class="topicdesc"><a href="topic?id=17371" class="c99 breakall">안녕하세요!  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17371"><a class="upvote" href="javascript:vote(17371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17371" rel="nofollow" id="tr18"><h1>Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션</h1></a> <span class="topicurl">(payaction.app)</span></div><div class="topicdesc"><a href="topic?id=17371" class="c99 breakall">안녕하세요!  
 커머스/뱅킹 자동화 SaaS 페이액션입니다.  
   
 '실시간 계좌 거래내역을 1초만에 수신할수 있는 기능'을 정식 출시했습니다.  
@@ -478,7 +489,7 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://news.hada.io/topic?id=17368</id>
         <link href="https://news.hada.io/topic?id=17368"/>
         <updated>2024-10-22T02:49:29.111Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17368"><a class="upvote" href="javascript:vote(17368, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alohe/quicky" rel="nofollow" id="tr18"><h1>Quicky - Next.js 앱을 빠르게 디플로이 &amp; 관리하는 CLI도구</h1></a> <span class="topicurl">(github.com/alohe)</span></div><div class="topicdesc"><a href="topic?id=17368" class="c99 breakall">- 셀프 호스팅 Next.js 프로젝트의 배포 및 관리를 간소화하는 CLI 도구  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17368"><a class="upvote" href="javascript:vote(17368, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alohe/quicky" rel="nofollow" id="tr19"><h1>Quicky - Next.js 앱을 빠르게 디플로이 &amp; 관리하는 CLI도구</h1></a> <span class="topicurl">(github.com/alohe)</span></div><div class="topicdesc"><a href="topic?id=17368" class="c99 breakall">- 셀프 호스팅 Next.js 프로젝트의 배포 및 관리를 간소화하는 CLI 도구  
 - 원격 서버에서 Next.js 앱의 전체 라이프사이클을 단순화하는 것이 ...</a></div><div class="topicinfo"><span id="tp17368">5</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote17368"></span> | <a href="topic?id=17368" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -486,39 +497,31 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://news.hada.io/topic?id=17365</id>
         <link href="https://news.hada.io/topic?id=17365"/>
         <updated>2024-10-22T02:49:29.107Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17365"><a class="upvote" href="javascript:vote(17365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/17/video-scraping/" rel="nofollow" id="tr19"><h1>비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17365" class="c99 breakall">- 12개의 서로 다른 이메일에 흩어져 있는 숫자 값을 합산할 일이 생김   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17365"><a class="upvote" href="javascript:vote(17365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/17/video-scraping/" rel="nofollow" id="tr20"><h1>비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17365" class="c99 breakall">- 12개의 서로 다른 이메일에 흩어져 있는 숫자 값을 합산할 일이 생김   
 - 복사가 귀찮아서 Gmail 계정을 둘러보는 동안 화면 캡처를 녹화한 다...</a></div><div class="topicinfo"><span id="tp17365">20</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17365"></span> | <a href="topic?id=17365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js 15 정식 버전 릴리즈 (GeekNews ─ 최신글)]]></title>
-        <id>https://news.hada.io/topic?id=17358</id>
-        <link href="https://news.hada.io/topic?id=17358"/>
-        <updated>2024-10-22T01:10:48.410Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17358"><a class="upvote" href="javascript:vote(17358, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nextjs.org/blog/next-15" rel="nofollow" id="tr20"><h1>Next.js 15 정식 버전 릴리즈</h1></a> <span class="topicurl">(nextjs.org)</span></div><div class="topicdesc"><a href="topic?id=17358" class="c99 breakall">Next.js 15 정식 버전이 2024 컨퍼런스에 맞추어 릴리즈 되었습니다. 아래는 이전 [Next.js 15 RC 2](https://news.hada.io/topic?id=17254) 에서 ...</a></div><div class="topicinfo"><span id="tp17358">10</span> points by <a href="/user?id=ragingwind">ragingwind</a> 6일전<span id="unvote17358"></span> | <a href="topic?id=17358" class="u">댓글 5개</a></div>]]></content>
+        <title type="html"><![CDATA[DuckDB 사용법(DuckDB Python + Jupyter Lab) (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://zzsza.github.io/data-engineering/2024/10/25/duckdb/</id>
+        <link href="https://zzsza.github.io/data-engineering/2024/10/25/duckdb/"/>
+        <updated>2024-10-27T14:14:12.043Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17450"><a class="upvote" href="javascript:vote(17450, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zzsza.github.io/data-engineering/2024/10/25/duckdb/" rel="nofollow" id="tr1"><h1>DuckDB 사용법(DuckDB Python + Jupyter Lab)</h1></a> <span class="topicurl">(zzsza.github.io)</span></div><div class="topicdesc"><a href="topic?id=17450" class="c99 breakall">최근 OLAP 오픈소스 중에 각광을 받고 있는 DuckDB에 대한 사용법을 정리한 글입니다.  
+  
+Jupyter Lab에서 어떻게 활용할 수 있을지에 대한 내...</a></div><div class="topicinfo"><span id="tp17450">1</span> point by <a href="/user?id=zzsza">zzsza</a> 18분전<span id="unvote17450"></span> | <a href="topic?id=17450" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arch - 지능형 프롬프트 게이트웨이 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://github.com/katanemo/arch</id>
         <link href="https://github.com/katanemo/arch"/>
         <updated>2024-10-27T01:15:00.861Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17438"><a class="upvote" href="javascript:vote(17438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/katanemo/arch" rel="nofollow" id="tr1"><h1>Arch - 지능형 프롬프트 게이트웨이</h1></a> <span class="topicurl">(github.com/katanemo)</span></div><div class="topicdesc"><a href="topic?id=17438" class="c99 breakall">- LLM 애플리케이션(에이전트, 어시스턴트, 코파일럿) 보호, 관찰, 개인화를 위한 지능형 7계층 게이트웨이로 사용자의 API와 통합하여 LLM을 최적...</a></div><div class="topicinfo"><span id="tp17438">4</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote17438"></span> | <a href="topic?id=17438" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17438"><a class="upvote" href="javascript:vote(17438, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/katanemo/arch" rel="nofollow" id="tr2"><h1>Arch - 지능형 프롬프트 게이트웨이</h1></a> <span class="topicurl">(github.com/katanemo)</span></div><div class="topicdesc"><a href="topic?id=17438" class="c99 breakall">- LLM 애플리케이션(에이전트, 어시스턴트, 코파일럿) 보호, 관찰, 개인화를 위한 지능형 7계층 게이트웨이로 사용자의 API와 통합하여 LLM을 최적...</a></div><div class="topicinfo"><span id="tp17438">4</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote17438"></span> | <a href="topic?id=17438" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html</id>
         <link href="https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html"/>
         <updated>2024-10-25T01:09:49.181Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17405"><a class="upvote" href="javascript:vote(17405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html" rel="nofollow" id="tr2"><h1>GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기</h1></a> <span class="topicurl">(alexgarcia.xyz)</span></div><div class="topicdesc"><a href="topic?id=17405" class="c99 breakall">- SQLite의 기본 전체 텍스트 검색(FTS5) 확장과 sqlite-vec 시맨틱 검색과 함께 사용하여 애플리케이션에서 '하이브리드 검색'을 만들 수 있음   ...</a></div><div class="topicinfo"><span id="tp17405">17</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17405"></span> | <a href="topic?id=17405" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformers.js v3 릴리즈 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://huggingface.co/blog/transformersjs-v3</id>
-        <link href="https://huggingface.co/blog/transformersjs-v3"/>
-        <updated>2024-10-26T01:07:50.109Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17427"><a class="upvote" href="javascript:vote(17427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/transformersjs-v3" rel="nofollow" id="tr3"><h1>Transformers.js v3 릴리즈</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=17427" class="c99 breakall">- WebGPU 지원 (WASM 보다 100배까지 빠름)  
-- 새로운 양자화 포맷 dtypes   
-- 120개의 아키텍처 지원   
-- 25개 새로운 예제 프로젝트와 템...</a></div><div class="topicinfo"><span id="tp17427">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17427"></span> | <a href="topic?id=17427" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17405"><a class="upvote" href="javascript:vote(17405, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html" rel="nofollow" id="tr3"><h1>GN⁺: SQLite로 전문검색과 벡터검색의 하이브리드 구현하기</h1></a> <span class="topicurl">(alexgarcia.xyz)</span></div><div class="topicdesc"><a href="topic?id=17405" class="c99 breakall">- SQLite의 기본 전체 텍스트 검색(FTS5) 확장과 sqlite-vec 시맨틱 검색과 함께 사용하여 애플리케이션에서 '하이브리드 검색'을 만들 수 있음   ...</a></div><div class="topicinfo"><span id="tp17405">17</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17405"></span> | <a href="topic?id=17405" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 학습하는 방법 배우기 (Learning to Learn) (GeekNews ─ 최신글 원문)]]></title>
@@ -529,35 +532,45 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
 - 인터뷰를 마무리할 때, ...</a></div><div class="topicinfo"><span id="tp17382">40</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17382"></span> | <a href="topic?id=17382" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Transformers.js v3 릴리즈 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://huggingface.co/blog/transformersjs-v3</id>
+        <link href="https://huggingface.co/blog/transformersjs-v3"/>
+        <updated>2024-10-26T01:07:50.109Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17427"><a class="upvote" href="javascript:vote(17427, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://huggingface.co/blog/transformersjs-v3" rel="nofollow" id="tr5"><h1>Transformers.js v3 릴리즈</h1></a> <span class="topicurl">(huggingface.co)</span></div><div class="topicdesc"><a href="topic?id=17427" class="c99 breakall">- WebGPU 지원 (WASM 보다 100배까지 빠름)  
+- 새로운 양자화 포맷 dtypes   
+- 120개의 아키텍처 지원   
+- 25개 새로운 예제 프로젝트와 템...</a></div><div class="topicinfo"><span id="tp17427">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17427"></span> | <a href="topic?id=17427" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://www.videolan.org/videolan/events/vdd24/</id>
         <link href="https://www.videolan.org/videolan/events/vdd24/"/>
         <updated>2024-10-27T06:20:47.245Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17448"><a class="upvote" href="javascript:vote(17448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.videolan.org/videolan/events/vdd24/" rel="nofollow" id="tr5"><h1>오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최</h1></a> <span class="topicurl">(videolan.org)</span></div><div class="topicdesc"><a href="topic?id=17448" class="c99 breakall">2024년 11월 2일(토)~11월 3일(일) 광운대학교에서 오픈 멀티미디어 컨퍼런스 Video Dev Days(VDD)가 열립니다.  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17448"><a class="upvote" href="javascript:vote(17448, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.videolan.org/videolan/events/vdd24/" rel="nofollow" id="tr6"><h1>오픈 멀티미디어 컨퍼런스 - Video Dev Days 2024 개최</h1></a> <span class="topicurl">(videolan.org)</span></div><div class="topicdesc"><a href="topic?id=17448" class="c99 breakall">2024년 11월 2일(토)~11월 3일(일) 광운대학교에서 오픈 멀티미디어 컨퍼런스 Video Dev Days(VDD)가 열립니다.  
   
-대상: 오픈소스 멀티미디어...</a></div><div class="topicinfo"><span id="tp17448">1</span> point by <a href="/user?id=octopuset">octopuset</a> 8시간전<span id="unvote17448"></span> | <a href="topic?id=17448" class="u">댓글과 토론</a></div>]]></content>
+대상: 오픈소스 멀티미디어...</a></div><div class="topicinfo"><span id="tp17448">1</span> point by <a href="/user?id=octopuset">octopuset</a> 9시간전<span id="unvote17448"></span> | <a href="topic?id=17448" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://github.com/openobserve/openobserve</id>
         <link href="https://github.com/openobserve/openobserve"/>
         <updated>2024-10-25T02:49:58.666Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17416"><a class="upvote" href="javascript:vote(17416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/openobserve/openobserve" rel="nofollow" id="tr6"><h1>OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼</h1></a> <span class="topicurl">(github.com/openobserve)</span></div><div class="topicdesc"><a href="topic?id=17416" class="c99 breakall">- O2는 로그, 메트릭, 트레이스, 분석, RUM(Real User Monitoring - 성능, 오류, 세션 리플레이) 등을 지원  
-- 페타바이트급 데이터를 처리할 수...</a></div><div class="topicinfo"><span id="tp17416">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17416"></span> | <a href="topic?id=17416" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17416"><a class="upvote" href="javascript:vote(17416, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/openobserve/openobserve" rel="nofollow" id="tr7"><h1>OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼</h1></a> <span class="topicurl">(github.com/openobserve)</span></div><div class="topicdesc"><a href="topic?id=17416" class="c99 breakall">- O2는 로그, 메트릭, 트레이스, 분석, RUM(Real User Monitoring - 성능, 오류, 세션 리플레이) 등을 지원  
+- 페타바이트급 데이터를 처리할 수...</a></div><div class="topicinfo"><span id="tp17416">12</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17416"></span> | <a href="topic?id=17416" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘 (GeekNews ─ 최신글 원문)]]></title>
         <id>http://solitairelaboratory.com/mshuffle.txt</id>
         <link href="http://solitairelaboratory.com/mshuffle.txt"/>
         <updated>2024-10-25T06:21:16.886Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17421"><a class="upvote" href="javascript:vote(17421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://solitairelaboratory.com/mshuffle.txt" rel="nofollow" id="tr7"><h1>윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘</h1></a> <span class="topicurl">(solitairelaboratory.com)</span></div><div class="topicdesc"><a href="topic?id=17421" class="c99 breakall">많은 분들이 플레이 해 보셨을 윈도의 프리셀은 카드를 무작위로 배열하고, 각 카드 배열마다 번호가 붙어있습니다. 같은 번호를 선택하면 동일하...</a></div><div class="topicinfo"><span id="tp17421">9</span> points by <a href="/user?id=regentag">regentag</a> 2일전<span id="unvote17421"></span> | <a href="topic?id=17421" class="u">댓글 7개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17421"><a class="upvote" href="javascript:vote(17421, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://solitairelaboratory.com/mshuffle.txt" rel="nofollow" id="tr8"><h1>윈도 프리셀(Freecell) 게임의 카드 섞기 알고리즘</h1></a> <span class="topicurl">(solitairelaboratory.com)</span></div><div class="topicdesc"><a href="topic?id=17421" class="c99 breakall">많은 분들이 플레이 해 보셨을 윈도의 프리셀은 카드를 무작위로 배열하고, 각 카드 배열마다 번호가 붙어있습니다. 같은 번호를 선택하면 동일하...</a></div><div class="topicinfo"><span id="tp17421">9</span> points by <a href="/user?id=regentag">regentag</a> 2일전<span id="unvote17421"></span> | <a href="topic?id=17421" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess</id>
         <link href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess"/>
         <updated>2024-10-25T01:09:49.184Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17404"><a class="upvote" href="javascript:vote(17404, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess" rel="nofollow" id="tr8"><h1>GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일</h1></a> <span class="topicurl">(davidreis.me)</span></div><div class="topicdesc"><a href="topic?id=17404" class="c99 breakall">- Lichess 는 전 세계 수백만 명의 플레이어를 가진 무료 오픈 소스 체스 플랫폼  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17404"><a class="upvote" href="javascript:vote(17404, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess" rel="nofollow" id="tr9"><h1>GN⁺: 체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일</h1></a> <span class="topicurl">(davidreis.me)</span></div><div class="topicdesc"><a href="topic?id=17404" class="c99 breakall">- Lichess 는 전 세계 수백만 명의 플레이어를 가진 무료 오픈 소스 체스 플랫폼  
 - Chrome DevTools의 Network탭을 사용하여 클라이언트와 서버...</a></div><div class="topicinfo"><span id="tp17404">12</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17404"></span> | <a href="topic?id=17404" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -565,14 +578,14 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://simonwillison.net/2024/Oct/21/claude-artifacts/</id>
         <link href="https://simonwillison.net/2024/Oct/21/claude-artifacts/"/>
         <updated>2024-10-24T02:47:45.346Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17397"><a class="upvote" href="javascript:vote(17397, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/21/claude-artifacts/" rel="nofollow" id="tr9"><h1>GN⁺: 이번 주 Claude Artifacts로 구축한 모든 것</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17397" class="c99 breakall">- Claude Artifacts 는 HTML, CSS, JavaScript를 사용하여 인터랙티브한 싱글 페이지 앱을 생성하고, Claude 인터페이스 내에서 결과를 확인하며 ...</a></div><div class="topicinfo"><span id="tp17397">15</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17397"></span> | <a href="topic?id=17397" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17397"><a class="upvote" href="javascript:vote(17397, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/21/claude-artifacts/" rel="nofollow" id="tr10"><h1>GN⁺: 이번 주 Claude Artifacts로 구축한 모든 것</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17397" class="c99 breakall">- Claude Artifacts 는 HTML, CSS, JavaScript를 사용하여 인터랙티브한 싱글 페이지 앱을 생성하고, Claude 인터페이스 내에서 결과를 확인하며 ...</a></div><div class="topicinfo"><span id="tp17397">15</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17397"></span> | <a href="topic?id=17397" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning</id>
         <link href="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning"/>
         <updated>2024-10-23T02:47:43.211Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17377"><a class="upvote" href="javascript:vote(17377, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning" rel="nofollow" id="tr10"><h1>GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음</h1></a> <span class="topicurl">(trevorlasn.com)</span></div><div class="topicdesc"><a href="topic?id=17377" class="c99 breakall">- 과거에는 "Senior Software Engineer"라는 타이틀이 실질적인 의미를 가지고 있었음  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17377"><a class="upvote" href="javascript:vote(17377, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning" rel="nofollow" id="tr11"><h1>GN⁺: "Software Engineer" 직함이 의미를 (거의) 상실했음</h1></a> <span class="topicurl">(trevorlasn.com)</span></div><div class="topicdesc"><a href="topic?id=17377" class="c99 breakall">- 과거에는 "Senior Software Engineer"라는 타이틀이 실질적인 의미를 가지고 있었음  
 - 최근 몇 년 동안, 업계에서는 급격한 직함 인플레이션...</a></div><div class="topicinfo"><span id="tp17377">18</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17377"></span> | <a href="topic?id=17377" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -580,7 +593,7 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://www.jetbrains.com/rider/</id>
         <link href="https://www.jetbrains.com/rider/"/>
         <updated>2024-10-25T02:49:58.665Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17407"><a class="upvote" href="javascript:vote(17407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.jetbrains.com/rider/" rel="nofollow" id="tr11"><h1>GN⁺: JetBrains Rider, 이제 비상업적 사용은 무료</h1></a> <span class="topicurl">(jetbrains.com)</span></div><div class="topicdesc"><a href="topic?id=17407" class="c99 breakall">- JetBrains Rider는 .NET 기술 스택 전체와 게임 개발자를 위한 올인원 IDE  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17407"><a class="upvote" href="javascript:vote(17407, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.jetbrains.com/rider/" rel="nofollow" id="tr12"><h1>GN⁺: JetBrains Rider, 이제 비상업적 사용은 무료</h1></a> <span class="topicurl">(jetbrains.com)</span></div><div class="topicdesc"><a href="topic?id=17407" class="c99 breakall">- JetBrains Rider는 .NET 기술 스택 전체와 게임 개발자를 위한 올인원 IDE  
 - .NET, ASP.NET Core, MAUI와 같은 프레임워크나 Unity, Unreal E...</a></div><div class="topicinfo"><span id="tp17407">6</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17407"></span> | <a href="topic?id=17407" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -588,23 +601,23 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://github.com/plasma-umass/scalene</id>
         <link href="https://github.com/plasma-umass/scalene"/>
         <updated>2024-10-24T02:47:45.347Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17400"><a class="upvote" href="javascript:vote(17400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plasma-umass/scalene" rel="nofollow" id="tr12"><h1>Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러</h1></a> <span class="topicurl">(github.com/plasma-umass)</span></div><div class="topicdesc"><a href="topic?id=17400" class="c99 breakall">- 다른 Python 프로파일러가 하지 않거나 할 수 없는 여러 가지 작업을 수행하는 Python용 고성능 CPU, GPU 및 메모리 프로파일러  
-- 훨씬 더 빠...</a></div><div class="topicinfo"><span id="tp17400">10</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17400"></span> | <a href="topic?id=17400" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17400"><a class="upvote" href="javascript:vote(17400, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/plasma-umass/scalene" rel="nofollow" id="tr13"><h1>Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일러</h1></a> <span class="topicurl">(github.com/plasma-umass)</span></div><div class="topicdesc"><a href="topic?id=17400" class="c99 breakall">- 다른 Python 프로파일러가 하지 않거나 할 수 없는 여러 가지 작업을 수행하는 Python용 고성능 CPU, GPU 및 메모리 프로파일러  
+- 훨씬 더 빠...</a></div><div class="topicinfo"><span id="tp17400">10</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17400"></span> | <a href="topic?id=17400" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Generative AI’s Act o1 - 에이전트 추론의 시대 개막 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://www.sequoiacap.com/article/generative-ais-act-o1/</id>
         <link href="https://www.sequoiacap.com/article/generative-ais-act-o1/"/>
         <updated>2024-10-21T02:52:17.016Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17349"><a class="upvote" href="javascript:vote(17349, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.sequoiacap.com/article/generative-ais-act-o1/" rel="nofollow" id="tr13"><h1>Generative AI’s Act o1 - 에이전트 추론의 시대 개막</h1></a> <span class="topicurl">(sequoiacap.com)</span></div><div class="topicdesc"><a href="topic?id=17349" class="c99 breakall">- Generative AI 혁명 2년차에 접어들면서, 연구는 "빠른 사고"에서 "느린 사고"로 진화하고 있음  
-  - "빠른 사고"는 사전 학습된 빠른 응답을 ...</a></div><div class="topicinfo"><span id="tp17349">27</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17349"></span> | <a href="topic?id=17349" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17349"><a class="upvote" href="javascript:vote(17349, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.sequoiacap.com/article/generative-ais-act-o1/" rel="nofollow" id="tr14"><h1>Generative AI’s Act o1 - 에이전트 추론의 시대 개막</h1></a> <span class="topicurl">(sequoiacap.com)</span></div><div class="topicdesc"><a href="topic?id=17349" class="c99 breakall">- Generative AI 혁명 2년차에 접어들면서, 연구는 "빠른 사고"에서 "느린 사고"로 진화하고 있음  
+  - "빠른 사고"는 사전 학습된 빠른 응답을 ...</a></div><div class="topicinfo"><span id="tp17349">27</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote17349"></span> | <a href="topic?id=17349" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://simonwillison.net/2024/Oct/17/video-scraping/</id>
         <link href="https://simonwillison.net/2024/Oct/17/video-scraping/"/>
         <updated>2024-10-22T02:49:33.788Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17365"><a class="upvote" href="javascript:vote(17365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/17/video-scraping/" rel="nofollow" id="tr14"><h1>비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17365" class="c99 breakall">- 12개의 서로 다른 이메일에 흩어져 있는 숫자 값을 합산할 일이 생김   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17365"><a class="upvote" href="javascript:vote(17365, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://simonwillison.net/2024/Oct/17/video-scraping/" rel="nofollow" id="tr15"><h1>비디오 스크래핑: 35초 화면 캡처에서 0.1센트로 JSON 데이터 추출하기</h1></a> <span class="topicurl">(simonwillison.net)</span></div><div class="topicdesc"><a href="topic?id=17365" class="c99 breakall">- 12개의 서로 다른 이메일에 흩어져 있는 숫자 값을 합산할 일이 생김   
 - 복사가 귀찮아서 Gmail 계정을 둘러보는 동안 화면 캡처를 녹화한 다...</a></div><div class="topicinfo"><span id="tp17365">20</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17365"></span> | <a href="topic?id=17365" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -612,7 +625,7 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://byline.network/2024/10/18-355/</id>
         <link href="https://byline.network/2024/10/18-355/"/>
         <updated>2024-10-23T04:18:32.890Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17388"><a class="upvote" href="javascript:vote(17388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2024/10/18-355/" rel="nofollow" id="tr15"><h1>메타는 오픈소스를 오염시키고있다.</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=17388" class="c99 breakall">- 오픈소스이니셔티브(OSI)의 책임자인 스테파노 마풀리 총괄이사가 메타를 비난함.  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17388"><a class="upvote" href="javascript:vote(17388, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2024/10/18-355/" rel="nofollow" id="tr16"><h1>메타는 오픈소스를 오염시키고있다.</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=17388" class="c99 breakall">- 오픈소스이니셔티브(OSI)의 책임자인 스테파노 마풀리 총괄이사가 메타를 비난함.  
 - 메타는, 라마를 발표하며 ‘오픈소스’란 용어를 사용해 사...</a></div><div class="topicinfo"><span id="tp17388">13</span> points by <a href="/user?id=bbulbum">bbulbum</a> 4일전<span id="unvote17388"></span> | <a href="topic?id=17388" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -620,23 +633,23 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://stability.ai/news/introducing-stable-diffusion-3-5</id>
         <link href="https://stability.ai/news/introducing-stable-diffusion-3-5"/>
         <updated>2024-10-24T02:47:45.361Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17402"><a class="upvote" href="javascript:vote(17402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/introducing-stable-diffusion-3-5" rel="nofollow" id="tr16"><h1>Stable Diffusion 3.5 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=17402" class="c99 breakall">- 소비자 하드웨어에서 실행 가능하고 유연하게 커스터마이징할 수 있는 여러 버전의 모델이 포함되며, 대부분의 사용 사례에 무료로 사용 가능함 ...</a></div><div class="topicinfo"><span id="tp17402">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17402"></span> | <a href="topic?id=17402" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17402"><a class="upvote" href="javascript:vote(17402, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stability.ai/news/introducing-stable-diffusion-3-5" rel="nofollow" id="tr17"><h1>Stable Diffusion 3.5 공개</h1></a> <span class="topicurl">(stability.ai)</span></div><div class="topicdesc"><a href="topic?id=17402" class="c99 breakall">- 소비자 하드웨어에서 실행 가능하고 유연하게 커스터마이징할 수 있는 여러 버전의 모델이 포함되며, 대부분의 사용 사례에 무료로 사용 가능함 ...</a></div><div class="topicinfo"><span id="tp17402">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17402"></span> | <a href="topic?id=17402" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PlaceholderJS - 간단하고 가벼운 플레이스홀더 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://placeholderjs.com/</id>
         <link href="https://placeholderjs.com/"/>
         <updated>2024-10-24T02:47:45.346Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17401"><a class="upvote" href="javascript:vote(17401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://placeholderjs.com/" rel="nofollow" id="tr17"><h1>PlaceholderJS - 간단하고 가벼운 플레이스홀더</h1></a> <span class="topicurl">(placeholderjs.com)</span></div><div class="topicdesc"><a href="topic?id=17401" class="c99 breakall">- 개발자 대상의 무료 PlaceHolder 서비스   
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17401"><a class="upvote" href="javascript:vote(17401, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://placeholderjs.com/" rel="nofollow" id="tr18"><h1>PlaceholderJS - 간단하고 가벼운 플레이스홀더</h1></a> <span class="topicurl">(placeholderjs.com)</span></div><div class="topicdesc"><a href="topic?id=17401" class="c99 breakall">- 개발자 대상의 무료 PlaceHolder 서비스   
 - React &amp; NextJS 와 심리스하게 연동   
-- 옵션을 파라미터로 지정 가능 : 이미지 사이즈(/HEIGHT...</a></div><div class="topicinfo"><span id="tp17401">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17401"></span> | <a href="topic?id=17401" class="u">댓글 2개</a></div>]]></content>
+- 옵션을 파라미터로 지정 가능 : 이미지 사이즈(/HEIGHT...</a></div><div class="topicinfo"><span id="tp17401">8</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17401"></span> | <a href="topic?id=17401" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/</id>
         <link href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/"/>
         <updated>2024-10-23T01:08:48.490Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17376"><a class="upvote" href="javascript:vote(17376, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/" rel="nofollow" id="tr18"><h1>GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각</h1></a> <span class="topicurl">(nolanlawson.com)</span></div><div class="topicdesc"><a href="topic?id=17376" class="c99 breakall">- 최근 Node.js 툴을 Rust, Zig, Go 등의 더 빠른 언어로 다시 작성하려는 경향이 걱정스러우며, 객관적인 우려사항들을 정리함   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17376"><a class="upvote" href="javascript:vote(17376, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/" rel="nofollow" id="tr19"><h1>GN⁺: JavaScript 도구를 "더 빠른 언어"로 재작성 하는 것에 대한 회의적인 시각</h1></a> <span class="topicurl">(nolanlawson.com)</span></div><div class="topicdesc"><a href="topic?id=17376" class="c99 breakall">- 최근 Node.js 툴을 Rust, Zig, Go 등의 더 빠른 언어로 다시 작성하려는 경향이 걱정스러우며, 객관적인 우려사항들을 정리함   
   
 # [성능] ...</a></div><div class="topicinfo"><span id="tp17376">12</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17376"></span> | <a href="topic?id=17376" class="u">댓글 15개</a></div>]]></content>
     </entry>
@@ -645,19 +658,11 @@ Trace는 저처럼 계획을 귀찮아...</a></div><div class="topicinfo"><span 
         <id>https://news.hada.io/topic?id=17371</id>
         <link href="https://news.hada.io/topic?id=17371"/>
         <updated>2024-10-22T07:16:01.987Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17371"><a class="upvote" href="javascript:vote(17371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17371" rel="nofollow" id="tr19"><h1>Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션</h1></a> <span class="topicurl">(payaction.app)</span></div><div class="topicdesc"><a href="topic?id=17371" class="c99 breakall">안녕하세요!  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17371"><a class="upvote" href="javascript:vote(17371, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17371" rel="nofollow" id="tr20"><h1>Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션</h1></a> <span class="topicurl">(payaction.app)</span></div><div class="topicdesc"><a href="topic?id=17371" class="c99 breakall">안녕하세요!  
 커머스/뱅킹 자동화 SaaS 페이액션입니다.  
   
 '실시간 계좌 거래내역을 1초만에 수신할수 있는 기능'을 정식 출시했습니다.  
 ...</a></div><div class="topicinfo"><span id="tp17371">14</span> points by <a href="/user?id=wally">wally</a> 5일전<span id="unvote17371"></span> | <a href="topic?id=17371" class="u">댓글 13개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft GenAIScript - 생성형 AI 스크립팅 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://microsoft.github.io/genaiscript/</id>
-        <link href="https://microsoft.github.io/genaiscript/"/>
-        <updated>2024-10-26T04:18:33.619Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17417"><a class="upvote" href="javascript:vote(17417, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://microsoft.github.io/genaiscript/" rel="nofollow" id="tr20"><h1>Microsoft GenAIScript - 생성형 AI 스크립팅 </h1></a> <span class="topicurl">(microsoft.github.io)</span></div><div class="topicdesc"><a href="topic?id=17417" class="c99 breakall">- "Prompting is Coding" : JavaScript를 사용하여 LLM에 대한 프롬프트를 프로그래밍 방식으로 작성하는 스크립팅 언어 및 환경   
-  - ```$`Ana...</a></div><div class="topicinfo"><span id="tp17417">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17417"></span> | <a href="topic?id=17417" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션 (GeekNews ─ Show)]]></title>
