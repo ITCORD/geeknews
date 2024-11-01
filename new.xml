@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2024-11-01T22:15:06.170Z</updated>
+    <updated>2024-11-01T23:15:30.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,14 +11,14 @@
         <link href="https://news.hada.io/topic?id=17539"/>
         <updated>2024-11-01T12:28:59.073Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17539"><a class="upvote" href="javascript:vote(17539, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://android-developers.googleblog.com/2024/10/android-sdk-release-update.html" rel="nofollow" id="tr1"><h1>2025년부터 반기마다 Android OS 업데이트 예정</h1></a> <span class="topicurl">(android-developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=17539" class="c99 breakall">* 관례적으로 Android OS 메이저 업데이트 매년 가을에 Pixel 기기 발표에 맞추어서 진행되었음  
-* 2025년에는 여름에 Major 업데이트, 겨울에 M...</a></div><div class="topicinfo"><span id="tp17539">2</span> points by <a href="/user?id=ganadist">ganadist</a> 10시간전<span id="unvote17539"></span> | <a href="topic?id=17539" class="u">댓글 1개</a></div>]]></content>
+* 2025년에는 여름에 Major 업데이트, 겨울에 M...</a></div><div class="topicinfo"><span id="tp17539">2</span> points by <a href="/user?id=ganadist">ganadist</a> 11시간전<span id="unvote17539"></span> | <a href="topic?id=17539" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 혹시 검색시 날짜별로 정렬해서 볼 수 있는 기능이 있나요?]]></title>
         <id>https://news.hada.io/topic?id=17537</id>
         <link href="https://news.hada.io/topic?id=17537"/>
         <updated>2024-11-01T04:18:40.247Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17537"><a class="upvote" href="javascript:vote(17537, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17537" id="tr2"><h1>Ask GN: 혹시 검색시 날짜별로 정렬해서 볼 수 있는 기능이 있나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17537" class="c99 breakall">가끔 놓친 뉴스나 특정 키워드의 트랜드를 시계열로 따라가면서 보고 싶은데, 제가 관련 기능을 못 찾는건지? 아니면 현재 사이트에서 제공을 안 ...</a></div><div class="topicinfo"><span id="tp17537">1</span> point by <a href="/user?id=wantu">wantu</a> 18시간전<span id="unvote17537"></span> | <a href="topic?id=17537" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17537"><a class="upvote" href="javascript:vote(17537, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17537" id="tr2"><h1>Ask GN: 혹시 검색시 날짜별로 정렬해서 볼 수 있는 기능이 있나요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17537" class="c99 breakall">가끔 놓친 뉴스나 특정 키워드의 트랜드를 시계열로 따라가면서 보고 싶은데, 제가 관련 기능을 못 찾는건지? 아니면 현재 사이트에서 제공을 안 ...</a></div><div class="topicinfo"><span id="tp17537">1</span> point by <a href="/user?id=wantu">wantu</a> 19시간전<span id="unvote17537"></span> | <a href="topic?id=17537" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres에서 PDF 전문 검색하기]]></title>
@@ -27,14 +27,14 @@
         <updated>2024-11-01T02:57:47.744Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17535"><a class="upvote" href="javascript:vote(17535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tselai.com/full-text-search-pdf-postgres" rel="nofollow" id="tr3"><h1>Postgres에서 PDF 전문 검색하기</h1></a> <span class="topicurl">(tselai.com)</span></div><div class="topicdesc"><a href="topic?id=17535" class="c99 breakall">- pgPDF는 PDF 파일을 SQL로 읽을 수 있는 Postgres 확장임(poppler의 래퍼)  
   `SELECT pdf_read_file('/path/file.pdf') → text`  
-- 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">12</span> points by <a href="/user?id=xguru">xguru</a> 20시간전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
+- 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">12</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기]]></title>
         <id>https://news.hada.io/topic?id=17534</id>
         <link href="https://news.hada.io/topic?id=17534"/>
         <updated>2024-11-01T02:57:47.745Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17534"><a class="upvote" href="javascript:vote(17534, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17534" rel="nofollow" id="tr4"><h1>Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기</h1></a> <span class="topicurl">(github.com/Azure)</span></div><div class="topicdesc"><a href="topic?id=17534" class="c99 breakall">👀 프로젝트를 다국어로 번역하고 관리하는 일이 얼마나 번거로운지 한 번쯤은 겪어 보셨을 텐데요. 특히 번역해야 할 마크다운 문서가 많거나, 프...</a></div><div class="topicinfo"><span id="tp17534">4</span> points by <a href="/user?id=skytin1004">skytin1004</a> 20시간전<span id="unvote17534"></span> | <a href="topic?id=17534" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17534"><a class="upvote" href="javascript:vote(17534, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17534" rel="nofollow" id="tr4"><h1>Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기</h1></a> <span class="topicurl">(github.com/Azure)</span></div><div class="topicdesc"><a href="topic?id=17534" class="c99 breakall">👀 프로젝트를 다국어로 번역하고 관리하는 일이 얼마나 번거로운지 한 번쯤은 겪어 보셨을 텐데요. 특히 번역해야 할 마크다운 문서가 많거나, 프...</a></div><div class="topicinfo"><span id="tp17534">4</span> points by <a href="/user?id=skytin1004">skytin1004</a> 22시간전<span id="unvote17534"></span> | <a href="topic?id=17534" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 하고 싶은 말을 자유롭게 남겨주세요.]]></title>
@@ -43,7 +43,7 @@
         <updated>2024-11-01T01:15:08.097Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17531"><a class="upvote" href="javascript:vote(17531, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17531" id="tr5"><h1>Ask GN: 하고 싶은 말을 자유롭게 남겨주세요.</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=17531" class="c99 breakall">요즘 있었던 일, 계획, 일상, 자랑, 고민, 추천 등 하고 싶은 말을 댓글로 작성해주세요.  
   
-*한달에 한번 등록됩니다*</a></div><div class="topicinfo"><span id="tp17531">1</span> point by <a href="/user?id=askbot">askbot</a> 21시간전<span id="unvote17531"></span> | <a href="topic?id=17531" class="u">댓글과 토론</a></div>]]></content>
+*한달에 한번 등록됩니다*</a></div><div class="topicinfo"><span id="tp17531">1</span> point by <a href="/user?id=askbot">askbot</a> 22시간전<span id="unvote17531"></span> | <a href="topic?id=17531" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic, 데스크탑용 Claude AI 앱 베타버전 공개]]></title>
@@ -52,7 +52,7 @@
         <updated>2024-11-01T01:15:08.100Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17528"><a class="upvote" href="javascript:vote(17528, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://claude.ai/download" rel="nofollow" id="tr6"><h1>Anthropic, 데스크탑용 Claude AI 앱 베타버전 공개</h1></a> <span class="topicurl">(claude.ai)</span></div><div class="topicdesc"><a href="topic?id=17528" class="c99 breakall">- 맥/윈도우/윈도우(Arm64) 버전 바이너리 제공   
 - 글로벌 키보드 숏컷 지원 : ⌥ + 스페이스 (변경 가능)  
-- Electron 앱이어서 기존의 PWA와...</a></div><div class="topicinfo"><span id="tp17528">3</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote17528"></span> | <a href="topic?id=17528" class="u">댓글 5개</a></div>]]></content>
+- Electron 앱이어서 기존의 PWA와...</a></div><div class="topicinfo"><span id="tp17528">3</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote17528"></span> | <a href="topic?id=17528" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생성형 AI의 불편한 골짜기에 대한 고찰]]></title>
@@ -61,7 +61,7 @@
         <updated>2024-11-01T01:15:08.103Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17522"><a class="upvote" href="javascript:vote(17522, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.thoughtworks.com/insights/blog/generative-ai/reckoning-generative-ai-uncanny-valley" rel="nofollow" id="tr7"><h1>생성형 AI의 불편한 골짜기에 대한 고찰</h1></a> <span class="topicurl">(thoughtworks.com)</span></div><div class="topicdesc"><a href="topic?id=17522" class="c99 breakall">- 생성형 AI는 다른 기술과 달리 놀라움을 줄 수 있는 힘이 있음  
   - 때로는 좋은 것이지만, 때로는 그렇지 않을 수도 있음  
-  - 이런 기술 ...</a></div><div class="topicinfo"><span id="tp17522">5</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote17522"></span> | <a href="topic?id=17522" class="u">댓글과 토론</a></div>]]></content>
+  - 이런 기술 ...</a></div><div class="topicinfo"><span id="tp17522">5</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote17522"></span> | <a href="topic?id=17522" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI, ChatGPT 서치 기능 정식 출시]]></title>
@@ -69,7 +69,7 @@
         <link href="https://news.hada.io/topic?id=17521"/>
         <updated>2024-11-01T01:15:08.103Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17521"><a class="upvote" href="javascript:vote(17521, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-chatgpt-search/" rel="nofollow" id="tr8"><h1>OpenAI, ChatGPT 서치 기능 정식 출시 </h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17521" class="c99 breakall">• ChatGPT의 새로운 웹 검색 기능 도입, 실시간 정보 제공 가능  
- 스포츠 점수, 뉴스, 주식 시세 등 최신 정보를 빠르게 제공하며 관련 웹 링크 ...</a></div><div class="topicinfo"><span id="tp17521">3</span> points by <a href="/user?id=fudiso">fudiso</a> 23시간전<span id="unvote17521"></span> | <a href="topic?id=17521" class="u">댓글 2개</a></div>]]></content>
+ 스포츠 점수, 뉴스, 주식 시세 등 최신 정보를 빠르게 제공하며 관련 웹 링크 ...</a></div><div class="topicinfo"><span id="tp17521">3</span> points by <a href="/user?id=fudiso">fudiso</a> 24시간전<span id="unvote17521"></span> | <a href="topic?id=17521" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple Vision Pro, 11월 15일 금요일 대한민국에 출시]]></title>
@@ -130,7 +130,7 @@
         <link href="https://news.hada.io/topic?id=17495"/>
         <updated>2024-10-30T02:50:10.231Z</updated>
         <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17495"><a class="upvote" href="javascript:vote(17495, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/com-lihaoyi/mill" rel="nofollow" id="tr15"><h1>Mill - Java와 Scala를 위한 빠른 JVM 빌드 도구</h1></a> <span class="topicurl">(github.com/com-lihaoyi)</span></div><div class="topicdesc"><a href="topic?id=17495" class="c99 breakall">- Java, Scala, Kotlin을 지원하는 빠르고 확장성 있는 멀티 언어 빌드 도구  
-- JVM 빌드 도구들은 속도가 느리고 혼란스럽다는 평가가 있지만, ...</a></div><div class="topicinfo"><span id="tp17495">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17495"></span> | <a href="topic?id=17495" class="u">댓글과 토론</a></div>]]></content>
+- JVM 빌드 도구들은 속도가 느리고 혼란스럽다는 평가가 있지만, ...</a></div><div class="topicinfo"><span id="tp17495">9</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17495"></span> | <a href="topic?id=17495" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js v22.11.0 (Jod) - Active LTS 시작]]></title>
