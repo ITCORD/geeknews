@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2024-11-02T13:19:50.303Z</updated>
+    <updated>2024-11-02T14:13:36.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=17552"/>
         <updated>2024-11-02T02:44:38.743Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17552"><a class="upvote" href="javascript:vote(17552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-simpleqa/" rel="nofollow" id="tr1"><h1>OpenAI, 팩트 체크 벤치마크 SimpleQA 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17552" class="c99 breakall">- SimpleQA는 언어 모델의 사실성을 측정하기 위한 새로운 벤치마크  
-- 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">1</span> point by <a href="/user?id=neo">neo</a> 12시간전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
+- 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">2</span> points by <a href="/user?id=neo">neo</a> 13시간전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust를 Non-Rust 서버에서 사용해 성능 개선하기]]></title>
@@ -19,7 +19,7 @@
         <link href="https://news.hada.io/topic?id=17549"/>
         <updated>2024-11-02T01:08:41.894Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17549"><a class="upvote" href="javascript:vote(17549, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md" rel="nofollow" id="tr2"><h1>Rust를 Non-Rust 서버에서 사용해 성능 개선하기</h1></a> <span class="topicurl">(github.com/pretzelhammer)</span></div><div class="topicdesc"><a href="topic?id=17549" class="c99 breakall">- Non-Rust 서버(JavaScript, Python, Java 등)에서 점진적으로 Rust를 추가하는 전략 소개  
-- CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">4</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글과 토론</a></div>]]></content>
+- CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">6</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025년부터 반기마다 Android OS 업데이트 예정]]></title>
@@ -43,14 +43,14 @@
         <updated>2024-11-01T02:57:47.744Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17535"><a class="upvote" href="javascript:vote(17535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tselai.com/full-text-search-pdf-postgres" rel="nofollow" id="tr5"><h1>Postgres에서 PDF 전문 검색하기</h1></a> <span class="topicurl">(tselai.com)</span></div><div class="topicdesc"><a href="topic?id=17535" class="c99 breakall">- pgPDF는 PDF 파일을 SQL로 읽을 수 있는 Postgres 확장임(poppler의 래퍼)  
   `SELECT pdf_read_file('/path/file.pdf') → text`  
-- 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
+- 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기]]></title>
         <id>https://news.hada.io/topic?id=17534</id>
         <link href="https://news.hada.io/topic?id=17534"/>
         <updated>2024-11-01T02:57:47.745Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17534"><a class="upvote" href="javascript:vote(17534, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17534" rel="nofollow" id="tr6"><h1>Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기</h1></a> <span class="topicurl">(github.com/Azure)</span></div><div class="topicdesc"><a href="topic?id=17534" class="c99 breakall">👀 프로젝트를 다국어로 번역하고 관리하는 일이 얼마나 번거로운지 한 번쯤은 겪어 보셨을 텐데요. 특히 번역해야 할 마크다운 문서가 많거나, 프...</a></div><div class="topicinfo"><span id="tp17534">5</span> points by <a href="/user?id=skytin1004">skytin1004</a> 1일전<span id="unvote17534"></span> | <a href="topic?id=17534" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17534"><a class="upvote" href="javascript:vote(17534, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17534" rel="nofollow" id="tr6"><h1>Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기</h1></a> <span class="topicurl">(github.com/Azure)</span></div><div class="topicdesc"><a href="topic?id=17534" class="c99 breakall">👀 프로젝트를 다국어로 번역하고 관리하는 일이 얼마나 번거로운지 한 번쯤은 겪어 보셨을 텐데요. 특히 번역해야 할 마크다운 문서가 많거나, 프...</a></div><div class="topicinfo"><span id="tp17534">5</span> points by <a href="/user?id=skytin1004">skytin1004</a> 2일전<span id="unvote17534"></span> | <a href="topic?id=17534" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 하고 싶은 말을 자유롭게 남겨주세요.]]></title>
@@ -93,7 +93,7 @@
         <link href="https://news.hada.io/topic?id=17517"/>
         <updated>2024-10-31T02:51:18.414Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17517"><a class="upvote" href="javascript:vote(17517, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.apple.com/kr/newsroom/2024/10/apple-vision-pro-arrives-in-south-korea-beginning-friday-november-15/" rel="nofollow" id="tr11"><h1>Apple Vision Pro, 11월 15일 금요일 대한민국에 출시</h1></a> <span class="topicurl">(apple.com)</span></div><div class="topicdesc"><a href="topic?id=17517" class="c99 breakall">- 11월 4일 월요일 오전 10시부터 사전 주문할 수 있으며 11월 15일 금요일에 정식 출시  
-- 혁신적인 운영체제 visionOS로 구동되는 공간 컴퓨터...</a></div><div class="topicinfo"><span id="tp17517">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17517"></span> | <a href="topic?id=17517" class="u">댓글 1개</a></div>]]></content>
+- 혁신적인 운영체제 visionOS로 구동되는 공간 컴퓨터...</a></div><div class="topicinfo"><span id="tp17517">4</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17517"></span> | <a href="topic?id=17517" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notion, 업무에 최적화된 email 앱 공개 예정]]></title>
@@ -138,7 +138,7 @@
         <link href="https://news.hada.io/topic?id=17496"/>
         <updated>2024-10-30T02:50:10.231Z</updated>
         <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17496"><a class="upvote" href="javascript:vote(17496, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.growthunhinged.com/p/state-of-saas-pricing-changes-2024" rel="nofollow" id="tr16"><h1>2024년 SaaS의 가격 페이지 변경 추적을 통해 배운 점</h1></a> <span class="topicurl">(growthunhinged.com)</span></div><div class="topicdesc"><a href="topic?id=17496" class="c99 breakall">- 가격은 모든 SaaS 기업에게 궁극적인 성장 지렛대임. 가격 페이지는 제품, 포지셔닝, 가격이 만나는 곳이자 비즈니스의 핵심임  
-- 2024년 1분...</a></div><div class="topicinfo"><span id="tp17496">7</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17496"></span> | <a href="topic?id=17496" class="u">댓글과 토론</a></div>]]></content>
+- 2024년 1분...</a></div><div class="topicinfo"><span id="tp17496">7</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17496"></span> | <a href="topic?id=17496" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mill - Java와 Scala를 위한 빠른 JVM 빌드 도구]]></title>
@@ -146,14 +146,14 @@
         <link href="https://news.hada.io/topic?id=17495"/>
         <updated>2024-10-30T02:50:10.231Z</updated>
         <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17495"><a class="upvote" href="javascript:vote(17495, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/com-lihaoyi/mill" rel="nofollow" id="tr17"><h1>Mill - Java와 Scala를 위한 빠른 JVM 빌드 도구</h1></a> <span class="topicurl">(github.com/com-lihaoyi)</span></div><div class="topicdesc"><a href="topic?id=17495" class="c99 breakall">- Java, Scala, Kotlin을 지원하는 빠르고 확장성 있는 멀티 언어 빌드 도구  
-- JVM 빌드 도구들은 속도가 느리고 혼란스럽다는 평가가 있지만, ...</a></div><div class="topicinfo"><span id="tp17495">9</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17495"></span> | <a href="topic?id=17495" class="u">댓글과 토론</a></div>]]></content>
+- JVM 빌드 도구들은 속도가 느리고 혼란스럽다는 평가가 있지만, ...</a></div><div class="topicinfo"><span id="tp17495">9</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17495"></span> | <a href="topic?id=17495" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js v22.11.0 (Jod) - Active LTS 시작]]></title>
         <id>https://news.hada.io/topic?id=17494</id>
         <link href="https://news.hada.io/topic?id=17494"/>
         <updated>2024-10-30T02:50:10.238Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17494"><a class="upvote" href="javascript:vote(17494, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nodejs/node/pull/55504" rel="nofollow" id="tr18"><h1>Node.js v22.11.0 (Jod) - Active LTS 시작</h1></a> <span class="topicurl">(github.com/nodejs)</span></div><div class="topicdesc"><a href="topic?id=17494" class="c99 breakall">코드네임 'Jod'로 Node v22의 Active LTS가 시작되었습니다. 2025-10-21부터 Maintenance LTS로 지원 예정이고 2027-04-30까지 유지될 예정입니다....</a></div><div class="topicinfo"><span id="tp17494">9</span> points by <a href="/user?id=ssssut">ssssut</a> 3일전<span id="unvote17494"></span> | <a href="topic?id=17494" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17494"><a class="upvote" href="javascript:vote(17494, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/nodejs/node/pull/55504" rel="nofollow" id="tr18"><h1>Node.js v22.11.0 (Jod) - Active LTS 시작</h1></a> <span class="topicurl">(github.com/nodejs)</span></div><div class="topicdesc"><a href="topic?id=17494" class="c99 breakall">코드네임 'Jod'로 Node v22의 Active LTS가 시작되었습니다. 2025-10-21부터 Maintenance LTS로 지원 예정이고 2027-04-30까지 유지될 예정입니다....</a></div><div class="topicinfo"><span id="tp17494">9</span> points by <a href="/user?id=ssssut">ssssut</a> 4일전<span id="unvote17494"></span> | <a href="topic?id=17494" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1930년대 전신타자기(tty)로 리눅스에 로그인하기]]></title>
