@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-11-02T14:13:36.352Z</updated>
+    <updated>2024-11-02T15:15:57.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"/>
         <updated>2024-11-02T01:08:37.221Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17549"><a class="upvote" href="javascript:vote(17549, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md" rel="nofollow" id="tr1"><h1>Rust를 Non-Rust 서버에서 사용해 성능 개선하기</h1></a> <span class="topicurl">(github.com/pretzelhammer)</span></div><div class="topicdesc"><a href="topic?id=17549" class="c99 breakall">- Non-Rust 서버(JavaScript, Python, Java 등)에서 점진적으로 Rust를 추가하는 전략 소개  
-- CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">6</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글 1개</a></div>]]></content>
+- CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">7</span> points by <a href="/user?id=xguru">xguru</a> 14시간전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres에서 PDF 전문 검색하기]]></title>
@@ -20,7 +20,7 @@
         <updated>2024-11-01T02:57:43.066Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17535"><a class="upvote" href="javascript:vote(17535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tselai.com/full-text-search-pdf-postgres" rel="nofollow" id="tr2"><h1>Postgres에서 PDF 전문 검색하기</h1></a> <span class="topicurl">(tselai.com)</span></div><div class="topicdesc"><a href="topic?id=17535" class="c99 breakall">- pgPDF는 PDF 파일을 SQL로 읽을 수 있는 Postgres 확장임(poppler의 래퍼)  
   `SELECT pdf_read_file('/path/file.pdf') → text`  
-- 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
+- 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">14</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Zed 에디터, SSH Remote 기능 지원]]></title>
@@ -44,7 +44,7 @@
         <link href="https://openai.com/index/introducing-simpleqa/"/>
         <updated>2024-11-02T02:44:33.741Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17552"><a class="upvote" href="javascript:vote(17552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-simpleqa/" rel="nofollow" id="tr5"><h1>OpenAI, 팩트 체크 벤치마크 SimpleQA 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17552" class="c99 breakall">- SimpleQA는 언어 모델의 사실성을 측정하기 위한 새로운 벤치마크  
-- 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">2</span> points by <a href="/user?id=neo">neo</a> 13시간전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
+- 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">2</span> points by <a href="/user?id=neo">neo</a> 14시간전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Dropbox의 자체 로드 밸런싱 서비스 Robinhood]]></title>
@@ -53,24 +53,24 @@
         <updated>2024-11-01T01:15:03.303Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17525"><a class="upvote" href="javascript:vote(17525, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service" rel="nofollow" id="tr6"><h1>GN⁺: Dropbox의 자체 로드 밸런싱 서비스 Robinhood </h1></a> <span class="topicurl">(dropbox.tech)</span></div><div class="topicdesc"><a href="topic?id=17525" class="c99 breakall">- Robinhood는 Dropbox의 내부 로드 밸런싱 서비스로 2020년에 배포됨  
 - 서버 간 내부 트래픽을 라우팅하여 서비스 로드를 균형있게 분산함  
-...</a></div><div class="topicinfo"><span id="tp17525">6</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote17525"></span> | <a href="topic?id=17525" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Cursor를 사용한 코드 작성 방법]]></title>
-        <id>https://www.arguingwithalgorithms.com/posts/cursor-review.html</id>
-        <link href="https://www.arguingwithalgorithms.com/posts/cursor-review.html"/>
-        <updated>2024-10-30T02:50:05.717Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17488"><a class="upvote" href="javascript:vote(17488, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.arguingwithalgorithms.com/posts/cursor-review.html" rel="nofollow" id="tr7"><h1>GN⁺: Cursor를 사용한 코드 작성 방법</h1></a> <span class="topicurl">(arguingwithalgorithms.com)</span></div><div class="topicdesc"><a href="topic?id=17488" class="c99 breakall"># Cursor란 무엇인가  
-- Cursor는 Visual Studio Code(VS Code)의 포크로, 코어 UI에 Large Language Model (LLM) 기반 기능이 통합되어 있음  
-...</a></div><div class="topicinfo"><span id="tp17488">20</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17488"></span> | <a href="topic?id=17488" class="u">댓글 4개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp17525">7</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote17525"></span> | <a href="topic?id=17525" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글을 쓰는 사람과 그렇지 않은 사람]]></title>
         <id>https://paulgraham.com/writes.html</id>
         <link href="https://paulgraham.com/writes.html"/>
         <updated>2024-10-28T01:13:10.836Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17452"><a class="upvote" href="javascript:vote(17452, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://paulgraham.com/writes.html" rel="nofollow" id="tr8"><h1>글을 쓰는 사람과 그렇지 않은 사람</h1></a> <span class="topicurl">(paulgraham.com)</span></div><div class="topicdesc"><a href="topic?id=17452" class="c99 breakall">- 기술에 대한 예측을 하기를 꺼리지만, 이번만큼은 확신이 있음: "수십 년 후에는 글을 쓸 수 있는 사람이 많지 않을 것임"  
-  - 작가가 되면 ...</a></div><div class="topicinfo"><span id="tp17452">42</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17452"></span> | <a href="topic?id=17452" class="u">댓글 18개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17452"><a class="upvote" href="javascript:vote(17452, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://paulgraham.com/writes.html" rel="nofollow" id="tr7"><h1>글을 쓰는 사람과 그렇지 않은 사람</h1></a> <span class="topicurl">(paulgraham.com)</span></div><div class="topicdesc"><a href="topic?id=17452" class="c99 breakall">- 기술에 대한 예측을 하기를 꺼리지만, 이번만큼은 확신이 있음: "수십 년 후에는 글을 쓸 수 있는 사람이 많지 않을 것임"  
+  - 작가가 되면 ...</a></div><div class="topicinfo"><span id="tp17452">43</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17452"></span> | <a href="topic?id=17452" class="u">댓글 18개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Cursor를 사용한 코드 작성 방법]]></title>
+        <id>https://www.arguingwithalgorithms.com/posts/cursor-review.html</id>
+        <link href="https://www.arguingwithalgorithms.com/posts/cursor-review.html"/>
+        <updated>2024-10-30T02:50:05.717Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17488"><a class="upvote" href="javascript:vote(17488, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.arguingwithalgorithms.com/posts/cursor-review.html" rel="nofollow" id="tr8"><h1>GN⁺: Cursor를 사용한 코드 작성 방법</h1></a> <span class="topicurl">(arguingwithalgorithms.com)</span></div><div class="topicdesc"><a href="topic?id=17488" class="c99 breakall"># Cursor란 무엇인가  
+- Cursor는 Visual Studio Code(VS Code)의 포크로, 코어 UI에 Large Language Model (LLM) 기반 기능이 통합되어 있음  
+...</a></div><div class="topicinfo"><span id="tp17488">20</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17488"></span> | <a href="topic?id=17488" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기]]></title>
