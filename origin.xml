@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-11-02T22:15:42.128Z</updated>
+    <updated>2024-11-02T23:17:10.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"/>
         <updated>2024-11-02T01:08:37.221Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17549"><a class="upvote" href="javascript:vote(17549, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md" rel="nofollow" id="tr1"><h1>Rust를 Non-Rust 서버에서 사용해 성능 개선하기</h1></a> <span class="topicurl">(github.com/pretzelhammer)</span></div><div class="topicdesc"><a href="topic?id=17549" class="c99 breakall">- Non-Rust 서버(JavaScript, Python, Java 등)에서 점진적으로 Rust를 추가하는 전략 소개  
-- CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">9</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글 1개</a></div>]]></content>
+- CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">10</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres에서 PDF 전문 검색하기]]></title>
@@ -36,7 +36,7 @@
         <link href="https://openai.com/index/introducing-simpleqa/"/>
         <updated>2024-11-02T02:44:33.741Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17552"><a class="upvote" href="javascript:vote(17552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-simpleqa/" rel="nofollow" id="tr4"><h1>OpenAI, 팩트 체크 벤치마크 SimpleQA 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17552" class="c99 breakall">- SimpleQA는 언어 모델의 사실성을 측정하기 위한 새로운 벤치마크  
-- 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">3</span> points by <a href="/user?id=neo">neo</a> 21시간전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
+- 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">3</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 구글! 제발 그만해주세요: 당신들이 독립 웹사이트를 파괴하고 있어요]]></title>
@@ -162,11 +162,11 @@ Jupyter Lab에서 어떻게 활용할 수 있을지에 대한 내...</a></div><d
         <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17484"><a class="upvote" href="javascript:vote(17484, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hackaday.com/2020/04/15/logging-into-linux-with-a-1930s-teletype/" rel="nofollow" id="tr19"><h1>1930년대 전신타자기(tty)로 리눅스에 로그인하기</h1></a> <span class="topicurl">(hackaday.com)</span></div><div class="topicdesc"><a href="topic?id=17484" class="c99 breakall">Unix 기반 시스템의 가장 깊숙한 곳에는 "하드웨어"가 캠, 레버, 풀리와 구리스가 있는 실제 기계 장치를 의미했던 컴퓨팅의 초기 시절의 흔적이 ...</a></div><div class="topicinfo"><span id="tp17484">11</span> points by <a href="/user?id=regentag">regentag</a> 4일전<span id="unvote17484"></span> | <a href="topic?id=17484" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI, ChatGPT 서치 기능 정식 출시]]></title>
-        <id>https://openai.com/index/introducing-chatgpt-search/</id>
-        <link href="https://openai.com/index/introducing-chatgpt-search/"/>
-        <updated>2024-11-01T01:15:03.300Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17521"><a class="upvote" href="javascript:vote(17521, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-chatgpt-search/" rel="nofollow" id="tr20"><h1>OpenAI, ChatGPT 서치 기능 정식 출시 </h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17521" class="c99 breakall">• ChatGPT의 새로운 웹 검색 기능 도입, 실시간 정보 제공 가능  
- 스포츠 점수, 뉴스, 주식 시세 등 최신 정보를 빠르게 제공하며 관련 웹 링크 ...</a></div><div class="topicinfo"><span id="tp17521">3</span> points by <a href="/user?id=fudiso">fudiso</a> 2일전<span id="unvote17521"></span> | <a href="topic?id=17521" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[Mill - Java와 Scala를 위한 빠른 JVM 빌드 도구]]></title>
+        <id>https://github.com/com-lihaoyi/mill</id>
+        <link href="https://github.com/com-lihaoyi/mill"/>
+        <updated>2024-11-02T23:16:36.486Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17495"><a class="upvote" href="javascript:vote(17495, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/com-lihaoyi/mill" rel="nofollow" id="tr20"><h1>Mill - Java와 Scala를 위한 빠른 JVM 빌드 도구</h1></a> <span class="topicurl">(github.com/com-lihaoyi)</span></div><div class="topicdesc"><a href="topic?id=17495" class="c99 breakall">- Java, Scala, Kotlin을 지원하는 빠르고 확장성 있는 멀티 언어 빌드 도구  
+- JVM 빌드 도구들은 속도가 느리고 혼란스럽다는 평가가 있지만, ...</a></div><div class="topicinfo"><span id="tp17495">9</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17495"></span> | <a href="topic?id=17495" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
