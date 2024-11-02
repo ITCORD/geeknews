@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-11-02T16:18:39.283Z</updated>
+    <updated>2024-11-02T17:13:34.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"/>
         <updated>2024-11-02T01:08:46.502Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17549"><a class="upvote" href="javascript:vote(17549, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md" rel="nofollow" id="tr1"><h1>Rust를 Non-Rust 서버에서 사용해 성능 개선하기</h1></a> <span class="topicurl">(github.com/pretzelhammer)</span></div><div class="topicdesc"><a href="topic?id=17549" class="c99 breakall">- Non-Rust 서버(JavaScript, Python, Java 등)에서 점진적으로 Rust를 추가하는 전략 소개  
-- CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">7</span> points by <a href="/user?id=xguru">xguru</a> 15시간전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글 1개</a></div>]]></content>
+- CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">7</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres에서 PDF 전문 검색하기]]></title>
@@ -20,7 +20,7 @@
         <updated>2024-11-01T02:57:52.336Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17535"><a class="upvote" href="javascript:vote(17535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tselai.com/full-text-search-pdf-postgres" rel="nofollow" id="tr2"><h1>Postgres에서 PDF 전문 검색하기</h1></a> <span class="topicurl">(tselai.com)</span></div><div class="topicdesc"><a href="topic?id=17535" class="c99 breakall">- pgPDF는 PDF 파일을 SQL로 읽을 수 있는 Postgres 확장임(poppler의 래퍼)  
   `SELECT pdf_read_file('/path/file.pdf') → text`  
-- 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">14</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
+- 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Zed 에디터, SSH Remote 기능 지원]]></title>
@@ -44,7 +44,7 @@
         <link href="https://openai.com/index/introducing-simpleqa/"/>
         <updated>2024-11-02T02:44:43.261Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17552"><a class="upvote" href="javascript:vote(17552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-simpleqa/" rel="nofollow" id="tr5"><h1>OpenAI, 팩트 체크 벤치마크 SimpleQA 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17552" class="c99 breakall">- SimpleQA는 언어 모델의 사실성을 측정하기 위한 새로운 벤치마크  
-- 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">2</span> points by <a href="/user?id=neo">neo</a> 15시간전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
+- 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">2</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Dropbox의 자체 로드 밸런싱 서비스 Robinhood]]></title>
@@ -130,19 +130,19 @@
 - Electron 앱이어서 기존의 PWA와...</a></div><div class="topicinfo"><span id="tp17528">3</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17528"></span> | <a href="topic?id=17528" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI, ChatGPT 서치 기능 정식 출시]]></title>
-        <id>https://openai.com/index/introducing-chatgpt-search/</id>
-        <link href="https://openai.com/index/introducing-chatgpt-search/"/>
-        <updated>2024-11-01T01:15:12.775Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17521"><a class="upvote" href="javascript:vote(17521, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-chatgpt-search/" rel="nofollow" id="tr16"><h1>OpenAI, ChatGPT 서치 기능 정식 출시 </h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17521" class="c99 breakall">• ChatGPT의 새로운 웹 검색 기능 도입, 실시간 정보 제공 가능  
- 스포츠 점수, 뉴스, 주식 시세 등 최신 정보를 빠르게 제공하며 관련 웹 링크 ...</a></div><div class="topicinfo"><span id="tp17521">3</span> points by <a href="/user?id=fudiso">fudiso</a> 2일전<span id="unvote17521"></span> | <a href="topic?id=17521" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: 구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 공개]]></title>
         <id>https://github.com/google-deepmind/synthid-text</id>
         <link href="https://github.com/google-deepmind/synthid-text"/>
         <updated>2024-10-31T02:51:22.932Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17508"><a class="upvote" href="javascript:vote(17508, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/google-deepmind/synthid-text" rel="nofollow" id="tr17"><h1>GN⁺: 구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 공개 </h1></a> <span class="topicurl">(github.com/google-deepmind)</span></div><div class="topicdesc"><a href="topic?id=17508" class="c99 breakall">- Google DeepMind의 SynthID는 AI 생성 이미지, 오디오, 텍스트 또는 비디오에 직접 디지털 워터마크를 삽입하여 AI 생성 콘텐츠에 워터마크를 적...</a></div><div class="topicinfo"><span id="tp17508">6</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17508"></span> | <a href="topic?id=17508" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17508"><a class="upvote" href="javascript:vote(17508, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/google-deepmind/synthid-text" rel="nofollow" id="tr16"><h1>GN⁺: 구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 공개 </h1></a> <span class="topicurl">(github.com/google-deepmind)</span></div><div class="topicdesc"><a href="topic?id=17508" class="c99 breakall">- Google DeepMind의 SynthID는 AI 생성 이미지, 오디오, 텍스트 또는 비디오에 직접 디지털 워터마크를 삽입하여 AI 생성 콘텐츠에 워터마크를 적...</a></div><div class="topicinfo"><span id="tp17508">6</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17508"></span> | <a href="topic?id=17508" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI, ChatGPT 서치 기능 정식 출시]]></title>
+        <id>https://openai.com/index/introducing-chatgpt-search/</id>
+        <link href="https://openai.com/index/introducing-chatgpt-search/"/>
+        <updated>2024-11-01T01:15:12.775Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17521"><a class="upvote" href="javascript:vote(17521, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-chatgpt-search/" rel="nofollow" id="tr17"><h1>OpenAI, ChatGPT 서치 기능 정식 출시 </h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17521" class="c99 breakall">• ChatGPT의 새로운 웹 검색 기능 도입, 실시간 정보 제공 가능  
+ 스포츠 점수, 뉴스, 주식 시세 등 최신 정보를 빠르게 제공하며 관련 웹 링크 ...</a></div><div class="topicinfo"><span id="tp17521">3</span> points by <a href="/user?id=fudiso">fudiso</a> 2일전<span id="unvote17521"></span> | <a href="topic?id=17521" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughtworks Technology Radar, Volume 31 공개]]></title>
