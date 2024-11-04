@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2024-11-04T07:16:08.632Z</updated>
+    <updated>2024-11-04T08:20:50.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,54 +11,63 @@
         <link href="https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition"/>
         <updated>2024-11-04T02:53:19.146Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17582"><a class="upvote" href="javascript:vote(17582, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition" rel="nofollow" id="tr1"><h1>차세대 경쟁 Arena 12 - 맥킨지 보고서 [213p PDF]</h1></a> <span class="topicurl">(mckinsey.com)</span></div><div class="topicdesc"><a href="topic?id=17582" class="c99 breakall">- 현재와 미래의 경쟁 아레나(Arenas of Competition)를 정리, 아레나는 비즈니스 환경과 세상을 변화시킬 수 있는 "산업"들을 의미   
-  - 아레...</a></div><div class="topicinfo"><span id="tp17582">8</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote17582"></span> | <a href="topic?id=17582" class="u">댓글과 토론</a></div>]]></content>
+  - 아레...</a></div><div class="topicinfo"><span id="tp17582">9</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote17582"></span> | <a href="topic?id=17582" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: AI Agent를 활용한 문서 기반 투자 아이디어 발굴 시스템]]></title>
+        <id>https://news.hada.io/topic?id=17583</id>
+        <link href="https://news.hada.io/topic?id=17583"/>
+        <updated>2024-11-04T08:20:26.256Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17583"><a class="upvote" href="javascript:vote(17583, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17583" rel="nofollow" id="tr2"><h1>Show GN: AI Agent를 활용한 문서 기반 투자 아이디어 발굴 시스템</h1></a> <span class="topicurl">(investingswan.com)</span></div><div class="topicdesc"><a href="topic?id=17583" class="c99 breakall">[세줄요약]  
+1. AI를 활용하여 뉴스, 공시 외 다양한 정보에서 투자기회를 발굴하는 시스템 구축 시도  
+2. 미국 각 부처의 공식 문서(규제, 법...</a></div><div class="topicinfo"><span id="tp17583">3</span> points by <a href="/user?id=dnltmdwhd">dnltmdwhd</a> 27분전<span id="unvote17583"></span> | <a href="topic?id=17583" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust로 성공적인 재작성을 끝내고 배운 것들]]></title>
         <id>https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html</id>
         <link href="https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html"/>
         <updated>2024-11-04T01:12:03.220Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17572"><a class="upvote" href="javascript:vote(17572, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html" rel="nofollow" id="tr2"><h1>Rust로 성공적인 재작성을 끝내고 배운 것들</h1></a> <span class="topicurl">(gaultier.github.io)</span></div><div class="topicdesc"><a href="topic?id=17572" class="c99 breakall"># 잘 된 것들  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17572"><a class="upvote" href="javascript:vote(17572, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html" rel="nofollow" id="tr3"><h1>Rust로 성공적인 재작성을 끝내고 배운 것들</h1></a> <span class="topicurl">(gaultier.github.io)</span></div><div class="topicdesc"><a href="topic?id=17572" class="c99 breakall"># 잘 된 것들  
 - 재작성은 작은 단계로 이뤄졌고(점진적, stop-and-go), 잘 동작하며, 새 코드는 읽고 이해하기 쉬워졌음  
-- 모든 코드를 보는...</a></div><div class="topicinfo"><span id="tp17572">8</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote17572"></span> | <a href="topic?id=17572" class="u">댓글 6개</a></div>]]></content>
+- 모든 코드를 보는...</a></div><div class="topicinfo"><span id="tp17572">8</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote17572"></span> | <a href="topic?id=17572" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: re-buttonization : 터치스크린이 사라지고 촉각(Tactile) 컨트롤이 돌아온다]]></title>
         <id>https://spectrum.ieee.org/touchscreens</id>
         <link href="https://spectrum.ieee.org/touchscreens"/>
         <updated>2024-11-04T01:12:03.220Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17571"><a class="upvote" href="javascript:vote(17571, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://spectrum.ieee.org/touchscreens" rel="nofollow" id="tr3"><h1>GN⁺: re-buttonization : 터치스크린이 사라지고 촉각(Tactile) 컨트롤이 돌아온다 </h1></a> <span class="topicurl">(spectrum.ieee.org)</span></div><div class="topicdesc"><a href="topic?id=17571" class="c99 breakall">- Apple이 iPhone 16에 두 개의 새로운 버튼을 추가함  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17571"><a class="upvote" href="javascript:vote(17571, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://spectrum.ieee.org/touchscreens" rel="nofollow" id="tr4"><h1>GN⁺: re-buttonization : 터치스크린이 사라지고 촉각(Tactile) 컨트롤이 돌아온다 </h1></a> <span class="topicurl">(spectrum.ieee.org)</span></div><div class="topicdesc"><a href="topic?id=17571" class="c99 breakall">- Apple이 iPhone 16에 두 개의 새로운 버튼을 추가함  
 - 주방기기와 세탁기는 다시 손잡이로 돌아가고 있음  
-- 여러 자동차 제조업체는 대시...</a></div><div class="topicinfo"><span id="tp17571">8</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote17571"></span> | <a href="topic?id=17571" class="u">댓글 1개</a></div>]]></content>
+- 여러 자동차 제조업체는 대시...</a></div><div class="topicinfo"><span id="tp17571">8</span> points by <a href="/user?id=neo">neo</a> 8시간전<span id="unvote17571"></span> | <a href="topic?id=17571" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Matrix 2.0 출시]]></title>
         <id>https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/</id>
         <link href="https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/"/>
         <updated>2024-11-04T02:53:19.146Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17575"><a class="upvote" href="javascript:vote(17575, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/" rel="nofollow" id="tr4"><h1>GN⁺: Matrix 2.0 출시</h1></a> <span class="topicurl">(matrix.org)</span></div><div class="topicdesc"><a href="topic?id=17575" class="c99 breakall">- Matrix의 목표는 개방적이고 분산된 안전한 커뮤니케이션 앱을 구축하는 것임. Matrix 2.0은 이를 주류로 만들기 위한 네 가지 주요 기능을 구현...</a></div><div class="topicinfo"><span id="tp17575">6</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote17575"></span> | <a href="topic?id=17575" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17575"><a class="upvote" href="javascript:vote(17575, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/" rel="nofollow" id="tr5"><h1>GN⁺: Matrix 2.0 출시</h1></a> <span class="topicurl">(matrix.org)</span></div><div class="topicdesc"><a href="topic?id=17575" class="c99 breakall">- Matrix의 목표는 개방적이고 분산된 안전한 커뮤니케이션 앱을 구축하는 것임. Matrix 2.0은 이를 주류로 만들기 위한 네 가지 주요 기능을 구현...</a></div><div class="topicinfo"><span id="tp17575">6</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote17575"></span> | <a href="topic?id=17575" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Nvidia GeForce GPU 보안 결함 발견, 최대한 빨리 드라이버 업데이트 하세요]]></title>
         <id>https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html</id>
         <link href="https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html"/>
         <updated>2024-11-04T02:53:19.146Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17577"><a class="upvote" href="javascript:vote(17577, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html" rel="nofollow" id="tr5"><h1>GN⁺: Nvidia GeForce GPU 보안 결함 발견, 최대한 빨리 드라이버 업데이트 하세요</h1></a> <span class="topicurl">(pcworld.com)</span></div><div class="topicdesc"><a href="topic?id=17577" class="c99 breakall">- NVIDIA는 현재 모든 GeForce GPU 소유자에게 경고를 발송하고 있으며, 지금 최신 드라이버 업데이트를 다운로드해야 함  
-- Nvidia의 보안 공지...</a></div><div class="topicinfo"><span id="tp17577">4</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote17577"></span> | <a href="topic?id=17577" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17577"><a class="upvote" href="javascript:vote(17577, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html" rel="nofollow" id="tr6"><h1>GN⁺: Nvidia GeForce GPU 보안 결함 발견, 최대한 빨리 드라이버 업데이트 하세요</h1></a> <span class="topicurl">(pcworld.com)</span></div><div class="topicdesc"><a href="topic?id=17577" class="c99 breakall">- NVIDIA는 현재 모든 GeForce GPU 소유자에게 경고를 발송하고 있으며, 지금 최신 드라이버 업데이트를 다운로드해야 함  
+- Nvidia의 보안 공지...</a></div><div class="topicinfo"><span id="tp17577">4</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote17577"></span> | <a href="topic?id=17577" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 속도, 확장성, 안정성: 25년간의 Google 데이터센터 네트워킹 진화 과정]]></title>
         <id>https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking</id>
         <link href="https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking"/>
         <updated>2024-11-04T02:53:19.153Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17573"><a class="upvote" href="javascript:vote(17573, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking" rel="nofollow" id="tr6"><h1>GN⁺: 속도, 확장성, 안정성: 25년간의 Google 데이터센터 네트워킹 진화 과정</h1></a> <span class="topicurl">(cloud.google.com)</span></div><div class="topicdesc"><a href="topic?id=17573" class="c99 breakall">- 구글의 네트워크는 하루아침에 만들어진 것이 아니며, 25년간의 엔지니어링 혁신과 이정표를 통해 현재의 5세대 Jupiter 데이터 센터 네트워크 ...</a></div><div class="topicinfo"><span id="tp17573">3</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote17573"></span> | <a href="topic?id=17573" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17573"><a class="upvote" href="javascript:vote(17573, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking" rel="nofollow" id="tr7"><h1>GN⁺: 속도, 확장성, 안정성: 25년간의 Google 데이터센터 네트워킹 진화 과정</h1></a> <span class="topicurl">(cloud.google.com)</span></div><div class="topicdesc"><a href="topic?id=17573" class="c99 breakall">- 구글의 네트워크는 하루아침에 만들어진 것이 아니며, 25년간의 엔지니어링 혁신과 이정표를 통해 현재의 5세대 Jupiter 데이터 센터 네트워크 ...</a></div><div class="topicinfo"><span id="tp17573">3</span> points by <a href="/user?id=neo">neo</a> 8시간전<span id="unvote17573"></span> | <a href="topic?id=17573" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Play 3.0 Mini 공개 - 경량, 비용 효율적인 다국어 Text-To-Speech 모델]]></title>
         <id>https://play.ht/news/introducing-play-3-0-mini/</id>
         <link href="https://play.ht/news/introducing-play-3-0-mini/"/>
         <updated>2024-11-03T01:14:48.323Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17564"><a class="upvote" href="javascript:vote(17564, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://play.ht/news/introducing-play-3-0-mini/" rel="nofollow" id="tr7"><h1>Play 3.0 Mini 공개 - 경량, 비용 효율적인 다국어 Text-To-Speech 모델</h1></a> <span class="topicurl">(play.ht)</span></div><div class="topicdesc"><a href="topic?id=17564" class="c99 breakall">- 30개 이상의 언어로 업계 최고 속도와 정확도로 어떤 목소리나 억양으로도 말할 수 있는 가장 유능하고 대화형 음성 모델  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17564"><a class="upvote" href="javascript:vote(17564, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://play.ht/news/introducing-play-3-0-mini/" rel="nofollow" id="tr8"><h1>Play 3.0 Mini 공개 - 경량, 비용 효율적인 다국어 Text-To-Speech 모델</h1></a> <span class="topicurl">(play.ht)</span></div><div class="topicdesc"><a href="topic?id=17564" class="c99 breakall">- 30개 이상의 언어로 업계 최고 속도와 정확도로 어떤 목소리나 억양으로도 말할 수 있는 가장 유능하고 대화형 음성 모델  
   - 또한 여러 언어...</a></div><div class="topicinfo"><span id="tp17564">15</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17564"></span> | <a href="topic?id=17564" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
@@ -66,7 +75,7 @@
         <id>https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md</id>
         <link href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"/>
         <updated>2024-11-02T01:08:46.502Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17549"><a class="upvote" href="javascript:vote(17549, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md" rel="nofollow" id="tr8"><h1>Rust를 Non-Rust 서버에서 사용해 성능 개선하기</h1></a> <span class="topicurl">(github.com/pretzelhammer)</span></div><div class="topicdesc"><a href="topic?id=17549" class="c99 breakall">- Non-Rust 서버(JavaScript, Python, Java 등)에서 점진적으로 Rust를 추가하는 전략 소개  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17549"><a class="upvote" href="javascript:vote(17549, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md" rel="nofollow" id="tr9"><h1>Rust를 Non-Rust 서버에서 사용해 성능 개선하기</h1></a> <span class="topicurl">(github.com/pretzelhammer)</span></div><div class="topicdesc"><a href="topic?id=17549" class="c99 breakall">- Non-Rust 서버(JavaScript, Python, Java 등)에서 점진적으로 Rust를 추가하는 전략 소개  
 - CPU 병목으로 인해 성능 요구 사항을 충족하지 못...</a></div><div class="topicinfo"><span id="tp17549">19</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17549"></span> | <a href="topic?id=17549" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -74,7 +83,7 @@
         <id>https://chromestatus.com/feature/6398297361088512</id>
         <link href="https://chromestatus.com/feature/6398297361088512"/>
         <updated>2024-11-03T02:53:52.181Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17565"><a class="upvote" href="javascript:vote(17565, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://chromestatus.com/feature/6398297361088512" rel="nofollow" id="tr9"><h1>크롬 131, Direct Sockets API 추가</h1></a> <span class="topicurl">(chromestatus.com)</span></div><div class="topicdesc"><a href="topic?id=17565" class="c99 breakall">- 격리된 웹앱이 TCP와 UDP를 통해 네트워크 기기 및 시스템과 직접 통신할 수 있으며, 웹앱이 들어오는 연결을 수신하고 허용할 수 있게 함  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17565"><a class="upvote" href="javascript:vote(17565, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://chromestatus.com/feature/6398297361088512" rel="nofollow" id="tr10"><h1>크롬 131, Direct Sockets API 추가</h1></a> <span class="topicurl">(chromestatus.com)</span></div><div class="topicdesc"><a href="topic?id=17565" class="c99 breakall">- 격리된 웹앱이 TCP와 UDP를 통해 네트워크 기기 및 시스템과 직접 통신할 수 있으며, 웹앱이 들어오는 연결을 수신하고 허용할 수 있게 함  
 - ...</a></div><div class="topicinfo"><span id="tp17565">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote17565"></span> | <a href="topic?id=17565" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -82,7 +91,7 @@
         <id>https://wasmer.io/posts/introducing-wasmer-v5</id>
         <link href="https://wasmer.io/posts/introducing-wasmer-v5"/>
         <updated>2024-11-03T02:53:52.174Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17566"><a class="upvote" href="javascript:vote(17566, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://wasmer.io/posts/introducing-wasmer-v5" rel="nofollow" id="tr10"><h1>Wasmer 5.0 릴리즈</h1></a> <span class="topicurl">(wasmer.io)</span></div><div class="topicdesc"><a href="topic?id=17566" class="c99 breakall"># 새로운 실험적 백엔드  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17566"><a class="upvote" href="javascript:vote(17566, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://wasmer.io/posts/introducing-wasmer-v5" rel="nofollow" id="tr11"><h1>Wasmer 5.0 릴리즈</h1></a> <span class="topicurl">(wasmer.io)</span></div><div class="topicdesc"><a href="topic?id=17566" class="c99 breakall"># 새로운 실험적 백엔드  
 - V8, Wasmi, WAMR 지원이 추가됨  
 - 이제 Wasm-C-API 사양을 지원하는 모든 인터프리터 또는 런타임을 Wasmer에 쉽...</a></div><div class="topicinfo"><span id="tp17566">6</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17566"></span> | <a href="topic?id=17566" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -91,7 +100,7 @@
         <id>https://black7375.tistory.com/98</id>
         <link href="https://black7375.tistory.com/98"/>
         <updated>2024-11-03T05:15:03.783Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17569"><a class="upvote" href="javascript:vote(17569, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://black7375.tistory.com/98" rel="nofollow" id="tr11"><h1>리스프에서 멋진 3가지.</h1></a> <span class="topicurl">(black7375.tistory.com)</span></div><div class="topicdesc"><a href="topic?id=17569" class="c99 breakall">Racket팀의 좋아요를 말미암아  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17569"><a class="upvote" href="javascript:vote(17569, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://black7375.tistory.com/98" rel="nofollow" id="tr12"><h1>리스프에서 멋진 3가지.</h1></a> <span class="topicurl">(black7375.tistory.com)</span></div><div class="topicdesc"><a href="topic?id=17569" class="c99 breakall">Racket팀의 좋아요를 말미암아  
 리스프 계열 언어에서 선진적으로 구현된 부분들을 소개합니다.  
   
 1. Racket의 가장 강력하고 안전한 매크...</a></div><div class="topicinfo"><span id="tp17569">5</span> points by <a href="/user?id=alstjr7375">alstjr7375</a> 1일전<span id="unvote17569"></span> | <a href="topic?id=17569" class="u">댓글과 토론</a></div>]]></content>
@@ -101,7 +110,7 @@
         <id>https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/</id>
         <link href="https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/"/>
         <updated>2024-11-03T01:14:48.330Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17558"><a class="upvote" href="javascript:vote(17558, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/" rel="nofollow" id="tr12"><h1>오픈 소스 자체만으로는 빅 테크의 대안이 될 수 없습니다</h1></a> <span class="topicurl">(berthub.eu)</span></div><div class="topicdesc"><a href="topic?id=17558" class="c99 breakall">- 현재 우리는 '빅테크'의 지배력에 대해 점점 더 우려하고 있고, 정부가 독점 플랫폼에서 벗어나고자 할때 오픈 소스가 종종 대안으로 언급됨  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17558"><a class="upvote" href="javascript:vote(17558, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/" rel="nofollow" id="tr13"><h1>오픈 소스 자체만으로는 빅 테크의 대안이 될 수 없습니다</h1></a> <span class="topicurl">(berthub.eu)</span></div><div class="topicdesc"><a href="topic?id=17558" class="c99 breakall">- 현재 우리는 '빅테크'의 지배력에 대해 점점 더 우려하고 있고, 정부가 독점 플랫폼에서 벗어나고자 할때 오픈 소스가 종종 대안으로 언급됨  
 ...</a></div><div class="topicinfo"><span id="tp17558">6</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17558"></span> | <a href="topic?id=17558" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -109,7 +118,7 @@
         <id>https://github.com/rbbydotdev/someday</id>
         <link href="https://github.com/rbbydotdev/someday"/>
         <updated>2024-11-04T02:53:19.162Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17568"><a class="upvote" href="javascript:vote(17568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/rbbydotdev/someday" rel="nofollow" id="tr13"><h1>GN⁺: Someday - Gmail/Google App Script를 이용한 Calendly 대체제 오픈소스 </h1></a> <span class="topicurl">(github.com/rbbydotdev)</span></div><div class="topicdesc"><a href="topic?id=17568" class="c99 breakall">- Gmail 사용자를 위해 설계된 간단한 오픈소스 일정 관리 도구  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17568"><a class="upvote" href="javascript:vote(17568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/rbbydotdev/someday" rel="nofollow" id="tr14"><h1>GN⁺: Someday - Gmail/Google App Script를 이용한 Calendly 대체제 오픈소스 </h1></a> <span class="topicurl">(github.com/rbbydotdev)</span></div><div class="topicdesc"><a href="topic?id=17568" class="c99 breakall">- Gmail 사용자를 위해 설계된 간단한 오픈소스 일정 관리 도구  
   - Gmail의 받은 편지함에서 직접 일정 관리가 가능하며, 다른 사람과의 약속...</a></div><div class="topicinfo"><span id="tp17568">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17568"></span> | <a href="topic?id=17568" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -117,7 +126,7 @@
         <id>https://tselai.com/full-text-search-pdf-postgres</id>
         <link href="https://tselai.com/full-text-search-pdf-postgres"/>
         <updated>2024-11-01T02:57:52.336Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17535"><a class="upvote" href="javascript:vote(17535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tselai.com/full-text-search-pdf-postgres" rel="nofollow" id="tr14"><h1>Postgres에서 PDF 전문 검색하기</h1></a> <span class="topicurl">(tselai.com)</span></div><div class="topicdesc"><a href="topic?id=17535" class="c99 breakall">- pgPDF는 PDF 파일을 SQL로 읽을 수 있는 Postgres 확장임(poppler의 래퍼)  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17535"><a class="upvote" href="javascript:vote(17535, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tselai.com/full-text-search-pdf-postgres" rel="nofollow" id="tr15"><h1>Postgres에서 PDF 전문 검색하기</h1></a> <span class="topicurl">(tselai.com)</span></div><div class="topicdesc"><a href="topic?id=17535" class="c99 breakall">- pgPDF는 PDF 파일을 SQL로 읽을 수 있는 Postgres 확장임(poppler의 래퍼)  
   `SELECT pdf_read_file('/path/file.pdf') → text`  
 - 데이터 ...</a></div><div class="topicinfo"><span id="tp17535">15</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17535"></span> | <a href="topic?id=17535" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -126,7 +135,7 @@
         <id>https://zed.dev/blog/remote-development</id>
         <link href="https://zed.dev/blog/remote-development"/>
         <updated>2024-11-01T02:57:52.326Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17529"><a class="upvote" href="javascript:vote(17529, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zed.dev/blog/remote-development" rel="nofollow" id="tr15"><h1>GN⁺: Zed 에디터, SSH Remote 기능 지원</h1></a> <span class="topicurl">(zed.dev)</span></div><div class="topicdesc"><a href="topic?id=17529" class="c99 breakall">- 대규모 코드베이스를 다루는 사람들에게 노트북에서 프로그래밍하는 것은 부담스러울 수 있음  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17529"><a class="upvote" href="javascript:vote(17529, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zed.dev/blog/remote-development" rel="nofollow" id="tr16"><h1>GN⁺: Zed 에디터, SSH Remote 기능 지원</h1></a> <span class="topicurl">(zed.dev)</span></div><div class="topicdesc"><a href="topic?id=17529" class="c99 breakall">- 대규모 코드베이스를 다루는 사람들에게 노트북에서 프로그래밍하는 것은 부담스러울 수 있음  
 - 팬이 계속 돌아가고, 언어 서버는 메모리가 ...</a></div><div class="topicinfo"><span id="tp17529">14</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17529"></span> | <a href="topic?id=17529" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -134,7 +143,7 @@
         <id>https://paulgraham.com/writes.html</id>
         <link href="https://paulgraham.com/writes.html"/>
         <updated>2024-10-28T01:13:21.693Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17452"><a class="upvote" href="javascript:vote(17452, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://paulgraham.com/writes.html" rel="nofollow" id="tr16"><h1>글을 쓰는 사람과 그렇지 않은 사람</h1></a> <span class="topicurl">(paulgraham.com)</span></div><div class="topicdesc"><a href="topic?id=17452" class="c99 breakall">- 기술에 대한 예측을 하기를 꺼리지만, 이번만큼은 확신이 있음: "수십 년 후에는 글을 쓸 수 있는 사람이 많지 않을 것임"  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17452"><a class="upvote" href="javascript:vote(17452, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://paulgraham.com/writes.html" rel="nofollow" id="tr17"><h1>글을 쓰는 사람과 그렇지 않은 사람</h1></a> <span class="topicurl">(paulgraham.com)</span></div><div class="topicdesc"><a href="topic?id=17452" class="c99 breakall">- 기술에 대한 예측을 하기를 꺼리지만, 이번만큼은 확신이 있음: "수십 년 후에는 글을 쓸 수 있는 사람이 많지 않을 것임"  
   - 작가가 되면 ...</a></div><div class="topicinfo"><span id="tp17452">49</span> points by <a href="/user?id=xguru">xguru</a> 7일전<span id="unvote17452"></span> | <a href="topic?id=17452" class="u">댓글 19개</a></div>]]></content>
     </entry>
     <entry>
@@ -142,14 +151,14 @@
         <id>https://news.hada.io/topic?id=17534</id>
         <link href="https://news.hada.io/topic?id=17534"/>
         <updated>2024-11-01T02:57:52.337Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17534"><a class="upvote" href="javascript:vote(17534, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17534" rel="nofollow" id="tr17"><h1>Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기</h1></a> <span class="topicurl">(github.com/Azure)</span></div><div class="topicdesc"><a href="topic?id=17534" class="c99 breakall">👀 프로젝트를 다국어로 번역하고 관리하는 일이 얼마나 번거로운지 한 번쯤은 겪어 보셨을 텐데요. 특히 번역해야 할 마크다운 문서가 많거나, 프...</a></div><div class="topicinfo"><span id="tp17534">10</span> points by <a href="/user?id=skytin1004">skytin1004</a> 3일전<span id="unvote17534"></span> | <a href="topic?id=17534" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17534"><a class="upvote" href="javascript:vote(17534, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17534" rel="nofollow" id="tr18"><h1>Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기</h1></a> <span class="topicurl">(github.com/Azure)</span></div><div class="topicdesc"><a href="topic?id=17534" class="c99 breakall">👀 프로젝트를 다국어로 번역하고 관리하는 일이 얼마나 번거로운지 한 번쯤은 겪어 보셨을 텐데요. 특히 번역해야 할 마크다운 문서가 많거나, 프...</a></div><div class="topicinfo"><span id="tp17534">10</span> points by <a href="/user?id=skytin1004">skytin1004</a> 3일전<span id="unvote17534"></span> | <a href="topic?id=17534" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 구글! 제발 그만해주세요: 당신들이 독립 웹사이트를 파괴하고 있어요]]></title>
         <id>https://build.shepherd.com/p/hi-google-please-stop-the-bed-a-desperate</id>
         <link href="https://build.shepherd.com/p/hi-google-please-stop-the-bed-a-desperate"/>
         <updated>2024-11-01T02:57:52.336Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17530"><a class="upvote" href="javascript:vote(17530, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://build.shepherd.com/p/hi-google-please-stop-the-bed-a-desperate" rel="nofollow" id="tr18"><h1>GN⁺: 구글! 제발 그만해주세요: 당신들이 독립 웹사이트를 파괴하고 있어요</h1></a> <span class="topicurl">(build.shepherd.com)</span></div><div class="topicdesc"><a href="topic?id=17530" class="c99 breakall">- Google은 독립 웹사이트를 검색 결과에서 숨김으로써 죽이고 있음  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17530"><a class="upvote" href="javascript:vote(17530, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://build.shepherd.com/p/hi-google-please-stop-the-bed-a-desperate" rel="nofollow" id="tr19"><h1>GN⁺: 구글! 제발 그만해주세요: 당신들이 독립 웹사이트를 파괴하고 있어요</h1></a> <span class="topicurl">(build.shepherd.com)</span></div><div class="topicdesc"><a href="topic?id=17530" class="c99 breakall">- Google은 독립 웹사이트를 검색 결과에서 숨김으로써 죽이고 있음  
 - 이는 구글의 AI 랭킹 시스템이 통제 불능 상태에 빠졌거나, 광고 수익을 ...</a></div><div class="topicinfo"><span id="tp17530">10</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17530"></span> | <a href="topic?id=17530" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -157,16 +166,7 @@
         <id>https://openai.com/index/introducing-simpleqa/</id>
         <link href="https://openai.com/index/introducing-simpleqa/"/>
         <updated>2024-11-02T02:44:43.261Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17552"><a class="upvote" href="javascript:vote(17552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-simpleqa/" rel="nofollow" id="tr19"><h1>OpenAI, 팩트 체크 벤치마크 SimpleQA 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17552" class="c99 breakall">- SimpleQA는 언어 모델의 사실성을 측정하기 위한 새로운 벤치마크  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17552"><a class="upvote" href="javascript:vote(17552, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-simpleqa/" rel="nofollow" id="tr20"><h1>OpenAI, 팩트 체크 벤치마크 SimpleQA 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=17552" class="c99 breakall">- SimpleQA는 언어 모델의 사실성을 측정하기 위한 새로운 벤치마크  
 - 인공지능에서 사실에 기반한 응답을 생성하는 모델을 학습시키는 것은 아...</a></div><div class="topicinfo"><span id="tp17552">5</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote17552"></span> | <a href="topic?id=17552" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Cursor를 사용한 코드 작성 방법]]></title>
-        <id>https://www.arguingwithalgorithms.com/posts/cursor-review.html</id>
-        <link href="https://www.arguingwithalgorithms.com/posts/cursor-review.html"/>
-        <updated>2024-10-30T02:50:14.424Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17488"><a class="upvote" href="javascript:vote(17488, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.arguingwithalgorithms.com/posts/cursor-review.html" rel="nofollow" id="tr20"><h1>GN⁺: Cursor를 사용한 코드 작성 방법</h1></a> <span class="topicurl">(arguingwithalgorithms.com)</span></div><div class="topicdesc"><a href="topic?id=17488" class="c99 breakall"># Cursor란 무엇인가  
-- Cursor는 Visual Studio Code(VS Code)의 포크로, 코어 UI에 Large Language Model (LLM) 기반 기능이 통합되어 있음  
-...</a></div><div class="topicinfo"><span id="tp17488">20</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote17488"></span> | <a href="topic?id=17488" class="u">댓글 5개</a></div>]]></content>
     </entry>
 </feed>
