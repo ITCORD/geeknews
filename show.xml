@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-11-13T15:17:55.164Z</updated>
+    <updated>2024-11-13T16:20:17.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Node.js 환경에서 Clang을 이용한 C, C++, Java 포매터를 개발하였습니다.]]></title>
+        <id>https://news.hada.io/topic?id=17738</id>
+        <link href="https://news.hada.io/topic?id=17738"/>
+        <updated>2024-11-13T16:19:55.479Z</updated>
+        <content type="html"><![CDATA[beenzinozino]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 유튜브 바이럴 아이디어 찾기 DataTube.tv]]></title>
         <id>https://news.hada.io/topic?id=17699</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17154"/>
         <updated>2024-10-09T02:47:26.489Z</updated>
         <content type="html"><![CDATA[superlucky84]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Zero Setup AI Coding with OpenHands]]></title>
-        <id>https://news.hada.io/topic?id=17587</id>
-        <link href="https://news.hada.io/topic?id=17587"/>
-        <updated>2024-11-04T13:24:39.773Z</updated>
-        <content type="html"><![CDATA[nkkko]]></content>
     </entry>
 </feed>
