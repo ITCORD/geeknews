@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-11-19T12:32:42.107Z</updated>
+    <updated>2024-11-19T13:26:12.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=17848"/>
         <updated>2024-11-19T08:21:02.067Z</updated>
         <content type="html"><![CDATA[luckydaun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: ESLint Plugin Perfectionist v4.0.0 출시]]></title>
+        <id>https://news.hada.io/topic?id=17852</id>
+        <link href="https://news.hada.io/topic?id=17852"/>
+        <updated>2024-11-19T13:25:51.888Z</updated>
+        <content type="html"><![CDATA[azatio]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 휴튼 - 나를 가장 잘 이해하는 AI]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17480"/>
         <updated>2024-10-29T03:23:16.976Z</updated>
         <content type="html"><![CDATA[samchon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ThorVG - WebGPU를 지원하는 차세대 벡터 그래픽 엔진]]></title>
-        <id>https://news.hada.io/topic?id=17193</id>
-        <link href="https://news.hada.io/topic?id=17193"/>
-        <updated>2024-10-11T10:15:53.881Z</updated>
-        <content type="html"><![CDATA[hermet]]></content>
     </entry>
 </feed>
