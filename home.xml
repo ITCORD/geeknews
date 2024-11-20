@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-11-20T10:18:03.174Z</updated>
+    <updated>2024-11-20T11:13:51.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,24 +12,24 @@
         <updated>2024-11-20T01:12:37.308Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17857"><a class="upvote" href="javascript:vote(17857, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lwn.net/Articles/997958/" rel="nofollow" id="tr1"><h1>리눅스 커널 6.12 릴리즈</h1></a> <span class="topicurl">(lwn.net)</span></div><div class="topicdesc"><a href="topic?id=17857" class="c99 breakall">- 올해의 LTS 커널 버전이 될 예정   
 - 실시간 기능인 "PREEMPT_RT"가 마침내 메인 커널에 통합. 20년간의 개발 끝에 마무리된 중요한 기능  
--...</a></div><div class="topicinfo"><span id="tp17857">9</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote17857"></span> | <a href="topic?id=17857" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pgrx - Rust로 PostgreSQL 확장을 개발하는 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=17864</id>
-        <link href="https://news.hada.io/topic?id=17864"/>
-        <updated>2024-11-20T01:12:37.307Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17864"><a class="upvote" href="javascript:vote(17864, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pgcentralfoundation/pgrx" rel="nofollow" id="tr2"><h1>pgrx - Rust로 PostgreSQL 확장을 개발하는 프레임워크</h1></a> <span class="topicurl">(github.com/pgcentralfoundation)</span></div><div class="topicdesc"><a href="topic?id=17864" class="c99 breakall">- Rust로 PostgreSQL 확장을 개발 가능, 최대한 Idiomatic &amp; Safe 하기 위해 노력  
-- `cargo-pgrx` 로 완전 관리되는 개발 환경 지원   
-  - `c...</a></div><div class="topicinfo"><span id="tp17864">6</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote17864"></span> | <a href="topic?id=17864" class="u">댓글 2개</a></div>]]></content>
+-...</a></div><div class="topicinfo"><span id="tp17857">9</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote17857"></span> | <a href="topic?id=17857" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 스타트업을 위한 셀프 호스팅 Wiki 설정 방법]]></title>
         <id>https://news.hada.io/topic?id=17832</id>
         <link href="https://news.hada.io/topic?id=17832"/>
         <updated>2024-11-19T02:55:02.516Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17832"><a class="upvote" href="javascript:vote(17832, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html" rel="nofollow" id="tr3"><h1>GN⁺: 스타트업을 위한 셀프 호스팅 Wiki 설정 방법</h1></a> <span class="topicurl">(themythicalengineer.com)</span></div><div class="topicdesc"><a href="topic?id=17832" class="c99 breakall">- Confluence, Notion과 같은 상용 위키 도구는 기능이 풍부하지만, 사용자 수가 증가할수록 비용이 급증함  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17832"><a class="upvote" href="javascript:vote(17832, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html" rel="nofollow" id="tr2"><h1>GN⁺: 스타트업을 위한 셀프 호스팅 Wiki 설정 방법</h1></a> <span class="topicurl">(themythicalengineer.com)</span></div><div class="topicdesc"><a href="topic?id=17832" class="c99 breakall">- Confluence, Notion과 같은 상용 위키 도구는 기능이 풍부하지만, 사용자 수가 증가할수록 비용이 급증함  
 - 대부분의 상용 위키는 사용자당 ...</a></div><div class="topicinfo"><span id="tp17832">33</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote17832"></span> | <a href="topic?id=17832" class="u">댓글 12개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pgrx - Rust로 PostgreSQL 확장을 개발하는 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=17864</id>
+        <link href="https://news.hada.io/topic?id=17864"/>
+        <updated>2024-11-20T01:12:37.307Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17864"><a class="upvote" href="javascript:vote(17864, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pgcentralfoundation/pgrx" rel="nofollow" id="tr3"><h1>pgrx - Rust로 PostgreSQL 확장을 개발하는 프레임워크</h1></a> <span class="topicurl">(github.com/pgcentralfoundation)</span></div><div class="topicdesc"><a href="topic?id=17864" class="c99 breakall">- Rust로 PostgreSQL 확장을 개발 가능, 최대한 Idiomatic &amp; Safe 하기 위해 노력  
+- `cargo-pgrx` 로 완전 관리되는 개발 환경 지원   
+  - `c...</a></div><div class="topicinfo"><span id="tp17864">6</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote17864"></span> | <a href="topic?id=17864" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리사주 투자 실패담과 그 이후]]></title>
@@ -47,23 +47,23 @@
         <link href="https://news.hada.io/topic?id=17855"/>
         <updated>2024-11-19T23:15:02.237Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17855"><a class="upvote" href="javascript:vote(17855, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.stdy.blog/habit-to-avoid-when-reading-n-habbits-of-high-performers/" rel="nofollow" id="tr5"><h1>'일잘러들의 n가지 습관'의 함정을 피하는 습관</h1></a> <span class="topicurl">(stdy.blog)</span></div><div class="topicdesc"><a href="topic?id=17855" class="c99 breakall">'상관성을 인과성으로 착각하지 말라'는 조언은 '일잘러들의 n가지 습관'같은 글을 읽을 때에도 유효하다.  
-- "내가 본 일잘러들은 이런 습관이 ...</a></div><div class="topicinfo"><span id="tp17855">5</span> points by <a href="/user?id=spilist2">spilist2</a> 11시간전<span id="unvote17855"></span> | <a href="topic?id=17855" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: MailCatcher로 초간단 SMTP 서버 운영하기]]></title>
-        <id>https://news.hada.io/topic?id=17862</id>
-        <link href="https://news.hada.io/topic?id=17862"/>
-        <updated>2024-11-20T02:54:17.705Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17862"><a class="upvote" href="javascript:vote(17862, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mailcatcher.me/" rel="nofollow" id="tr6"><h1>GN⁺: MailCatcher로 초간단 SMTP 서버 운영하기</h1></a> <span class="topicurl">(mailcatcher.me)</span></div><div class="topicdesc"><a href="topic?id=17862" class="c99 breakall">- MailCatcher는 간단한 SMTP 서버를 실행하여 수신된 메일을 웹 인터페이스로 보여주는 도구임.  
-- 메일을 smtp://127.0.0.1:1025로 전송하도록...</a></div><div class="topicinfo"><span id="tp17862">4</span> points by <a href="/user?id=neo">neo</a> 9시간전<span id="unvote17862"></span> | <a href="topic?id=17862" class="u">댓글 1개</a></div>]]></content>
+- "내가 본 일잘러들은 이런 습관이 ...</a></div><div class="topicinfo"><span id="tp17855">5</span> points by <a href="/user?id=spilist2">spilist2</a> 12시간전<span id="unvote17855"></span> | <a href="topic?id=17855" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫 번째 Exit에서 얻은 교훈]]></title>
         <id>https://news.hada.io/topic?id=17827</id>
         <link href="https://news.hada.io/topic?id=17827"/>
         <updated>2024-11-18T02:58:15.937Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17827"><a class="upvote" href="javascript:vote(17827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mtlynch.io/lessons-from-my-first-exit/" rel="nofollow" id="tr7"><h1>첫 번째 Exit에서 얻은 교훈</h1></a> <span class="topicurl">(mtlynch.io)</span></div><div class="topicdesc"><a href="topic?id=17827" class="c99 breakall">- TinyPilot이라는 하드웨어 스타트업을 매각한 후, 이 과정에서 얻은 실용적인 교훈을 공유  
-- 매각이 어떻게 이루어졌고, 무엇이 잘 되었으며,...</a></div><div class="topicinfo"><span id="tp17827">40</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17827"></span> | <a href="topic?id=17827" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17827"><a class="upvote" href="javascript:vote(17827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mtlynch.io/lessons-from-my-first-exit/" rel="nofollow" id="tr6"><h1>첫 번째 Exit에서 얻은 교훈</h1></a> <span class="topicurl">(mtlynch.io)</span></div><div class="topicdesc"><a href="topic?id=17827" class="c99 breakall">- TinyPilot이라는 하드웨어 스타트업을 매각한 후, 이 과정에서 얻은 실용적인 교훈을 공유  
+- 매각이 어떻게 이루어졌고, 무엇이 잘 되었으며,...</a></div><div class="topicinfo"><span id="tp17827">41</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17827"></span> | <a href="topic?id=17827" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: MailCatcher로 초간단 SMTP 서버 운영하기]]></title>
+        <id>https://news.hada.io/topic?id=17862</id>
+        <link href="https://news.hada.io/topic?id=17862"/>
+        <updated>2024-11-20T02:54:17.705Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17862"><a class="upvote" href="javascript:vote(17862, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mailcatcher.me/" rel="nofollow" id="tr7"><h1>GN⁺: MailCatcher로 초간단 SMTP 서버 운영하기</h1></a> <span class="topicurl">(mailcatcher.me)</span></div><div class="topicdesc"><a href="topic?id=17862" class="c99 breakall">- MailCatcher는 간단한 SMTP 서버를 실행하여 수신된 메일을 웹 인터페이스로 보여주는 도구임.  
+- 메일을 smtp://127.0.0.1:1025로 전송하도록...</a></div><div class="topicinfo"><span id="tp17862">4</span> points by <a href="/user?id=neo">neo</a> 10시간전<span id="unvote17862"></span> | <a href="topic?id=17862" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bpftune - BPF를 사용한 리눅스 자동 튜닝 도구]]></title>
@@ -99,11 +99,18 @@
 - 그러나 SPA 이전에도 MPA 기반...</a></div><div class="topicinfo"><span id="tp17838">11</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17838"></span> | <a href="topic?id=17838" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["확장되지 않는 일"을 통해 이기는 방법]]></title>
+        <id>https://news.hada.io/topic?id=17828</id>
+        <link href="https://news.hada.io/topic?id=17828"/>
+        <updated>2024-11-18T02:58:15.942Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17828"><a class="upvote" href="javascript:vote(17828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.operatorshandbook.com/p/how-to-win-by-doing-things-that-dont" rel="nofollow" id="tr12"><h1>"확장되지 않는 일"을 통해 이기는 방법</h1></a> <span class="topicurl">(operatorshandbook.com)</span></div><div class="topicdesc"><a href="topic?id=17828" class="c99 breakall">- Paul Graham이 2013년에 쓴 "Do things that don't scale"에서 소프트웨어 회사가 가치있는 이유는 확장성 때문이지만, 역설적이게도 회사를 성...</a></div><div class="topicinfo"><span id="tp17828">22</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17828"></span> | <a href="topic?id=17828" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: diary.sh - 나와 AI의 교환일기]]></title>
         <id>https://news.hada.io/topic?id=17848</id>
         <link href="https://news.hada.io/topic?id=17848"/>
         <updated>2024-11-19T08:20:42.974Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17848"><a class="upvote" href="javascript:vote(17848, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17848" rel="nofollow" id="tr12"><h1>Show GN: diary.sh - 나와 AI의 교환일기</h1></a> <span class="topicurl">(diary.sh)</span></div><div class="topicdesc"><a href="topic?id=17848" class="c99 breakall">기능  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17848"><a class="upvote" href="javascript:vote(17848, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=17848" rel="nofollow" id="tr13"><h1>Show GN: diary.sh - 나와 AI의 교환일기</h1></a> <span class="topicurl">(diary.sh)</span></div><div class="topicdesc"><a href="topic?id=17848" class="c99 breakall">기능  
   
 - 애플 저널 앱에서 영감을 얻은 간단한 UI의 일기장 웹사이트  
 - 내가 일기를 쓰면 AI도 답장을 써줌  
@@ -117,15 +124,8 @@
         <id>https://news.hada.io/topic?id=17863</id>
         <link href="https://news.hada.io/topic?id=17863"/>
         <updated>2024-11-20T02:54:17.703Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17863"><a class="upvote" href="javascript:vote(17863, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tips.io" rel="nofollow" id="tr13"><h1>GN⁺: Show HN : Tips.io - AI, 페이지 관리 및 테마 기능을 갖춘 Tailwind 플레이그라운드</h1></a> <span class="topicurl">(tips.io)</span></div><div class="topicdesc"><a href="topic?id=17863" class="c99 breakall">- Tailwind playground의 유연성과 페이지 관리 기능을 결합 하여, 간단하고 무료로 웹사이트를 만들 수 있는 플랫폼  
-- 강력한 테마 및 재사용...</a></div><div class="topicinfo"><span id="tp17863">2</span> points by <a href="/user?id=neo">neo</a> 9시간전<span id="unvote17863"></span> | <a href="topic?id=17863" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["확장되지 않는 일"을 통해 이기는 방법]]></title>
-        <id>https://news.hada.io/topic?id=17828</id>
-        <link href="https://news.hada.io/topic?id=17828"/>
-        <updated>2024-11-18T02:58:15.942Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17828"><a class="upvote" href="javascript:vote(17828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.operatorshandbook.com/p/how-to-win-by-doing-things-that-dont" rel="nofollow" id="tr14"><h1>"확장되지 않는 일"을 통해 이기는 방법</h1></a> <span class="topicurl">(operatorshandbook.com)</span></div><div class="topicdesc"><a href="topic?id=17828" class="c99 breakall">- Paul Graham이 2013년에 쓴 "Do things that don't scale"에서 소프트웨어 회사가 가치있는 이유는 확장성 때문이지만, 역설적이게도 회사를 성...</a></div><div class="topicinfo"><span id="tp17828">21</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17828"></span> | <a href="topic?id=17828" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17863"><a class="upvote" href="javascript:vote(17863, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tips.io" rel="nofollow" id="tr14"><h1>GN⁺: Show HN : Tips.io - AI, 페이지 관리 및 테마 기능을 갖춘 Tailwind 플레이그라운드</h1></a> <span class="topicurl">(tips.io)</span></div><div class="topicdesc"><a href="topic?id=17863" class="c99 breakall">- Tailwind playground의 유연성과 페이지 관리 기능을 결합 하여, 간단하고 무료로 웹사이트를 만들 수 있는 플랫폼  
+- 강력한 테마 및 재사용...</a></div><div class="topicinfo"><span id="tp17863">2</span> points by <a href="/user?id=neo">neo</a> 10시간전<span id="unvote17863"></span> | <a href="topic?id=17863" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust 프로그래밍을 시작하고싶으신 분들을 위한 무료책]]></title>
@@ -153,22 +153,22 @@
         <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17826"><a class="upvote" href="javascript:vote(17826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://slack.com/intl/ko-kr/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling" rel="nofollow" id="tr17"><h1>GN⁺: AI Hype가 식어가고 있다</h1></a> <span class="topicurl">(slack.com)</span></div><div class="topicdesc"><a href="topic?id=17826" class="c99 breakall">- 기업 임원진의 99%가 향후 AI 투자 계획이 있음. 그러나 **생성형 AI 도입 이후 처음으로** 글로벌 노동자들 사이에서 AI 도입률이 둔화되고 AI...</a></div><div class="topicinfo"><span id="tp17826">13</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote17826"></span> | <a href="topic?id=17826" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Show HN: pglite-fusion - PostgreSQL 테이블에 SQLite 임베딩하기]]></title>
-        <id>https://news.hada.io/topic?id=17858</id>
-        <link href="https://news.hada.io/topic?id=17858"/>
-        <updated>2024-11-20T01:12:37.307Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17858"><a class="upvote" href="javascript:vote(17858, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frectonz/pglite-fusion" rel="nofollow" id="tr18"><h1>GN⁺: Show HN: pglite-fusion - PostgreSQL 테이블에 SQLite 임베딩하기</h1></a> <span class="topicurl">(github.com/frectonz)</span></div><div class="topicdesc"><a href="topic?id=17858" class="c99 breakall">- PostgreSQL 테이블에 SQLITE 컬럼 타입으로 SQLite DB자체를 임베딩 하게 해주는 확장   
-  - 이 방식으로 multitenancy를 해결   
-- `empty_s...</a></div><div class="topicinfo"><span id="tp17858">1</span> point by <a href="/user?id=neo">neo</a> 10시간전<span id="unvote17858"></span> | <a href="topic?id=17858" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[o1-preview 2025 수능 국어 97점 달성]]></title>
         <id>https://news.hada.io/topic?id=17850</id>
         <link href="https://news.hada.io/topic?id=17850"/>
         <updated>2024-11-19T10:17:37.529Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17850"><a class="upvote" href="javascript:vote(17850, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://velog.io/@minsing-jin/%EC%86%8D%EB%B3%B4-o1-preview-2025-%EC%88%98%EB%8A%A5-%EA%B5%AD%EC%96%B4-97%EC%A0%90-%EB%8B%AC%EC%84%B1" rel="nofollow" id="tr19"><h1>o1-preview 2025 수능 국어 97점 달성 </h1></a> <span class="topicurl">(velog.io)</span></div><div class="topicdesc"><a href="topic?id=17850" class="c99 breakall">- 2025학년도 수능 국어에서 O1-Preview가 97점이라는 놀라운 성적을 기록  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17850"><a class="upvote" href="javascript:vote(17850, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://velog.io/@minsing-jin/%EC%86%8D%EB%B3%B4-o1-preview-2025-%EC%88%98%EB%8A%A5-%EA%B5%AD%EC%96%B4-97%EC%A0%90-%EB%8B%AC%EC%84%B1" rel="nofollow" id="tr18"><h1>o1-preview 2025 수능 국어 97점 달성 </h1></a> <span class="topicurl">(velog.io)</span></div><div class="topicdesc"><a href="topic?id=17850" class="c99 breakall">- 2025학년도 수능 국어에서 O1-Preview가 97점이라는 놀라운 성적을 기록  
   - 8번(3점) 비문학지문 오답기록  
     - 논리의 오류로 인해 오...</a></div><div class="topicinfo"><span id="tp17850">3</span> points by <a href="/user?id=ironman0722">ironman0722</a> 1일전<span id="unvote17850"></span> | <a href="topic?id=17850" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Show HN: pglite-fusion - PostgreSQL 테이블에 SQLite 임베딩하기]]></title>
+        <id>https://news.hada.io/topic?id=17858</id>
+        <link href="https://news.hada.io/topic?id=17858"/>
+        <updated>2024-11-20T01:12:37.307Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17858"><a class="upvote" href="javascript:vote(17858, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/frectonz/pglite-fusion" rel="nofollow" id="tr19"><h1>GN⁺: Show HN: pglite-fusion - PostgreSQL 테이블에 SQLite 임베딩하기</h1></a> <span class="topicurl">(github.com/frectonz)</span></div><div class="topicdesc"><a href="topic?id=17858" class="c99 breakall">- PostgreSQL 테이블에 SQLITE 컬럼 타입으로 SQLite DB자체를 임베딩 하게 해주는 확장   
+  - 이 방식으로 multitenancy를 해결   
+- `empty_s...</a></div><div class="topicinfo"><span id="tp17858">1</span> point by <a href="/user?id=neo">neo</a> 11시간전<span id="unvote17858"></span> | <a href="topic?id=17858" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Nova - Rust로 작성된 JavaScript & WebAssembly 엔진]]></title>
