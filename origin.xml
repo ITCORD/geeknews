@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-11-22T01:14:07.749Z</updated>
+    <updated>2024-11-22T02:56:12.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,29 +10,60 @@
         <id>https://electrobun.dev/</id>
         <link href="https://electrobun.dev/"/>
         <updated>2024-11-22T01:13:31.419Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17890"><a class="upvote" href="javascript:vote(17890, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://electrobun.dev/" rel="nofollow" id="tr1"><h1>GN⁺: Electrobun - TypeScript로 작성된 크로스 플랫폼 데스크톱 애플리케이션</h1></a> <span class="topicurl">(electrobun.dev)</span></div><div class="topicdesc"><a href="topic?id=17890" class="c99 breakall">- Electrobun은 Typescript로 작성된 초고속, 경량, 크로스 플랫폼 데스크톱 애플리케이션을 구축, 업데이트 및 배포하기 위한 완전한 솔루션을 제...</a></div><div class="topicinfo"><span id="tp17890">2</span> points by <a href="/user?id=neo">neo</a> 22분전<span id="unvote17890"></span> | <a href="topic?id=17890" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote17890"><a class="upvote" href="javascript:vote(17890, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://electrobun.dev/" rel="nofollow" id="tr1"><h1>GN⁺: Electrobun - TypeScript로 작성된 크로스 플랫폼 데스크톱 애플리케이션</h1></a> <span class="topicurl">(electrobun.dev)</span></div><div class="topicdesc"><a href="topic?id=17890" class="c99 breakall">- Electrobun은 Typescript로 작성된 초고속, 경량, 크로스 플랫폼 데스크톱 애플리케이션을 구축, 업데이트 및 배포하기 위한 완전한 솔루션을 제...</a></div><div class="topicinfo"><span id="tp17890">6</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote17890"></span> | <a href="topic?id=17890" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신이 놓쳤을 OpenAI의 기능: Predicted Outputs]]></title>
+        <id>https://hackernoon.com/predicted-outputs-the-openai-feature-you-probably-missed</id>
+        <link href="https://hackernoon.com/predicted-outputs-the-openai-feature-you-probably-missed"/>
+        <updated>2024-11-22T02:55:36.322Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17891"><a class="upvote" href="javascript:vote(17891, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hackernoon.com/predicted-outputs-the-openai-feature-you-probably-missed" rel="nofollow" id="tr2"><h1>당신이 놓쳤을 OpenAI의 기능: Predicted Outputs</h1></a> <span class="topicurl">(hackernoon.com)</span></div><div class="topicdesc"><a href="topic?id=17891" class="c99 breakall">- OpenAI는 최근 *Predicted Outputs*라는 강력한 기능을 공개했음  
+- 기술 미디어에서 크게 주목 받지 못했지만, 이는 주목할 만한 가치가 있음...</a></div><div class="topicinfo"><span id="tp17891">2</span> points by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote17891"></span> | <a href="topic?id=17891" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: PHP 8.4 릴리즈]]></title>
+        <id>https://www.php.net/releases/8.4/en.php</id>
+        <link href="https://www.php.net/releases/8.4/en.php"/>
+        <updated>2024-11-22T02:55:36.323Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17888"><a class="upvote" href="javascript:vote(17888, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.php.net/releases/8.4/en.php" rel="nofollow" id="tr3"><h1>GN⁺: PHP 8.4 릴리즈</h1></a> <span class="topicurl">(php.net)</span></div><div class="topicdesc"><a href="topic?id=17888" class="c99 breakall">- 속성 훅, 비대칭 가시성, 업데이트된 DOM API, 성능 향상, 버그 수정 및 일반적인 정리가 포함  
+  - IDE와 정적 분석 도구가 네이티브로 이해...</a></div><div class="topicinfo"><span id="tp17888">2</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote17888"></span> | <a href="topic?id=17888" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Documind - PDF 문서를 구조화된 데이터로 전환하는 오픈소스 AI 도구]]></title>
         <id>https://github.com/DocumindHQ/documind</id>
         <link href="https://github.com/DocumindHQ/documind"/>
         <updated>2024-11-21T02:54:20.747Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote17878"><a class="upvote" href="javascript:vote(17878, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/DocumindHQ/documind" rel="nofollow" id="tr2"><h1>Documind - PDF 문서를 구조화된 데이터로 전환하는 오픈소스 AI 도구</h1></a> <span class="topicurl">(github.com/DocumindHQ)</span></div><div class="topicdesc"><a href="topic?id=17878" class="c99 breakall">- PDF 변환, 정보 추출, 결과를 사용자가 지정한 스키마에 따라 포맷팅하는 기능을 제공  
-  - *PDF를 이미지로 변환* 하여 세부적인 AI 처리를 ...</a></div><div class="topicinfo"><span id="tp17878">14</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote17878"></span> | <a href="topic?id=17878" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17878"><a class="upvote" href="javascript:vote(17878, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/DocumindHQ/documind" rel="nofollow" id="tr4"><h1>Documind - PDF 문서를 구조화된 데이터로 전환하는 오픈소스 AI 도구</h1></a> <span class="topicurl">(github.com/DocumindHQ)</span></div><div class="topicdesc"><a href="topic?id=17878" class="c99 breakall">- PDF 변환, 정보 추출, 결과를 사용자가 지정한 스키마에 따라 포맷팅하는 기능을 제공  
+  - *PDF를 이미지로 변환* 하여 세부적인 AI 처리를 ...</a></div><div class="topicinfo"><span id="tp17878">14</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote17878"></span> | <a href="topic?id=17878" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, Forbes/CNN/WSJ등의 기생 SEO 같은 악용에 대해 강경 대응을 시작]]></title>
+        <id>https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/</id>
+        <link href="https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/"/>
+        <updated>2024-11-22T02:55:36.324Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17893"><a class="upvote" href="javascript:vote(17893, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/" rel="nofollow" id="tr5"><h1>구글, Forbes/CNN/WSJ등의 기생 SEO 같은 악용에 대해 강경 대응을 시작 </h1></a> <span class="topicurl">(arstechnica.com)</span></div><div class="topicdesc"><a href="topic?id=17893" class="c99 breakall">- Google은 "사이트 평판 남용 정책(site reputation abuse policy)"을 업데이트하며, 검색 엔진 최적화(SEO)를 악용하는 방식에 대해 강경 대응을...</a></div><div class="topicinfo"><span id="tp17893">1</span> point by <a href="/user?id=xguru">xguru</a> 35분전<span id="unvote17893"></span> | <a href="topic?id=17893" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생성형 AI는 고객 경험을 개선할 잠재력이 있음]]></title>
+        <id>https://www.bain.com/insights/generative-ai-potential-to-improve-customer-experience/</id>
+        <link href="https://www.bain.com/insights/generative-ai-potential-to-improve-customer-experience/"/>
+        <updated>2024-11-22T02:55:36.325Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17892"><a class="upvote" href="javascript:vote(17892, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bain.com/insights/generative-ai-potential-to-improve-customer-experience/" rel="nofollow" id="tr6"><h1>생성형 AI는 고객 경험을 개선할 잠재력이 있음 </h1></a> <span class="topicurl">(bain.com)</span></div><div class="topicdesc"><a href="topic?id=17892" class="c99 breakall">- 최근 조사에서 약 절반의 응답자가 생성형 AI 도구의 잠재력을 높이 평가함  
+- 고객들은 독립적인 생성형 AI 기능보다 리뷰 요약과 같은 통합...</a></div><div class="topicinfo"><span id="tp17892">1</span> point by <a href="/user?id=xguru">xguru</a> 1시간전<span id="unvote17892"></span> | <a href="topic?id=17892" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vercel, 코드 검색 서비스 Grep 인수]]></title>
         <id>https://vercel.com/blog/vercel-acquires-grep</id>
         <link href="https://vercel.com/blog/vercel-acquires-grep"/>
         <updated>2024-11-21T16:19:59.385Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote17884"><a class="upvote" href="javascript:vote(17884, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vercel.com/blog/vercel-acquires-grep" rel="nofollow" id="tr3"><h1>Vercel, 코드 검색 서비스 Grep 인수</h1></a> <span class="topicurl">(vercel.com)</span></div><div class="topicdesc"><a href="topic?id=17884" class="c99 breakall">Vercel이 코드 검색 서비스인 Grep을 인수했습니다. Grep은 50만 개 이상의 공개 Git 레포지토리를 대상으로 빠른 코드 검색을 제공하는 서비스로 ...</a></div><div class="topicinfo"><span id="tp17884">3</span> points by <a href="/user?id=ssssut">ssssut</a> 10시간전<span id="unvote17884"></span> | <a href="topic?id=17884" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17884"><a class="upvote" href="javascript:vote(17884, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vercel.com/blog/vercel-acquires-grep" rel="nofollow" id="tr7"><h1>Vercel, 코드 검색 서비스 Grep 인수</h1></a> <span class="topicurl">(vercel.com)</span></div><div class="topicdesc"><a href="topic?id=17884" class="c99 breakall">Vercel이 코드 검색 서비스인 Grep을 인수했습니다. Grep은 50만 개 이상의 공개 Git 레포지토리를 대상으로 빠른 코드 검색을 제공하는 서비스로 ...</a></div><div class="topicinfo"><span id="tp17884">3</span> points by <a href="/user?id=ssssut">ssssut</a> 11시간전<span id="unvote17884"></span> | <a href="topic?id=17884" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 스타트업을 위한 셀프 호스팅 Wiki 설정 방법]]></title>
         <id>https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html</id>
         <link href="https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html"/>
         <updated>2024-11-19T02:55:09.160Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote17832"><a class="upvote" href="javascript:vote(17832, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html" rel="nofollow" id="tr4"><h1>GN⁺: 스타트업을 위한 셀프 호스팅 Wiki 설정 방법</h1></a> <span class="topicurl">(themythicalengineer.com)</span></div><div class="topicdesc"><a href="topic?id=17832" class="c99 breakall">- Confluence, Notion과 같은 상용 위키 도구는 기능이 풍부하지만, 사용자 수가 증가할수록 비용이 급증함  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17832"><a class="upvote" href="javascript:vote(17832, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html" rel="nofollow" id="tr8"><h1>GN⁺: 스타트업을 위한 셀프 호스팅 Wiki 설정 방법</h1></a> <span class="topicurl">(themythicalengineer.com)</span></div><div class="topicdesc"><a href="topic?id=17832" class="c99 breakall">- Confluence, Notion과 같은 상용 위키 도구는 기능이 풍부하지만, 사용자 수가 증가할수록 비용이 급증함  
 - 대부분의 상용 위키는 사용자당 ...</a></div><div class="topicinfo"><span id="tp17832">40</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17832"></span> | <a href="topic?id=17832" class="u">댓글 13개</a></div>]]></content>
     </entry>
     <entry>
@@ -40,7 +71,7 @@
         <id>https://underjord.io/how-i-use-erlang-hot-code-updates.html</id>
         <link href="https://underjord.io/how-i-use-erlang-hot-code-updates.html"/>
         <updated>2024-11-21T02:54:20.747Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote17876"><a class="upvote" href="javascript:vote(17876, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://underjord.io/how-i-use-erlang-hot-code-updates.html" rel="nofollow" id="tr5"><h1>GN⁺: Erlang 핫 코드 업데이트의 활용 방법</h1></a> <span class="topicurl">(underjord.io)</span></div><div class="topicdesc"><a href="topic?id=17876" class="c99 breakall">- Erlang 생태계의 강력한 기능 중 하나는 핫 코드 업데이트임  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17876"><a class="upvote" href="javascript:vote(17876, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://underjord.io/how-i-use-erlang-hot-code-updates.html" rel="nofollow" id="tr9"><h1>GN⁺: Erlang 핫 코드 업데이트의 활용 방법</h1></a> <span class="topicurl">(underjord.io)</span></div><div class="topicdesc"><a href="topic?id=17876" class="c99 breakall">- Erlang 생태계의 강력한 기능 중 하나는 핫 코드 업데이트임  
 - 이 기능은 거의 다른 런타임에서는 불가능하며 매우 독특함  
 - Elixir는 Erl...</a></div><div class="topicinfo"><span id="tp17876">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17876"></span> | <a href="topic?id=17876" class="u">댓글 3개</a></div>]]></content>
     </entry>
@@ -49,15 +80,15 @@
         <id>https://zarar.dev/good-software-development-habits/</id>
         <link href="https://zarar.dev/good-software-development-habits/"/>
         <updated>2024-11-19T01:13:20.167Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17820"><a class="upvote" href="javascript:vote(17820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zarar.dev/good-software-development-habits/" rel="nofollow" id="tr6"><h1>GN⁺: 좋은 소프트웨어 개발 습관</h1></a> <span class="topicurl">(zarar.dev)</span></div><div class="topicdesc"><a href="topic?id=17820" class="c99 breakall">- 이 글은 조언이 아닌, 저자가 현재 적용하고 있는 개발 습관들에 대해 작성한 내용  
-- 나쁜 습관을 피하고 좋은 습관을 만들기 위해 노력한 경...</a></div><div class="topicinfo"><span id="tp17820">51</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17820"></span> | <a href="topic?id=17820" class="u">댓글 8개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17820"><a class="upvote" href="javascript:vote(17820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zarar.dev/good-software-development-habits/" rel="nofollow" id="tr10"><h1>GN⁺: 좋은 소프트웨어 개발 습관</h1></a> <span class="topicurl">(zarar.dev)</span></div><div class="topicdesc"><a href="topic?id=17820" class="c99 breakall">- 이 글은 조언이 아닌, 저자가 현재 적용하고 있는 개발 습관들에 대해 작성한 내용  
+- 나쁜 습관을 피하고 좋은 습관을 만들기 위해 노력한 경...</a></div><div class="topicinfo"><span id="tp17820">53</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote17820"></span> | <a href="topic?id=17820" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫 번째 Exit에서 얻은 교훈]]></title>
         <id>https://mtlynch.io/lessons-from-my-first-exit/</id>
         <link href="https://mtlynch.io/lessons-from-my-first-exit/"/>
         <updated>2024-11-18T02:58:20.252Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17827"><a class="upvote" href="javascript:vote(17827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mtlynch.io/lessons-from-my-first-exit/" rel="nofollow" id="tr7"><h1>첫 번째 Exit에서 얻은 교훈</h1></a> <span class="topicurl">(mtlynch.io)</span></div><div class="topicdesc"><a href="topic?id=17827" class="c99 breakall">- TinyPilot이라는 하드웨어 스타트업을 매각한 후, 이 과정에서 얻은 실용적인 교훈을 공유  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17827"><a class="upvote" href="javascript:vote(17827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mtlynch.io/lessons-from-my-first-exit/" rel="nofollow" id="tr11"><h1>첫 번째 Exit에서 얻은 교훈</h1></a> <span class="topicurl">(mtlynch.io)</span></div><div class="topicdesc"><a href="topic?id=17827" class="c99 breakall">- TinyPilot이라는 하드웨어 스타트업을 매각한 후, 이 과정에서 얻은 실용적인 교훈을 공유  
 - 매각이 어떻게 이루어졌고, 무엇이 잘 되었으며,...</a></div><div class="topicinfo"><span id="tp17827">44</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17827"></span> | <a href="topic?id=17827" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -65,45 +96,61 @@
         <id>https://www.cbinsights.com/research/report/top-tech-trends-2025/</id>
         <link href="https://www.cbinsights.com/research/report/top-tech-trends-2025/"/>
         <updated>2024-11-21T01:13:20.448Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote17874"><a class="upvote" href="javascript:vote(17874, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cbinsights.com/research/report/top-tech-trends-2025/" rel="nofollow" id="tr8"><h1>2024 테크 트렌드 by CBInsights [93p PDF]</h1></a> <span class="topicurl">(cbinsights.com)</span></div><div class="topicdesc"><a href="topic?id=17874" class="c99 breakall"># 금융 서비스  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17874"><a class="upvote" href="javascript:vote(17874, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cbinsights.com/research/report/top-tech-trends-2025/" rel="nofollow" id="tr12"><h1>2024 테크 트렌드 by CBInsights [93p PDF]</h1></a> <span class="topicurl">(cbinsights.com)</span></div><div class="topicdesc"><a href="topic?id=17874" class="c99 breakall"># 금융 서비스  
 - 사이보그 자산 관리자  
 - AI 에이전트가 사용할 돈을 부여받음  
 - 암호화폐, 대중화로 한 발 더 다가섬  
-- 압축된 핀테...</a></div><div class="topicinfo"><span id="tp17874">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote17874"></span> | <a href="topic?id=17874" class="u">댓글과 토론</a></div>]]></content>
+- 압축된 핀테...</a></div><div class="topicinfo"><span id="tp17874">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote17874"></span> | <a href="topic?id=17874" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 에픽 게임즈, Internet Archive를 통해 ‘Unreal’ 및 ‘Unreal Tournament’ 무료 배포 허용]]></title>
         <id>https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/</id>
         <link href="https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/"/>
         <updated>2024-11-21T02:54:20.748Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17870"><a class="upvote" href="javascript:vote(17870, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/" rel="nofollow" id="tr9"><h1>GN⁺: 에픽 게임즈, Internet Archive를 통해 ‘Unreal’ 및 ‘Unreal Tournament’ 무료 배포 허용</h1></a> <span class="topicurl">(techdirt.com)</span></div><div class="topicdesc"><a href="topic?id=17870" class="c99 breakall">## 게임 보존 문제와 저작권의 충돌  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17870"><a class="upvote" href="javascript:vote(17870, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/" rel="nofollow" id="tr13"><h1>GN⁺: 에픽 게임즈, Internet Archive를 통해 ‘Unreal’ 및 ‘Unreal Tournament’ 무료 배포 허용</h1></a> <span class="topicurl">(techdirt.com)</span></div><div class="topicdesc"><a href="topic?id=17870" class="c99 breakall">## 게임 보존 문제와 저작권의 충돌  
 - 오래된 비디오 게임 보존은 문화적 유산 보호와 밀접한 관련이 있음.  
 - 게임 퍼블리셔들은 종종 저작...</a></div><div class="topicinfo"><span id="tp17870">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17870"></span> | <a href="topic?id=17870" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: DBT를 사용한 Redshift 데이터 로딩]]></title>
-        <id>https://engineeringblog.yelp.com/2024/11/loading-data-into-redshift-with-dbt.html</id>
-        <link href="https://engineeringblog.yelp.com/2024/11/loading-data-into-redshift-with-dbt.html"/>
-        <updated>2024-11-21T02:54:20.750Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17880"><a class="upvote" href="javascript:vote(17880, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineeringblog.yelp.com/2024/11/loading-data-into-redshift-with-dbt.html" rel="nofollow" id="tr10"><h1>GN⁺: DBT를 사용한 Redshift 데이터 로딩</h1></a> <span class="topicurl">(engineeringblog.yelp.com)</span></div><div class="topicdesc"><a href="topic?id=17880" class="c99 breakall">- Yelp는 최근 소비자의 데이터에 대한 수요가 증가함에 따라 Redshift에 데이터를 더 효율적으로 로드하는 방법을 재검토함  
-- 이 글에서는 DBT...</a></div><div class="topicinfo"><span id="tp17880">4</span> points by <a href="/user?id=neo">neo</a> 23시간전<span id="unvote17880"></span> | <a href="topic?id=17880" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리사주 투자 실패담과 그 이후]]></title>
         <id>https://jacob.kim/blog/esop</id>
         <link href="https://jacob.kim/blog/esop"/>
         <updated>2024-11-19T02:55:09.169Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17843"><a class="upvote" href="javascript:vote(17843, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jacob.kim/blog/esop" rel="nofollow" id="tr11"><h1>우리사주 투자 실패담과 그 이후</h1></a> <span class="topicurl">(jacob.kim)</span></div><div class="topicdesc"><a href="topic?id=17843" class="c99 breakall">- 22살에 저자가 겪은 우리사주 투자 실패담  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17843"><a class="upvote" href="javascript:vote(17843, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jacob.kim/blog/esop" rel="nofollow" id="tr14"><h1>우리사주 투자 실패담과 그 이후</h1></a> <span class="topicurl">(jacob.kim)</span></div><div class="topicdesc"><a href="topic?id=17843" class="c99 breakall">- 22살에 저자가 겪은 우리사주 투자 실패담  
 - 크래프톤에 합류  
   - 2020년 PUBG에 산업기능요원으로 입사  
   - 2021년 개발자 연봉이 일...</a></div><div class="topicinfo"><span id="tp17843">20</span> points by <a href="/user?id=winterjung">winterjung</a> 3일전<span id="unvote17843"></span> | <a href="topic?id=17843" class="u">댓글 7개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: DBT를 사용한 Redshift 데이터 로딩]]></title>
+        <id>https://engineeringblog.yelp.com/2024/11/loading-data-into-redshift-with-dbt.html</id>
+        <link href="https://engineeringblog.yelp.com/2024/11/loading-data-into-redshift-with-dbt.html"/>
+        <updated>2024-11-21T02:54:20.750Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17880"><a class="upvote" href="javascript:vote(17880, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineeringblog.yelp.com/2024/11/loading-data-into-redshift-with-dbt.html" rel="nofollow" id="tr15"><h1>GN⁺: DBT를 사용한 Redshift 데이터 로딩</h1></a> <span class="topicurl">(engineeringblog.yelp.com)</span></div><div class="topicdesc"><a href="topic?id=17880" class="c99 breakall">- Yelp는 최근 소비자의 데이터에 대한 수요가 증가함에 따라 Redshift에 데이터를 더 효율적으로 로드하는 방법을 재검토함  
+- 이 글에서는 DBT...</a></div><div class="topicinfo"><span id="tp17880">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17880"></span> | <a href="topic?id=17880" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: MIT, 가계 소득 20만 달러(2.8억원) 이하 학부생 등록금 면제 정책 시행]]></title>
+        <id>https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120</id>
+        <link href="https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120"/>
+        <updated>2024-11-21T02:54:20.748Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17879"><a class="upvote" href="javascript:vote(17879, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120" rel="nofollow" id="tr16"><h1>GN⁺: MIT, 가계 소득 20만 달러(2.8억원) 이하 학부생 등록금 면제 정책 시행</h1></a> <span class="topicurl">(news.mit.edu)</span></div><div class="topicdesc"><a href="topic?id=17879" class="c99 breakall">- 연 소득 20만 달러 이하 가정의 학생들은 2025년부터 MIT 등록금이 면제됨  
+  - 미국 가정의 80%가 이 소득 기준에 해당. 기존 14만 달러에서 ...</a></div><div class="topicinfo"><span id="tp17879">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17879"></span> | <a href="topic?id=17879" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Apple, macOS 시스템 대상 0-day 공격 확인]]></title>
+        <id>https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/</id>
+        <link href="https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/"/>
+        <updated>2024-11-21T02:54:20.748Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17877"><a class="upvote" href="javascript:vote(17877, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/" rel="nofollow" id="tr17"><h1>GN⁺: Apple, macOS 시스템 대상 0-day 공격 확인</h1></a> <span class="topicurl">(securityweek.com)</span></div><div class="topicdesc"><a href="topic?id=17877" class="c99 breakall">- Apple은 이미 악용되고 있는 두 가지 취약점을 해결하기 위해 주요 macOS 및 iOS 보안 업데이트를 긴급히 배포함.  
+- 이 취약점들은 Google의 ...</a></div><div class="topicinfo"><span id="tp17877">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17877"></span> | <a href="topic?id=17877" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bpftune - BPF를 사용한 리눅스 자동 튜닝 도구]]></title>
         <id>https://github.com/oracle/bpftune</id>
         <link href="https://github.com/oracle/bpftune"/>
         <updated>2024-11-19T02:55:09.160Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17842"><a class="upvote" href="javascript:vote(17842, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/oracle/bpftune" rel="nofollow" id="tr12"><h1>bpftune - BPF를 사용한 리눅스 자동 튜닝 도구</h1></a> <span class="topicurl">(github.com/oracle)</span></div><div class="topicdesc"><a href="topic?id=17842" class="c99 breakall">- BPF(eBPF)의 관찰 기능을 활용해 시스템 성능을 항상 자동으로 튜닝할 수 있도록 설계된 경량화된 도구  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17842"><a class="upvote" href="javascript:vote(17842, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/oracle/bpftune" rel="nofollow" id="tr18"><h1>bpftune - BPF를 사용한 리눅스 자동 튜닝 도구</h1></a> <span class="topicurl">(github.com/oracle)</span></div><div class="topicdesc"><a href="topic?id=17842" class="c99 breakall">- BPF(eBPF)의 관찰 기능을 활용해 시스템 성능을 항상 자동으로 튜닝할 수 있도록 설계된 경량화된 도구  
 # 해결하고자 하는 문제점  
 - **너...</a></div><div class="topicinfo"><span id="tp17842">19</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17842"></span> | <a href="topic?id=17842" class="u">댓글 2개</a></div>]]></content>
     </entry>
@@ -112,7 +159,7 @@
         <id>https://github.com/gurugio/quick-guide-rust-programming</id>
         <link href="https://github.com/gurugio/quick-guide-rust-programming"/>
         <updated>2024-11-15T04:19:19.923Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17778"><a class="upvote" href="javascript:vote(17778, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gurugio/quick-guide-rust-programming" rel="nofollow" id="tr13"><h1>Rust 프로그래밍을 시작하고싶으신 분들을 위한 무료책</h1></a> <span class="topicurl">(github.com/gurugio)</span></div><div class="topicdesc"><a href="topic?id=17778" class="c99 breakall">안녕하세요.  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17778"><a class="upvote" href="javascript:vote(17778, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/gurugio/quick-guide-rust-programming" rel="nofollow" id="tr19"><h1>Rust 프로그래밍을 시작하고싶으신 분들을 위한 무료책</h1></a> <span class="topicurl">(github.com/gurugio)</span></div><div class="topicdesc"><a href="topic?id=17778" class="c99 breakall">안녕하세요.  
   
 올해 초에 조금씩 쓰던 블로그 글을 보고 어느 출판사에서 책을 내자고 연락을 주셨어요.  
 그래서 원고작업을 하던 중에 회...</a></div><div class="topicinfo"><span id="tp17778">73</span> points by <a href="/user?id=gurugio">gurugio</a> 7일전<span id="unvote17778"></span> | <a href="topic?id=17778" class="u">댓글 42개</a></div>]]></content>
@@ -122,59 +169,8 @@
         <id>https://lwn.net/Articles/997958/</id>
         <link href="https://lwn.net/Articles/997958/"/>
         <updated>2024-11-20T01:12:42.038Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17857"><a class="upvote" href="javascript:vote(17857, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lwn.net/Articles/997958/" rel="nofollow" id="tr14"><h1>리눅스 커널 6.12 릴리즈</h1></a> <span class="topicurl">(lwn.net)</span></div><div class="topicdesc"><a href="topic?id=17857" class="c99 breakall">- 올해의 LTS 커널 버전이 될 예정   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17857"><a class="upvote" href="javascript:vote(17857, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lwn.net/Articles/997958/" rel="nofollow" id="tr20"><h1>리눅스 커널 6.12 릴리즈</h1></a> <span class="topicurl">(lwn.net)</span></div><div class="topicdesc"><a href="topic?id=17857" class="c99 breakall">- 올해의 LTS 커널 버전이 될 예정   
 - 실시간 기능인 "PREEMPT_RT"가 마침내 메인 커널에 통합. 20년간의 개발 끝에 마무리된 중요한 기능  
 -...</a></div><div class="topicinfo"><span id="tp17857">9</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17857"></span> | <a href="topic?id=17857" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: MIT, 가계 소득 20만 달러(2.8억원) 이하 학부생 등록금 면제 정책 시행]]></title>
-        <id>https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120</id>
-        <link href="https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120"/>
-        <updated>2024-11-21T02:54:20.748Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17879"><a class="upvote" href="javascript:vote(17879, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120" rel="nofollow" id="tr15"><h1>GN⁺: MIT, 가계 소득 20만 달러(2.8억원) 이하 학부생 등록금 면제 정책 시행</h1></a> <span class="topicurl">(news.mit.edu)</span></div><div class="topicdesc"><a href="topic?id=17879" class="c99 breakall">- 연 소득 20만 달러 이하 가정의 학생들은 2025년부터 MIT 등록금이 면제됨  
-  - 미국 가정의 80%가 이 소득 기준에 해당. 기존 14만 달러에서 ...</a></div><div class="topicinfo"><span id="tp17879">3</span> points by <a href="/user?id=neo">neo</a> 24시간전<span id="unvote17879"></span> | <a href="topic?id=17879" class="u">댓글 5개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Apple, macOS 시스템 대상 0-day 공격 확인]]></title>
-        <id>https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/</id>
-        <link href="https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/"/>
-        <updated>2024-11-21T02:54:20.748Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote17877"><a class="upvote" href="javascript:vote(17877, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/" rel="nofollow" id="tr16"><h1>GN⁺: Apple, macOS 시스템 대상 0-day 공격 확인</h1></a> <span class="topicurl">(securityweek.com)</span></div><div class="topicdesc"><a href="topic?id=17877" class="c99 breakall">- Apple은 이미 악용되고 있는 두 가지 취약점을 해결하기 위해 주요 macOS 및 iOS 보안 업데이트를 긴급히 배포함.  
-- 이 취약점들은 Google의 ...</a></div><div class="topicinfo"><span id="tp17877">3</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote17877"></span> | <a href="topic?id=17877" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["확장되지 않는 일"을 통해 이기는 방법]]></title>
-        <id>https://www.operatorshandbook.com/p/how-to-win-by-doing-things-that-dont</id>
-        <link href="https://www.operatorshandbook.com/p/how-to-win-by-doing-things-that-dont"/>
-        <updated>2024-11-18T02:58:20.252Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17828"><a class="upvote" href="javascript:vote(17828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.operatorshandbook.com/p/how-to-win-by-doing-things-that-dont" rel="nofollow" id="tr17"><h1>"확장되지 않는 일"을 통해 이기는 방법</h1></a> <span class="topicurl">(operatorshandbook.com)</span></div><div class="topicdesc"><a href="topic?id=17828" class="c99 breakall">- Paul Graham이 2013년에 쓴 "Do things that don't scale"에서 소프트웨어 회사가 가치있는 이유는 확장성 때문이지만, 역설적이게도 회사를 성...</a></div><div class="topicinfo"><span id="tp17828">24</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17828"></span> | <a href="topic?id=17828" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pgrx - Rust로 PostgreSQL 확장을 개발하는 프레임워크]]></title>
-        <id>https://github.com/pgcentralfoundation/pgrx</id>
-        <link href="https://github.com/pgcentralfoundation/pgrx"/>
-        <updated>2024-11-20T01:12:42.038Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17864"><a class="upvote" href="javascript:vote(17864, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/pgcentralfoundation/pgrx" rel="nofollow" id="tr18"><h1>pgrx - Rust로 PostgreSQL 확장을 개발하는 프레임워크</h1></a> <span class="topicurl">(github.com/pgcentralfoundation)</span></div><div class="topicdesc"><a href="topic?id=17864" class="c99 breakall">- Rust로 PostgreSQL 확장을 개발 가능, 최대한 Idiomatic &amp; Safe 하기 위해 노력  
-- `cargo-pgrx` 로 완전 관리되는 개발 환경 지원   
-  - `c...</a></div><div class="topicinfo"><span id="tp17864">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote17864"></span> | <a href="topic?id=17864" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: MailCatcher로 초간단 SMTP 서버 운영하기]]></title>
-        <id>https://mailcatcher.me/</id>
-        <link href="https://mailcatcher.me/"/>
-        <updated>2024-11-20T02:54:22.119Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17862"><a class="upvote" href="javascript:vote(17862, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mailcatcher.me/" rel="nofollow" id="tr19"><h1>GN⁺: MailCatcher로 초간단 SMTP 서버 운영하기</h1></a> <span class="topicurl">(mailcatcher.me)</span></div><div class="topicdesc"><a href="topic?id=17862" class="c99 breakall">- MailCatcher는 간단한 SMTP 서버를 실행하여 수신된 메일을 웹 인터페이스로 보여주는 도구임.  
-- 메일을 smtp://127.0.0.1:1025로 전송하도록...</a></div><div class="topicinfo"><span id="tp17862">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote17862"></span> | <a href="topic?id=17862" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낭비되고 있는 클라우드 비용, 월간요금 473만 원 직접 절감한 경험]]></title>
-        <id>https://medium.com/lemonbase/%EB%B9%84%EC%8B%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B9%84%EC%9A%A9-%EC%9B%94%EA%B0%84%EC%9A%94%EA%B8%88-473%EB%A7%8C-%EC%9B%90-%EC%A7%81%EC%A0%91-%EC%A0%88%EA%B0%90%ED%95%9C-%EB%85%B8%ED%95%98%EC%9A%B0-ade7f7d27381</id>
-        <link href="https://medium.com/lemonbase/%EB%B9%84%EC%8B%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B9%84%EC%9A%A9-%EC%9B%94%EA%B0%84%EC%9A%94%EA%B8%88-473%EB%A7%8C-%EC%9B%90-%EC%A7%81%EC%A0%91-%EC%A0%88%EA%B0%90%ED%95%9C-%EB%85%B8%ED%95%98%EC%9A%B0-ade7f7d27381"/>
-        <updated>2024-11-21T13:25:03.380Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17883"><a class="upvote" href="javascript:vote(17883, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/lemonbase/%EB%B9%84%EC%8B%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B9%84%EC%9A%A9-%EC%9B%94%EA%B0%84%EC%9A%94%EA%B8%88-473%EB%A7%8C-%EC%9B%90-%EC%A7%81%EC%A0%91-%EC%A0%88%EA%B0%90%ED%95%9C-%EB%85%B8%ED%95%98%EC%9A%B0-ade7f7d27381" rel="nofollow" id="tr20"><h1>낭비되고 있는 클라우드 비용, 월간요금 473만 원 직접 절감한 경험</h1></a> <span class="topicurl">(medium.com)</span></div><div class="topicdesc"><a href="topic?id=17883" class="c99 breakall">클라우드 비용 절감을 위해 다양한 방법을 시도하고 그 과정에서 발생한 문제를 해결한 경험을 공유하는 글입니다.  
-  
-## 문제 상황  
-  
-클...</a></div><div class="topicinfo"><span id="tp17883">1</span> point by <a href="/user?id=mintplo">mintplo</a> 12시간전<span id="unvote17883"></span> | <a href="topic?id=17883" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
