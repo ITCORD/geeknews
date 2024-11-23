@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-11-23T02:52:00.723Z</updated>
+    <updated>2024-11-23T03:26:57.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=17896"/>
         <updated>2024-11-22T04:19:40.195Z</updated>
         <content type="html"><![CDATA[jacksonji]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 오픈소스 - Ollama 기반 LLM 모바일 클라이언트]]></title>
+        <id>https://news.hada.io/topic?id=17910</id>
+        <link href="https://news.hada.io/topic?id=17910"/>
+        <updated>2024-11-23T03:26:36.346Z</updated>
+        <content type="html"><![CDATA[rtlink]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: diary.sh - 나와 AI의 교환일기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17274"/>
         <updated>2024-10-16T21:14:47.841Z</updated>
         <content type="html"><![CDATA[ironpark]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: New Swagger-UI combined with Cloud TypeScript Editor and embedded SDK]]></title>
-        <id>https://news.hada.io/topic?id=17480</id>
-        <link href="https://news.hada.io/topic?id=17480"/>
-        <updated>2024-10-29T03:23:16.976Z</updated>
-        <content type="html"><![CDATA[samchon]]></content>
     </entry>
 </feed>
