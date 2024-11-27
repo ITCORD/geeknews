@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-11-27T07:16:21.917Z</updated>
+    <updated>2024-11-27T08:21:49.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 듀얼 페이지 싱크 - 외국어 개발문서를 보기 쉽게 해주는 크롬 확장프로그램]]></title>
+        <id>https://news.hada.io/topic?id=17979</id>
+        <link href="https://news.hada.io/topic?id=17979"/>
+        <updated>2024-11-27T08:21:29.728Z</updated>
+        <content type="html"><![CDATA[jongtk12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 인터넷 연결 없이 클라이언트에서 간편결제 QR코드 만들기]]></title>
         <id>https://news.hada.io/topic?id=17928</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17497"/>
         <updated>2024-10-30T05:16:16.537Z</updated>
         <content type="html"><![CDATA[plant]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 실시간 계좌 입출금 데이터 1초 수신 - 페이액션]]></title>
-        <id>https://news.hada.io/topic?id=17371</id>
-        <link href="https://news.hada.io/topic?id=17371"/>
-        <updated>2024-10-22T07:16:19.586Z</updated>
-        <content type="html"><![CDATA[wally]]></content>
     </entry>
 </feed>
