@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2024-12-01T06:22:28.813Z</updated>
+    <updated>2024-12-01T07:15:09.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -15,27 +15,34 @@
 - Remote Write 2.0...</a></div><div class="topicinfo"><span id="tp18043">4</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote18043"></span> | <a href="topic?id=18043" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sail - AI시대를 위한 빅데이터 처리 프레임워크]]></title>
-        <id>https://github.com/lakehq/sail</id>
-        <link href="https://github.com/lakehq/sail"/>
-        <updated>2024-12-01T01:26:04.101Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18036"><a class="upvote" href="javascript:vote(18036, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/lakehq/sail" rel="nofollow" id="tr2"><h1>Sail - AI시대를 위한 빅데이터 처리 프레임워크</h1></a> <span class="topicurl">(github.com/lakehq)</span></div><div class="topicdesc"><a href="topic?id=18036" class="c99 breakall">- 스트림 프로세싱 / 배치 프로세싱 / 고성능-연산(AI) 워크로드를 통합 처리하는 프레임워크를 목표   
-- 현재 Spark SQL과 Spark DataFrame API...</a></div><div class="topicinfo"><span id="tp18036">3</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote18036"></span> | <a href="topic?id=18036" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: Rust-Query - Rust Type 시스템을 사용한 안전한 RDB쿼리]]></title>
         <id>https://blog.lucasholten.com/rust-query-announcement/</id>
         <link href="https://blog.lucasholten.com/rust-query-announcement/"/>
         <updated>2024-12-01T01:26:04.101Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18035"><a class="upvote" href="javascript:vote(18035, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lucasholten.com/rust-query-announcement/" rel="nofollow" id="tr3"><h1>GN⁺: Rust-Query - Rust Type 시스템을 사용한 안전한 RDB쿼리</h1></a> <span class="topicurl">(blog.lucasholten.com)</span></div><div class="topicdesc"><a href="topic?id=18035" class="c99 breakall">- "Rust에서 안전하게 데이터를 영구 저장하고, 복잡한 쿼리를 쉽게 작성하며, SQL을 한 줄도 작성하지 않아도 된다면 어떨까?"  
-  - **Rust-que...</a></div><div class="topicinfo"><span id="tp18035">3</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote18035"></span> | <a href="topic?id=18035" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18035"><a class="upvote" href="javascript:vote(18035, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.lucasholten.com/rust-query-announcement/" rel="nofollow" id="tr2"><h1>GN⁺: Rust-Query - Rust Type 시스템을 사용한 안전한 RDB쿼리</h1></a> <span class="topicurl">(blog.lucasholten.com)</span></div><div class="topicdesc"><a href="topic?id=18035" class="c99 breakall">- "Rust에서 안전하게 데이터를 영구 저장하고, 복잡한 쿼리를 쉽게 작성하며, SQL을 한 줄도 작성하지 않아도 된다면 어떨까?"  
+  - **Rust-que...</a></div><div class="topicinfo"><span id="tp18035">4</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote18035"></span> | <a href="topic?id=18035" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sail - AI시대를 위한 빅데이터 처리 프레임워크]]></title>
+        <id>https://github.com/lakehq/sail</id>
+        <link href="https://github.com/lakehq/sail"/>
+        <updated>2024-12-01T01:26:04.101Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18036"><a class="upvote" href="javascript:vote(18036, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/lakehq/sail" rel="nofollow" id="tr3"><h1>Sail - AI시대를 위한 빅데이터 처리 프레임워크</h1></a> <span class="topicurl">(github.com/lakehq)</span></div><div class="topicdesc"><a href="topic?id=18036" class="c99 breakall">- 스트림 프로세싱 / 배치 프로세싱 / 고성능-연산(AI) 워크로드를 통합 처리하는 프레임워크를 목표   
+- 현재 Spark SQL과 Spark DataFrame API...</a></div><div class="topicinfo"><span id="tp18036">3</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18036"></span> | <a href="topic?id=18036" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Advent of SQL 2024]]></title>
+        <id>https://news.hada.io/topic?id=18046</id>
+        <link href="https://news.hada.io/topic?id=18046"/>
+        <updated>2024-12-01T07:14:33.285Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18046"><a class="upvote" href="javascript:vote(18046, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18046" rel="nofollow" id="tr4"><h1>Show GN: Advent of SQL 2024</h1></a> <span class="topicurl">(solvesql.com)</span></div><div class="topicdesc"><a href="topic?id=18046" class="c99 breakall">해외에는 어드벤트 캘린더에서 착안해 12월 1일부터 25일까지 매일 코딩 문제를 하나씩 푸는 [Advent of Code](https://adventofcode.com/) 사이트...</a></div><div class="topicinfo"><span id="tp18046">1</span> point by <a href="/user?id=chiwanpark">chiwanpark</a> 19분전<span id="unvote18046"></span> | <a href="topic?id=18046" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kiwi : 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)]]></title>
         <id>https://github.com/bab2min/Kiwi</id>
         <link href="https://github.com/bab2min/Kiwi"/>
         <updated>2024-11-30T01:12:42.846Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18020"><a class="upvote" href="javascript:vote(18020, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bab2min/Kiwi" rel="nofollow" id="tr4"><h1>Kiwi : 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)</h1></a> <span class="topicurl">(github.com/bab2min)</span></div><div class="topicdesc"><a href="topic?id=18020" class="c99 breakall">- Kiwi : 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18020"><a class="upvote" href="javascript:vote(18020, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bab2min/Kiwi" rel="nofollow" id="tr5"><h1>Kiwi : 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)</h1></a> <span class="topicurl">(github.com/bab2min)</span></div><div class="topicdesc"><a href="topic?id=18020" class="c99 breakall">- Kiwi : 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)  
 - 빠른 속도와 범용적인 성능을 지향하는 한국어 형태소 분석기 ...</a></div><div class="topicinfo"><span id="tp18020">12</span> points by <a href="/user?id=rycont">rycont</a> 1일전<span id="unvote18020"></span> | <a href="topic?id=18020" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -43,7 +50,7 @@
         <id>https://github.com/VictoriaMetrics/VictoriaMetrics</id>
         <link href="https://github.com/VictoriaMetrics/VictoriaMetrics"/>
         <updated>2024-11-30T01:12:42.848Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18022"><a class="upvote" href="javascript:vote(18022, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/VictoriaMetrics/VictoriaMetrics" rel="nofollow" id="tr5"><h1>VictoriaMetrics - 시계열 데이터를 위한 빠르고 비용 효율적인 모니터링 솔루션</h1></a> <span class="topicurl">(github.com/VictoriaMetrics)</span></div><div class="topicdesc"><a href="topic?id=18022" class="c99 breakall">- 시계열 데이터에 최적화되어 있으며, 오래된 시계열이 지속적으로 새로운 시계열로 빠른 속도로 교체되는 경우에도 다양한 기능을 제공  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18022"><a class="upvote" href="javascript:vote(18022, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/VictoriaMetrics/VictoriaMetrics" rel="nofollow" id="tr6"><h1>VictoriaMetrics - 시계열 데이터를 위한 빠르고 비용 효율적인 모니터링 솔루션</h1></a> <span class="topicurl">(github.com/VictoriaMetrics)</span></div><div class="topicdesc"><a href="topic?id=18022" class="c99 breakall">- 시계열 데이터에 최적화되어 있으며, 오래된 시계열이 지속적으로 새로운 시계열로 빠른 속도로 교체되는 경우에도 다양한 기능을 제공  
 - Pro...</a></div><div class="topicinfo"><span id="tp18022">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18022"></span> | <a href="topic?id=18022" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -51,7 +58,7 @@
         <id>https://github.com/DataExpert-io/data-engineer-handbook</id>
         <link href="https://github.com/DataExpert-io/data-engineer-handbook"/>
         <updated>2024-11-27T01:15:05.600Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote17963"><a class="upvote" href="javascript:vote(17963, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/DataExpert-io/data-engineer-handbook" rel="nofollow" id="tr6"><h1>데이터 엔지니어링 핸드북</h1></a> <span class="topicurl">(github.com/DataExpert-io)</span></div><div class="topicdesc"><a href="topic?id=17963" class="c99 breakall">- 데이터 엔지니어가 되기 위한 모든 자료들을 모은 Repo   
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote17963"><a class="upvote" href="javascript:vote(17963, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/DataExpert-io/data-engineer-handbook" rel="nofollow" id="tr7"><h1>데이터 엔지니어링 핸드북</h1></a> <span class="topicurl">(github.com/DataExpert-io)</span></div><div class="topicdesc"><a href="topic?id=17963" class="c99 breakall">- 데이터 엔지니어가 되기 위한 모든 자료들을 모은 Repo   
   - 프로젝트/인터뷰/책/커뮤니티/뉴스레터 들 모음   
 - 처음이라면 [2024 데이터 ...</a></div><div class="topicinfo"><span id="tp17963">42</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote17963"></span> | <a href="topic?id=17963" class="u">댓글과 토론</a></div>]]></content>
     </entry>
@@ -60,21 +67,21 @@
         <id>https://hez2010.github.io/async-runtimes-benchmarks-2024/</id>
         <link href="https://hez2010.github.io/async-runtimes-benchmarks-2024/"/>
         <updated>2024-11-29T07:16:01.650Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18015"><a class="upvote" href="javascript:vote(18015, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hez2010.github.io/async-runtimes-benchmarks-2024/" rel="nofollow" id="tr7"><h1>How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks?</h1></a> <span class="topicurl">(hez2010.github.io)</span></div><div class="topicdesc"><a href="topic?id=18015" class="c99 breakall">Rust, C#, Python, Go, Java, NodeJS 등의 최신 버전으로 100만 개의 동시 작업을 처리하는 프로그램을 실행하여 메모리 효율성을 비교했습니다.  ...</a></div><div class="topicinfo"><span id="tp18015">12</span> points by <a href="/user?id=ttyy1234">ttyy1234</a> 2일전<span id="unvote18015"></span> | <a href="topic?id=18015" class="u">댓글 5개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18015"><a class="upvote" href="javascript:vote(18015, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hez2010.github.io/async-runtimes-benchmarks-2024/" rel="nofollow" id="tr8"><h1>How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks?</h1></a> <span class="topicurl">(hez2010.github.io)</span></div><div class="topicdesc"><a href="topic?id=18015" class="c99 breakall">Rust, C#, Python, Go, Java, NodeJS 등의 최신 버전으로 100만 개의 동시 작업을 처리하는 프로그램을 실행하여 메모리 효율성을 비교했습니다.  ...</a></div><div class="topicinfo"><span id="tp18015">12</span> points by <a href="/user?id=ttyy1234">ttyy1234</a> 2일전<span id="unvote18015"></span> | <a href="topic?id=18015" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[레디스 클라이언트 사이드 캐시로 반응성 향상 시키기]]></title>
         <id>https://gosuda.org/ko/blog/posts/improving-responsiveness-with-redis-client-side-caching-zb711e502</id>
         <link href="https://gosuda.org/ko/blog/posts/improving-responsiveness-with-redis-client-side-caching-zb711e502"/>
         <updated>2024-11-29T02:58:29.807Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18012"><a class="upvote" href="javascript:vote(18012, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/ko/blog/posts/improving-responsiveness-with-redis-client-side-caching-zb711e502" rel="nofollow" id="tr8"><h1>레디스 클라이언트 사이드 캐시로 반응성 향상 시키기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18012" class="c99 breakall">레디스는 빠르지만, 잦은 데이터 조회는 API 서버에 부담을 줍니다. 특히 실시간 데이터처럼 갱신은 불규칙하지만 자주 조회해야 하는 경우, 효율...</a></div><div class="topicinfo"><span id="tp18012">11</span> points by <a href="/user?id=lemonmint">lemonmint</a> 2일전<span id="unvote18012"></span> | <a href="topic?id=18012" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18012"><a class="upvote" href="javascript:vote(18012, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/ko/blog/posts/improving-responsiveness-with-redis-client-side-caching-zb711e502" rel="nofollow" id="tr9"><h1>레디스 클라이언트 사이드 캐시로 반응성 향상 시키기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18012" class="c99 breakall">레디스는 빠르지만, 잦은 데이터 조회는 API 서버에 부담을 줍니다. 특히 실시간 데이터처럼 갱신은 불규칙하지만 자주 조회해야 하는 경우, 효율...</a></div><div class="topicinfo"><span id="tp18012">11</span> points by <a href="/user?id=lemonmint">lemonmint</a> 2일전<span id="unvote18012"></span> | <a href="topic?id=18012" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 저는 Kubernetes가 필요하지 않았고, 여러분도 아마 필요하지 않을겁니다]]></title>
         <id>https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run</id>
         <link href="https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run"/>
         <updated>2024-11-28T02:58:23.716Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote17991"><a class="upvote" href="javascript:vote(17991, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run" rel="nofollow" id="tr9"><h1>GN⁺: 저는 Kubernetes가 필요하지 않았고, 여러분도 아마 필요하지 않을겁니다</h1></a> <span class="topicurl">(benhouston3d.com)</span></div><div class="topicdesc"><a href="topic?id=17991" class="c99 breakall"># Kubernetes를 떠나 Google Cloud Run을 선택한 이유  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote17991"><a class="upvote" href="javascript:vote(17991, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run" rel="nofollow" id="tr10"><h1>GN⁺: 저는 Kubernetes가 필요하지 않았고, 여러분도 아마 필요하지 않을겁니다</h1></a> <span class="topicurl">(benhouston3d.com)</span></div><div class="topicdesc"><a href="topic?id=17991" class="c99 breakall"># Kubernetes를 떠나 Google Cloud Run을 선택한 이유  
 ## **Kubernetes 도입의 배경**  
 - 2013년 출시한 온라인 3D 편집 플랫폼 **Clara.io**...</a></div><div class="topicinfo"><span id="tp17991">18</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote17991"></span> | <a href="topic?id=17991" class="u">댓글 12개</a></div>]]></content>
     </entry>
@@ -83,7 +90,7 @@
         <id>https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/</id>
         <link href="https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/"/>
         <updated>2024-12-01T05:15:21.569Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18029"><a class="upvote" href="javascript:vote(18029, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/" rel="nofollow" id="tr10"><h1>GN⁺: 굿바이 Rust, 성공을 기원하지만 저는 C++로 돌아갑니다 (미안, 개인적 불만이에요)</h1></a> <span class="topicurl">(old.reddit.com)</span></div><div class="topicdesc"><a href="topic?id=18029" class="c99 breakall">- TLDR: 결국 일자리 때문  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18029"><a class="upvote" href="javascript:vote(18029, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/" rel="nofollow" id="tr11"><h1>GN⁺: 굿바이 Rust, 성공을 기원하지만 저는 C++로 돌아갑니다 (미안, 개인적 불만이에요)</h1></a> <span class="topicurl">(old.reddit.com)</span></div><div class="topicdesc"><a href="topic?id=18029" class="c99 breakall">- TLDR: 결국 일자리 때문  
 - 3년간 Rust로 비동기/멀티스레드 코드, FFI(Bindgen 활용), 커널 프로그래밍(std 없이) 등 다양한 작업을 경험  
 ...</a></div><div class="topicinfo"><span id="tp18029">4</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18029"></span> | <a href="topic?id=18029" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -92,7 +99,7 @@
         <id>https://kristoff.it/blog/raii-rust-linux/</id>
         <link href="https://kristoff.it/blog/raii-rust-linux/"/>
         <updated>2024-11-27T15:16:50.646Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote17982"><a class="upvote" href="javascript:vote(17982, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kristoff.it/blog/raii-rust-linux/" rel="nofollow" id="tr11"><h1>RAII, Rust/Linux의 환상</h1></a> <span class="topicurl">(kristoff.it)</span></div><div class="topicdesc"><a href="topic?id=17982" class="c99 breakall"># 요약  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote17982"><a class="upvote" href="javascript:vote(17982, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kristoff.it/blog/raii-rust-linux/" rel="nofollow" id="tr12"><h1>RAII, Rust/Linux의 환상</h1></a> <span class="topicurl">(kristoff.it)</span></div><div class="topicdesc"><a href="topic?id=17982" class="c99 breakall"># 요약  
   
 [Rust 개발자와 기존 Linux 개발자 사이의 분쟁](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project)을 지켜보고 ...</a></div><div class="topicinfo"><span id="tp17982">19</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4일전<span id="unvote17982"></span> | <a href="topic?id=17982" class="u">댓글 9개</a></div>]]></content>
     </entry>
@@ -101,7 +108,7 @@
         <id>https://eli.thegreenplace.net/2024/gomlx-ml-in-go-without-python/</id>
         <link href="https://eli.thegreenplace.net/2024/gomlx-ml-in-go-without-python/"/>
         <updated>2024-11-29T02:58:29.805Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18011"><a class="upvote" href="javascript:vote(18011, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://eli.thegreenplace.net/2024/gomlx-ml-in-go-without-python/" rel="nofollow" id="tr12"><h1>GoMLX - Python 없이 Go로 ML하기 </h1></a> <span class="topicurl">(eli.thegreenplace.net)</span></div><div class="topicdesc"><a href="topic?id=18011" class="c99 breakall">- Go 언어로 머신러닝(ML) 모델을 구현할 수 있는 패키지로, Python에 의존하지 않고도 ML 작업을 수행할 수 있도록 설계됨  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18011"><a class="upvote" href="javascript:vote(18011, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://eli.thegreenplace.net/2024/gomlx-ml-in-go-without-python/" rel="nofollow" id="tr13"><h1>GoMLX - Python 없이 Go로 ML하기 </h1></a> <span class="topicurl">(eli.thegreenplace.net)</span></div><div class="topicdesc"><a href="topic?id=18011" class="c99 breakall">- Go 언어로 머신러닝(ML) 모델을 구현할 수 있는 패키지로, Python에 의존하지 않고도 ML 작업을 수행할 수 있도록 설계됨  
 - TensorFlow(TF), ...</a></div><div class="topicinfo"><span id="tp18011">8</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18011"></span> | <a href="topic?id=18011" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -109,24 +116,16 @@
         <id>https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/</id>
         <link href="https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/"/>
         <updated>2024-11-25T02:57:56.897Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote17941"><a class="upvote" href="javascript:vote(17941, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/" rel="nofollow" id="tr13"><h1>제품 속도에 대한 원칙</h1></a> <span class="topicurl">(ssoready.com)</span></div><div class="topicdesc"><a href="topic?id=17941" class="c99 breakall">- 많은 회사들이 복잡한 프로세스나 장황한 요구 사항에 얽매여 개발 속도가 느려지지만, 실제로 중요한 것은 빠르게 ‘올바른 제품’을 만드는 것임...</a></div><div class="topicinfo"><span id="tp17941">43</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17941"></span> | <a href="topic?id=17941" class="u">댓글 6개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote17941"><a class="upvote" href="javascript:vote(17941, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/" rel="nofollow" id="tr14"><h1>제품 속도에 대한 원칙</h1></a> <span class="topicurl">(ssoready.com)</span></div><div class="topicdesc"><a href="topic?id=17941" class="c99 breakall">- 많은 회사들이 복잡한 프로세스나 장황한 요구 사항에 얽매여 개발 속도가 느려지지만, 실제로 중요한 것은 빠르게 ‘올바른 제품’을 만드는 것임...</a></div><div class="topicinfo"><span id="tp17941">43</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17941"></span> | <a href="topic?id=17941" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 홉스 — AI와 대화하면서 어드민을 만들수 있는 서비스]]></title>
         <id>https://news.hada.io/topic?id=18017</id>
         <link href="https://news.hada.io/topic?id=18017"/>
         <updated>2024-11-29T09:17:32.459Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18017"><a class="upvote" href="javascript:vote(18017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18017" rel="nofollow" id="tr14"><h1>Show GN: 홉스 — AI와 대화하면서 어드민을 만들수 있는 서비스</h1></a> <span class="topicurl">(hops.pub)</span></div><div class="topicdesc"><a href="topic?id=18017" class="c99 breakall">스타트업에서 일해보신 개발자들은 아래와 같은 경험해보셨을 것이라고 생각합니다.  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18017"><a class="upvote" href="javascript:vote(18017, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18017" rel="nofollow" id="tr15"><h1>Show GN: 홉스 — AI와 대화하면서 어드민을 만들수 있는 서비스</h1></a> <span class="topicurl">(hops.pub)</span></div><div class="topicdesc"><a href="topic?id=18017" class="c99 breakall">스타트업에서 일해보신 개발자들은 아래와 같은 경험해보셨을 것이라고 생각합니다.  
   
 - 핵심 제품 개발에 집중하고 싶은데, 운영에 필요한 ...</a></div><div class="topicinfo"><span id="tp18017">6</span> points by <a href="/user?id=kanghyojun">kanghyojun</a> 2일전<span id="unvote18017"></span> | <a href="topic?id=18017" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원온원 6년의 기록: 시행착오와 배움들]]></title>
-        <id>https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/</id>
-        <link href="https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/"/>
-        <updated>2024-11-27T05:16:15.901Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote17977"><a class="upvote" href="javascript:vote(17977, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/" rel="nofollow" id="tr15"><h1>원온원 6년의 기록: 시행착오와 배움들</h1></a> <span class="topicurl">(zzsza.github.io)</span></div><div class="topicdesc"><a href="topic?id=17977" class="c99 breakall">원온원 미팅을 진행하면서 시도한 내용과 배움들에 대해 작성한 글입니다.  
-원온원 미팅 경험담을 서로 나누는 자리가 많아지면 좋을 것 같네요....</a></div><div class="topicinfo"><span id="tp17977">20</span> points by <a href="/user?id=zzsza">zzsza</a> 4일전<span id="unvote17977"></span> | <a href="topic?id=17977" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 듀얼 페이지 싱크 - 외국어 개발문서를 보기 쉽게 해주는 크롬 확장프로그램]]></title>
@@ -138,11 +137,19 @@
 **개발문서 볼 때, 원문과 한글을 동시에 스크롤 하면서 보면 좋겠다**는 니즈로 만들었어요 ...</a></div><div class="topicinfo"><span id="tp17979">19</span> points by <a href="/user?id=jongtk12">jongtk12</a> 4일전<span id="unvote17979"></span> | <a href="topic?id=17979" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[원온원 6년의 기록: 시행착오와 배움들]]></title>
+        <id>https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/</id>
+        <link href="https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/"/>
+        <updated>2024-11-27T05:16:15.901Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17977"><a class="upvote" href="javascript:vote(17977, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/" rel="nofollow" id="tr17"><h1>원온원 6년의 기록: 시행착오와 배움들</h1></a> <span class="topicurl">(zzsza.github.io)</span></div><div class="topicdesc"><a href="topic?id=17977" class="c99 breakall">원온원 미팅을 진행하면서 시도한 내용과 배움들에 대해 작성한 글입니다.  
+원온원 미팅 경험담을 서로 나누는 자리가 많아지면 좋을 것 같네요....</a></div><div class="topicinfo"><span id="tp17977">20</span> points by <a href="/user?id=zzsza">zzsza</a> 4일전<span id="unvote17977"></span> | <a href="topic?id=17977" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Voice AI 로드맵: 대화형 AI의 미래]]></title>
         <id>https://www.bvp.com/atlas/roadmap-voice-ai</id>
         <link href="https://www.bvp.com/atlas/roadmap-voice-ai"/>
         <updated>2024-11-28T02:58:23.716Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote17996"><a class="upvote" href="javascript:vote(17996, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bvp.com/atlas/roadmap-voice-ai" rel="nofollow" id="tr17"><h1>Voice AI 로드맵: 대화형 AI의 미래</h1></a> <span class="topicurl">(bvp.com)</span></div><div class="topicdesc"><a href="topic?id=17996" class="c99 breakall">- Voice AI는 단순한 UI 업그레이드가 아니라, 비즈니스와 고객 간 연결 방식을 혁신  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17996"><a class="upvote" href="javascript:vote(17996, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.bvp.com/atlas/roadmap-voice-ai" rel="nofollow" id="tr18"><h1>Voice AI 로드맵: 대화형 AI의 미래</h1></a> <span class="topicurl">(bvp.com)</span></div><div class="topicdesc"><a href="topic?id=17996" class="c99 breakall">- Voice AI는 단순한 UI 업그레이드가 아니라, 비즈니스와 고객 간 연결 방식을 혁신  
   - 항공사 고객 서비스 처럼 긴 대기 시간, 반복되는 메...</a></div><div class="topicinfo"><span id="tp17996">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17996"></span> | <a href="topic?id=17996" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -150,7 +157,7 @@
         <id>https://nap.nationalacademies.org/resource/27644/interactive/</id>
         <link href="https://nap.nationalacademies.org/resource/27644/interactive/"/>
         <updated>2024-11-28T01:14:34.322Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote17986"><a class="upvote" href="javascript:vote(17986, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nap.nationalacademies.org/resource/27644/interactive/" rel="nofollow" id="tr18"><h1>AI와 미래의 일자리 - 미국 국립과학원(NAS)의 153P 보고서</h1></a> <span class="topicurl">(nap.nationalacademies.org)</span></div><div class="topicdesc"><a href="topic?id=17986" class="c99 breakall">- 최근 인공지능(AI)의 발전으로 정책 결정자와 대중이 AI가 일자리와 노동자에게 미치는 영향에 주목하고 있음   
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17986"><a class="upvote" href="javascript:vote(17986, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nap.nationalacademies.org/resource/27644/interactive/" rel="nofollow" id="tr19"><h1>AI와 미래의 일자리 - 미국 국립과학원(NAS)의 153P 보고서</h1></a> <span class="topicurl">(nap.nationalacademies.org)</span></div><div class="topicdesc"><a href="topic?id=17986" class="c99 breakall">- 최근 인공지능(AI)의 발전으로 정책 결정자와 대중이 AI가 일자리와 노동자에게 미치는 영향에 주목하고 있음   
   - ChatGPT와 같은 생성형 AI...</a></div><div class="topicinfo"><span id="tp17986">13</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote17986"></span> | <a href="topic?id=17986" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -158,15 +165,7 @@
         <id>https://github.com/bjesus/teatime</id>
         <link href="https://github.com/bjesus/teatime"/>
         <updated>2024-11-29T01:14:22.872Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote17998"><a class="upvote" href="javascript:vote(17998, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bjesus/teatime" rel="nofollow" id="tr19"><h1>GN⁺: TeaTime - SQLite, IPFS 및 GitHub로 구동되는 분산형 도서관 시스템</h1></a> <span class="topicurl">(github.com/bjesus)</span></div><div class="topicdesc"><a href="topic?id=17998" class="c99 breakall">- IPFS, SQLite, GitHub을 기반으로 하는 완전한 정적 분산 라이브러리 시스템  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17998"><a class="upvote" href="javascript:vote(17998, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/bjesus/teatime" rel="nofollow" id="tr20"><h1>GN⁺: TeaTime - SQLite, IPFS 및 GitHub로 구동되는 분산형 도서관 시스템</h1></a> <span class="topicurl">(github.com/bjesus)</span></div><div class="topicdesc"><a href="topic?id=17998" class="c99 breakall">- IPFS, SQLite, GitHub을 기반으로 하는 완전한 정적 분산 라이브러리 시스템  
 - Netlify와 GitHub Pages에서 자동 업데이트되는 인스턴스 호스...</a></div><div class="topicinfo"><span id="tp17998">7</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote17998"></span> | <a href="topic?id=17998" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 데이터 엔지니어링 진입 로드맵]]></title>
-        <id>https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering</id>
-        <link href="https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering"/>
-        <updated>2024-12-01T03:13:39.481Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote17939"><a class="upvote" href="javascript:vote(17939, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering" rel="nofollow" id="tr20"><h1>2024 데이터 엔지니어링 진입 로드맵</h1></a> <span class="topicurl">(blog.dataengineer.io)</span></div><div class="topicdesc"><a href="topic?id=17939" class="c99 breakall">- 데이터 엔지니어링 취업은 복잡한 기술 생태계(예: Spark, Flink, Iceberg, BigQuery 등)로 인해 어렵게 느껴질 수 있음  
-- 단순히 **Python과...</a></div><div class="topicinfo"><span id="tp17939">35</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote17939"></span> | <a href="topic?id=17939" class="u">댓글 1개</a></div>]]></content>
     </entry>
 </feed>
