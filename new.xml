@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2024-12-05T12:32:48.050Z</updated>
+    <updated>2024-12-05T13:27:10.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,14 +11,14 @@
         <link href="https://news.hada.io/topic?id=18113"/>
         <updated>2024-12-05T07:16:25.852Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18113"><a class="upvote" href="javascript:vote(18113, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/" rel="nofollow" id="tr1"><h1>JPA/Hibernate를 버리세요</h1></a> <span class="topicurl">(stemlaur.com)</span></div><div class="topicdesc"><a href="topic?id=18113" class="c99 breakall"># 요약  
-JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이유로 많이 쓰이는 프레임워크가 되었습니다. 하지만, 저는 새 프로젝...</a></div><div class="topicinfo"><span id="tp18113">5</span> points by <a href="/user?id=carnoxen">carnoxen</a> 6시간전<span id="unvote18113"></span> | <a href="topic?id=18113" class="u">댓글과 토론</a></div>]]></content>
+JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이유로 많이 쓰이는 프레임워크가 되었습니다. 하지만, 저는 새 프로젝...</a></div><div class="topicinfo"><span id="tp18113">6</span> points by <a href="/user?id=carnoxen">carnoxen</a> 6시간전<span id="unvote18113"></span> | <a href="topic?id=18113" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ELT 해체하기: Silo가 아닌 Graph가 필요한 경우]]></title>
         <id>https://news.hada.io/topic?id=18109</id>
         <link href="https://news.hada.io/topic?id=18109"/>
         <updated>2024-12-05T01:16:18.757Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18109"><a class="upvote" href="javascript:vote(18109, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jack-vanlightly.com/blog/2024/11/26/dismantling-elt-the-case-for-graphs-not-silos" rel="nofollow" id="tr2"><h1>ELT 해체하기: Silo가 아닌 Graph가 필요한 경우</h1></a> <span class="topicurl">(jack-vanlightly.com)</span></div><div class="topicdesc"><a href="topic?id=18109" class="c99 breakall">- ELT(Extract, Load, Transform)는 조직 내 데이터 분석과 소프트웨어 개발의 "사일로(Silo)" 를 연결하기 위해 사용되지만, 이러한 사일로 구조 ...</a></div><div class="topicinfo"><span id="tp18109">4</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote18109"></span> | <a href="topic?id=18109" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18109"><a class="upvote" href="javascript:vote(18109, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jack-vanlightly.com/blog/2024/11/26/dismantling-elt-the-case-for-graphs-not-silos" rel="nofollow" id="tr2"><h1>ELT 해체하기: Silo가 아닌 Graph가 필요한 경우</h1></a> <span class="topicurl">(jack-vanlightly.com)</span></div><div class="topicdesc"><a href="topic?id=18109" class="c99 breakall">- ELT(Extract, Load, Transform)는 조직 내 데이터 분석과 소프트웨어 개발의 "사일로(Silo)" 를 연결하기 위해 사용되지만, 이러한 사일로 구조 ...</a></div><div class="topicinfo"><span id="tp18109">4</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote18109"></span> | <a href="topic?id=18109" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copper - Rust로 구현한 로봇 제작용 런타임 엔진]]></title>
@@ -27,7 +27,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <updated>2024-12-05T01:16:18.764Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18108"><a class="upvote" href="javascript:vote(18108, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/copper-project/copper-rs" rel="nofollow" id="tr3"><h1>Copper - Rust로 구현한 로봇 제작용 런타임 엔진</h1></a> <span class="topicurl">(github.com/copper-project)</span></div><div class="topicdesc"><a href="topic?id=18108" class="c99 breakall">- 빠르고 안정적인 로봇을 제작하기 위한 사용자 친화적인 런타임 엔진  
   - 게임을 위한 "게임 엔진"처럼 로봇을 위한 "로봇 엔진"  
-- 쉬움: ...</a></div><div class="topicinfo"><span id="tp18108">5</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote18108"></span> | <a href="topic?id=18108" class="u">댓글과 토론</a></div>]]></content>
+- 쉬움: ...</a></div><div class="topicinfo"><span id="tp18108">5</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote18108"></span> | <a href="topic?id=18108" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skia Canvas 2.0 릴리즈]]></title>
@@ -35,7 +35,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://news.hada.io/topic?id=18106"/>
         <updated>2024-12-05T01:16:18.764Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18106"><a class="upvote" href="javascript:vote(18106, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/samizdatco/skia-canvas/releases/tag/v2.0.0" rel="nofollow" id="tr4"><h1>Skia Canvas 2.0 릴리즈</h1></a> <span class="topicurl">(github.com/samizdatco)</span></div><div class="topicdesc"><a href="topic?id=18106" class="c99 breakall">- 브라우저 없이 구현한 Node.js용 HTML 캔버스 그리기 API   
-- Google의 Skia 그래픽 엔진 기반, Chrome의 &lt;캔버스&gt; 요소와 매우 유사한 결과를...</a></div><div class="topicinfo"><span id="tp18106">8</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote18106"></span> | <a href="topic?id=18106" class="u">댓글 1개</a></div>]]></content>
+- Google의 Skia 그래픽 엔진 기반, Chrome의 &lt;캔버스&gt; 요소와 매우 유사한 결과를...</a></div><div class="topicinfo"><span id="tp18106">8</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote18106"></span> | <a href="topic?id=18106" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Foursquare Open Source Places - 지리공간 커뮤니티를 위한 새로운 기초 데이터셋]]></title>
@@ -43,7 +43,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://news.hada.io/topic?id=18102"/>
         <updated>2024-12-05T01:16:18.764Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18102"><a class="upvote" href="javascript:vote(18102, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/" rel="nofollow" id="tr5"><h1>Foursquare Open Source Places - 지리공간 커뮤니티를 위한 새로운 기초 데이터셋</h1></a> <span class="topicurl">(location.foursquare.com)</span></div><div class="topicdesc"><a href="topic?id=18102" class="c99 breakall">- FSQ OS Places는 전 세계 1억 개 이상의 관심 장소(POI) 데이터셋을 제공하는 오픈 소스 프로젝트  
-  - 1억개가 넘는 글로벌 POI, 1000+개의 ...</a></div><div class="topicinfo"><span id="tp18102">2</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote18102"></span> | <a href="topic?id=18102" class="u">댓글과 토론</a></div>]]></content>
+  - 1억개가 넘는 글로벌 POI, 1000+개의 ...</a></div><div class="topicinfo"><span id="tp18102">2</span> points by <a href="/user?id=xguru">xguru</a> 13시간전<span id="unvote18102"></span> | <a href="topic?id=18102" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Radon IDE - React Native 개발을 위한 VSC 확장 프로그램]]></title>
@@ -70,7 +70,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <updated>2024-12-04T01:16:22.881Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18086"><a class="upvote" href="javascript:vote(18086, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss" rel="nofollow" id="tr8"><h1>The Verge, 유료 구독 서비스 시작</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=18086" class="c99 breakall">- 월 $7 또는 연 $50의 구독 서비스를 시작  
   - 혜택: 광고 감소, 무제한 기사 열람, 독점 뉴스레터 구독, 독립적인 기술 저널리즘 지원  
-  -...</a></div><div class="topicinfo"><span id="tp18086">2</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18086"></span> | <a href="topic?id=18086" class="u">댓글 1개</a></div>]]></content>
+  -...</a></div><div class="topicinfo"><span id="tp18086">2</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18086"></span> | <a href="topic?id=18086" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Better Auth - TypeScript용 포괄적인 Auth 프레임워크]]></title>
@@ -105,7 +105,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://news.hada.io/topic?id=18078"/>
         <updated>2024-12-03T03:03:05.935Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18078"><a class="upvote" href="javascript:vote(18078, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/blog/engineering/generative-ai/behind-the-platform-the-journey-to-create-the-linkedin-genai-application-tech-stack" rel="nofollow" id="tr12"><h1>LinkedIn의 GenAI 애플리케이션 기술 스택 개발 과정</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18078" class="c99 breakall">- 2023년 초, LinkedIn은 GenAI 기능을 활용하는 제품 포트폴리오를 출시하기 시작함  
-- 초기 GenAI 제품은 간단한 "프롬프트 입력, 문자열 출력...</a></div><div class="topicinfo"><span id="tp18078">5</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18078"></span> | <a href="topic?id=18078" class="u">댓글과 토론</a></div>]]></content>
+- 초기 GenAI 제품은 간단한 "프롬프트 입력, 문자열 출력...</a></div><div class="topicinfo"><span id="tp18078">5</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18078"></span> | <a href="topic?id=18078" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grab, LLM-Kit으로 LLM 어플리케이션 개발 가속화]]></title>
@@ -113,7 +113,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://news.hada.io/topic?id=18076"/>
         <updated>2024-12-03T01:16:01.707Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18076"><a class="upvote" href="javascript:vote(18076, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://engineering.grab.com/supercharging-llm-application-development-with-llm-kit" rel="nofollow" id="tr13"><h1>Grab, LLM-Kit으로 LLM 어플리케이션 개발 가속화</h1></a> <span class="topicurl">(engineering.grab.com)</span></div><div class="topicdesc"><a href="topic?id=18076" class="c99 breakall">- Grab의 LLM-Kit은 프로덕션 레벨의 Generative AI 어플리케이션 설정을 가속화할 수 있게 설계된 프레임워크  
-- 민감한 데이터를 다루는 AI 어...</a></div><div class="topicinfo"><span id="tp18076">5</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18076"></span> | <a href="topic?id=18076" class="u">댓글과 토론</a></div>]]></content>
+- 민감한 데이터를 다루는 AI 어...</a></div><div class="topicinfo"><span id="tp18076">5</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18076"></span> | <a href="topic?id=18076" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Uber의 프롬프트 엔지니어링 툴킷]]></title>
@@ -121,7 +121,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://news.hada.io/topic?id=18070"/>
         <updated>2024-12-03T01:16:01.707Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18070"><a class="upvote" href="javascript:vote(18070, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.uber.com/en-KR/blog/introducing-the-prompt-engineering-toolkit/" rel="nofollow" id="tr14"><h1>Uber의 프롬프트 엔지니어링 툴킷</h1></a> <span class="topicurl">(uber.com)</span></div><div class="topicdesc"><a href="topic?id=18070" class="c99 breakall">- LLM의 정확하고 적합한 출력 확보를 위해서는 정교한 프롬프트 디자인이 필수적임  
-- 프롬프트 디자인은 머신러닝에 익숙하지 않은 사용자도 ...</a></div><div class="topicinfo"><span id="tp18070">19</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18070"></span> | <a href="topic?id=18070" class="u">댓글과 토론</a></div>]]></content>
+- 프롬프트 디자인은 머신러닝에 익숙하지 않은 사용자도 ...</a></div><div class="topicinfo"><span id="tp18070">19</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18070"></span> | <a href="topic?id=18070" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 셀렉트 어드민 - 선언적 방식(YAML)으로 관리자 UI, API 만들어주는 프로젝트]]></title>
