@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-10T17:15:24.129Z</updated>
+    <updated>2024-12-10T18:23:25.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기 (GeekNews ─ 메인)]]></title>
@@ -10,26 +10,26 @@
         <link href="https://news.hada.io/topic?id=18178"/>
         <updated>2024-12-10T01:17:14.074Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18178"><a class="upvote" href="javascript:vote(18178, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql" rel="nofollow" id="tr1"><h1>VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기</h1></a> <span class="topicurl">(blog.pgvecto.rs)</span></div><div class="topicdesc"><a href="topic?id=18178" class="c99 breakall">- 대규모 벡터를 비용 효율적으로 관리하기 위한 PostgreSQL용 새로운 벡터 검색 확장  
-- 768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS...</a></div><div class="topicinfo"><span id="tp18178">14</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote18178"></span> | <a href="topic?id=18178" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18189</id>
-        <link href="https://news.hada.io/topic?id=18189"/>
-        <updated>2024-12-10T03:02:37.340Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr2"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
-  
-## 주요 특징  
-- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 15시간전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
+- 768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS...</a></div><div class="topicinfo"><span id="tp18178">14</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote18178"></span> | <a href="topic?id=18178" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025년을 위한 7개의 데이터베이스 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18153</id>
         <link href="https://news.hada.io/topic?id=18153"/>
         <updated>2024-12-09T01:18:16.734Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18153"><a class="upvote" href="javascript:vote(18153, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025" rel="nofollow" id="tr3"><h1>2025년을 위한 7개의 데이터베이스</h1></a> <span class="topicurl">(matt.blwt.io)</span></div><div class="topicdesc"><a href="topic?id=18153" class="c99 breakall">- 다양한 문제를 해결하기 위해 주목할 가치가 있는 DB 7개를 소개  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18153"><a class="upvote" href="javascript:vote(18153, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025" rel="nofollow" id="tr2"><h1>2025년을 위한 7개의 데이터베이스</h1></a> <span class="topicurl">(matt.blwt.io)</span></div><div class="topicdesc"><a href="topic?id=18153" class="c99 breakall">- 다양한 문제를 해결하기 위해 주목할 가치가 있는 DB 7개를 소개  
 - 이는 "최고의 DB" 목록이 아닌, 새롭고 유용한 관점을 제공하는 도구들  
 ...</a></div><div class="topicinfo"><span id="tp18153">36</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18153"></span> | <a href="topic?id=18153" class="u">댓글 10개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18189</id>
+        <link href="https://news.hada.io/topic?id=18189"/>
+        <updated>2024-12-10T03:02:37.340Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr3"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
+  
+## 주요 특징  
+- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 16시간전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Google의 최첨단 양자(quantum) 칩, Willow (GeekNews ─ 메인)]]></title>
@@ -37,7 +37,7 @@
         <link href="https://news.hada.io/topic?id=18182"/>
         <updated>2024-12-10T03:02:37.329Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18182"><a class="upvote" href="javascript:vote(18182, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/research/google-willow-quantum-chip/" rel="nofollow" id="tr4"><h1>GN⁺: Google의 최첨단 양자(quantum) 칩, Willow</h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18182" class="c99 breakall">- Google이 새롭게 개발한 양자 칩 **Willow**는 **오류율 감소**와 **성능 향상**을 통해 대규모 양자 컴퓨터 구축에 한 발짝 더 다가섬  
-- Wil...</a></div><div class="topicinfo"><span id="tp18182">10</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote18182"></span> | <a href="topic?id=18182" class="u">댓글 1개</a></div>]]></content>
+- Wil...</a></div><div class="topicinfo"><span id="tp18182">10</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18182"></span> | <a href="topic?id=18182" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Google의 AI 날씨 예측 모델 GenCast는 꽤 훌륭함 (GeekNews ─ 메인)]]></title>
@@ -45,7 +45,7 @@
         <link href="https://news.hada.io/topic?id=18179"/>
         <updated>2024-12-10T03:02:37.330Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18179"><a class="upvote" href="javascript:vote(18179, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast" rel="nofollow" id="tr5"><h1>GN⁺: Google의 AI 날씨 예측 모델 GenCast는 꽤 훌륭함</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=18179" class="c99 breakall">- Google DeepMind의 **GenCast**는 전통적인 날씨 예측 시스템과 비교할 만한 정확성을 가짐  
-- 최근 연구에 따르면, GenCast는 2019년 데이터...</a></div><div class="topicinfo"><span id="tp18179">9</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18179"></span> | <a href="topic?id=18179" class="u">댓글과 토론</a></div>]]></content>
+- 최근 연구에 따르면, GenCast는 2019년 데이터...</a></div><div class="topicinfo"><span id="tp18179">9</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18179"></span> | <a href="topic?id=18179" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 꼭 봐야 할 기술관련 TED 강연들 (GeekNews ─ 메인)]]></title>
@@ -62,7 +62,7 @@
         <link href="https://news.hada.io/topic?id=18177"/>
         <updated>2024-12-10T01:17:14.074Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18177"><a class="upvote" href="javascript:vote(18177, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/" rel="nofollow" id="tr7"><h1>Raspberry Pi 5, Valve Steam Link 지원</h1></a> <span class="topicurl">(raspberrypi.com)</span></div><div class="topicdesc"><a href="topic?id=18177" class="c99 breakall">- Raspberry Pi Connect로 라즈베리 파이를 어디서나 원격으로 제어할 수 있게 되었음  
-- Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, ...</a></div><div class="topicinfo"><span id="tp18177">7</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote18177"></span> | <a href="topic?id=18177" class="u">댓글 2개</a></div>]]></content>
+- Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, ...</a></div><div class="topicinfo"><span id="tp18177">7</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote18177"></span> | <a href="topic?id=18177" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 연구: 온라인에서 부정적인 콘텐츠를 접하면 정신 건강이 악화됩니다 (GeekNews ─ 메인)]]></title>
@@ -70,7 +70,7 @@
         <link href="https://news.hada.io/topic?id=18176"/>
         <updated>2024-12-10T01:17:14.082Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18176"><a class="upvote" href="javascript:vote(18176, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205" rel="nofollow" id="tr8"><h1>GN⁺: 연구: 온라인에서 부정적인 콘텐츠를 접하면 정신 건강이 악화됩니다</h1></a> <span class="topicurl">(news.mit.edu)</span></div><div class="topicdesc"><a href="topic?id=18176" class="c99 breakall">- **정신 건강에 어려움을 겪는 사람**은 부정적 콘텐츠를 더 많이 열람하는 경향이 있으며, 이러한 콘텐츠가 증상을 더욱 악화시킴  
-- MIT의 연...</a></div><div class="topicinfo"><span id="tp18176">6</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18176"></span> | <a href="topic?id=18176" class="u">댓글 1개</a></div>]]></content>
+- MIT의 연...</a></div><div class="topicinfo"><span id="tp18176">6</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18176"></span> | <a href="topic?id=18176" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년에 내가 배운 52가지 (GeekNews ─ 메인)]]></title>
@@ -94,7 +94,7 @@
         <link href="https://news.hada.io/topic?id=18181"/>
         <updated>2024-12-10T03:02:37.330Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18181"><a class="upvote" href="javascript:vote(18181, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/sora-is-here/" rel="nofollow" id="tr11"><h1>GN⁺: OpenAI, Sora 출시</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=18181" class="c99 breakall">- Sora는 텍스트에서 현실감 있는 비디오를 생성하는 모델로, **현실 이해 및 시뮬레이션**을 목표로 개발됨  
-- 새로운 버전 **Sora Turbo**는 ...</a></div><div class="topicinfo"><span id="tp18181">5</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18181"></span> | <a href="topic?id=18181" class="u">댓글 1개</a></div>]]></content>
+- 새로운 버전 **Sora Turbo**는 ...</a></div><div class="topicinfo"><span id="tp18181">5</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18181"></span> | <a href="topic?id=18181" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [작은 앱 프로젝트] 윤슬 가계부: 아이폰, 아이패드, 맥 가계부 앱 (Mac Catalyst 사용 사례) (GeekNews ─ 메인)]]></title>
@@ -105,7 +105,7 @@
   
 📌 작은 앱 프로젝트  
   
-모든 앱들이 점점 더 복잡해지...</a></div><div class="topicinfo"><span id="tp18190">3</span> points by <a href="/user?id=plant">plant</a> 12시간전<span id="unvote18190"></span> | <a href="topic?id=18190" class="u">댓글과 토론</a></div>]]></content>
+모든 앱들이 점점 더 복잡해지...</a></div><div class="topicinfo"><span id="tp18190">3</span> points by <a href="/user?id=plant">plant</a> 13시간전<span id="unvote18190"></span> | <a href="topic?id=18190" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 왜 Pat Gelsinger는 Intel에 적합하지 않았는가 (GeekNews ─ 메인)]]></title>
@@ -113,7 +113,7 @@
         <link href="https://news.hada.io/topic?id=18184"/>
         <updated>2024-12-10T03:02:37.340Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18184"><a class="upvote" href="javascript:vote(18184, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/" rel="nofollow" id="tr13"><h1>GN⁺: 왜 Pat Gelsinger는 Intel에 적합하지 않았는가</h1></a> <span class="topicurl">(bcantrill.dtrace.org)</span></div><div class="topicdesc"><a href="topic?id=18184" class="c99 breakall">- Pat Gelsinger는 기술적으로 뛰어나고 근면하며 훌륭한 관리자로 평가받음  
-- 그러나 Intel의 CEO로서 그의 리더십은 회사의 *문화적 문제*를 ...</a></div><div class="topicinfo"><span id="tp18184">4</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote18184"></span> | <a href="topic?id=18184" class="u">댓글 2개</a></div>]]></content>
+- 그러나 Intel의 CEO로서 그의 리더십은 회사의 *문화적 문제*를 ...</a></div><div class="topicinfo"><span id="tp18184">4</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18184"></span> | <a href="topic?id=18184" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 신임 관리자로서 저지를 수 있는 6가지 실수 (GeekNews ─ 메인)]]></title>
@@ -125,37 +125,37 @@
 - ...</a></div><div class="topicinfo"><span id="tp18147">22</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote18147"></span> | <a href="topic?id=18147" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요? (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18191</id>
-        <link href="https://news.hada.io/topic?id=18191"/>
-        <updated>2024-12-10T09:17:43.432Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18191"><a class="upvote" href="javascript:vote(18191, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/" rel="nofollow" id="tr15"><h1> 긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=18191" class="c99 breakall">긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의...</a></div><div class="topicinfo"><span id="tp18191">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 9시간전<span id="unvote18191"></span> | <a href="topic?id=18191" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: JSON5 - 인간을 위한 JSON (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18171</id>
         <link href="https://news.hada.io/topic?id=18171"/>
         <updated>2024-12-10T01:17:14.085Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18171"><a class="upvote" href="javascript:vote(18171, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://json5.org/" rel="nofollow" id="tr16"><h1>GN⁺: JSON5 - 인간을 위한 JSON</h1></a> <span class="topicurl">(json5.org)</span></div><div class="topicdesc"><a href="topic?id=18171" class="c99 breakall">- JSON5는 JSON 파일 형식을 확장하여 사람이 직접 작성하고 유지보수하기 쉽게 만든 형식  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18171"><a class="upvote" href="javascript:vote(18171, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://json5.org/" rel="nofollow" id="tr15"><h1>GN⁺: JSON5 - 인간을 위한 JSON</h1></a> <span class="topicurl">(json5.org)</span></div><div class="topicdesc"><a href="topic?id=18171" class="c99 breakall">- JSON5는 JSON 파일 형식을 확장하여 사람이 직접 작성하고 유지보수하기 쉽게 만든 형식  
   - 기계 간 통신을 위한 용도로는 사용되지 않음  
 ...</a></div><div class="topicinfo"><span id="tp18171">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18171"></span> | <a href="topic?id=18171" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terrateam - 오픈소스 GitOps CI/CD 플랫폼 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18154</id>
-        <link href="https://news.hada.io/topic?id=18154"/>
-        <updated>2024-12-09T01:18:16.735Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18154"><a class="upvote" href="javascript:vote(18154, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/terrateamio/terrateam" rel="nofollow" id="tr17"><h1>Terrateam - 오픈소스 GitOps CI/CD 플랫폼</h1></a> <span class="topicurl">(github.com/terrateamio)</span></div><div class="topicdesc"><a href="topic?id=18154" class="c99 breakall">- GitHub 기반 인프라 워크플로 자동화를 지원하는 GitOps CI/CD 플랫폼  
-- Terraform, OpenTofu, CDKTF, 및 Terragrunt 작업을 pull request를 ...</a></div><div class="topicinfo"><span id="tp18154">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18154"></span> | <a href="topic?id=18154" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요? (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18191</id>
+        <link href="https://news.hada.io/topic?id=18191"/>
+        <updated>2024-12-10T09:17:43.432Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18191"><a class="upvote" href="javascript:vote(18191, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/" rel="nofollow" id="tr16"><h1> 긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=18191" class="c99 breakall">긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의...</a></div><div class="topicinfo"><span id="tp18191">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 10시간전<span id="unvote18191"></span> | <a href="topic?id=18191" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18131</id>
         <link href="https://news.hada.io/topic?id=18131"/>
         <updated>2024-12-07T02:57:58.860Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18131"><a class="upvote" href="javascript:vote(18131, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://addyo.substack.com/p/the-70-problem-hard-truths-about" rel="nofollow" id="tr18"><h1>GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실</h1></a> <span class="topicurl">(addyo.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18131" class="c99 breakall">- 개발자들이 AI를 활용하는 두 가지 주요 패턴이 있음  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18131"><a class="upvote" href="javascript:vote(18131, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://addyo.substack.com/p/the-70-problem-hard-truths-about" rel="nofollow" id="tr17"><h1>GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실</h1></a> <span class="topicurl">(addyo.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18131" class="c99 breakall">- 개발자들이 AI를 활용하는 두 가지 주요 패턴이 있음  
   - **부트스트래퍼**:   
     - Bolt, v0, screenshot-to-code AI 같은 도구를 사용하...</a></div><div class="topicinfo"><span id="tp18131">22</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote18131"></span> | <a href="topic?id=18131" class="u">댓글 12개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terrateam - 오픈소스 GitOps CI/CD 플랫폼 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18154</id>
+        <link href="https://news.hada.io/topic?id=18154"/>
+        <updated>2024-12-09T01:18:16.735Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18154"><a class="upvote" href="javascript:vote(18154, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/terrateamio/terrateam" rel="nofollow" id="tr18"><h1>Terrateam - 오픈소스 GitOps CI/CD 플랫폼</h1></a> <span class="topicurl">(github.com/terrateamio)</span></div><div class="topicdesc"><a href="topic?id=18154" class="c99 breakall">- GitHub 기반 인프라 워크플로 자동화를 지원하는 GitOps CI/CD 플랫폼  
+- Terraform, OpenTofu, CDKTF, 및 Terragrunt 작업을 pull request를 ...</a></div><div class="topicinfo"><span id="tp18154">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18154"></span> | <a href="topic?id=18154" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ollama, 구조화된 출력 지원 (GeekNews ─ 메인)]]></title>
@@ -180,26 +180,26 @@
         <link href="https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql"/>
         <updated>2024-12-10T01:17:18.742Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18178"><a class="upvote" href="javascript:vote(18178, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql" rel="nofollow" id="tr1"><h1>VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기</h1></a> <span class="topicurl">(blog.pgvecto.rs)</span></div><div class="topicdesc"><a href="topic?id=18178" class="c99 breakall">- 대규모 벡터를 비용 효율적으로 관리하기 위한 PostgreSQL용 새로운 벡터 검색 확장  
-- 768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS...</a></div><div class="topicinfo"><span id="tp18178">14</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote18178"></span> | <a href="topic?id=18178" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://gosuda.org/randflake</id>
-        <link href="https://gosuda.org/randflake"/>
-        <updated>2024-12-10T03:02:42.072Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr2"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
-  
-## 주요 특징  
-- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 15시간전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
+- 768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS...</a></div><div class="topicinfo"><span id="tp18178">14</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote18178"></span> | <a href="topic?id=18178" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025년을 위한 7개의 데이터베이스 (GeekNews ─ 메인 원문)]]></title>
         <id>https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025</id>
         <link href="https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025"/>
         <updated>2024-12-09T01:18:21.481Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18153"><a class="upvote" href="javascript:vote(18153, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025" rel="nofollow" id="tr3"><h1>2025년을 위한 7개의 데이터베이스</h1></a> <span class="topicurl">(matt.blwt.io)</span></div><div class="topicdesc"><a href="topic?id=18153" class="c99 breakall">- 다양한 문제를 해결하기 위해 주목할 가치가 있는 DB 7개를 소개  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18153"><a class="upvote" href="javascript:vote(18153, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025" rel="nofollow" id="tr2"><h1>2025년을 위한 7개의 데이터베이스</h1></a> <span class="topicurl">(matt.blwt.io)</span></div><div class="topicdesc"><a href="topic?id=18153" class="c99 breakall">- 다양한 문제를 해결하기 위해 주목할 가치가 있는 DB 7개를 소개  
 - 이는 "최고의 DB" 목록이 아닌, 새롭고 유용한 관점을 제공하는 도구들  
 ...</a></div><div class="topicinfo"><span id="tp18153">36</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18153"></span> | <a href="topic?id=18153" class="u">댓글 10개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://gosuda.org/randflake</id>
+        <link href="https://gosuda.org/randflake"/>
+        <updated>2024-12-10T03:02:42.072Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr3"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
+  
+## 주요 특징  
+- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 16시간전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Google의 최첨단 양자(quantum) 칩, Willow (GeekNews ─ 메인 원문)]]></title>
@@ -207,7 +207,7 @@
         <link href="https://blog.google/technology/research/google-willow-quantum-chip/"/>
         <updated>2024-12-10T03:02:42.038Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18182"><a class="upvote" href="javascript:vote(18182, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/research/google-willow-quantum-chip/" rel="nofollow" id="tr4"><h1>GN⁺: Google의 최첨단 양자(quantum) 칩, Willow</h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18182" class="c99 breakall">- Google이 새롭게 개발한 양자 칩 **Willow**는 **오류율 감소**와 **성능 향상**을 통해 대규모 양자 컴퓨터 구축에 한 발짝 더 다가섬  
-- Wil...</a></div><div class="topicinfo"><span id="tp18182">10</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote18182"></span> | <a href="topic?id=18182" class="u">댓글 1개</a></div>]]></content>
+- Wil...</a></div><div class="topicinfo"><span id="tp18182">10</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18182"></span> | <a href="topic?id=18182" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Google의 AI 날씨 예측 모델 GenCast는 꽤 훌륭함 (GeekNews ─ 메인 원문)]]></title>
@@ -215,7 +215,7 @@
         <link href="https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast"/>
         <updated>2024-12-10T03:02:42.055Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18179"><a class="upvote" href="javascript:vote(18179, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast" rel="nofollow" id="tr5"><h1>GN⁺: Google의 AI 날씨 예측 모델 GenCast는 꽤 훌륭함</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=18179" class="c99 breakall">- Google DeepMind의 **GenCast**는 전통적인 날씨 예측 시스템과 비교할 만한 정확성을 가짐  
-- 최근 연구에 따르면, GenCast는 2019년 데이터...</a></div><div class="topicinfo"><span id="tp18179">9</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18179"></span> | <a href="topic?id=18179" class="u">댓글과 토론</a></div>]]></content>
+- 최근 연구에 따르면, GenCast는 2019년 데이터...</a></div><div class="topicinfo"><span id="tp18179">9</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18179"></span> | <a href="topic?id=18179" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 꼭 봐야 할 기술관련 TED 강연들 (GeekNews ─ 메인 원문)]]></title>
@@ -232,7 +232,7 @@
         <link href="https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/"/>
         <updated>2024-12-10T01:17:18.745Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18177"><a class="upvote" href="javascript:vote(18177, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/" rel="nofollow" id="tr7"><h1>Raspberry Pi 5, Valve Steam Link 지원</h1></a> <span class="topicurl">(raspberrypi.com)</span></div><div class="topicdesc"><a href="topic?id=18177" class="c99 breakall">- Raspberry Pi Connect로 라즈베리 파이를 어디서나 원격으로 제어할 수 있게 되었음  
-- Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, ...</a></div><div class="topicinfo"><span id="tp18177">7</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote18177"></span> | <a href="topic?id=18177" class="u">댓글 2개</a></div>]]></content>
+- Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, ...</a></div><div class="topicinfo"><span id="tp18177">7</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote18177"></span> | <a href="topic?id=18177" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 연구: 온라인에서 부정적인 콘텐츠를 접하면 정신 건강이 악화됩니다 (GeekNews ─ 메인 원문)]]></title>
@@ -240,7 +240,7 @@
         <link href="https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205"/>
         <updated>2024-12-10T01:17:18.749Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18176"><a class="upvote" href="javascript:vote(18176, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205" rel="nofollow" id="tr8"><h1>GN⁺: 연구: 온라인에서 부정적인 콘텐츠를 접하면 정신 건강이 악화됩니다</h1></a> <span class="topicurl">(news.mit.edu)</span></div><div class="topicdesc"><a href="topic?id=18176" class="c99 breakall">- **정신 건강에 어려움을 겪는 사람**은 부정적 콘텐츠를 더 많이 열람하는 경향이 있으며, 이러한 콘텐츠가 증상을 더욱 악화시킴  
-- MIT의 연...</a></div><div class="topicinfo"><span id="tp18176">6</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18176"></span> | <a href="topic?id=18176" class="u">댓글 1개</a></div>]]></content>
+- MIT의 연...</a></div><div class="topicinfo"><span id="tp18176">6</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18176"></span> | <a href="topic?id=18176" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년에 내가 배운 52가지 (GeekNews ─ 메인 원문)]]></title>
@@ -264,7 +264,7 @@
         <link href="https://openai.com/index/sora-is-here/"/>
         <updated>2024-12-10T03:02:42.047Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18181"><a class="upvote" href="javascript:vote(18181, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/sora-is-here/" rel="nofollow" id="tr11"><h1>GN⁺: OpenAI, Sora 출시</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=18181" class="c99 breakall">- Sora는 텍스트에서 현실감 있는 비디오를 생성하는 모델로, **현실 이해 및 시뮬레이션**을 목표로 개발됨  
-- 새로운 버전 **Sora Turbo**는 ...</a></div><div class="topicinfo"><span id="tp18181">5</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18181"></span> | <a href="topic?id=18181" class="u">댓글 1개</a></div>]]></content>
+- 새로운 버전 **Sora Turbo**는 ...</a></div><div class="topicinfo"><span id="tp18181">5</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18181"></span> | <a href="topic?id=18181" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [작은 앱 프로젝트] 윤슬 가계부: 아이폰, 아이패드, 맥 가계부 앱 (Mac Catalyst 사용 사례) (GeekNews ─ 메인 원문)]]></title>
@@ -275,7 +275,7 @@
   
 📌 작은 앱 프로젝트  
   
-모든 앱들이 점점 더 복잡해지...</a></div><div class="topicinfo"><span id="tp18190">3</span> points by <a href="/user?id=plant">plant</a> 12시간전<span id="unvote18190"></span> | <a href="topic?id=18190" class="u">댓글과 토론</a></div>]]></content>
+모든 앱들이 점점 더 복잡해지...</a></div><div class="topicinfo"><span id="tp18190">3</span> points by <a href="/user?id=plant">plant</a> 13시간전<span id="unvote18190"></span> | <a href="topic?id=18190" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 왜 Pat Gelsinger는 Intel에 적합하지 않았는가 (GeekNews ─ 메인 원문)]]></title>
@@ -283,7 +283,7 @@
         <link href="https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/"/>
         <updated>2024-12-10T03:02:42.061Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18184"><a class="upvote" href="javascript:vote(18184, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/" rel="nofollow" id="tr13"><h1>GN⁺: 왜 Pat Gelsinger는 Intel에 적합하지 않았는가</h1></a> <span class="topicurl">(bcantrill.dtrace.org)</span></div><div class="topicdesc"><a href="topic?id=18184" class="c99 breakall">- Pat Gelsinger는 기술적으로 뛰어나고 근면하며 훌륭한 관리자로 평가받음  
-- 그러나 Intel의 CEO로서 그의 리더십은 회사의 *문화적 문제*를 ...</a></div><div class="topicinfo"><span id="tp18184">4</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote18184"></span> | <a href="topic?id=18184" class="u">댓글 2개</a></div>]]></content>
+- 그러나 Intel의 CEO로서 그의 리더십은 회사의 *문화적 문제*를 ...</a></div><div class="topicinfo"><span id="tp18184">4</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18184"></span> | <a href="topic?id=18184" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 신임 관리자로서 저지를 수 있는 6가지 실수 (GeekNews ─ 메인 원문)]]></title>
@@ -295,37 +295,37 @@
 - ...</a></div><div class="topicinfo"><span id="tp18147">22</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote18147"></span> | <a href="topic?id=18147" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요? (GeekNews ─ 메인 원문)]]></title>
-        <id>https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/</id>
-        <link href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/"/>
-        <updated>2024-12-10T09:17:48.406Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18191"><a class="upvote" href="javascript:vote(18191, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/" rel="nofollow" id="tr15"><h1> 긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=18191" class="c99 breakall">긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의...</a></div><div class="topicinfo"><span id="tp18191">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 9시간전<span id="unvote18191"></span> | <a href="topic?id=18191" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: JSON5 - 인간을 위한 JSON (GeekNews ─ 메인 원문)]]></title>
         <id>https://json5.org/</id>
         <link href="https://json5.org/"/>
         <updated>2024-12-10T01:17:18.755Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18171"><a class="upvote" href="javascript:vote(18171, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://json5.org/" rel="nofollow" id="tr16"><h1>GN⁺: JSON5 - 인간을 위한 JSON</h1></a> <span class="topicurl">(json5.org)</span></div><div class="topicdesc"><a href="topic?id=18171" class="c99 breakall">- JSON5는 JSON 파일 형식을 확장하여 사람이 직접 작성하고 유지보수하기 쉽게 만든 형식  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18171"><a class="upvote" href="javascript:vote(18171, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://json5.org/" rel="nofollow" id="tr15"><h1>GN⁺: JSON5 - 인간을 위한 JSON</h1></a> <span class="topicurl">(json5.org)</span></div><div class="topicdesc"><a href="topic?id=18171" class="c99 breakall">- JSON5는 JSON 파일 형식을 확장하여 사람이 직접 작성하고 유지보수하기 쉽게 만든 형식  
   - 기계 간 통신을 위한 용도로는 사용되지 않음  
 ...</a></div><div class="topicinfo"><span id="tp18171">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18171"></span> | <a href="topic?id=18171" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terrateam - 오픈소스 GitOps CI/CD 플랫폼 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://github.com/terrateamio/terrateam</id>
-        <link href="https://github.com/terrateamio/terrateam"/>
-        <updated>2024-12-09T01:18:21.481Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18154"><a class="upvote" href="javascript:vote(18154, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/terrateamio/terrateam" rel="nofollow" id="tr17"><h1>Terrateam - 오픈소스 GitOps CI/CD 플랫폼</h1></a> <span class="topicurl">(github.com/terrateamio)</span></div><div class="topicdesc"><a href="topic?id=18154" class="c99 breakall">- GitHub 기반 인프라 워크플로 자동화를 지원하는 GitOps CI/CD 플랫폼  
-- Terraform, OpenTofu, CDKTF, 및 Terragrunt 작업을 pull request를 ...</a></div><div class="topicinfo"><span id="tp18154">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18154"></span> | <a href="topic?id=18154" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요? (GeekNews ─ 메인 원문)]]></title>
+        <id>https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/</id>
+        <link href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/"/>
+        <updated>2024-12-10T09:17:48.406Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18191"><a class="upvote" href="javascript:vote(18191, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/" rel="nofollow" id="tr16"><h1> 긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=18191" class="c99 breakall">긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의...</a></div><div class="topicinfo"><span id="tp18191">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 10시간전<span id="unvote18191"></span> | <a href="topic?id=18191" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실 (GeekNews ─ 메인 원문)]]></title>
         <id>https://addyo.substack.com/p/the-70-problem-hard-truths-about</id>
         <link href="https://addyo.substack.com/p/the-70-problem-hard-truths-about"/>
         <updated>2024-12-07T02:58:03.546Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18131"><a class="upvote" href="javascript:vote(18131, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://addyo.substack.com/p/the-70-problem-hard-truths-about" rel="nofollow" id="tr18"><h1>GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실</h1></a> <span class="topicurl">(addyo.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18131" class="c99 breakall">- 개발자들이 AI를 활용하는 두 가지 주요 패턴이 있음  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18131"><a class="upvote" href="javascript:vote(18131, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://addyo.substack.com/p/the-70-problem-hard-truths-about" rel="nofollow" id="tr17"><h1>GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실</h1></a> <span class="topicurl">(addyo.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18131" class="c99 breakall">- 개발자들이 AI를 활용하는 두 가지 주요 패턴이 있음  
   - **부트스트래퍼**:   
     - Bolt, v0, screenshot-to-code AI 같은 도구를 사용하...</a></div><div class="topicinfo"><span id="tp18131">22</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote18131"></span> | <a href="topic?id=18131" class="u">댓글 12개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terrateam - 오픈소스 GitOps CI/CD 플랫폼 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://github.com/terrateamio/terrateam</id>
+        <link href="https://github.com/terrateamio/terrateam"/>
+        <updated>2024-12-09T01:18:21.481Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18154"><a class="upvote" href="javascript:vote(18154, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/terrateamio/terrateam" rel="nofollow" id="tr18"><h1>Terrateam - 오픈소스 GitOps CI/CD 플랫폼</h1></a> <span class="topicurl">(github.com/terrateamio)</span></div><div class="topicdesc"><a href="topic?id=18154" class="c99 breakall">- GitHub 기반 인프라 워크플로 자동화를 지원하는 GitOps CI/CD 플랫폼  
+- Terraform, OpenTofu, CDKTF, 및 Terragrunt 작업을 pull request를 ...</a></div><div class="topicinfo"><span id="tp18154">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18154"></span> | <a href="topic?id=18154" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ollama, 구조화된 출력 지원 (GeekNews ─ 메인 원문)]]></title>
@@ -349,7 +349,7 @@
         <id>https://news.hada.io/topic?id=18191</id>
         <link href="https://news.hada.io/topic?id=18191"/>
         <updated>2024-12-10T09:17:43.432Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18191"><a class="upvote" href="javascript:vote(18191, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/" rel="nofollow" id="tr1"><h1> 긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=18191" class="c99 breakall">긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의...</a></div><div class="topicinfo"><span id="tp18191">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 9시간전<span id="unvote18191"></span> | <a href="topic?id=18191" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18191"><a class="upvote" href="javascript:vote(18191, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/" rel="nofollow" id="tr1"><h1> 긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=18191" class="c99 breakall">긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의...</a></div><div class="topicinfo"><span id="tp18191">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 10시간전<span id="unvote18191"></span> | <a href="topic?id=18191" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [작은 앱 프로젝트] 윤슬 가계부: 아이폰, 아이패드, 맥 가계부 앱 (Mac Catalyst 사용 사례) (GeekNews ─ 최신글)]]></title>
@@ -360,7 +360,7 @@
   
 📌 작은 앱 프로젝트  
   
-모든 앱들이 점점 더 복잡해지...</a></div><div class="topicinfo"><span id="tp18190">3</span> points by <a href="/user?id=plant">plant</a> 12시간전<span id="unvote18190"></span> | <a href="topic?id=18190" class="u">댓글과 토론</a></div>]]></content>
+모든 앱들이 점점 더 복잡해지...</a></div><div class="topicinfo"><span id="tp18190">3</span> points by <a href="/user?id=plant">plant</a> 13시간전<span id="unvote18190"></span> | <a href="topic?id=18190" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 최신글)]]></title>
@@ -370,7 +370,7 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr3"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
   
 ## 주요 특징  
-- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 15시간전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
+- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 16시간전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기 (GeekNews ─ 최신글)]]></title>
@@ -378,7 +378,7 @@
         <link href="https://news.hada.io/topic?id=18178"/>
         <updated>2024-12-10T01:17:14.074Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18178"><a class="upvote" href="javascript:vote(18178, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql" rel="nofollow" id="tr4"><h1>VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기</h1></a> <span class="topicurl">(blog.pgvecto.rs)</span></div><div class="topicdesc"><a href="topic?id=18178" class="c99 breakall">- 대규모 벡터를 비용 효율적으로 관리하기 위한 PostgreSQL용 새로운 벡터 검색 확장  
-- 768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS...</a></div><div class="topicinfo"><span id="tp18178">14</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote18178"></span> | <a href="topic?id=18178" class="u">댓글 1개</a></div>]]></content>
+- 768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS...</a></div><div class="topicinfo"><span id="tp18178">14</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote18178"></span> | <a href="topic?id=18178" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Raspberry Pi 5, Valve Steam Link 지원 (GeekNews ─ 최신글)]]></title>
@@ -386,7 +386,7 @@
         <link href="https://news.hada.io/topic?id=18177"/>
         <updated>2024-12-10T01:17:14.074Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18177"><a class="upvote" href="javascript:vote(18177, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/" rel="nofollow" id="tr5"><h1>Raspberry Pi 5, Valve Steam Link 지원</h1></a> <span class="topicurl">(raspberrypi.com)</span></div><div class="topicdesc"><a href="topic?id=18177" class="c99 breakall">- Raspberry Pi Connect로 라즈베리 파이를 어디서나 원격으로 제어할 수 있게 되었음  
-- Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, ...</a></div><div class="topicinfo"><span id="tp18177">7</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote18177"></span> | <a href="topic?id=18177" class="u">댓글 2개</a></div>]]></content>
+- Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, ...</a></div><div class="topicinfo"><span id="tp18177">7</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote18177"></span> | <a href="topic?id=18177" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NAVIX - 네이버에서 만든 리눅스 배포판 (GeekNews ─ 최신글)]]></title>
@@ -462,7 +462,7 @@
         <link href="https://news.hada.io/topic?id=18128"/>
         <updated>2024-12-06T06:23:07.482Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18128"><a class="upvote" href="javascript:vote(18128, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://react.dev/blog/2024/12/05/react-19" rel="nofollow" id="tr14"><h1>React v19 - Actions, Server Components, Hydration 에러 개선, Document Metadata 지원 등</h1></a> <span class="topicurl">(react.dev)</span></div><div class="topicdesc"><a href="topic?id=18128" class="c99 breakall">### 새로운 API 및 기능  
-- **Actions**: 데이터 변경과 상태 업데이트를 자동으로 처리. 대기 상태, 에러, optimistic update 등을 자동 관리  ...</a></div><div class="topicinfo"><span id="tp18128">11</span> points by <a href="/user?id=ssssut">ssssut</a> 4일전<span id="unvote18128"></span> | <a href="topic?id=18128" class="u">댓글 1개</a></div>]]></content>
+- **Actions**: 데이터 변경과 상태 업데이트를 자동으로 처리. 대기 상태, 에러, optimistic update 등을 자동 관리  ...</a></div><div class="topicinfo"><span id="tp18128">11</span> points by <a href="/user?id=ssssut">ssssut</a> 5일전<span id="unvote18128"></span> | <a href="topic?id=18128" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flow - AI 에이전트 제작을 위한 경량 태스크 엔진 (GeekNews ─ 최신글)]]></title>
@@ -518,26 +518,26 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql"/>
         <updated>2024-12-10T01:17:18.742Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18178"><a class="upvote" href="javascript:vote(18178, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql" rel="nofollow" id="tr1"><h1>VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기</h1></a> <span class="topicurl">(blog.pgvecto.rs)</span></div><div class="topicdesc"><a href="topic?id=18178" class="c99 breakall">- 대규모 벡터를 비용 효율적으로 관리하기 위한 PostgreSQL용 새로운 벡터 검색 확장  
-- 768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS...</a></div><div class="topicinfo"><span id="tp18178">14</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote18178"></span> | <a href="topic?id=18178" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://gosuda.org/randflake</id>
-        <link href="https://gosuda.org/randflake"/>
-        <updated>2024-12-10T03:02:42.072Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr2"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
-  
-## 주요 특징  
-- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 15시간전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
+- 768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS...</a></div><div class="topicinfo"><span id="tp18178">14</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote18178"></span> | <a href="topic?id=18178" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025년을 위한 7개의 데이터베이스 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025</id>
         <link href="https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025"/>
         <updated>2024-12-09T01:18:21.481Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18153"><a class="upvote" href="javascript:vote(18153, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025" rel="nofollow" id="tr3"><h1>2025년을 위한 7개의 데이터베이스</h1></a> <span class="topicurl">(matt.blwt.io)</span></div><div class="topicdesc"><a href="topic?id=18153" class="c99 breakall">- 다양한 문제를 해결하기 위해 주목할 가치가 있는 DB 7개를 소개  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18153"><a class="upvote" href="javascript:vote(18153, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025" rel="nofollow" id="tr2"><h1>2025년을 위한 7개의 데이터베이스</h1></a> <span class="topicurl">(matt.blwt.io)</span></div><div class="topicdesc"><a href="topic?id=18153" class="c99 breakall">- 다양한 문제를 해결하기 위해 주목할 가치가 있는 DB 7개를 소개  
 - 이는 "최고의 DB" 목록이 아닌, 새롭고 유용한 관점을 제공하는 도구들  
 ...</a></div><div class="topicinfo"><span id="tp18153">36</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18153"></span> | <a href="topic?id=18153" class="u">댓글 10개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://gosuda.org/randflake</id>
+        <link href="https://gosuda.org/randflake"/>
+        <updated>2024-12-10T03:02:42.072Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr3"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
+  
+## 주요 특징  
+- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 16시간전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Google의 최첨단 양자(quantum) 칩, Willow (GeekNews ─ 최신글 원문)]]></title>
@@ -545,7 +545,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://blog.google/technology/research/google-willow-quantum-chip/"/>
         <updated>2024-12-10T03:02:42.038Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18182"><a class="upvote" href="javascript:vote(18182, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/research/google-willow-quantum-chip/" rel="nofollow" id="tr4"><h1>GN⁺: Google의 최첨단 양자(quantum) 칩, Willow</h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18182" class="c99 breakall">- Google이 새롭게 개발한 양자 칩 **Willow**는 **오류율 감소**와 **성능 향상**을 통해 대규모 양자 컴퓨터 구축에 한 발짝 더 다가섬  
-- Wil...</a></div><div class="topicinfo"><span id="tp18182">10</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote18182"></span> | <a href="topic?id=18182" class="u">댓글 1개</a></div>]]></content>
+- Wil...</a></div><div class="topicinfo"><span id="tp18182">10</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18182"></span> | <a href="topic?id=18182" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Google의 AI 날씨 예측 모델 GenCast는 꽤 훌륭함 (GeekNews ─ 최신글 원문)]]></title>
@@ -553,7 +553,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast"/>
         <updated>2024-12-10T03:02:42.055Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18179"><a class="upvote" href="javascript:vote(18179, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast" rel="nofollow" id="tr5"><h1>GN⁺: Google의 AI 날씨 예측 모델 GenCast는 꽤 훌륭함</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=18179" class="c99 breakall">- Google DeepMind의 **GenCast**는 전통적인 날씨 예측 시스템과 비교할 만한 정확성을 가짐  
-- 최근 연구에 따르면, GenCast는 2019년 데이터...</a></div><div class="topicinfo"><span id="tp18179">9</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18179"></span> | <a href="topic?id=18179" class="u">댓글과 토론</a></div>]]></content>
+- 최근 연구에 따르면, GenCast는 2019년 데이터...</a></div><div class="topicinfo"><span id="tp18179">9</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18179"></span> | <a href="topic?id=18179" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 꼭 봐야 할 기술관련 TED 강연들 (GeekNews ─ 최신글 원문)]]></title>
@@ -570,7 +570,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/"/>
         <updated>2024-12-10T01:17:18.745Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18177"><a class="upvote" href="javascript:vote(18177, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.raspberrypi.com/news/valves-steam-link-on-raspberry-pi/" rel="nofollow" id="tr7"><h1>Raspberry Pi 5, Valve Steam Link 지원</h1></a> <span class="topicurl">(raspberrypi.com)</span></div><div class="topicdesc"><a href="topic?id=18177" class="c99 breakall">- Raspberry Pi Connect로 라즈베리 파이를 어디서나 원격으로 제어할 수 있게 되었음  
-- Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, ...</a></div><div class="topicinfo"><span id="tp18177">7</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote18177"></span> | <a href="topic?id=18177" class="u">댓글 2개</a></div>]]></content>
+- Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, ...</a></div><div class="topicinfo"><span id="tp18177">7</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote18177"></span> | <a href="topic?id=18177" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 연구: 온라인에서 부정적인 콘텐츠를 접하면 정신 건강이 악화됩니다 (GeekNews ─ 최신글 원문)]]></title>
@@ -578,7 +578,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205"/>
         <updated>2024-12-10T01:17:18.749Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18176"><a class="upvote" href="javascript:vote(18176, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205" rel="nofollow" id="tr8"><h1>GN⁺: 연구: 온라인에서 부정적인 콘텐츠를 접하면 정신 건강이 악화됩니다</h1></a> <span class="topicurl">(news.mit.edu)</span></div><div class="topicdesc"><a href="topic?id=18176" class="c99 breakall">- **정신 건강에 어려움을 겪는 사람**은 부정적 콘텐츠를 더 많이 열람하는 경향이 있으며, 이러한 콘텐츠가 증상을 더욱 악화시킴  
-- MIT의 연...</a></div><div class="topicinfo"><span id="tp18176">6</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18176"></span> | <a href="topic?id=18176" class="u">댓글 1개</a></div>]]></content>
+- MIT의 연...</a></div><div class="topicinfo"><span id="tp18176">6</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18176"></span> | <a href="topic?id=18176" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년에 내가 배운 52가지 (GeekNews ─ 최신글 원문)]]></title>
@@ -602,7 +602,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://openai.com/index/sora-is-here/"/>
         <updated>2024-12-10T03:02:42.047Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18181"><a class="upvote" href="javascript:vote(18181, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/sora-is-here/" rel="nofollow" id="tr11"><h1>GN⁺: OpenAI, Sora 출시</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=18181" class="c99 breakall">- Sora는 텍스트에서 현실감 있는 비디오를 생성하는 모델로, **현실 이해 및 시뮬레이션**을 목표로 개발됨  
-- 새로운 버전 **Sora Turbo**는 ...</a></div><div class="topicinfo"><span id="tp18181">5</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18181"></span> | <a href="topic?id=18181" class="u">댓글 1개</a></div>]]></content>
+- 새로운 버전 **Sora Turbo**는 ...</a></div><div class="topicinfo"><span id="tp18181">5</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote18181"></span> | <a href="topic?id=18181" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [작은 앱 프로젝트] 윤슬 가계부: 아이폰, 아이패드, 맥 가계부 앱 (Mac Catalyst 사용 사례) (GeekNews ─ 최신글 원문)]]></title>
@@ -613,7 +613,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
   
 📌 작은 앱 프로젝트  
   
-모든 앱들이 점점 더 복잡해지...</a></div><div class="topicinfo"><span id="tp18190">3</span> points by <a href="/user?id=plant">plant</a> 12시간전<span id="unvote18190"></span> | <a href="topic?id=18190" class="u">댓글과 토론</a></div>]]></content>
+모든 앱들이 점점 더 복잡해지...</a></div><div class="topicinfo"><span id="tp18190">3</span> points by <a href="/user?id=plant">plant</a> 13시간전<span id="unvote18190"></span> | <a href="topic?id=18190" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 왜 Pat Gelsinger는 Intel에 적합하지 않았는가 (GeekNews ─ 최신글 원문)]]></title>
@@ -621,7 +621,7 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
         <link href="https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/"/>
         <updated>2024-12-10T03:02:42.061Z</updated>
         <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18184"><a class="upvote" href="javascript:vote(18184, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/" rel="nofollow" id="tr13"><h1>GN⁺: 왜 Pat Gelsinger는 Intel에 적합하지 않았는가</h1></a> <span class="topicurl">(bcantrill.dtrace.org)</span></div><div class="topicdesc"><a href="topic?id=18184" class="c99 breakall">- Pat Gelsinger는 기술적으로 뛰어나고 근면하며 훌륭한 관리자로 평가받음  
-- 그러나 Intel의 CEO로서 그의 리더십은 회사의 *문화적 문제*를 ...</a></div><div class="topicinfo"><span id="tp18184">4</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote18184"></span> | <a href="topic?id=18184" class="u">댓글 2개</a></div>]]></content>
+- 그러나 Intel의 CEO로서 그의 리더십은 회사의 *문화적 문제*를 ...</a></div><div class="topicinfo"><span id="tp18184">4</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote18184"></span> | <a href="topic?id=18184" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 신임 관리자로서 저지를 수 있는 6가지 실수 (GeekNews ─ 최신글 원문)]]></title>
@@ -633,37 +633,37 @@ JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이
 - ...</a></div><div class="topicinfo"><span id="tp18147">22</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote18147"></span> | <a href="topic?id=18147" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요? (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/</id>
-        <link href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/"/>
-        <updated>2024-12-10T09:17:48.406Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18191"><a class="upvote" href="javascript:vote(18191, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/" rel="nofollow" id="tr15"><h1> 긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=18191" class="c99 breakall">긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의...</a></div><div class="topicinfo"><span id="tp18191">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 9시간전<span id="unvote18191"></span> | <a href="topic?id=18191" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: JSON5 - 인간을 위한 JSON (GeekNews ─ 최신글 원문)]]></title>
         <id>https://json5.org/</id>
         <link href="https://json5.org/"/>
         <updated>2024-12-10T01:17:18.755Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18171"><a class="upvote" href="javascript:vote(18171, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://json5.org/" rel="nofollow" id="tr16"><h1>GN⁺: JSON5 - 인간을 위한 JSON</h1></a> <span class="topicurl">(json5.org)</span></div><div class="topicdesc"><a href="topic?id=18171" class="c99 breakall">- JSON5는 JSON 파일 형식을 확장하여 사람이 직접 작성하고 유지보수하기 쉽게 만든 형식  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18171"><a class="upvote" href="javascript:vote(18171, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://json5.org/" rel="nofollow" id="tr15"><h1>GN⁺: JSON5 - 인간을 위한 JSON</h1></a> <span class="topicurl">(json5.org)</span></div><div class="topicdesc"><a href="topic?id=18171" class="c99 breakall">- JSON5는 JSON 파일 형식을 확장하여 사람이 직접 작성하고 유지보수하기 쉽게 만든 형식  
   - 기계 간 통신을 위한 용도로는 사용되지 않음  
 ...</a></div><div class="topicinfo"><span id="tp18171">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18171"></span> | <a href="topic?id=18171" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terrateam - 오픈소스 GitOps CI/CD 플랫폼 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://github.com/terrateamio/terrateam</id>
-        <link href="https://github.com/terrateamio/terrateam"/>
-        <updated>2024-12-09T01:18:21.481Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18154"><a class="upvote" href="javascript:vote(18154, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/terrateamio/terrateam" rel="nofollow" id="tr17"><h1>Terrateam - 오픈소스 GitOps CI/CD 플랫폼</h1></a> <span class="topicurl">(github.com/terrateamio)</span></div><div class="topicdesc"><a href="topic?id=18154" class="c99 breakall">- GitHub 기반 인프라 워크플로 자동화를 지원하는 GitOps CI/CD 플랫폼  
-- Terraform, OpenTofu, CDKTF, 및 Terragrunt 작업을 pull request를 ...</a></div><div class="topicinfo"><span id="tp18154">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18154"></span> | <a href="topic?id=18154" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요? (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/</id>
+        <link href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/"/>
+        <updated>2024-12-10T09:17:48.406Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18191"><a class="upvote" href="javascript:vote(18191, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jina.ai/news/still-need-chunking-when-long-context-models-can-do-it-all/" rel="nofollow" id="tr16"><h1> 긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?</h1></a> <span class="topicurl">(jina.ai)</span></div><div class="topicdesc"><a href="topic?id=18191" class="c99 breakall">긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의...</a></div><div class="topicinfo"><span id="tp18191">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 10시간전<span id="unvote18191"></span> | <a href="topic?id=18191" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://addyo.substack.com/p/the-70-problem-hard-truths-about</id>
         <link href="https://addyo.substack.com/p/the-70-problem-hard-truths-about"/>
         <updated>2024-12-07T02:58:03.546Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18131"><a class="upvote" href="javascript:vote(18131, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://addyo.substack.com/p/the-70-problem-hard-truths-about" rel="nofollow" id="tr18"><h1>GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실</h1></a> <span class="topicurl">(addyo.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18131" class="c99 breakall">- 개발자들이 AI를 활용하는 두 가지 주요 패턴이 있음  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18131"><a class="upvote" href="javascript:vote(18131, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://addyo.substack.com/p/the-70-problem-hard-truths-about" rel="nofollow" id="tr17"><h1>GN⁺: 70% 문제: AI 지원 코딩의 냉혹한 진실</h1></a> <span class="topicurl">(addyo.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18131" class="c99 breakall">- 개발자들이 AI를 활용하는 두 가지 주요 패턴이 있음  
   - **부트스트래퍼**:   
     - Bolt, v0, screenshot-to-code AI 같은 도구를 사용하...</a></div><div class="topicinfo"><span id="tp18131">22</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote18131"></span> | <a href="topic?id=18131" class="u">댓글 12개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terrateam - 오픈소스 GitOps CI/CD 플랫폼 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://github.com/terrateamio/terrateam</id>
+        <link href="https://github.com/terrateamio/terrateam"/>
+        <updated>2024-12-09T01:18:21.481Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18154"><a class="upvote" href="javascript:vote(18154, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/terrateamio/terrateam" rel="nofollow" id="tr18"><h1>Terrateam - 오픈소스 GitOps CI/CD 플랫폼</h1></a> <span class="topicurl">(github.com/terrateamio)</span></div><div class="topicdesc"><a href="topic?id=18154" class="c99 breakall">- GitHub 기반 인프라 워크플로 자동화를 지원하는 GitOps CI/CD 플랫폼  
+- Terraform, OpenTofu, CDKTF, 및 Terragrunt 작업을 pull request를 ...</a></div><div class="topicinfo"><span id="tp18154">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18154"></span> | <a href="topic?id=18154" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ollama, 구조화된 출력 지원 (GeekNews ─ 최신글 원문)]]></title>
