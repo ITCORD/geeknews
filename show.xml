@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-12-10T23:16:02.602Z</updated>
+    <updated>2024-12-11T01:16:28.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 복잡하고 까다로운 유지보수, 이제는 걱정 없이 맡기세요!]]></title>
+        <id>https://news.hada.io/topic?id=18205</id>
+        <link href="https://news.hada.io/topic?id=18205"/>
+        <updated>2024-12-11T01:16:06.225Z</updated>
+        <content type="html"><![CDATA[safethecode]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: [작은 앱 프로젝트] 윤슬 가계부: 아이폰, 아이패드, 맥 가계부 앱 (Mac Catalyst 사용 사례)]]></title>
         <id>https://news.hada.io/topic?id=18190</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[chiwanpark]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 듀얼 페이지 싱크 - 외국어 개발문서를 보기 쉽게 해주는 크롬 확장프로그램]]></title>
-        <id>https://news.hada.io/topic?id=17979</id>
-        <link href="https://news.hada.io/topic?id=17979"/>
-        <updated>2024-11-27T08:21:29.728Z</updated>
-        <content type="html"><![CDATA[jongtk12]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Smart Composer - 글쓰기를 Cursor AI만큼 편하게 해주는 옵시디언 플러그인]]></title>
         <id>https://news.hada.io/topic?id=17896</id>
         <link href="https://news.hada.io/topic?id=17896"/>
         <updated>2024-11-22T04:19:40.195Z</updated>
         <content type="html"><![CDATA[jacksonji]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 듀얼 페이지 싱크 - 외국어 개발문서를 보기 쉽게 해주는 크롬 확장프로그램]]></title>
+        <id>https://news.hada.io/topic?id=17979</id>
+        <link href="https://news.hada.io/topic?id=17979"/>
+        <updated>2024-11-27T08:21:29.728Z</updated>
+        <content type="html"><![CDATA[jongtk12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Gather Town과 유사한 실시간 상호작용 가능한 가상 공간을 Serverless 아키텍처로 구현한 프로젝트]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17534"/>
         <updated>2024-12-05T06:23:24.758Z</updated>
         <content type="html"><![CDATA[skytin1004]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ESLint Plugin Perfectionist v4.0.0 출시]]></title>
-        <id>https://news.hada.io/topic?id=17852</id>
-        <link href="https://news.hada.io/topic?id=17852"/>
-        <updated>2024-11-19T13:25:51.888Z</updated>
-        <content type="html"><![CDATA[azatio]]></content>
     </entry>
 </feed>
