@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-12T07:16:35.303Z</updated>
+    <updated>2024-12-12T08:21:49.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[jq로 JSON 변환하기: 인터랙티브 가이드 (GeekNews ─ 메인)]]></title>
@@ -10,38 +10,38 @@
         <link href="https://news.hada.io/topic?id=18213"/>
         <updated>2024-12-12T03:00:23.849Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18213"><a class="upvote" href="javascript:vote(18213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://navendu.me/posts/jq-interactive-guide/" rel="nofollow" id="tr1"><h1>jq로 JSON 변환하기: 인터랙티브 가이드</h1></a> <span class="topicurl">(navendu.me)</span></div><div class="topicdesc"><a href="topic?id=18213" class="c99 breakall">- jq는 JSON 데이터를 다루기 위한 명령줄 도구로, 대부분의 Linux 배포판에 기본 설치되어 있음  
-- JSON 데이터를 보기 좋게 출력(pretty print...</a></div><div class="topicinfo"><span id="tp18213">16</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote18213"></span> | <a href="topic?id=18213" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18212</id>
-        <link href="https://news.hada.io/topic?id=18212"/>
-        <updated>2024-12-12T03:00:23.858Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18212"><a class="upvote" href="javascript:vote(18212, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dspy.ai/" rel="nofollow" id="tr2"><h1>DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 </h1></a> <span class="topicurl">(dspy.ai)</span></div><div class="topicdesc"><a href="topic?id=18212" class="c99 breakall">- DSPy(Declarative Self-improving Python)는 프로그래밍을 통해 언어 모델(LM)을 제어하도록 설계된 프레임워크  
-- 간단한 분류기부터 복잡한 ...</a></div><div class="topicinfo"><span id="tp18212">7</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote18212"></span> | <a href="topic?id=18212" class="u">댓글과 토론</a></div>]]></content>
+- JSON 데이터를 보기 좋게 출력(pretty print...</a></div><div class="topicinfo"><span id="tp18213">17</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote18213"></span> | <a href="topic?id=18213" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18224</id>
         <link href="https://news.hada.io/topic?id=18224"/>
         <updated>2024-12-12T04:19:51.529Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18224"><a class="upvote" href="javascript:vote(18224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pilcrowonpaper.com/blog/dear-oauth-providers/" rel="nofollow" id="tr3"><h1>OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음</h1></a> <span class="topicurl">(pilcrowonpaper.com)</span></div><div class="topicdesc"><a href="topic?id=18224" class="c99 breakall">* Github: 오류 처리에 200 대신 400, 401 상태 코드를 보내주세요.  
-* Facebook: 오류 토큰의 `error` 속성을 객체 대신 문자열로 바꿔주세요. ...</a></div><div class="topicinfo"><span id="tp18224">5</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4시간전<span id="unvote18224"></span> | <a href="topic?id=18224" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18224"><a class="upvote" href="javascript:vote(18224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pilcrowonpaper.com/blog/dear-oauth-providers/" rel="nofollow" id="tr2"><h1>OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음</h1></a> <span class="topicurl">(pilcrowonpaper.com)</span></div><div class="topicdesc"><a href="topic?id=18224" class="c99 breakall">* Github: 오류 처리에 200 대신 400, 401 상태 코드를 보내주세요.  
+* Facebook: 오류 토큰의 `error` 속성을 객체 대신 문자열로 바꿔주세요. ...</a></div><div class="topicinfo"><span id="tp18224">6</span> points by <a href="/user?id=carnoxen">carnoxen</a> 5시간전<span id="unvote18224"></span> | <a href="topic?id=18224" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18226</id>
-        <link href="https://news.hada.io/topic?id=18226"/>
-        <updated>2024-12-12T04:19:51.528Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18226"><a class="upvote" href="javascript:vote(18226, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="nofollow" id="tr4"><h1>memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다</h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicinfo"><span id="tp18226">4</span> points by <a href="/user?id=guesswhat">guesswhat</a> 3시간전<span id="unvote18226"></span> | <a href="topic?id=18226" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18212</id>
+        <link href="https://news.hada.io/topic?id=18212"/>
+        <updated>2024-12-12T03:00:23.858Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18212"><a class="upvote" href="javascript:vote(18212, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dspy.ai/" rel="nofollow" id="tr3"><h1>DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 </h1></a> <span class="topicurl">(dspy.ai)</span></div><div class="topicdesc"><a href="topic?id=18212" class="c99 breakall">- DSPy(Declarative Self-improving Python)는 프로그래밍을 통해 언어 모델(LM)을 제어하도록 설계된 프레임워크  
+- 간단한 분류기부터 복잡한 ...</a></div><div class="topicinfo"><span id="tp18212">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18212"></span> | <a href="topic?id=18212" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[klongpy - 파이썬용 고속 어레이 프로그래밍 언어 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18211</id>
         <link href="https://news.hada.io/topic?id=18211"/>
         <updated>2024-12-12T01:15:17.028Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18211"><a class="upvote" href="javascript:vote(18211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/briangu/klongpy" rel="nofollow" id="tr5"><h1>klongpy - 파이썬용 고속 어레이 프로그래밍 언어</h1></a> <span class="topicurl">(github.com/briangu)</span></div><div class="topicdesc"><a href="topic?id=18211" class="c99 breakall">- NumPy의 강력한 성능을 활용하는 고성능 벡터화 연산으로 잘 알려진 Klong 배열 언어를 파이썬으로 변형한 것   
-- "Battery Included" 철학으...</a></div><div class="topicinfo"><span id="tp18211">6</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18211"></span> | <a href="topic?id=18211" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18211"><a class="upvote" href="javascript:vote(18211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/briangu/klongpy" rel="nofollow" id="tr4"><h1>klongpy - 파이썬용 고속 어레이 프로그래밍 언어</h1></a> <span class="topicurl">(github.com/briangu)</span></div><div class="topicdesc"><a href="topic?id=18211" class="c99 breakall">- NumPy의 강력한 성능을 활용하는 고성능 벡터화 연산으로 잘 알려진 Klong 배열 언어를 파이썬으로 변형한 것   
+- "Battery Included" 철학으...</a></div><div class="topicinfo"><span id="tp18211">6</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote18211"></span> | <a href="topic?id=18211" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18226</id>
+        <link href="https://news.hada.io/topic?id=18226"/>
+        <updated>2024-12-12T04:19:51.528Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18226"><a class="upvote" href="javascript:vote(18226, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="nofollow" id="tr5"><h1>memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다</h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicinfo"><span id="tp18226">4</span> points by <a href="/user?id=guesswhat">guesswhat</a> 4시간전<span id="unvote18226"></span> | <a href="topic?id=18226" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매일 5분만 써서 더욱 똑똑해지기 (feat. AI) (GeekNews ─ 메인)]]></title>
@@ -49,7 +49,7 @@
         <link href="https://news.hada.io/topic?id=18225"/>
         <updated>2024-12-12T04:19:51.524Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18225"><a class="upvote" href="javascript:vote(18225, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/life.interest/posts/e9o02pyez8w" rel="nofollow" id="tr6"><h1>매일 5분만 써서 더욱 똑똑해지기 (feat. AI)</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=18225" class="c99 breakall">- 가추(Abduction)라는 추론 방식을 일상생활에서 연습하는 방법을 소개합니다.  
-- GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사...</a></div><div class="topicinfo"><span id="tp18225">3</span> points by <a href="/user?id=juwoong">juwoong</a> 3시간전<span id="unvote18225"></span> | <a href="topic?id=18225" class="u">댓글과 토론</a></div>]]></content>
+- GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사...</a></div><div class="topicinfo"><span id="tp18225">3</span> points by <a href="/user?id=juwoong">juwoong</a> 5시간전<span id="unvote18225"></span> | <a href="topic?id=18225" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흔한 컴파일러 오해들 (GeekNews ─ 메인)]]></title>
@@ -69,7 +69,7 @@
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18210"><a class="upvote" href="javascript:vote(18210, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v2.1" rel="nofollow" id="tr8"><h1>Deno 2.1</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=18210" class="c99 breakall">- ESM import 구문으로 WASM 바로 불러올 수 있음  
   - `import { add } from './add.wasm';`  
 - LTS 지원 시작  
-  - 6주마다 새로운 마이너...</a></div><div class="topicinfo"><span id="tp18210">6</span> points by <a href="/user?id=cichol">cichol</a> 10시간전<span id="unvote18210"></span> | <a href="topic?id=18210" class="u">댓글과 토론</a></div>]]></content>
+  - 6주마다 새로운 마이너...</a></div><div class="topicinfo"><span id="tp18210">6</span> points by <a href="/user?id=cichol">cichol</a> 12시간전<span id="unvote18210"></span> | <a href="topic?id=18210" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[screenpipe - 데스크탑의 모든 데이터를 가져오는 API (GeekNews ─ 메인)]]></title>
@@ -115,37 +115,37 @@
 - 이제 A...</a></div><div class="topicinfo"><span id="tp18162">42</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18162"></span> | <a href="topic?id=18162" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini 2.0 출시 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18222</id>
-        <link href="https://news.hada.io/topic?id=18222"/>
-        <updated>2024-12-12T03:38:14.214Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18222"><a class="upvote" href="javascript:vote(18222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/" rel="nofollow" id="tr14"><h1>Gemini 2.0 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=18222" class="c99 breakall">**Gemini 2.0: 개발자를 위한 차세대 AI 모델**  
-  
-- Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합...</a></div><div class="topicinfo"><span id="tp18222">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 4시간전<span id="unvote18222"></span> | <a href="topic?id=18222" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[gARM: ARM64에 특화된 고성능 Go 컴파일러 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18202</id>
         <link href="https://news.hada.io/topic?id=18202"/>
         <updated>2024-12-11T01:15:46.309Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18202"><a class="upvote" href="javascript:vote(18202, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/go-dockly/garm" rel="nofollow" id="tr15"><h1>gARM: ARM64에 특화된 고성능 Go 컴파일러</h1></a> <span class="topicurl">(github.com/go-dockly)</span></div><div class="topicdesc"><a href="topic?id=18202" class="c99 breakall">Go 언어의 단순성과 저수준 제어 및 고성능을 결합한 ARM64 어셈블리 컴파일러.  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18202"><a class="upvote" href="javascript:vote(18202, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/go-dockly/garm" rel="nofollow" id="tr14"><h1>gARM: ARM64에 특화된 고성능 Go 컴파일러</h1></a> <span class="topicurl">(github.com/go-dockly)</span></div><div class="topicdesc"><a href="topic?id=18202" class="c99 breakall">Go 언어의 단순성과 저수준 제어 및 고성능을 결합한 ARM64 어셈블리 컴파일러.  
 ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제어...</a></div><div class="topicinfo"><span id="tp18202">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 1일전<span id="unvote18202"></span> | <a href="topic?id=18202" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18220</id>
-        <link href="https://news.hada.io/topic?id=18220"/>
-        <updated>2024-12-12T03:00:23.863Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18220"><a class="upvote" href="javascript:vote(18220, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/" rel="nofollow" id="tr16"><h1>GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 </h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18220" class="c99 breakall">- Gemini 1.0은 텍스트, 비디오, 이미지, 오디오 및 코드 전반에 걸쳐 정보를 처리할 수 있는 다중모드 모델로 혁신을 이루었음  
-- Gemini 2.0은...</a></div><div class="topicinfo"><span id="tp18220">1</span> point by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote18220"></span> | <a href="topic?id=18220" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18201</id>
         <link href="https://news.hada.io/topic?id=18201"/>
         <updated>2024-12-12T01:15:17.045Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18201"><a class="upvote" href="javascript:vote(18201, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust" rel="nofollow" id="tr17"><h1>GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite</h1></a> <span class="topicurl">(turso.tech)</span></div><div class="topicdesc"><a href="topic?id=18201" class="c99 breakall">- Limbo는 메모리 안전성을 제공하는 Rust로 SQLite를 재구현하는 실험적 프로젝트  
-  - SQLite의 임베디드 특성을 좋아하지만, 더 개방적인 개...</a></div><div class="topicinfo"><span id="tp18201">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18201"></span> | <a href="topic?id=18201" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18201"><a class="upvote" href="javascript:vote(18201, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust" rel="nofollow" id="tr15"><h1>GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite</h1></a> <span class="topicurl">(turso.tech)</span></div><div class="topicdesc"><a href="topic?id=18201" class="c99 breakall">- Limbo는 메모리 안전성을 제공하는 Rust로 SQLite를 재구현하는 실험적 프로젝트  
+  - SQLite의 임베디드 특성을 좋아하지만, 더 개방적인 개...</a></div><div class="topicinfo"><span id="tp18201">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18201"></span> | <a href="topic?id=18201" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.0 출시 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18222</id>
+        <link href="https://news.hada.io/topic?id=18222"/>
+        <updated>2024-12-12T03:38:14.214Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18222"><a class="upvote" href="javascript:vote(18222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/" rel="nofollow" id="tr16"><h1>Gemini 2.0 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=18222" class="c99 breakall">**Gemini 2.0: 개발자를 위한 차세대 AI 모델**  
+  
+- Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합...</a></div><div class="topicinfo"><span id="tp18222">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 5시간전<span id="unvote18222"></span> | <a href="topic?id=18222" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18220</id>
+        <link href="https://news.hada.io/topic?id=18220"/>
+        <updated>2024-12-12T03:00:23.863Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18220"><a class="upvote" href="javascript:vote(18220, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/" rel="nofollow" id="tr17"><h1>GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 </h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18220" class="c99 breakall">- Gemini 1.0은 텍스트, 비디오, 이미지, 오디오 및 코드 전반에 걸쳐 정보를 처리할 수 있는 다중모드 모델로 혁신을 이루었음  
+- Gemini 2.0은...</a></div><div class="topicinfo"><span id="tp18220">1</span> point by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote18220"></span> | <a href="topic?id=18220" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기 (GeekNews ─ 메인)]]></title>
@@ -165,11 +165,14 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
 - **UI3**는 2019년 이후 Figma의 가장 큰 인터페이스 변경으로, 복잡성을 줄이고 팀 협업...</a></div><div class="topicinfo"><span id="tp18196">6</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18196"></span> | <a href="topic?id=18196" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18208</id>
-        <link href="https://news.hada.io/topic?id=18208"/>
-        <updated>2024-12-11T04:20:00.034Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18208"><a class="upvote" href="javascript:vote(18208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18208" rel="nofollow" id="tr20"><h1>Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안</h1></a> <span class="topicurl">(github.com/CremitHQ)</span></div><div class="topicdesc"><a href="topic?id=18208" class="c99 breakall">중앙에서 관리되는 Secret Management Solution들의 한계점에 대해서 생각 해보신 적 있으신가요? 민감한 정보나 크리덴셜을 단일 서버나 서비스가...</a></div><div class="topicinfo"><span id="tp18208">5</span> points by <a href="/user?id=cremit">cremit</a> 1일전<span id="unvote18208"></span> | <a href="topic?id=18208" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18189</id>
+        <link href="https://news.hada.io/topic?id=18189"/>
+        <updated>2024-12-10T03:02:37.340Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr20"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
+  
+## 주요 특징  
+- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">13</span> points by <a href="/user?id=lemonmint">lemonmint</a> 2일전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[jq로 JSON 변환하기: 인터랙티브 가이드 (GeekNews ─ 메인 원문)]]></title>
@@ -177,38 +180,38 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://navendu.me/posts/jq-interactive-guide/"/>
         <updated>2024-12-12T03:00:28.560Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18213"><a class="upvote" href="javascript:vote(18213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://navendu.me/posts/jq-interactive-guide/" rel="nofollow" id="tr1"><h1>jq로 JSON 변환하기: 인터랙티브 가이드</h1></a> <span class="topicurl">(navendu.me)</span></div><div class="topicdesc"><a href="topic?id=18213" class="c99 breakall">- jq는 JSON 데이터를 다루기 위한 명령줄 도구로, 대부분의 Linux 배포판에 기본 설치되어 있음  
-- JSON 데이터를 보기 좋게 출력(pretty print...</a></div><div class="topicinfo"><span id="tp18213">16</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote18213"></span> | <a href="topic?id=18213" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://dspy.ai/</id>
-        <link href="https://dspy.ai/"/>
-        <updated>2024-12-12T03:00:28.563Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18212"><a class="upvote" href="javascript:vote(18212, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dspy.ai/" rel="nofollow" id="tr2"><h1>DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 </h1></a> <span class="topicurl">(dspy.ai)</span></div><div class="topicdesc"><a href="topic?id=18212" class="c99 breakall">- DSPy(Declarative Self-improving Python)는 프로그래밍을 통해 언어 모델(LM)을 제어하도록 설계된 프레임워크  
-- 간단한 분류기부터 복잡한 ...</a></div><div class="topicinfo"><span id="tp18212">7</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote18212"></span> | <a href="topic?id=18212" class="u">댓글과 토론</a></div>]]></content>
+- JSON 데이터를 보기 좋게 출력(pretty print...</a></div><div class="topicinfo"><span id="tp18213">17</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote18213"></span> | <a href="topic?id=18213" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음 (GeekNews ─ 메인 원문)]]></title>
         <id>https://pilcrowonpaper.com/blog/dear-oauth-providers/</id>
         <link href="https://pilcrowonpaper.com/blog/dear-oauth-providers/"/>
         <updated>2024-12-12T03:38:18.936Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18224"><a class="upvote" href="javascript:vote(18224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pilcrowonpaper.com/blog/dear-oauth-providers/" rel="nofollow" id="tr3"><h1>OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음</h1></a> <span class="topicurl">(pilcrowonpaper.com)</span></div><div class="topicdesc"><a href="topic?id=18224" class="c99 breakall">* Github: 오류 처리에 200 대신 400, 401 상태 코드를 보내주세요.  
-* Facebook: 오류 토큰의 `error` 속성을 객체 대신 문자열로 바꿔주세요. ...</a></div><div class="topicinfo"><span id="tp18224">5</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4시간전<span id="unvote18224"></span> | <a href="topic?id=18224" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18224"><a class="upvote" href="javascript:vote(18224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pilcrowonpaper.com/blog/dear-oauth-providers/" rel="nofollow" id="tr2"><h1>OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음</h1></a> <span class="topicurl">(pilcrowonpaper.com)</span></div><div class="topicdesc"><a href="topic?id=18224" class="c99 breakall">* Github: 오류 처리에 200 대신 400, 401 상태 코드를 보내주세요.  
+* Facebook: 오류 토큰의 `error` 속성을 객체 대신 문자열로 바꿔주세요. ...</a></div><div class="topicinfo"><span id="tp18224">6</span> points by <a href="/user?id=carnoxen">carnoxen</a> 5시간전<span id="unvote18224"></span> | <a href="topic?id=18224" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined</id>
-        <link href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"/>
-        <updated>2024-12-12T04:19:56.169Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18226"><a class="upvote" href="javascript:vote(18226, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="nofollow" id="tr4"><h1>memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다</h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicinfo"><span id="tp18226">4</span> points by <a href="/user?id=guesswhat">guesswhat</a> 3시간전<span id="unvote18226"></span> | <a href="topic?id=18226" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://dspy.ai/</id>
+        <link href="https://dspy.ai/"/>
+        <updated>2024-12-12T03:00:28.563Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18212"><a class="upvote" href="javascript:vote(18212, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dspy.ai/" rel="nofollow" id="tr3"><h1>DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 </h1></a> <span class="topicurl">(dspy.ai)</span></div><div class="topicdesc"><a href="topic?id=18212" class="c99 breakall">- DSPy(Declarative Self-improving Python)는 프로그래밍을 통해 언어 모델(LM)을 제어하도록 설계된 프레임워크  
+- 간단한 분류기부터 복잡한 ...</a></div><div class="topicinfo"><span id="tp18212">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18212"></span> | <a href="topic?id=18212" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[klongpy - 파이썬용 고속 어레이 프로그래밍 언어 (GeekNews ─ 메인 원문)]]></title>
         <id>https://github.com/briangu/klongpy</id>
         <link href="https://github.com/briangu/klongpy"/>
         <updated>2024-12-12T01:15:21.644Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18211"><a class="upvote" href="javascript:vote(18211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/briangu/klongpy" rel="nofollow" id="tr5"><h1>klongpy - 파이썬용 고속 어레이 프로그래밍 언어</h1></a> <span class="topicurl">(github.com/briangu)</span></div><div class="topicdesc"><a href="topic?id=18211" class="c99 breakall">- NumPy의 강력한 성능을 활용하는 고성능 벡터화 연산으로 잘 알려진 Klong 배열 언어를 파이썬으로 변형한 것   
-- "Battery Included" 철학으...</a></div><div class="topicinfo"><span id="tp18211">6</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18211"></span> | <a href="topic?id=18211" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18211"><a class="upvote" href="javascript:vote(18211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/briangu/klongpy" rel="nofollow" id="tr4"><h1>klongpy - 파이썬용 고속 어레이 프로그래밍 언어</h1></a> <span class="topicurl">(github.com/briangu)</span></div><div class="topicdesc"><a href="topic?id=18211" class="c99 breakall">- NumPy의 강력한 성능을 활용하는 고성능 벡터화 연산으로 잘 알려진 Klong 배열 언어를 파이썬으로 변형한 것   
+- "Battery Included" 철학으...</a></div><div class="topicinfo"><span id="tp18211">6</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote18211"></span> | <a href="topic?id=18211" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined</id>
+        <link href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"/>
+        <updated>2024-12-12T04:19:56.169Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18226"><a class="upvote" href="javascript:vote(18226, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="nofollow" id="tr5"><h1>memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다</h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicinfo"><span id="tp18226">4</span> points by <a href="/user?id=guesswhat">guesswhat</a> 4시간전<span id="unvote18226"></span> | <a href="topic?id=18226" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매일 5분만 써서 더욱 똑똑해지기 (feat. AI) (GeekNews ─ 메인 원문)]]></title>
@@ -216,7 +219,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://maily.so/life.interest/posts/e9o02pyez8w"/>
         <updated>2024-12-12T04:19:56.154Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18225"><a class="upvote" href="javascript:vote(18225, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/life.interest/posts/e9o02pyez8w" rel="nofollow" id="tr6"><h1>매일 5분만 써서 더욱 똑똑해지기 (feat. AI)</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=18225" class="c99 breakall">- 가추(Abduction)라는 추론 방식을 일상생활에서 연습하는 방법을 소개합니다.  
-- GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사...</a></div><div class="topicinfo"><span id="tp18225">3</span> points by <a href="/user?id=juwoong">juwoong</a> 3시간전<span id="unvote18225"></span> | <a href="topic?id=18225" class="u">댓글과 토론</a></div>]]></content>
+- GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사...</a></div><div class="topicinfo"><span id="tp18225">3</span> points by <a href="/user?id=juwoong">juwoong</a> 5시간전<span id="unvote18225"></span> | <a href="topic?id=18225" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흔한 컴파일러 오해들 (GeekNews ─ 메인 원문)]]></title>
@@ -236,7 +239,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18210"><a class="upvote" href="javascript:vote(18210, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v2.1" rel="nofollow" id="tr8"><h1>Deno 2.1</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=18210" class="c99 breakall">- ESM import 구문으로 WASM 바로 불러올 수 있음  
   - `import { add } from './add.wasm';`  
 - LTS 지원 시작  
-  - 6주마다 새로운 마이너...</a></div><div class="topicinfo"><span id="tp18210">6</span> points by <a href="/user?id=cichol">cichol</a> 10시간전<span id="unvote18210"></span> | <a href="topic?id=18210" class="u">댓글과 토론</a></div>]]></content>
+  - 6주마다 새로운 마이너...</a></div><div class="topicinfo"><span id="tp18210">6</span> points by <a href="/user?id=cichol">cichol</a> 12시간전<span id="unvote18210"></span> | <a href="topic?id=18210" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[screenpipe - 데스크탑의 모든 데이터를 가져오는 API (GeekNews ─ 메인 원문)]]></title>
@@ -282,37 +285,37 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
 - 이제 A...</a></div><div class="topicinfo"><span id="tp18162">42</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18162"></span> | <a href="topic?id=18162" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini 2.0 출시 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/</id>
-        <link href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/"/>
-        <updated>2024-12-12T03:38:18.937Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18222"><a class="upvote" href="javascript:vote(18222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/" rel="nofollow" id="tr14"><h1>Gemini 2.0 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=18222" class="c99 breakall">**Gemini 2.0: 개발자를 위한 차세대 AI 모델**  
-  
-- Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합...</a></div><div class="topicinfo"><span id="tp18222">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 4시간전<span id="unvote18222"></span> | <a href="topic?id=18222" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[gARM: ARM64에 특화된 고성능 Go 컴파일러 (GeekNews ─ 메인 원문)]]></title>
         <id>https://github.com/go-dockly/garm</id>
         <link href="https://github.com/go-dockly/garm"/>
         <updated>2024-12-11T01:15:51.426Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18202"><a class="upvote" href="javascript:vote(18202, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/go-dockly/garm" rel="nofollow" id="tr15"><h1>gARM: ARM64에 특화된 고성능 Go 컴파일러</h1></a> <span class="topicurl">(github.com/go-dockly)</span></div><div class="topicdesc"><a href="topic?id=18202" class="c99 breakall">Go 언어의 단순성과 저수준 제어 및 고성능을 결합한 ARM64 어셈블리 컴파일러.  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18202"><a class="upvote" href="javascript:vote(18202, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/go-dockly/garm" rel="nofollow" id="tr14"><h1>gARM: ARM64에 특화된 고성능 Go 컴파일러</h1></a> <span class="topicurl">(github.com/go-dockly)</span></div><div class="topicdesc"><a href="topic?id=18202" class="c99 breakall">Go 언어의 단순성과 저수준 제어 및 고성능을 결합한 ARM64 어셈블리 컴파일러.  
 ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제어...</a></div><div class="topicinfo"><span id="tp18202">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 1일전<span id="unvote18202"></span> | <a href="topic?id=18202" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/</id>
-        <link href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"/>
-        <updated>2024-12-12T03:00:28.574Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18220"><a class="upvote" href="javascript:vote(18220, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/" rel="nofollow" id="tr16"><h1>GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 </h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18220" class="c99 breakall">- Gemini 1.0은 텍스트, 비디오, 이미지, 오디오 및 코드 전반에 걸쳐 정보를 처리할 수 있는 다중모드 모델로 혁신을 이루었음  
-- Gemini 2.0은...</a></div><div class="topicinfo"><span id="tp18220">1</span> point by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote18220"></span> | <a href="topic?id=18220" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite (GeekNews ─ 메인 원문)]]></title>
         <id>https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust</id>
         <link href="https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust"/>
         <updated>2024-12-12T01:15:21.652Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18201"><a class="upvote" href="javascript:vote(18201, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust" rel="nofollow" id="tr17"><h1>GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite</h1></a> <span class="topicurl">(turso.tech)</span></div><div class="topicdesc"><a href="topic?id=18201" class="c99 breakall">- Limbo는 메모리 안전성을 제공하는 Rust로 SQLite를 재구현하는 실험적 프로젝트  
-  - SQLite의 임베디드 특성을 좋아하지만, 더 개방적인 개...</a></div><div class="topicinfo"><span id="tp18201">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18201"></span> | <a href="topic?id=18201" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18201"><a class="upvote" href="javascript:vote(18201, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust" rel="nofollow" id="tr15"><h1>GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite</h1></a> <span class="topicurl">(turso.tech)</span></div><div class="topicdesc"><a href="topic?id=18201" class="c99 breakall">- Limbo는 메모리 안전성을 제공하는 Rust로 SQLite를 재구현하는 실험적 프로젝트  
+  - SQLite의 임베디드 특성을 좋아하지만, 더 개방적인 개...</a></div><div class="topicinfo"><span id="tp18201">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18201"></span> | <a href="topic?id=18201" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.0 출시 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/</id>
+        <link href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/"/>
+        <updated>2024-12-12T03:38:18.937Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18222"><a class="upvote" href="javascript:vote(18222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/" rel="nofollow" id="tr16"><h1>Gemini 2.0 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=18222" class="c99 breakall">**Gemini 2.0: 개발자를 위한 차세대 AI 모델**  
+  
+- Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합...</a></div><div class="topicinfo"><span id="tp18222">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 5시간전<span id="unvote18222"></span> | <a href="topic?id=18222" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/</id>
+        <link href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"/>
+        <updated>2024-12-12T03:00:28.574Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18220"><a class="upvote" href="javascript:vote(18220, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/" rel="nofollow" id="tr17"><h1>GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 </h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18220" class="c99 breakall">- Gemini 1.0은 텍스트, 비디오, 이미지, 오디오 및 코드 전반에 걸쳐 정보를 처리할 수 있는 다중모드 모델로 혁신을 이루었음  
+- Gemini 2.0은...</a></div><div class="topicinfo"><span id="tp18220">1</span> point by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote18220"></span> | <a href="topic?id=18220" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기 (GeekNews ─ 메인 원문)]]></title>
@@ -332,18 +335,21 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
 - **UI3**는 2019년 이후 Figma의 가장 큰 인터페이스 변경으로, 복잡성을 줄이고 팀 협업...</a></div><div class="topicinfo"><span id="tp18196">6</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18196"></span> | <a href="topic?id=18196" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://news.hada.io/topic?id=18208</id>
-        <link href="https://news.hada.io/topic?id=18208"/>
-        <updated>2024-12-11T04:20:00.034Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18208"><a class="upvote" href="javascript:vote(18208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18208" rel="nofollow" id="tr20"><h1>Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안</h1></a> <span class="topicurl">(github.com/CremitHQ)</span></div><div class="topicdesc"><a href="topic?id=18208" class="c99 breakall">중앙에서 관리되는 Secret Management Solution들의 한계점에 대해서 생각 해보신 적 있으신가요? 민감한 정보나 크리덴셜을 단일 서버나 서비스가...</a></div><div class="topicinfo"><span id="tp18208">5</span> points by <a href="/user?id=cremit">cremit</a> 1일전<span id="unvote18208"></span> | <a href="topic?id=18208" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://gosuda.org/randflake</id>
+        <link href="https://gosuda.org/randflake"/>
+        <updated>2024-12-12T08:21:09.957Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr20"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
+  
+## 주요 특징  
+- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">13</span> points by <a href="/user?id=lemonmint">lemonmint</a> 2일전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=18226</id>
         <link href="https://news.hada.io/topic?id=18226"/>
         <updated>2024-12-12T04:19:51.528Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18226"><a class="upvote" href="javascript:vote(18226, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="nofollow" id="tr1"><h1>memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다</h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicinfo"><span id="tp18226">4</span> points by <a href="/user?id=guesswhat">guesswhat</a> 3시간전<span id="unvote18226"></span> | <a href="topic?id=18226" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18226"><a class="upvote" href="javascript:vote(18226, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="nofollow" id="tr1"><h1>memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다</h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicinfo"><span id="tp18226">4</span> points by <a href="/user?id=guesswhat">guesswhat</a> 4시간전<span id="unvote18226"></span> | <a href="topic?id=18226" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매일 5분만 써서 더욱 똑똑해지기 (feat. AI) (GeekNews ─ 최신글)]]></title>
@@ -351,7 +357,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://news.hada.io/topic?id=18225"/>
         <updated>2024-12-12T04:19:51.524Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18225"><a class="upvote" href="javascript:vote(18225, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/life.interest/posts/e9o02pyez8w" rel="nofollow" id="tr2"><h1>매일 5분만 써서 더욱 똑똑해지기 (feat. AI)</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=18225" class="c99 breakall">- 가추(Abduction)라는 추론 방식을 일상생활에서 연습하는 방법을 소개합니다.  
-- GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사...</a></div><div class="topicinfo"><span id="tp18225">3</span> points by <a href="/user?id=juwoong">juwoong</a> 3시간전<span id="unvote18225"></span> | <a href="topic?id=18225" class="u">댓글과 토론</a></div>]]></content>
+- GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사...</a></div><div class="topicinfo"><span id="tp18225">3</span> points by <a href="/user?id=juwoong">juwoong</a> 5시간전<span id="unvote18225"></span> | <a href="topic?id=18225" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음 (GeekNews ─ 최신글)]]></title>
@@ -359,7 +365,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://news.hada.io/topic?id=18224"/>
         <updated>2024-12-12T04:19:51.529Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18224"><a class="upvote" href="javascript:vote(18224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pilcrowonpaper.com/blog/dear-oauth-providers/" rel="nofollow" id="tr3"><h1>OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음</h1></a> <span class="topicurl">(pilcrowonpaper.com)</span></div><div class="topicdesc"><a href="topic?id=18224" class="c99 breakall">* Github: 오류 처리에 200 대신 400, 401 상태 코드를 보내주세요.  
-* Facebook: 오류 토큰의 `error` 속성을 객체 대신 문자열로 바꿔주세요. ...</a></div><div class="topicinfo"><span id="tp18224">5</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4시간전<span id="unvote18224"></span> | <a href="topic?id=18224" class="u">댓글과 토론</a></div>]]></content>
+* Facebook: 오류 토큰의 `error` 속성을 객체 대신 문자열로 바꿔주세요. ...</a></div><div class="topicinfo"><span id="tp18224">6</span> points by <a href="/user?id=carnoxen">carnoxen</a> 5시간전<span id="unvote18224"></span> | <a href="topic?id=18224" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gemini 2.0 출시 (GeekNews ─ 최신글)]]></title>
@@ -368,7 +374,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <updated>2024-12-12T03:38:14.214Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18222"><a class="upvote" href="javascript:vote(18222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/" rel="nofollow" id="tr4"><h1>Gemini 2.0 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=18222" class="c99 breakall">**Gemini 2.0: 개발자를 위한 차세대 AI 모델**  
   
-- Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합...</a></div><div class="topicinfo"><span id="tp18222">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 4시간전<span id="unvote18222"></span> | <a href="topic?id=18222" class="u">댓글 1개</a></div>]]></content>
+- Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합...</a></div><div class="topicinfo"><span id="tp18222">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 5시간전<span id="unvote18222"></span> | <a href="topic?id=18222" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[jq로 JSON 변환하기: 인터랙티브 가이드 (GeekNews ─ 최신글)]]></title>
@@ -376,7 +382,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://news.hada.io/topic?id=18213"/>
         <updated>2024-12-12T03:00:23.849Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18213"><a class="upvote" href="javascript:vote(18213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://navendu.me/posts/jq-interactive-guide/" rel="nofollow" id="tr5"><h1>jq로 JSON 변환하기: 인터랙티브 가이드</h1></a> <span class="topicurl">(navendu.me)</span></div><div class="topicdesc"><a href="topic?id=18213" class="c99 breakall">- jq는 JSON 데이터를 다루기 위한 명령줄 도구로, 대부분의 Linux 배포판에 기본 설치되어 있음  
-- JSON 데이터를 보기 좋게 출력(pretty print...</a></div><div class="topicinfo"><span id="tp18213">16</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote18213"></span> | <a href="topic?id=18213" class="u">댓글 3개</a></div>]]></content>
+- JSON 데이터를 보기 좋게 출력(pretty print...</a></div><div class="topicinfo"><span id="tp18213">17</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote18213"></span> | <a href="topic?id=18213" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 (GeekNews ─ 최신글)]]></title>
@@ -384,7 +390,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://news.hada.io/topic?id=18212"/>
         <updated>2024-12-12T03:00:23.858Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18212"><a class="upvote" href="javascript:vote(18212, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dspy.ai/" rel="nofollow" id="tr6"><h1>DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 </h1></a> <span class="topicurl">(dspy.ai)</span></div><div class="topicdesc"><a href="topic?id=18212" class="c99 breakall">- DSPy(Declarative Self-improving Python)는 프로그래밍을 통해 언어 모델(LM)을 제어하도록 설계된 프레임워크  
-- 간단한 분류기부터 복잡한 ...</a></div><div class="topicinfo"><span id="tp18212">7</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote18212"></span> | <a href="topic?id=18212" class="u">댓글과 토론</a></div>]]></content>
+- 간단한 분류기부터 복잡한 ...</a></div><div class="topicinfo"><span id="tp18212">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18212"></span> | <a href="topic?id=18212" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[klongpy - 파이썬용 고속 어레이 프로그래밍 언어 (GeekNews ─ 최신글)]]></title>
@@ -392,7 +398,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://news.hada.io/topic?id=18211"/>
         <updated>2024-12-12T01:15:17.028Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18211"><a class="upvote" href="javascript:vote(18211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/briangu/klongpy" rel="nofollow" id="tr7"><h1>klongpy - 파이썬용 고속 어레이 프로그래밍 언어</h1></a> <span class="topicurl">(github.com/briangu)</span></div><div class="topicdesc"><a href="topic?id=18211" class="c99 breakall">- NumPy의 강력한 성능을 활용하는 고성능 벡터화 연산으로 잘 알려진 Klong 배열 언어를 파이썬으로 변형한 것   
-- "Battery Included" 철학으...</a></div><div class="topicinfo"><span id="tp18211">6</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18211"></span> | <a href="topic?id=18211" class="u">댓글과 토론</a></div>]]></content>
+- "Battery Included" 철학으...</a></div><div class="topicinfo"><span id="tp18211">6</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote18211"></span> | <a href="topic?id=18211" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 2.1 (GeekNews ─ 최신글)]]></title>
@@ -402,7 +408,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18210"><a class="upvote" href="javascript:vote(18210, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v2.1" rel="nofollow" id="tr8"><h1>Deno 2.1</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=18210" class="c99 breakall">- ESM import 구문으로 WASM 바로 불러올 수 있음  
   - `import { add } from './add.wasm';`  
 - LTS 지원 시작  
-  - 6주마다 새로운 마이너...</a></div><div class="topicinfo"><span id="tp18210">6</span> points by <a href="/user?id=cichol">cichol</a> 10시간전<span id="unvote18210"></span> | <a href="topic?id=18210" class="u">댓글과 토론</a></div>]]></content>
+  - 6주마다 새로운 마이너...</a></div><div class="topicinfo"><span id="tp18210">6</span> points by <a href="/user?id=cichol">cichol</a> 12시간전<span id="unvote18210"></span> | <a href="topic?id=18210" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안 (GeekNews ─ 최신글)]]></title>
@@ -511,38 +517,38 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://navendu.me/posts/jq-interactive-guide/"/>
         <updated>2024-12-12T03:00:28.560Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18213"><a class="upvote" href="javascript:vote(18213, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://navendu.me/posts/jq-interactive-guide/" rel="nofollow" id="tr1"><h1>jq로 JSON 변환하기: 인터랙티브 가이드</h1></a> <span class="topicurl">(navendu.me)</span></div><div class="topicdesc"><a href="topic?id=18213" class="c99 breakall">- jq는 JSON 데이터를 다루기 위한 명령줄 도구로, 대부분의 Linux 배포판에 기본 설치되어 있음  
-- JSON 데이터를 보기 좋게 출력(pretty print...</a></div><div class="topicinfo"><span id="tp18213">16</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote18213"></span> | <a href="topic?id=18213" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://dspy.ai/</id>
-        <link href="https://dspy.ai/"/>
-        <updated>2024-12-12T03:00:28.563Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18212"><a class="upvote" href="javascript:vote(18212, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dspy.ai/" rel="nofollow" id="tr2"><h1>DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 </h1></a> <span class="topicurl">(dspy.ai)</span></div><div class="topicdesc"><a href="topic?id=18212" class="c99 breakall">- DSPy(Declarative Self-improving Python)는 프로그래밍을 통해 언어 모델(LM)을 제어하도록 설계된 프레임워크  
-- 간단한 분류기부터 복잡한 ...</a></div><div class="topicinfo"><span id="tp18212">7</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote18212"></span> | <a href="topic?id=18212" class="u">댓글과 토론</a></div>]]></content>
+- JSON 데이터를 보기 좋게 출력(pretty print...</a></div><div class="topicinfo"><span id="tp18213">17</span> points by <a href="/user?id=neo">neo</a> 7시간전<span id="unvote18213"></span> | <a href="topic?id=18213" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://pilcrowonpaper.com/blog/dear-oauth-providers/</id>
         <link href="https://pilcrowonpaper.com/blog/dear-oauth-providers/"/>
         <updated>2024-12-12T03:38:18.936Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18224"><a class="upvote" href="javascript:vote(18224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pilcrowonpaper.com/blog/dear-oauth-providers/" rel="nofollow" id="tr3"><h1>OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음</h1></a> <span class="topicurl">(pilcrowonpaper.com)</span></div><div class="topicdesc"><a href="topic?id=18224" class="c99 breakall">* Github: 오류 처리에 200 대신 400, 401 상태 코드를 보내주세요.  
-* Facebook: 오류 토큰의 `error` 속성을 객체 대신 문자열로 바꿔주세요. ...</a></div><div class="topicinfo"><span id="tp18224">5</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4시간전<span id="unvote18224"></span> | <a href="topic?id=18224" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18224"><a class="upvote" href="javascript:vote(18224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://pilcrowonpaper.com/blog/dear-oauth-providers/" rel="nofollow" id="tr2"><h1>OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음</h1></a> <span class="topicurl">(pilcrowonpaper.com)</span></div><div class="topicdesc"><a href="topic?id=18224" class="c99 breakall">* Github: 오류 처리에 200 대신 400, 401 상태 코드를 보내주세요.  
+* Facebook: 오류 토큰의 `error` 속성을 객체 대신 문자열로 바꿔주세요. ...</a></div><div class="topicinfo"><span id="tp18224">6</span> points by <a href="/user?id=carnoxen">carnoxen</a> 5시간전<span id="unvote18224"></span> | <a href="topic?id=18224" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined</id>
-        <link href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"/>
-        <updated>2024-12-12T04:19:56.169Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18226"><a class="upvote" href="javascript:vote(18226, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="nofollow" id="tr4"><h1>memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다</h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicinfo"><span id="tp18226">4</span> points by <a href="/user?id=guesswhat">guesswhat</a> 3시간전<span id="unvote18226"></span> | <a href="topic?id=18226" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://dspy.ai/</id>
+        <link href="https://dspy.ai/"/>
+        <updated>2024-12-12T03:00:28.563Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18212"><a class="upvote" href="javascript:vote(18212, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dspy.ai/" rel="nofollow" id="tr3"><h1>DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 </h1></a> <span class="topicurl">(dspy.ai)</span></div><div class="topicdesc"><a href="topic?id=18212" class="c99 breakall">- DSPy(Declarative Self-improving Python)는 프로그래밍을 통해 언어 모델(LM)을 제어하도록 설계된 프레임워크  
+- 간단한 분류기부터 복잡한 ...</a></div><div class="topicinfo"><span id="tp18212">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18212"></span> | <a href="topic?id=18212" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[klongpy - 파이썬용 고속 어레이 프로그래밍 언어 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://github.com/briangu/klongpy</id>
         <link href="https://github.com/briangu/klongpy"/>
         <updated>2024-12-12T01:15:21.644Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18211"><a class="upvote" href="javascript:vote(18211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/briangu/klongpy" rel="nofollow" id="tr5"><h1>klongpy - 파이썬용 고속 어레이 프로그래밍 언어</h1></a> <span class="topicurl">(github.com/briangu)</span></div><div class="topicdesc"><a href="topic?id=18211" class="c99 breakall">- NumPy의 강력한 성능을 활용하는 고성능 벡터화 연산으로 잘 알려진 Klong 배열 언어를 파이썬으로 변형한 것   
-- "Battery Included" 철학으...</a></div><div class="topicinfo"><span id="tp18211">6</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote18211"></span> | <a href="topic?id=18211" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18211"><a class="upvote" href="javascript:vote(18211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/briangu/klongpy" rel="nofollow" id="tr4"><h1>klongpy - 파이썬용 고속 어레이 프로그래밍 언어</h1></a> <span class="topicurl">(github.com/briangu)</span></div><div class="topicdesc"><a href="topic?id=18211" class="c99 breakall">- NumPy의 강력한 성능을 활용하는 고성능 벡터화 연산으로 잘 알려진 Klong 배열 언어를 파이썬으로 변형한 것   
+- "Battery Included" 철학으...</a></div><div class="topicinfo"><span id="tp18211">6</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote18211"></span> | <a href="topic?id=18211" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined</id>
+        <link href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"/>
+        <updated>2024-12-12T04:19:56.169Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18226"><a class="upvote" href="javascript:vote(18226, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="nofollow" id="tr5"><h1>memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다</h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicinfo"><span id="tp18226">4</span> points by <a href="/user?id=guesswhat">guesswhat</a> 4시간전<span id="unvote18226"></span> | <a href="topic?id=18226" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매일 5분만 써서 더욱 똑똑해지기 (feat. AI) (GeekNews ─ 최신글 원문)]]></title>
@@ -550,7 +556,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <link href="https://maily.so/life.interest/posts/e9o02pyez8w"/>
         <updated>2024-12-12T04:19:56.154Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18225"><a class="upvote" href="javascript:vote(18225, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://maily.so/life.interest/posts/e9o02pyez8w" rel="nofollow" id="tr6"><h1>매일 5분만 써서 더욱 똑똑해지기 (feat. AI)</h1></a> <span class="topicurl">(maily.so)</span></div><div class="topicdesc"><a href="topic?id=18225" class="c99 breakall">- 가추(Abduction)라는 추론 방식을 일상생활에서 연습하는 방법을 소개합니다.  
-- GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사...</a></div><div class="topicinfo"><span id="tp18225">3</span> points by <a href="/user?id=juwoong">juwoong</a> 3시간전<span id="unvote18225"></span> | <a href="topic?id=18225" class="u">댓글과 토론</a></div>]]></content>
+- GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사...</a></div><div class="topicinfo"><span id="tp18225">3</span> points by <a href="/user?id=juwoong">juwoong</a> 5시간전<span id="unvote18225"></span> | <a href="topic?id=18225" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흔한 컴파일러 오해들 (GeekNews ─ 최신글 원문)]]></title>
@@ -570,7 +576,7 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18210"><a class="upvote" href="javascript:vote(18210, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://deno.com/blog/v2.1" rel="nofollow" id="tr8"><h1>Deno 2.1</h1></a> <span class="topicurl">(deno.com)</span></div><div class="topicdesc"><a href="topic?id=18210" class="c99 breakall">- ESM import 구문으로 WASM 바로 불러올 수 있음  
   - `import { add } from './add.wasm';`  
 - LTS 지원 시작  
-  - 6주마다 새로운 마이너...</a></div><div class="topicinfo"><span id="tp18210">6</span> points by <a href="/user?id=cichol">cichol</a> 10시간전<span id="unvote18210"></span> | <a href="topic?id=18210" class="u">댓글과 토론</a></div>]]></content>
+  - 6주마다 새로운 마이너...</a></div><div class="topicinfo"><span id="tp18210">6</span> points by <a href="/user?id=cichol">cichol</a> 12시간전<span id="unvote18210"></span> | <a href="topic?id=18210" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[screenpipe - 데스크탑의 모든 데이터를 가져오는 API (GeekNews ─ 최신글 원문)]]></title>
@@ -616,37 +622,37 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
 - 이제 A...</a></div><div class="topicinfo"><span id="tp18162">42</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18162"></span> | <a href="topic?id=18162" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini 2.0 출시 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/</id>
-        <link href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/"/>
-        <updated>2024-12-12T03:38:18.937Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18222"><a class="upvote" href="javascript:vote(18222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/" rel="nofollow" id="tr14"><h1>Gemini 2.0 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=18222" class="c99 breakall">**Gemini 2.0: 개발자를 위한 차세대 AI 모델**  
-  
-- Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합...</a></div><div class="topicinfo"><span id="tp18222">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 4시간전<span id="unvote18222"></span> | <a href="topic?id=18222" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[gARM: ARM64에 특화된 고성능 Go 컴파일러 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://github.com/go-dockly/garm</id>
         <link href="https://github.com/go-dockly/garm"/>
         <updated>2024-12-11T01:15:51.426Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18202"><a class="upvote" href="javascript:vote(18202, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/go-dockly/garm" rel="nofollow" id="tr15"><h1>gARM: ARM64에 특화된 고성능 Go 컴파일러</h1></a> <span class="topicurl">(github.com/go-dockly)</span></div><div class="topicdesc"><a href="topic?id=18202" class="c99 breakall">Go 언어의 단순성과 저수준 제어 및 고성능을 결합한 ARM64 어셈블리 컴파일러.  
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18202"><a class="upvote" href="javascript:vote(18202, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/go-dockly/garm" rel="nofollow" id="tr14"><h1>gARM: ARM64에 특화된 고성능 Go 컴파일러</h1></a> <span class="topicurl">(github.com/go-dockly)</span></div><div class="topicdesc"><a href="topic?id=18202" class="c99 breakall">Go 언어의 단순성과 저수준 제어 및 고성능을 결합한 ARM64 어셈블리 컴파일러.  
 ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제어...</a></div><div class="topicinfo"><span id="tp18202">9</span> points by <a href="/user?id=lemonmint">lemonmint</a> 1일전<span id="unvote18202"></span> | <a href="topic?id=18202" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/</id>
-        <link href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"/>
-        <updated>2024-12-12T03:00:28.574Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18220"><a class="upvote" href="javascript:vote(18220, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/" rel="nofollow" id="tr16"><h1>GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 </h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18220" class="c99 breakall">- Gemini 1.0은 텍스트, 비디오, 이미지, 오디오 및 코드 전반에 걸쳐 정보를 처리할 수 있는 다중모드 모델로 혁신을 이루었음  
-- Gemini 2.0은...</a></div><div class="topicinfo"><span id="tp18220">1</span> point by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote18220"></span> | <a href="topic?id=18220" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite (GeekNews ─ 최신글 원문)]]></title>
         <id>https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust</id>
         <link href="https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust"/>
         <updated>2024-12-12T01:15:21.652Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18201"><a class="upvote" href="javascript:vote(18201, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust" rel="nofollow" id="tr17"><h1>GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite</h1></a> <span class="topicurl">(turso.tech)</span></div><div class="topicdesc"><a href="topic?id=18201" class="c99 breakall">- Limbo는 메모리 안전성을 제공하는 Rust로 SQLite를 재구현하는 실험적 프로젝트  
-  - SQLite의 임베디드 특성을 좋아하지만, 더 개방적인 개...</a></div><div class="topicinfo"><span id="tp18201">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18201"></span> | <a href="topic?id=18201" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18201"><a class="upvote" href="javascript:vote(18201, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust" rel="nofollow" id="tr15"><h1>GN⁺: Limbo - Rust로 완전히 새롭게 작성된 SQLite</h1></a> <span class="topicurl">(turso.tech)</span></div><div class="topicdesc"><a href="topic?id=18201" class="c99 breakall">- Limbo는 메모리 안전성을 제공하는 Rust로 SQLite를 재구현하는 실험적 프로젝트  
+  - SQLite의 임베디드 특성을 좋아하지만, 더 개방적인 개...</a></div><div class="topicinfo"><span id="tp18201">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18201"></span> | <a href="topic?id=18201" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.0 출시 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/</id>
+        <link href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/"/>
+        <updated>2024-12-12T03:38:18.937Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18222"><a class="upvote" href="javascript:vote(18222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/" rel="nofollow" id="tr16"><h1>Gemini 2.0 출시</h1></a> <span class="topicurl">(developers.googleblog.com)</span></div><div class="topicdesc"><a href="topic?id=18222" class="c99 breakall">**Gemini 2.0: 개발자를 위한 차세대 AI 모델**  
+  
+- Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합...</a></div><div class="topicinfo"><span id="tp18222">1</span> point by <a href="/user?id=lemonmint">lemonmint</a> 5시간전<span id="unvote18222"></span> | <a href="topic?id=18222" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/</id>
+        <link href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"/>
+        <updated>2024-12-12T03:00:28.574Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18220"><a class="upvote" href="javascript:vote(18220, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/" rel="nofollow" id="tr17"><h1>GN⁺: Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 </h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=18220" class="c99 breakall">- Gemini 1.0은 텍스트, 비디오, 이미지, 오디오 및 코드 전반에 걸쳐 정보를 처리할 수 있는 다중모드 모델로 혁신을 이루었음  
+- Gemini 2.0은...</a></div><div class="topicinfo"><span id="tp18220">1</span> point by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote18220"></span> | <a href="topic?id=18220" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기 (GeekNews ─ 최신글 원문)]]></title>
@@ -666,11 +672,14 @@ ARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제�
 - **UI3**는 2019년 이후 Figma의 가장 큰 인터페이스 변경으로, 복잡성을 줄이고 팀 협업...</a></div><div class="topicinfo"><span id="tp18196">6</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18196"></span> | <a href="topic?id=18196" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://news.hada.io/topic?id=18208</id>
-        <link href="https://news.hada.io/topic?id=18208"/>
-        <updated>2024-12-11T04:20:00.034Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18208"><a class="upvote" href="javascript:vote(18208, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18208" rel="nofollow" id="tr20"><h1>Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안</h1></a> <span class="topicurl">(github.com/CremitHQ)</span></div><div class="topicdesc"><a href="topic?id=18208" class="c99 breakall">중앙에서 관리되는 Secret Management Solution들의 한계점에 대해서 생각 해보신 적 있으신가요? 민감한 정보나 크리덴셜을 단일 서버나 서비스가...</a></div><div class="topicinfo"><span id="tp18208">5</span> points by <a href="/user?id=cremit">cremit</a> 1일전<span id="unvote18208"></span> | <a href="topic?id=18208" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://gosuda.org/randflake</id>
+        <link href="https://gosuda.org/randflake"/>
+        <updated>2024-12-12T08:21:19.086Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18189"><a class="upvote" href="javascript:vote(18189, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://gosuda.org/randflake" rel="nofollow" id="tr20"><h1>Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기</h1></a> <span class="topicurl">(gosuda.org)</span></div><div class="topicdesc"><a href="topic?id=18189" class="c99 breakall">Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.  
+  
+## 주요 특징  
+- **예측 불가능성**: 블록 암호를...</a></div><div class="topicinfo"><span id="tp18189">13</span> points by <a href="/user?id=lemonmint">lemonmint</a> 2일전<span id="unvote18189"></span> | <a href="topic?id=18189" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안 (GeekNews ─ Show)]]></title>
