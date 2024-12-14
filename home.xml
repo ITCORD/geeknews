@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2024-12-14T22:15:38.934Z</updated>
+    <updated>2024-12-14T23:15:23.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <link href="https://news.hada.io/topic?id=18248"/>
         <updated>2024-12-14T01:13:15.636Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18248"><a class="upvote" href="javascript:vote(18248, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kubespec.dev/" rel="nofollow" id="tr3"><h1>Kubernetes Spec Explorer</h1></a> <span class="topicurl">(kubespec.dev)</span></div><div class="topicdesc"><a href="topic?id=18248" class="c99 breakall">- 쿠버네티스의 모든 리소스/속성/타입/예제에 대한 문서를 쉽게 찾아 보기 가능  
-- 모든 리소스의 스키마, 유형 및 설명이 포함된 트리 보기 지...</a></div><div class="topicinfo"><span id="tp18248">4</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote18248"></span> | <a href="topic?id=18248" class="u">댓글과 토론</a></div>]]></content>
+- 모든 리소스의 스키마, 유형 및 설명이 포함된 트리 보기 지...</a></div><div class="topicinfo"><span id="tp18248">4</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18248"></span> | <a href="topic?id=18248" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흔한 컴파일러 오해들]]></title>
@@ -59,16 +59,15 @@
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18257"><a class="upvote" href="javascript:vote(18257, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://socket.dev/blog/node-js-delivers-first-lts-with-require-esm-enabled" rel="nofollow" id="tr6"><h1>Node.js, "require(esm)"이 활성화된 첫번째 LTS 발표</h1></a> <span class="topicurl">(socket.dev)</span></div><div class="topicdesc"><a href="topic?id=18257" class="c99 breakall"># 기본값으로 `require(esm)` 활성화  
   
 - Node.js 22.12.0 ('Jod') LTS 버전이 출시되었으며, 기본적으로 `require(esm)` 기능이 활성화됨  
-...</a></div><div class="topicinfo"><span id="tp18257">3</span> points by <a href="/user?id=neo">neo</a> 21시간전<span id="unvote18257"></span> | <a href="topic?id=18257" class="u">댓글과 토론</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp18257">3</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote18257"></span> | <a href="topic?id=18257" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 태블릿으로 엘리베이터 부르기 (스마트홈 해킹! - KDOne)]]></title>
-        <id>https://news.hada.io/topic?id=18262</id>
-        <link href="https://news.hada.io/topic?id=18262"/>
-        <updated>2024-12-14T14:13:08.958Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18262"><a class="upvote" href="javascript:vote(18262, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18262" rel="nofollow" id="tr7"><h1>Show GN: 태블릿으로 엘리베이터 부르기 (스마트홈 해킹! - KDOne)</h1></a> <span class="topicurl">(github.com/soulee-dev)</span></div><div class="topicdesc"><a href="topic?id=18262" class="c99 breakall"># KDOne Navien Home Network API Wrapper  
-  
-- 최근 한국 아파트 월패드에서는 **엘리베이터 호출**, **조명 전원** 등 다양한 동작 수행 가...</a></div><div class="topicinfo"><span id="tp18262">1</span> point by <a href="/user?id=soulee">soulee</a> 8시간전<span id="unvote18262"></span> | <a href="topic?id=18262" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: Electric (Postgres 동기화 엔진) 베타 출시]]></title>
+        <id>https://news.hada.io/topic?id=18239</id>
+        <link href="https://news.hada.io/topic?id=18239"/>
+        <updated>2024-12-13T03:01:47.942Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18239"><a class="upvote" href="javascript:vote(18239, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://electric-sql.com/blog/2024/12/10/electric-beta-release" rel="nofollow" id="tr7"><h1>GN⁺: Electric (Postgres 동기화 엔진) 베타 출시</h1></a> <span class="topicurl">(electric-sql.com)</span></div><div class="topicdesc"><a href="topic?id=18239" class="c99 breakall">- Electric은 Postgres 동기화 엔진으로, 실시간으로 Postgres 데이터를 로컬 앱과 서비스에 부분적으로 복제하는 기능을 제공  
+- 자체 동기화 ...</a></div><div class="topicinfo"><span id="tp18239">9</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18239"></span> | <a href="topic?id=18239" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 꼭 봐야 할 기술관련 TED 강연들]]></title>
@@ -80,12 +79,13 @@
 - 이제 A...</a></div><div class="topicinfo"><span id="tp18162">54</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote18162"></span> | <a href="topic?id=18162" class="u">댓글 9개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Electric (Postgres 동기화 엔진) 베타 출시]]></title>
-        <id>https://news.hada.io/topic?id=18239</id>
-        <link href="https://news.hada.io/topic?id=18239"/>
-        <updated>2024-12-13T03:01:47.942Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18239"><a class="upvote" href="javascript:vote(18239, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://electric-sql.com/blog/2024/12/10/electric-beta-release" rel="nofollow" id="tr9"><h1>GN⁺: Electric (Postgres 동기화 엔진) 베타 출시</h1></a> <span class="topicurl">(electric-sql.com)</span></div><div class="topicdesc"><a href="topic?id=18239" class="c99 breakall">- Electric은 Postgres 동기화 엔진으로, 실시간으로 Postgres 데이터를 로컬 앱과 서비스에 부분적으로 복제하는 기능을 제공  
-- 자체 동기화 ...</a></div><div class="topicinfo"><span id="tp18239">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18239"></span> | <a href="topic?id=18239" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[Show GN: 태블릿으로 엘리베이터 부르기 (스마트홈 해킹! - KDOne)]]></title>
+        <id>https://news.hada.io/topic?id=18262</id>
+        <link href="https://news.hada.io/topic?id=18262"/>
+        <updated>2024-12-14T14:13:08.958Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18262"><a class="upvote" href="javascript:vote(18262, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18262" rel="nofollow" id="tr9"><h1>Show GN: 태블릿으로 엘리베이터 부르기 (스마트홈 해킹! - KDOne)</h1></a> <span class="topicurl">(github.com/soulee-dev)</span></div><div class="topicdesc"><a href="topic?id=18262" class="c99 breakall"># KDOne Navien Home Network API Wrapper  
+  
+- 최근 한국 아파트 월패드에서는 **엘리베이터 호출**, **조명 전원** 등 다양한 동작 수행 가...</a></div><div class="topicinfo"><span id="tp18262">1</span> point by <a href="/user?id=soulee">soulee</a> 9시간전<span id="unvote18262"></span> | <a href="topic?id=18262" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bazel: 언제 사용해야 할까? (2023)]]></title>
@@ -114,21 +114,21 @@
 ...</a></div><div class="topicinfo"><span id="tp18153">48</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote18153"></span> | <a href="topic?id=18153" class="u">댓글 11개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Dioxus 0.6 – Rust로 개발된 크로스플랫폼 앱 프레임워크]]></title>
-        <id>https://news.hada.io/topic?id=18243</id>
-        <link href="https://news.hada.io/topic?id=18243"/>
-        <updated>2024-12-13T03:01:47.941Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18243"><a class="upvote" href="javascript:vote(18243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dioxuslabs.com/blog/release-060/" rel="nofollow" id="tr13"><h1>GN⁺: Dioxus 0.6 – Rust로 개발된 크로스플랫폼 앱 프레임워크 </h1></a> <span class="topicurl">(dioxuslabs.com)</span></div><div class="topicdesc"><a href="topic?id=18243" class="c99 breakall">- # Dioxus 0.6 출시  
-  - Dioxus는 웹, 데스크톱, 모바일 앱을 단일 코드베이스로 구축할 수 있는 Rust 기반 프레임워크  
-  - Flutter보다 더...</a></div><div class="topicinfo"><span id="tp18243">7</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18243"></span> | <a href="topic?id=18243" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[screenpipe - 데스크탑의 모든 데이터를 가져오는 API]]></title>
         <id>https://news.hada.io/topic?id=18198</id>
         <link href="https://news.hada.io/topic?id=18198"/>
         <updated>2024-12-11T01:15:46.302Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18198"><a class="upvote" href="javascript:vote(18198, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mediar-ai/screenpipe" rel="nofollow" id="tr14"><h1>screenpipe - 데스크탑의 모든 데이터를 가져오는 API</h1></a> <span class="topicurl">(github.com/mediar-ai)</span></div><div class="topicdesc"><a href="topic?id=18198" class="c99 breakall">- 사용자의 데스크탑 컨텍스트와 활동을 이해하고 향상 시키는 AI 에이전트를 쉽게 개발 가능   
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18198"><a class="upvote" href="javascript:vote(18198, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/mediar-ai/screenpipe" rel="nofollow" id="tr13"><h1>screenpipe - 데스크탑의 모든 데이터를 가져오는 API</h1></a> <span class="topicurl">(github.com/mediar-ai)</span></div><div class="topicdesc"><a href="topic?id=18198" class="c99 breakall">- 사용자의 데스크탑 컨텍스트와 활동을 이해하고 향상 시키는 AI 에이전트를 쉽게 개발 가능   
 - 데스크탑의 스크린, 보이스, 키보드, 마우스, ...</a></div><div class="topicinfo"><span id="tp18198">23</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18198"></span> | <a href="topic?id=18198" class="u">댓글 7개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Dioxus 0.6 – Rust로 개발된 크로스플랫폼 앱 프레임워크]]></title>
+        <id>https://news.hada.io/topic?id=18243</id>
+        <link href="https://news.hada.io/topic?id=18243"/>
+        <updated>2024-12-13T03:01:47.941Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18243"><a class="upvote" href="javascript:vote(18243, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dioxuslabs.com/blog/release-060/" rel="nofollow" id="tr14"><h1>GN⁺: Dioxus 0.6 – Rust로 개발된 크로스플랫폼 앱 프레임워크 </h1></a> <span class="topicurl">(dioxuslabs.com)</span></div><div class="topicdesc"><a href="topic?id=18243" class="c99 breakall">- # Dioxus 0.6 출시  
+  - Dioxus는 웹, 데스크톱, 모바일 앱을 단일 코드베이스로 구축할 수 있는 Rust 기반 프레임워크  
+  - Flutter보다 더...</a></div><div class="topicinfo"><span id="tp18243">7</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18243"></span> | <a href="topic?id=18243" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음]]></title>
