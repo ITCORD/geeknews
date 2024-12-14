@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-12-14T13:21:52.853Z</updated>
+    <updated>2024-12-14T14:13:51.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 태블릿으로 엘리베이터 부르기 (스마트홈 해킹! - KDOne)]]></title>
+        <id>https://news.hada.io/topic?id=18262</id>
+        <link href="https://news.hada.io/topic?id=18262"/>
+        <updated>2024-12-14T14:13:29.758Z</updated>
+        <content type="html"><![CDATA[soulee]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안]]></title>
         <id>https://news.hada.io/topic?id=18208</id>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[beenzinozino]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Cursor Chat Keeper - Chat 히스토리를 마크다운으로 정리해주는 Cursor 익스텐션]]></title>
-        <id>https://news.hada.io/topic?id=17981</id>
-        <link href="https://news.hada.io/topic?id=17981"/>
-        <updated>2024-11-27T15:17:04.977Z</updated>
-        <content type="html"><![CDATA[kennycha]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 리액트 컴포넌트 소스코드를 찾아주는 크롬 확장 프로그램]]></title>
         <id>https://news.hada.io/topic?id=17791</id>
         <link href="https://news.hada.io/topic?id=17791"/>
         <updated>2024-11-16T04:19:09.070Z</updated>
         <content type="html"><![CDATA[unqocn]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Cursor Chat Keeper - Chat 히스토리를 마크다운으로 정리해주는 Cursor 익스텐션]]></title>
+        <id>https://news.hada.io/topic?id=17981</id>
+        <link href="https://news.hada.io/topic?id=17981"/>
+        <updated>2024-11-27T15:17:04.977Z</updated>
+        <content type="html"><![CDATA[kennycha]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: diary.sh - 나와 AI의 교환일기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17583"/>
         <updated>2024-11-04T08:20:30.717Z</updated>
         <content type="html"><![CDATA[dnltmdwhd]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Co-op Translator:  명령어 한 줄로 프로젝트 다국어 번역 지원하기]]></title>
-        <id>https://news.hada.io/topic?id=17534</id>
-        <link href="https://news.hada.io/topic?id=17534"/>
-        <updated>2024-12-11T09:17:55.058Z</updated>
-        <content type="html"><![CDATA[skytin1004]]></content>
     </entry>
 </feed>
