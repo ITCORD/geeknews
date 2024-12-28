@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-12-28T17:12:45.762Z</updated>
+    <updated>2024-12-28T18:19:26.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 이별 후의 감정을 기록하고 분석하는 Healing Diary]]></title>
+        <id>https://news.hada.io/topic?id=18475</id>
+        <link href="https://news.hada.io/topic?id=18475"/>
+        <updated>2024-12-28T18:19:03.594Z</updated>
+        <content type="html"><![CDATA[mansukim1125]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: GitHub PR을 cherry-pick 해보세요]]></title>
         <id>https://news.hada.io/topic?id=18433</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17791"/>
         <updated>2024-11-16T04:19:09.070Z</updated>
         <content type="html"><![CDATA[unqocn]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 수능 국어 LLM 벤치마크 리더보드 오픈]]></title>
-        <id>https://news.hada.io/topic?id=17292</id>
-        <link href="https://news.hada.io/topic?id=17292"/>
-        <updated>2024-12-25T22:14:21.126Z</updated>
-        <content type="html"><![CDATA[ironman0722]]></content>
     </entry>
 </feed>
