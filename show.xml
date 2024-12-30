@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2024-12-30T14:14:30.006Z</updated>
+    <updated>2024-12-30T15:16:00.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 오픈소스 커뮤니티 빌더 TSBOARD의 새로운 백엔드 : GOAPI]]></title>
+        <id>https://news.hada.io/topic?id=18505</id>
+        <link href="https://news.hada.io/topic?id=18505"/>
+        <updated>2024-12-30T15:15:38.603Z</updated>
+        <content type="html"><![CDATA[tsboard]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 가볍고 효율적인 RAG 모델 평가 코드 프로젝트]]></title>
         <id>https://news.hada.io/topic?id=18501</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17738"/>
         <updated>2024-11-13T16:19:55.479Z</updated>
         <content type="html"><![CDATA[beenzinozino]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 브라우저에서 시작하는 버튜버 방송]]></title>
-        <id>https://news.hada.io/topic?id=17637</id>
-        <link href="https://news.hada.io/topic?id=17637"/>
-        <updated>2024-11-07T14:14:18.362Z</updated>
-        <content type="html"><![CDATA[kyc1682]]></content>
     </entry>
 </feed>
