@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2025-01-04T03:19:34.215Z</updated>
+    <updated>2025-01-04T04:18:00.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[CoolStuff - 개인용 북마킹 앱]]></title>
-        <id>https://coolstuff.app/</id>
-        <link href="https://coolstuff.app/"/>
-        <updated>2025-01-04T02:43:10.738Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18568"><a class="upvote" href="javascript:vote(18568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://coolstuff.app/" rel="nofollow" id="tr1"><h1>CoolStuff - 개인용 북마킹 앱</h1></a> <span class="topicurl">(coolstuff.app)</span></div><div class="topicdesc"><a href="topic?id=18568" class="c99 breakall">- 웹 사이트 및 앱을 보다가 자신에게 해당 링크를 메일로 보내거나 스크린샷을 찍어두는 사람들에게 유용한 북마킹 솔루션   
-- 웹/iOS에서 사용...</a></div><div class="topicinfo"><span id="tp18568">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote18568"></span> | <a href="topic?id=18568" class="u">댓글 1개</a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[MitmProxy2Swagger - REST API 자동 리버스 엔지니어링 도구]]></title>
         <id>https://github.com/alufers/mitmproxy2swagger</id>
         <link href="https://github.com/alufers/mitmproxy2swagger"/>
         <updated>2025-01-03T02:46:58.964Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18558"><a class="upvote" href="javascript:vote(18558, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alufers/mitmproxy2swagger" rel="nofollow" id="tr2"><h1>MitmProxy2Swagger - REST API 자동 리버스 엔지니어링 도구</h1></a> <span class="topicurl">(github.com/alufers)</span></div><div class="topicdesc"><a href="topic?id=18558" class="c99 breakall">- mitmproxy로 캡처된 HTTP 트래픽을 OpenAPI 3.0 스펙으로 자동 변환하는 도구  
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18558"><a class="upvote" href="javascript:vote(18558, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alufers/mitmproxy2swagger" rel="nofollow" id="tr1"><h1>MitmProxy2Swagger - REST API 자동 리버스 엔지니어링 도구</h1></a> <span class="topicurl">(github.com/alufers)</span></div><div class="topicdesc"><a href="topic?id=18558" class="c99 breakall">- mitmproxy로 캡처된 HTTP 트래픽을 OpenAPI 3.0 스펙으로 자동 변환하는 도구  
 - 앱을 실행하고 트래픽을 캡처하는 것만으로 REST API를 역설...</a></div><div class="topicinfo"><span id="tp18558">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18558"></span> | <a href="topic?id=18558" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -26,10 +18,18 @@
         <id>https://neatnik.net/calendar/?year=2025</id>
         <link href="https://neatnik.net/calendar/?year=2025"/>
         <updated>2025-01-03T01:10:14.577Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18554"><a class="upvote" href="javascript:vote(18554, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neatnik.net/calendar/?year=2025" rel="nofollow" id="tr3"><h1>Neatnik Calendar - 출력용 1년 달력 페이지</h1></a> <span class="topicurl">(neatnik.net)</span></div><div class="topicdesc"><a href="topic?id=18554" class="c99 breakall">- 모든 페이지와 종이에 맞게 자동 조정됨   
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18554"><a class="upvote" href="javascript:vote(18554, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neatnik.net/calendar/?year=2025" rel="nofollow" id="tr2"><h1>Neatnik Calendar - 출력용 1년 달력 페이지</h1></a> <span class="topicurl">(neatnik.net)</span></div><div class="topicdesc"><a href="topic?id=18554" class="c99 breakall">- 모든 페이지와 종이에 맞게 자동 조정됨   
   - 가로 모드에서 가장 보기 좋게 출력  
 - 출력 년도 지정 가능 : `year=2025`  
 - 각 월의 주...</a></div><div class="topicinfo"><span id="tp18554">20</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18554"></span> | <a href="topic?id=18554" class="u">댓글 9개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoolStuff - 개인용 북마킹 앱]]></title>
+        <id>https://coolstuff.app/</id>
+        <link href="https://coolstuff.app/"/>
+        <updated>2025-01-04T02:43:10.738Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18568"><a class="upvote" href="javascript:vote(18568, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://coolstuff.app/" rel="nofollow" id="tr3"><h1>CoolStuff - 개인용 북마킹 앱</h1></a> <span class="topicurl">(coolstuff.app)</span></div><div class="topicdesc"><a href="topic?id=18568" class="c99 breakall">- 웹 사이트 및 앱을 보다가 자신에게 해당 링크를 메일로 보내거나 스크린샷을 찍어두는 사람들에게 유용한 북마킹 솔루션   
+- 웹/iOS에서 사용...</a></div><div class="topicinfo"><span id="tp18568">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote18568"></span> | <a href="topic?id=18568" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 당신에겐 Next.js가 필요하지 않습니다 - 우리가 Next에서 React로 이관한 이유]]></title>
@@ -47,7 +47,7 @@
         <updated>2025-01-03T02:46:58.973Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18560"><a class="upvote" href="javascript:vote(18560, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://composio.dev/blog/notes-on-new-deepseek-v3/" rel="nofollow" id="tr5"><h1>DeepSeek v3에 대한 노트 - "정말로 GPT-4o나 3.5 Sonnet보다 좋은가?"</h1></a> <span class="topicurl">(composio.dev)</span></div><div class="topicdesc"><a href="topic?id=18560" class="c99 breakall">- DeepSeek이 플래그십 모델 v3를 출시함   
   - 607B 파라미터의 Mixture-of-Experts(MoE) 모델로, 활성 파라미터는 37B  
-  - v3는 Llama 3.1 ...</a></div><div class="topicinfo"><span id="tp18560">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18560"></span> | <a href="topic?id=18560" class="u">댓글 8개</a></div>]]></content>
+  - v3는 Llama 3.1 ...</a></div><div class="topicinfo"><span id="tp18560">13</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18560"></span> | <a href="topic?id=18560" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CodingFont - 코딩용 폰트를 토너먼트로 찾아보기]]></title>
@@ -64,7 +64,7 @@
         <updated>2025-01-03T11:12:51.080Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18561"><a class="upvote" href="javascript:vote(18561, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18561" rel="nofollow" id="tr7"><h1>Show GN: Livoa.io: 복잡한 디자인 작업, AI로 더 간편하게! </h1></a> <span class="topicurl">(livoa.io)</span></div><div class="topicdesc"><a href="topic?id=18561" class="c99 breakall"># 복잡한 디자인 작업, AI로 더 간편하게!  
   
-[Livoa.io](https://livoa.io)는 복잡한 디자인 작업을 혁신적으로 단순화하는 AI 기반 디자인 ...</a></div><div class="topicinfo"><span id="tp18561">5</span> points by <a href="/user?id=igdev">igdev</a> 16시간전<span id="unvote18561"></span> | <a href="topic?id=18561" class="u">댓글과 토론</a></div>]]></content>
+[Livoa.io](https://livoa.io)는 복잡한 디자인 작업을 혁신적으로 단순화하는 AI 기반 디자인 ...</a></div><div class="topicinfo"><span id="tp18561">5</span> points by <a href="/user?id=igdev">igdev</a> 17시간전<span id="unvote18561"></span> | <a href="topic?id=18561" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Static Search Trees : 이진 검색보다 40배 빠르게]]></title>
@@ -138,20 +138,20 @@
   ...</a></div><div class="topicinfo"><span id="tp18522">16</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18522"></span> | <a href="topic?id=18522" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GN⁺: TPM이 아니라 "GPU"가 하드웨어 DRM의 핵심]]></title>
+        <id>https://mjg59.dreamwidth.org/70954.html</id>
+        <link href="https://mjg59.dreamwidth.org/70954.html"/>
+        <updated>2025-01-04T01:08:35.793Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18550"><a class="upvote" href="javascript:vote(18550, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mjg59.dreamwidth.org/70954.html" rel="nofollow" id="tr16"><h1>GN⁺: TPM이 아니라 "GPU"가 하드웨어 DRM의 핵심</h1></a> <span class="topicurl">(mjg59.dreamwidth.org)</span></div><div class="topicdesc"><a href="topic?id=18550" class="c99 breakall">- FSF는 최근 "설계상 결함(Defective by Design)" 이라는 DRM 방지 캠페인의 일환으로 이런 주장을 함   
+  &gt; "오늘날 대부분의 주요 스트리밍 ...</a></div><div class="topicinfo"><span id="tp18550">3</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18550"></span> | <a href="topic?id=18550" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GN⁺: SQLite에 관한 재미있는 사실들]]></title>
         <id>https://avi.im/blag/2024/sqlite-facts/</id>
         <link href="https://avi.im/blag/2024/sqlite-facts/"/>
         <updated>2024-12-31T02:44:46.118Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18514"><a class="upvote" href="javascript:vote(18514, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://avi.im/blag/2024/sqlite-facts/" rel="nofollow" id="tr16"><h1>GN⁺: SQLite에 관한 재미있는 사실들</h1></a> <span class="topicurl">(avi.im)</span></div><div class="topicdesc"><a href="topic?id=18514" class="c99 breakall">- SQLite는 가장 많이 배포되고 사용되는 데이터베이스임  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18514"><a class="upvote" href="javascript:vote(18514, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://avi.im/blag/2024/sqlite-facts/" rel="nofollow" id="tr17"><h1>GN⁺: SQLite에 관한 재미있는 사실들</h1></a> <span class="topicurl">(avi.im)</span></div><div class="topicdesc"><a href="topic?id=18514" class="c99 breakall">- SQLite는 가장 많이 배포되고 사용되는 데이터베이스임  
   - 1조 개 이상의 SQLite 데이터베이스가 사용 중이며, 세 명의 사람이 유지 관리함 ...</a></div><div class="topicinfo"><span id="tp18514">22</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote18514"></span> | <a href="topic?id=18514" class="u">댓글 7개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anki AI Utils - AI로 Anki를 더 유용하게 만들기]]></title>
-        <id>https://github.com/thiswillbeyourgithub/AnkiAIUtils</id>
-        <link href="https://github.com/thiswillbeyourgithub/AnkiAIUtils"/>
-        <updated>2024-12-31T02:44:46.116Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18516"><a class="upvote" href="javascript:vote(18516, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/thiswillbeyourgithub/AnkiAIUtils" rel="nofollow" id="tr17"><h1>Anki AI Utils - AI로 Anki를 더 유용하게 만들기</h1></a> <span class="topicurl">(github.com/thiswillbeyourgithub)</span></div><div class="topicdesc"><a href="topic?id=18516" class="c99 breakall">- Anki 학습 카드를 자동으로 개선하는 AI 기반 도구 모음  
-  - 주요 목표는 의학, 언어, 복잡한 과목을 공부하는 사람들로, 특히 어려운 개념을...</a></div><div class="topicinfo"><span id="tp18516">19</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18516"></span> | <a href="topic?id=18516" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 로컬에서 LLM 실행하기]]></title>
@@ -163,12 +163,12 @@
 - Core i9(32 스...</a></div><div class="topicinfo"><span id="tp18500">26</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote18500"></span> | <a href="topic?id=18500" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: TPM이 아니라 "GPU"가 하드웨어 DRM의 핵심]]></title>
-        <id>https://mjg59.dreamwidth.org/70954.html</id>
-        <link href="https://mjg59.dreamwidth.org/70954.html"/>
-        <updated>2025-01-04T01:08:35.793Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18550"><a class="upvote" href="javascript:vote(18550, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://mjg59.dreamwidth.org/70954.html" rel="nofollow" id="tr19"><h1>GN⁺: TPM이 아니라 "GPU"가 하드웨어 DRM의 핵심</h1></a> <span class="topicurl">(mjg59.dreamwidth.org)</span></div><div class="topicdesc"><a href="topic?id=18550" class="c99 breakall">- FSF는 최근 "설계상 결함(Defective by Design)" 이라는 DRM 방지 캠페인의 일환으로 이런 주장을 함   
-  &gt; "오늘날 대부분의 주요 스트리밍 ...</a></div><div class="topicinfo"><span id="tp18550">2</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18550"></span> | <a href="topic?id=18550" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Anki AI Utils - AI로 Anki를 더 유용하게 만들기]]></title>
+        <id>https://github.com/thiswillbeyourgithub/AnkiAIUtils</id>
+        <link href="https://github.com/thiswillbeyourgithub/AnkiAIUtils"/>
+        <updated>2024-12-31T02:44:46.116Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18516"><a class="upvote" href="javascript:vote(18516, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/thiswillbeyourgithub/AnkiAIUtils" rel="nofollow" id="tr19"><h1>Anki AI Utils - AI로 Anki를 더 유용하게 만들기</h1></a> <span class="topicurl">(github.com/thiswillbeyourgithub)</span></div><div class="topicdesc"><a href="topic?id=18516" class="c99 breakall">- Anki 학습 카드를 자동으로 개선하는 AI 기반 도구 모음  
+  - 주요 목표는 의학, 언어, 복잡한 과목을 공부하는 사람들로, 특히 어려운 개념을...</a></div><div class="topicinfo"><span id="tp18516">19</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18516"></span> | <a href="topic?id=18516" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kent Hendricks가 2024년에 배운 52가지]]></title>
