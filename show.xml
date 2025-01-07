@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-07T22:14:43.923Z</updated>
+    <updated>2025-01-07T23:14:40.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -17,6 +17,13 @@
         <id>https://news.hada.io/topic?id=18602</id>
         <link href="https://news.hada.io/topic?id=18602"/>
         <updated>2025-01-06T12:31:06.761Z</updated>
+        <content type="html"><![CDATA[leelou2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Rust 커뮤니티를 Django 와 AI 로 만들었다고?]]></title>
+        <id>https://news.hada.io/topic?id=18617</id>
+        <link href="https://news.hada.io/topic?id=18617"/>
+        <updated>2025-01-07T23:14:19.815Z</updated>
         <content type="html"><![CDATA[leelou2]]></content>
     </entry>
     <entry>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18142"/>
         <updated>2024-12-07T16:18:34.348Z</updated>
         <content type="html"><![CDATA[vulcanidic]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: [작은 앱 프로젝트] 윤슬 가계부: 아이폰, 아이패드, 맥 가계부 앱 (Mac Catalyst 사용 사례)]]></title>
-        <id>https://news.hada.io/topic?id=18190</id>
-        <link href="https://news.hada.io/topic?id=18190"/>
-        <updated>2024-12-10T05:16:38.537Z</updated>
-        <content type="html"><![CDATA[plant]]></content>
     </entry>
 </feed>
