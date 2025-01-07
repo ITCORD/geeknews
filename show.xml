@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-07T09:17:20.932Z</updated>
+    <updated>2025-01-07T10:17:55.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Livoa Vectorizer - 흐릿한 이미지도 깔끔하게 벡터화]]></title>
+        <id>https://news.hada.io/topic?id=18615</id>
+        <link href="https://news.hada.io/topic?id=18615"/>
+        <updated>2025-01-07T10:17:34.471Z</updated>
+        <content type="html"><![CDATA[igdev]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 10번의 고도화로 완성된 URL Shortener(Rust ver.) 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=18602</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18190"/>
         <updated>2024-12-10T05:16:38.537Z</updated>
         <content type="html"><![CDATA[plant]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Co-op Translator – OpenAI 모델 지원 및 Markdown-only 기능 추가]]></title>
-        <id>https://news.hada.io/topic?id=18360</id>
-        <link href="https://news.hada.io/topic?id=18360"/>
-        <updated>2024-12-20T05:15:24.868Z</updated>
-        <content type="html"><![CDATA[skytin1004]]></content>
     </entry>
 </feed>
