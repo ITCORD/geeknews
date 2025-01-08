@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-08T07:14:42.271Z</updated>
+    <updated>2025-01-08T08:20:32.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://news.hada.io/topic?id=18629"/>
         <updated>2025-01-08T02:45:54.456Z</updated>
         <content type="html"><![CDATA[0126kjw]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: TypeScript 기반 JSON Schema 구현과 개발 도구 모음]]></title>
+        <id>https://news.hada.io/topic?id=18634</id>
+        <link href="https://news.hada.io/topic?id=18634"/>
+        <updated>2025-01-08T08:20:11.286Z</updated>
+        <content type="html"><![CDATA[honglu]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 10번의 고도화로 완성된 URL Shortener(Rust ver.) 오픈소스]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18345"/>
         <updated>2024-12-19T15:16:56.803Z</updated>
         <content type="html"><![CDATA[nkkko]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 인터넷 연결 없이 클라이언트에서 간편결제 QR코드 만들기]]></title>
-        <id>https://news.hada.io/topic?id=17928</id>
-        <link href="https://news.hada.io/topic?id=17928"/>
-        <updated>2024-11-24T11:13:21.114Z</updated>
-        <content type="html"><![CDATA[rycont]]></content>
     </entry>
 </feed>
