@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-08T14:15:07.295Z</updated>
+    <updated>2025-01-08T15:17:23.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Rust 커뮤니티를 Django 와 AI 로 만들었다고?]]></title>
+        <id>https://news.hada.io/topic?id=18617</id>
+        <link href="https://news.hada.io/topic?id=18617"/>
+        <updated>2025-01-07T23:14:19.815Z</updated>
+        <content type="html"><![CDATA[leelou2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: TypeScript 기반 JSON Schema 구현과 개발 도구 모음]]></title>
         <id>https://news.hada.io/topic?id=18634</id>
@@ -18,13 +25,6 @@
         <link href="https://news.hada.io/topic?id=18629"/>
         <updated>2025-01-08T02:45:54.456Z</updated>
         <content type="html"><![CDATA[0126kjw]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Rust 커뮤니티를 Django 와 AI 로 만들었다고?]]></title>
-        <id>https://news.hada.io/topic?id=18617</id>
-        <link href="https://news.hada.io/topic?id=18617"/>
-        <updated>2025-01-07T23:14:19.815Z</updated>
-        <content type="html"><![CDATA[leelou2]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 10번의 고도화로 완성된 URL Shortener(Rust ver.) 오픈소스]]></title>
