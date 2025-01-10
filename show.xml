@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-10T10:17:06.771Z</updated>
+    <updated>2025-01-10T11:13:33.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: AI로 요약한 한글 해커 뉴스를 이메일, 슬랙으로 받아보세요 (완전 무료, 광고 없음)]]></title>
+        <id>https://news.hada.io/topic?id=18666</id>
+        <link href="https://news.hada.io/topic?id=18666"/>
+        <updated>2025-01-10T11:13:11.812Z</updated>
+        <content type="html"><![CDATA[leelou2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: FileNic - macOS에서 한글 파일명 자소분리 문제 해결기]]></title>
         <id>https://news.hada.io/topic?id=18629</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=17979"/>
         <updated>2024-11-27T08:21:29.728Z</updated>
         <content type="html"><![CDATA[jongtk12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Advent of SQL 2024]]></title>
-        <id>https://news.hada.io/topic?id=18046</id>
-        <link href="https://news.hada.io/topic?id=18046"/>
-        <updated>2024-12-01T07:14:47.642Z</updated>
-        <content type="html"><![CDATA[chiwanpark]]></content>
     </entry>
 </feed>
