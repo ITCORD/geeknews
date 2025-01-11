@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2025-01-11T22:14:24.108Z</updated>
+    <updated>2025-01-11T23:14:25.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -28,7 +28,7 @@
         <link href="https://github.com/byawitz/ggh/"/>
         <updated>2025-01-11T01:10:11.260Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18674"><a class="upvote" href="javascript:vote(18674, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/byawitz/ggh/" rel="nofollow" id="tr3"><h1>GGH - SSH 세션을 Recall하는 도구 </h1></a> <span class="topicurl">(github.com/byawitz)</span></div><div class="topicdesc"><a href="topic?id=18674" class="c99 breakall">- SSH 코맨드를 감싸서 기존에 사용했던 세션을 그대로 사용하게(Recall) 해주는 도구   
-- 일반 `ssh` 를 사용하는 것 처럼 `ggh`를 사용하면 됨...</a></div><div class="topicinfo"><span id="tp18674">6</span> points by <a href="/user?id=xguru">xguru</a> 22시간전<span id="unvote18674"></span> | <a href="topic?id=18674" class="u">댓글과 토론</a></div>]]></content>
+- 일반 `ssh` 를 사용하는 것 처럼 `ggh`를 사용하면 됨...</a></div><div class="topicinfo"><span id="tp18674">6</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18674"></span> | <a href="topic?id=18674" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CORS는 멍청하다]]></title>
@@ -44,7 +44,7 @@
         <link href="https://news.hada.io/topic?id=18666"/>
         <updated>2025-01-10T11:12:55.876Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18666"><a class="upvote" href="javascript:vote(18666, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18666" rel="nofollow" id="tr5"><h1>Show GN: AI로 요약한 한글 해커 뉴스를 이메일, 슬랙으로 받아보세요 (완전 무료, 광고 없음)</h1></a> <span class="topicurl">(n8n.lou2.kr)</span></div><div class="topicdesc"><a href="topic?id=18666" class="c99 breakall">(정말 제가 보려고 만든건데 필요하신 분이 계실까봐 공유드려요)  
-해커뉴스 많이 보시나요? 영어에 제목과 링크만 있다보니 여기저기 찾아다니...</a></div><div class="topicinfo"><span id="tp18666">11</span> points by <a href="/user?id=leelou2">leelou2</a> 1일전<span id="unvote18666"></span> | <a href="topic?id=18666" class="u">댓글 1개</a></div>]]></content>
+해커뉴스 많이 보시나요? 영어에 제목과 링크만 있다보니 여기저기 찾아다니...</a></div><div class="topicinfo"><span id="tp18666">11</span> points by <a href="/user?id=leelou2">leelou2</a> 2일전<span id="unvote18666"></span> | <a href="topic?id=18666" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 타입스크립트를 기본으로 지원하기 시작]]></title>
@@ -72,20 +72,11 @@ node index.ts 명령으로 TypeScript 파...</a></div><div class="topicinfo"><sp
 - 업무 외에도 개인 프로젝트를 꾸준히 ...</a></div><div class="topicinfo"><span id="tp18608">52</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote18608"></span> | <a href="topic?id=18608" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LogLayer - 여러 Javascript 로깅 라이브러리 위에서 동작하는 통합 로거]]></title>
-        <id>https://github.com/loglayer/loglayer</id>
-        <link href="https://github.com/loglayer/loglayer"/>
-        <updated>2025-01-10T01:11:35.257Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18655"><a class="upvote" href="javascript:vote(18655, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/loglayer/loglayer" rel="nofollow" id="tr9"><h1>LogLayer - 여러 Javascript 로깅 라이브러리 위에서 동작하는 통합 로거</h1></a> <span class="topicurl">(github.com/loglayer)</span></div><div class="topicdesc"><a href="topic?id=18655" class="c99 breakall">- 다양한 로깅 라이브러리와 클라우드 제공자로 로그를 라우팅  
-  - 로그 메시지, 메타데이터, 오류를 명확하게 지정할 수 있는 API를 제공  
--...</a></div><div class="topicinfo"><span id="tp18655">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18655"></span> | <a href="topic?id=18655" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025년 디자이너를 위한 새로운 프론트엔드 기능들]]></title>
         <id>https://www.smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/</id>
         <link href="https://www.smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/"/>
         <updated>2025-01-08T01:10:44.041Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18627"><a class="upvote" href="javascript:vote(18627, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/" rel="nofollow" id="tr10"><h1>2025년 디자이너를 위한 새로운 프론트엔드 기능들</h1></a> <span class="topicurl">(smashingmagazine.com)</span></div><div class="topicdesc"><a href="topic?id=18627" class="c99 breakall">- 현대 웹 기술의 발전으로 과거에는 JavaScript로 구현해야 했던 많은 작업이 이제 HTML과 CSS로 간단히 가능  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18627"><a class="upvote" href="javascript:vote(18627, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/" rel="nofollow" id="tr9"><h1>2025년 디자이너를 위한 새로운 프론트엔드 기능들</h1></a> <span class="topicurl">(smashingmagazine.com)</span></div><div class="topicdesc"><a href="topic?id=18627" class="c99 breakall">- 현대 웹 기술의 발전으로 과거에는 JavaScript로 구현해야 했던 많은 작업이 이제 HTML과 CSS로 간단히 가능  
 - 컴포넌트 중심 스타일링, 부모...</a></div><div class="topicinfo"><span id="tp18627">35</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18627"></span> | <a href="topic?id=18627" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -93,11 +84,20 @@ node index.ts 명령으로 TypeScript 파...</a></div><div class="topicinfo"><sp
         <id>https://risingstars.js.org/2024/en</id>
         <link href="https://risingstars.js.org/2024/en"/>
         <updated>2025-01-07T20:16:22.072Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18616"><a class="upvote" href="javascript:vote(18616, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://risingstars.js.org/2024/en" rel="nofollow" id="tr11"><h1>2024 JavaScript Rising Stars</h1></a> <span class="topicurl">(risingstars.js.org)</span></div><div class="topicdesc"><a href="topic?id=18616" class="c99 breakall">2024년 한 해 동안 가장 많은 GitHub Star를 받은 자바스크립트 프로젝트 순위입니다.  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18616"><a class="upvote" href="javascript:vote(18616, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://risingstars.js.org/2024/en" rel="nofollow" id="tr10"><h1>2024 JavaScript Rising Stars</h1></a> <span class="topicurl">(risingstars.js.org)</span></div><div class="topicdesc"><a href="topic?id=18616" class="c99 breakall">2024년 한 해 동안 가장 많은 GitHub Star를 받은 자바스크립트 프로젝트 순위입니다.  
   
 전체 프로젝트 부문  
 1위. shadcn/ui  
 2위. Exca...</a></div><div class="topicinfo"><span id="tp18616">38</span> points by <a href="/user?id=soaple">soaple</a> 4일전<span id="unvote18616"></span> | <a href="topic?id=18616" class="u">댓글 9개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LogLayer - 여러 Javascript 로깅 라이브러리 위에서 동작하는 통합 로거]]></title>
+        <id>https://github.com/loglayer/loglayer</id>
+        <link href="https://github.com/loglayer/loglayer"/>
+        <updated>2025-01-10T01:11:35.257Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18655"><a class="upvote" href="javascript:vote(18655, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/loglayer/loglayer" rel="nofollow" id="tr11"><h1>LogLayer - 여러 Javascript 로깅 라이브러리 위에서 동작하는 통합 로거</h1></a> <span class="topicurl">(github.com/loglayer)</span></div><div class="topicdesc"><a href="topic?id=18655" class="c99 breakall">- 다양한 로깅 라이브러리와 클라우드 제공자로 로그를 라우팅  
+  - 로그 메시지, 메타데이터, 오류를 명확하게 지정할 수 있는 API를 제공  
+-...</a></div><div class="topicinfo"><span id="tp18655">11</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18655"></span> | <a href="topic?id=18655" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: PDF 내에서 구현된 테트리스]]></title>
@@ -132,19 +132,19 @@ node index.ts 명령으로 TypeScript 파...</a></div><div class="topicinfo"><sp
   - `act`, `extract`, `observe`라는 세 가...</a></div><div class="topicinfo"><span id="tp18660">9</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18660"></span> | <a href="topic?id=18660" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Salesforce는 2025년엔 더 이상 소프트웨어를 고용하지 않을 것]]></title>
-        <id>https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/</id>
-        <link href="https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/"/>
-        <updated>2025-01-10T02:51:03.206Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18658"><a class="upvote" href="javascript:vote(18658, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/" rel="nofollow" id="tr16"><h1>GN⁺: Salesforce는 2025년엔 더 이상 소프트웨어를 고용하지 않을 것</h1></a> <span class="topicurl">(salesforceben.com)</span></div><div class="topicdesc"><a href="topic?id=18658" class="c99 breakall">- Salesforce의 CEO인 Marc Benioff는 2025년에 소프트웨어 엔지니어를 더 이상 채용하지 않을 것임을 밝힘  
-- AI로 인한 생산성 향상이 주요 원...</a></div><div class="topicinfo"><span id="tp18658">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18658"></span> | <a href="topic?id=18658" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: 대규모 기존 코드베이스에서 엔지니어들이 저지르는 실수]]></title>
         <id>https://www.seangoedecke.com/large-established-codebases/</id>
         <link href="https://www.seangoedecke.com/large-established-codebases/"/>
         <updated>2025-01-11T05:13:37.973Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18635"><a class="upvote" href="javascript:vote(18635, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.seangoedecke.com/large-established-codebases/" rel="nofollow" id="tr17"><h1>GN⁺: 대규모 기존 코드베이스에서 엔지니어들이 저지르는 실수</h1></a> <span class="topicurl">(seangoedecke.com)</span></div><div class="topicdesc"><a href="topic?id=18635" class="c99 breakall">- 대규모 코드베이스에서 작업하는 것은 소프트웨어 엔지니어에게 가장 어려운 일 중 하나임. 개인 프로젝트나 오픈 소스 프로젝트로는 이러한 경...</a></div><div class="topicinfo"><span id="tp18635">22</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote18635"></span> | <a href="topic?id=18635" class="u">댓글 8개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18635"><a class="upvote" href="javascript:vote(18635, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.seangoedecke.com/large-established-codebases/" rel="nofollow" id="tr16"><h1>GN⁺: 대규모 기존 코드베이스에서 엔지니어들이 저지르는 실수</h1></a> <span class="topicurl">(seangoedecke.com)</span></div><div class="topicdesc"><a href="topic?id=18635" class="c99 breakall">- 대규모 코드베이스에서 작업하는 것은 소프트웨어 엔지니어에게 가장 어려운 일 중 하나임. 개인 프로젝트나 오픈 소스 프로젝트로는 이러한 경...</a></div><div class="topicinfo"><span id="tp18635">22</span> points by <a href="/user?id=neo">neo</a> 4일전<span id="unvote18635"></span> | <a href="topic?id=18635" class="u">댓글 8개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Salesforce는 2025년엔 더 이상 소프트웨어를 고용하지 않을 것]]></title>
+        <id>https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/</id>
+        <link href="https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/"/>
+        <updated>2025-01-10T02:51:03.206Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18658"><a class="upvote" href="javascript:vote(18658, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/" rel="nofollow" id="tr17"><h1>GN⁺: Salesforce는 2025년엔 더 이상 소프트웨어를 고용하지 않을 것</h1></a> <span class="topicurl">(salesforceben.com)</span></div><div class="topicdesc"><a href="topic?id=18658" class="c99 breakall">- Salesforce의 CEO인 Marc Benioff는 2025년에 소프트웨어 엔지니어를 더 이상 채용하지 않을 것임을 밝힘  
+- AI로 인한 생산성 향상이 주요 원...</a></div><div class="topicinfo"><span id="tp18658">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18658"></span> | <a href="topic?id=18658" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Rust로 게임 개발: 1년 후 현황]]></title>
@@ -152,7 +152,7 @@ node index.ts 명령으로 TypeScript 파...</a></div><div class="topicinfo"><sp
         <link href="https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522"/>
         <updated>2025-01-11T19:11:09.283Z</updated>
         <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18648"><a class="upvote" href="javascript:vote(18648, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522" rel="nofollow" id="tr18"><h1>GN⁺: Rust로 게임 개발: 1년 후 현황</h1></a> <span class="topicurl">(users.rust-lang.org)</span></div><div class="topicdesc"><a href="topic?id=18648" class="c99 breakall">- Rust로 3D 게임을 개발하는 것에 대해 1년전에 글을 작성했고, 그 이후 흐름을 1년간 살펴본 후기  
-- 여전히 Rend3, WGPU, Vulkan 그래픽스 스...</a></div><div class="topicinfo"><span id="tp18648">12</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18648"></span> | <a href="topic?id=18648" class="u">댓글 9개</a></div>]]></content>
+- 여전히 Rend3, WGPU, Vulkan 그래픽스 스...</a></div><div class="topicinfo"><span id="tp18648">12</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote18648"></span> | <a href="topic?id=18648" class="u">댓글 9개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 기본으로 돌아가기: 웹소켓 대신 롱폴링을 선택한 이유]]></title>
@@ -167,6 +167,6 @@ node index.ts 명령으로 TypeScript 파...</a></div><div class="topicinfo"><sp
         <id>https://tommy-park.medium.com/%EB%B2%88%EC%97%AD-gen-ai-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-478563ce169d</id>
         <link href="https://tommy-park.medium.com/%EB%B2%88%EC%97%AD-gen-ai-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-478563ce169d"/>
         <updated>2025-01-11T16:17:03.654Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18665"><a class="upvote" href="javascript:vote(18665, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tommy-park.medium.com/%EB%B2%88%EC%97%AD-gen-ai-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-478563ce169d" rel="nofollow" id="tr20"><h1>Gen AI 플랫폼 만들기</h1></a> <span class="topicurl">(tommy-park.medium.com)</span></div><div class="topicdesc"><a href="topic?id=18665" class="c99 breakall"> * Chip Huyen이 작성한 [“Building A Generative AI Platform”]( https://huyenchip.com/2024/07/25/genai-platform.html) 의 한글 번역입니다.  ...</a></div><div class="topicinfo"><span id="tp18665">5</span> points by <a href="/user?id=mnncat">mnncat</a> 1일전<span id="unvote18665"></span> | <a href="topic?id=18665" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18665"><a class="upvote" href="javascript:vote(18665, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tommy-park.medium.com/%EB%B2%88%EC%97%AD-gen-ai-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-478563ce169d" rel="nofollow" id="tr20"><h1>Gen AI 플랫폼 만들기</h1></a> <span class="topicurl">(tommy-park.medium.com)</span></div><div class="topicdesc"><a href="topic?id=18665" class="c99 breakall"> * Chip Huyen이 작성한 [“Building A Generative AI Platform”]( https://huyenchip.com/2024/07/25/genai-platform.html) 의 한글 번역입니다.  ...</a></div><div class="topicinfo"><span id="tp18665">5</span> points by <a href="/user?id=mnncat">mnncat</a> 2일전<span id="unvote18665"></span> | <a href="topic?id=18665" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
