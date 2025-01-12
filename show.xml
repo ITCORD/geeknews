@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-12T05:14:35.372Z</updated>
+    <updated>2025-01-12T06:20:42.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[leelou2]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 블로그의 마지막 빌드 시각을 시드로 하는 로또 번호 생성기]]></title>
-        <id>https://news.hada.io/topic?id=18683</id>
-        <link href="https://news.hada.io/topic?id=18683"/>
-        <updated>2025-01-11T02:46:57.470Z</updated>
-        <content type="html"><![CDATA[nemorize]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 10번의 고도화로 완성된 URL Shortener(Rust ver.) 오픈소스]]></title>
         <id>https://news.hada.io/topic?id=18602</id>
         <link href="https://news.hada.io/topic?id=18602"/>
         <updated>2025-01-06T12:31:06.761Z</updated>
         <content type="html"><![CDATA[leelou2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 블로그의 마지막 빌드 시각을 시드로 하는 로또 번호 생성기]]></title>
+        <id>https://news.hada.io/topic?id=18683</id>
+        <link href="https://news.hada.io/topic?id=18683"/>
+        <updated>2025-01-11T02:46:57.470Z</updated>
+        <content type="html"><![CDATA[nemorize]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 바로 사용 가능한 가볍지만 빠른 사용자 행동/이벤트 수집기(rust) 오픈 소스]]></title>
