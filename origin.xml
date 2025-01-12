@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2025-01-12T03:26:31.212Z</updated>
+    <updated>2025-01-12T04:18:25.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://9to5mac.com/2025/01/10/mark-zuckerberg-joe-rogan-apple-innovation/"/>
         <updated>2025-01-12T01:16:14.616Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18690"><a class="upvote" href="javascript:vote(18690, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://9to5mac.com/2025/01/10/mark-zuckerberg-joe-rogan-apple-innovation/" rel="nofollow" id="tr1"><h1>마크 저커버그, 애플을 비난 "최근에 위대한 발명을 한적이 없어요"</h1></a> <span class="topicurl">(9to5mac.com)</span></div><div class="topicdesc"><a href="topic?id=18690" class="c99 breakall">- Joe Rogan 팟캐스트에서 콘텐츠 규제, 트럼프 행정부, 애플의 혁신 부족등에 대한 폭넓은 인터뷰를 진행   
-- 그는 오랜 애플에 대한 비난자였...</a></div><div class="topicinfo"><span id="tp18690">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote18690"></span> | <a href="topic?id=18690" class="u">댓글과 토론</a></div>]]></content>
+- 그는 오랜 애플에 대한 비난자였...</a></div><div class="topicinfo"><span id="tp18690">2</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote18690"></span> | <a href="topic?id=18690" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 1,000줄로 운영체제 구현하기]]></title>
@@ -38,11 +38,20 @@
 - 일반 `ssh` 를 사용하는 것 처럼 `ggh`를 사용하면 됨...</a></div><div class="topicinfo"><span id="tp18674">7</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18674"></span> | <a href="topic?id=18674" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Node.js 타입스크립트를 기본으로 지원하기 시작]]></title>
+        <id>https://www.totaltypescript.com/typescript-is-coming-to-node-23</id>
+        <link href="https://www.totaltypescript.com/typescript-is-coming-to-node-23"/>
+        <updated>2025-01-10T15:14:21.133Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18670"><a class="upvote" href="javascript:vote(18670, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.totaltypescript.com/typescript-is-coming-to-node-23" rel="nofollow" id="tr5"><h1>Node.js 타입스크립트를 기본으로 지원하기 시작</h1></a> <span class="topicurl">(totaltypescript.com)</span></div><div class="topicdesc"><a href="topic?id=18670" class="c99 breakall">1. Node.js 23부터 TypeScript 지원  
+Node.js 23에서는 TypeScript 파일을 별도 설정 없이 실행 가능.  
+node index.ts 명령으로 TypeScript 파...</a></div><div class="topicinfo"><span id="tp18670">11</span> points by <a href="/user?id=ragus">ragus</a> 2일전<span id="unvote18670"></span> | <a href="topic?id=18670" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bolt.diy - 아무 LLM으로 풀스택 앱 만들기]]></title>
         <id>https://github.com/stackblitz-labs/bolt.diy</id>
         <link href="https://github.com/stackblitz-labs/bolt.diy"/>
         <updated>2025-01-10T01:11:35.257Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18651"><a class="upvote" href="javascript:vote(18651, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/stackblitz-labs/bolt.diy" rel="nofollow" id="tr5"><h1>Bolt.diy - 아무 LLM으로 풀스택 앱 만들기</h1></a> <span class="topicurl">(github.com/stackblitz-labs)</span></div><div class="topicdesc"><a href="topic?id=18651" class="c99 breakall">- Bolt.new 의 오픈소스 버전   
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18651"><a class="upvote" href="javascript:vote(18651, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/stackblitz-labs/bolt.diy" rel="nofollow" id="tr6"><h1>Bolt.diy - 아무 LLM으로 풀스택 앱 만들기</h1></a> <span class="topicurl">(github.com/stackblitz-labs)</span></div><div class="topicdesc"><a href="topic?id=18651" class="c99 breakall">- Bolt.new 의 오픈소스 버전   
 - 원하는 LLM을 활용하여 프롬프트로 풀스택 웹 앱을 처음부터 생성   
   - Vercel AI SDK를 이용하므로 OpenAI...</a></div><div class="topicinfo"><span id="tp18651">18</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18651"></span> | <a href="topic?id=18651" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -51,17 +60,8 @@
         <id>https://news.hada.io/topic?id=18666</id>
         <link href="https://news.hada.io/topic?id=18666"/>
         <updated>2025-01-10T11:12:55.876Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18666"><a class="upvote" href="javascript:vote(18666, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18666" rel="nofollow" id="tr6"><h1>Show GN: AI로 요약한 한글 해커 뉴스를 이메일, 슬랙으로 받아보세요 (완전 무료, 광고 없음)</h1></a> <span class="topicurl">(n8n.lou2.kr)</span></div><div class="topicdesc"><a href="topic?id=18666" class="c99 breakall">(정말 제가 보려고 만든건데 필요하신 분이 계실까봐 공유드려요)  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18666"><a class="upvote" href="javascript:vote(18666, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18666" rel="nofollow" id="tr7"><h1>Show GN: AI로 요약한 한글 해커 뉴스를 이메일, 슬랙으로 받아보세요 (완전 무료, 광고 없음)</h1></a> <span class="topicurl">(n8n.lou2.kr)</span></div><div class="topicdesc"><a href="topic?id=18666" class="c99 breakall">(정말 제가 보려고 만든건데 필요하신 분이 계실까봐 공유드려요)  
 해커뉴스 많이 보시나요? 영어에 제목과 링크만 있다보니 여기저기 찾아다니...</a></div><div class="topicinfo"><span id="tp18666">11</span> points by <a href="/user?id=leelou2">leelou2</a> 2일전<span id="unvote18666"></span> | <a href="topic?id=18666" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 타입스크립트를 기본으로 지원하기 시작]]></title>
-        <id>https://www.totaltypescript.com/typescript-is-coming-to-node-23</id>
-        <link href="https://www.totaltypescript.com/typescript-is-coming-to-node-23"/>
-        <updated>2025-01-10T15:14:21.133Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18670"><a class="upvote" href="javascript:vote(18670, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.totaltypescript.com/typescript-is-coming-to-node-23" rel="nofollow" id="tr7"><h1>Node.js 타입스크립트를 기본으로 지원하기 시작</h1></a> <span class="topicurl">(totaltypescript.com)</span></div><div class="topicdesc"><a href="topic?id=18670" class="c99 breakall">1. Node.js 23부터 TypeScript 지원  
-Node.js 23에서는 TypeScript 파일을 별도 설정 없이 실행 가능.  
-node index.ts 명령으로 TypeScript 파...</a></div><div class="topicinfo"><span id="tp18670">9</span> points by <a href="/user?id=ragus">ragus</a> 2일전<span id="unvote18670"></span> | <a href="topic?id=18670" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPS는 망가졌고, 기술 발전을 가로막고 있음. 이제는 GPS 대안 기술을 살펴봐야할 때]]></title>
@@ -163,10 +163,11 @@ node index.ts 명령으로 TypeScript 파...</a></div><div class="topicinfo"><sp
 - AI로 인한 생산성 향상이 주요 원...</a></div><div class="topicinfo"><span id="tp18658">8</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18658"></span> | <a href="topic?id=18658" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: Starlink, 일부 아프리카 국가에서 주요 인터넷 제공업체보다 저렴해짐]]></title>
-        <id>https://restofworld.org/2025/starlink-cheaper-internet-africa/</id>
-        <link href="https://restofworld.org/2025/starlink-cheaper-internet-africa/"/>
-        <updated>2025-01-12T02:55:04.784Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18678"><a class="upvote" href="javascript:vote(18678, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://restofworld.org/2025/starlink-cheaper-internet-africa/" rel="nofollow" id="tr20"><h1>GN⁺: Starlink, 일부 아프리카 국가에서 주요 인터넷 제공업체보다 저렴해짐</h1></a> <span class="topicurl">(restofworld.org)</span></div><div class="topicdesc"><a href="topic?id=18678" class="c99 breakall">- 가나에서는 Starlink가 현지 ISP의 절반 가격이며, 케냐, 짐바브웨, 모잠비크, 카보베르데에서 Starlink가 평균 인터넷 서비스 가격보다 저렴하...</a></div><div class="topicinfo"><span id="tp18678">3</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote18678"></span> | <a href="topic?id=18678" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: 기본으로 돌아가기: 웹소켓 대신 롱폴링을 선택한 이유]]></title>
+        <id>https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx</id>
+        <link href="https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx"/>
+        <updated>2025-01-12T04:17:50.267Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18649"><a class="upvote" href="javascript:vote(18649, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx" rel="nofollow" id="tr20"><h1>GN⁺: 기본으로 돌아가기: 웹소켓 대신 롱폴링을 선택한 이유</h1></a> <span class="topicurl">(inferable.ai)</span></div><div class="topicdesc"><a href="topic?id=18649" class="c99 breakall">- Node.js/TypeScript 기반 백엔드에서 대규모 실시간 업데이트를 처리해야 하는 상황이었음  
+- PostgreSQL을 백엔드로 사용하여 수백 개의 워커...</a></div><div class="topicinfo"><span id="tp18649">11</span> points by <a href="/user?id=neo">neo</a> 3일전<span id="unvote18649"></span> | <a href="topic?id=18649" class="u">댓글 5개</a></div>]]></content>
     </entry>
 </feed>
