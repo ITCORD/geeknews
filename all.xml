@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-21T01:08:05.109Z</updated>
+    <updated>2025-01-21T02:42:37.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[재미와 이익을 위한 "LLM 기반 TDD" (GeekNews ─ 메인)]]></title>
@@ -11,7 +11,7 @@
         <updated>2025-01-21T01:07:24.783Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18828"><a class="upvote" href="javascript:vote(18828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.yfzhou.fyi/posts/tdd-llm/" rel="nofollow" id="tr1"><h1>재미와 이익을 위한 "LLM 기반 TDD"</h1></a> <span class="topicurl">(blog.yfzhou.fyi)</span></div><div class="topicdesc"><a href="topic?id=18828" class="c99 breakall"># TDD(Test-Driven Development)와 LLM의 결합  
 - TDD는 프로그램 작성을 시작하기 전, 포괄적인 단위 테스트를 먼저 작성하는 개발 방법론임  
-...</a></div><div class="topicinfo"><span id="tp18828">5</span> points by <a href="/user?id=xguru">xguru</a> 36분전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 2개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp18828">9</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악 검색 시스템 만들기 (GeekNews ─ 메인)]]></title>
@@ -19,7 +19,7 @@
         <link href="https://news.hada.io/topic?id=18827"/>
         <updated>2025-01-21T01:07:24.783Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18827"><a class="upvote" href="javascript:vote(18827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/music-recognition-system/" rel="nofollow" id="tr2"><h1>음악 검색 시스템 만들기</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=18827" class="c99 breakall">* 음악 검색 시스템은 **등록**과 **검색** 두 단계로 이루어짐  
-  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">4</span> points by <a href="/user?id=kciter1">kciter1</a> 1시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
+  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">6</span> points by <a href="/user?id=kciter1">kciter1</a> 3시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제품 보안에 있어 나쁜 방식 (GeekNews ─ 메인)]]></title>
@@ -29,24 +29,24 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18823"><a class="upvote" href="javascript:vote(18823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cisa.gov/resources-tools/resources/product-security-bad-practices" rel="nofollow" id="tr3"><h1>제품 보안에 있어 나쁜 방식</h1></a> <span class="topicurl">(cisa.gov)</span></div><div class="topicdesc"><a href="topic?id=18823" class="c99 breakall"># 제품 자체에 있어  
   
 ## 메모리에 안전하지 않는 언어(C, C++ 등)  
-가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">7</span> points by <a href="/user?id=carnoxen">carnoxen</a> 8시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify의 5년간 React Native 사용 경험 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18815</id>
-        <link href="https://news.hada.io/topic?id=18815"/>
-        <updated>2025-01-20T02:43:50.729Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr4"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
-- React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">19</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 4개</a></div>]]></content>
+가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">10</span> points by <a href="/user?id=carnoxen">carnoxen</a> 10시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week) (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18826</id>
         <link href="https://news.hada.io/topic?id=18826"/>
         <updated>2025-01-21T01:07:24.783Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr5"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr4"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
   
-* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">2</span> points by <a href="/user?id=ninebow">ninebow</a> 2시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
+* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">3</span> points by <a href="/user?id=ninebow">ninebow</a> 3시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify의 5년간 React Native 사용 경험 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18815</id>
+        <link href="https://news.hada.io/topic?id=18815"/>
+        <updated>2025-01-20T02:43:50.729Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr5"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
+- React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jazz - Local-First 앱을 위한 프레임워크 (GeekNews ─ 메인)]]></title>
@@ -63,41 +63,57 @@
         <link href="https://news.hada.io/topic?id=18818"/>
         <updated>2025-01-20T02:43:50.730Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18818"><a class="upvote" href="javascript:vote(18818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@profgalloway/2025-predictions-b480ad6b7bd5" rel="nofollow" id="tr7"><h1>스콧 갤러웨이의 2025년 예상 </h1></a> <span class="topicurl">(medium.com/@profgalloway)</span></div><div class="topicdesc"><a href="topic?id=18818" class="c99 breakall"># 파워 커플: OpenVidia  
-- ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">15</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 데이터 엔지니어의 새로운 역할 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18811</id>
-        <link href="https://news.hada.io/topic?id=18811"/>
-        <updated>2025-01-20T01:08:49.849Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18811"><a class="upvote" href="javascript:vote(18811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers" rel="nofollow" id="tr8"><h1>AI 데이터 엔지니어의 새로운 역할</h1></a> <span class="topicurl">(dataengineeringweekly.com)</span></div><div class="topicdesc"><a href="topic?id=18811" class="c99 breakall"># 데이터 기반 환경에서 AI Data Engineer의 핵심 역할  
-- 챗봇이 사용자의 질문을 부드럽게 이해하는 방식, 자율주행 차량이 복잡한 도로 환경...</a></div><div class="topicinfo"><span id="tp18811">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18811"></span> | <a href="topic?id=18811" class="u">댓글 1개</a></div>]]></content>
+- ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">16</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타) (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18817</id>
         <link href="https://news.hada.io/topic?id=18817"/>
         <updated>2025-01-20T02:43:50.729Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr9"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr8"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
   
 *   '오늘의위키'는 AI가 직접 위키를 쓰고, 고치고, 업데이트하는 새로운 형태의 위키 서비스  
-*   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">11</span> points by <a href="/user?id=calmlake79">calmlake79</a> 23시간전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 16개</a></div>]]></content>
+*   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">12</span> points by <a href="/user?id=calmlake79">calmlake79</a> 1일전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 18개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18825</id>
+        <link href="https://news.hada.io/topic?id=18825"/>
+        <updated>2025-01-21T02:41:55.710Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18825"><a class="upvote" href="javascript:vote(18825, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/" rel="nofollow" id="tr9"><h1>GN⁺: 물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 </h1></a> <span class="topicurl">(neilzone.co.uk)</span></div><div class="topicdesc"><a href="topic?id=18825" class="c99 breakall">- 물리적 SIM 슬롯만 있는 장치에서 eSIM을 사용하기 위해 9eSIM의 SIM 카드를 사용하는 방법   
+- 9eSIM 공식 웹사이트에서 SIM 카드와 스마트카...</a></div><div class="topicinfo"><span id="tp18825">2</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote18825"></span> | <a href="topic?id=18825" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: DeepSeek-R1 모델 공개 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18824</id>
+        <link href="https://news.hada.io/topic?id=18824"/>
+        <updated>2025-01-21T02:41:55.710Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18824"><a class="upvote" href="javascript:vote(18824, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/deepseek-ai/DeepSeek-R1" rel="nofollow" id="tr10"><h1>GN⁺: DeepSeek-R1 모델 공개</h1></a> <span class="topicurl">(github.com/deepseek-ai)</span></div><div class="topicdesc"><a href="topic?id=18824" class="c99 breakall">- DeepSeek이 1세대 추론모델인 DeepSeek-R1-Zero와 DeepSeek-R1 모델을 공개   
+- DeepSeek-R1-Zero는 대규모 강화학습(RL)만으로 학습되었고, ...</a></div><div class="topicinfo"><span id="tp18824">2</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote18824"></span> | <a href="topic?id=18824" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 데이터 엔지니어의 새로운 역할 (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18811</id>
+        <link href="https://news.hada.io/topic?id=18811"/>
+        <updated>2025-01-20T01:08:49.849Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18811"><a class="upvote" href="javascript:vote(18811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers" rel="nofollow" id="tr11"><h1>AI 데이터 엔지니어의 새로운 역할</h1></a> <span class="topicurl">(dataengineeringweekly.com)</span></div><div class="topicdesc"><a href="topic?id=18811" class="c99 breakall"># 데이터 기반 환경에서 AI Data Engineer의 핵심 역할  
+- 챗봇이 사용자의 질문을 부드럽게 이해하는 방식, 자율주행 차량이 복잡한 도로 환경...</a></div><div class="topicinfo"><span id="tp18811">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18811"></span> | <a href="topic?id=18811" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18816</id>
         <link href="https://news.hada.io/topic?id=18816"/>
         <updated>2025-01-20T02:43:50.730Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr10"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr12"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
 - JSON처럼 여러 언어 간 데이터 교환 가능  
-- 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
+- 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Tasks 기능으로 매일 개발 공부받는 방법 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18780</id>
         <link href="https://news.hada.io/topic?id=18780"/>
         <updated>2025-01-18T01:05:44.274Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18780"><a class="upvote" href="javascript:vote(18780, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios" rel="nofollow" id="tr11"><h1>ChatGPT Tasks 기능으로 매일 개발 공부받는 방법</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18780" class="c99 breakall">ChatGPT Tasks 기능으로 개발 공부하는 방법 📔  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18780"><a class="upvote" href="javascript:vote(18780, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios" rel="nofollow" id="tr13"><h1>ChatGPT Tasks 기능으로 매일 개발 공부받는 방법</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18780" class="c99 breakall">ChatGPT Tasks 기능으로 개발 공부하는 방법 📔  
   
 👉 새로운 기능에 대한 소개  
 - OpenAI 가 최근 Tasks 라는 기능을 업데이트  
@@ -108,14 +124,14 @@
         <id>https://news.hada.io/topic?id=18794</id>
         <link href="https://news.hada.io/topic?id=18794"/>
         <updated>2025-01-19T01:12:36.132Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18794"><a class="upvote" href="javascript:vote(18794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alexpasmantier/television" rel="nofollow" id="tr12"><h1>Television - 빠르고 다재다능한 퍼지 검색 TUI</h1></a> <span class="topicurl">(github.com/alexpasmantier)</span></div><div class="topicdesc"><a href="topic?id=18794" class="c99 breakall">- 다양한 데이터 소스(파일, Git 저장소, 환경 변수, Docker 이미지 등)를 퍼지 매칭 알고리즘으로 빠르게 검색할 수 있는 텍스트 기반 사용자 인...</a></div><div class="topicinfo"><span id="tp18794">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18794"></span> | <a href="topic?id=18794" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18794"><a class="upvote" href="javascript:vote(18794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alexpasmantier/television" rel="nofollow" id="tr14"><h1>Television - 빠르고 다재다능한 퍼지 검색 TUI</h1></a> <span class="topicurl">(github.com/alexpasmantier)</span></div><div class="topicdesc"><a href="topic?id=18794" class="c99 breakall">- 다양한 데이터 소스(파일, Git 저장소, 환경 변수, Docker 이미지 등)를 퍼지 매칭 알고리즘으로 빠르게 검색할 수 있는 텍스트 기반 사용자 인...</a></div><div class="topicinfo"><span id="tp18794">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18794"></span> | <a href="topic?id=18794" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18781</id>
         <link href="https://news.hada.io/topic?id=18781"/>
         <updated>2025-01-18T01:05:44.273Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18781"><a class="upvote" href="javascript:vote(18781, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ahmedkhaleel2004/gitdiagram" rel="nofollow" id="tr13"><h1>GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화</h1></a> <span class="topicurl">(github.com/ahmedkhaleel2004)</span></div><div class="topicdesc"><a href="topic?id=18781" class="c99 breakall">- 프로젝트를 빠르게 시각화하여 이해하는데 도움을 주는 도구   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18781"><a class="upvote" href="javascript:vote(18781, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ahmedkhaleel2004/gitdiagram" rel="nofollow" id="tr15"><h1>GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화</h1></a> <span class="topicurl">(github.com/ahmedkhaleel2004)</span></div><div class="topicdesc"><a href="topic?id=18781" class="c99 breakall">- 프로젝트를 빠르게 시각화하여 이해하는데 도움을 주는 도구   
   - 시스템 디자인 / 아키텍처 디자인을 표시   
   - 표시된 컴포넌트 클릭시 ...</a></div><div class="topicinfo"><span id="tp18781">21</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18781"></span> | <a href="topic?id=18781" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -124,56 +140,40 @@
         <id>https://news.hada.io/topic?id=18743</id>
         <link href="https://news.hada.io/topic?id=18743"/>
         <updated>2025-01-15T02:41:38.549Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18743"><a class="upvote" href="javascript:vote(18743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/" rel="nofollow" id="tr14"><h1>소프트웨어 튜토리얼 작성 규칙</h1></a> <span class="topicurl">(refactoringenglish.com)</span></div><div class="topicdesc"><a href="topic?id=18743" class="c99 breakall">- 대부분의 소프트웨어 튜토리얼은 중요한 세부사항을 빠뜨리거나 독자의 기대에 맞지 않는 숨겨진 가정을 포함하여 독자가 과정을 재현할 수 없게...</a></div><div class="topicinfo"><span id="tp18743">63</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote18743"></span> | <a href="topic?id=18743" class="u">댓글 10개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18743"><a class="upvote" href="javascript:vote(18743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/" rel="nofollow" id="tr16"><h1>소프트웨어 튜토리얼 작성 규칙</h1></a> <span class="topicurl">(refactoringenglish.com)</span></div><div class="topicdesc"><a href="topic?id=18743" class="c99 breakall">- 대부분의 소프트웨어 튜토리얼은 중요한 세부사항을 빠뜨리거나 독자의 기대에 맞지 않는 숨겨진 가정을 포함하여 독자가 과정을 재현할 수 없게...</a></div><div class="topicinfo"><span id="tp18743">64</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote18743"></span> | <a href="topic?id=18743" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: ChatGPT 사용은 환경에 나쁘지 않음 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18800</id>
         <link href="https://news.hada.io/topic?id=18800"/>
         <updated>2025-01-20T02:43:50.753Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18800"><a class="upvote" href="javascript:vote(18800, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for" rel="nofollow" id="tr15"><h1>GN⁺: ChatGPT 사용은 환경에 나쁘지 않음</h1></a> <span class="topicurl">(andymasley.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18800" class="c99 breakall">- AI, 특히 ChatGPT와 같은 LLM이 환경에 큰 해악을 끼친다는 통념은 부정확함  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18800"><a class="upvote" href="javascript:vote(18800, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for" rel="nofollow" id="tr17"><h1>GN⁺: ChatGPT 사용은 환경에 나쁘지 않음</h1></a> <span class="topicurl">(andymasley.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18800" class="c99 breakall">- AI, 특히 ChatGPT와 같은 LLM이 환경에 큰 해악을 끼친다는 통념은 부정확함  
 - 많은 이들이 “개인적 AI 사용이 기후 위기에 악영향을 준다”는...</a></div><div class="topicinfo"><span id="tp18800">7</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18800"></span> | <a href="topic?id=18800" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontend Fundamentals (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18728</id>
-        <link href="https://news.hada.io/topic?id=18728"/>
-        <updated>2025-01-14T06:20:55.490Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18728"><a class="upvote" href="javascript:vote(18728, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://frontend-fundamentals.com/" rel="nofollow" id="tr16"><h1>Frontend Fundamentals</h1></a> <span class="topicurl">(frontend-fundamentals.com)</span></div><div class="topicdesc"><a href="topic?id=18728" class="c99 breakall">토스 프론트엔드 챕터에서 생각하는 좋은 프론트엔드 코드의 기준에 대해서 소개하는 사이트를 게시했습니다.  
-  
-- 프론트엔드 개발자들이 주...</a></div><div class="topicinfo"><span id="tp18728">49</span> points by <a href="/user?id=rtyu1120">rtyu1120</a> 7일전<span id="unvote18728"></span> | <a href="topic?id=18728" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cosmos - 손을 스캔해서 만드는 맞춤형 키보드 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18771</id>
         <link href="https://news.hada.io/topic?id=18771"/>
         <updated>2025-01-17T01:07:37.027Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18771"><a class="upvote" href="javascript:vote(18771, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ryanis.cool/cosmos/" rel="nofollow" id="tr17"><h1>Cosmos - 손을 스캔해서 만드는 맞춤형 키보드</h1></a> <span class="topicurl">(ryanis.cool)</span></div><div class="topicdesc"><a href="topic?id=18771" class="c99 breakall">- 스마트폰 카메라로 손을 스캔한 데이터를 기반으로 키보드 키 위치를 손가락 길이와 움직임에 맞게 조정하는 커스텀 키보드 제작 도구  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18771"><a class="upvote" href="javascript:vote(18771, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ryanis.cool/cosmos/" rel="nofollow" id="tr18"><h1>Cosmos - 손을 스캔해서 만드는 맞춤형 키보드</h1></a> <span class="topicurl">(ryanis.cool)</span></div><div class="topicdesc"><a href="topic?id=18771" class="c99 breakall">- 스마트폰 카메라로 손을 스캔한 데이터를 기반으로 키보드 키 위치를 손가락 길이와 움직임에 맞게 조정하는 커스텀 키보드 제작 도구  
 - 각 ...</a></div><div class="topicinfo"><span id="tp18771">20</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18771"></span> | <a href="topic?id=18771" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: OpenAI의 지원을 받은 FrontierMath 프로젝트 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18820</id>
-        <link href="https://news.hada.io/topic?id=18820"/>
-        <updated>2025-01-21T01:07:24.797Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18820"><a class="upvote" href="javascript:vote(18820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform" rel="nofollow" id="tr18"><h1>GN⁺: OpenAI의 지원을 받은 FrontierMath 프로젝트</h1></a> <span class="topicurl">(lesswrong.com)</span></div><div class="topicdesc"><a href="topic?id=18820" class="c99 breakall">- 최근 OpenAI가 새 모델 o3를 공개하며 수학 분야에서 획기적 성능을 달성했다고 발표함  
-- 특히 이전 모델이 2% 해내던 FrontierMath 벤치마크...</a></div><div class="topicinfo"><span id="tp18820">2</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote18820"></span> | <a href="topic?id=18820" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Frontend Fundamentals (GeekNews ─ 메인)]]></title>
+        <id>https://news.hada.io/topic?id=18728</id>
+        <link href="https://news.hada.io/topic?id=18728"/>
+        <updated>2025-01-14T06:20:55.490Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18728"><a class="upvote" href="javascript:vote(18728, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://frontend-fundamentals.com/" rel="nofollow" id="tr19"><h1>Frontend Fundamentals</h1></a> <span class="topicurl">(frontend-fundamentals.com)</span></div><div class="topicdesc"><a href="topic?id=18728" class="c99 breakall">토스 프론트엔드 챕터에서 생각하는 좋은 프론트엔드 코드의 기준에 대해서 소개하는 사이트를 게시했습니다.  
+  
+- 프론트엔드 개발자들이 주...</a></div><div class="topicinfo"><span id="tp18728">49</span> points by <a href="/user?id=rtyu1120">rtyu1120</a> 7일전<span id="unvote18728"></span> | <a href="topic?id=18728" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기 (GeekNews ─ 메인)]]></title>
         <id>https://news.hada.io/topic?id=18764</id>
         <link href="https://news.hada.io/topic?id=18764"/>
         <updated>2025-01-17T01:07:37.019Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18764"><a class="upvote" href="javascript:vote(18764, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://novasky-ai.github.io/posts/sky-t1/" rel="nofollow" id="tr19"><h1>Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기</h1></a> <span class="topicurl">(novasky-ai.github.io)</span></div><div class="topicdesc"><a href="topic?id=18764" class="c99 breakall">- Sky-T1-32B-Preview는 o1-preview와 비슷한 수준의 성능을 발휘하는 추론 및 코딩 모델로 $450(65만원)의 적은 비용만으로 훈련됨  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18764"><a class="upvote" href="javascript:vote(18764, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://novasky-ai.github.io/posts/sky-t1/" rel="nofollow" id="tr20"><h1>Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기</h1></a> <span class="topicurl">(novasky-ai.github.io)</span></div><div class="topicdesc"><a href="topic?id=18764" class="c99 breakall">- Sky-T1-32B-Preview는 o1-preview와 비슷한 수준의 성능을 발휘하는 추론 및 코딩 모델로 $450(65만원)의 적은 비용만으로 훈련됨  
 - 모든 코...</a></div><div class="topicinfo"><span id="tp18764">19</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18764"></span> | <a href="topic?id=18764" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 코사인 유사도(Cosine Similarity)를 함부로 사용하지 말 것 (GeekNews ─ 메인)]]></title>
-        <id>https://news.hada.io/topic?id=18747</id>
-        <link href="https://news.hada.io/topic?id=18747"/>
-        <updated>2025-01-16T01:07:24.924Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18747"><a class="upvote" href="javascript:vote(18747, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/" rel="nofollow" id="tr20"><h1>GN⁺: 코사인 유사도(Cosine Similarity)를 함부로 사용하지 말 것</h1></a> <span class="topicurl">(p.migdal.pl)</span></div><div class="topicdesc"><a href="topic?id=18747" class="c99 breakall">- 데이터 과학자들은 모든 것을 벡터로 변환함. 이는 AI의 언어임  
-- 그러나 코사인 유사도를 맹목적으로 적용하면 잘못된 방향으로 이끌 수 있...</a></div><div class="topicinfo"><span id="tp18747">27</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote18747"></span> | <a href="topic?id=18747" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재미와 이익을 위한 "LLM 기반 TDD" (GeekNews ─ 메인 원문)]]></title>
@@ -182,7 +182,7 @@
         <updated>2025-01-21T01:07:29.514Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18828"><a class="upvote" href="javascript:vote(18828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.yfzhou.fyi/posts/tdd-llm/" rel="nofollow" id="tr1"><h1>재미와 이익을 위한 "LLM 기반 TDD"</h1></a> <span class="topicurl">(blog.yfzhou.fyi)</span></div><div class="topicdesc"><a href="topic?id=18828" class="c99 breakall"># TDD(Test-Driven Development)와 LLM의 결합  
 - TDD는 프로그램 작성을 시작하기 전, 포괄적인 단위 테스트를 먼저 작성하는 개발 방법론임  
-...</a></div><div class="topicinfo"><span id="tp18828">5</span> points by <a href="/user?id=xguru">xguru</a> 36분전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 2개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp18828">9</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악 검색 시스템 만들기 (GeekNews ─ 메인 원문)]]></title>
@@ -190,7 +190,7 @@
         <link href="https://kciter.so/posts/music-recognition-system/"/>
         <updated>2025-01-21T01:07:29.514Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18827"><a class="upvote" href="javascript:vote(18827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/music-recognition-system/" rel="nofollow" id="tr2"><h1>음악 검색 시스템 만들기</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=18827" class="c99 breakall">* 음악 검색 시스템은 **등록**과 **검색** 두 단계로 이루어짐  
-  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">4</span> points by <a href="/user?id=kciter1">kciter1</a> 1시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
+  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">6</span> points by <a href="/user?id=kciter1">kciter1</a> 3시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제품 보안에 있어 나쁜 방식 (GeekNews ─ 메인 원문)]]></title>
@@ -200,24 +200,24 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18823"><a class="upvote" href="javascript:vote(18823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cisa.gov/resources-tools/resources/product-security-bad-practices" rel="nofollow" id="tr3"><h1>제품 보안에 있어 나쁜 방식</h1></a> <span class="topicurl">(cisa.gov)</span></div><div class="topicdesc"><a href="topic?id=18823" class="c99 breakall"># 제품 자체에 있어  
   
 ## 메모리에 안전하지 않는 언어(C, C++ 등)  
-가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">7</span> points by <a href="/user?id=carnoxen">carnoxen</a> 8시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify의 5년간 React Native 사용 경험 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://shopify.engineering/five-years-of-react-native-at-shopify</id>
-        <link href="https://shopify.engineering/five-years-of-react-native-at-shopify"/>
-        <updated>2025-01-20T02:43:55.431Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr4"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
-- React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">19</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 4개</a></div>]]></content>
+가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">10</span> points by <a href="/user?id=carnoxen">carnoxen</a> 10시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week) (GeekNews ─ 메인 원문)]]></title>
         <id>https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews</id>
         <link href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews"/>
         <updated>2025-01-21T01:07:29.516Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr5"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr4"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
   
-* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">2</span> points by <a href="/user?id=ninebow">ninebow</a> 2시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
+* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">3</span> points by <a href="/user?id=ninebow">ninebow</a> 3시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify의 5년간 React Native 사용 경험 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://shopify.engineering/five-years-of-react-native-at-shopify</id>
+        <link href="https://shopify.engineering/five-years-of-react-native-at-shopify"/>
+        <updated>2025-01-20T02:43:55.431Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr5"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
+- React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jazz - Local-First 앱을 위한 프레임워크 (GeekNews ─ 메인 원문)]]></title>
@@ -234,41 +234,57 @@
         <link href="https://medium.com/@profgalloway/2025-predictions-b480ad6b7bd5"/>
         <updated>2025-01-20T02:43:55.436Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18818"><a class="upvote" href="javascript:vote(18818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@profgalloway/2025-predictions-b480ad6b7bd5" rel="nofollow" id="tr7"><h1>스콧 갤러웨이의 2025년 예상 </h1></a> <span class="topicurl">(medium.com/@profgalloway)</span></div><div class="topicdesc"><a href="topic?id=18818" class="c99 breakall"># 파워 커플: OpenVidia  
-- ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">15</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 데이터 엔지니어의 새로운 역할 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers</id>
-        <link href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers"/>
-        <updated>2025-01-20T01:08:54.613Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18811"><a class="upvote" href="javascript:vote(18811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers" rel="nofollow" id="tr8"><h1>AI 데이터 엔지니어의 새로운 역할</h1></a> <span class="topicurl">(dataengineeringweekly.com)</span></div><div class="topicdesc"><a href="topic?id=18811" class="c99 breakall"># 데이터 기반 환경에서 AI Data Engineer의 핵심 역할  
-- 챗봇이 사용자의 질문을 부드럽게 이해하는 방식, 자율주행 차량이 복잡한 도로 환경...</a></div><div class="topicinfo"><span id="tp18811">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18811"></span> | <a href="topic?id=18811" class="u">댓글 1개</a></div>]]></content>
+- ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">16</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타) (GeekNews ─ 메인 원문)]]></title>
         <id>https://news.hada.io/topic?id=18817</id>
         <link href="https://news.hada.io/topic?id=18817"/>
         <updated>2025-01-20T02:43:50.729Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr9"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr8"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
   
 *   '오늘의위키'는 AI가 직접 위키를 쓰고, 고치고, 업데이트하는 새로운 형태의 위키 서비스  
-*   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">11</span> points by <a href="/user?id=calmlake79">calmlake79</a> 23시간전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 16개</a></div>]]></content>
+*   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">12</span> points by <a href="/user?id=calmlake79">calmlake79</a> 1일전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 18개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/</id>
+        <link href="https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/"/>
+        <updated>2025-01-21T02:42:00.470Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18825"><a class="upvote" href="javascript:vote(18825, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/" rel="nofollow" id="tr9"><h1>GN⁺: 물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 </h1></a> <span class="topicurl">(neilzone.co.uk)</span></div><div class="topicdesc"><a href="topic?id=18825" class="c99 breakall">- 물리적 SIM 슬롯만 있는 장치에서 eSIM을 사용하기 위해 9eSIM의 SIM 카드를 사용하는 방법   
+- 9eSIM 공식 웹사이트에서 SIM 카드와 스마트카...</a></div><div class="topicinfo"><span id="tp18825">2</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote18825"></span> | <a href="topic?id=18825" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: DeepSeek-R1 모델 공개 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://github.com/deepseek-ai/DeepSeek-R1</id>
+        <link href="https://github.com/deepseek-ai/DeepSeek-R1"/>
+        <updated>2025-01-21T02:42:00.472Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18824"><a class="upvote" href="javascript:vote(18824, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/deepseek-ai/DeepSeek-R1" rel="nofollow" id="tr10"><h1>GN⁺: DeepSeek-R1 모델 공개</h1></a> <span class="topicurl">(github.com/deepseek-ai)</span></div><div class="topicdesc"><a href="topic?id=18824" class="c99 breakall">- DeepSeek이 1세대 추론모델인 DeepSeek-R1-Zero와 DeepSeek-R1 모델을 공개   
+- DeepSeek-R1-Zero는 대규모 강화학습(RL)만으로 학습되었고, ...</a></div><div class="topicinfo"><span id="tp18824">2</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote18824"></span> | <a href="topic?id=18824" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 데이터 엔지니어의 새로운 역할 (GeekNews ─ 메인 원문)]]></title>
+        <id>https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers</id>
+        <link href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers"/>
+        <updated>2025-01-20T01:08:54.613Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18811"><a class="upvote" href="javascript:vote(18811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers" rel="nofollow" id="tr11"><h1>AI 데이터 엔지니어의 새로운 역할</h1></a> <span class="topicurl">(dataengineeringweekly.com)</span></div><div class="topicdesc"><a href="topic?id=18811" class="c99 breakall"># 데이터 기반 환경에서 AI Data Engineer의 핵심 역할  
+- 챗봇이 사용자의 질문을 부드럽게 이해하는 방식, 자율주행 차량이 복잡한 도로 환경...</a></div><div class="topicinfo"><span id="tp18811">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18811"></span> | <a href="topic?id=18811" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷 (GeekNews ─ 메인 원문)]]></title>
         <id>https://msgpack.org/</id>
         <link href="https://msgpack.org/"/>
         <updated>2025-01-20T02:43:55.438Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr10"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr12"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
 - JSON처럼 여러 언어 간 데이터 교환 가능  
-- 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
+- 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Tasks 기능으로 매일 개발 공부받는 방법 (GeekNews ─ 메인 원문)]]></title>
         <id>https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios</id>
         <link href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios"/>
         <updated>2025-01-18T01:05:48.899Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18780"><a class="upvote" href="javascript:vote(18780, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios" rel="nofollow" id="tr11"><h1>ChatGPT Tasks 기능으로 매일 개발 공부받는 방법</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18780" class="c99 breakall">ChatGPT Tasks 기능으로 개발 공부하는 방법 📔  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18780"><a class="upvote" href="javascript:vote(18780, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios" rel="nofollow" id="tr13"><h1>ChatGPT Tasks 기능으로 매일 개발 공부받는 방법</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18780" class="c99 breakall">ChatGPT Tasks 기능으로 개발 공부하는 방법 📔  
   
 👉 새로운 기능에 대한 소개  
 - OpenAI 가 최근 Tasks 라는 기능을 업데이트  
@@ -279,14 +295,14 @@
         <id>https://github.com/alexpasmantier/television</id>
         <link href="https://github.com/alexpasmantier/television"/>
         <updated>2025-01-19T01:12:40.751Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18794"><a class="upvote" href="javascript:vote(18794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alexpasmantier/television" rel="nofollow" id="tr12"><h1>Television - 빠르고 다재다능한 퍼지 검색 TUI</h1></a> <span class="topicurl">(github.com/alexpasmantier)</span></div><div class="topicdesc"><a href="topic?id=18794" class="c99 breakall">- 다양한 데이터 소스(파일, Git 저장소, 환경 변수, Docker 이미지 등)를 퍼지 매칭 알고리즘으로 빠르게 검색할 수 있는 텍스트 기반 사용자 인...</a></div><div class="topicinfo"><span id="tp18794">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18794"></span> | <a href="topic?id=18794" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18794"><a class="upvote" href="javascript:vote(18794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alexpasmantier/television" rel="nofollow" id="tr14"><h1>Television - 빠르고 다재다능한 퍼지 검색 TUI</h1></a> <span class="topicurl">(github.com/alexpasmantier)</span></div><div class="topicdesc"><a href="topic?id=18794" class="c99 breakall">- 다양한 데이터 소스(파일, Git 저장소, 환경 변수, Docker 이미지 등)를 퍼지 매칭 알고리즘으로 빠르게 검색할 수 있는 텍스트 기반 사용자 인...</a></div><div class="topicinfo"><span id="tp18794">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18794"></span> | <a href="topic?id=18794" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화 (GeekNews ─ 메인 원문)]]></title>
         <id>https://github.com/ahmedkhaleel2004/gitdiagram</id>
         <link href="https://github.com/ahmedkhaleel2004/gitdiagram"/>
         <updated>2025-01-18T01:05:48.898Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18781"><a class="upvote" href="javascript:vote(18781, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ahmedkhaleel2004/gitdiagram" rel="nofollow" id="tr13"><h1>GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화</h1></a> <span class="topicurl">(github.com/ahmedkhaleel2004)</span></div><div class="topicdesc"><a href="topic?id=18781" class="c99 breakall">- 프로젝트를 빠르게 시각화하여 이해하는데 도움을 주는 도구   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18781"><a class="upvote" href="javascript:vote(18781, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ahmedkhaleel2004/gitdiagram" rel="nofollow" id="tr15"><h1>GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화</h1></a> <span class="topicurl">(github.com/ahmedkhaleel2004)</span></div><div class="topicdesc"><a href="topic?id=18781" class="c99 breakall">- 프로젝트를 빠르게 시각화하여 이해하는데 도움을 주는 도구   
   - 시스템 디자인 / 아키텍처 디자인을 표시   
   - 표시된 컴포넌트 클릭시 ...</a></div><div class="topicinfo"><span id="tp18781">21</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18781"></span> | <a href="topic?id=18781" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -295,82 +311,66 @@
         <id>https://refactoringenglish.com/chapters/rules-for-software-tutorials/</id>
         <link href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/"/>
         <updated>2025-01-15T02:41:43.146Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18743"><a class="upvote" href="javascript:vote(18743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/" rel="nofollow" id="tr14"><h1>소프트웨어 튜토리얼 작성 규칙</h1></a> <span class="topicurl">(refactoringenglish.com)</span></div><div class="topicdesc"><a href="topic?id=18743" class="c99 breakall">- 대부분의 소프트웨어 튜토리얼은 중요한 세부사항을 빠뜨리거나 독자의 기대에 맞지 않는 숨겨진 가정을 포함하여 독자가 과정을 재현할 수 없게...</a></div><div class="topicinfo"><span id="tp18743">63</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote18743"></span> | <a href="topic?id=18743" class="u">댓글 10개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18743"><a class="upvote" href="javascript:vote(18743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/" rel="nofollow" id="tr16"><h1>소프트웨어 튜토리얼 작성 규칙</h1></a> <span class="topicurl">(refactoringenglish.com)</span></div><div class="topicdesc"><a href="topic?id=18743" class="c99 breakall">- 대부분의 소프트웨어 튜토리얼은 중요한 세부사항을 빠뜨리거나 독자의 기대에 맞지 않는 숨겨진 가정을 포함하여 독자가 과정을 재현할 수 없게...</a></div><div class="topicinfo"><span id="tp18743">64</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote18743"></span> | <a href="topic?id=18743" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: ChatGPT 사용은 환경에 나쁘지 않음 (GeekNews ─ 메인 원문)]]></title>
         <id>https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for</id>
         <link href="https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for"/>
         <updated>2025-01-20T02:43:55.455Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18800"><a class="upvote" href="javascript:vote(18800, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for" rel="nofollow" id="tr15"><h1>GN⁺: ChatGPT 사용은 환경에 나쁘지 않음</h1></a> <span class="topicurl">(andymasley.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18800" class="c99 breakall">- AI, 특히 ChatGPT와 같은 LLM이 환경에 큰 해악을 끼친다는 통념은 부정확함  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18800"><a class="upvote" href="javascript:vote(18800, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for" rel="nofollow" id="tr17"><h1>GN⁺: ChatGPT 사용은 환경에 나쁘지 않음</h1></a> <span class="topicurl">(andymasley.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18800" class="c99 breakall">- AI, 특히 ChatGPT와 같은 LLM이 환경에 큰 해악을 끼친다는 통념은 부정확함  
 - 많은 이들이 “개인적 AI 사용이 기후 위기에 악영향을 준다”는...</a></div><div class="topicinfo"><span id="tp18800">7</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18800"></span> | <a href="topic?id=18800" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontend Fundamentals (GeekNews ─ 메인 원문)]]></title>
-        <id>http://frontend-fundamentals.com/</id>
-        <link href="http://frontend-fundamentals.com/"/>
-        <updated>2025-01-14T06:20:59.732Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18728"><a class="upvote" href="javascript:vote(18728, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://frontend-fundamentals.com/" rel="nofollow" id="tr16"><h1>Frontend Fundamentals</h1></a> <span class="topicurl">(frontend-fundamentals.com)</span></div><div class="topicdesc"><a href="topic?id=18728" class="c99 breakall">토스 프론트엔드 챕터에서 생각하는 좋은 프론트엔드 코드의 기준에 대해서 소개하는 사이트를 게시했습니다.  
-  
-- 프론트엔드 개발자들이 주...</a></div><div class="topicinfo"><span id="tp18728">49</span> points by <a href="/user?id=rtyu1120">rtyu1120</a> 7일전<span id="unvote18728"></span> | <a href="topic?id=18728" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cosmos - 손을 스캔해서 만드는 맞춤형 키보드 (GeekNews ─ 메인 원문)]]></title>
         <id>https://ryanis.cool/cosmos/</id>
         <link href="https://ryanis.cool/cosmos/"/>
         <updated>2025-01-17T01:07:41.515Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18771"><a class="upvote" href="javascript:vote(18771, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ryanis.cool/cosmos/" rel="nofollow" id="tr17"><h1>Cosmos - 손을 스캔해서 만드는 맞춤형 키보드</h1></a> <span class="topicurl">(ryanis.cool)</span></div><div class="topicdesc"><a href="topic?id=18771" class="c99 breakall">- 스마트폰 카메라로 손을 스캔한 데이터를 기반으로 키보드 키 위치를 손가락 길이와 움직임에 맞게 조정하는 커스텀 키보드 제작 도구  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18771"><a class="upvote" href="javascript:vote(18771, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ryanis.cool/cosmos/" rel="nofollow" id="tr18"><h1>Cosmos - 손을 스캔해서 만드는 맞춤형 키보드</h1></a> <span class="topicurl">(ryanis.cool)</span></div><div class="topicdesc"><a href="topic?id=18771" class="c99 breakall">- 스마트폰 카메라로 손을 스캔한 데이터를 기반으로 키보드 키 위치를 손가락 길이와 움직임에 맞게 조정하는 커스텀 키보드 제작 도구  
 - 각 ...</a></div><div class="topicinfo"><span id="tp18771">20</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18771"></span> | <a href="topic?id=18771" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: OpenAI의 지원을 받은 FrontierMath 프로젝트 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform</id>
-        <link href="https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform"/>
-        <updated>2025-01-21T01:07:29.539Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18820"><a class="upvote" href="javascript:vote(18820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform" rel="nofollow" id="tr18"><h1>GN⁺: OpenAI의 지원을 받은 FrontierMath 프로젝트</h1></a> <span class="topicurl">(lesswrong.com)</span></div><div class="topicdesc"><a href="topic?id=18820" class="c99 breakall">- 최근 OpenAI가 새 모델 o3를 공개하며 수학 분야에서 획기적 성능을 달성했다고 발표함  
-- 특히 이전 모델이 2% 해내던 FrontierMath 벤치마크...</a></div><div class="topicinfo"><span id="tp18820">2</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote18820"></span> | <a href="topic?id=18820" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Frontend Fundamentals (GeekNews ─ 메인 원문)]]></title>
+        <id>http://frontend-fundamentals.com/</id>
+        <link href="http://frontend-fundamentals.com/"/>
+        <updated>2025-01-14T06:20:59.732Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18728"><a class="upvote" href="javascript:vote(18728, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://frontend-fundamentals.com/" rel="nofollow" id="tr19"><h1>Frontend Fundamentals</h1></a> <span class="topicurl">(frontend-fundamentals.com)</span></div><div class="topicdesc"><a href="topic?id=18728" class="c99 breakall">토스 프론트엔드 챕터에서 생각하는 좋은 프론트엔드 코드의 기준에 대해서 소개하는 사이트를 게시했습니다.  
+  
+- 프론트엔드 개발자들이 주...</a></div><div class="topicinfo"><span id="tp18728">49</span> points by <a href="/user?id=rtyu1120">rtyu1120</a> 7일전<span id="unvote18728"></span> | <a href="topic?id=18728" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기 (GeekNews ─ 메인 원문)]]></title>
         <id>https://novasky-ai.github.io/posts/sky-t1/</id>
         <link href="https://novasky-ai.github.io/posts/sky-t1/"/>
         <updated>2025-01-17T01:07:41.497Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18764"><a class="upvote" href="javascript:vote(18764, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://novasky-ai.github.io/posts/sky-t1/" rel="nofollow" id="tr19"><h1>Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기</h1></a> <span class="topicurl">(novasky-ai.github.io)</span></div><div class="topicdesc"><a href="topic?id=18764" class="c99 breakall">- Sky-T1-32B-Preview는 o1-preview와 비슷한 수준의 성능을 발휘하는 추론 및 코딩 모델로 $450(65만원)의 적은 비용만으로 훈련됨  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18764"><a class="upvote" href="javascript:vote(18764, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://novasky-ai.github.io/posts/sky-t1/" rel="nofollow" id="tr20"><h1>Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기</h1></a> <span class="topicurl">(novasky-ai.github.io)</span></div><div class="topicdesc"><a href="topic?id=18764" class="c99 breakall">- Sky-T1-32B-Preview는 o1-preview와 비슷한 수준의 성능을 발휘하는 추론 및 코딩 모델로 $450(65만원)의 적은 비용만으로 훈련됨  
 - 모든 코...</a></div><div class="topicinfo"><span id="tp18764">19</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18764"></span> | <a href="topic?id=18764" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 코사인 유사도(Cosine Similarity)를 함부로 사용하지 말 것 (GeekNews ─ 메인 원문)]]></title>
-        <id>https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/</id>
-        <link href="https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/"/>
-        <updated>2025-01-16T01:07:29.652Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18747"><a class="upvote" href="javascript:vote(18747, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/" rel="nofollow" id="tr20"><h1>GN⁺: 코사인 유사도(Cosine Similarity)를 함부로 사용하지 말 것</h1></a> <span class="topicurl">(p.migdal.pl)</span></div><div class="topicdesc"><a href="topic?id=18747" class="c99 breakall">- 데이터 과학자들은 모든 것을 벡터로 변환함. 이는 AI의 언어임  
-- 그러나 코사인 유사도를 맹목적으로 적용하면 잘못된 방향으로 이끌 수 있...</a></div><div class="topicinfo"><span id="tp18747">27</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote18747"></span> | <a href="topic?id=18747" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재미와 이익을 위한 "LLM 기반 TDD" (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=18828</id>
         <link href="https://news.hada.io/topic?id=18828"/>
-        <updated>2025-01-21T01:07:34.280Z</updated>
+        <updated>2025-01-21T01:07:24.783Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18828"><a class="upvote" href="javascript:vote(18828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.yfzhou.fyi/posts/tdd-llm/" rel="nofollow" id="tr1"><h1>재미와 이익을 위한 "LLM 기반 TDD"</h1></a> <span class="topicurl">(blog.yfzhou.fyi)</span></div><div class="topicdesc"><a href="topic?id=18828" class="c99 breakall"># TDD(Test-Driven Development)와 LLM의 결합  
 - TDD는 프로그램 작성을 시작하기 전, 포괄적인 단위 테스트를 먼저 작성하는 개발 방법론임  
-...</a></div><div class="topicinfo"><span id="tp18828">5</span> points by <a href="/user?id=xguru">xguru</a> 37분전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 2개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp18828">9</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악 검색 시스템 만들기 (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=18827</id>
         <link href="https://news.hada.io/topic?id=18827"/>
-        <updated>2025-01-21T01:07:34.282Z</updated>
+        <updated>2025-01-21T01:07:24.783Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18827"><a class="upvote" href="javascript:vote(18827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/music-recognition-system/" rel="nofollow" id="tr2"><h1>음악 검색 시스템 만들기</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=18827" class="c99 breakall">* 음악 검색 시스템은 **등록**과 **검색** 두 단계로 이루어짐  
-  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">4</span> points by <a href="/user?id=kciter1">kciter1</a> 1시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
+  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">6</span> points by <a href="/user?id=kciter1">kciter1</a> 3시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week) (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=18826</id>
         <link href="https://news.hada.io/topic?id=18826"/>
-        <updated>2025-01-21T01:07:34.282Z</updated>
+        <updated>2025-01-21T01:07:24.783Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr3"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
   
-* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">2</span> points by <a href="/user?id=ninebow">ninebow</a> 2시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
+* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">3</span> points by <a href="/user?id=ninebow">ninebow</a> 3시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제품 보안에 있어 나쁜 방식 (GeekNews ─ 최신글)]]></title>
@@ -380,7 +380,7 @@
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18823"><a class="upvote" href="javascript:vote(18823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cisa.gov/resources-tools/resources/product-security-bad-practices" rel="nofollow" id="tr4"><h1>제품 보안에 있어 나쁜 방식</h1></a> <span class="topicurl">(cisa.gov)</span></div><div class="topicdesc"><a href="topic?id=18823" class="c99 breakall"># 제품 자체에 있어  
   
 ## 메모리에 안전하지 않는 언어(C, C++ 등)  
-가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">7</span> points by <a href="/user?id=carnoxen">carnoxen</a> 8시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 1개</a></div>]]></content>
+가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">10</span> points by <a href="/user?id=carnoxen">carnoxen</a> 10시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스콧 갤러웨이의 2025년 예상 (GeekNews ─ 최신글)]]></title>
@@ -388,7 +388,7 @@
         <link href="https://news.hada.io/topic?id=18818"/>
         <updated>2025-01-20T02:43:50.730Z</updated>
         <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18818"><a class="upvote" href="javascript:vote(18818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@profgalloway/2025-predictions-b480ad6b7bd5" rel="nofollow" id="tr5"><h1>스콧 갤러웨이의 2025년 예상 </h1></a> <span class="topicurl">(medium.com/@profgalloway)</span></div><div class="topicdesc"><a href="topic?id=18818" class="c99 breakall"># 파워 커플: OpenVidia  
-- ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">15</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
+- ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">16</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타) (GeekNews ─ 최신글)]]></title>
@@ -398,7 +398,7 @@
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr6"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
   
 *   '오늘의위키'는 AI가 직접 위키를 쓰고, 고치고, 업데이트하는 새로운 형태의 위키 서비스  
-*   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">11</span> points by <a href="/user?id=calmlake79">calmlake79</a> 23시간전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 16개</a></div>]]></content>
+*   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">12</span> points by <a href="/user?id=calmlake79">calmlake79</a> 1일전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 18개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷 (GeekNews ─ 최신글)]]></title>
@@ -407,7 +407,7 @@
         <updated>2025-01-20T02:43:50.730Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr7"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
 - JSON처럼 여러 언어 간 데이터 교환 가능  
-- 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
+- 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shopify의 5년간 React Native 사용 경험 (GeekNews ─ 최신글)]]></title>
@@ -415,7 +415,7 @@
         <link href="https://news.hada.io/topic?id=18815"/>
         <updated>2025-01-20T02:43:50.729Z</updated>
         <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr8"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
-- React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">19</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 4개</a></div>]]></content>
+- React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jazz - Local-First 앱을 위한 프레임워크 (GeekNews ─ 최신글)]]></title>
@@ -519,18 +519,18 @@
         <title type="html"><![CDATA[재미와 이익을 위한 "LLM 기반 TDD" (GeekNews ─ 최신글 원문)]]></title>
         <id>https://blog.yfzhou.fyi/posts/tdd-llm/</id>
         <link href="https://blog.yfzhou.fyi/posts/tdd-llm/"/>
-        <updated>2025-01-21T01:07:38.962Z</updated>
+        <updated>2025-01-21T01:07:29.514Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18828"><a class="upvote" href="javascript:vote(18828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.yfzhou.fyi/posts/tdd-llm/" rel="nofollow" id="tr1"><h1>재미와 이익을 위한 "LLM 기반 TDD"</h1></a> <span class="topicurl">(blog.yfzhou.fyi)</span></div><div class="topicdesc"><a href="topic?id=18828" class="c99 breakall"># TDD(Test-Driven Development)와 LLM의 결합  
 - TDD는 프로그램 작성을 시작하기 전, 포괄적인 단위 테스트를 먼저 작성하는 개발 방법론임  
-...</a></div><div class="topicinfo"><span id="tp18828">5</span> points by <a href="/user?id=xguru">xguru</a> 37분전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 2개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp18828">9</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악 검색 시스템 만들기 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://kciter.so/posts/music-recognition-system/</id>
         <link href="https://kciter.so/posts/music-recognition-system/"/>
-        <updated>2025-01-21T01:07:38.962Z</updated>
+        <updated>2025-01-21T01:07:29.514Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18827"><a class="upvote" href="javascript:vote(18827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/music-recognition-system/" rel="nofollow" id="tr2"><h1>음악 검색 시스템 만들기</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=18827" class="c99 breakall">* 음악 검색 시스템은 **등록**과 **검색** 두 단계로 이루어짐  
-  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">4</span> points by <a href="/user?id=kciter1">kciter1</a> 1시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
+  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">6</span> points by <a href="/user?id=kciter1">kciter1</a> 3시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제품 보안에 있어 나쁜 방식 (GeekNews ─ 최신글 원문)]]></title>
@@ -540,24 +540,24 @@
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18823"><a class="upvote" href="javascript:vote(18823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cisa.gov/resources-tools/resources/product-security-bad-practices" rel="nofollow" id="tr3"><h1>제품 보안에 있어 나쁜 방식</h1></a> <span class="topicurl">(cisa.gov)</span></div><div class="topicdesc"><a href="topic?id=18823" class="c99 breakall"># 제품 자체에 있어  
   
 ## 메모리에 안전하지 않는 언어(C, C++ 등)  
-가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">7</span> points by <a href="/user?id=carnoxen">carnoxen</a> 8시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 1개</a></div>]]></content>
+가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">10</span> points by <a href="/user?id=carnoxen">carnoxen</a> 10시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week) (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews</id>
+        <link href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews"/>
+        <updated>2025-01-21T01:07:29.516Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr4"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
+  
+* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">3</span> points by <a href="/user?id=ninebow">ninebow</a> 3시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shopify의 5년간 React Native 사용 경험 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://shopify.engineering/five-years-of-react-native-at-shopify</id>
         <link href="https://shopify.engineering/five-years-of-react-native-at-shopify"/>
         <updated>2025-01-20T02:43:55.431Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr4"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
-- React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">19</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week) (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews</id>
-        <link href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews"/>
-        <updated>2025-01-21T01:07:38.963Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr5"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
-  
-* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">2</span> points by <a href="/user?id=ninebow">ninebow</a> 2시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr5"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
+- React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jazz - Local-First 앱을 위한 프레임워크 (GeekNews ─ 최신글 원문)]]></title>
@@ -574,41 +574,57 @@
         <link href="https://medium.com/@profgalloway/2025-predictions-b480ad6b7bd5"/>
         <updated>2025-01-20T02:43:55.436Z</updated>
         <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18818"><a class="upvote" href="javascript:vote(18818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@profgalloway/2025-predictions-b480ad6b7bd5" rel="nofollow" id="tr7"><h1>스콧 갤러웨이의 2025년 예상 </h1></a> <span class="topicurl">(medium.com/@profgalloway)</span></div><div class="topicdesc"><a href="topic?id=18818" class="c99 breakall"># 파워 커플: OpenVidia  
-- ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">15</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 데이터 엔지니어의 새로운 역할 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers</id>
-        <link href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers"/>
-        <updated>2025-01-20T01:08:54.613Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18811"><a class="upvote" href="javascript:vote(18811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers" rel="nofollow" id="tr8"><h1>AI 데이터 엔지니어의 새로운 역할</h1></a> <span class="topicurl">(dataengineeringweekly.com)</span></div><div class="topicdesc"><a href="topic?id=18811" class="c99 breakall"># 데이터 기반 환경에서 AI Data Engineer의 핵심 역할  
-- 챗봇이 사용자의 질문을 부드럽게 이해하는 방식, 자율주행 차량이 복잡한 도로 환경...</a></div><div class="topicinfo"><span id="tp18811">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18811"></span> | <a href="topic?id=18811" class="u">댓글 1개</a></div>]]></content>
+- ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">16</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타) (GeekNews ─ 최신글 원문)]]></title>
         <id>https://news.hada.io/topic?id=18817</id>
         <link href="https://news.hada.io/topic?id=18817"/>
         <updated>2025-01-20T02:43:50.729Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr9"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr8"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
   
 *   '오늘의위키'는 AI가 직접 위키를 쓰고, 고치고, 업데이트하는 새로운 형태의 위키 서비스  
-*   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">11</span> points by <a href="/user?id=calmlake79">calmlake79</a> 23시간전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 16개</a></div>]]></content>
+*   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">12</span> points by <a href="/user?id=calmlake79">calmlake79</a> 1일전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 18개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/</id>
+        <link href="https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/"/>
+        <updated>2025-01-21T02:42:09.960Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18825"><a class="upvote" href="javascript:vote(18825, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/" rel="nofollow" id="tr9"><h1>GN⁺: 물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 </h1></a> <span class="topicurl">(neilzone.co.uk)</span></div><div class="topicdesc"><a href="topic?id=18825" class="c99 breakall">- 물리적 SIM 슬롯만 있는 장치에서 eSIM을 사용하기 위해 9eSIM의 SIM 카드를 사용하는 방법   
+- 9eSIM 공식 웹사이트에서 SIM 카드와 스마트카...</a></div><div class="topicinfo"><span id="tp18825">2</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote18825"></span> | <a href="topic?id=18825" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: DeepSeek-R1 모델 공개 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://github.com/deepseek-ai/DeepSeek-R1</id>
+        <link href="https://github.com/deepseek-ai/DeepSeek-R1"/>
+        <updated>2025-01-21T02:42:09.962Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18824"><a class="upvote" href="javascript:vote(18824, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/deepseek-ai/DeepSeek-R1" rel="nofollow" id="tr10"><h1>GN⁺: DeepSeek-R1 모델 공개</h1></a> <span class="topicurl">(github.com/deepseek-ai)</span></div><div class="topicdesc"><a href="topic?id=18824" class="c99 breakall">- DeepSeek이 1세대 추론모델인 DeepSeek-R1-Zero와 DeepSeek-R1 모델을 공개   
+- DeepSeek-R1-Zero는 대규모 강화학습(RL)만으로 학습되었고, ...</a></div><div class="topicinfo"><span id="tp18824">2</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote18824"></span> | <a href="topic?id=18824" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 데이터 엔지니어의 새로운 역할 (GeekNews ─ 최신글 원문)]]></title>
+        <id>https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers</id>
+        <link href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers"/>
+        <updated>2025-01-20T01:08:54.613Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18811"><a class="upvote" href="javascript:vote(18811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers" rel="nofollow" id="tr11"><h1>AI 데이터 엔지니어의 새로운 역할</h1></a> <span class="topicurl">(dataengineeringweekly.com)</span></div><div class="topicdesc"><a href="topic?id=18811" class="c99 breakall"># 데이터 기반 환경에서 AI Data Engineer의 핵심 역할  
+- 챗봇이 사용자의 질문을 부드럽게 이해하는 방식, 자율주행 차량이 복잡한 도로 환경...</a></div><div class="topicinfo"><span id="tp18811">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18811"></span> | <a href="topic?id=18811" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://msgpack.org/</id>
         <link href="https://msgpack.org/"/>
         <updated>2025-01-20T02:43:55.438Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr10"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr12"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
 - JSON처럼 여러 언어 간 데이터 교환 가능  
-- 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
+- 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Tasks 기능으로 매일 개발 공부받는 방법 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios</id>
         <link href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios"/>
         <updated>2025-01-18T01:05:48.899Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18780"><a class="upvote" href="javascript:vote(18780, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios" rel="nofollow" id="tr11"><h1>ChatGPT Tasks 기능으로 매일 개발 공부받는 방법</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18780" class="c99 breakall">ChatGPT Tasks 기능으로 개발 공부하는 방법 📔  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18780"><a class="upvote" href="javascript:vote(18780, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios" rel="nofollow" id="tr13"><h1>ChatGPT Tasks 기능으로 매일 개발 공부받는 방법</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18780" class="c99 breakall">ChatGPT Tasks 기능으로 개발 공부하는 방법 📔  
   
 👉 새로운 기능에 대한 소개  
 - OpenAI 가 최근 Tasks 라는 기능을 업데이트  
@@ -619,14 +635,14 @@
         <id>https://github.com/alexpasmantier/television</id>
         <link href="https://github.com/alexpasmantier/television"/>
         <updated>2025-01-19T01:12:40.751Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18794"><a class="upvote" href="javascript:vote(18794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alexpasmantier/television" rel="nofollow" id="tr12"><h1>Television - 빠르고 다재다능한 퍼지 검색 TUI</h1></a> <span class="topicurl">(github.com/alexpasmantier)</span></div><div class="topicdesc"><a href="topic?id=18794" class="c99 breakall">- 다양한 데이터 소스(파일, Git 저장소, 환경 변수, Docker 이미지 등)를 퍼지 매칭 알고리즘으로 빠르게 검색할 수 있는 텍스트 기반 사용자 인...</a></div><div class="topicinfo"><span id="tp18794">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18794"></span> | <a href="topic?id=18794" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18794"><a class="upvote" href="javascript:vote(18794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alexpasmantier/television" rel="nofollow" id="tr14"><h1>Television - 빠르고 다재다능한 퍼지 검색 TUI</h1></a> <span class="topicurl">(github.com/alexpasmantier)</span></div><div class="topicdesc"><a href="topic?id=18794" class="c99 breakall">- 다양한 데이터 소스(파일, Git 저장소, 환경 변수, Docker 이미지 등)를 퍼지 매칭 알고리즘으로 빠르게 검색할 수 있는 텍스트 기반 사용자 인...</a></div><div class="topicinfo"><span id="tp18794">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18794"></span> | <a href="topic?id=18794" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://github.com/ahmedkhaleel2004/gitdiagram</id>
         <link href="https://github.com/ahmedkhaleel2004/gitdiagram"/>
         <updated>2025-01-18T01:05:48.898Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18781"><a class="upvote" href="javascript:vote(18781, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ahmedkhaleel2004/gitdiagram" rel="nofollow" id="tr13"><h1>GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화</h1></a> <span class="topicurl">(github.com/ahmedkhaleel2004)</span></div><div class="topicdesc"><a href="topic?id=18781" class="c99 breakall">- 프로젝트를 빠르게 시각화하여 이해하는데 도움을 주는 도구   
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18781"><a class="upvote" href="javascript:vote(18781, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ahmedkhaleel2004/gitdiagram" rel="nofollow" id="tr15"><h1>GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화</h1></a> <span class="topicurl">(github.com/ahmedkhaleel2004)</span></div><div class="topicdesc"><a href="topic?id=18781" class="c99 breakall">- 프로젝트를 빠르게 시각화하여 이해하는데 도움을 주는 도구   
   - 시스템 디자인 / 아키텍처 디자인을 표시   
   - 표시된 컴포넌트 클릭시 ...</a></div><div class="topicinfo"><span id="tp18781">21</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18781"></span> | <a href="topic?id=18781" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -635,56 +651,40 @@
         <id>https://refactoringenglish.com/chapters/rules-for-software-tutorials/</id>
         <link href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/"/>
         <updated>2025-01-15T02:41:43.146Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18743"><a class="upvote" href="javascript:vote(18743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/" rel="nofollow" id="tr14"><h1>소프트웨어 튜토리얼 작성 규칙</h1></a> <span class="topicurl">(refactoringenglish.com)</span></div><div class="topicdesc"><a href="topic?id=18743" class="c99 breakall">- 대부분의 소프트웨어 튜토리얼은 중요한 세부사항을 빠뜨리거나 독자의 기대에 맞지 않는 숨겨진 가정을 포함하여 독자가 과정을 재현할 수 없게...</a></div><div class="topicinfo"><span id="tp18743">63</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote18743"></span> | <a href="topic?id=18743" class="u">댓글 10개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18743"><a class="upvote" href="javascript:vote(18743, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://refactoringenglish.com/chapters/rules-for-software-tutorials/" rel="nofollow" id="tr16"><h1>소프트웨어 튜토리얼 작성 규칙</h1></a> <span class="topicurl">(refactoringenglish.com)</span></div><div class="topicdesc"><a href="topic?id=18743" class="c99 breakall">- 대부분의 소프트웨어 튜토리얼은 중요한 세부사항을 빠뜨리거나 독자의 기대에 맞지 않는 숨겨진 가정을 포함하여 독자가 과정을 재현할 수 없게...</a></div><div class="topicinfo"><span id="tp18743">64</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote18743"></span> | <a href="topic?id=18743" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: ChatGPT 사용은 환경에 나쁘지 않음 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for</id>
         <link href="https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for"/>
         <updated>2025-01-20T02:43:55.455Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18800"><a class="upvote" href="javascript:vote(18800, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for" rel="nofollow" id="tr15"><h1>GN⁺: ChatGPT 사용은 환경에 나쁘지 않음</h1></a> <span class="topicurl">(andymasley.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18800" class="c99 breakall">- AI, 특히 ChatGPT와 같은 LLM이 환경에 큰 해악을 끼친다는 통념은 부정확함  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18800"><a class="upvote" href="javascript:vote(18800, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for" rel="nofollow" id="tr17"><h1>GN⁺: ChatGPT 사용은 환경에 나쁘지 않음</h1></a> <span class="topicurl">(andymasley.substack.com)</span></div><div class="topicdesc"><a href="topic?id=18800" class="c99 breakall">- AI, 특히 ChatGPT와 같은 LLM이 환경에 큰 해악을 끼친다는 통념은 부정확함  
 - 많은 이들이 “개인적 AI 사용이 기후 위기에 악영향을 준다”는...</a></div><div class="topicinfo"><span id="tp18800">7</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote18800"></span> | <a href="topic?id=18800" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontend Fundamentals (GeekNews ─ 최신글 원문)]]></title>
-        <id>http://frontend-fundamentals.com/</id>
-        <link href="http://frontend-fundamentals.com/"/>
-        <updated>2025-01-14T06:20:59.732Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18728"><a class="upvote" href="javascript:vote(18728, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://frontend-fundamentals.com/" rel="nofollow" id="tr16"><h1>Frontend Fundamentals</h1></a> <span class="topicurl">(frontend-fundamentals.com)</span></div><div class="topicdesc"><a href="topic?id=18728" class="c99 breakall">토스 프론트엔드 챕터에서 생각하는 좋은 프론트엔드 코드의 기준에 대해서 소개하는 사이트를 게시했습니다.  
-  
-- 프론트엔드 개발자들이 주...</a></div><div class="topicinfo"><span id="tp18728">49</span> points by <a href="/user?id=rtyu1120">rtyu1120</a> 7일전<span id="unvote18728"></span> | <a href="topic?id=18728" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cosmos - 손을 스캔해서 만드는 맞춤형 키보드 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://ryanis.cool/cosmos/</id>
         <link href="https://ryanis.cool/cosmos/"/>
         <updated>2025-01-17T01:07:41.515Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18771"><a class="upvote" href="javascript:vote(18771, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ryanis.cool/cosmos/" rel="nofollow" id="tr17"><h1>Cosmos - 손을 스캔해서 만드는 맞춤형 키보드</h1></a> <span class="topicurl">(ryanis.cool)</span></div><div class="topicdesc"><a href="topic?id=18771" class="c99 breakall">- 스마트폰 카메라로 손을 스캔한 데이터를 기반으로 키보드 키 위치를 손가락 길이와 움직임에 맞게 조정하는 커스텀 키보드 제작 도구  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18771"><a class="upvote" href="javascript:vote(18771, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://ryanis.cool/cosmos/" rel="nofollow" id="tr18"><h1>Cosmos - 손을 스캔해서 만드는 맞춤형 키보드</h1></a> <span class="topicurl">(ryanis.cool)</span></div><div class="topicdesc"><a href="topic?id=18771" class="c99 breakall">- 스마트폰 카메라로 손을 스캔한 데이터를 기반으로 키보드 키 위치를 손가락 길이와 움직임에 맞게 조정하는 커스텀 키보드 제작 도구  
 - 각 ...</a></div><div class="topicinfo"><span id="tp18771">20</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18771"></span> | <a href="topic?id=18771" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: OpenAI의 지원을 받은 FrontierMath 프로젝트 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform</id>
-        <link href="https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform"/>
-        <updated>2025-01-21T01:07:38.988Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18820"><a class="upvote" href="javascript:vote(18820, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform" rel="nofollow" id="tr18"><h1>GN⁺: OpenAI의 지원을 받은 FrontierMath 프로젝트</h1></a> <span class="topicurl">(lesswrong.com)</span></div><div class="topicdesc"><a href="topic?id=18820" class="c99 breakall">- 최근 OpenAI가 새 모델 o3를 공개하며 수학 분야에서 획기적 성능을 달성했다고 발표함  
-- 특히 이전 모델이 2% 해내던 FrontierMath 벤치마크...</a></div><div class="topicinfo"><span id="tp18820">2</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote18820"></span> | <a href="topic?id=18820" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Frontend Fundamentals (GeekNews ─ 최신글 원문)]]></title>
+        <id>http://frontend-fundamentals.com/</id>
+        <link href="http://frontend-fundamentals.com/"/>
+        <updated>2025-01-14T06:20:59.732Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18728"><a class="upvote" href="javascript:vote(18728, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="http://frontend-fundamentals.com/" rel="nofollow" id="tr19"><h1>Frontend Fundamentals</h1></a> <span class="topicurl">(frontend-fundamentals.com)</span></div><div class="topicdesc"><a href="topic?id=18728" class="c99 breakall">토스 프론트엔드 챕터에서 생각하는 좋은 프론트엔드 코드의 기준에 대해서 소개하는 사이트를 게시했습니다.  
+  
+- 프론트엔드 개발자들이 주...</a></div><div class="topicinfo"><span id="tp18728">49</span> points by <a href="/user?id=rtyu1120">rtyu1120</a> 7일전<span id="unvote18728"></span> | <a href="topic?id=18728" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기 (GeekNews ─ 최신글 원문)]]></title>
         <id>https://novasky-ai.github.io/posts/sky-t1/</id>
         <link href="https://novasky-ai.github.io/posts/sky-t1/"/>
         <updated>2025-01-17T01:07:41.497Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18764"><a class="upvote" href="javascript:vote(18764, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://novasky-ai.github.io/posts/sky-t1/" rel="nofollow" id="tr19"><h1>Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기</h1></a> <span class="topicurl">(novasky-ai.github.io)</span></div><div class="topicdesc"><a href="topic?id=18764" class="c99 breakall">- Sky-T1-32B-Preview는 o1-preview와 비슷한 수준의 성능을 발휘하는 추론 및 코딩 모델로 $450(65만원)의 적은 비용만으로 훈련됨  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18764"><a class="upvote" href="javascript:vote(18764, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://novasky-ai.github.io/posts/sky-t1/" rel="nofollow" id="tr20"><h1>Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기</h1></a> <span class="topicurl">(novasky-ai.github.io)</span></div><div class="topicdesc"><a href="topic?id=18764" class="c99 breakall">- Sky-T1-32B-Preview는 o1-preview와 비슷한 수준의 성능을 발휘하는 추론 및 코딩 모델로 $450(65만원)의 적은 비용만으로 훈련됨  
 - 모든 코...</a></div><div class="topicinfo"><span id="tp18764">19</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18764"></span> | <a href="topic?id=18764" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 코사인 유사도(Cosine Similarity)를 함부로 사용하지 말 것 (GeekNews ─ 최신글 원문)]]></title>
-        <id>https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/</id>
-        <link href="https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/"/>
-        <updated>2025-01-16T01:07:29.652Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18747"><a class="upvote" href="javascript:vote(18747, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/" rel="nofollow" id="tr20"><h1>GN⁺: 코사인 유사도(Cosine Similarity)를 함부로 사용하지 말 것</h1></a> <span class="topicurl">(p.migdal.pl)</span></div><div class="topicdesc"><a href="topic?id=18747" class="c99 breakall">- 데이터 과학자들은 모든 것을 벡터로 변환함. 이는 AI의 언어임  
-- 그러나 코사인 유사도를 맹목적으로 적용하면 잘못된 방향으로 이끌 수 있...</a></div><div class="topicinfo"><span id="tp18747">27</span> points by <a href="/user?id=neo">neo</a> 5일전<span id="unvote18747"></span> | <a href="topic?id=18747" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타) (GeekNews ─ Show)]]></title>
