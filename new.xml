@@ -2,58 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2025-01-21T11:13:53.655Z</updated>
+    <updated>2025-01-21T12:29:59.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친절 엔지니어링 - 구체적인 친절 가이드]]></title>
+        <id>https://news.hada.io/topic?id=18837</id>
+        <link href="https://news.hada.io/topic?id=18837"/>
+        <updated>2025-01-21T12:29:28.284Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18837"><a class="upvote" href="javascript:vote(18837, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kind.engineering/" rel="nofollow" id="tr1"><h1>친절 엔지니어링 - 구체적인 친절 가이드</h1></a> <span class="topicurl">(kind.engineering)</span></div><div class="topicdesc"><a href="topic?id=18837" class="c99 breakall"># 친절함이란  
+  
+- 친절함 (kindness) 은 단순한 다정함 (niceness) 보다 더 적극적인 활동  
+- **상대방이 서있는 그 위치에서 상대하기 (pu...</a></div><div class="topicinfo"><span id="tp18837">1</span> point by <a href="/user?id=roxie">roxie</a> 17분전<span id="unvote18837"></span> | <a href="topic?id=18837" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LeetGPU: CUDA 없이 CUDA 공부]]></title>
         <id>https://news.hada.io/topic?id=18834</id>
         <link href="https://news.hada.io/topic?id=18834"/>
         <updated>2025-01-21T06:20:56.529Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote18834"><a class="upvote" href="javascript:vote(18834, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://leetgpu.com" rel="nofollow" id="tr1"><h1>LeetGPU: CUDA 없이 CUDA 공부</h1></a> <span class="topicurl">(leetgpu.com)</span></div><div class="topicinfo"><span id="tp18834">2</span> points by <a href="/user?id=brainer">brainer</a> 6시간전<span id="unvote18834"></span> | <a href="topic?id=18834" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18834"><a class="upvote" href="javascript:vote(18834, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://leetgpu.com" rel="nofollow" id="tr2"><h1>LeetGPU: CUDA 없이 CUDA 공부</h1></a> <span class="topicurl">(leetgpu.com)</span></div><div class="topicinfo"><span id="tp18834">2</span> points by <a href="/user?id=brainer">brainer</a> 7시간전<span id="unvote18834"></span> | <a href="topic?id=18834" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재미와 이익을 위한 "LLM 기반 TDD"]]></title>
         <id>https://news.hada.io/topic?id=18828</id>
         <link href="https://news.hada.io/topic?id=18828"/>
         <updated>2025-01-21T01:07:34.280Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote18828"><a class="upvote" href="javascript:vote(18828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.yfzhou.fyi/posts/tdd-llm/" rel="nofollow" id="tr2"><h1>재미와 이익을 위한 "LLM 기반 TDD"</h1></a> <span class="topicurl">(blog.yfzhou.fyi)</span></div><div class="topicdesc"><a href="topic?id=18828" class="c99 breakall"># TDD(Test-Driven Development)와 LLM의 결합  
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18828"><a class="upvote" href="javascript:vote(18828, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.yfzhou.fyi/posts/tdd-llm/" rel="nofollow" id="tr3"><h1>재미와 이익을 위한 "LLM 기반 TDD"</h1></a> <span class="topicurl">(blog.yfzhou.fyi)</span></div><div class="topicdesc"><a href="topic?id=18828" class="c99 breakall"># TDD(Test-Driven Development)와 LLM의 결합  
 - TDD는 프로그램 작성을 시작하기 전, 포괄적인 단위 테스트를 먼저 작성하는 개발 방법론임  
-...</a></div><div class="topicinfo"><span id="tp18828">17</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 4개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp18828">17</span> points by <a href="/user?id=xguru">xguru</a> 12시간전<span id="unvote18828"></span> | <a href="topic?id=18828" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악 검색 시스템 만들기]]></title>
         <id>https://news.hada.io/topic?id=18827</id>
         <link href="https://news.hada.io/topic?id=18827"/>
         <updated>2025-01-21T01:07:34.282Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote18827"><a class="upvote" href="javascript:vote(18827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/music-recognition-system/" rel="nofollow" id="tr3"><h1>음악 검색 시스템 만들기</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=18827" class="c99 breakall">* 음악 검색 시스템은 **등록**과 **검색** 두 단계로 이루어짐  
-  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">13</span> points by <a href="/user?id=kciter1">kciter1</a> 11시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18827"><a class="upvote" href="javascript:vote(18827, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kciter.so/posts/music-recognition-system/" rel="nofollow" id="tr4"><h1>음악 검색 시스템 만들기</h1></a> <span class="topicurl">(kciter.so)</span></div><div class="topicdesc"><a href="topic?id=18827" class="c99 breakall">* 음악 검색 시스템은 **등록**과 **검색** 두 단계로 이루어짐  
+  * 등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스...</a></div><div class="topicinfo"><span id="tp18827">13</span> points by <a href="/user?id=kciter1">kciter1</a> 13시간전<span id="unvote18827"></span> | <a href="topic?id=18827" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)]]></title>
         <id>https://news.hada.io/topic?id=18826</id>
         <link href="https://news.hada.io/topic?id=18826"/>
         <updated>2025-01-21T01:07:34.282Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr4"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18826"><a class="upvote" href="javascript:vote(18826, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://discuss.pytorch.kr/t/2025-01-13-01-19-ml-top-ml-papers-of-the-week/5917?utm_source=geeknews" rel="nofollow" id="tr5"><h1>[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)</h1></a> <span class="topicurl">(discuss.pytorch.kr)</span></div><div class="topicdesc"><a href="topic?id=18826" class="c99 breakall">* DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.  
   
-* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">4</span> points by <a href="/user?id=ninebow">ninebow</a> 12시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
+* 이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(...</a></div><div class="topicinfo"><span id="tp18826">4</span> points by <a href="/user?id=ninebow">ninebow</a> 13시간전<span id="unvote18826"></span> | <a href="topic?id=18826" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제품 보안에 있어 나쁜 방식]]></title>
         <id>https://news.hada.io/topic?id=18823</id>
         <link href="https://news.hada.io/topic?id=18823"/>
         <updated>2025-01-20T17:13:10.308Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote18823"><a class="upvote" href="javascript:vote(18823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cisa.gov/resources-tools/resources/product-security-bad-practices" rel="nofollow" id="tr5"><h1>제품 보안에 있어 나쁜 방식</h1></a> <span class="topicurl">(cisa.gov)</span></div><div class="topicdesc"><a href="topic?id=18823" class="c99 breakall"># 제품 자체에 있어  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18823"><a class="upvote" href="javascript:vote(18823, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cisa.gov/resources-tools/resources/product-security-bad-practices" rel="nofollow" id="tr6"><h1>제품 보안에 있어 나쁜 방식</h1></a> <span class="topicurl">(cisa.gov)</span></div><div class="topicdesc"><a href="topic?id=18823" class="c99 breakall"># 제품 자체에 있어  
   
 ## 메모리에 안전하지 않는 언어(C, C++ 등)  
-가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">14</span> points by <a href="/user?id=carnoxen">carnoxen</a> 19시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 5개</a></div>]]></content>
+가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 20...</a></div><div class="topicinfo"><span id="tp18823">15</span> points by <a href="/user?id=carnoxen">carnoxen</a> 20시간전<span id="unvote18823"></span> | <a href="topic?id=18823" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스콧 갤러웨이의 2025년 예상]]></title>
         <id>https://news.hada.io/topic?id=18818</id>
         <link href="https://news.hada.io/topic?id=18818"/>
         <updated>2025-01-20T02:44:00.140Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote18818"><a class="upvote" href="javascript:vote(18818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@profgalloway/2025-predictions-b480ad6b7bd5" rel="nofollow" id="tr6"><h1>스콧 갤러웨이의 2025년 예상 </h1></a> <span class="topicurl">(medium.com/@profgalloway)</span></div><div class="topicdesc"><a href="topic?id=18818" class="c99 breakall"># 파워 커플: OpenVidia  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18818"><a class="upvote" href="javascript:vote(18818, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/@profgalloway/2025-predictions-b480ad6b7bd5" rel="nofollow" id="tr7"><h1>스콧 갤러웨이의 2025년 예상 </h1></a> <span class="topicurl">(medium.com/@profgalloway)</span></div><div class="topicdesc"><a href="topic?id=18818" class="c99 breakall"># 파워 커플: OpenVidia  
 - ChatGPT 출시 이후(2022년 11월), 기술 업계의 **Big Six**(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기...</a></div><div class="topicinfo"><span id="tp18818">19</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18818"></span> | <a href="topic?id=18818" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
@@ -61,7 +71,7 @@
         <id>https://news.hada.io/topic?id=18817</id>
         <link href="https://news.hada.io/topic?id=18817"/>
         <updated>2025-01-20T02:44:00.140Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr7"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18817"><a class="upvote" href="javascript:vote(18817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18817" rel="nofollow" id="tr8"><h1>Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)</h1></a> <span class="topicurl">(wiki.onul.works)</span></div><div class="topicdesc"><a href="topic?id=18817" class="c99 breakall">**개요**  
   
 *   '오늘의위키'는 AI가 직접 위키를 쓰고, 고치고, 업데이트하는 새로운 형태의 위키 서비스  
 *   Google의 Gemini AI 모델을...</a></div><div class="topicinfo"><span id="tp18817">13</span> points by <a href="/user?id=calmlake79">calmlake79</a> 1일전<span id="unvote18817"></span> | <a href="topic?id=18817" class="u">댓글 23개</a></div>]]></content>
@@ -71,7 +81,7 @@
         <id>https://news.hada.io/topic?id=18816</id>
         <link href="https://news.hada.io/topic?id=18816"/>
         <updated>2025-01-20T02:44:00.142Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr8"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18816"><a class="upvote" href="javascript:vote(18816, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://msgpack.org/" rel="nofollow" id="tr9"><h1>MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷</h1></a> <span class="topicurl">(msgpack.org)</span></div><div class="topicdesc"><a href="topic?id=18816" class="c99 breakall">- 효율적인 Binary Serialization 포맷   
 - JSON처럼 여러 언어 간 데이터 교환 가능  
 - 작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문...</a></div><div class="topicinfo"><span id="tp18816">9</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18816"></span> | <a href="topic?id=18816" class="u">댓글 3개</a></div>]]></content>
     </entry>
@@ -80,7 +90,7 @@
         <id>https://news.hada.io/topic?id=18815</id>
         <link href="https://news.hada.io/topic?id=18815"/>
         <updated>2025-01-20T02:44:00.142Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr9"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18815"><a class="upvote" href="javascript:vote(18815, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://shopify.engineering/five-years-of-react-native-at-shopify" rel="nofollow" id="tr10"><h1>Shopify의 5년간 React Native 사용 경험</h1></a> <span class="topicurl">(shopify.engineering)</span></div><div class="topicdesc"><a href="topic?id=18815" class="c99 breakall">- Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음  
 - React Native 도입의 ...</a></div><div class="topicinfo"><span id="tp18815">23</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18815"></span> | <a href="topic?id=18815" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -88,7 +98,7 @@
         <id>https://news.hada.io/topic?id=18814</id>
         <link href="https://news.hada.io/topic?id=18814"/>
         <updated>2025-01-20T01:08:59.390Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote18814"><a class="upvote" href="javascript:vote(18814, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jazz.tools/" rel="nofollow" id="tr10"><h1>Jazz - Local-First 앱을 위한 프레임워크 </h1></a> <span class="topicurl">(jazz.tools)</span></div><div class="topicdesc"><a href="topic?id=18814" class="c99 breakall">- 클라이언트 사이드 코드만으로 앱 전체 구축  
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18814"><a class="upvote" href="javascript:vote(18814, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://jazz.tools/" rel="nofollow" id="tr11"><h1>Jazz - Local-First 앱을 위한 프레임워크 </h1></a> <span class="topicurl">(jazz.tools)</span></div><div class="topicdesc"><a href="topic?id=18814" class="c99 breakall">- 클라이언트 사이드 코드만으로 앱 전체 구축  
   - 데이터베이스 배포, SQL 스키마 설계, 관계 설정 및 쿼리 작성이 필요 없음  
   - TypeScri...</a></div><div class="topicinfo"><span id="tp18814">21</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18814"></span> | <a href="topic?id=18814" class="u">댓글 2개</a></div>]]></content>
     </entry>
@@ -97,7 +107,7 @@
         <id>https://news.hada.io/topic?id=18811</id>
         <link href="https://news.hada.io/topic?id=18811"/>
         <updated>2025-01-20T01:08:59.395Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote18811"><a class="upvote" href="javascript:vote(18811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers" rel="nofollow" id="tr11"><h1>AI 데이터 엔지니어의 새로운 역할</h1></a> <span class="topicurl">(dataengineeringweekly.com)</span></div><div class="topicdesc"><a href="topic?id=18811" class="c99 breakall"># 데이터 기반 환경에서 AI Data Engineer의 핵심 역할  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18811"><a class="upvote" href="javascript:vote(18811, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.dataengineeringweekly.com/p/the-emerging-role-of-ai-data-engineers" rel="nofollow" id="tr12"><h1>AI 데이터 엔지니어의 새로운 역할</h1></a> <span class="topicurl">(dataengineeringweekly.com)</span></div><div class="topicdesc"><a href="topic?id=18811" class="c99 breakall"># 데이터 기반 환경에서 AI Data Engineer의 핵심 역할  
 - 챗봇이 사용자의 질문을 부드럽게 이해하는 방식, 자율주행 차량이 복잡한 도로 환경...</a></div><div class="topicinfo"><span id="tp18811">15</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote18811"></span> | <a href="topic?id=18811" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -105,14 +115,14 @@
         <id>https://news.hada.io/topic?id=18794</id>
         <link href="https://news.hada.io/topic?id=18794"/>
         <updated>2025-01-19T01:12:45.414Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote18794"><a class="upvote" href="javascript:vote(18794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alexpasmantier/television" rel="nofollow" id="tr12"><h1>Television - 빠르고 다재다능한 퍼지 검색 TUI</h1></a> <span class="topicurl">(github.com/alexpasmantier)</span></div><div class="topicdesc"><a href="topic?id=18794" class="c99 breakall">- 다양한 데이터 소스(파일, Git 저장소, 환경 변수, Docker 이미지 등)를 퍼지 매칭 알고리즘으로 빠르게 검색할 수 있는 텍스트 기반 사용자 인...</a></div><div class="topicinfo"><span id="tp18794">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18794"></span> | <a href="topic?id=18794" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18794"><a class="upvote" href="javascript:vote(18794, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/alexpasmantier/television" rel="nofollow" id="tr13"><h1>Television - 빠르고 다재다능한 퍼지 검색 TUI</h1></a> <span class="topicurl">(github.com/alexpasmantier)</span></div><div class="topicdesc"><a href="topic?id=18794" class="c99 breakall">- 다양한 데이터 소스(파일, Git 저장소, 환경 변수, Docker 이미지 등)를 퍼지 매칭 알고리즘으로 빠르게 검색할 수 있는 텍스트 기반 사용자 인...</a></div><div class="topicinfo"><span id="tp18794">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote18794"></span> | <a href="topic?id=18794" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 키우는 고양이와 채팅하는 웹앱]]></title>
         <id>https://news.hada.io/topic?id=18792</id>
         <link href="https://news.hada.io/topic?id=18792"/>
         <updated>2025-01-18T12:25:46.655Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote18792"><a class="upvote" href="javascript:vote(18792, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18792" rel="nofollow" id="tr13"><h1>Show GN: 키우는 고양이와 채팅하는 웹앱</h1></a> <span class="topicurl">(x.com)</span></div><div class="topicdesc"><a href="topic?id=18792" class="c99 breakall">저희집 고양이 역할을 하는 봇과 대화하는 작은 프로젝트입니다.   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18792"><a class="upvote" href="javascript:vote(18792, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=18792" rel="nofollow" id="tr14"><h1>Show GN: 키우는 고양이와 채팅하는 웹앱</h1></a> <span class="topicurl">(x.com)</span></div><div class="topicdesc"><a href="topic?id=18792" class="c99 breakall">저희집 고양이 역할을 하는 봇과 대화하는 작은 프로젝트입니다.   
   
 프롬프트는 아내가 만들고 껍데기는 제가 supabase + expo로 만들어 fire...</a></div><div class="topicinfo"><span id="tp18792">1</span> point by <a href="/user?id=sungchi">sungchi</a> 3일전<span id="unvote18792"></span> | <a href="topic?id=18792" class="u">댓글 1개</a></div>]]></content>
     </entry>
@@ -121,7 +131,7 @@
         <id>https://news.hada.io/topic?id=18789</id>
         <link href="https://news.hada.io/topic?id=18789"/>
         <updated>2025-01-18T02:37:42.522Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote18789"><a class="upvote" href="javascript:vote(18789, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/tuono-labs/tuono" rel="nofollow" id="tr14"><h1>Tuono - Rust 기반 풀스택 React 웹 프레임워크</h1></a> <span class="topicurl">(github.com/tuono-labs)</span></div><div class="topicdesc"><a href="topic?id=18789" class="c99 breakall">- Rust를 백엔드로 사용해 React 애플리케이션을 구축하는 풀스택 웹 프레임워크로, "사용성"과 "성능"에 중점을 둠  
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18789"><a class="upvote" href="javascript:vote(18789, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/tuono-labs/tuono" rel="nofollow" id="tr15"><h1>Tuono - Rust 기반 풀스택 React 웹 프레임워크</h1></a> <span class="topicurl">(github.com/tuono-labs)</span></div><div class="topicdesc"><a href="topic?id=18789" class="c99 breakall">- Rust를 백엔드로 사용해 React 애플리케이션을 구축하는 풀스택 웹 프레임워크로, "사용성"과 "성능"에 중점을 둠  
 - Next.js 경험이 있다면 ...</a></div><div class="topicinfo"><span id="tp18789">6</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18789"></span> | <a href="topic?id=18789" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -129,7 +139,7 @@
         <id>https://news.hada.io/topic?id=18781</id>
         <link href="https://news.hada.io/topic?id=18781"/>
         <updated>2025-01-18T01:05:53.638Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote18781"><a class="upvote" href="javascript:vote(18781, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ahmedkhaleel2004/gitdiagram" rel="nofollow" id="tr15"><h1>GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화</h1></a> <span class="topicurl">(github.com/ahmedkhaleel2004)</span></div><div class="topicdesc"><a href="topic?id=18781" class="c99 breakall">- 프로젝트를 빠르게 시각화하여 이해하는데 도움을 주는 도구   
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18781"><a class="upvote" href="javascript:vote(18781, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/ahmedkhaleel2004/gitdiagram" rel="nofollow" id="tr16"><h1>GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화</h1></a> <span class="topicurl">(github.com/ahmedkhaleel2004)</span></div><div class="topicdesc"><a href="topic?id=18781" class="c99 breakall">- 프로젝트를 빠르게 시각화하여 이해하는데 도움을 주는 도구   
   - 시스템 디자인 / 아키텍처 디자인을 표시   
   - 표시된 컴포넌트 클릭시 ...</a></div><div class="topicinfo"><span id="tp18781">23</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote18781"></span> | <a href="topic?id=18781" class="u">댓글 4개</a></div>]]></content>
     </entry>
@@ -138,39 +148,31 @@
         <id>https://news.hada.io/topic?id=18780</id>
         <link href="https://news.hada.io/topic?id=18780"/>
         <updated>2025-01-18T01:05:53.638Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote18780"><a class="upvote" href="javascript:vote(18780, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios" rel="nofollow" id="tr16"><h1>ChatGPT Tasks 기능으로 매일 개발 공부받는 방법</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18780" class="c99 breakall">ChatGPT Tasks 기능으로 개발 공부하는 방법 📔  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18780"><a class="upvote" href="javascript:vote(18780, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB?utm_source=share&amp;utm_medium=member_ios" rel="nofollow" id="tr17"><h1>ChatGPT Tasks 기능으로 매일 개발 공부받는 방법</h1></a> <span class="topicurl">(linkedin.com)</span></div><div class="topicdesc"><a href="topic?id=18780" class="c99 breakall">ChatGPT Tasks 기능으로 개발 공부하는 방법 📔  
   
 👉 새로운 기능에 대한 소개  
 - OpenAI 가 최근 Tasks 라는 기능을 업데이트  
-- 이 기능...</a></div><div class="topicinfo"><span id="tp18780">35</span> points by <a href="/user?id=leelou2">leelou2</a> 3일전<span id="unvote18780"></span> | <a href="topic?id=18780" class="u">댓글 5개</a></div>]]></content>
+- 이 기능...</a></div><div class="topicinfo"><span id="tp18780">35</span> points by <a href="/user?id=leelou2">leelou2</a> 4일전<span id="unvote18780"></span> | <a href="topic?id=18780" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 미국 주식인가]]></title>
         <id>https://news.hada.io/topic?id=18777</id>
         <link href="https://news.hada.io/topic?id=18777"/>
         <updated>2025-01-17T09:15:52.743Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote18777"><a class="upvote" href="javascript:vote(18777, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://corp.tossinvest.com/ko/post?type=research-report&amp;id=9678&amp;category=138" rel="nofollow" id="tr17"><h1>왜 미국 주식인가</h1></a> <span class="topicurl">(corp.tossinvest.com)</span></div><div class="topicdesc"><a href="topic?id=18777" class="c99 breakall">2024년 9월 20일, 토스증권 리서치센터가 발간한 미국 주식 시장 보고서입니다. 이 보고서는 왜 미국 주식 시장이 명실상부 가장 최고의 시장인지 ...</a></div><div class="topicinfo"><span id="tp18777">13</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4일전<span id="unvote18777"></span> | <a href="topic?id=18777" class="u">댓글 7개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18777"><a class="upvote" href="javascript:vote(18777, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://corp.tossinvest.com/ko/post?type=research-report&amp;id=9678&amp;category=138" rel="nofollow" id="tr18"><h1>왜 미국 주식인가</h1></a> <span class="topicurl">(corp.tossinvest.com)</span></div><div class="topicdesc"><a href="topic?id=18777" class="c99 breakall">2024년 9월 20일, 토스증권 리서치센터가 발간한 미국 주식 시장 보고서입니다. 이 보고서는 왜 미국 주식 시장이 명실상부 가장 최고의 시장인지 ...</a></div><div class="topicinfo"><span id="tp18777">13</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4일전<span id="unvote18777"></span> | <a href="topic?id=18777" class="u">댓글 7개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NextUI, HeroUI로 명칭 변경]]></title>
         <id>https://news.hada.io/topic?id=18776</id>
         <link href="https://news.hada.io/topic?id=18776"/>
         <updated>2025-01-17T07:14:08.363Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote18776"><a class="upvote" href="javascript:vote(18776, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.heroui.com/blog/introducing-heroui" rel="nofollow" id="tr18"><h1>NextUI, HeroUI로 명칭 변경</h1></a> <span class="topicurl">(heroui.com)</span></div><div class="topicdesc"><a href="topic?id=18776" class="c99 breakall">NextUI 프로젝트는 웹 사이트에 UI를 제공하는 라이브러리입니다. 프로젝트 시작 당시 NextJS의 기능을 완전히 지원하는 데 목적을 두었지만, 이제...</a></div><div class="topicinfo"><span id="tp18776">3</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4일전<span id="unvote18776"></span> | <a href="topic?id=18776" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18776"><a class="upvote" href="javascript:vote(18776, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.heroui.com/blog/introducing-heroui" rel="nofollow" id="tr19"><h1>NextUI, HeroUI로 명칭 변경</h1></a> <span class="topicurl">(heroui.com)</span></div><div class="topicdesc"><a href="topic?id=18776" class="c99 breakall">NextUI 프로젝트는 웹 사이트에 UI를 제공하는 라이브러리입니다. 프로젝트 시작 당시 NextJS의 기능을 완전히 지원하는 데 목적을 두었지만, 이제...</a></div><div class="topicinfo"><span id="tp18776">3</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4일전<span id="unvote18776"></span> | <a href="topic?id=18776" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Use multiple LLM backends in a single crate, simple builder-based configuration, and built-in prompt]]></title>
         <id>https://news.hada.io/topic?id=18774</id>
         <link href="https://news.hada.io/topic?id=18774"/>
         <updated>2025-01-17T05:14:30.138Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote18774"><a class="upvote" href="javascript:vote(18774, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/graniet/rllm" rel="nofollow" id="tr19"><h1>Use multiple LLM backends in a single crate, simple builder-based configuration, and built-in prompt</h1></a> <span class="topicurl">(github.com/graniet)</span></div><div class="topicdesc"><a href="topic?id=18774" class="c99 breakall">RLLM is a Rust library that lets you use multiple LLM backends in a single project: OpenAI, Anthropic (Claude), Ollama, DeepSeek, xAI, Ph...</a></div><div class="topicinfo"><span id="tp18774">1</span> point by <a href="/user?id=jester1337">jester1337</a> 4일전<span id="unvote18774"></span> | <a href="topic?id=18774" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google, Gmail/Docs에 AI를 무료로 제공하면서 Workspace의 가격을 인상]]></title>
-        <id>https://news.hada.io/topic?id=18773</id>
-        <link href="https://news.hada.io/topic?id=18773"/>
-        <updated>2025-01-17T02:40:43.210Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18773"><a class="upvote" href="javascript:vote(18773, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free" rel="nofollow" id="tr20"><h1>Google, Gmail/Docs에 AI를 무료로 제공하면서 Workspace의 가격을 인상</h1></a> <span class="topicurl">(theverge.com)</span></div><div class="topicdesc"><a href="topic?id=18773" class="c99 breakall">- Google은 Gmail, Docs, Sheets, Meet 등 Workspace 앱의 "AI 기능을 모든 유료 기업 고객에게 무료"로 제공하기 시작  
-  - 이전에는 "Gemini B...</a></div><div class="topicinfo"><span id="tp18773">7</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote18773"></span> | <a href="topic?id=18773" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote18774"><a class="upvote" href="javascript:vote(18774, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/graniet/rllm" rel="nofollow" id="tr20"><h1>Use multiple LLM backends in a single crate, simple builder-based configuration, and built-in prompt</h1></a> <span class="topicurl">(github.com/graniet)</span></div><div class="topicdesc"><a href="topic?id=18774" class="c99 breakall">RLLM is a Rust library that lets you use multiple LLM backends in a single project: OpenAI, Anthropic (Claude), Ollama, DeepSeek, xAI, Ph...</a></div><div class="topicinfo"><span id="tp18774">1</span> point by <a href="/user?id=jester1337">jester1337</a> 4일전<span id="unvote18774"></span> | <a href="topic?id=18774" class="u">댓글과 토론</a></div>]]></content>
     </entry>
 </feed>
