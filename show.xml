@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-24T13:20:26.635Z</updated>
+    <updated>2025-01-24T14:14:23.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Snap Scope - 렌즈 초점거리 사용 분포 한눈에 보기]]></title>
+        <id>https://news.hada.io/topic?id=18890</id>
+        <link href="https://news.hada.io/topic?id=18890"/>
+        <updated>2025-01-24T14:14:01.557Z</updated>
+        <content type="html"><![CDATA[kan02134]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Voice-Pro – 강력한 AI 음성 복제 도구]]></title>
         <id>https://news.hada.io/topic?id=18870</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18717"/>
         <updated>2025-01-13T16:20:14.467Z</updated>
         <content type="html"><![CDATA[tokti]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: TypeScript 기반 JSON Schema 구현과 개발 도구 모음]]></title>
-        <id>https://news.hada.io/topic?id=18634</id>
-        <link href="https://news.hada.io/topic?id=18634"/>
-        <updated>2025-01-13T02:53:36.885Z</updated>
-        <content type="html"><![CDATA[honglu]]></content>
     </entry>
 </feed>
