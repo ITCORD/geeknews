@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-25T13:16:24.370Z</updated>
+    <updated>2025-01-25T14:13:05.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Node.js 환경에서 Clang을 이용한 C, C++, Java, JavaScript 포매터를 개발하였습니다.]]></title>
+        <id>https://news.hada.io/topic?id=18903</id>
+        <link href="https://news.hada.io/topic?id=18903"/>
+        <updated>2025-01-25T14:12:45.327Z</updated>
+        <content type="html"><![CDATA[beenzinozino]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Voice-Pro – 강력한 AI 음성 복제 도구]]></title>
         <id>https://news.hada.io/topic?id=18870</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18615"/>
         <updated>2025-01-13T02:53:36.890Z</updated>
         <content type="html"><![CDATA[igdev]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: TypeScript 기반 JSON Schema 구현과 개발 도구 모음]]></title>
-        <id>https://news.hada.io/topic?id=18634</id>
-        <link href="https://news.hada.io/topic?id=18634"/>
-        <updated>2025-01-24T15:15:32.666Z</updated>
-        <content type="html"><![CDATA[honglu]]></content>
     </entry>
 </feed>
