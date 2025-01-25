@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-01-25T19:11:39.010Z</updated>
+    <updated>2025-01-25T20:15:18.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://news.hada.io/topic?id=18817"/>
         <updated>2025-01-20T22:13:59.494Z</updated>
         <content type="html"><![CDATA[calmlake79]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 커피챗 에이전트 - 리쿠르터를 대신해서 커피챗을 해주는 에이전트]]></title>
+        <id>https://news.hada.io/topic?id=18852</id>
+        <link href="https://news.hada.io/topic?id=18852"/>
+        <updated>2025-01-25T20:14:56.828Z</updated>
+        <content type="html"><![CDATA[superego]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 세일정보 모아보는 서비스 sale archive]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18505"/>
         <updated>2025-01-13T02:53:36.891Z</updated>
         <content type="html"><![CDATA[tsboard]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Livoa Vectorizer - 흐릿한 이미지도 깔끔하게 벡터화]]></title>
-        <id>https://news.hada.io/topic?id=18615</id>
-        <link href="https://news.hada.io/topic?id=18615"/>
-        <updated>2025-01-13T02:53:36.890Z</updated>
-        <content type="html"><![CDATA[igdev]]></content>
     </entry>
 </feed>
