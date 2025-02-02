@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-02-02T08:17:30.100Z</updated>
+    <updated>2025-02-02T09:14:20.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 브라우저에서 생성형 AI를 로컬로 실행하는 크롬 익스텐션]]></title>
+        <id>https://news.hada.io/topic?id=19020</id>
+        <link href="https://news.hada.io/topic?id=19020"/>
+        <updated>2025-02-02T09:14:00.551Z</updated>
+        <content type="html"><![CDATA[tantara]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: TanStack Query(React Query) 직접 만들어보기]]></title>
         <id>https://news.hada.io/topic?id=18963</id>
@@ -20,18 +27,18 @@
         <content type="html"><![CDATA[abuskorea]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 이메일 발송 시스템 오픈소스 (AWS SQS, SES, SNS 등을 활용한 Golang 프로젝트)]]></title>
-        <id>https://news.hada.io/topic?id=18936</id>
-        <link href="https://news.hada.io/topic?id=18936"/>
-        <updated>2025-01-27T12:30:00.397Z</updated>
-        <content type="html"><![CDATA[leelou2]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Nugget - 오픈소스 영상편집 프로그램]]></title>
         <id>https://news.hada.io/topic?id=18853</id>
         <link href="https://news.hada.io/topic?id=18853"/>
         <updated>2025-01-22T07:14:43.666Z</updated>
         <content type="html"><![CDATA[hyeongjun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 이메일 발송 시스템 오픈소스 (AWS SQS, SES, SNS 등을 활용한 Golang 프로젝트)]]></title>
+        <id>https://news.hada.io/topic?id=18936</id>
+        <link href="https://news.hada.io/topic?id=18936"/>
+        <updated>2025-01-27T12:30:00.397Z</updated>
+        <content type="html"><![CDATA[leelou2]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18647"/>
         <updated>2025-01-13T02:53:36.878Z</updated>
         <content type="html"><![CDATA[leelou2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 오픈소스 커뮤니티 빌더 TSBOARD의 새로운 백엔드 : GOAPI]]></title>
-        <id>https://news.hada.io/topic?id=18505</id>
-        <link href="https://news.hada.io/topic?id=18505"/>
-        <updated>2025-01-31T01:08:18.334Z</updated>
-        <content type="html"><![CDATA[tsboard]]></content>
     </entry>
 </feed>
