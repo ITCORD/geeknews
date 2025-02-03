@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-02-03T06:21:48.485Z</updated>
+    <updated>2025-02-03T07:15:38.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://news.hada.io/topic?id=19020"/>
         <updated>2025-02-02T09:14:00.551Z</updated>
         <content type="html"><![CDATA[tantara]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: RTX-Upscaler – NVIDIA RTX 기반 실시간 AI 이미지 업스케일링]]></title>
+        <id>https://news.hada.io/topic?id=19038</id>
+        <link href="https://news.hada.io/topic?id=19038"/>
+        <updated>2025-02-03T07:15:17.314Z</updated>
+        <content type="html"><![CDATA[abuskorea]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: TanStack Query(React Query) 직접 만들어보기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18699"/>
         <updated>2025-01-13T02:53:36.870Z</updated>
         <content type="html"><![CDATA[whatiamdoing]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: OpenRepoWiki – 코드는 많고 시간은 없을 때? 딱 이걸로 해결하세요!]]></title>
-        <id>https://news.hada.io/topic?id=18600</id>
-        <link href="https://news.hada.io/topic?id=18600"/>
-        <updated>2025-01-13T02:53:36.883Z</updated>
-        <content type="html"><![CDATA[bigmart0918]]></content>
     </entry>
 </feed>
