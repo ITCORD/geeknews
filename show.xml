@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-02-03T02:43:26.797Z</updated>
+    <updated>2025-02-03T03:20:30.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 매일 아침 받아보는 미국 주식 리포트 - SuperInvesting]]></title>
+        <id>https://news.hada.io/topic?id=19035</id>
+        <link href="https://news.hada.io/topic?id=19035"/>
+        <updated>2025-02-03T03:20:10.341Z</updated>
+        <content type="html"><![CDATA[jayhanx]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 브라우저에서 생성형 AI를 로컬로 실행하는 크롬 익스텐션]]></title>
         <id>https://news.hada.io/topic?id=19020</id>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[abuskorea]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Nugget - 오픈소스 영상편집 프로그램]]></title>
-        <id>https://news.hada.io/topic?id=18853</id>
-        <link href="https://news.hada.io/topic?id=18853"/>
-        <updated>2025-01-22T07:14:43.666Z</updated>
-        <content type="html"><![CDATA[hyeongjun]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 이메일 발송 시스템 오픈소스 (AWS SQS, SES, SNS 등을 활용한 Golang 프로젝트)]]></title>
         <id>https://news.hada.io/topic?id=18936</id>
         <link href="https://news.hada.io/topic?id=18936"/>
         <updated>2025-01-27T12:30:00.397Z</updated>
         <content type="html"><![CDATA[leelou2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Nugget - 오픈소스 영상편집 프로그램]]></title>
+        <id>https://news.hada.io/topic?id=18853</id>
+        <link href="https://news.hada.io/topic?id=18853"/>
+        <updated>2025-01-22T07:14:43.666Z</updated>
+        <content type="html"><![CDATA[hyeongjun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18600"/>
         <updated>2025-01-13T02:53:36.883Z</updated>
         <content type="html"><![CDATA[bigmart0918]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 바로 사용 가능한 가볍지만 빠른 사용자 행동/이벤트 수집기(rust) 오픈 소스]]></title>
-        <id>https://news.hada.io/topic?id=18647</id>
-        <link href="https://news.hada.io/topic?id=18647"/>
-        <updated>2025-01-13T02:53:36.878Z</updated>
-        <content type="html"><![CDATA[leelou2]]></content>
     </entry>
 </feed>
