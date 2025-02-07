@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-02-07T01:10:24.861Z</updated>
+    <updated>2025-02-07T02:46:27.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=19089"/>
         <updated>2025-02-06T02:44:23.540Z</updated>
         <content type="html"><![CDATA[hongminhee]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 오픈소스 - 맥용 Ollama Client "LLM Hippo"]]></title>
+        <id>https://news.hada.io/topic?id=19106</id>
+        <link href="https://news.hada.io/topic?id=19106"/>
+        <updated>2025-02-07T02:46:07.343Z</updated>
+        <content type="html"><![CDATA[rtlink]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 키프레임 편집을 제공하는 오픈소스 영상 편집기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18629"/>
         <updated>2025-01-13T02:53:36.874Z</updated>
         <content type="html"><![CDATA[0126kjw]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 10번의 고도화로 완성된 URL Shortener(Rust ver.) 오픈소스]]></title>
-        <id>https://news.hada.io/topic?id=18602</id>
-        <link href="https://news.hada.io/topic?id=18602"/>
-        <updated>2025-01-13T02:53:36.876Z</updated>
-        <content type="html"><![CDATA[leelou2]]></content>
     </entry>
 </feed>
