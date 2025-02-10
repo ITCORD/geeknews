@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-02-10T13:22:57.883Z</updated>
+    <updated>2025-02-10T14:15:23.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Apple Wallet에 나만의 카드 추가하기]]></title>
+        <id>https://news.hada.io/topic?id=19160</id>
+        <link href="https://news.hada.io/topic?id=19160"/>
+        <updated>2025-02-10T14:15:00.936Z</updated>
+        <content type="html"><![CDATA[jongwony]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 기성 플러그인보다 키 정렬이 빠른 eslint-plugin-sort-properties 소개]]></title>
         <id>https://news.hada.io/topic?id=19159</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18666"/>
         <updated>2025-01-13T02:53:36.873Z</updated>
         <content type="html"><![CDATA[leelou2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Dearly: 친구에게 말하기 어려웠던 연애 고민을 털어 놓아보세요]]></title>
-        <id>https://news.hada.io/topic?id=19093</id>
-        <link href="https://news.hada.io/topic?id=19093"/>
-        <updated>2025-02-06T03:18:34.677Z</updated>
-        <content type="html"><![CDATA[toycrane]]></content>
     </entry>
 </feed>
