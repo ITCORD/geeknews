@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-02-10T07:15:48.962Z</updated>
+    <updated>2025-02-10T08:20:37.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 기성 플러그인보다 키 정렬이 빠른 eslint-plugin-sort-properties 소개]]></title>
+        <id>https://news.hada.io/topic?id=19159</id>
+        <link href="https://news.hada.io/topic?id=19159"/>
+        <updated>2025-02-10T08:20:15.534Z</updated>
+        <content type="html"><![CDATA[haenah]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ClueHunter Perplexity : AI 답변의 증거를 웹페이지에서 빠르게 찾아주는 크롬 익스텐션]]></title>
         <id>https://news.hada.io/topic?id=19158</id>
@@ -136,13 +143,6 @@
         <id>https://news.hada.io/topic?id=18666</id>
         <link href="https://news.hada.io/topic?id=18666"/>
         <updated>2025-01-13T02:53:36.873Z</updated>
-        <content type="html"><![CDATA[leelou2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 이메일 발송 시스템 오픈소스 (AWS SQS, SES, SNS 등을 활용한 Golang 프로젝트)]]></title>
-        <id>https://news.hada.io/topic?id=18936</id>
-        <link href="https://news.hada.io/topic?id=18936"/>
-        <updated>2025-01-27T12:30:00.397Z</updated>
         <content type="html"><![CDATA[leelou2]]></content>
     </entry>
 </feed>
