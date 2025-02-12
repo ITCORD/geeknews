@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-02-12T09:16:38.648Z</updated>
+    <updated>2025-02-12T10:17:36.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 밝은 네이버 사전 (Bright Naver Dictionary)]]></title>
+        <id>https://news.hada.io/topic?id=19195</id>
+        <link href="https://news.hada.io/topic?id=19195"/>
+        <updated>2025-02-12T10:17:16.380Z</updated>
+        <content type="html"><![CDATA[jujumilk3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 기성 플러그인보다 키 정렬이 빠른 eslint-plugin-sort-properties 소개]]></title>
         <id>https://news.hada.io/topic?id=19159</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=18870"/>
         <updated>2025-01-23T14:14:11.523Z</updated>
         <content type="html"><![CDATA[abuskorea]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Nugget - 오픈소스 영상편집 프로그램]]></title>
-        <id>https://news.hada.io/topic?id=18853</id>
-        <link href="https://news.hada.io/topic?id=18853"/>
-        <updated>2025-02-12T01:09:59.236Z</updated>
-        <content type="html"><![CDATA[hyeongjun]]></content>
     </entry>
 </feed>
