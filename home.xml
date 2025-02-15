@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2025-02-15T07:13:20.455Z</updated>
+    <updated>2025-02-15T08:18:02.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19240"><a class="upvote" href="javascript:vote(19240, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://drive.google.com/file/d/1-IyvNP_S8tmF0zCkvSqIqmEGS_CfTByI/view" rel="nofollow" id="tr1"><h1>Java 21의 Virtual Threads 소개 [48p 슬라이드]</h1></a> <span class="topicurl">(drive.google.com)</span></div><div class="topicdesc"><a href="topic?id=19240" class="c99 breakall">- Virtual Threads 개요  
   - Virtual Threads (Loom project) 란  
   - Platform Threads vs Virtual Threads - Blocking ?  
-  - Platform T...</a></div><div class="topicinfo"><span id="tp19240">7</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote19240"></span> | <a href="topic?id=19240&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+  - Platform T...</a></div><div class="topicinfo"><span id="tp19240">7</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote19240"></span> | <a href="topic?id=19240&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: AI가 신기술 채택을 저해함]]></title>
@@ -22,45 +22,45 @@
         <updated>2025-02-15T05:14:47.025Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote19236"><a class="upvote" href="javascript:vote(19236, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://vale.rocks/posts/ai-is-stifling-tech-adoption" rel="nofollow" id="tr2"><h1>GN⁺: AI가 신기술 채택을 저해함</h1></a> <span class="topicurl">(vale.rocks)</span></div><div class="topicdesc"><a href="topic?id=19236" class="c99 breakall">  
 - AI 모델이 개발자 워크플로우에 통합되면서, 특정 기술 사용을 부추기거나 방해함  
-- 대형 언어 모델이 특정 기술에 편향된 응답을 제공함...</a></div><div class="topicinfo"><span id="tp19236">6</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote19236"></span> | <a href="topic?id=19236&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그건 니 생각이고 (feat. 장기하와 얼굴들)]]></title>
-        <id>https://news.hada.io/topic?id=19233&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19233&amp;go=comments"/>
-        <updated>2025-02-14T18:20:11.798Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19233"><a class="upvote" href="javascript:vote(19233, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.stdy.blog/thats-your-thought/" rel="nofollow" id="tr3"><h1>그건 니 생각이고 (feat. 장기하와 얼굴들)</h1></a> <span class="topicurl">(stdy.blog)</span></div><div class="topicdesc"><a href="topic?id=19233" class="c99 breakall">정보 소비자로서 조금 더 냉정하게 (말꼬투리 잡기가 아닌) 유효한 근거를 요구하길, 그럼으로써 정보 생산자들도 조금 더 책임감 있게 근거를 명...</a></div><div class="topicinfo"><span id="tp19233">9</span> points by <a href="/user?id=spilist2">spilist2</a> 14시간전<span id="unvote19233"></span> | <a href="topic?id=19233&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록]]></title>
-        <id>https://news.hada.io/topic?id=19230&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19230&amp;go=comments"/>
-        <updated>2025-02-14T06:20:45.769Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19230"><a class="upvote" href="javascript:vote(19230, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19230" rel="nofollow" id="tr4"><h1>Show GN: 대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록</h1></a> <span class="topicurl">(gist.github.com/nemorize)</span></div><div class="topicdesc"><a href="topic?id=19230" class="c99 breakall">대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록을 JSON5 포맷으로 정리했습니다.  
-  
-모두 직접 수작업으로 수집...</a></div><div class="topicinfo"><span id="tp19230">19</span> points by <a href="/user?id=nemorize">nemorize</a> 1일전<span id="unvote19230"></span> | <a href="topic?id=19230&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+- 대형 언어 모델이 특정 기술에 편향된 응답을 제공함...</a></div><div class="topicinfo"><span id="tp19236">6</span> points by <a href="/user?id=neo">neo</a> 8시간전<span id="unvote19236"></span> | <a href="topic?id=19236&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: GPU에 대한 오해]]></title>
         <id>https://news.hada.io/topic?id=19241&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19241&amp;go=comments"/>
         <updated>2025-02-15T04:18:48.891Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19241"><a class="upvote" href="javascript:vote(19241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://fly.io/blog/wrong-about-gpu/" rel="nofollow" id="tr5"><h1>GN⁺: GPU에 대한 오해</h1></a> <span class="topicurl">(fly.io)</span></div><div class="topicdesc"><a href="topic?id=19241" class="c99 breakall">- Fly.io는 자체 하드웨어를 사용하는 퍼블릭 클라우드를 구축 중이며, GPU를 활용한 AI/ML 추론을 제공하는 것을 목표로 Fly GPU Machines를 개발...</a></div><div class="topicinfo"><span id="tp19241">3</span> points by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote19241"></span> | <a href="topic?id=19241&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19241"><a class="upvote" href="javascript:vote(19241, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://fly.io/blog/wrong-about-gpu/" rel="nofollow" id="tr3"><h1>GN⁺: GPU에 대한 오해</h1></a> <span class="topicurl">(fly.io)</span></div><div class="topicdesc"><a href="topic?id=19241" class="c99 breakall">- Fly.io는 자체 하드웨어를 사용하는 퍼블릭 클라우드를 구축 중이며, GPU를 활용한 AI/ML 추론을 제공하는 것을 목표로 Fly GPU Machines를 개발...</a></div><div class="topicinfo"><span id="tp19241">4</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote19241"></span> | <a href="topic?id=19241&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zonos - 고품질 오픈 가중치 음성 합성 모델]]></title>
-        <id>https://news.hada.io/topic?id=19224&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19224&amp;go=comments"/>
-        <updated>2025-02-14T02:44:34.533Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19224"><a class="upvote" href="javascript:vote(19224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Zyphra/Zonos" rel="nofollow" id="tr6"><h1>Zonos - 고품질 오픈 가중치 음성 합성 모델</h1></a> <span class="topicurl">(github.com/Zyphra)</span></div><div class="topicdesc"><a href="topic?id=19224" class="c99 breakall">- 200,000시간 이상의 다국어 음성 데이터로 학습된 Open Weight Text-To-Speech 모델  
-- 상용 TTS 서비스와 "동등하거나 뛰어난 음성 품질" 및 ...</a></div><div class="topicinfo"><span id="tp19224">20</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote19224"></span> | <a href="topic?id=19224&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[그건 니 생각이고 (feat. 장기하와 얼굴들)]]></title>
+        <id>https://news.hada.io/topic?id=19233&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19233&amp;go=comments"/>
+        <updated>2025-02-14T18:20:11.798Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19233"><a class="upvote" href="javascript:vote(19233, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.stdy.blog/thats-your-thought/" rel="nofollow" id="tr4"><h1>그건 니 생각이고 (feat. 장기하와 얼굴들)</h1></a> <span class="topicurl">(stdy.blog)</span></div><div class="topicdesc"><a href="topic?id=19233" class="c99 breakall">정보 소비자로서 조금 더 냉정하게 (말꼬투리 잡기가 아닌) 유효한 근거를 요구하길, 그럼으로써 정보 생산자들도 조금 더 책임감 있게 근거를 명...</a></div><div class="topicinfo"><span id="tp19233">10</span> points by <a href="/user?id=spilist2">spilist2</a> 15시간전<span id="unvote19233"></span> | <a href="topic?id=19233&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록]]></title>
+        <id>https://news.hada.io/topic?id=19230&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19230&amp;go=comments"/>
+        <updated>2025-02-14T06:20:45.769Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19230"><a class="upvote" href="javascript:vote(19230, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19230" rel="nofollow" id="tr5"><h1>Show GN: 대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록</h1></a> <span class="topicurl">(gist.github.com/nemorize)</span></div><div class="topicdesc"><a href="topic?id=19230" class="c99 breakall">대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록을 JSON5 포맷으로 정리했습니다.  
+  
+모두 직접 수작업으로 수집...</a></div><div class="topicinfo"><span id="tp19230">20</span> points by <a href="/user?id=nemorize">nemorize</a> 1일전<span id="unvote19230"></span> | <a href="topic?id=19230&amp;go=comments" class="u">댓글 4개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[`create-react-app` 지원 종료]]></title>
         <id>https://news.hada.io/topic?id=19242&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19242&amp;go=comments"/>
         <updated>2025-02-15T04:18:48.891Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote19242"><a class="upvote" href="javascript:vote(19242, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://react.dev/blog/2025/02/14/sunsetting-create-react-app" rel="nofollow" id="tr7"><h1>`create-react-app` 지원 종료</h1></a> <span class="topicurl">(react.dev)</span></div><div class="topicdesc"><a href="topic?id=19242" class="c99 breakall">지난 몇 년 간, `create-react-app`은 기초 React 어플리케이션을 구성하기 좋은 도구였습니다. 하지만 시간이 흐르면서 여러 한계가 나와 이제는 ...</a></div><div class="topicinfo"><span id="tp19242">2</span> points by <a href="/user?id=carnoxen">carnoxen</a> 4시간전<span id="unvote19242"></span> | <a href="topic?id=19242&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19242"><a class="upvote" href="javascript:vote(19242, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://react.dev/blog/2025/02/14/sunsetting-create-react-app" rel="nofollow" id="tr6"><h1>`create-react-app` 지원 종료</h1></a> <span class="topicurl">(react.dev)</span></div><div class="topicdesc"><a href="topic?id=19242" class="c99 breakall">지난 몇 년 간, `create-react-app`은 기초 React 어플리케이션을 구성하기 좋은 도구였습니다. 하지만 시간이 흐르면서 여러 한계가 나와 이제는 ...</a></div><div class="topicinfo"><span id="tp19242">3</span> points by <a href="/user?id=carnoxen">carnoxen</a> 5시간전<span id="unvote19242"></span> | <a href="topic?id=19242&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zonos - 고품질 오픈 가중치 음성 합성 모델]]></title>
+        <id>https://news.hada.io/topic?id=19224&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19224&amp;go=comments"/>
+        <updated>2025-02-14T02:44:34.533Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote19224"><a class="upvote" href="javascript:vote(19224, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Zyphra/Zonos" rel="nofollow" id="tr7"><h1>Zonos - 고품질 오픈 가중치 음성 합성 모델</h1></a> <span class="topicurl">(github.com/Zyphra)</span></div><div class="topicdesc"><a href="topic?id=19224" class="c99 breakall">- 200,000시간 이상의 다국어 음성 데이터로 학습된 Open Weight Text-To-Speech 모델  
+- 상용 TTS 서비스와 "동등하거나 뛰어난 음성 품질" 및 ...</a></div><div class="topicinfo"><span id="tp19224">21</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote19224"></span> | <a href="topic?id=19224&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025년에 Favicon을 준비하는 법]]></title>
@@ -120,11 +120,19 @@
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote19225"><a class="upvote" href="javascript:vote(19225, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://searchadvisor.naver.com/guide/indexnow-about" rel="nofollow" id="tr14"><h1>네이버 서치 어드바이저 IndexNow protocol을 지원</h1></a> <span class="topicurl">(searchadvisor.naver.com)</span></div><div class="topicdesc"><a href="topic?id=19225" class="c99 breakall">네이버 서치 어드바이저도 2023년 7월부터 IndexNow*를 통해 새로 만들어진 페이지나 업데이트, 삭제가 발생한 페이지를 네이버 검색에 알릴 수 있...</a></div><div class="topicinfo"><span id="tp19225">10</span> points by <a href="/user?id=dowha">dowha</a> 1일전<span id="unvote19225"></span> | <a href="topic?id=19225&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[리눅스커널 러스트 논쟁, 다시 불타오르다]]></title>
+        <id>https://news.hada.io/topic?id=19211&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19211&amp;go=comments"/>
+        <updated>2025-02-13T06:23:12.442Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19211"><a class="upvote" href="javascript:vote(19211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2025/02/12-381/" rel="nofollow" id="tr15"><h1>리눅스커널 러스트 논쟁, 다시 불타오르다</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=19211" class="c99 breakall">1. Direct Memory Access API를 구현한 러스트 코드가 리눅스 커널 리포지토리로 풀 리퀘됨.  
+2. 리눅스 커널의 중간 관리자 Christoph Hellwig...</a></div><div class="topicinfo"><span id="tp19211">18</span> points by <a href="/user?id=carnoxen">carnoxen</a> 2일전<span id="unvote19211"></span> | <a href="topic?id=19211&amp;go=comments" class="u">댓글 27개</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OmniHuman - 사진 한장으로 실사 같은 영상을 생성하는 모델]]></title>
         <id>https://news.hada.io/topic?id=19205&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19205&amp;go=comments"/>
         <updated>2025-02-13T02:45:10.060Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19205"><a class="upvote" href="javascript:vote(19205, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://omnihuman-lab.github.io/" rel="nofollow" id="tr15"><h1>OmniHuman - 사진 한장으로 실사 같은 영상을 생성하는 모델</h1></a> <span class="topicurl">(omnihuman-lab.github.io)</span></div><div class="topicdesc"><a href="topic?id=19205" class="c99 breakall">- ByteDance 연구진이 "단일 사진을 사용해 자연스럽게 말하고, 노래하고, 움직이는 사람의 영상을 생성"하는 AI 시스템을 개발   
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote19205"><a class="upvote" href="javascript:vote(19205, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://omnihuman-lab.github.io/" rel="nofollow" id="tr16"><h1>OmniHuman - 사진 한장으로 실사 같은 영상을 생성하는 모델</h1></a> <span class="topicurl">(omnihuman-lab.github.io)</span></div><div class="topicdesc"><a href="topic?id=19205" class="c99 breakall">- ByteDance 연구진이 "단일 사진을 사용해 자연스럽게 말하고, 노래하고, 움직이는 사람의 영상을 생성"하는 AI 시스템을 개발   
 - 기존 AI 모...</a></div><div class="topicinfo"><span id="tp19205">20</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19205"></span> | <a href="topic?id=19205&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -132,40 +140,32 @@
         <id>https://news.hada.io/topic?id=19198&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19198&amp;go=comments"/>
         <updated>2025-02-13T01:09:46.765Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote19198"><a class="upvote" href="javascript:vote(19198, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/" rel="nofollow" id="tr16"><h1>Data.gov 아카이브 공개 : 미국 연방 공공 데이터 16TB 규모의 30만개 데이터셋 포함</h1></a> <span class="topicurl">(lil.law.harvard.edu)</span></div><div class="topicdesc"><a href="topic?id=19198" class="c99 breakall">- 하버드 로스쿨 혁신 연구소가 Source Cooperative에 Data.gov 아카이브를 공개  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote19198"><a class="upvote" href="javascript:vote(19198, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/" rel="nofollow" id="tr17"><h1>Data.gov 아카이브 공개 : 미국 연방 공공 데이터 16TB 규모의 30만개 데이터셋 포함</h1></a> <span class="topicurl">(lil.law.harvard.edu)</span></div><div class="topicdesc"><a href="topic?id=19198" class="c99 breakall">- 하버드 로스쿨 혁신 연구소가 Source Cooperative에 Data.gov 아카이브를 공개  
   - Source.coop은 조직과 개인이 표준 HTTP 방법을 사용하여 ...</a></div><div class="topicinfo"><span id="tp19198">20</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19198"></span> | <a href="topic?id=19198&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리눅스커널 러스트 논쟁, 다시 불타오르다]]></title>
-        <id>https://news.hada.io/topic?id=19211&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19211&amp;go=comments"/>
-        <updated>2025-02-13T06:23:12.442Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote19211"><a class="upvote" href="javascript:vote(19211, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://byline.network/2025/02/12-381/" rel="nofollow" id="tr17"><h1>리눅스커널 러스트 논쟁, 다시 불타오르다</h1></a> <span class="topicurl">(byline.network)</span></div><div class="topicdesc"><a href="topic?id=19211" class="c99 breakall">1. Direct Memory Access API를 구현한 러스트 코드가 리눅스 커널 리포지토리로 풀 리퀘됨.  
-2. 리눅스 커널의 중간 관리자 Christoph Hellwig...</a></div><div class="topicinfo"><span id="tp19211">17</span> points by <a href="/user?id=carnoxen">carnoxen</a> 2일전<span id="unvote19211"></span> | <a href="topic?id=19211&amp;go=comments" class="u">댓글 27개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: Asahi Linux 프로젝트 리더 Hector Martin 사임]]></title>
-        <id>https://news.hada.io/topic?id=19215&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19215&amp;go=comments"/>
-        <updated>2025-02-14T07:14:12.725Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote19215"><a class="upvote" href="javascript:vote(19215, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/" rel="nofollow" id="tr18"><h1>GN⁺: Asahi Linux 프로젝트 리더 Hector Martin 사임</h1></a> <span class="topicurl">(marcan.st)</span></div><div class="topicdesc"><a href="topic?id=19215" class="c99 breakall">- Hector Martin은 2000년대 후반 Wii 홈브류 씬에서 활동하며, 비공식 앱을 실행할 수 있도록 하는 소프트웨어(현재의 “탈옥” 개념과 유사)를 개...</a></div><div class="topicinfo"><span id="tp19215">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote19215"></span> | <a href="topic?id=19215&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: WASM은 컨테이너를 대체하게 될 것]]></title>
         <id>https://news.hada.io/topic?id=19201&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19201&amp;go=comments"/>
         <updated>2025-02-15T06:19:05.758Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote19201"><a class="upvote" href="javascript:vote(19201, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://creston.blog/wasm-will-replace-containers/" rel="nofollow" id="tr19"><h1>GN⁺: WASM은 컨테이너를 대체하게 될 것</h1></a> <span class="topicurl">(creston.blog)</span></div><div class="topicdesc"><a href="topic?id=19201" class="c99 breakall">&gt; "WebAssembly는 진정한 Write-Once-Run-Anywhere임"   
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote19201"><a class="upvote" href="javascript:vote(19201, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://creston.blog/wasm-will-replace-containers/" rel="nofollow" id="tr18"><h1>GN⁺: WASM은 컨테이너를 대체하게 될 것</h1></a> <span class="topicurl">(creston.blog)</span></div><div class="topicdesc"><a href="topic?id=19201" class="c99 breakall">&gt; "WebAssembly는 진정한 Write-Once-Run-Anywhere임"   
 &gt; "2030년이 되면 아무도 쿠버네티스를 기억하지 못하게 될것"  
   
-# 이동성 (Portab...</a></div><div class="topicinfo"><span id="tp19201">16</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote19201"></span> | <a href="topic?id=19201&amp;go=comments" class="u">댓글 8개</a></div>]]></content>
+# 이동성 (Portab...</a></div><div class="topicinfo"><span id="tp19201">17</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote19201"></span> | <a href="topic?id=19201&amp;go=comments" class="u">댓글 8개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goku - ByteDance의 Flow 기반 비디오 생성 모델]]></title>
-        <id>https://news.hada.io/topic?id=19222&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19222&amp;go=comments"/>
-        <updated>2025-02-14T01:09:35.931Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote19222"><a class="upvote" href="javascript:vote(19222, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Saiyan-World/goku" rel="nofollow" id="tr20"><h1>Goku - ByteDance의 Flow 기반 비디오 생성 모델</h1></a> <span class="topicurl">(github.com/Saiyan-World)</span></div><div class="topicdesc"><a href="topic?id=19222" class="c99 breakall">- Goku는 "Rectified Flow Transformer"를 기반으로 한 새로운 이미지 및 비디오 생성 모델군으로, 업계 최고 수준의 성능을 목표로 함  
-- 고품...</a></div><div class="topicinfo"><span id="tp19222">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote19222"></span> | <a href="topic?id=19222&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: Asahi Linux 프로젝트 리더 Hector Martin 사임]]></title>
+        <id>https://news.hada.io/topic?id=19215&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19215&amp;go=comments"/>
+        <updated>2025-02-14T07:14:12.725Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote19215"><a class="upvote" href="javascript:vote(19215, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/" rel="nofollow" id="tr19"><h1>GN⁺: Asahi Linux 프로젝트 리더 Hector Martin 사임</h1></a> <span class="topicurl">(marcan.st)</span></div><div class="topicdesc"><a href="topic?id=19215" class="c99 breakall">- Hector Martin은 2000년대 후반 Wii 홈브류 씬에서 활동하며, 비공식 앱을 실행할 수 있도록 하는 소프트웨어(현재의 “탈옥” 개념과 유사)를 개...</a></div><div class="topicinfo"><span id="tp19215">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote19215"></span> | <a href="topic?id=19215&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025년엔 어떤 리치텍스트 편집기 프레임워크를 선택해야 할까?]]></title>
+        <id>https://news.hada.io/topic?id=19152&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19152&amp;go=comments"/>
+        <updated>2025-02-15T08:17:22.326Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote19152"><a class="upvote" href="javascript:vote(19152, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025" rel="nofollow" id="tr20"><h1>2025년엔 어떤 리치텍스트 편집기 프레임워크를 선택해야 할까?</h1></a> <span class="topicurl">(liveblocks.io)</span></div><div class="topicdesc"><a href="topic?id=19152" class="c99 breakall">- 요즘 앱에 필수적인 리치 텍스트 에디터(WYSIWYG)는 Linear, Notion, Google Docs 같은 서비스에서 보편적으로 사용됨  
+- Liveblocks가 지난 1...</a></div><div class="topicinfo"><span id="tp19152">58</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote19152"></span> | <a href="topic?id=19152&amp;go=comments" class="u">댓글 10개</a></div>]]></content>
     </entry>
 </feed>
