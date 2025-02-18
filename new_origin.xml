@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2025-02-18T18:21:58.369Z</updated>
+    <updated>2025-02-18T19:13:11.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -30,21 +30,21 @@
     * 원한다면 다른 LLM 사용 가능. [LiteLLM](https://github.com/BerriAI/litellm)의 ...</a></div><div class="topicinfo"><span id="tp19278">16</span> points by <a href="/user?id=carnoxen">carnoxen</a> 1일전<span id="unvote19278"></span> | <a href="topic?id=19278&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: BigQuery, 이제 SQL 파이프 구문 사용 가능]]></title>
-        <id>https://cloud.google.com/bigquery/docs/pipe-syntax-guide</id>
-        <link href="https://cloud.google.com/bigquery/docs/pipe-syntax-guide"/>
-        <updated>2025-02-18T01:09:48.994Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19284"><a class="upvote" href="javascript:vote(19284, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cloud.google.com/bigquery/docs/pipe-syntax-guide" rel="nofollow" id="tr4"><h1>GN⁺: BigQuery, 이제 SQL 파이프 구문 사용 가능</h1></a> <span class="topicurl">(cloud.google.com)</span></div><div class="topicdesc"><a href="topic?id=19284" class="c99 breakall"># Pipe Query Syntax란?  
-- GoogleSQL의 확장 문법으로, 읽기 쉽고 유지보수가 간편한 선형 구조의 쿼리 작성 가능  
-- 기존 GoogleSQL(Standar...</a></div><div class="topicinfo"><span id="tp19284">9</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote19284"></span> | <a href="topic?id=19284&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GN⁺: NASA의 소프트웨어 개발 10가지 규칙]]></title>
         <id>https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm</id>
         <link href="https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm"/>
         <updated>2025-02-17T02:49:58.018Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19260"><a class="upvote" href="javascript:vote(19260, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm" rel="nofollow" id="tr5"><h1>GN⁺: NASA의 소프트웨어 개발 10가지 규칙</h1></a> <span class="topicurl">(cs.otago.ac.nz)</span></div><div class="topicdesc"><a href="topic?id=19260" class="c99 breakall">- NASA의 10가지 소프트웨어 개발 규칙에 대한 비판적 분석  
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19260"><a class="upvote" href="javascript:vote(19260, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm" rel="nofollow" id="tr4"><h1>GN⁺: NASA의 소프트웨어 개발 10가지 규칙</h1></a> <span class="topicurl">(cs.otago.ac.nz)</span></div><div class="topicdesc"><a href="topic?id=19260" class="c99 breakall">- NASA의 10가지 소프트웨어 개발 규칙에 대한 비판적 분석  
   - 이 규칙들은 극도로 중요한 임베디드 시스템(예: 우주선 소프트웨어)을 위한 것...</a></div><div class="topicinfo"><span id="tp19260">29</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote19260"></span> | <a href="topic?id=19260&amp;go=comments" class="u">댓글 5개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: BigQuery, 이제 SQL 파이프 구문 사용 가능]]></title>
+        <id>https://cloud.google.com/bigquery/docs/pipe-syntax-guide</id>
+        <link href="https://cloud.google.com/bigquery/docs/pipe-syntax-guide"/>
+        <updated>2025-02-18T01:09:48.994Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19284"><a class="upvote" href="javascript:vote(19284, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://cloud.google.com/bigquery/docs/pipe-syntax-guide" rel="nofollow" id="tr5"><h1>GN⁺: BigQuery, 이제 SQL 파이프 구문 사용 가능</h1></a> <span class="topicurl">(cloud.google.com)</span></div><div class="topicdesc"><a href="topic?id=19284" class="c99 breakall"># Pipe Query Syntax란?  
+- GoogleSQL의 확장 문법으로, 읽기 쉽고 유지보수가 간편한 선형 구조의 쿼리 작성 가능  
+- 기존 GoogleSQL(Standar...</a></div><div class="topicinfo"><span id="tp19284">9</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote19284"></span> | <a href="topic?id=19284&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[wger - 셀프 호스트 가능한 피트니스/워크아웃 트래커]]></title>
@@ -53,7 +53,7 @@
         <updated>2025-02-18T01:09:48.982Z</updated>
         <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19285"><a class="upvote" href="javascript:vote(19285, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/wger-project/wger" rel="nofollow" id="tr6"><h1>wger - 셀프 호스트 가능한 피트니스/워크아웃 트래커</h1></a> <span class="topicurl">(github.com/wger-project)</span></div><div class="topicdesc"><a href="topic?id=19285" class="c99 breakall">- 무료 &amp; 오픈소스 개인 운동, 체중, 식단 계획 관리 도구  
 - 웹 기반으로 작동하며, 간단한 헬스장 관리 용도로도 사용할 수 있음   
-  - Flut...</a></div><div class="topicinfo"><span id="tp19285">8</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote19285"></span> | <a href="topic?id=19285&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+  - Flut...</a></div><div class="topicinfo"><span id="tp19285">8</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote19285"></span> | <a href="topic?id=19285&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 자동 HTTPS 기능을 갖춘 궁극의 서버, Caddy]]></title>
@@ -87,7 +87,7 @@
         <link href="https://kindlemodding.org/jailbreaking/WinterBreak/"/>
         <updated>2025-02-18T02:44:02.784Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote19286"><a class="upvote" href="javascript:vote(19286, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://kindlemodding.org/jailbreaking/WinterBreak/" rel="nofollow" id="tr10"><h1>GN⁺: WinterBreak - 이제 모든 Kindle 기기 탈옥 가능</h1></a> <span class="topicurl">(kindlemodding.org)</span></div><div class="topicdesc"><a href="topic?id=19286" class="c99 breakall">- WinterBreak은 2025년 새해 첫날 HackerDude에 의해 출시된 Kindle 해킹 방법임  
-- 킨들에서 킨들 스토어를 대체하도록 설계된 간단한 WAF 로...</a></div><div class="topicinfo"><span id="tp19286">5</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote19286"></span> | <a href="topic?id=19286&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+- 킨들에서 킨들 스토어를 대체하도록 설계된 간단한 WAF 로...</a></div><div class="topicinfo"><span id="tp19286">5</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote19286"></span> | <a href="topic?id=19286&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flash Learn - 에이전트 LLM을 모든 파이프라인에 연동하기]]></title>
@@ -95,7 +95,7 @@
         <link href="https://github.com/Pravko-Solutions/FlashLearn"/>
         <updated>2025-02-18T02:44:02.800Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote19293"><a class="upvote" href="javascript:vote(19293, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Pravko-Solutions/FlashLearn" rel="nofollow" id="tr11"><h1>Flash Learn - 에이전트 LLM을 모든 파이프라인에 연동하기</h1></a> <span class="topicurl">(github.com/Pravko-Solutions)</span></div><div class="topicdesc"><a href="topic?id=19293" class="c99 breakall">- "에이전트LLM(Agent LLM)" 을 자신의 워크플로우 및 ETL 파이프라인에서 쉽게 활용할 수 있도록 하는 라이브러리  
-- 데이터 변환, 분류, 요약,...</a></div><div class="topicinfo"><span id="tp19293">3</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote19293"></span> | <a href="topic?id=19293&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+- 데이터 변환, 분류, 요약,...</a></div><div class="topicinfo"><span id="tp19293">3</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote19293"></span> | <a href="topic?id=19293&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CEO를 뽑는 방법 - 비노드 코슬라]]></title>
@@ -122,19 +122,19 @@
 * 안정성/정확성을 확보하기 위해 [NASA의 소프트웨어 제작 10가지 규칙](https://new...</a></div><div class="topicinfo"><span id="tp19279">5</span> points by <a href="/user?id=carnoxen">carnoxen</a> 1일전<span id="unvote19279"></span> | <a href="topic?id=19279&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기업들이 Delaware를 떠나 Nevada & Texas로 이전하는 이유]]></title>
-        <id>https://blog.eladgil.com/p/leaving-delaware</id>
-        <link href="https://blog.eladgil.com/p/leaving-delaware"/>
-        <updated>2025-02-18T02:44:02.799Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19294"><a class="upvote" href="javascript:vote(19294, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.eladgil.com/p/leaving-delaware" rel="nofollow" id="tr15"><h1>기업들이 Delaware를 떠나 Nevada &amp; Texas로 이전하는 이유</h1></a> <span class="topicurl">(blog.eladgil.com)</span></div><div class="topicdesc"><a href="topic?id=19294" class="c99 breakall">- 델라웨어는 인구가 100만 명도 안 되지만, 180만 개 이상의 법인과 60% 이상의 포춘 500대 기업 본사가 등록되어 있음  
-- 전통적으로 친기업적...</a></div><div class="topicinfo"><span id="tp19294">2</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote19294"></span> | <a href="topic?id=19294&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025년에 Favicon을 준비하는 법]]></title>
         <id>https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs</id>
         <link href="https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs"/>
         <updated>2025-02-13T01:09:59.734Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote19204"><a class="upvote" href="javascript:vote(19204, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs" rel="nofollow" id="tr16"><h1>2025년에 Favicon을 준비하는 법</h1></a> <span class="topicurl">(evilmartians.com)</span></div><div class="topicdesc"><a href="topic?id=19204" class="c99 breakall">- favicon을 만드는 방식이 복잡해지면서, 단순히 브라우저 탭이나 터치스크린에 웹사이트 로고를 표시하기 위해 20개 이상의 PNG 파일을 사용하는...</a></div><div class="topicinfo"><span id="tp19204">48</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote19204"></span> | <a href="topic?id=19204&amp;go=comments" class="u">댓글 4개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19204"><a class="upvote" href="javascript:vote(19204, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs" rel="nofollow" id="tr15"><h1>2025년에 Favicon을 준비하는 법</h1></a> <span class="topicurl">(evilmartians.com)</span></div><div class="topicdesc"><a href="topic?id=19204" class="c99 breakall">- favicon을 만드는 방식이 복잡해지면서, 단순히 브라우저 탭이나 터치스크린에 웹사이트 로고를 표시하기 위해 20개 이상의 PNG 파일을 사용하는...</a></div><div class="topicinfo"><span id="tp19204">48</span> points by <a href="/user?id=xguru">xguru</a> 6일전<span id="unvote19204"></span> | <a href="topic?id=19204&amp;go=comments" class="u">댓글 4개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업들이 Delaware를 떠나 Nevada & Texas로 이전하는 이유]]></title>
+        <id>https://blog.eladgil.com/p/leaving-delaware</id>
+        <link href="https://blog.eladgil.com/p/leaving-delaware"/>
+        <updated>2025-02-18T02:44:02.799Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote19294"><a class="upvote" href="javascript:vote(19294, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.eladgil.com/p/leaving-delaware" rel="nofollow" id="tr16"><h1>기업들이 Delaware를 떠나 Nevada &amp; Texas로 이전하는 이유</h1></a> <span class="topicurl">(blog.eladgil.com)</span></div><div class="topicdesc"><a href="topic?id=19294" class="c99 breakall">- 델라웨어는 인구가 100만 명도 안 되지만, 180만 개 이상의 법인과 60% 이상의 포춘 500대 기업 본사가 등록되어 있음  
+- 전통적으로 친기업적...</a></div><div class="topicinfo"><span id="tp19294">2</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote19294"></span> | <a href="topic?id=19294&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록]]></title>
@@ -150,7 +150,7 @@
         <id>https://design.google/library/youtube-new-red-color</id>
         <link href="https://design.google/library/youtube-new-red-color"/>
         <updated>2025-02-18T02:44:02.806Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote19283"><a class="upvote" href="javascript:vote(19283, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://design.google/library/youtube-new-red-color" rel="nofollow" id="tr18"><h1>GN⁺: YouTube의 새로운 빨간색: 브랜드 색상 재구성</h1></a> <span class="topicurl">(design.google)</span></div><div class="topicdesc"><a href="topic?id=19283" class="c99 breakall">- 2005년 비디오 데이팅 사이트 아이디어로 출발한 YouTube가 지금은 전 세계 수십억 명이 매일 방문하여 다양한 콘텐츠를 시청하는 미디어 플랫폼...</a></div><div class="topicinfo"><span id="tp19283">2</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote19283"></span> | <a href="topic?id=19283&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote19283"><a class="upvote" href="javascript:vote(19283, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://design.google/library/youtube-new-red-color" rel="nofollow" id="tr18"><h1>GN⁺: YouTube의 새로운 빨간색: 브랜드 색상 재구성</h1></a> <span class="topicurl">(design.google)</span></div><div class="topicdesc"><a href="topic?id=19283" class="c99 breakall">- 2005년 비디오 데이팅 사이트 아이디어로 출발한 YouTube가 지금은 전 세계 수십억 명이 매일 방문하여 다양한 콘텐츠를 시청하는 미디어 플랫폼...</a></div><div class="topicinfo"><span id="tp19283">2</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote19283"></span> | <a href="topic?id=19283&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: LinkedIn 은 최악의 소셜 미디어임]]></title>
@@ -158,7 +158,7 @@
         <link href="https://news.ycombinator.com/item?id=43052409"/>
         <updated>2025-02-18T01:09:48.996Z</updated>
         <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote19282"><a class="upvote" href="javascript:vote(19282, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://news.ycombinator.com/item?id=43052409" rel="nofollow" id="tr19"><h1>GN⁺: LinkedIn 은 최악의 소셜 미디어임</h1></a> <span class="topicurl">(news.ycombinator.com)</span></div><div class="topicdesc"><a href="topic?id=19282" class="c99 breakall">- LinkedIn은 **AI 생성 콘텐츠**로 가득 차 있으며, **다크 패턴**이 만연한 플랫폼임  
-- 한 사용자가 처음 링크드인을 사용한 3개월 동안 겪은...</a></div><div class="topicinfo"><span id="tp19282">2</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote19282"></span> | <a href="topic?id=19282&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+- 한 사용자가 처음 링크드인을 사용한 3개월 동안 겪은...</a></div><div class="topicinfo"><span id="tp19282">2</span> points by <a href="/user?id=neo">neo</a> 20시간전<span id="unvote19282"></span> | <a href="topic?id=19282&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Perplexity Advanced MCP - AI 코드 에이전트에게 최적화된 검색 MCP]]></title>
