@@ -2,48 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 최신글 원문</title>
-    <updated>2025-02-28T01:12:39.429Z</updated>
+    <updated>2025-02-28T02:52:25.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Page Assist - 로컬 AI 모델로 웹브라우징 도와주기]]></title>
-        <id>https://github.com/n4ze3m/page-assist</id>
-        <link href="https://github.com/n4ze3m/page-assist"/>
-        <updated>2025-02-28T01:12:13.162Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19472"><a class="upvote" href="javascript:vote(19472, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/n4ze3m/page-assist" rel="nofollow" id="tr1"><h1>Page Assist - 로컬 AI 모델로 웹브라우징 도와주기</h1></a> <span class="topicurl">(github.com/n4ze3m)</span></div><div class="topicdesc"><a href="topic?id=19472" class="c99 breakall">- 로컬 AI 모델을 위한 사이드바와 웹 UI를 제공하는 오픈소스 브라우저 확장  
-- 모든 웹 페이지에서 모델과 상호 작용 가능해짐(웹 페이지에 대...</a></div><div class="topicinfo"><span id="tp19472">3</span> points by <a href="/user?id=xguru">xguru</a> 41분전<span id="unvote19472"></span> | <a href="topic?id=19472&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: Elixir에 Python 내장하기, 문제없어요]]></title>
+        <id>https://dashbit.co/blog/running-python-in-elixir-its-fine</id>
+        <link href="https://dashbit.co/blog/running-python-in-elixir-its-fine"/>
+        <updated>2025-02-28T02:51:58.710Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19486"><a class="upvote" href="javascript:vote(19486, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://dashbit.co/blog/running-python-in-elixir-its-fine" rel="nofollow" id="tr1"><h1>GN⁺: Elixir에 Python 내장하기, 문제없어요</h1></a> <span class="topicurl">(dashbit.co)</span></div><div class="topicdesc"><a href="topic?id=19486" class="c99 breakall">- 최근 몇 년간, Elixir는 **Nx (Numerical Elixir)** 프로젝트를 통해 머신 러닝과 데이터 분야에서 역량 확장 중임  
+- Nx, Explorer, Axon, Bu...</a></div><div class="topicinfo"><span id="tp19486">4</span> points by <a href="/user?id=neo">neo</a> with <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote19486"></span> | <a href="topic?id=19486&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: Vision Language Model로 OCR 대체하기]]></title>
+        <id>https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb</id>
+        <link href="https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb"/>
+        <updated>2025-02-28T02:51:58.710Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote19485"><a class="upvote" href="javascript:vote(19485, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb" rel="nofollow" id="tr2"><h1>GN⁺: Vision Language Model로 OCR 대체하기</h1></a> <span class="topicurl">(github.com/vlm-run)</span></div><div class="topicdesc"><a href="topic?id=19485" class="c99 breakall">- 이 쿡북은 다양한 사례 연구와 실습을 통해 비디오 및 이미지 처리 알고리듬을 탐구하는 오픈 소스 프로젝트임  
+- 비디오 추론, 이미지 카탈로...</a></div><div class="topicinfo"><span id="tp19485">4</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote19485"></span> | <a href="topic?id=19485&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI, GPT-4.5 공개]]></title>
         <id>https://openai.com/index/introducing-gpt-4-5/</id>
         <link href="https://openai.com/index/introducing-gpt-4-5/"/>
         <updated>2025-02-28T01:12:13.163Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote19471"><a class="upvote" href="javascript:vote(19471, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-gpt-4-5/" rel="nofollow" id="tr2"><h1>OpenAI, GPT-4.5 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=19471" class="c99 breakall">- GPT-4.5는 OpenAI의 최신 모델로, 사전 훈련(pre-training)과 후속 훈련(post-training)에서 확장성을 개선한 버전임  
-- 비지도 학습(unsuperv...</a></div><div class="topicinfo"><span id="tp19471">3</span> points by <a href="/user?id=xguru">xguru</a> 53분전<span id="unvote19471"></span> | <a href="topic?id=19471&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19471"><a class="upvote" href="javascript:vote(19471, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://openai.com/index/introducing-gpt-4-5/" rel="nofollow" id="tr3"><h1>OpenAI, GPT-4.5 공개</h1></a> <span class="topicurl">(openai.com)</span></div><div class="topicdesc"><a href="topic?id=19471" class="c99 breakall">- GPT-4.5는 OpenAI의 최신 모델로, 사전 훈련(pre-training)과 후속 훈련(post-training)에서 확장성을 개선한 버전임  
+- 비지도 학습(unsuperv...</a></div><div class="topicinfo"><span id="tp19471">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote19471"></span> | <a href="topic?id=19471&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Git 코어 개발자는 Git을 어떻게 설정하고 사용할까?]]></title>
         <id>https://blog.gitbutler.com/how-git-core-devs-configure-git/</id>
         <link href="https://blog.gitbutler.com/how-git-core-devs-configure-git/"/>
         <updated>2025-02-26T02:50:23.228Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19441"><a class="upvote" href="javascript:vote(19441, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.gitbutler.com/how-git-core-devs-configure-git/" rel="nofollow" id="tr3"><h1>Git 코어 개발자는 Git을 어떻게 설정하고 사용할까?</h1></a> <span class="topicurl">(blog.gitbutler.com)</span></div><div class="topicdesc"><a href="topic?id=19441" class="c99 breakall">- "Pro Git" 저자인 Scott Chacon이 글로벌로 활성화한 몇 가지 Git 설정과 그 이유를 설명  
-- 설정 중 다수는 실제로 Git 코어 코드베이스를 작...</a></div><div class="topicinfo"><span id="tp19441">70</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19441"></span> | <a href="topic?id=19441&amp;go=comments" class="u">댓글 6개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19441"><a class="upvote" href="javascript:vote(19441, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.gitbutler.com/how-git-core-devs-configure-git/" rel="nofollow" id="tr4"><h1>Git 코어 개발자는 Git을 어떻게 설정하고 사용할까?</h1></a> <span class="topicurl">(blog.gitbutler.com)</span></div><div class="topicdesc"><a href="topic?id=19441" class="c99 breakall">- "Pro Git" 저자인 Scott Chacon이 글로벌로 활성화한 몇 가지 Git 설정과 그 이유를 설명  
+- 설정 중 다수는 실제로 Git 코어 코드베이스를 작...</a></div><div class="topicinfo"><span id="tp19441">71</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19441"></span> | <a href="topic?id=19441&amp;go=comments" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유안타증권 AI Agent 프로젝트: 실전 LLM 서비스 개발(고생)기]]></title>
-        <id>https://medium.com/crowdworks-tech/%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C-ai-agent-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%EC%A0%84-llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EC%83%9D-%EA%B8%B0-3b874a457aaa</id>
-        <link href="https://medium.com/crowdworks-tech/%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C-ai-agent-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%EC%A0%84-llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EC%83%9D-%EA%B8%B0-3b874a457aaa"/>
-        <updated>2025-02-27T05:17:09.793Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19465"><a class="upvote" href="javascript:vote(19465, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/crowdworks-tech/%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C-ai-agent-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%EC%A0%84-llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EC%83%9D-%EA%B8%B0-3b874a457aaa" rel="nofollow" id="tr4"><h1>유안타증권 AI Agent 프로젝트: 실전 LLM 서비스 개발(고생)기</h1></a> <span class="topicurl">(medium.com)</span></div><div class="topicdesc"><a href="topic?id=19465" class="c99 breakall">1.서두: 2025년 AI 업계의 화두는 ‘Agent’이며, 기존 RAG 중심 챗봇 접근 방식에서 벗어나 보다 고도화된 시스템이 필요함을 강조.  
-  
-2.프로...</a></div><div class="topicinfo"><span id="tp19465">11</span> points by <a href="/user?id=jinhoy">jinhoy</a> 21시간전<span id="unvote19465"></span> | <a href="topic?id=19465&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Page Assist - 로컬 AI 모델로 웹브라우징 도와주기]]></title>
+        <id>https://github.com/n4ze3m/page-assist</id>
+        <link href="https://github.com/n4ze3m/page-assist"/>
+        <updated>2025-02-28T01:12:13.162Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19472"><a class="upvote" href="javascript:vote(19472, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/n4ze3m/page-assist" rel="nofollow" id="tr5"><h1>Page Assist - 로컬 AI 모델로 웹브라우징 도와주기</h1></a> <span class="topicurl">(github.com/n4ze3m)</span></div><div class="topicdesc"><a href="topic?id=19472" class="c99 breakall">- 로컬 AI 모델을 위한 사이드바와 웹 UI를 제공하는 오픈소스 브라우저 확장  
+- 모든 웹 페이지에서 모델과 상호 작용 가능해짐(웹 페이지에 대...</a></div><div class="topicinfo"><span id="tp19472">3</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote19472"></span> | <a href="topic?id=19472&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: nRootTag - 루트 권한 없이 블루투스 장치를 애플 에어태그로 전환하기]]></title>
+        <id>https://nroottag.github.io/</id>
+        <link href="https://nroottag.github.io/"/>
+        <updated>2025-02-28T02:51:58.714Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19481"><a class="upvote" href="javascript:vote(19481, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://nroottag.github.io/" rel="nofollow" id="tr6"><h1>GN⁺: nRootTag - 루트 권한 없이 블루투스 장치를 애플 에어태그로 전환하기</h1></a> <span class="topicurl">(nroottag.github.io)</span></div><div class="topicdesc"><a href="topic?id=19481" class="c99 breakall">- nRootTag는 원격 공격자가 사용자의 블루투스 기기를 애플 에어태그처럼 변환하여 위치를 추적할 수 있도록 하는 새로운 공격 기법  
+- 루트 권...</a></div><div class="topicinfo"><span id="tp19481">2</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote19481"></span> | <a href="topic?id=19481&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: EA, Command and Conquer: Red Alert 오픈소스화 발표]]></title>
+        <id>https://github.com/electronicarts/CnC_Red_Alert</id>
+        <link href="https://github.com/electronicarts/CnC_Red_Alert"/>
+        <updated>2025-02-28T02:51:58.714Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote19474"><a class="upvote" href="javascript:vote(19474, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/electronicarts/CnC_Red_Alert" rel="nofollow" id="tr7"><h1>GN⁺: EA, Command and Conquer: Red Alert 오픈소스화 발표</h1></a> <span class="topicurl">(github.com/electronicarts)</span></div><div class="topicdesc"><a href="topic?id=19474" class="c99 breakall">이 저장소는 Command &amp; Conquer Red Alert의 소스 코드를 포함하고 있으며, Steam Workshop 지원도 포함  
+# Dependencies  
+- DirectX 5 SDK  
+...</a></div><div class="topicinfo"><span id="tp19474">2</span> points by <a href="/user?id=neo">neo</a> 2시간전<span id="unvote19474"></span> | <a href="topic?id=19474&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 타입 시스템만으로 DOOM 실행하기]]></title>
+        <id>https://youtu.be/0mCsluv5FXA</id>
+        <link href="https://youtu.be/0mCsluv5FXA"/>
+        <updated>2025-02-27T09:17:23.578Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote19469"><a class="upvote" href="javascript:vote(19469, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://youtu.be/0mCsluv5FXA" rel="nofollow" id="tr8"><h1>TypeScript 타입 시스템만으로 DOOM 실행하기</h1></a> <span class="topicurl">(youtu.be)</span></div><div class="topicdesc"><a href="topic?id=19469" class="c99 breakall">- 순수 TypeScript 타입 시스템만으로 DOOM을 실행하는 데 성공  
+	- 총 3조 5천억 줄, 177TB의 코드  
+	- 첫 프레임 생성에 12일 소요  
+- 이...</a></div><div class="topicinfo"><span id="tp19469">11</span> points by <a href="/user?id=qyurila">qyurila</a> 18시간전<span id="unvote19469"></span> | <a href="topic?id=19469&amp;go=comments" class="u">댓글 6개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI와 함께 전자기기 제품 사업을 시작하기]]></title>
         <id>https://www.clien.net/service/board/use/18923002</id>
         <link href="https://www.clien.net/service/board/use/18923002"/>
         <updated>2025-02-26T01:12:37.903Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19440"><a class="upvote" href="javascript:vote(19440, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.clien.net/service/board/use/18923002" rel="nofollow" id="tr5"><h1>AI와 함께 전자기기 제품 사업을 시작하기</h1></a> <span class="topicurl">(clien.net)</span></div><div class="topicdesc"><a href="topic?id=19440" class="c99 breakall">- 30대 백수가 **AI를 활용**하여 중국에서 제작한 **제모기**를 소싱해서 판매하는 사업을 시작한 경험을 공유  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote19440"><a class="upvote" href="javascript:vote(19440, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.clien.net/service/board/use/18923002" rel="nofollow" id="tr9"><h1>AI와 함께 전자기기 제품 사업을 시작하기</h1></a> <span class="topicurl">(clien.net)</span></div><div class="topicdesc"><a href="topic?id=19440" class="c99 breakall">- 30대 백수가 **AI를 활용**하여 중국에서 제작한 **제모기**를 소싱해서 판매하는 사업을 시작한 경험을 공유  
 - 해외에서 남성용 제모기 시장...</a></div><div class="topicinfo"><span id="tp19440">37</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19440"></span> | <a href="topic?id=19440&amp;go=comments" class="u">댓글 5개</a></div>]]></content>
     </entry>
     <entry>
@@ -51,65 +86,64 @@
         <id>https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md</id>
         <link href="https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md"/>
         <updated>2025-02-26T02:50:23.232Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19431"><a class="upvote" href="javascript:vote(19431, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md" rel="nofollow" id="tr6"><h1>GN⁺: 클린 코드 vs. 소프트웨어 설계 철학</h1></a> <span class="topicurl">(github.com/johnousterhout)</span></div><div class="topicdesc"><a href="topic?id=19431" class="c99 breakall">- Robert “Uncle Bob” Martin과 John Ousterhout이 2024년 9월부터 2025년 2월까지 진행한 소프트웨어 설계 관련 대화임  
-- 두 사람 모두 소프트...</a></div><div class="topicinfo"><span id="tp19431">38</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote19431"></span> | <a href="topic?id=19431&amp;go=comments" class="u">댓글 10개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote19431"><a class="upvote" href="javascript:vote(19431, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md" rel="nofollow" id="tr10"><h1>GN⁺: 클린 코드 vs. 소프트웨어 설계 철학</h1></a> <span class="topicurl">(github.com/johnousterhout)</span></div><div class="topicdesc"><a href="topic?id=19431" class="c99 breakall">- Robert “Uncle Bob” Martin과 John Ousterhout이 2024년 9월부터 2025년 2월까지 진행한 소프트웨어 설계 관련 대화임  
+- 두 사람 모두 소프트...</a></div><div class="topicinfo"><span id="tp19431">39</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote19431"></span> | <a href="topic?id=19431&amp;go=comments" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 타입 시스템만으로 DOOM 실행하기]]></title>
-        <id>https://youtu.be/0mCsluv5FXA</id>
-        <link href="https://youtu.be/0mCsluv5FXA"/>
-        <updated>2025-02-27T09:17:23.578Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote19469"><a class="upvote" href="javascript:vote(19469, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://youtu.be/0mCsluv5FXA" rel="nofollow" id="tr7"><h1>TypeScript 타입 시스템만으로 DOOM 실행하기</h1></a> <span class="topicurl">(youtu.be)</span></div><div class="topicdesc"><a href="topic?id=19469" class="c99 breakall">- 순수 TypeScript 타입 시스템만으로 DOOM을 실행하는 데 성공  
-	- 총 3조 5천억 줄, 177TB의 코드  
-	- 첫 프레임 생성에 12일 소요  
-- 이...</a></div><div class="topicinfo"><span id="tp19469">8</span> points by <a href="/user?id=qyurila">qyurila</a> 16시간전<span id="unvote19469"></span> | <a href="topic?id=19469&amp;go=comments" class="u">댓글 6개</a></div>]]></content>
+        <title type="html"><![CDATA[유안타증권 AI Agent 프로젝트: 실전 LLM 서비스 개발(고생)기]]></title>
+        <id>https://medium.com/crowdworks-tech/%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C-ai-agent-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%EC%A0%84-llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EC%83%9D-%EA%B8%B0-3b874a457aaa</id>
+        <link href="https://medium.com/crowdworks-tech/%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C-ai-agent-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%EC%A0%84-llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EC%83%9D-%EA%B8%B0-3b874a457aaa"/>
+        <updated>2025-02-27T05:17:09.793Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote19465"><a class="upvote" href="javascript:vote(19465, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://medium.com/crowdworks-tech/%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C-ai-agent-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%EC%A0%84-llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EC%83%9D-%EA%B8%B0-3b874a457aaa" rel="nofollow" id="tr11"><h1>유안타증권 AI Agent 프로젝트: 실전 LLM 서비스 개발(고생)기</h1></a> <span class="topicurl">(medium.com)</span></div><div class="topicdesc"><a href="topic?id=19465" class="c99 breakall">1.서두: 2025년 AI 업계의 화두는 ‘Agent’이며, 기존 RAG 중심 챗봇 접근 방식에서 벗어나 보다 고도화된 시스템이 필요함을 강조.  
+  
+2.프로...</a></div><div class="topicinfo"><span id="tp19465">11</span> points by <a href="/user?id=jinhoy">jinhoy</a> 22시간전<span id="unvote19465"></span> | <a href="topic?id=19465&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스택오버플로우의 다음 단계 - Q&A는 그냥 시작이었어요]]></title>
+        <id>https://stackoverflow.blog/2025/02/27/our-next-phase-q-and-a-was-just-the-beginning/</id>
+        <link href="https://stackoverflow.blog/2025/02/27/our-next-phase-q-and-a-was-just-the-beginning/"/>
+        <updated>2025-02-28T02:51:58.721Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote19488"><a class="upvote" href="javascript:vote(19488, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://stackoverflow.blog/2025/02/27/our-next-phase-q-and-a-was-just-the-beginning/" rel="nofollow" id="tr12"><h1>스택오버플로우의 다음 단계 - Q&amp;A는 그냥 시작이었어요</h1></a> <span class="topicurl">(stackoverflow.blog)</span></div><div class="topicdesc"><a href="topic?id=19488" class="c99 breakall">- Stack Overflow는 16년 이상 기술 전문가들이 배우고, 기술을 공유하며, 경력을 발전시키는 중심 허브 역할을 해왔음  
+- 그러나 기술 환경이 ...</a></div><div class="topicinfo"><span id="tp19488">1</span> point by <a href="/user?id=xguru">xguru</a> 6분전<span id="unvote19488"></span> | <a href="topic?id=19488&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: DeepSearcher - 로컬 오픈소스 Deep Research]]></title>
+        <id>https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md</id>
+        <link href="https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md"/>
+        <updated>2025-02-28T02:51:58.721Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote19487"><a class="upvote" href="javascript:vote(19487, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md" rel="nofollow" id="tr13"><h1>GN⁺: DeepSearcher - 로컬 오픈소스 Deep Research</h1></a> <span class="topicurl">(milvus.io)</span></div><div class="topicdesc"><a href="topic?id=19487" class="c99 breakall">- 오픈소스 모델과 도구(Milvus, LangChain 등)를 활용해 **Deep Research** 형태의 리서치 에이전트를 구현  
+- 웹·문서 검색을 통해 **주제나 ...</a></div><div class="topicinfo"><span id="tp19487">1</span> point by <a href="/user?id=neo">neo</a> 49분전<span id="unvote19487"></span> | <a href="topic?id=19487&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Awesome DeepSeek Integrations - DeepSeek을 연동한 서비스 리스트]]></title>
         <id>https://github.com/deepseek-ai/awesome-deepseek-integration</id>
         <link href="https://github.com/deepseek-ai/awesome-deepseek-integration"/>
         <updated>2025-02-27T02:51:23.918Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote19462"><a class="upvote" href="javascript:vote(19462, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/deepseek-ai/awesome-deepseek-integration" rel="nofollow" id="tr8"><h1>Awesome DeepSeek Integrations - DeepSeek을 연동한 서비스 리스트 </h1></a> <span class="topicurl">(github.com/deepseek-ai)</span></div><div class="topicdesc"><a href="topic?id=19462" class="c99 breakall">- 빠르게 늘어나는 DeepSeek 연동 서비스들을 정리. 현재 17개 카테고리 총 102개   
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote19462"><a class="upvote" href="javascript:vote(19462, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/deepseek-ai/awesome-deepseek-integration" rel="nofollow" id="tr14"><h1>Awesome DeepSeek Integrations - DeepSeek을 연동한 서비스 리스트 </h1></a> <span class="topicurl">(github.com/deepseek-ai)</span></div><div class="topicdesc"><a href="topic?id=19462" class="c99 breakall">- 빠르게 늘어나는 DeepSeek 연동 서비스들을 정리. 현재 17개 카테고리 총 102개   
 - **Applications (총 40개)**  
-  - **DeepChat**: 강력한...</a></div><div class="topicinfo"><span id="tp19462">12</span> points by <a href="/user?id=xguru">xguru</a> 24시간전<span id="unvote19462"></span> | <a href="topic?id=19462&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+  - **DeepChat**: 강력한...</a></div><div class="topicinfo"><span id="tp19462">12</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote19462"></span> | <a href="topic?id=19462&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: TCP나 UDP를 사용하지 않으면 무슨 일이 일어날까?]]></title>
         <id>https://github.com/Hawzen/hdp</id>
         <link href="https://github.com/Hawzen/hdp"/>
         <updated>2025-02-27T06:21:58.239Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote19467"><a class="upvote" href="javascript:vote(19467, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Hawzen/hdp" rel="nofollow" id="tr9"><h1>GN⁺: TCP나 UDP를 사용하지 않으면 무슨 일이 일어날까?</h1></a> <span class="topicurl">(github.com/Hawzen)</span></div><div class="topicdesc"><a href="topic?id=19467" class="c99 breakall">- 네트워크 인프라는 스위치, 브리지, 라우터, 로드 밸런서, 방화벽 등으로 구성됨  
-- 운영체제는 패킷을 분류하고, 큐에 배치하며, 방화벽 규칙...</a></div><div class="topicinfo"><span id="tp19467">9</span> points by <a href="/user?id=neo">neo</a> 20시간전<span id="unvote19467"></span> | <a href="topic?id=19467&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andrej Karpathy의 GPT-4.5 리뷰]]></title>
-        <id>https://x.com/karpathy/status/1895213020982472863</id>
-        <link href="https://x.com/karpathy/status/1895213020982472863"/>
-        <updated>2025-02-28T01:12:13.176Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote19479"><a class="upvote" href="javascript:vote(19479, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://x.com/karpathy/status/1895213020982472863" rel="nofollow" id="tr10"><h1>Andrej Karpathy의 GPT-4.5 리뷰</h1></a> <span class="topicurl">(x.com)</span></div><div class="topicdesc"><a href="topic?id=19479" class="c99 breakall">- 오늘 OpenAI에서 **GPT-4.5**가 출시됨  
-- GPT-4 출시 이후 **약 2년 동안 기다려온 이유**는, 이번 릴리스가 단순히 더 큰 모델을 훈련할 때 ...</a></div><div class="topicinfo"><span id="tp19479">1</span> point by <a href="/user?id=xguru">xguru</a> 12분전<span id="unvote19479"></span> | <a href="topic?id=19479&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부팅 가능한 컨테이너 만들기 모범사례]]></title>
-        <id>https://developers.redhat.com/articles/2025/02/26/best-practices-building-bootable-containers</id>
-        <link href="https://developers.redhat.com/articles/2025/02/26/best-practices-building-bootable-containers"/>
-        <updated>2025-02-28T01:12:13.180Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote19473"><a class="upvote" href="javascript:vote(19473, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://developers.redhat.com/articles/2025/02/26/best-practices-building-bootable-containers" rel="nofollow" id="tr11"><h1>부팅 가능한 컨테이너 만들기 모범사례 </h1></a> <span class="topicurl">(developers.redhat.com)</span></div><div class="topicdesc"><a href="topic?id=19473" class="c99 breakall">- Red Hat Enterprise Linux(RHEL)의 **이미지 모드**는 부팅 가능한 컨테이너로 RHEL을 구축, 배포 및 관리하는 과정을 단순화함  
-- 개발, 운영...</a></div><div class="topicinfo"><span id="tp19473">1</span> point by <a href="/user?id=xguru">xguru</a> 26분전<span id="unvote19473"></span> | <a href="topic?id=19473&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19467"><a class="upvote" href="javascript:vote(19467, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Hawzen/hdp" rel="nofollow" id="tr15"><h1>GN⁺: TCP나 UDP를 사용하지 않으면 무슨 일이 일어날까?</h1></a> <span class="topicurl">(github.com/Hawzen)</span></div><div class="topicdesc"><a href="topic?id=19467" class="c99 breakall">- 네트워크 인프라는 스위치, 브리지, 라우터, 로드 밸런서, 방화벽 등으로 구성됨  
+- 운영체제는 패킷을 분류하고, 큐에 배치하며, 방화벽 규칙...</a></div><div class="topicinfo"><span id="tp19467">9</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote19467"></span> | <a href="topic?id=19467&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: AI 시대에도 블로깅은 여전히 가치가 있습니다]]></title>
         <id>https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai</id>
         <link href="https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai"/>
         <updated>2025-02-27T02:51:23.906Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote19461"><a class="upvote" href="javascript:vote(19461, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai" rel="nofollow" id="tr12"><h1>GN⁺: AI 시대에도 블로깅은 여전히 가치가 있습니다</h1></a> <span class="topicurl">(gilesthomas.com)</span></div><div class="topicdesc"><a href="topic?id=19461" class="c99 breakall">- 사람들이 모두 ChatGPT, Claude, DeepSeek를 사용하고, AI가 답변을 떠먹여 준다면 블로깅의 의미가 무엇일까? AI 외에 누가 당신이 쓴 글을 읽...</a></div><div class="topicinfo"><span id="tp19461">11</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote19461"></span> | <a href="topic?id=19461&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote19461"><a class="upvote" href="javascript:vote(19461, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai" rel="nofollow" id="tr16"><h1>GN⁺: AI 시대에도 블로깅은 여전히 가치가 있습니다</h1></a> <span class="topicurl">(gilesthomas.com)</span></div><div class="topicdesc"><a href="topic?id=19461" class="c99 breakall">- 사람들이 모두 ChatGPT, Claude, DeepSeek를 사용하고, AI가 답변을 떠먹여 준다면 블로깅의 의미가 무엇일까? AI 외에 누가 당신이 쓴 글을 읽...</a></div><div class="topicinfo"><span id="tp19461">11</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote19461"></span> | <a href="topic?id=19461&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: ChatGPT가 제 생명을 구했습니다(아니, 진짜로 응급실에서 이 글을 쓰고 있어요)]]></title>
         <id>https://hardmodefirst.xyz/chatgpt-saved-my-life-no,-seriously,-im-writing-this-from-the-er</id>
         <link href="https://hardmodefirst.xyz/chatgpt-saved-my-life-no,-seriously,-im-writing-this-from-the-er"/>
         <updated>2025-02-27T02:51:23.911Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote19454"><a class="upvote" href="javascript:vote(19454, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hardmodefirst.xyz/chatgpt-saved-my-life-no,-seriously,-im-writing-this-from-the-er" rel="nofollow" id="tr13"><h1>GN⁺: ChatGPT가 제 생명을 구했습니다(아니, 진짜로 응급실에서 이 글을 쓰고 있어요)</h1></a> <span class="topicurl">(hardmodefirst.xyz)</span></div><div class="topicdesc"><a href="topic?id=19454" class="c99 breakall">&gt; ChatGPT가 날 오늘 ER로 보냈음: 그게 내 생명을 구했을지도 모름  
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote19454"><a class="upvote" href="javascript:vote(19454, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hardmodefirst.xyz/chatgpt-saved-my-life-no,-seriously,-im-writing-this-from-the-er" rel="nofollow" id="tr17"><h1>GN⁺: ChatGPT가 제 생명을 구했습니다(아니, 진짜로 응급실에서 이 글을 쓰고 있어요)</h1></a> <span class="topicurl">(hardmodefirst.xyz)</span></div><div class="topicdesc"><a href="topic?id=19454" class="c99 breakall">&gt; ChatGPT가 날 오늘 ER로 보냈음: 그게 내 생명을 구했을지도 모름  
 - 최근 몇 주 동안 몸 상태가 이상하다고 느꼈음. 주치의 검사 후 식단 조...</a></div><div class="topicinfo"><span id="tp19454">11</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote19454"></span> | <a href="topic?id=19454&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
@@ -117,56 +151,25 @@
         <id>https://news.hada.io/topic?id=19450</id>
         <link href="https://news.hada.io/topic?id=19450"/>
         <updated>2025-02-27T01:11:28.054Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote19450"><a class="upvote" href="javascript:vote(19450, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19450" rel="nofollow" id="tr14"><h1>Show GN: 웹에서 3D 지도 생성하기</h1></a> <span class="topicurl">(map.fleet.im)</span></div><div class="topicdesc"><a href="topic?id=19450" class="c99 breakall">- 오픈소스 웹 기반 GIS 매핑 소프트웨어  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote19450"><a class="upvote" href="javascript:vote(19450, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19450" rel="nofollow" id="tr18"><h1>Show GN: 웹에서 3D 지도 생성하기</h1></a> <span class="topicurl">(map.fleet.im)</span></div><div class="topicdesc"><a href="topic?id=19450" class="c99 breakall">- 오픈소스 웹 기반 GIS 매핑 소프트웨어  
 - openstreetmap 데이터 기반으로 주변 건물 정보를 가져온 다음 r3f로 랜더링.  
 - glb 포멧으로 출...</a></div><div class="topicinfo"><span id="tp19450">11</span> points by <a href="/user?id=hyeongjun">hyeongjun</a> 1일전<span id="unvote19450"></span> | <a href="topic?id=19450&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: 카카오의 언어모델, Kanana 테크니컬 리포트 공개]]></title>
-        <id>https://tech.kakao.com/posts/689</id>
-        <link href="https://tech.kakao.com/posts/689"/>
-        <updated>2025-02-27T06:21:58.237Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19468"><a class="upvote" href="javascript:vote(19468, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://tech.kakao.com/posts/689" rel="nofollow" id="tr15"><h1>GN⁺: 카카오의 언어모델, Kanana 테크니컬 리포트 공개</h1></a> <span class="topicurl">(tech.kakao.com)</span></div><div class="topicdesc"><a href="topic?id=19468" class="c99 breakall">- 카카오는 서비스 적용에 최적화된 AI 모델을 목표로, 높은 성능과 비용 효율성을 동시에 고려한 ‘카나나 모델 패밀리(Kanana Model Family)’를 ...</a></div><div class="topicinfo"><span id="tp19468">7</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote19468"></span> | <a href="topic?id=19468&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[Andrej Karpathy의 GPT-4.5 리뷰]]></title>
+        <id>https://x.com/karpathy/status/1895213020982472863</id>
+        <link href="https://x.com/karpathy/status/1895213020982472863"/>
+        <updated>2025-02-28T01:12:13.176Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote19479"><a class="upvote" href="javascript:vote(19479, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://x.com/karpathy/status/1895213020982472863" rel="nofollow" id="tr19"><h1>Andrej Karpathy의 GPT-4.5 리뷰</h1></a> <span class="topicurl">(x.com)</span></div><div class="topicdesc"><a href="topic?id=19479" class="c99 breakall">- 오늘 OpenAI에서 **GPT-4.5**가 출시됨  
+- GPT-4 출시 이후 **약 2년 동안 기다려온 이유**는, 이번 릴리스가 단순히 더 큰 모델을 훈련할 때 ...</a></div><div class="topicinfo"><span id="tp19479">1</span> point by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote19479"></span> | <a href="topic?id=19479&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Warp 터미널, Windows용 공개]]></title>
         <id>https://www.warp.dev/windows-terminal</id>
         <link href="https://www.warp.dev/windows-terminal"/>
         <updated>2025-02-27T04:19:03.034Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote19464"><a class="upvote" href="javascript:vote(19464, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.warp.dev/windows-terminal" rel="nofollow" id="tr16"><h1>Warp 터미널, Windows용 공개</h1></a> <span class="topicurl">(warp.dev)</span></div><div class="topicdesc"><a href="topic?id=19464" class="c99 breakall">- Rust로 작성된 빠른 터미널 Warp가 Windows용도 공개   
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote19464"><a class="upvote" href="javascript:vote(19464, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.warp.dev/windows-terminal" rel="nofollow" id="tr20"><h1>Warp 터미널, Windows용 공개</h1></a> <span class="topicurl">(warp.dev)</span></div><div class="topicdesc"><a href="topic?id=19464" class="c99 breakall">- Rust로 작성된 빠른 터미널 Warp가 Windows용도 공개   
 - IDE 같은 블록/라인단위 편집  
-- 400+개 넘는 CLI 도구에 대한 자동완성 및 추천 ...</a></div><div class="topicinfo"><span id="tp19464">8</span> points by <a href="/user?id=xguru">xguru</a> 21시간전<span id="unvote19464"></span> | <a href="topic?id=19464&amp;go=comments" class="u">댓글 6개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini Code Assist로 코딩 지원 받기 - 이제 무료로 사용 가능]]></title>
-        <id>https://blog.google/technology/developers/gemini-code-assist-free/</id>
-        <link href="https://blog.google/technology/developers/gemini-code-assist-free/"/>
-        <updated>2025-02-26T02:50:23.242Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote19445"><a class="upvote" href="javascript:vote(19445, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.google/technology/developers/gemini-code-assist-free/" rel="nofollow" id="tr17"><h1>Gemini Code Assist로 코딩 지원 받기 - 이제 무료로 사용 가능</h1></a> <span class="topicurl">(blog.google)</span></div><div class="topicdesc"><a href="topic?id=19445" class="c99 breakall">- 이제 전 세계 개발자들이 **무료로 AI 코딩 보조 도구를 이용 가능**  
-- Google의 DORA 연구 결과, 75% 이상의 개발자가 AI를 일상적으로 활용...</a></div><div class="topicinfo"><span id="tp19445">21</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19445"></span> | <a href="topic?id=19445&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot, 무료 무제한 Voice 및 Think Deeper 기능 출시]]></title>
-        <id>https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/02/25/announcing-free-unlimited-access-to-think-deeper-and-voice/</id>
-        <link href="https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/02/25/announcing-free-unlimited-access-to-think-deeper-and-voice/"/>
-        <updated>2025-02-27T01:11:28.051Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote19456"><a class="upvote" href="javascript:vote(19456, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/02/25/announcing-free-unlimited-access-to-think-deeper-and-voice/" rel="nofollow" id="tr18"><h1>Microsoft Copilot, 무료 무제한 Voice 및 Think Deeper 기능 출시</h1></a> <span class="topicurl">(microsoft.com)</span></div><div class="topicdesc"><a href="topic?id=19456" class="c99 breakall">- 모든 Copilot 사용자에게 **Voice 및 Think Deeper 기능을 무료로 무제한 제공**  
-- **Voice 기능**을 활용하면 Copilot과 음성으로 대화할 수...</a></div><div class="topicinfo"><span id="tp19456">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote19456"></span> | <a href="topic?id=19456&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: EdgeDB가 Gel로 리브랜딩 - Postgres가 미래입니다]]></title>
-        <id>https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future</id>
-        <link href="https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future"/>
-        <updated>2025-02-27T02:51:23.909Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote19463"><a class="upvote" href="javascript:vote(19463, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future" rel="nofollow" id="tr19"><h1>GN⁺: EdgeDB가 Gel로 리브랜딩 - Postgres가 미래입니다</h1></a> <span class="topicurl">(geldata.com)</span></div><div class="topicdesc"><a href="topic?id=19463" class="c99 breakall">- **EdgeDB**가 **Gel**이라는 새로운 이름으로 리브랜딩됨  
-- PostgreSQL이 최근 **데이터베이스 시장**을 점점 잠식하고 있음  
-  - PostgreS...</a></div><div class="topicinfo"><span id="tp19463">6</span> points by <a href="/user?id=neo">neo</a> 23시간전<span id="unvote19463"></span> | <a href="topic?id=19463&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: ‘Hey 넘버 17’]]></title>
-        <id>https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/</id>
-        <link href="https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/"/>
-        <updated>2025-02-27T02:51:23.906Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote19458"><a class="upvote" href="javascript:vote(19458, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/" rel="nofollow" id="tr20"><h1>GN⁺: ‘Hey 넘버 17’</h1></a> <span class="topicurl">(404media.co)</span></div><div class="topicdesc"><a href="topic?id=19458" class="c99 breakall">- YC의 펀딩을 받은 "공장 근로자를 위한 AI 성과 모니터링 시스템"은 공장에서 머신 비젼을 통해 노동자의 손 움직임과 생산량을 추적하여 효율성...</a></div><div class="topicinfo"><span id="tp19458">5</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote19458"></span> | <a href="topic?id=19458&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+- 400+개 넘는 CLI 도구에 대한 자동완성 및 추천 ...</a></div><div class="topicinfo"><span id="tp19464">8</span> points by <a href="/user?id=xguru">xguru</a> 23시간전<span id="unvote19464"></span> | <a href="topic?id=19464&amp;go=comments" class="u">댓글 6개</a></div>]]></content>
     </entry>
 </feed>
