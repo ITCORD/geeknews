@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2025-03-02T23:15:11.261Z</updated>
+    <updated>2025-03-03T01:14:19.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Git 코어 개발자는 Git을 어떻게 설정하고 사용할까?]]></title>
+        <id>https://news.hada.io/weekly/202509</id>
+        <link href="https://news.hada.io/weekly/202509"/>
+        <updated>2025-03-03T01:14:07.783Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202509" class="u"> Git 코어 개발자는 Git을 어떻게 설정하고 사용할까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가장 조회수 높았던 소프트웨어 엔지니어링 발표들]]></title>
         <id>https://news.hada.io/weekly/202508</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202453"/>
         <updated>2025-02-24T21:14:16.624Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202453" class="u"> 데이터 엔지니어링의 2025년 예상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업에서의 모던 스태프 엔지니어링]]></title>
-        <id>https://news.hada.io/weekly/202452</id>
-        <link href="https://news.hada.io/weekly/202452"/>
-        <updated>2025-02-24T21:14:16.626Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202452" class="u"> 스타트업에서의 모던 스태프 엔지니어링 </a>]]></content>
     </entry>
 </feed>
