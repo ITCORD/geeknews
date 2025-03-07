@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-07T01:14:19.889Z</updated>
+    <updated>2025-03-07T02:54:29.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Nash, 단일 HTML 로 동작하는 노트]]></title>
+        <id>https://news.hada.io/topic?id=19611</id>
+        <link href="https://news.hada.io/topic?id=19611"/>
+        <updated>2025-03-07T02:54:08.127Z</updated>
+        <content type="html"><![CDATA[keepworking]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: LLM-free 웹 크롤링 : web-content-extractor]]></title>
         <id>https://news.hada.io/topic?id=19560</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19069"/>
         <updated>2025-03-05T18:22:30.927Z</updated>
         <content type="html"><![CDATA[yuno815]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Aurora AI - 반응형 GPT 웹 인터페이스]]></title>
-        <id>https://news.hada.io/topic?id=19277</id>
-        <link href="https://news.hada.io/topic?id=19277"/>
-        <updated>2025-02-17T13:23:19.448Z</updated>
-        <content type="html"><![CDATA[sdr0311]]></content>
     </entry>
 </feed>
