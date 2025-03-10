@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2025-03-09T23:12:43.633Z</updated>
+    <updated>2025-03-10T01:02:24.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Model Context Protocol (MCP) 개발 방법]]></title>
+        <id>https://news.hada.io/weekly/202510</id>
+        <link href="https://news.hada.io/weekly/202510"/>
+        <updated>2025-03-10T01:02:13.516Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202510" class="u"> Model Context Protocol (MCP) 개발 방법 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git 코어 개발자는 Git을 어떻게 설정하고 사용할까?]]></title>
         <id>https://news.hada.io/weekly/202509</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202501"/>
         <updated>2025-02-24T21:14:16.623Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202501" class="u"> AI가 세상을 먹어 치운다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 엔지니어링의 2025년 예상]]></title>
-        <id>https://news.hada.io/weekly/202453</id>
-        <link href="https://news.hada.io/weekly/202453"/>
-        <updated>2025-02-24T21:14:16.624Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202453" class="u"> 데이터 엔지니어링의 2025년 예상</a>]]></content>
     </entry>
 </feed>
