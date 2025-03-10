@@ -2,85 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2025-03-10T03:17:22.147Z</updated>
+    <updated>2025-03-10T04:16:58.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하스켈과 OCaml의 모나드 접근 방식 비교]]></title>
+        <id>https://news.hada.io/topic?id=19664&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19664&amp;go=comments"/>
+        <updated>2025-03-10T04:16:24.382Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19664"><a class="upvote" href="javascript:vote(19664, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://hackers.pub/@hongminhee/2025/monads" rel="nofollow" id="tr1"><h1>하스켈과 OCaml의 모나드 접근 방식 비교</h1></a> <span class="topicurl">(hackers.pub)</span></div><div class="topicdesc"><a href="topic?id=19664" class="c99 breakall">## Haskell의 모나드: 우아한 추상화  
+- 모나드는 단순히 `Promise`와 유사한 개념이 아닌 강력한 추상화 도구  
+- `Monad` 타입클래스를 통해 ...</a></div><div class="topicinfo"><span id="tp19664">1</span> point by <a href="/user?id=hongminhee">hongminhee</a> 3분전<span id="unvote19664"></span> | <a href="topic?id=19664&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CTO를 뽑는 방법 - 코슬라벤처스]]></title>
         <id>https://news.hada.io/topic?id=19660&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19660&amp;go=comments"/>
         <updated>2025-03-10T02:31:52.671Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19660"><a class="upvote" href="javascript:vote(19660, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.khoslaventures.com/how-to-hire-a-cto/" rel="nofollow" id="tr1"><h1>CTO를 뽑는 방법 - 코슬라벤처스</h1></a> <span class="topicurl">(khoslaventures.com)</span></div><div class="topicdesc"><a href="topic?id=19660" class="c99 breakall">- 기술 스타트업의 CTO는 **회사의 성패를 좌우**함  
+        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote19660"><a class="upvote" href="javascript:vote(19660, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.khoslaventures.com/how-to-hire-a-cto/" rel="nofollow" id="tr2"><h1>CTO를 뽑는 방법 - 코슬라벤처스</h1></a> <span class="topicurl">(khoslaventures.com)</span></div><div class="topicdesc"><a href="topic?id=19660" class="c99 breakall">- 기술 스타트업의 CTO는 **회사의 성패를 좌우**함  
   - 실현 가능성과 야망을 바탕의 제품의 **기술적 비전**을 설정  
-  - 시드 단계에서는 ...</a></div><div class="topicinfo"><span id="tp19660">10</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote19660"></span> | <a href="topic?id=19660&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+  - 시드 단계에서는 ...</a></div><div class="topicinfo"><span id="tp19660">11</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote19660"></span> | <a href="topic?id=19660&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI 에이전트 시장 지도]]></title>
         <id>https://news.hada.io/topic?id=19659&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19659&amp;go=comments"/>
         <updated>2025-03-10T02:31:52.672Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote19659"><a class="upvote" href="javascript:vote(19659, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cbinsights.com/research/ai-agent-market-map/" rel="nofollow" id="tr2"><h1>AI 에이전트 시장 지도</h1></a> <span class="topicurl">(cbinsights.com)</span></div><div class="topicdesc"><a href="topic?id=19659" class="c99 breakall">- AI 에이전트 스타트업 170여 개를 26개의 카테고리로 분류한 시장 지도  
-  - 또한 AI 에이전트 기술 발전 현황과 한계점 및 향후 전망을 분석 ...</a></div><div class="topicinfo"><span id="tp19659">6</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote19659"></span> | <a href="topic?id=19659&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19659"><a class="upvote" href="javascript:vote(19659, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cbinsights.com/research/ai-agent-market-map/" rel="nofollow" id="tr3"><h1>AI 에이전트 시장 지도</h1></a> <span class="topicurl">(cbinsights.com)</span></div><div class="topicdesc"><a href="topic?id=19659" class="c99 breakall">- AI 에이전트 스타트업 170여 개를 26개의 카테고리로 분류한 시장 지도  
+  - 또한 AI 에이전트 기술 발전 현황과 한계점 및 향후 전망을 분석 ...</a></div><div class="topicinfo"><span id="tp19659">6</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote19659"></span> | <a href="topic?id=19659&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Leaflet - 문서 작성 및 공유를 위한 웹앱]]></title>
         <id>https://news.hada.io/topic?id=19658&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19658&amp;go=comments"/>
         <updated>2025-03-10T02:31:52.675Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19658"><a class="upvote" href="javascript:vote(19658, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://leaflet.pub" rel="nofollow" id="tr3"><h1>Leaflet - 문서 작성 및 공유를 위한 웹앱</h1></a> <span class="topicurl">(leaflet.pub)</span></div><div class="topicdesc"><a href="topic?id=19658" class="c99 breakall">- 빠르고 가벼우면서도 리치 블록과 멀티 페이지를 지원하는 문서 작성 웹앱  
-- **Notion과 Google Docs 사이의 균형**을 찾는 것을 목표로 개발...</a></div><div class="topicinfo"><span id="tp19658">11</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote19658"></span> | <a href="topic?id=19658&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19658"><a class="upvote" href="javascript:vote(19658, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://leaflet.pub" rel="nofollow" id="tr4"><h1>Leaflet - 문서 작성 및 공유를 위한 웹앱</h1></a> <span class="topicurl">(leaflet.pub)</span></div><div class="topicdesc"><a href="topic?id=19658" class="c99 breakall">- 빠르고 가벼우면서도 리치 블록과 멀티 페이지를 지원하는 문서 작성 웹앱  
+- **Notion과 Google Docs 사이의 균형**을 찾는 것을 목표로 개발...</a></div><div class="topicinfo"><span id="tp19658">11</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote19658"></span> | <a href="topic?id=19658&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple의 '더 개인화된 Siri' 출시 내년으로 연기]]></title>
         <id>https://news.hada.io/topic?id=19657&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19657&amp;go=comments"/>
         <updated>2025-03-10T02:31:52.675Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19657"><a class="upvote" href="javascript:vote(19657, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features" rel="nofollow" id="tr4"><h1>Apple의 '더 개인화된 Siri' 출시 내년으로 연기</h1></a> <span class="topicurl">(daringfireball.net)</span></div><div class="topicdesc"><a href="topic?id=19657" class="c99 breakall">- 애플 대변인 Jacqueline Roy의 공식 성명:  
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19657"><a class="upvote" href="javascript:vote(19657, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features" rel="nofollow" id="tr5"><h1>Apple의 '더 개인화된 Siri' 출시 내년으로 연기</h1></a> <span class="topicurl">(daringfireball.net)</span></div><div class="topicdesc"><a href="topic?id=19657" class="c99 breakall">- 애플 대변인 Jacqueline Roy의 공식 성명:  
   - Siri는 사용자들이 필요한 정보를 빠르게 찾고 작업을 수행하도록 돕고 있음  
-  - 지난 6개...</a></div><div class="topicinfo"><span id="tp19657">2</span> points by <a href="/user?id=xguru">xguru</a> 2시간전<span id="unvote19657"></span> | <a href="topic?id=19657&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+  - 지난 6개...</a></div><div class="topicinfo"><span id="tp19657">2</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote19657"></span> | <a href="topic?id=19657&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전문가 머릿속에서는 대체 무슨 일이 벌어지고 있을까]]></title>
         <id>https://news.hada.io/topic?id=19649&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19649&amp;go=comments"/>
         <updated>2025-03-10T01:01:54.795Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19649"><a class="upvote" href="javascript:vote(19649, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.stdy.blog/what-is-happening-inside-experts-brain/" rel="nofollow" id="tr5"><h1>전문가 머릿속에서는 대체 무슨 일이 벌어지고 있을까</h1></a> <span class="topicurl">(stdy.blog)</span></div><div class="topicdesc"><a href="topic?id=19649" class="c99 breakall"># 개요  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19649"><a class="upvote" href="javascript:vote(19649, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.stdy.blog/what-is-happening-inside-experts-brain/" rel="nofollow" id="tr6"><h1>전문가 머릿속에서는 대체 무슨 일이 벌어지고 있을까</h1></a> <span class="topicurl">(stdy.blog)</span></div><div class="topicdesc"><a href="topic?id=19649" class="c99 breakall"># 개요  
   
-- 미국의 심리학자 [개리 클라인](https://en.wikipedia.org/wiki/Gary_A._Klein)은 소방관, 응급실 간호사, 비행기 조종사 등 급박...</a></div><div class="topicinfo"><span id="tp19649">7</span> points by <a href="/user?id=spilist2">spilist2</a> 3시간전<span id="unvote19649"></span> | <a href="topic?id=19649&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+- 미국의 심리학자 [개리 클라인](https://en.wikipedia.org/wiki/Gary_A._Klein)은 소방관, 응급실 간호사, 비행기 조종사 등 급박...</a></div><div class="topicinfo"><span id="tp19649">9</span> points by <a href="/user?id=spilist2">spilist2</a> 4시간전<span id="unvote19649"></span> | <a href="topic?id=19649&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼]]></title>
         <id>https://news.hada.io/topic?id=19648&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19648&amp;go=comments"/>
         <updated>2025-03-09T14:11:55.291Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19648"><a class="upvote" href="javascript:vote(19648, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19648" rel="nofollow" id="tr6"><h1>Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼</h1></a> <span class="topicurl">(until.blog)</span></div><div class="topicdesc"><a href="topic?id=19648" class="c99 breakall">[서비스 소개]  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote19648"><a class="upvote" href="javascript:vote(19648, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19648" rel="nofollow" id="tr7"><h1>Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼</h1></a> <span class="topicurl">(until.blog)</span></div><div class="topicdesc"><a href="topic?id=19648" class="c99 breakall">[서비스 소개]  
   
 until은 누구나 노션처럼 쉽게 블로그를 만들고 운영할 수 있는 서비스입니다.  
-개발자뿐만 아니라 비개발자도 쉽고 빠르...</a></div><div class="topicinfo"><span id="tp19648">11</span> points by <a href="/user?id=mini4614">mini4614</a> 13시간전<span id="unvote19648"></span> | <a href="topic?id=19648&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+개발자뿐만 아니라 비개발자도 쉽고 빠르...</a></div><div class="topicinfo"><span id="tp19648">11</span> points by <a href="/user?id=mini4614">mini4614</a> 14시간전<span id="unvote19648"></span> | <a href="topic?id=19648&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 지피티 내가한 질문목록 한눈에 보는 크롬 확장 프로그램]]></title>
         <id>https://news.hada.io/topic?id=19647&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19647&amp;go=comments"/>
         <updated>2025-03-09T09:12:28.582Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote19647"><a class="upvote" href="javascript:vote(19647, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19647" rel="nofollow" id="tr7"><h1>Show GN: 지피티 내가한 질문목록 한눈에 보는 크롬 확장 프로그램 </h1></a> <span class="topicurl">(chromewebstore.google.com)</span></div><div class="topicdesc"><a href="topic?id=19647" class="c99 breakall">ChatGpt 탭에서 질문이 길어지면 어떤 질문을 했는지 기억하는 데 어려움을 겪는 분들이 있나요?  
-저의 경우, 질문을 한 눈에 보기 위해 따로 메...</a></div><div class="topicinfo"><span id="tp19647">4</span> points by <a href="/user?id=dbsrbals26">dbsrbals26</a> 18시간전<span id="unvote19647"></span> | <a href="topic?id=19647&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote19647"><a class="upvote" href="javascript:vote(19647, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19647" rel="nofollow" id="tr8"><h1>Show GN: 지피티 내가한 질문목록 한눈에 보는 크롬 확장 프로그램 </h1></a> <span class="topicurl">(chromewebstore.google.com)</span></div><div class="topicdesc"><a href="topic?id=19647" class="c99 breakall">ChatGpt 탭에서 질문이 길어지면 어떤 질문을 했는지 기억하는 데 어려움을 겪는 분들이 있나요?  
+저의 경우, 질문을 한 눈에 보기 위해 따로 메...</a></div><div class="topicinfo"><span id="tp19647">4</span> points by <a href="/user?id=dbsrbals26">dbsrbals26</a> 19시간전<span id="unvote19647"></span> | <a href="topic?id=19647&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 깃허브에 정체모를 계정들은 무엇일까요?]]></title>
         <id>https://news.hada.io/topic?id=19645&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19645&amp;go=comments"/>
         <updated>2025-03-09T07:12:16.873Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote19645"><a class="upvote" href="javascript:vote(19645, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19645" id="tr8"><h1>Ask GN: 깃허브에 정체모를 계정들은 무엇일까요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=19645" class="c99 breakall">https://github.com/candidtrapdoo/traefik-oidc-auth/stargazers  
+        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote19645"><a class="upvote" href="javascript:vote(19645, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19645" id="tr9"><h1>Ask GN: 깃허브에 정체모를 계정들은 무엇일까요?</h1></a> <span class="topicurl"></span></div><div class="topicdesc"><a href="topic?id=19645" class="c99 breakall">https://github.com/candidtrapdoo/traefik-oidc-auth/stargazers  
   
-해당 별 기록을 보면 모두 2025년 2월 ~일에 가입된 것을 볼 수 있습니다...</a></div><div class="topicinfo"><span id="tp19645">2</span> points by <a href="/user?id=tetro">tetro</a> 21시간전<span id="unvote19645"></span> | <a href="topic?id=19645&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+해당 별 기록을 보면 모두 2025년 2월 ~일에 가입된 것을 볼 수 있습니다...</a></div><div class="topicinfo"><span id="tp19645">2</span> points by <a href="/user?id=tetro">tetro</a> 22시간전<span id="unvote19645"></span> | <a href="topic?id=19645&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Globstar - 오픈소스 정적 분석 툴킷]]></title>
         <id>https://news.hada.io/topic?id=19642&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19642&amp;go=comments"/>
         <updated>2025-03-09T02:31:13.757Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote19642"><a class="upvote" href="javascript:vote(19642, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/DeepSourceCorp/globstar" rel="nofollow" id="tr9"><h1>Globstar - 오픈소스 정적 분석 툴킷</h1></a> <span class="topicurl">(github.com/DeepSourceCorp)</span></div><div class="topicdesc"><a href="topic?id=19642" class="c99 breakall">- 개발자 및 보안 엔지니어가 코드 분석 체크(Checker)를 작성하고, 단일 바이너리로 실행가능한 오픈소스 정적 분석 툴킷  
+        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote19642"><a class="upvote" href="javascript:vote(19642, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/DeepSourceCorp/globstar" rel="nofollow" id="tr10"><h1>Globstar - 오픈소스 정적 분석 툴킷</h1></a> <span class="topicurl">(github.com/DeepSourceCorp)</span></div><div class="topicdesc"><a href="topic?id=19642" class="c99 breakall">- 개발자 및 보안 엔지니어가 코드 분석 체크(Checker)를 작성하고, 단일 바이너리로 실행가능한 오픈소스 정적 분석 툴킷  
 - 트리시터(Tree-Sit...</a></div><div class="topicinfo"><span id="tp19642">6</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote19642"></span> | <a href="topic?id=19642&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -88,15 +97,15 @@ until은 누구나 노션처럼 쉽게 블로그를 만들고 운영할 수 있�
         <id>https://news.hada.io/topic?id=19633&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19633&amp;go=comments"/>
         <updated>2025-03-09T01:03:32.216Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote19633"><a class="upvote" href="javascript:vote(19633, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://wikidocs.net/book/17027" rel="nofollow" id="tr10"><h1>Model Context Protocol (MCP) 개발 방법</h1></a> <span class="topicurl">(wikidocs.net)</span></div><div class="topicdesc"><a href="topic?id=19633" class="c99 breakall">- MCP는 AI 시스템과 다양한 데이터 소스를 연결하는 범용 프로토콜로, AI 모델의 성능과 활용도를 높이는 것을 목표로 함   
-- MCP의 주요 특징 ...</a></div><div class="topicinfo"><span id="tp19633">23</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote19633"></span> | <a href="topic?id=19633&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote19633"><a class="upvote" href="javascript:vote(19633, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://wikidocs.net/book/17027" rel="nofollow" id="tr11"><h1>Model Context Protocol (MCP) 개발 방법</h1></a> <span class="topicurl">(wikidocs.net)</span></div><div class="topicdesc"><a href="topic?id=19633" class="c99 breakall">- MCP는 AI 시스템과 다양한 데이터 소스를 연결하는 범용 프로토콜로, AI 모델의 성능과 활용도를 높이는 것을 목표로 함   
+- MCP의 주요 특징 ...</a></div><div class="topicinfo"><span id="tp19633">24</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote19633"></span> | <a href="topic?id=19633&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Manus - 사고와 행동을 연결하는 범용 AI 에이전트]]></title>
         <id>https://news.hada.io/topic?id=19632&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19632&amp;go=comments"/>
         <updated>2025-03-08T06:17:38.040Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote19632"><a class="upvote" href="javascript:vote(19632, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://manus.im/" rel="nofollow" id="tr11"><h1>Manus - 사고와 행동을 연결하는 범용 AI 에이전트</h1></a> <span class="topicurl">(manus.im)</span></div><div class="topicdesc"><a href="topic?id=19632" class="c99 breakall">- 문제를 분석하고 작업을 수행해서 결과를 만들어내는 **자동화된 에이전트**  
+        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote19632"><a class="upvote" href="javascript:vote(19632, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://manus.im/" rel="nofollow" id="tr12"><h1>Manus - 사고와 행동을 연결하는 범용 AI 에이전트</h1></a> <span class="topicurl">(manus.im)</span></div><div class="topicdesc"><a href="topic?id=19632" class="c99 breakall">- 문제를 분석하고 작업을 수행해서 결과를 만들어내는 **자동화된 에이전트**  
 - 작동 예제  
   - **이력서 스크리닝** : zip으로 압축된 이력...</a></div><div class="topicinfo"><span id="tp19632">18</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19632"></span> | <a href="topic?id=19632&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
@@ -105,7 +114,7 @@ until은 누구나 노션처럼 쉽게 블로그를 만들고 운영할 수 있�
         <id>https://news.hada.io/topic?id=19621&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19621&amp;go=comments"/>
         <updated>2025-03-08T00:58:49.051Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote19621"><a class="upvote" href="javascript:vote(19621, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.veyrax.com/mcp" rel="nofollow" id="tr12"><h1>VeyraX MCP - 1개의 연결로 모든 MCP들을 연결하기</h1></a> <span class="topicurl">(veyrax.com)</span></div><div class="topicdesc"><a href="topic?id=19621" class="c99 breakall">- MCP-호환 환경에 각종 서비스들을 모두 연결해주는 도구  
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote19621"><a class="upvote" href="javascript:vote(19621, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.veyrax.com/mcp" rel="nofollow" id="tr13"><h1>VeyraX MCP - 1개의 연결로 모든 MCP들을 연결하기</h1></a> <span class="topicurl">(veyrax.com)</span></div><div class="topicdesc"><a href="topic?id=19621" class="c99 breakall">- MCP-호환 환경에 각종 서비스들을 모두 연결해주는 도구  
 - Cursor/Claude/VS Code/Windsurf 등에 VeyraX에 연결된 20+개의 도구와 100+개의 ...</a></div><div class="topicinfo"><span id="tp19621">7</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19621"></span> | <a href="topic?id=19621&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -113,21 +122,21 @@ until은 누구나 노션처럼 쉽게 블로그를 만들고 운영할 수 있�
         <id>https://news.hada.io/topic?id=19620&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19620&amp;go=comments"/>
         <updated>2025-03-07T13:22:51.233Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote19620"><a class="upvote" href="javascript:vote(19620, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://rxdb.info/articles/local-first-future.html" rel="nofollow" id="tr13"><h1>로컬 우선(Local-First) 소프트웨어가 미래인 이유와 그 한계점</h1></a> <span class="topicurl">(rxdb.info)</span></div><div class="topicdesc"><a href="topic?id=19620" class="c99 breakall">로컬 우선(Local-First) 소프트웨어는 사용자 데이터를 클라우드 서버가 아닌 사용자의 기기에 직접 저장하여 데이터 보안, 속도 향상 및 오프라인...</a></div><div class="topicinfo"><span id="tp19620">4</span> points by <a href="/user?id=kokolo">kokolo</a> 3일전<span id="unvote19620"></span> | <a href="topic?id=19620&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote19620"><a class="upvote" href="javascript:vote(19620, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://rxdb.info/articles/local-first-future.html" rel="nofollow" id="tr14"><h1>로컬 우선(Local-First) 소프트웨어가 미래인 이유와 그 한계점</h1></a> <span class="topicurl">(rxdb.info)</span></div><div class="topicdesc"><a href="topic?id=19620" class="c99 breakall">로컬 우선(Local-First) 소프트웨어는 사용자 데이터를 클라우드 서버가 아닌 사용자의 기기에 직접 저장하여 데이터 보안, 속도 향상 및 오프라인...</a></div><div class="topicinfo"><span id="tp19620">4</span> points by <a href="/user?id=kokolo">kokolo</a> 3일전<span id="unvote19620"></span> | <a href="topic?id=19620&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ezmcp - fastapi스타일로 간단하게 만드는 sse mcp 서버]]></title>
         <id>https://news.hada.io/topic?id=19619&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19619&amp;go=comments"/>
         <updated>2025-03-07T12:30:22.870Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote19619"><a class="upvote" href="javascript:vote(19619, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19619" rel="nofollow" id="tr14"><h1>Show GN: ezmcp - fastapi스타일로 간단하게 만드는 sse mcp 서버</h1></a> <span class="topicurl">(github.com/jujumilk3)</span></div><div class="topicdesc"><a href="topic?id=19619" class="c99 breakall">MCP 서버에 대해서 이리저리 알아보고 테스트해보고 구현해보는 와중에 stdio모드와 sse모드에서 진짜 잠재력은 sse에 있다고 생각해서 최대한 간...</a></div><div class="topicinfo"><span id="tp19619">7</span> points by <a href="/user?id=jujumilk3">jujumilk3</a> 3일전<span id="unvote19619"></span> | <a href="topic?id=19619&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19619"><a class="upvote" href="javascript:vote(19619, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19619" rel="nofollow" id="tr15"><h1>Show GN: ezmcp - fastapi스타일로 간단하게 만드는 sse mcp 서버</h1></a> <span class="topicurl">(github.com/jujumilk3)</span></div><div class="topicdesc"><a href="topic?id=19619" class="c99 breakall">MCP 서버에 대해서 이리저리 알아보고 테스트해보고 구현해보는 와중에 stdio모드와 sse모드에서 진짜 잠재력은 sse에 있다고 생각해서 최대한 간...</a></div><div class="topicinfo"><span id="tp19619">7</span> points by <a href="/user?id=jujumilk3">jujumilk3</a> 3일전<span id="unvote19619"></span> | <a href="topic?id=19619&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[M3 ultra 512G는 3090보다 조금 딸리는 정도]]></title>
         <id>https://news.hada.io/topic?id=19617&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19617&amp;go=comments"/>
         <updated>2025-03-07T05:16:09.453Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19617"><a class="upvote" href="javascript:vote(19617, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.reddit.com/r/LocalLLaMA/s/4N2rbiglZu" rel="nofollow" id="tr15"><h1>M3 ultra 512G는 3090보다 조금 딸리는 정도</h1></a> <span class="topicurl">(reddit.com)</span></div><div class="topicdesc"><a href="topic?id=19617" class="c99 breakall">M3 ultra 512G는 약간 열화된 3090정도인데,  
+        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote19617"><a class="upvote" href="javascript:vote(19617, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.reddit.com/r/LocalLLaMA/s/4N2rbiglZu" rel="nofollow" id="tr16"><h1>M3 ultra 512G는 3090보다 조금 딸리는 정도</h1></a> <span class="topicurl">(reddit.com)</span></div><div class="topicdesc"><a href="topic?id=19617" class="c99 breakall">M3 ultra 512G는 약간 열화된 3090정도인데,  
 메모리 대역을 고려해서  
 M4 ultra는 가격만 10k 언저리에 나오면 쓸만할지도…  
   
@@ -138,7 +147,7 @@ M4 ultra는 가격만 10k 언저리에 나오면 쓸만할지도…
         <id>https://news.hada.io/topic?id=19615&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19615&amp;go=comments"/>
         <updated>2025-03-07T03:25:55.929Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">16</div><div class="vote"><span id="vote19615"><a class="upvote" href="javascript:vote(19615, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/loopwork-ai/emcee" rel="nofollow" id="tr16"><h1>emcee - OpenAPI를 MCP로 변환해주는 도구</h1></a> <span class="topicurl">(github.com/loopwork-ai)</span></div><div class="topicdesc"><a href="topic?id=19615" class="c99 breakall">- OpenAPI 스펙으로 만들어진 서비스를 Model Context Protocol (MCP) 서버로 만들어 주는 도구   
+        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote19615"><a class="upvote" href="javascript:vote(19615, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/loopwork-ai/emcee" rel="nofollow" id="tr17"><h1>emcee - OpenAPI를 MCP로 변환해주는 도구</h1></a> <span class="topicurl">(github.com/loopwork-ai)</span></div><div class="topicdesc"><a href="topic?id=19615" class="c99 breakall">- OpenAPI 스펙으로 만들어진 서비스를 Model Context Protocol (MCP) 서버로 만들어 주는 도구   
 - 이를 통해 **Claude Desktop** 및 기타 MCP ...</a></div><div class="topicinfo"><span id="tp19615">7</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote19615"></span> | <a href="topic?id=19615&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -146,7 +155,7 @@ M4 ultra는 가격만 10k 언저리에 나오면 쓸만할지도…
         <id>https://news.hada.io/topic?id=19614&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19614&amp;go=comments"/>
         <updated>2025-03-07T02:53:58.837Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">17</div><div class="vote"><span id="vote19614"><a class="upvote" href="javascript:vote(19614, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/wanaku-ai/wanaku" rel="nofollow" id="tr17"><h1>Wanaku - 오픈소스 MCP 라우터</h1></a> <span class="topicurl">(github.com/wanaku-ai)</span></div><div class="topicdesc"><a href="topic?id=19614" class="c99 breakall">- Model Contenxt Protocol을 통해 AI 에이전트가 엔터프라이즈 시스템과 원활하게 통합될 수 있도록 지원  
+        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote19614"><a class="upvote" href="javascript:vote(19614, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/wanaku-ai/wanaku" rel="nofollow" id="tr18"><h1>Wanaku - 오픈소스 MCP 라우터</h1></a> <span class="topicurl">(github.com/wanaku-ai)</span></div><div class="topicdesc"><a href="topic?id=19614" class="c99 breakall">- Model Contenxt Protocol을 통해 AI 에이전트가 엔터프라이즈 시스템과 원활하게 통합될 수 있도록 지원  
 - MCP는 AI와 외부 데이터 소스를 연...</a></div><div class="topicinfo"><span id="tp19614">8</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote19614"></span> | <a href="topic?id=19614&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
@@ -154,7 +163,7 @@ M4 ultra는 가격만 10k 언저리에 나오면 쓸만할지도…
         <id>https://news.hada.io/topic?id=19613&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19613&amp;go=comments"/>
         <updated>2025-03-07T02:53:58.839Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">18</div><div class="vote"><span id="vote19613"><a class="upvote" href="javascript:vote(19613, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cbinsights.com/research/ai-agent-trends-to-watch-2025/" rel="nofollow" id="tr18"><h1>AI 에이전트의 다음 단계: 2025년 주목할 트렌드들</h1></a> <span class="topicurl">(cbinsights.com)</span></div><div class="topicdesc"><a href="topic?id=19613" class="c99 breakall">AI 에이전트는 **사용자를 대신해 복잡한 업무를 최소한의 개입으로 수행**하는 LLM 기반 시스템이며, 기업 활동에서 급격히 증가하고 있음  
+        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote19613"><a class="upvote" href="javascript:vote(19613, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.cbinsights.com/research/ai-agent-trends-to-watch-2025/" rel="nofollow" id="tr19"><h1>AI 에이전트의 다음 단계: 2025년 주목할 트렌드들</h1></a> <span class="topicurl">(cbinsights.com)</span></div><div class="topicdesc"><a href="topic?id=19613" class="c99 breakall">AI 에이전트는 **사용자를 대신해 복잡한 업무를 최소한의 개입으로 수행**하는 LLM 기반 시스템이며, 기업 활동에서 급격히 증가하고 있음  
 1. ...</a></div><div class="topicinfo"><span id="tp19613">9</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote19613"></span> | <a href="topic?id=19613&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
@@ -162,17 +171,8 @@ M4 ultra는 가격만 10k 언저리에 나오면 쓸만할지도…
         <id>https://news.hada.io/topic?id=19611&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19611&amp;go=comments"/>
         <updated>2025-03-07T02:53:58.843Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote19611"><a class="upvote" href="javascript:vote(19611, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19611" rel="nofollow" id="tr19"><h1>Show GN: Nash, 단일 HTML 로 동작하는 노트 </h1></a> <span class="topicurl">(keepworking.github.io)</span></div><div class="topicdesc"><a href="topic?id=19611" class="c99 breakall">이번에 만들게 된 작은 프로젝트를 소개 하고 싶어서 공유 드립니다.  
+        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote19611"><a class="upvote" href="javascript:vote(19611, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19611" rel="nofollow" id="tr20"><h1>Show GN: Nash, 단일 HTML 로 동작하는 노트 </h1></a> <span class="topicurl">(keepworking.github.io)</span></div><div class="topicdesc"><a href="topic?id=19611" class="c99 breakall">이번에 만들게 된 작은 프로젝트를 소개 하고 싶어서 공유 드립니다.  
   
 Nash 는 Note as HTML이라는 컨셉으로 단일 HTML 파일이 그 자체로 편...</a></div><div class="topicinfo"><span id="tp19611">23</span> points by <a href="/user?id=keepworking">keepworking</a> 3일전<span id="unvote19611"></span> | <a href="topic?id=19611&amp;go=comments" class="u">댓글 12개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chicory - JVM 네이티브 웹 어셈블리 런타임]]></title>
-        <id>https://news.hada.io/topic?id=19607&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19607&amp;go=comments"/>
-        <updated>2025-03-07T01:13:50.435Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">20</div><div class="vote"><span id="vote19607"><a class="upvote" href="javascript:vote(19607, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/dylibso/chicory" rel="nofollow" id="tr20"><h1>Chicory - JVM 네이티브 웹 어셈블리 런타임</h1></a> <span class="topicurl">(github.com/dylibso)</span></div><div class="topicdesc"><a href="topic?id=19607" class="c99 breakall">- 별도의 의존성 없이 순수 Java로 구현된 Wasm 런타임   
-  - JVM이 동작하는 어디서든 Wasm 모듈을 구동 가능   
-- 자신의 프로젝트 안에 간편...</a></div><div class="topicinfo"><span id="tp19607">6</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote19607"></span> | <a href="topic?id=19607&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
 </feed>
