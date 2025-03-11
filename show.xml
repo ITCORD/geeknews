@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-11T11:14:58.752Z</updated>
+    <updated>2025-03-11T12:32:47.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Agentica: 쉽고 빠르게 Agent 만들기]]></title>
+        <id>https://news.hada.io/topic?id=19689</id>
+        <link href="https://news.hada.io/topic?id=19689"/>
+        <updated>2025-03-11T12:32:25.301Z</updated>
+        <content type="html"><![CDATA[kakasoo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼]]></title>
         <id>https://news.hada.io/topic?id=19648</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19073"/>
         <updated>2025-02-05T06:21:18.252Z</updated>
         <content type="html"><![CDATA[sigridjineth]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 브라우저에서 생성형 AI를 로컬로 실행하는 크롬 익스텐션]]></title>
-        <id>https://news.hada.io/topic?id=19020</id>
-        <link href="https://news.hada.io/topic?id=19020"/>
-        <updated>2025-02-02T09:14:00.551Z</updated>
-        <content type="html"><![CDATA[tantara]]></content>
     </entry>
 </feed>
