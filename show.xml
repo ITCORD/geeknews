@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-14T07:16:47.136Z</updated>
+    <updated>2025-03-14T08:20:58.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=19752"/>
         <updated>2025-03-14T05:15:44.759Z</updated>
         <content type="html"><![CDATA[benjamin]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: YouTube 질문하기 - 크롬 익스텐션]]></title>
+        <id>https://news.hada.io/topic?id=19753</id>
+        <link href="https://news.hada.io/topic?id=19753"/>
+        <updated>2025-03-14T08:20:38.746Z</updated>
+        <content type="html"><![CDATA[muik13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: DeepStrictTypes: 복잡한 TypeScript 타입을 더욱 쉽게 다루기]]></title>
@@ -48,13 +55,6 @@
         <content type="html"><![CDATA[seongminp]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 스마트한 북마크 관리 서비스]]></title>
-        <id>https://news.hada.io/topic?id=19711</id>
-        <link href="https://news.hada.io/topic?id=19711"/>
-        <updated>2025-03-12T12:32:17.064Z</updated>
-        <content type="html"><![CDATA[windbug99]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 텍스트 이모지를 간편하고 빠르게 만들 수 있는 정적웹]]></title>
         <id>https://news.hada.io/topic?id=19667</id>
         <link href="https://news.hada.io/topic?id=19667"/>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[jujumilk3]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 스마트 쇼핑 – 복잡한 할인 계산을 간편하게]]></title>
-        <id>https://news.hada.io/topic?id=19690</id>
-        <link href="https://news.hada.io/topic?id=19690"/>
-        <updated>2025-03-12T01:13:23.815Z</updated>
-        <content type="html"><![CDATA[imjuni]]></content>
+        <title type="html"><![CDATA[Show GN: 스마트한 북마크 관리 서비스]]></title>
+        <id>https://news.hada.io/topic?id=19711</id>
+        <link href="https://news.hada.io/topic?id=19711"/>
+        <updated>2025-03-12T12:32:17.064Z</updated>
+        <content type="html"><![CDATA[windbug99]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: LLM-free 웹 크롤링 : web-content-extractor]]></title>
@@ -74,6 +74,13 @@
         <link href="https://news.hada.io/topic?id=19560"/>
         <updated>2025-03-04T10:18:04.378Z</updated>
         <content type="html"><![CDATA[sunrabbit]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 스마트 쇼핑 – 복잡한 할인 계산을 간편하게]]></title>
+        <id>https://news.hada.io/topic?id=19690</id>
+        <link href="https://news.hada.io/topic?id=19690"/>
+        <updated>2025-03-12T01:13:23.815Z</updated>
+        <content type="html"><![CDATA[imjuni]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ezmcp - fastapi스타일로 간단하게 만드는 sse mcp 서버]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19089"/>
         <updated>2025-02-06T02:44:23.540Z</updated>
         <content type="html"><![CDATA[hongminhee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 매일 아침 받아보는 미국 주식 리포트 - SuperInvesting]]></title>
-        <id>https://news.hada.io/topic?id=19035</id>
-        <link href="https://news.hada.io/topic?id=19035"/>
-        <updated>2025-02-03T03:20:10.341Z</updated>
-        <content type="html"><![CDATA[jayhanx]]></content>
     </entry>
 </feed>
