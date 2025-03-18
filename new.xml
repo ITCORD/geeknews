@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2025-03-18T02:57:33.011Z</updated>
+    <updated>2025-03-18T03:29:42.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2025-03-18T02:57:03.774Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19817"><a class="upvote" href="javascript:vote(19817, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/atkrad/wait4x" rel="nofollow" id="tr1"><h1>Wait4X - 서비스가 준비될 때까지 기다려주는 경량 도구</h1></a> <span class="topicurl">(github.com/atkrad)</span></div><div class="topicdesc"><a href="topic?id=19817" class="c99 breakall">- 강력하고 의존성 없는 크로스플랫폼 서비스 대기 툴  
 - TCP/HTTP/DNS를 지원하며, Redis/MySQL/Postgres/RabbitMQ 등의 서비스를 통합   
-- ...</a></div><div class="topicinfo"><span id="tp19817">1</span> point by <a href="/user?id=xguru">xguru</a> 26분전<span id="unvote19817"></span> | <a href="topic?id=19817&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+- ...</a></div><div class="topicinfo"><span id="tp19817">1</span> point by <a href="/user?id=xguru">xguru</a> 58분전<span id="unvote19817"></span> | <a href="topic?id=19817&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새로운 출발을 준비할 때 읽어볼 100권의 책]]></title>
@@ -22,7 +22,7 @@
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote19809"><a class="upvote" href="javascript:vote(19809, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://blog.toss.im/article/10to100-library" rel="nofollow" id="tr2"><h1>새로운 출발을 준비할 때 읽어볼 100권의 책</h1></a> <span class="topicurl">(blog.toss.im)</span></div><div class="topicdesc"><a href="topic?id=19809" class="c99 breakall">토스의 토크 세션 연사들이 추천한 책 리스트  
 - 1. 테드 창의 《숨》  
 - 2. 에릭 리스의 《린 스타트업》  
-- 3. 랜디 코미사의 《승려와 수...</a></div><div class="topicinfo"><span id="tp19809">10</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote19809"></span> | <a href="topic?id=19809&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+- 3. 랜디 코미사의 《승려와 수...</a></div><div class="topicinfo"><span id="tp19809">11</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote19809"></span> | <a href="topic?id=19809&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서비스의 성능 분석하기 1편: 성능 평가의 기본 개념]]></title>
@@ -33,7 +33,7 @@
 서비스가 성능 요구사항을 충족하는지 확인하고 개선할 부분을 찾는 과정.  
   
 - 성능 평가의 핵심 지표  
-    - Throughpu...</a></div><div class="topicinfo"><span id="tp19808">4</span> points by <a href="/user?id=chuckolet">chuckolet</a> 18시간전<span id="unvote19808"></span> | <a href="topic?id=19808&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+    - Throughpu...</a></div><div class="topicinfo"><span id="tp19808">5</span> points by <a href="/user?id=chuckolet">chuckolet</a> 18시간전<span id="unvote19808"></span> | <a href="topic?id=19808&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: C#에서 런타임 오버헤드를 최소화하며 가독성있는 HasFlag 코드 작성하기]]></title>
@@ -41,7 +41,7 @@
         <link href="https://news.hada.io/topic?id=19806&amp;go=comments"/>
         <updated>2025-03-17T06:23:48.173Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19806"><a class="upvote" href="javascript:vote(19806, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19806" rel="nofollow" id="tr4"><h1>Show GN: C#에서 런타임 오버헤드를 최소화하며 가독성있는 HasFlag 코드 작성하기</h1></a> <span class="topicurl">(github.com/KBluePurple)</span></div><div class="topicdesc"><a href="topic?id=19806" class="c99 breakall"># 개발 배경  
-Unity 게임을 개발하거나 C#을 사용하며 기본 Enum의 FlagHasFlag 를 사용할 때마다 Boxing 으로 인해 가비지가 생성되는것을 쉽게...</a></div><div class="topicinfo"><span id="tp19806">2</span> points by <a href="/user?id=clash4970">clash4970</a> 21시간전<span id="unvote19806"></span> | <a href="topic?id=19806&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+Unity 게임을 개발하거나 C#을 사용하며 기본 Enum의 FlagHasFlag 를 사용할 때마다 Boxing 으로 인해 가비지가 생성되는것을 쉽게...</a></div><div class="topicinfo"><span id="tp19806">2</span> points by <a href="/user?id=clash4970">clash4970</a> 22시간전<span id="unvote19806"></span> | <a href="topic?id=19806&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플리케이션 개발 측면에서 본 Drizzle ORM 대 Kysely 비교]]></title>
@@ -99,7 +99,7 @@ Unity 게임을 개발하거나 C#을 사용하며 기본 Enum의 FlagHasFlag �
         <updated>2025-03-16T21:13:34.338Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote19784"><a class="upvote" href="javascript:vote(19784, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19784" rel="nofollow" id="tr11"><h1>Show GN: TrenDev - 오픈소스 트렌드 모아보기</h1></a> <span class="topicurl">(trendev.oursophy.com)</span></div><div class="topicdesc"><a href="topic?id=19784" class="c99 breakall">AI 오픈소스 repo들의 최신 트렌드와 데이터를 다양한 플랫폼(GitHub, Kaggle, Hugging Face 등)에서 통합하여 보여줍니다.  
   
-- 개발 동기:  ...</a></div><div class="topicinfo"><span id="tp19784">14</span> points by <a href="/user?id=hong112424">hong112424</a> 1일전<span id="unvote19784"></span> | <a href="topic?id=19784&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+- 개발 동기:  ...</a></div><div class="topicinfo"><span id="tp19784">15</span> points by <a href="/user?id=hong112424">hong112424</a> 1일전<span id="unvote19784"></span> | <a href="topic?id=19784&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 캐릭터 설정 배틀/랭킹 웹게임]]></title>
@@ -108,7 +108,7 @@ Unity 게임을 개발하거나 C#을 사용하며 기본 Enum의 FlagHasFlag �
         <updated>2025-03-16T04:18:46.180Z</updated>
         <content type="html"><![CDATA[<div class="votenum">12</div><div class="vote"><span id="vote19779"><a class="upvote" href="javascript:vote(19779, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19779" rel="nofollow" id="tr12"><h1>Show GN: 캐릭터 설정 배틀/랭킹 웹게임</h1></a> <span class="topicurl">(plan9.kr)</span></div><div class="topicdesc"><a href="topic?id=19779" class="c99 breakall">캐릭터 설정을 만들어 다른 사용자들이 만들 캐릭터와 대결하고 승패에 따라 랭킹이 정해지는 작은 웹게임을 만들어보았습니다.   
   
-react, su...</a></div><div class="topicinfo"><span id="tp19779">11</span> points by <a href="/user?id=sungchi">sungchi</a> 2일전<span id="unvote19779"></span> | <a href="topic?id=19779&amp;go=comments" class="u">댓글 13개</a></div>]]></content>
+react, su...</a></div><div class="topicinfo"><span id="tp19779">12</span> points by <a href="/user?id=sungchi">sungchi</a> 2일전<span id="unvote19779"></span> | <a href="topic?id=19779&amp;go=comments" class="u">댓글 13개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[It’s Not As Simple As “Use A Memory Safe Language"]]></title>
