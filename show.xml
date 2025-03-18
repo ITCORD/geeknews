@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-18T05:17:01.797Z</updated>
+    <updated>2025-03-18T06:23:35.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: kubegraph: 실시간 Kubernetes 시각화 툴]]></title>
+        <id>https://news.hada.io/topic?id=19820</id>
+        <link href="https://news.hada.io/topic?id=19820"/>
+        <updated>2025-03-18T06:23:13.234Z</updated>
+        <content type="html"><![CDATA[kuber]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 커스텀 웨딩 캐릭터 만들기]]></title>
         <id>https://news.hada.io/topic?id=19804</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19690"/>
         <updated>2025-03-12T01:13:23.815Z</updated>
         <content type="html"><![CDATA[imjuni]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록]]></title>
-        <id>https://news.hada.io/topic?id=19230</id>
-        <link href="https://news.hada.io/topic?id=19230"/>
-        <updated>2025-02-14T06:21:04.945Z</updated>
-        <content type="html"><![CDATA[nemorize]]></content>
     </entry>
 </feed>
