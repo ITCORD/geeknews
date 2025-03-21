@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-21T14:15:50.818Z</updated>
+    <updated>2025-03-21T15:18:16.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: AI로 번역한 앵귤러 공식 문서]]></title>
+        <id>https://news.hada.io/topic?id=19881</id>
+        <link href="https://news.hada.io/topic?id=19881"/>
+        <updated>2025-03-21T15:17:56.730Z</updated>
+        <content type="html"><![CDATA[parallelkim12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 커스텀 웨딩 캐릭터 만들기]]></title>
         <id>https://news.hada.io/topic?id=19804</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19230"/>
         <updated>2025-03-19T01:14:36.064Z</updated>
         <content type="html"><![CDATA[nemorize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 자동 회의록 작성 서비스]]></title>
-        <id>https://news.hada.io/topic?id=19708</id>
-        <link href="https://news.hada.io/topic?id=19708"/>
-        <updated>2025-03-12T05:16:16.964Z</updated>
-        <content type="html"><![CDATA[seongminp]]></content>
     </entry>
 </feed>
