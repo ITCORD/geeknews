@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-22T18:20:26.408Z</updated>
+    <updated>2025-03-22T19:13:14.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: oopy 노션 블로그: floating table of contents 커스텀 플러그인]]></title>
+        <id>https://news.hada.io/topic?id=19893</id>
+        <link href="https://news.hada.io/topic?id=19893"/>
+        <updated>2025-03-22T19:12:54.431Z</updated>
+        <content type="html"><![CDATA[guseod24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: AI로 번역한 앵귤러 공식 문서]]></title>
         <id>https://news.hada.io/topic?id=19881</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19512"/>
         <updated>2025-03-01T03:28:42.812Z</updated>
         <content type="html"><![CDATA[bbyond]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: ezmcp - fastapi스타일로 간단하게 만드는 sse mcp 서버]]></title>
-        <id>https://news.hada.io/topic?id=19619</id>
-        <link href="https://news.hada.io/topic?id=19619"/>
-        <updated>2025-03-07T12:30:31.740Z</updated>
-        <content type="html"><![CDATA[jujumilk3]]></content>
     </entry>
 </feed>
