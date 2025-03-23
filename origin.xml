@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인 원문</title>
-    <updated>2025-03-23T19:14:58.546Z</updated>
+    <updated>2025-03-23T20:16:31.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://github.com/konvajs/konva"/>
         <updated>2025-03-23T01:18:59.411Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19898"><a class="upvote" href="javascript:vote(19898, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/konvajs/konva" rel="nofollow" id="tr1"><h1>Konva.js - JavaScript Canvas 2D 라이브러리</h1></a> <span class="topicurl">(github.com/konvajs)</span></div><div class="topicdesc"><a href="topic?id=19898" class="c99 breakall">- HTML5 Canvas 기반의 JavaScript 프레임워크로 고성능 애니메이션, 트랜지션, 노드 중첩, 레이어링, 필터링, 캐싱, 이벤트 처리 등을 지원  
-- ...</a></div><div class="topicinfo"><span id="tp19898">11</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote19898"></span> | <a href="topic?id=19898&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+- ...</a></div><div class="topicinfo"><span id="tp19898">11</span> points by <a href="/user?id=xguru">xguru</a> 19시간전<span id="unvote19898"></span> | <a href="topic?id=19898&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: OS 개발에 관한 작은 책]]></title>
@@ -27,7 +27,7 @@
         <link href="https://github.com/Zouuup/landrun"/>
         <updated>2025-03-23T05:14:42.476Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19907"><a class="upvote" href="javascript:vote(19907, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Zouuup/landrun" rel="nofollow" id="tr3"><h1>GN⁺: Landrun - root나 컨테이너 없이 Landlock으로 모든 리눅스 프로세스 샌드박싱</h1></a> <span class="topicurl">(github.com/Zouuup)</span></div><div class="topicdesc"><a href="topic?id=19907" class="c99 breakall">- **Landlock LSM**을 사용해 리눅스 프로세스를 안전하게 실행하는 경량 샌드박스  
-- **Firejail**과 비슷하지만 커널 레벨 보안 및 최소한의 ...</a></div><div class="topicinfo"><span id="tp19907">8</span> points by <a href="/user?id=neo">neo</a> 16시간전<span id="unvote19907"></span> | <a href="topic?id=19907&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+- **Firejail**과 비슷하지만 커널 레벨 보안 및 최소한의 ...</a></div><div class="topicinfo"><span id="tp19907">8</span> points by <a href="/user?id=neo">neo</a> 17시간전<span id="unvote19907"></span> | <a href="topic?id=19907&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 스크립트에서는 긴 옵션을 사용합시다]]></title>
@@ -35,31 +35,21 @@
         <link href="https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html"/>
         <updated>2025-03-23T03:01:25.244Z</updated>
         <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19905"><a class="upvote" href="javascript:vote(19905, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html" rel="nofollow" id="tr4"><h1>GN⁺: 스크립트에서는 긴 옵션을 사용합시다</h1></a> <span class="topicurl">(matklad.github.io)</span></div><div class="topicdesc"><a href="topic?id=19905" class="c99 breakall">- 많은 명령줄 유틸리티는 짧은 형식 옵션(`-f`)과 긴 형식 옵션(`--force`)을 지원함  
-- 짧은 형식은 대화형 사용을 위한 것임, 스크립트에서는...</a></div><div class="topicinfo"><span id="tp19905">5</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote19905"></span> | <a href="topic?id=19905&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+- 짧은 형식은 대화형 사용을 위한 것임, 스크립트에서는...</a></div><div class="topicinfo"><span id="tp19905">5</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote19905"></span> | <a href="topic?id=19905&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: STPA - Google SRE의 새로운 장애 예방 방법 교육]]></title>
         <id>https://sre.google/stpa/teaching/</id>
         <link href="https://sre.google/stpa/teaching/"/>
         <updated>2025-03-23T03:01:25.229Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19901"><a class="upvote" href="javascript:vote(19901, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sre.google/stpa/teaching/" rel="nofollow" id="tr5"><h1>GN⁺: STPA - Google SRE의 새로운 장애 예방 방법 교육</h1></a> <span class="topicurl">(sre.google)</span></div><div class="topicdesc"><a href="topic?id=19901" class="c99 breakall">- **STPA(System Theoretic Process Analysis, 시스템 이론적 프로세스 분석)** 는 시스템 및 제어 이론을 기반으로 복잡한 시스템의 **제어-피드...</a></div><div class="topicinfo"><span id="tp19901">5</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote19901"></span> | <a href="topic?id=19901&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF만 던져주면 끝날줄 알았다 - GPTs RAG 적용 실패기]]></title>
-        <id>https://velog.io/@skynet/PDF%EB%A7%8C-%EB%8D%98%EC%A0%B8%EC%A3%BC%EB%A9%B4-%EB%81%9D%EB%82%A0%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-GPTs-RAG-%EC%A0%81%EC%9A%A9-%EC%8B%A4%ED%8C%A8%EA%B8%B0</id>
-        <link href="https://velog.io/@skynet/PDF%EB%A7%8C-%EB%8D%98%EC%A0%B8%EC%A3%BC%EB%A9%B4-%EB%81%9D%EB%82%A0%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-GPTs-RAG-%EC%A0%81%EC%9A%A9-%EC%8B%A4%ED%8C%A8%EA%B8%B0"/>
-        <updated>2025-03-23T16:17:52.699Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19908"><a class="upvote" href="javascript:vote(19908, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://velog.io/@skynet/PDF%EB%A7%8C-%EB%8D%98%EC%A0%B8%EC%A3%BC%EB%A9%B4-%EB%81%9D%EB%82%A0%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-GPTs-RAG-%EC%A0%81%EC%9A%A9-%EC%8B%A4%ED%8C%A8%EA%B8%B0" rel="nofollow" id="tr6"><h1>PDF만 던져주면 끝날줄 알았다 - GPTs RAG 적용 실패기</h1></a> <span class="topicurl">(velog.io)</span></div><div class="topicdesc"><a href="topic?id=19908" class="c99 breakall">## 불교 GPT 개발 배경  
-  
-- 불교 공부에 GPT를 활용하고자 했으나, 기본 성능은 기대 이하.  
-- PDF 자료 학습을 통해 답변 품질이 향상됨. ...</a></div><div class="topicinfo"><span id="tp19908">1</span> point by <a href="/user?id=computerphilosopher">computerphilosopher</a> 3시간전<span id="unvote19908"></span> | <a href="topic?id=19908&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19901"><a class="upvote" href="javascript:vote(19901, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sre.google/stpa/teaching/" rel="nofollow" id="tr5"><h1>GN⁺: STPA - Google SRE의 새로운 장애 예방 방법 교육</h1></a> <span class="topicurl">(sre.google)</span></div><div class="topicdesc"><a href="topic?id=19901" class="c99 breakall">- **STPA(System Theoretic Process Analysis, 시스템 이론적 프로세스 분석)** 는 시스템 및 제어 이론을 기반으로 복잡한 시스템의 **제어-피드...</a></div><div class="topicinfo"><span id="tp19901">5</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote19901"></span> | <a href="topic?id=19901&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lightpanda - AI와 자동화를 위한 헤드리스 브라우저]]></title>
         <id>https://github.com/lightpanda-io/browser</id>
         <link href="https://github.com/lightpanda-io/browser"/>
         <updated>2025-03-22T01:13:00.318Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote19890"><a class="upvote" href="javascript:vote(19890, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/lightpanda-io/browser" rel="nofollow" id="tr7"><h1>Lightpanda - AI와 자동화를 위한 헤드리스 브라우저</h1></a> <span class="topicurl">(github.com/lightpanda-io)</span></div><div class="topicdesc"><a href="topic?id=19890" class="c99 breakall">- AI 에이전트, LLM 훈련, 웹 스크래핑 및 테스트를 위한 오픈소스 헤드리스 브라우저  
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19890"><a class="upvote" href="javascript:vote(19890, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/lightpanda-io/browser" rel="nofollow" id="tr6"><h1>Lightpanda - AI와 자동화를 위한 헤드리스 브라우저</h1></a> <span class="topicurl">(github.com/lightpanda-io)</span></div><div class="topicdesc"><a href="topic?id=19890" class="c99 breakall">- AI 에이전트, LLM 훈련, 웹 스크래핑 및 테스트를 위한 오픈소스 헤드리스 브라우저  
   - 크롬보다 **9배 낮은 메모리 사용량**, **11배 빠른 ...</a></div><div class="topicinfo"><span id="tp19890">15</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19890"></span> | <a href="topic?id=19890&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
@@ -67,8 +57,18 @@
         <id>https://github.com/Devolutions/IronRDP</id>
         <link href="https://github.com/Devolutions/IronRDP"/>
         <updated>2025-03-22T02:53:42.572Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote19887"><a class="upvote" href="javascript:vote(19887, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Devolutions/IronRDP" rel="nofollow" id="tr8"><h1>GN⁺: IronRDP - Microsoft RDP(원격 데스크탑)의 Rust 구현체 </h1></a> <span class="topicurl">(github.com/Devolutions)</span></div><div class="topicdesc"><a href="topic?id=19887" class="c99 breakall">- Rust로 작성되어 안정적이고 성능이 강화된 **Microsoft Remote Desktop Protocol(RDP)** 구현  
+        <content type="html"><![CDATA[<div class="votenum">7</div><div class="vote"><span id="vote19887"><a class="upvote" href="javascript:vote(19887, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Devolutions/IronRDP" rel="nofollow" id="tr7"><h1>GN⁺: IronRDP - Microsoft RDP(원격 데스크탑)의 Rust 구현체 </h1></a> <span class="topicurl">(github.com/Devolutions)</span></div><div class="topicdesc"><a href="topic?id=19887" class="c99 breakall">- Rust로 작성되어 안정적이고 성능이 강화된 **Microsoft Remote Desktop Protocol(RDP)** 구현  
   - **보안**에 중점을 둔 고성능 오픈소스 라...</a></div><div class="topicinfo"><span id="tp19887">15</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote19887"></span> | <a href="topic?id=19887&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDF만 던져주면 끝날줄 알았다 - GPTs RAG 적용 실패기]]></title>
+        <id>https://velog.io/@skynet/PDF%EB%A7%8C-%EB%8D%98%EC%A0%B8%EC%A3%BC%EB%A9%B4-%EB%81%9D%EB%82%A0%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-GPTs-RAG-%EC%A0%81%EC%9A%A9-%EC%8B%A4%ED%8C%A8%EA%B8%B0</id>
+        <link href="https://velog.io/@skynet/PDF%EB%A7%8C-%EB%8D%98%EC%A0%B8%EC%A3%BC%EB%A9%B4-%EB%81%9D%EB%82%A0%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-GPTs-RAG-%EC%A0%81%EC%9A%A9-%EC%8B%A4%ED%8C%A8%EA%B8%B0"/>
+        <updated>2025-03-23T16:17:52.699Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">8</div><div class="vote"><span id="vote19908"><a class="upvote" href="javascript:vote(19908, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://velog.io/@skynet/PDF%EB%A7%8C-%EB%8D%98%EC%A0%B8%EC%A3%BC%EB%A9%B4-%EB%81%9D%EB%82%A0%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-GPTs-RAG-%EC%A0%81%EC%9A%A9-%EC%8B%A4%ED%8C%A8%EA%B8%B0" rel="nofollow" id="tr8"><h1>PDF만 던져주면 끝날줄 알았다 - GPTs RAG 적용 실패기</h1></a> <span class="topicurl">(velog.io)</span></div><div class="topicdesc"><a href="topic?id=19908" class="c99 breakall">## 불교 GPT 개발 배경  
+  
+- 불교 공부에 GPT를 활용하고자 했으나, 기본 성능은 기대 이하.  
+- PDF 자료 학습을 통해 답변 품질이 향상됨. ...</a></div><div class="topicinfo"><span id="tp19908">1</span> point by <a href="/user?id=computerphilosopher">computerphilosopher</a> 4시간전<span id="unvote19908"></span> | <a href="topic?id=19908&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NestJS에서 DB를 연동한 단위 테스트 환경 구축 공유 (Sociable Test)]]></title>
@@ -77,7 +77,7 @@
         <updated>2025-03-23T03:01:25.234Z</updated>
         <content type="html"><![CDATA[<div class="votenum">9</div><div class="vote"><span id="vote19906"><a class="upvote" href="javascript:vote(19906, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.borntodare.me/unit_test_improvement_nest_2" rel="nofollow" id="tr9"><h1>NestJS에서 DB를 연동한 단위 테스트 환경 구축 공유 (Sociable Test)</h1></a> <span class="topicurl">(borntodare.me)</span></div><div class="topicdesc"><a href="topic?id=19906" class="c99 breakall">### **1. 개요**  
 - Sociable Test(실제 DB 연동) 방식의 단위 테스트 구축 방법 공유  
-- TypeORM 같은 ORM은 타입 안전성 문제가 있어, 실제 ...</a></div><div class="topicinfo"><span id="tp19906">4</span> points by <a href="/user?id=tothefullest08">tothefullest08</a> 17시간전<span id="unvote19906"></span> | <a href="topic?id=19906&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+- TypeORM 같은 ORM은 타입 안전성 문제가 있어, 실제 ...</a></div><div class="topicinfo"><span id="tp19906">4</span> points by <a href="/user?id=tothefullest08">tothefullest08</a> 18시간전<span id="unvote19906"></span> | <a href="topic?id=19906&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Calibre 8.0 릴리즈 - e북 리더 & 관리자]]></title>
@@ -85,7 +85,7 @@
         <link href="https://calibre-ebook.com/whats-new"/>
         <updated>2025-03-23T01:18:59.412Z</updated>
         <content type="html"><![CDATA[<div class="votenum">10</div><div class="vote"><span id="vote19897"><a class="upvote" href="javascript:vote(19897, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://calibre-ebook.com/whats-new" rel="nofollow" id="tr10"><h1>GN⁺: Calibre 8.0 릴리즈 - e북 리더 &amp; 관리자 </h1></a> <span class="topicurl">(calibre-ebook.com)</span></div><div class="topicdesc"><a href="topic?id=19897" class="c99 breakall">- Calibre는 전자책 관리 및 변환을 위한 강력한 도구로, 다양한 장치 및 형식을 지원하며, 지속적인 업데이트를 통해 사용자 경험을 개선  
-- **...</a></div><div class="topicinfo"><span id="tp19897">4</span> points by <a href="/user?id=neo">neo</a> 18시간전<span id="unvote19897"></span> | <a href="topic?id=19897&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+- **...</a></div><div class="topicinfo"><span id="tp19897">4</span> points by <a href="/user?id=neo">neo</a> 19시간전<span id="unvote19897"></span> | <a href="topic?id=19897&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 2025년에 어떤 AI 모델을 선택해야 할까?]]></title>
