@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 메인</title>
-    <updated>2025-03-23T06:21:31.115Z</updated>
+    <updated>2025-03-23T07:14:49.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://news.hada.io/topic?id=19907&amp;go=comments"/>
         <updated>2025-03-23T05:14:37.819Z</updated>
         <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19907"><a class="upvote" href="javascript:vote(19907, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/Zouuup/landrun" rel="nofollow" id="tr1"><h1>GN⁺: Landrun - root나 컨테이너 없이 Landlock으로 모든 리눅스 프로세스 샌드박싱</h1></a> <span class="topicurl">(github.com/Zouuup)</span></div><div class="topicdesc"><a href="topic?id=19907" class="c99 breakall">- **Landlock LSM**을 사용해 리눅스 프로세스를 안전하게 실행하는 경량 샌드박스  
-- **Firejail**과 비슷하지만 커널 레벨 보안 및 최소한의 ...</a></div><div class="topicinfo"><span id="tp19907">4</span> points by <a href="/user?id=neo">neo</a> 3시간전<span id="unvote19907"></span> | <a href="topic?id=19907&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+- **Firejail**과 비슷하지만 커널 레벨 보안 및 최소한의 ...</a></div><div class="topicinfo"><span id="tp19907">6</span> points by <a href="/user?id=neo">neo</a> 4시간전<span id="unvote19907"></span> | <a href="topic?id=19907&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Konva.js - JavaScript Canvas 2D 라이브러리]]></title>
@@ -19,39 +19,39 @@
         <link href="https://news.hada.io/topic?id=19898&amp;go=comments"/>
         <updated>2025-03-23T01:18:55.046Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote19898"><a class="upvote" href="javascript:vote(19898, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/konvajs/konva" rel="nofollow" id="tr2"><h1>Konva.js - JavaScript Canvas 2D 라이브러리</h1></a> <span class="topicurl">(github.com/konvajs)</span></div><div class="topicdesc"><a href="topic?id=19898" class="c99 breakall">- HTML5 Canvas 기반의 JavaScript 프레임워크로 고성능 애니메이션, 트랜지션, 노드 중첩, 레이어링, 필터링, 캐싱, 이벤트 처리 등을 지원  
-- ...</a></div><div class="topicinfo"><span id="tp19898">4</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote19898"></span> | <a href="topic?id=19898&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NestJS에서 DB를 연동한 단위 테스트 환경 구축 공유 (Sociable Test)]]></title>
-        <id>https://news.hada.io/topic?id=19906&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19906&amp;go=comments"/>
-        <updated>2025-03-23T03:01:20.562Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19906"><a class="upvote" href="javascript:vote(19906, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.borntodare.me/unit_test_improvement_nest_2" rel="nofollow" id="tr3"><h1>NestJS에서 DB를 연동한 단위 테스트 환경 구축 공유 (Sociable Test)</h1></a> <span class="topicurl">(borntodare.me)</span></div><div class="topicdesc"><a href="topic?id=19906" class="c99 breakall">### **1. 개요**  
-- Sociable Test(실제 DB 연동) 방식의 단위 테스트 구축 방법 공유  
-- TypeORM 같은 ORM은 타입 안전성 문제가 있어, 실제 ...</a></div><div class="topicinfo"><span id="tp19906">3</span> points by <a href="/user?id=tothefullest08">tothefullest08</a> 4시간전<span id="unvote19906"></span> | <a href="topic?id=19906&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GN⁺: 스크립트에서는 긴 옵션을 사용합시다]]></title>
-        <id>https://news.hada.io/topic?id=19905&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19905&amp;go=comments"/>
-        <updated>2025-03-23T03:01:20.563Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19905"><a class="upvote" href="javascript:vote(19905, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html" rel="nofollow" id="tr4"><h1>GN⁺: 스크립트에서는 긴 옵션을 사용합시다</h1></a> <span class="topicurl">(matklad.github.io)</span></div><div class="topicdesc"><a href="topic?id=19905" class="c99 breakall">- 많은 명령줄 유틸리티는 짧은 형식 옵션(`-f`)과 긴 형식 옵션(`--force`)을 지원함  
-- 짧은 형식은 대화형 사용을 위한 것임, 스크립트에서는...</a></div><div class="topicinfo"><span id="tp19905">3</span> points by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote19905"></span> | <a href="topic?id=19905&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+- ...</a></div><div class="topicinfo"><span id="tp19898">5</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote19898"></span> | <a href="topic?id=19898&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: OS 개발에 관한 작은 책]]></title>
         <id>https://news.hada.io/topic?id=19891&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19891&amp;go=comments"/>
         <updated>2025-03-23T01:18:55.058Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19891"><a class="upvote" href="javascript:vote(19891, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://littleosbook.github.io/" rel="nofollow" id="tr5"><h1>GN⁺: OS 개발에 관한 작은 책</h1></a> <span class="topicurl">(littleosbook.github.io)</span></div><div class="topicdesc"><a href="topic?id=19891" class="c99 breakall">- x86 운영 체제를 직접 개발하는 방법에 대한 실용적인 가이드  
-- 기술적 세부 사항을 제공하면서도 코드 예제나 샘플을 통해 너무 많은 정보를...</a></div><div class="topicinfo"><span id="tp19891">14</span> points by <a href="/user?id=neo">neo</a> 22시간전<span id="unvote19891"></span> | <a href="topic?id=19891&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19891"><a class="upvote" href="javascript:vote(19891, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://littleosbook.github.io/" rel="nofollow" id="tr3"><h1>GN⁺: OS 개발에 관한 작은 책</h1></a> <span class="topicurl">(littleosbook.github.io)</span></div><div class="topicdesc"><a href="topic?id=19891" class="c99 breakall">- x86 운영 체제를 직접 개발하는 방법에 대한 실용적인 가이드  
+- 기술적 세부 사항을 제공하면서도 코드 예제나 샘플을 통해 너무 많은 정보를...</a></div><div class="topicinfo"><span id="tp19891">14</span> points by <a href="/user?id=neo">neo</a> 23시간전<span id="unvote19891"></span> | <a href="topic?id=19891&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NestJS에서 DB를 연동한 단위 테스트 환경 구축 공유 (Sociable Test)]]></title>
+        <id>https://news.hada.io/topic?id=19906&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19906&amp;go=comments"/>
+        <updated>2025-03-23T03:01:20.562Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19906"><a class="upvote" href="javascript:vote(19906, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.borntodare.me/unit_test_improvement_nest_2" rel="nofollow" id="tr4"><h1>NestJS에서 DB를 연동한 단위 테스트 환경 구축 공유 (Sociable Test)</h1></a> <span class="topicurl">(borntodare.me)</span></div><div class="topicdesc"><a href="topic?id=19906" class="c99 breakall">### **1. 개요**  
+- Sociable Test(실제 DB 연동) 방식의 단위 테스트 구축 방법 공유  
+- TypeORM 같은 ORM은 타입 안전성 문제가 있어, 실제 ...</a></div><div class="topicinfo"><span id="tp19906">3</span> points by <a href="/user?id=tothefullest08">tothefullest08</a> 5시간전<span id="unvote19906"></span> | <a href="topic?id=19906&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GN⁺: 스크립트에서는 긴 옵션을 사용합시다]]></title>
+        <id>https://news.hada.io/topic?id=19905&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19905&amp;go=comments"/>
+        <updated>2025-03-23T03:01:20.563Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19905"><a class="upvote" href="javascript:vote(19905, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html" rel="nofollow" id="tr5"><h1>GN⁺: 스크립트에서는 긴 옵션을 사용합시다</h1></a> <span class="topicurl">(matklad.github.io)</span></div><div class="topicdesc"><a href="topic?id=19905" class="c99 breakall">- 많은 명령줄 유틸리티는 짧은 형식 옵션(`-f`)과 긴 형식 옵션(`--force`)을 지원함  
+- 짧은 형식은 대화형 사용을 위한 것임, 스크립트에서는...</a></div><div class="topicinfo"><span id="tp19905">3</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote19905"></span> | <a href="topic?id=19905&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: STPA - Google SRE의 새로운 장애 예방 방법 교육]]></title>
         <id>https://news.hada.io/topic?id=19901&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19901&amp;go=comments"/>
         <updated>2025-03-23T03:01:20.556Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19901"><a class="upvote" href="javascript:vote(19901, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sre.google/stpa/teaching/" rel="nofollow" id="tr6"><h1>GN⁺: STPA - Google SRE의 새로운 장애 예방 방법 교육</h1></a> <span class="topicurl">(sre.google)</span></div><div class="topicdesc"><a href="topic?id=19901" class="c99 breakall">- **STPA(System Theoretic Process Analysis, 시스템 이론적 프로세스 분석)** 는 시스템 및 제어 이론을 기반으로 복잡한 시스템의 **제어-피드...</a></div><div class="topicinfo"><span id="tp19901">3</span> points by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote19901"></span> | <a href="topic?id=19901&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">6</div><div class="vote"><span id="vote19901"><a class="upvote" href="javascript:vote(19901, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://sre.google/stpa/teaching/" rel="nofollow" id="tr6"><h1>GN⁺: STPA - Google SRE의 새로운 장애 예방 방법 교육</h1></a> <span class="topicurl">(sre.google)</span></div><div class="topicdesc"><a href="topic?id=19901" class="c99 breakall">- **STPA(System Theoretic Process Analysis, 시스템 이론적 프로세스 분석)** 는 시스템 및 제어 이론을 기반으로 복잡한 시스템의 **제어-피드...</a></div><div class="topicinfo"><span id="tp19901">3</span> points by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote19901"></span> | <a href="topic?id=19901&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: Calibre 8.0 릴리즈 - e북 리더 & 관리자]]></title>
@@ -86,7 +86,7 @@
   
 [특징]  
   
-1. notion에서 우측에 뜨는 floating table of con...</a></div><div class="topicinfo"><span id="tp19893">3</span> points by <a href="/user?id=guseod24">guseod24</a> 12시간전<span id="unvote19893"></span> | <a href="topic?id=19893&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+1. notion에서 우측에 뜨는 floating table of con...</a></div><div class="topicinfo"><span id="tp19893">3</span> points by <a href="/user?id=guseod24">guseod24</a> 13시간전<span id="unvote19893"></span> | <a href="topic?id=19893&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 2025년에 어떤 AI 모델을 선택해야 할까?]]></title>
@@ -107,12 +107,13 @@
   - 해당 분야에...</a></div><div class="topicinfo"><span id="tp19885">8</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote19885"></span> | <a href="topic?id=19885&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: 텐센트 Hunyuan-T1 - 최초의 Mamba 아키텍처 기반 초대형 모델]]></title>
-        <id>https://news.hada.io/topic?id=19904&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19904&amp;go=comments"/>
-        <updated>2025-03-23T03:01:20.563Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote19904"><a class="upvote" href="javascript:vote(19904, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en" rel="nofollow" id="tr13"><h1>GN⁺: 텐센트 Hunyuan-T1 - 최초의 Mamba 아키텍처 기반 초대형 모델</h1></a> <span class="topicurl">(llm.hunyuan.tencent.com)</span></div><div class="topicdesc"><a href="topic?id=19904" class="c99 breakall">- Hunyuan-T1은 TurboS 기반의 초대형 Hybrid-Transformer-Mamba MoE 모델  
-- 대규모 후처리 학습을 통해 인간의 선호도에 맞춰 추론 능력을 확...</a></div><div class="topicinfo"><span id="tp19904">1</span> point by <a href="/user?id=neo">neo</a> 5시간전<span id="unvote19904"></span> | <a href="topic?id=19904&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: 번아웃 머신]]></title>
+        <id>https://news.hada.io/topic?id=19866&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19866&amp;go=comments"/>
+        <updated>2025-03-21T02:56:57.690Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">13</div><div class="vote"><span id="vote19866"><a class="upvote" href="javascript:vote(19866, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://unionize.fyi" rel="nofollow" id="tr13"><h1>GN⁺: 번아웃 머신</h1></a> <span class="topicurl">(unionize.fyi)</span></div><div class="topicdesc"><a href="topic?id=19866" class="c99 breakall">- 기술 업계는 "**꿈의 직장**"이라는 신화를 팔아넘김  
+  - 사무실의 빈백, 무료 음료수, "애자일" 프로세스 등으로 유혹  
+  - 실제로는 개발...</a></div><div class="topicinfo"><span id="tp19866">17</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote19866"></span> | <a href="topic?id=19866&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GN⁺: 프랑스, 백도어 요구 법안 거부 – 암호화의 승리]]></title>
@@ -123,13 +124,12 @@
 - 이 법안은 마약 밀매와의 싸움을 명분으로 제안되었으나 **...</a></div><div class="topicinfo"><span id="tp19886">7</span> points by <a href="/user?id=neo">neo</a> 1일전<span id="unvote19886"></span> | <a href="topic?id=19886&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GN⁺: 번아웃 머신]]></title>
-        <id>https://news.hada.io/topic?id=19866&amp;go=comments</id>
-        <link href="https://news.hada.io/topic?id=19866&amp;go=comments"/>
-        <updated>2025-03-21T02:56:57.690Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19866"><a class="upvote" href="javascript:vote(19866, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://unionize.fyi" rel="nofollow" id="tr15"><h1>GN⁺: 번아웃 머신</h1></a> <span class="topicurl">(unionize.fyi)</span></div><div class="topicdesc"><a href="topic?id=19866" class="c99 breakall">- 기술 업계는 "**꿈의 직장**"이라는 신화를 팔아넘김  
-  - 사무실의 빈백, 무료 음료수, "애자일" 프로세스 등으로 유혹  
-  - 실제로는 개발...</a></div><div class="topicinfo"><span id="tp19866">17</span> points by <a href="/user?id=neo">neo</a> 2일전<span id="unvote19866"></span> | <a href="topic?id=19866&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+        <title type="html"><![CDATA[GN⁺: 텐센트 Hunyuan-T1 - 최초의 Mamba 아키텍처 기반 초대형 모델]]></title>
+        <id>https://news.hada.io/topic?id=19904&amp;go=comments</id>
+        <link href="https://news.hada.io/topic?id=19904&amp;go=comments"/>
+        <updated>2025-03-23T03:01:20.563Z</updated>
+        <content type="html"><![CDATA[<div class="votenum">15</div><div class="vote"><span id="vote19904"><a class="upvote" href="javascript:vote(19904, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en" rel="nofollow" id="tr15"><h1>GN⁺: 텐센트 Hunyuan-T1 - 최초의 Mamba 아키텍처 기반 초대형 모델</h1></a> <span class="topicurl">(llm.hunyuan.tencent.com)</span></div><div class="topicdesc"><a href="topic?id=19904" class="c99 breakall">- Hunyuan-T1은 TurboS 기반의 초대형 Hybrid-Transformer-Mamba MoE 모델  
+- 대규모 후처리 학습을 통해 인간의 선호도에 맞춰 추론 능력을 확...</a></div><div class="topicinfo"><span id="tp19904">1</span> point by <a href="/user?id=neo">neo</a> 6시간전<span id="unvote19904"></span> | <a href="topic?id=19904&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독립(Indie) 앱 비즈니스에 대한 몇 가지 조언]]></title>
