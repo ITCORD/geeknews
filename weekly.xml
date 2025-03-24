@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews ─ Weekly</title>
-    <updated>2025-03-23T23:15:10.880Z</updated>
+    <updated>2025-03-24T01:18:03.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신의 오픈소스를 유명하게 만드는 방법]]></title>
+        <id>https://news.hada.io/weekly/202512</id>
+        <link href="https://news.hada.io/weekly/202512"/>
+        <updated>2025-03-24T01:17:52.657Z</updated>
+        <content type="html"><![CDATA[<a href="/weekly/202512" class="u"> 당신의 오픈소스를 유명하게 만드는 방법</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좋은 엔지니어 되기]]></title>
         <id>https://news.hada.io/weekly/202511</id>
@@ -67,12 +74,5 @@
         <link href="https://news.hada.io/weekly/202503"/>
         <updated>2025-02-24T21:14:16.620Z</updated>
         <content type="html"><![CDATA[<a href="/weekly/202503" class="u"> AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM과 함께 프로그래밍 하는 방법]]></title>
-        <id>https://news.hada.io/weekly/202502</id>
-        <link href="https://news.hada.io/weekly/202502"/>
-        <updated>2025-02-24T21:14:16.621Z</updated>
-        <content type="html"><![CDATA[<a href="/weekly/202502" class="u"> LLM과 함께 프로그래밍 하는 방법</a>]]></content>
     </entry>
 </feed>

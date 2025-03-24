@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-23T23:15:10.867Z</updated>
+    <updated>2025-03-24T01:18:03.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 세로토닌: 마음을 위한 AI]]></title>
+        <id>https://news.hada.io/topic?id=19917</id>
+        <link href="https://news.hada.io/topic?id=19917"/>
+        <updated>2025-03-24T01:17:42.795Z</updated>
+        <content type="html"><![CDATA[luckydaun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: oopy 노션 블로그: floating table of contents 커스텀 플러그인]]></title>
         <id>https://news.hada.io/topic?id=19893</id>
@@ -13,18 +20,18 @@
         <content type="html"><![CDATA[guseod24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 커스텀 웨딩 캐릭터 만들기]]></title>
-        <id>https://news.hada.io/topic?id=19804</id>
-        <link href="https://news.hada.io/topic?id=19804"/>
-        <updated>2025-03-17T04:20:36.205Z</updated>
-        <content type="html"><![CDATA[laeyoung]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: AI로 번역한 앵귤러 공식 문서]]></title>
         <id>https://news.hada.io/topic?id=19881</id>
         <link href="https://news.hada.io/topic?id=19881"/>
         <updated>2025-03-21T15:17:56.730Z</updated>
         <content type="html"><![CDATA[parallelkim12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 커스텀 웨딩 캐릭터 만들기]]></title>
+        <id>https://news.hada.io/topic?id=19804</id>
+        <link href="https://news.hada.io/topic?id=19804"/>
+        <updated>2025-03-17T04:20:36.205Z</updated>
+        <content type="html"><![CDATA[laeyoung]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: TrenDev - 오픈소스 트렌드 모아보기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19230"/>
         <updated>2025-03-19T01:14:36.064Z</updated>
         <content type="html"><![CDATA[nemorize]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: [유튜브 강의 정리] 안드레 카파시 - Deep Dive into LLMs like ChatGPT]]></title>
-        <id>https://news.hada.io/topic?id=19512</id>
-        <link href="https://news.hada.io/topic?id=19512"/>
-        <updated>2025-03-01T03:28:42.812Z</updated>
-        <content type="html"><![CDATA[bbyond]]></content>
     </entry>
 </feed>
