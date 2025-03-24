@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-24T01:18:03.712Z</updated>
+    <updated>2025-03-24T03:01:57.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Laravel AI Translator: 더 강력해진 라라벨 기반 (혹은 Crowdin) 프로덕트의 AI 번역 시스템]]></title>
+        <id>https://news.hada.io/topic?id=19926</id>
+        <link href="https://news.hada.io/topic?id=19926"/>
+        <updated>2025-03-24T03:01:35.470Z</updated>
+        <content type="html"><![CDATA[kargnas]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 세로토닌: 마음을 위한 AI]]></title>
         <id>https://news.hada.io/topic?id=19917</id>
@@ -97,18 +104,18 @@
         <content type="html"><![CDATA[shlee0605]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: YouTube 질문하기 - 크롬 익스텐션]]></title>
-        <id>https://news.hada.io/topic?id=19753</id>
-        <link href="https://news.hada.io/topic?id=19753"/>
-        <updated>2025-03-14T08:20:38.746Z</updated>
-        <content type="html"><![CDATA[muik13]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: LLM-free 웹 크롤링 : web-content-extractor]]></title>
         <id>https://news.hada.io/topic?id=19560</id>
         <link href="https://news.hada.io/topic?id=19560"/>
         <updated>2025-03-04T10:18:04.378Z</updated>
         <content type="html"><![CDATA[sunrabbit]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: YouTube 질문하기 - 크롬 익스텐션]]></title>
+        <id>https://news.hada.io/topic?id=19753</id>
+        <link href="https://news.hada.io/topic?id=19753"/>
+        <updated>2025-03-14T08:20:38.746Z</updated>
+        <content type="html"><![CDATA[muik13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: VSCode extension: Open Storybook – 원하는 Storybook만 빠르게 실행하기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19579"/>
         <updated>2025-03-05T10:18:11.841Z</updated>
         <content type="html"><![CDATA[kan02134]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록]]></title>
-        <id>https://news.hada.io/topic?id=19230</id>
-        <link href="https://news.hada.io/topic?id=19230"/>
-        <updated>2025-03-19T01:14:36.064Z</updated>
-        <content type="html"><![CDATA[nemorize]]></content>
     </entry>
 </feed>
