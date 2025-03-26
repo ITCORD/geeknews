@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2025-03-26T06:23:05.216Z</updated>
+    <updated>2025-03-26T07:17:08.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://news.hada.io/topic?id=19971&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19971&amp;go=comments"/>
         <updated>2025-03-26T04:19:36.173Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19971"><a class="upvote" href="javascript:vote(19971, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lamport.azurewebsites.net/tla/tla.html" rel="nofollow" id="tr1"><h1>TLA+ - 프로그램 및 동시/분산 시스템을 모델링하기 위한 고급 언어</h1></a> <span class="topicurl">(lamport.azurewebsites.net)</span></div><div class="topicdesc"><a href="topic?id=19971" class="c99 breakall">- TLA+는 코드 수준이 아닌 상위 수준에서 **소프트웨어를 모델링**하고, 회로 수준이 아닌 상위 수준에서 **하드웨어를 모델링**하기 위한 **언어...</a></div><div class="topicinfo"><span id="tp19971">4</span> points by <a href="/user?id=xguru">xguru</a> 3시간전<span id="unvote19971"></span> | <a href="topic?id=19971&amp;go=comments" class="u">댓글 2개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">1</div><div class="vote"><span id="vote19971"><a class="upvote" href="javascript:vote(19971, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://lamport.azurewebsites.net/tla/tla.html" rel="nofollow" id="tr1"><h1>TLA+ - 프로그램 및 동시/분산 시스템을 모델링하기 위한 고급 언어</h1></a> <span class="topicurl">(lamport.azurewebsites.net)</span></div><div class="topicdesc"><a href="topic?id=19971" class="c99 breakall">- TLA+는 코드 수준이 아닌 상위 수준에서 **소프트웨어를 모델링**하고, 회로 수준이 아닌 상위 수준에서 **하드웨어를 모델링**하기 위한 **언어...</a></div><div class="topicinfo"><span id="tp19971">5</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote19971"></span> | <a href="topic?id=19971&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Crabtime - Zig의 Comptime을 Rust에서 사용합시다]]></title>
@@ -18,7 +18,7 @@
         <link href="https://news.hada.io/topic?id=19967&amp;go=comments"/>
         <updated>2025-03-26T01:14:44.277Z</updated>
         <content type="html"><![CDATA[<div class="votenum">2</div><div class="vote"><span id="vote19967"><a class="upvote" href="javascript:vote(19967, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://crates.io/crates/crabtime" rel="nofollow" id="tr2"><h1>Crabtime - Zig의 Comptime을 Rust에서 사용합시다</h1></a> <span class="topicurl">(crates.io)</span></div><div class="topicdesc"><a href="topic?id=19967" class="c99 breakall">- **컴파일 타임**에 인라인 Rust 로직을 평가하여 **새로운 코드를 생성하여 추가**해주는 매크로   
-- Procedural 매크로보다 더 많은 유연성과...</a></div><div class="topicinfo"><span id="tp19967">4</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote19967"></span> | <a href="topic?id=19967&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+- Procedural 매크로보다 더 많은 유연성과...</a></div><div class="topicinfo"><span id="tp19967">4</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote19967"></span> | <a href="topic?id=19967&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[argp - Go용 GNU 스타일 커맨드라인 인자 파서]]></title>
@@ -27,21 +27,21 @@
         <updated>2025-03-26T01:14:44.277Z</updated>
         <content type="html"><![CDATA[<div class="votenum">3</div><div class="vote"><span id="vote19959"><a class="upvote" href="javascript:vote(19959, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://github.com/tdewolff/argp" rel="nofollow" id="tr3"><h1>argp - Go용 GNU 스타일 커맨드라인 인자 파서</h1></a> <span class="topicurl">(github.com/tdewolff)</span></div><div class="topicdesc"><a href="topic?id=19959" class="c99 breakall">- `./test -vo out.png --size 256 input.txt` 같은 GNU 표준을 따르는 명령줄 인자 파서  
 - `-h` 및 `--help`로 내장된 도움말 메시지 제공  
-...</a></div><div class="topicinfo"><span id="tp19959">2</span> points by <a href="/user?id=xguru">xguru</a> 6시간전<span id="unvote19959"></span> | <a href="topic?id=19959&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+...</a></div><div class="topicinfo"><span id="tp19959">2</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote19959"></span> | <a href="topic?id=19959&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[typia (20,000x faster validator) challenges to Agentic AI framework, with its compiler skill]]></title>
         <id>https://news.hada.io/topic?id=19957&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19957&amp;go=comments"/>
         <updated>2025-03-26T01:14:44.277Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19957">&nbsp;</span></div><div class="topictitle"><span id="flagged19957">[flagged] </span><h1>typia (20,000x faster validator) challenges to Agentic AI framework, with its compiler skill</h1> <span class="topicurl">(dev.to)</span></div><div class="topicdesc"><a href="topic?id=19957" class="c99 breakall">- typia 는 TypeScript 컴파일러 API 를 사용하는 runtime validator, 컴파일 타임에 소스 코드를 분석하여 validator, serialized, JSON schema ...</a></div><div class="topicinfo"><span id="tp19957">7</span> points by <a href="/user?id=samchon">samchon</a> 6시간전<span id="unvote19957"></span> | <a href="topic?id=19957&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">4</div><div class="vote"><span id="vote19957">&nbsp;</span></div><div class="topictitle"><span id="flagged19957">[flagged] </span><h1>typia (20,000x faster validator) challenges to Agentic AI framework, with its compiler skill</h1> <span class="topicurl">(dev.to)</span></div><div class="topicdesc"><a href="topic?id=19957" class="c99 breakall">- typia 는 TypeScript 컴파일러 API 를 사용하는 runtime validator, 컴파일 타임에 소스 코드를 분석하여 validator, serialized, JSON schema ...</a></div><div class="topicinfo"><span id="tp19957">7</span> points by <a href="/user?id=samchon">samchon</a> 7시간전<span id="unvote19957"></span> | <a href="topic?id=19957&amp;go=comments" class="u">댓글 1개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: DirectShare - 기기의 파일, 폴더들을 드래그 한번으로 공유하는 도구]]></title>
         <id>https://news.hada.io/topic?id=19954&amp;go=comments</id>
         <link href="https://news.hada.io/topic?id=19954&amp;go=comments"/>
         <updated>2025-03-25T06:23:49.636Z</updated>
-        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19954"><a class="upvote" href="javascript:vote(19954, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19954" rel="nofollow" id="tr5"><h1>Show GN: DirectShare - 기기의 파일, 폴더들을 드래그 한번으로 공유하는 도구</h1></a> <span class="topicurl">(github.com/storycraft)</span></div><div class="topicdesc"><a href="topic?id=19954" class="c99 breakall">가끔 기기의 여러 파일들을 공유해야할 때 클라우드 서비스를 사용하면 업로드로 인해 시간이 많이 걸릴때가 있습니다. 이에 따라 드래그 한번으로...</a></div><div class="topicinfo"><span id="tp19954">6</span> points by <a href="/user?id=storycraft">storycraft</a> 1일전<span id="unvote19954"></span> | <a href="topic?id=19954&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+        <content type="html"><![CDATA[<div class="votenum">5</div><div class="vote"><span id="vote19954"><a class="upvote" href="javascript:vote(19954, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="topic?id=19954" rel="nofollow" id="tr5"><h1>Show GN: DirectShare - 기기의 파일, 폴더들을 드래그 한번으로 공유하는 도구</h1></a> <span class="topicurl">(github.com/storycraft)</span></div><div class="topicdesc"><a href="topic?id=19954" class="c99 breakall">가끔 기기의 여러 파일들을 공유해야할 때 클라우드 서비스를 사용하면 업로드로 인해 시간이 많이 걸릴때가 있습니다. 이에 따라 드래그 한번으로...</a></div><div class="topicinfo"><span id="tp19954">8</span> points by <a href="/user?id=storycraft">storycraft</a> 1일전<span id="unvote19954"></span> | <a href="topic?id=19954&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 바이브 코딩만으로 교육 챗봇 웹사이트 제작.]]></title>
@@ -95,7 +95,7 @@ Sungblab AI는...</a></div><div class="topicinfo"><span id="tp19953">1</span> po
         <link href="https://news.hada.io/topic?id=19936&amp;go=comments"/>
         <updated>2025-03-25T01:15:13.908Z</updated>
         <content type="html"><![CDATA[<div class="votenum">11</div><div class="vote"><span id="vote19936"><a class="upvote" href="javascript:vote(19936, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://www.stdy.blog/vibe-coding-and-the-future-of-developers/" rel="nofollow" id="tr11"><h1>Vibe 코딩과 개발자 종말론, 주니어 개발자의 성장 방향에 대한 생각</h1></a> <span class="topicurl">(stdy.blog)</span></div><div class="topicdesc"><a href="topic?id=19936" class="c99 breakall">- Vibe 코딩이 뜨면서 함께 "이제 개발자는 필요없다" vs "그래도 아직 멀었다" 논쟁도 활발함  
-- 둘 다 일리가 있음. AI 발전 지켜보며, 프로덕...</a></div><div class="topicinfo"><span id="tp19936">25</span> points by <a href="/user?id=spilist2">spilist2</a> 1일전<span id="unvote19936"></span> | <a href="topic?id=19936&amp;go=comments" class="u">댓글 10개</a></div>]]></content>
+- 둘 다 일리가 있음. AI 발전 지켜보며, 프로덕...</a></div><div class="topicinfo"><span id="tp19936">26</span> points by <a href="/user?id=spilist2">spilist2</a> 1일전<span id="unvote19936"></span> | <a href="topic?id=19936&amp;go=comments" class="u">댓글 10개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JEP 467: Markdown 문서 주석]]></title>
@@ -106,7 +106,7 @@ Sungblab AI는...</a></div><div class="topicinfo"><span id="tp19953">1</span> po
 Java의 문서 주석에서 **Markdown 문법**을 지원하여 가독성 향상 및 간결한 문서 작성 유도.  
   
 ## 동기  
-- 기존 JavaDoc은 **H...</a></div><div class="topicinfo"><span id="tp19931">3</span> points by <a href="/user?id=clickin">clickin</a> 2일전<span id="unvote19931"></span> | <a href="topic?id=19931&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+- 기존 JavaDoc은 **H...</a></div><div class="topicinfo"><span id="tp19931">4</span> points by <a href="/user?id=clickin">clickin</a> 2일전<span id="unvote19931"></span> | <a href="topic?id=19931&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Voice-Pro: 이재용 부회장 환영사를 더빙하며 알게된 동시통역의 어려움]]></title>
@@ -122,7 +122,7 @@ Java의 문서 주석에서 **Markdown 문법**을 지원하여 가독성 향상
         <updated>2025-03-24T03:01:25.575Z</updated>
         <content type="html"><![CDATA[<div class="votenum">14</div><div class="vote"><span id="vote19927"><a class="upvote" href="javascript:vote(19927, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://roboco.io/posts/vibe-coding-manual/" rel="nofollow" id="tr14"><h1>Vibe Coding 매뉴얼: AI 지원 개발을 위한 템플릿 (번역)</h1></a> <span class="topicurl">(roboco.io)</span></div><div class="topicdesc"><a href="topic?id=19927" class="c99 breakall">- **Vibe Coding**은 인간이 AI 모델과 협업해 효율적으로 프로젝트를 구축하는 소프트웨어 개발 방식  
 - 세 가지 핵심 기둥으로 구성됨:  
-  -...</a></div><div class="topicinfo"><span id="tp19927">22</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19927"></span> | <a href="topic?id=19927&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
+  -...</a></div><div class="topicinfo"><span id="tp19927">23</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19927"></span> | <a href="topic?id=19927&amp;go=comments" class="u">댓글 3개</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Laravel AI Translator: 더 강력해진 라라벨 기반 (혹은 Crowdin) 프로덕트의 AI 번역 시스템]]></title>
@@ -163,7 +163,7 @@ Java의 문서 주석에서 **Markdown 문법**을 지원하여 가독성 향상
         <link href="https://news.hada.io/topic?id=19915&amp;go=comments"/>
         <updated>2025-03-24T01:17:33.300Z</updated>
         <content type="html"><![CDATA[<div class="votenum">19</div><div class="vote"><span id="vote19915"><a class="upvote" href="javascript:vote(19915, &quot;up&quot;);"><span>▲</span></a></span></div><div class="topictitle"><a href="https://aicode.danvoronov.com/tools/" rel="nofollow" id="tr19"><h1>Code With LLM - AI 지원 개발 도구들 모음</h1></a> <span class="topicurl">(aicode.danvoronov.com)</span></div><div class="topicdesc"><a href="topic?id=19915" class="c99 breakall">- AI 지원 IDE : 개발 도구 이름, 간단한 설명, 변경 로그, 가격, 관련 포럼 링크   
-  - Cursor, Windsurf, PearAI, Copilot, Trae, Fleet, Zed,...</a></div><div class="topicinfo"><span id="tp19915">20</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19915"></span> | <a href="topic?id=19915&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
+  - Cursor, Windsurf, PearAI, Copilot, Trae, Fleet, Zed,...</a></div><div class="topicinfo"><span id="tp19915">21</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote19915"></span> | <a href="topic?id=19915&amp;go=comments" class="u">댓글과 토론</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PDF만 던져주면 끝날줄 알았다 - GPTs RAG 적용 실패기]]></title>
