@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-26T07:17:08.890Z</updated>
+    <updated>2025-03-26T08:22:05.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: velopers: 국내 IT 기업들의 기술 블로그를 한곳에서 모아볼 수 있는 웹사이트]]></title>
+        <id>https://news.hada.io/topic?id=19973</id>
+        <link href="https://news.hada.io/topic?id=19973"/>
+        <updated>2025-03-26T08:21:43.975Z</updated>
+        <content type="html"><![CDATA[sm0514sm]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: DirectShare - 기기의 파일, 폴더들을 드래그 한번으로 공유하는 도구]]></title>
         <id>https://news.hada.io/topic?id=19954</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19821"/>
         <updated>2025-03-18T08:21:43.947Z</updated>
         <content type="html"><![CDATA[shlee0605]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: VSCode extension: Open Storybook – 원하는 Storybook만 빠르게 실행하기]]></title>
-        <id>https://news.hada.io/topic?id=19704</id>
-        <link href="https://news.hada.io/topic?id=19704"/>
-        <updated>2025-03-12T02:53:28.306Z</updated>
-        <content type="html"><![CDATA[guseod24]]></content>
     </entry>
 </feed>
