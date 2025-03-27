@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-27T08:21:37.822Z</updated>
+    <updated>2025-03-27T09:18:39.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=19973"/>
         <updated>2025-03-26T08:21:43.975Z</updated>
         <content type="html"><![CDATA[sm0514sm]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: AI 기반 텍스트 RPG 게임]]></title>
+        <id>https://news.hada.io/topic?id=19993</id>
+        <link href="https://news.hada.io/topic?id=19993"/>
+        <updated>2025-03-27T09:18:18.381Z</updated>
+        <content type="html"><![CDATA[robin]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 쉽고 빠르게 설치할 수 있는 최신 Git 라이브러리, es-git]]></title>
@@ -97,18 +104,18 @@
         <content type="html"><![CDATA[sungchi]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 세로토닌: 마음을 위한 AI]]></title>
-        <id>https://news.hada.io/topic?id=19917</id>
-        <link href="https://news.hada.io/topic?id=19917"/>
-        <updated>2025-03-24T01:17:42.795Z</updated>
-        <content type="html"><![CDATA[luckydaun]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: AI로 번역한 앵귤러 공식 문서]]></title>
         <id>https://news.hada.io/topic?id=19881</id>
         <link href="https://news.hada.io/topic?id=19881"/>
         <updated>2025-03-21T15:17:56.730Z</updated>
         <content type="html"><![CDATA[parallelkim12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 세로토닌: 마음을 위한 AI]]></title>
+        <id>https://news.hada.io/topic?id=19917</id>
+        <link href="https://news.hada.io/topic?id=19917"/>
+        <updated>2025-03-24T01:17:42.795Z</updated>
+        <content type="html"><![CDATA[luckydaun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: kubegraph: 실시간 Kubernetes 시각화 툴]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19843"/>
         <updated>2025-03-19T16:20:42.558Z</updated>
         <content type="html"><![CDATA[parallelkim12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: DeepStrictTypes: 복잡한 TypeScript 타입을 더욱 쉽게 다루기]]></title>
-        <id>https://news.hada.io/topic?id=19731</id>
-        <link href="https://news.hada.io/topic?id=19731"/>
-        <updated>2025-03-13T12:32:29.776Z</updated>
-        <content type="html"><![CDATA[kakasoo]]></content>
     </entry>
 </feed>
