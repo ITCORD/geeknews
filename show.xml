@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-03-27T04:20:04.510Z</updated>
+    <updated>2025-03-27T05:17:17.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=19973"/>
         <updated>2025-03-26T08:21:43.975Z</updated>
         <content type="html"><![CDATA[sm0514sm]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: HieraPlan - 난이도를 평가해서 어려운 작업을 쉽게 바꿔주는 플래너]]></title>
+        <id>https://news.hada.io/topic?id=19990</id>
+        <link href="https://news.hada.io/topic?id=19990"/>
+        <updated>2025-03-27T05:16:55.705Z</updated>
+        <content type="html"><![CDATA[zio9478]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 쉽고 빠르게 설치할 수 있는 최신 Git 라이브러리, es-git]]></title>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[storycraft]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Every TypeScript developer is AI developer]]></title>
-        <id>https://news.hada.io/topic?id=19977</id>
-        <link href="https://news.hada.io/topic?id=19977"/>
-        <updated>2025-03-26T15:18:30.792Z</updated>
-        <content type="html"><![CDATA[samchon]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Laravel AI Translator: 더 강력해진 라라벨 기반 (혹은 Crowdin) 프로덕트의 AI 번역 시스템]]></title>
         <id>https://news.hada.io/topic?id=19926</id>
         <link href="https://news.hada.io/topic?id=19926"/>
         <updated>2025-03-24T03:01:35.470Z</updated>
         <content type="html"><![CDATA[kargnas]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Every TypeScript developer is AI developer]]></title>
+        <id>https://news.hada.io/topic?id=19977</id>
+        <link href="https://news.hada.io/topic?id=19977"/>
+        <updated>2025-03-26T15:18:30.792Z</updated>
+        <content type="html"><![CDATA[samchon]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Voice-Pro: 이재용 부회장 환영사를 더빙하며 알게된 동시통역의 어려움]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19731"/>
         <updated>2025-03-13T12:32:29.776Z</updated>
         <content type="html"><![CDATA[kakasoo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: LLM-free 웹 크롤링 : web-content-extractor]]></title>
-        <id>https://news.hada.io/topic?id=19560</id>
-        <link href="https://news.hada.io/topic?id=19560"/>
-        <updated>2025-03-04T10:18:04.378Z</updated>
-        <content type="html"><![CDATA[sunrabbit]]></content>
     </entry>
 </feed>
