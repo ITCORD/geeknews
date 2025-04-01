@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-01T06:25:13.366Z</updated>
+    <updated>2025-04-01T07:17:55.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.hada.io/topic?id=20075"/>
         <updated>2025-04-01T03:11:13.402Z</updated>
         <content type="html"><![CDATA[filekiwi]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 오늘의AI번역]]></title>
+        <id>https://news.hada.io/topic?id=20082</id>
+        <link href="https://news.hada.io/topic?id=20082"/>
+        <updated>2025-04-01T07:17:34.098Z</updated>
+        <content type="html"><![CDATA[calmlake79]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: sredo.ai - 자연어를 인프라 코드로 변환하는 AI 기반 플랫폼]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19893"/>
         <updated>2025-03-28T03:35:00.368Z</updated>
         <content type="html"><![CDATA[guseod24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: LLM-free 웹 크롤링 : web-content-extractor]]></title>
-        <id>https://news.hada.io/topic?id=19560</id>
-        <link href="https://news.hada.io/topic?id=19560"/>
-        <updated>2025-03-30T08:19:38.636Z</updated>
-        <content type="html"><![CDATA[sunrabbit]]></content>
     </entry>
 </feed>
