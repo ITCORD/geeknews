@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-01T01:23:55.015Z</updated>
+    <updated>2025-04-01T03:11:35.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 파일탐색기에서 우클릭하면 즉시 다운로드 링크가 생성됩니다.- 윈도우앱]]></title>
+        <id>https://news.hada.io/topic?id=20075</id>
+        <link href="https://news.hada.io/topic?id=20075"/>
+        <updated>2025-04-01T03:11:13.402Z</updated>
+        <content type="html"><![CDATA[filekiwi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: sredo.ai - 자연어를 인프라 코드로 변환하는 AI 기반 플랫폼]]></title>
         <id>https://news.hada.io/topic?id=20059</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19560"/>
         <updated>2025-03-30T08:19:38.636Z</updated>
         <content type="html"><![CDATA[sunrabbit]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 바이브 코딩만으로 교육 챗봇 웹사이트 제작.]]></title>
-        <id>https://news.hada.io/topic?id=19953</id>
-        <link href="https://news.hada.io/topic?id=19953"/>
-        <updated>2025-03-28T03:35:00.362Z</updated>
-        <content type="html"><![CDATA[sungblab]]></content>
     </entry>
 </feed>
