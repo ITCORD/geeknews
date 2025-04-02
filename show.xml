@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-02T11:14:24.133Z</updated>
+    <updated>2025-04-02T12:33:35.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: saas-starter-ko: SaaS 웹 서비스를 만들기 위한 Next.js(15) 템플릿]]></title>
+        <id>https://news.hada.io/topic?id=20105</id>
+        <link href="https://news.hada.io/topic?id=20105"/>
+        <updated>2025-04-02T12:33:13.346Z</updated>
+        <content type="html"><![CDATA[kyt0315]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: B급 감성 개발자가 만든 나눔 색칠놀이 앱입니다.]]></title>
         <id>https://news.hada.io/topic?id=20102</id>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[sungchi]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: kubegraph: 실시간 Kubernetes 시각화 툴]]></title>
-        <id>https://news.hada.io/topic?id=19820</id>
-        <link href="https://news.hada.io/topic?id=19820"/>
-        <updated>2025-03-28T03:35:00.369Z</updated>
-        <content type="html"><![CDATA[kuber]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Nash, 단일 HTML 로 동작하는 노트]]></title>
         <id>https://news.hada.io/topic?id=19611</id>
         <link href="https://news.hada.io/topic?id=19611"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[keepworking]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: kubegraph: 실시간 Kubernetes 시각화 툴]]></title>
+        <id>https://news.hada.io/topic?id=19820</id>
+        <link href="https://news.hada.io/topic?id=19820"/>
+        <updated>2025-03-28T03:35:00.369Z</updated>
+        <content type="html"><![CDATA[kuber]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼]]></title>
         <id>https://news.hada.io/topic?id=19648</id>
         <link href="https://news.hada.io/topic?id=19648"/>
         <updated>2025-03-28T03:35:00.373Z</updated>
         <content type="html"><![CDATA[mini4614]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: AI로 번역한 앵귤러 공식 문서]]></title>
-        <id>https://news.hada.io/topic?id=19881</id>
-        <link href="https://news.hada.io/topic?id=19881"/>
-        <updated>2025-03-28T03:35:00.370Z</updated>
-        <content type="html"><![CDATA[parallelkim12]]></content>
     </entry>
 </feed>
