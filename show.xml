@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-02T21:15:50.122Z</updated>
+    <updated>2025-04-02T22:17:09.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[keepworking]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: kubegraph: 실시간 Kubernetes 시각화 툴]]></title>
-        <id>https://news.hada.io/topic?id=19820</id>
-        <link href="https://news.hada.io/topic?id=19820"/>
-        <updated>2025-03-28T03:35:00.369Z</updated>
-        <content type="html"><![CDATA[kuber]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼]]></title>
         <id>https://news.hada.io/topic?id=19648</id>
         <link href="https://news.hada.io/topic?id=19648"/>
         <updated>2025-03-28T03:35:00.373Z</updated>
         <content type="html"><![CDATA[mini4614]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: kubegraph: 실시간 Kubernetes 시각화 툴]]></title>
+        <id>https://news.hada.io/topic?id=19820</id>
+        <link href="https://news.hada.io/topic?id=19820"/>
+        <updated>2025-03-28T03:35:00.369Z</updated>
+        <content type="html"><![CDATA[kuber]]></content>
     </entry>
 </feed>
