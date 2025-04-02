@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-02T13:27:06.189Z</updated>
+    <updated>2025-04-02T14:16:28.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[robin]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: velopers: 국내 IT 기업들의 기술 블로그를 한곳에서 모아볼 수 있는 웹사이트]]></title>
+        <id>https://news.hada.io/topic?id=19973</id>
+        <link href="https://news.hada.io/topic?id=19973"/>
+        <updated>2025-03-28T03:35:00.344Z</updated>
+        <content type="html"><![CDATA[sm0514sm]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: sredo.ai - 자연어를 인프라 코드로 변환하는 AI 기반 플랫폼]]></title>
         <id>https://news.hada.io/topic?id=20059</id>
         <link href="https://news.hada.io/topic?id=20059"/>
@@ -53,13 +60,6 @@
         <link href="https://news.hada.io/topic?id=20061"/>
         <updated>2025-03-31T19:14:31.629Z</updated>
         <content type="html"><![CDATA[azatio]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: velopers: 국내 IT 기업들의 기술 블로그를 한곳에서 모아볼 수 있는 웹사이트]]></title>
-        <id>https://news.hada.io/topic?id=19973</id>
-        <link href="https://news.hada.io/topic?id=19973"/>
-        <updated>2025-03-28T03:35:00.344Z</updated>
-        <content type="html"><![CDATA[sm0514sm]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 미니모: 필요한 기능만 있는 아이폰, 아이패드, 맥 '메모' 앱 (SwiftData vs CoreData)]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[sungchi]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: kubegraph: 실시간 Kubernetes 시각화 툴]]></title>
-        <id>https://news.hada.io/topic?id=19820</id>
-        <link href="https://news.hada.io/topic?id=19820"/>
-        <updated>2025-03-28T03:35:00.369Z</updated>
-        <content type="html"><![CDATA[kuber]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Nash, 단일 HTML 로 동작하는 노트]]></title>
         <id>https://news.hada.io/topic?id=19611</id>
         <link href="https://news.hada.io/topic?id=19611"/>
         <updated>2025-03-28T03:35:00.375Z</updated>
         <content type="html"><![CDATA[keepworking]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: kubegraph: 실시간 Kubernetes 시각화 툴]]></title>
+        <id>https://news.hada.io/topic?id=19820</id>
+        <link href="https://news.hada.io/topic?id=19820"/>
+        <updated>2025-03-28T03:35:00.369Z</updated>
+        <content type="html"><![CDATA[kuber]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼]]></title>
