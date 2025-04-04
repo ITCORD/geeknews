@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-03T23:18:04.650Z</updated>
+    <updated>2025-04-04T01:15:40.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 프론트엔드 개발자를 위해 주목할 만한 글을 모은 뉴스레터]]></title>
+        <id>https://news.hada.io/topic?id=20132</id>
+        <link href="https://news.hada.io/topic?id=20132"/>
+        <updated>2025-04-04T01:15:18.812Z</updated>
+        <content type="html"><![CDATA[pedogunu]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: saas-starter-ko: SaaS 웹 서비스를 만들기 위한 Next.js(15) 템플릿]]></title>
         <id>https://news.hada.io/topic?id=20105</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=19611"/>
         <updated>2025-03-28T03:35:00.375Z</updated>
         <content type="html"><![CDATA[keepworking]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼]]></title>
-        <id>https://news.hada.io/topic?id=19648</id>
-        <link href="https://news.hada.io/topic?id=19648"/>
-        <updated>2025-03-28T03:35:00.373Z</updated>
-        <content type="html"><![CDATA[mini4614]]></content>
     </entry>
 </feed>
