@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-11T15:18:20.082Z</updated>
+    <updated>2025-04-11T16:23:01.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://news.hada.io/topic?id=20278"/>
         <updated>2025-04-11T09:18:09.415Z</updated>
         <content type="html"><![CDATA[gkstkdgus821]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: VSCode용 uv 통합 도구: UV Toolkit]]></title>
+        <id>https://news.hada.io/topic?id=20281</id>
+        <link href="https://news.hada.io/topic?id=20281"/>
+        <updated>2025-04-11T16:22:39.475Z</updated>
+        <content type="html"><![CDATA[the0807]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: GeekNews MCP Server]]></title>
+        <id>https://news.hada.io/topic?id=20280</id>
+        <link href="https://news.hada.io/topic?id=20280"/>
+        <updated>2025-04-11T16:22:39.476Z</updated>
+        <content type="html"><![CDATA[the0807]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Slack을 MCP 클라이언트로 활용하여 업무 자동화]]></title>
@@ -130,19 +144,5 @@
         <link href="https://news.hada.io/topic?id=19804"/>
         <updated>2025-03-28T03:35:00.358Z</updated>
         <content type="html"><![CDATA[laeyoung]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Laravel AI Translator: 더 강력해진 라라벨 기반 (혹은 Crowdin) 프로덕트의 AI 번역 시스템]]></title>
-        <id>https://news.hada.io/topic?id=19926</id>
-        <link href="https://news.hada.io/topic?id=19926"/>
-        <updated>2025-03-28T03:35:00.351Z</updated>
-        <content type="html"><![CDATA[kargnas]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 쉽고 빠르게 설치할 수 있는 최신 Git 라이브러리, es-git]]></title>
-        <id>https://news.hada.io/topic?id=19976</id>
-        <link href="https://news.hada.io/topic?id=19976"/>
-        <updated>2025-03-28T03:35:00.345Z</updated>
-        <content type="html"><![CDATA[raon0211]]></content>
     </entry>
 </feed>
