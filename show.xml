@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-12T23:16:00.118Z</updated>
+    <updated>2025-04-13T02:44:47.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: AI가 생성한 파이썬 코드를 빠르게 추적하기 - pyhunt]]></title>
+        <id>https://news.hada.io/topic?id=20302</id>
+        <link href="https://news.hada.io/topic?id=20302"/>
+        <updated>2025-04-13T02:44:25.801Z</updated>
+        <content type="html"><![CDATA[easydev]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Slack을 MCP 클라이언트로 활용하여 업무 자동화]]></title>
         <id>https://news.hada.io/topic?id=20239</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=20082"/>
         <updated>2025-04-01T07:17:34.098Z</updated>
         <content type="html"><![CDATA[calmlake79]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 가민 스마트워치 데이터를 이용한 AI 분석 챗봇]]></title>
-        <id>https://news.hada.io/topic?id=20124</id>
-        <link href="https://news.hada.io/topic?id=20124"/>
-        <updated>2025-04-03T11:14:56.108Z</updated>
-        <content type="html"><![CDATA[zamoca]]></content>
     </entry>
 </feed>
