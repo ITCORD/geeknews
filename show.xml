@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews ─ Show</title>
-    <updated>2025-04-15T10:19:03.978Z</updated>
+    <updated>2025-04-15T11:14:41.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[kyt0315]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: VSCode용 uv 통합 도구: UV Toolkit]]></title>
+        <id>https://news.hada.io/topic?id=20281</id>
+        <link href="https://news.hada.io/topic?id=20281"/>
+        <updated>2025-04-11T16:22:39.475Z</updated>
+        <content type="html"><![CDATA[the0807]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: 프론트엔드 개발자를 위해 주목할 만한 글을 모은 뉴스레터]]></title>
         <id>https://news.hada.io/topic?id=20132</id>
         <link href="https://news.hada.io/topic?id=20132"/>
@@ -53,13 +60,6 @@
         <link href="https://news.hada.io/topic?id=20253"/>
         <updated>2025-04-10T03:37:05.021Z</updated>
         <content type="html"><![CDATA[zxavi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: VSCode용 uv 통합 도구: UV Toolkit]]></title>
-        <id>https://news.hada.io/topic?id=20281</id>
-        <link href="https://news.hada.io/topic?id=20281"/>
-        <updated>2025-04-11T16:22:39.475Z</updated>
-        <content type="html"><![CDATA[the0807]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: GeekNews MCP Server]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[filekiwi]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: [Unlock Portfolio] 터미널/해킹 게임 형식의 포트폴리오 사이트]]></title>
-        <id>https://news.hada.io/topic?id=20159</id>
-        <link href="https://news.hada.io/topic?id=20159"/>
-        <updated>2025-04-05T16:19:01.649Z</updated>
-        <content type="html"><![CDATA[guseod24]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 미니모: 필요한 기능만 있는 아이폰, 아이패드, 맥 '메모' 앱 (SwiftData vs CoreData)]]></title>
         <id>https://news.hada.io/topic?id=20010</id>
         <link href="https://news.hada.io/topic?id=20010"/>
         <updated>2025-03-28T03:35:00.343Z</updated>
         <content type="html"><![CDATA[plant]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: [Unlock Portfolio] 터미널/해킹 게임 형식의 포트폴리오 사이트]]></title>
+        <id>https://news.hada.io/topic?id=20159</id>
+        <link href="https://news.hada.io/topic?id=20159"/>
+        <updated>2025-04-05T16:19:01.649Z</updated>
+        <content type="html"><![CDATA[guseod24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 커스텀 웨딩 캐릭터 만들기]]></title>
